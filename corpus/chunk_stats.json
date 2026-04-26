@@ -1,0 +1,44 @@
+{
+  "n_docs": 5284,
+  "n_chunks": 17244,
+  "total_tokens": 15547423,
+  "avg_tokens_per_chunk": 901.6,
+  "by_bucket": {
+    "cogitator_bellum": {
+      "chunks": 416,
+      "tokens": 246534
+    },
+    "ic_doctrine": {
+      "chunks": 87,
+      "tokens": 80757
+    },
+    "joint_doctrine": {
+      "chunks": 1352,
+      "tokens": 1265765
+    },
+    "russia_soviet": {
+      "chunks": 4730,
+      "tokens": 4540264
+    },
+    "threat_doctrine": {
+      "chunks": 2109,
+      "tokens": 2127079
+    },
+    "threat_equipment_csis": {
+      "chunks": 387,
+      "tokens": 346132
+    },
+    "threat_equipment_odin": {
+      "chunks": 5668,
+      "tokens": 4629855
+    },
+    "threat_equipment_wikipedia": {
+      "chunks": 2152,
+      "tokens": 1987878
+    },
+    "writing_style": {
+      "chunks": 343,
+      "tokens": 323159
+    }
+  }
+}

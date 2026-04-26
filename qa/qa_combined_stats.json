@@ -1,0 +1,21 @@
+{
+  "total_qa": 490,
+  "by_bucket": {
+    "joint_doctrine": 60,
+    "writing_style": 62,
+    "threat_doctrine": 61,
+    "ic_doctrine": 62,
+    "russia_soviet": 62,
+    "threat_equipment_odin": 57,
+    "threat_equipment_csis": 46,
+    "threat_equipment_wikipedia": 53,
+    "cogitator_bellum": 27
+  },
+  "unique_chunks": 105,
+  "sources": [
+    "qa_output/qa_shard_0000.jsonl",
+    "qa_output/qa_shard_0001.jsonl",
+    "qa_output/keep/qa_smoke_partial.jsonl"
+  ],
+  "generation_method": "Claude Sonnet 4.6"
+}
