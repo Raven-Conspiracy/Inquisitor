@@ -95,3 +95,7 @@ Omnissiah's Cypher Mentor Corpus (2026).
 17,241-chunk doctrinal corpus + 490-pair Claude-generated mentor Q&A.
 https://github.com/omnissiahcypher/mentor-corpus
 ```
+
+## Training
+
+See [`training/README.md`](training/README.md) for SFT instructions. Pre-formatted SFT data is at `sft/sft_chat.jsonl` (490 examples with mentor system prompt + chat template).
