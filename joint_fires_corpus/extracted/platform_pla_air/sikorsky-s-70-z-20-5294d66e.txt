@@ -1,0 +1,108 @@
+The Harbin Z-20 (Chinese: 直-20) is a series of Chinese medium-lift utility helicopter produced by the Harbin Aircraft Industry Group (HAIG). It was first flown on 23 December 2013 and has a maximum takeoff weight in the range of 10 tonnes (22,000 lb). The Z-20 can operate from locations above 4,000 m (13,000 ft) in altitude as well as from the Liaoning aircraft carrier. It is regarded to be comparable in performance to the US-made Sikorsky UH-60 Black Hawk helicopter, of which the civilian Sikorsky S-70C-2 variant has been used by the People's Liberation Army since 1984.
+
+
+== Development ==
+The People's Liberation Army Air Force (PLAAF) has had a requirement for a high-altitude medium utility helicopter that can operate in the mountainous regions in China since the 1980s. In 1984, the PLAAF acquired 24 Sikorsky S-70C-2s with enhanced General Electric T700-701A engines from the US government.
+China was unable to purchase more Sikorsky aircraft following the fallout from the 1989 Tiananmen Square protests that resulted in an EU and US arms embargo. This led to the development of an indigenous so-called "10-tonne helicopter project" that started in 2006, and the Z-20 made its first flight on 23 December 2013.
+Helicopter production in China received a massive boost after the 2008 Sichuan earthquakes highlighted the value of helicopters in humanitarian missions. In addition to the PLAAF, the Z-20 will likely be used by other services in the People's Liberation Army. It could fill the role of a multi-role naval helicopter for the People's Liberation Army Navy (PLAN) that is small enough to be interoperable across all PLAN vessels while still have a full suite of anti-submarine warfare (ASW) capabilities installed.
+The Z-20 has been tested carrying missiles on wing pylons. 
+A stealth Z-20 variant has been indicated under development since 2015. One analyst said China could produce the stealth variant relatively easily because of their access to a modified MH-60 Black Hawk tail section, recovered by Pakistani security forces after a crash during the Bin Laden raid. In May 2021, the concept model of the stealthy Z-20 variant was public revealed. The model displayed a trapezoidal airframe, a shrouded main rotor hub, and an upper-facing ventilation system located on an enlarged tail boom.
+
+
+== Design ==
+
+The Z-20 is based on the 1970s S-70/UH-60 Black Hawk, which China acquired in the 1980s. Pakistan may also have allowed China to examine wreckage from the US special forces Black Hawk abandoned during the assassination of Osama bin Laden on 1 May 2011.
+The helicopter uses fly-by-wire controls and a five-bladed main rotor; the Black Hawk has four blades. The tail-to-fuselage joint frame is more angular than the Black Hawk's, for greater lift, cabin capacity, and endurance. The fairings behind the engine exhausts and on the spine are likely for satellite communications or the BeiDou satellite navigation system. The Z-20 carries multiple defensive countermeasures, including radar warning receivers (RWR) and missile approach warning system (MAWS), and four chaff and flare launchers mounted for 360-degree coverage.
+The Z-20 is believed to be powered by the domestic WZ-10 turboshaft engine providing 1,600 kW (2,100 shp) of power, significantly improved from the engines on the S-70-C2 and is slightly more powerful than the latest iteration of the Black Hawk engine, the GE T700-701D. The Z-20 also incorporates new technologies that reduce weight and improve lift as well as cutting edge de-icing tech on the rotor-blades. These features enable it to conduct operations at altitudes above 4,000 m (13,200 ft). The engine has an emergency thrust of 2,000 kW (2,700 shp). Compared to the S-70-C2, the Z-20 has overall improvements to the speed, service ceiling, range, and payload.
+
+
+== Variants ==
+
+Z-20
+Base transport variant for PLA Army.
+Z-20T Assault Variant
+Armed assault variant featuring stub wings with two hardpoints each for weapons and targeting sensors, used by PLA Army.
+Z-20S
+Search and rescue (SAR) used by People's Liberation Army Air Force. Equipped with FLIR, a searchlight under the fuselage, a hoist above the cabin door, a crash position indicator (CPI) underneath the tail boom, new ECM antennas above the LWR, and essential medical equipment inside the cabin.
+Z-20K
+PLAAF airborne corps variant.
+Z-20KA
+PLAAF airborne corps air assault variant, featuring additional hardpoints for weapons and EO sensors.
+Z-20KS
+PLAAF airborne corps combat search and rescue variant.
+Z-20J
+Naval utility/transport variant.
+Z-20F
+Naval ASW variant. Equipped with surface radar under nose, pylon for torpedoes, dipping sonar underbelly and bubble window for observation.
+Z-20 PAP
+variant for People's Armed Police (PAP).
+Z-21
+A dedicated attack helicopter based on the Z-20 airframe. The Z-21 has a tail section and rotor configuration similar to the Z-20 but with a thinner fuselage. A tandem cockpit replaces the side-by-side seating on the original, and a 23 mm (0.91 in) autocannon is mounted below. A cheek fairing is added for additional ammunition and avionics. A mmW radar is mounted on top of the rotor mast. The engine is rated at 1,790 kW (2,400 shp) with exhaust direction is changed to upward-facing, reducing the infrared signature. Six hard points on the stub wings to provide more firepower than the Changhe Z-10. The helicopter was first observed in China in March 2024.
+
+
+== Operators ==
+ China
+People's Liberation Army Ground Force Aviation – 150 units of Z-20 and 40 units of Z-20T
+People's Liberation Army Naval Air Force – 2+ units of Z-20F and 2+ units Z-20J
+People's Liberation Army Air Force – 30+ units of Z-20S
+Airborne Corps – 6 units of Z-20K
+People's Armed Police
+China Coast Guard
+
+
+== Specifications (Z-20) ==
+
+Data from CN Defense, Popular Mechanics, JanesGeneral characteristics
+Crew: 2
+Capacity: 12-15 passengers, 1,500 kg (3,300 lb) of cargo internally, 4,000 kg (8,800 lb) of cargo externally
+Length: 20 m (65 ft 7 in)
+Height: 5.3 m (17 ft 5 in)
+Empty weight: 5,000 kg (11,023 lb)
+Max takeoff weight: 10,000 kg (22,046 lb)
+Powerplant: 2 × WZ-10 turboshaft engines, 1,600–2,000 kW (2,100–2,700 hp) each 
+Main rotor diameter: × 16 m (52 ft 6 in)
+Performance
+
+Maximum speed: 360 km/h (220 mph, 190 kn)
+Cruise speed: 290 km/h (180 mph, 160 kn)
+Combat range: 560 km (350 mi, 300 nmi)
+Service ceiling: 6,000 m (20,000 ft) (approx.)
+Rate of climb: 7.1 m/s (1,400 ft/min)
+Armament
+
+Guns: Provision for machine guns and autocannons
+Hardpoints: 4 hardpoints on two stub wings , with provisions to carry combinations of:
+Rockets: 
+Various rocket pods
+Missiles: 
+AKD-9 laser-guided air-to-surface missile
+AKD-10 laser-guided air-to-surface missile
+CM-502KG or CM-502V NLOS air-to-surface missile
+CM-501GA NLOS air-to-surface missile
+CM-501XA loitering munition
+TY-90 air-to-air missile
+Avionics
+EO/IR sensors
+
+
+== See also ==
+
+Aircraft of comparable role, configuration, and era
+
+AgustaWestland AW149
+Airbus Helicopters H175
+Airbus Helicopters H225M
+Bell 525 Relentless
+KAI KUH-1 Surion
+Mitsubishi H-60
+NHIndustries NH90
+Sikorsky UH-60 Black Hawk
+
+Related lists
+
+List of active Chinese military aircraft
+List of Chinese aircraft
+List of utility helicopters
+
+
+== References ==

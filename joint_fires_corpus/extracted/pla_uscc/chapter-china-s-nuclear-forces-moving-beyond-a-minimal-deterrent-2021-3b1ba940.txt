@@ -1,0 +1,2662 @@
+(340)
+SECTION 2: CHINA’S NUCLEAR FORCES: 
+MOVING BEYOND A MINIMAL DETERRENT
+Key Findings
+ • The People’s Republic of China (PRC) is carrying out its most 
+substantial effort to expand, modernize, and diversify its nucle-
+ar forces since first acquiring nuclear weapons in the 1960s. The 
+People’s Liberation Army (PLA) is developing a nuclear triad; 
+fielding new, more mobile, and more accurate nuclear weapons 
+systems; and significantly expanding its stockpile of nuclear 
+warheads. The PLA has also enhanced its intelligence, surveil-
+lance, and reconnaissance (ISR) systems.
+ • China’s nuclear buildup puts it on a trajectory to become a nu-
+clear peer of the United States in qualitative terms. Qualitative 
+nuclear parity could entail diversified, reliable, and survivable 
+delivery systems; highly precise missiles; warheads of various 
+yields; robust command and control processes; and sophisticated 
+ISR, all of which enable a truly secure second-strike capability 
+and options for calibrated, offensive nuclear use. Current pub-
+lic projections suggest China could also become a quantitative 
+peer in the number of land-based strategic missiles it deploys 
+by 2030.
+ • Strategic and political forces are driving China’s departure from 
+a minimalist nuclear posture. For most of its modern history, 
+China maintained a small nuclear stockpile mainly suitable for 
+minimal retaliation against an adversary’s nuclear attack. Gen-
+eral Secretary of the Chinese Communist Party (CCP) Xi Jin-
+ping’s ambitions for great power status, combined with military 
+objectives beyond minimal retaliation, have likely motivated the 
+recent buildup of China’s nuclear arsenal.
+ • At minimum, China’s nuclear buildup enhances its current re-
+taliatory strategy by better enabling its nuclear forces to deter 
+or respond in kind to a nuclear attack. Chinese leaders may 
+worry that innovations in other nuclear weapon states have 
+undermined their nuclear deterrent, requiring them to make 
+changes in order to keep up.
+ • The scale of China’s nuclear buildup, however, suggests it could 
+also be intended to support a new strategy of limited nucle-
+ar first use. Such a strategy would enable Chinese leaders to 
+leverage their nuclear forces to accomplish Chinese political 
+objectives beyond survival, such as coercing another state or 
+deterring U.S. intervention in a war over Taiwan.
+ • Uncertainties created by China’s nuclear buildup heighten the 
+risk of an accidental nuclear exchange or unforeseen nuclear 
+escalation during a regional conflict. Specific risks of nuclear es-
+
+341
+calation stem from entanglement between China’s nuclear and 
+conventional capabilities, its desperation to avoid losing a con-
+ventional war in the region, and false alarms that could result 
+from its possible shift to a launch-on-warning posture.
+ • The PLA’s growing arsenal also casts “nuclear shadows” over 
+China’s disputes with its neighbors, many of whom are U.S. al-
+lies and partners. Improved nuclear capabilities could encour -
+age Chinese leaders to coerce or initiate a conventional conflict 
+against U.S. allies or partners in the region if they believe their 
+nuclear capability would deter the United States from inter -
+vening.
+ • China has continued to play a concerning role in the global pro-
+liferation of missile and nuclear technologies, though the man-
+ner in which this proliferation occurs has evolved over time. 
+Whereas two decades ago the Chinese government and state-
+owned enterprises (SOEs) were the main source of missile and 
+nuclear technologies, Chinese companies and private individu-
+als now play a dominant role in the proliferation of such goods 
+to countries of concern. The Chinese government turns a blind 
+eye to, and in some cases tacitly supports, these illicit activities.
+Recommendations
+The Commission recommends:
+ • Congress direct the Administration to conduct an interagency 
+review of any Chinese universities that maintain research or 
+training arrangements with China’s nuclear weapons research 
+institutes, such as the Chinese Academy of Engineering Physics 
+and the Northwest Institute of Nuclear Technology. The review 
+should be led by the U.S. Department of Energy and include 
+the U.S. Departments of Commerce, Treasury, and Defense; the 
+Intelligence Community; and other federal departments and 
+agencies as appropriate. The review would:
+ ○ Assess the impact of such cooperation on China’s nuclear 
+weapons programs and capabilities;
+ ○ Assess whether current U.S. export controls adequately ad-
+dress risks from the transfer and exchange of information 
+and technologies with applications to nuclear research, partic-
+ularly by researchers and departments in relevant academic 
+disciplines at U.S. universities to these Chinese universities;
+ ○ Identify Chinese universities and research institutes that 
+should be added to the Entity List, based on the risks posed 
+by their cooperation with the Chinese Academy of Engineer -
+ing Physics, Northwest Institute of Nuclear Technology, and 
+other Chinese institutions involved in nuclear weapons devel-
+opment, as appropriate;
+ ○ Identify Chinese universities and research institutes that 
+merit a presumption of denial for all export licenses involving 
+items covered by the Export Administration Regulations; and
+ ○ Develop and maintain a list of all academic partnerships in 
+fields with applications to nuclear weapons development en-
+
+342
+tered into between Chinese universities and U.S. universities 
+that receive federal funding for the purpose of determining 
+whether these activities are subject to export controls.
+ • Congress prevent the erosion of U.S. strategic nuclear superior -
+ity and respond to China’s qualitative and quantitative theater 
+nuclear advantages by directing the Administration to continue 
+implementation of the Obama-Trump Program of Record for nu-
+clear modernization.
+ • Congress enact legislation creating an independent bipartisan 
+commission, similar to the Quadrennial Defense Review com-
+missions authorized in the past, to assess the Nuclear Posture 
+Review and advise Congress about whether the current U.S. 
+nuclear posture is sufficient to maintain deterrence against the 
+expanding Chinese and Russian nuclear forces. The Commis-
+sion should:
+ ○ Determine how Russian and Chinese nuclear capabilities 
+have changed between 2010 and 2022;
+ ○ Evaluate whether the current number of U.S.-deployed strate-
+gic weapons is sufficient to deter both Russia and China over 
+the next 20 years; and
+ ○ Identify any further changes required to U.S. force posture, 
+doctrine, and missile defense.
+ • Congress authorize funding for a comprehensive diplomatic 
+strategy on nuclear deterrence and arms control. This compre-
+hensive program would include:
+ ○ Intelligence diplomacy with key allies and partners in the In-
+do-Pacific and in Europe to inform them of developments in 
+China’s nuclear forces;
+ ○ Dialogue to convince these allies and partners to pressure 
+Beijing diplomatically to enter into arms control talks and 
+to explore these partners’ willingness to host U.S. intermedi-
+ate-range forces and other U.S. assets; and
+ ○ Continued efforts to engage both Russia and China in trilat-
+eral arms control talks, including by continuing efforts with 
+Russia to persuade China to enter into arms control discus-
+sions.
+Introduction
+In June 2021, independent researchers analyzing commercial 
+satellite imagery identified the construction of 119 new intercon-
+tinental ballistic missile silos in a desert in northwestern China. 1 
+Their discovery provoked speculation in the expert community and 
+alarmed U.S. officials, who had expressed concerns about China’s 
+opaque nuclear activities for years. U.S. Department of State spokes-
+person Ned Price told reporters the silos reflected China’s growing 
+deviation from its decades-old nuclear strategy of limiting China’s 
+nuclear forces to the “minimum” size required for deterring a nucle-
+ar attack.2 “These reports and other developments suggest that the 
+PRC’s nuclear arsenal will grow more quickly, and to a higher level 
+than perhaps previously anticipated,” Mr. Price said. 3
+
+343
+Concerns about the silos followed remarks by numerous U.S. of-
+ficials in recent years about the pace, scale, and nature of ongoing 
+changes to China’s nuclear arsenal. Then director of the Defense 
+Intelligence Agency Lieutenant General Robert Ashley told an au-
+dience at the Hudson Institute in 2019 that China would at least 
+double its nuclear warhead stockpile “in the course of implementing 
+the most rapid expansion and diversification of its nuclear arsenal 
+in China’s history.” 4 Admiral Charles A. Richard, commander of U.S. 
+Strategic Command, told the House Armed Services Subcommittee 
+on Strategic Forces in April 2021 that Chinese leaders are engaged 
+in a “breathtaking expansion” of their country’s nuclear capabilities 
+that will “backstop their conventional capability and will potentially 
+constrain our options.” 5 Their statements underscore the potential 
+for China’s nuclear buildup to presage an arms race and embolden 
+Chinese conventional aggression toward U.S. allies. Considered to-
+gether with a nuclear-armed Russia, China’s nuclear forces may also 
+pose a more complex strategic challenge to the United States than 
+U.S. military planners have previously assumed.
+This section assesses the ongoing transformation of China’s nu-
+clear arsenal as well as China’s role as a supplier of nuclear and 
+missile technologies to countries of proliferation concern. First, the 
+section examines the modernization, expansion, and diversification 
+of China’s nuclear arsenal. Next, it explores competing interpreta-
+tions of the purpose for which Chinese leaders are building a larger 
+and more capable arsenal: to bolster their retaliatory capability in 
+line with declared strategy or to pursue a new, more ambitious nu-
+clear strategy that threatens or uses nuclear weapons to accomplish 
+China’s regional objectives. It then discusses ambiguity in Chinese 
+nuclear doctrine and several scenarios in which China could either 
+inadvertently or intentionally escalate to the threat or use of nucle-
+ar weapons during a conflict in the Indo-Pacific region. Finally, the 
+section surveys the role of China-based companies and individuals 
+in the proliferation of dual-use items with nuclear and missile ap-
+plications to countries like Iran and Pakistan. This section is based 
+on the Commission’s June 2021 hearing on the topic as well as open 
+source research and analysis.
+China’s Official Stance on Nuclear Weapons
+China’s official discourse about the strategy and policy behind its 
+nuclear weapons has remained consistent since the country deto-
+nated its first atomic device in October 1964. Chinese leaders pub-
+licly adhere to a nuclear strategy focused on deterring nuclear use 
+against China, insist that they maintain the “minimum” number of 
+nuclear weapons required for deterrence, and assert a “no-first-use” 
+policy.
+China’s declared “self-defensive nuclear strategy” achieves deter-
+rence by maintaining the means to survive and credibly retaliate 
+against an enemy’s nuclear first strike, a strategy some scholars 
+have described as one of “assured retaliation.”  * 6 Chinese leaders’ 
+* China’s 2006 defense white paper stated that China pursues a “self-defensive nuclear strat-
+egy,” and subsequent white papers have repeated this formulation. Western scholars have vari-
+ously characterized China’s nuclear strategy as one of “existential deterrence,” “limited nuclear 
+retaliation,” or “assured retaliation,” making use of U.S. and European concepts of strategic deter-
+rence to differing extents. By contrast, some Chinese scholars have argued that China’s nuclear 
+
+344
+distinctive views about the utility of nuclear weapons and their per -
+sonal experience of nuclear coercion influenced the development of 
+this strategy in the early 1960s. 7 CCP Chairman Mao Zedong’s fa-
+mous remark that “the atomic bomb is only a paper tiger” reflected 
+his belief that future wars would remain conventional because nu-
+clear weapons were too destructive to actually be used in a situation 
+where two nuclear-armed states had achieved mutual vulnerability.8 
+At the same time, Chairman Mao recognized that nuclear weapons 
+could also be used against nonnuclear weapon states to blackmail 
+them or inflict substantial damage in a war. 9 In the face of repeated 
+U.S. and Soviet threats to use nuclear weapons when tensions arose 
+over conflicts in the 1950s and 1960s, Chairman Mao and his fellow 
+CCP leaders concluded that acquiring enough nuclear weapons to 
+deter nuclear coercion and aggression was a “destiny-determining 
+matter” for the nation.10
+Subsequent Chinese leaders, defense white papers, and textbooks 
+published by Chinese military academies have continually affirmed 
+that China’s nuclear strategy is purely “defensive” and aims only to 
+establish a secure second-strike capability.* 11 Accordingly, the authori-
+tative Science of Military Strategy describes only one campaign involv-
+ing the use of nuclear weapons, a “nuclear counterstrike campaign” 
+to be carried out against an adversary’s cities after China absorbs a 
+nuclear attack.12 China’s historical focus on targeting an adversary’s 
+cities (known as “countervalue” targeting) made sense partly because 
+it required considerably less sophisticated technology than did the 
+U.S. and Soviet strategies of targeting an adversary’s nuclear forces 
+and military infrastructure (known as “counterforce” targeting).†
+Another important element of China’s declared nuclear strategy 
+is its focus on limiting China’s nuclear forces to the “minimum” size 
+required to deter nuclear coercion or attack. The PRC’s early leaders 
+stressed that even a small number of nuclear weapons could create 
+a deterrent effect and that scarce financial resources should not be 
+wasted on the development of excess nuclear weapons. 13 China sim-
+ply needed what PLA Marshal Nie Rongzhen termed “the minimum 
+strategy is best understood as one uniquely shaped by the country’s own strategic traditions, 
+such as the thought of Chinese military strategist Sunzi and early PRC leaders’ decades of ex-
+perience fighting revolutionary guerilla war. See, for example, Eric Heginbotham et al., “China’s 
+Evolving Nuclear Deterrent: Major Drivers and Issues for the United States,” RAND Corpora-
+tion, 2017, 17; Xu Weidi, “China’s Security Environment and the Role of Nuclear Weapons,” in 
+Li Bin and Tong Zhao, eds., Understanding Chinese Nuclear Thinking, Carnegie Endowment for 
+International Peace, 2016, 20; State Council Information Office of the People’s Republic of China, 
+China’s Military Strategy (中国的军事战略), May 2015. Translation; M. Taylor Fravel and Evan 
+S. Medeiros, “China’s Search for Assured Retaliation,” International Security 35:2 (Fall 2010): 
+50–51, 63; State Council Information Office of the People’s Republic of China, China’s National 
+Defense in 2008 (2008年中国的国防), January 2009. Translation; State Council Information Office 
+of the People’s Republic of China, China’s National Defense in 2006 (2006年中国的国防), December 
+2006. Translation; John Wilson Lewis and Xue Litai, China Builds the Bomb, Stanford University 
+Press, 1988, 216.
+* A secure second-strike capability is the ability of a nuclear state, after being struck by a 
+nuclear attack, to strike back with nuclear weapons and cause massive damage to the adversary. 
+Theorists of nuclear deterrence generally believe that nuclear states must have such a capability, 
+and make their adversaries believe that capability is credible, in order to deter their adversaries 
+from attempting to gain military advantage through a disarming first strike.
+† Counterforce and countervalue targeting are generally associated with nuclear warfare and 
+refer to the use of nuclear weapons against an enemy that possesses nuclear weapons. Counter -
+force involves striking an opponent’s nuclear forces and military infrastructure in order to de-
+grade its war-making capacity, whereas countervalue involves striking an opponent’s population, 
+society, industrial base, economy, or other valuable target in order to degrade its will to escalate 
+or persist in prosecuting a war. However, some states use advanced conventional weapons to carry 
+out counterforce and countervalue strikes.
+
+345
+means of reprisal,” which could be launched days or even weeks after 
+China absorbed an adversary’s nuclear attack. 14 Political guidance 
+to restrain the arsenal endured over the following decades in official 
+statements and documents. China’s 2002 defense white paper de-
+clared that the country’s nuclear arsenal is “kept at the lowest lev-
+el necessary for self-defense only,” while defense white papers from 
+2006 onward described China’s nuclear forces as “lean and effec-
+tive.” * 15 As recently as June 2021, Chinese Foreign Minister Wang 
+Yi asserted that China limits its nuclear arsenal to “the minimum 
+level required for national security” and “does not compete with any 
+other country in the size or scale of nuclear force[s].”  16
+Finally, China’s public stance on nuclear weapons is defined by 
+its longstanding no-first-use policy and negative security assuranc-
+es.† After successfully conducting the country’s first nuclear test 
+on October 16, 1964, the Chinese government pledged in a public 
+statement that “China will never at any time and under any circum-
+stances be the first to use nuclear weapons.”  ‡ 17 China also issued 
+assurances at the UN in 1978 and 1995 that it would never use or 
+threaten to use nuclear weapons against nonnuclear weapon states 
+or nuclear-weapon-free zones. 18 Chinese officials have also often 
+promised never to engage in arms races and expressed their aspi-
+ration for a future in which all nuclear weapon states totally dis-
+arm, though they refuse to participate in talks about arms control 
+or reduction. 19 The Chinese government continues to affirm these 
+elements in its defense white papers, authoritative military texts, 
+press conferences, and speeches at international organizations. 20
+Provocative remarks by Chinese generals have occasionally con-
+tradicted this narrative. In 1995, General Xiong Guangkai implicitly 
+threatened to use nuclear weapons against Los Angeles if the Unit-
+ed States defended Taiwan in a conflict. 21 Similarly, Major General 
+Zhu Chenghu said in 2005 that China should use nuclear weapons 
+against the United States if the U.S. military intervenes in a conflict 
+over Taiwan.22
+* According to retired PLA Major General Yao Yunzhu, keeping the arsenal “lean” means ex-
+ercising “restraint” in the overall number of nuclear weapons China develops, while keeping it 
+“effective” means ensuring China’s arsenal is modern and robust enough to ensure a retaliatory 
+second strike. The “lean and effective” concept neither imposes specific numerical limits on Chi-
+na’s nuclear arsenal nor dictates a specific threshold of destruction the adversary should sustain, 
+though the 2013 edition of the authoritative military text Science of Military Strategy notes 
+such destruction should be “unbearable.” Yao Yunzhu quoted in Eric Heginbotham et al., “China’s 
+Evolving Nuclear Deterrent: Major Drivers and Issues for the United States,” RAND Corpora-
+tion, 2017, 20; Shou Xiaosong, ed., The Science of Military Strategy (战略学), Military Science 
+Press, 2013, 172. Translation; David C. Gompert and Phillip C. Saunders, The Paradox of Power: 
+Sino-American Strategic Restraint in an Age of Vulnerability, National Defense University Press, 
+2011, 53; Yao Yunzhu, “Chinese Nuclear Policy and the Future of Minimum Deterrence,” Strategic 
+Insights 4:9 (September 2005): 4.
+† In the context of nuclear warfare, “negative security assurances” and “positive security as-
+surances” are statements by nuclear powers intended to reassure nonnuclear weapon states that 
+they will not be the victims of a nuclear attack. A negative security assurance is a declaration 
+that a country will not use nuclear weapons against a nonnuclear weapon state. A positive secu-
+rity assurance is one in which a nuclear weapon state pledges it will come to the aid of a nonnu-
+clear weapon state if that state is the victim of a nuclear attack. All five of the nuclear weapon 
+states recognized in the Treaty on the Non-Proliferation of Nuclear Weapons have issued negative 
+security assurances, which the UN Security Council recognized in Resolution 984 in 1995. These 
+pledges are nonbinding, however, and some nuclear weapon states reserve the right to use nu-
+clear weapons against nonnuclear weapon states under certain conditions. Arms Control Associa-
+tion, “Nuclear Declaratory Policy and Negative Security Assurances,” March 2018; Nuclear Threat 
+Initiative, “Negative Security Assurances (NSAs) and Positive Security Assurances (PSAs),” 2003.
+‡ China is the only nuclear weapon state recognized under the Treaty on the Non-Proliferation 
+of Nuclear Weapons that maintains an unconditional no-first-use policy. Ankit Panda, “ ‘No First 
+Use’ and Nuclear Weapons,” Council on Foreign Relations, July 17, 2018.
+
+346
+Why China Has Shunned Arms Control Negotiations
+Chinese leaders have long been skeptical about nuclear arms 
+control on the grounds that it is a “trap” intended to undermine 
+China’s nuclear deterrent and “lock in” the superpowers’ nuclear 
+advantages.23 Whereas U.S. experts believe transparency about 
+nuclear capabilities and behavior enhances strategic stability * by 
+increasing predictability among nuclear powers, Chinese experts 
+believe “transparency is a tool of the strong to be used against the 
+weak.” 24 As a result, China has divulged few details about the 
+capabilities of its nuclear forces and shunned the efforts of every 
+post-Cold War U.S. president to involve it in arms control mech-
+anisms.25 Chinese officials at the same time decried the United 
+States’ withdrawal from the Intermediate-Range Nuclear Forces 
+(INF) Treaty in 2019 as a ruse to “free its hand and develop its 
+missile capabilities” in East Asia. 26 They also rejected calls by 
+the United States and Japan to join proposed negotiations about 
+a multilateral INF Treaty, arguing the United States should fur -
+ther slash its own nuclear stockpile rather than shift its arms 
+control “duties” to other countries. 27 Similarly, China’s Foreign 
+Ministry spokesperson Wang Wenbin rebuffed U.S. calls for Chi-
+na to join a trilateral arms control framework after the United 
+States and Russia extended the New START Treaty in February 
+2021.28 Noting the “order-of-magnitude difference” between the 
+Chinese arsenal and those of the United States and Russia, he 
+emphasized that China “firmly reject[s] the groundless allegation 
+and vilification from the U.S. side.” 29
+Strategic and Political Rationales for China’s Nuclear Buildup
+Major developments in China’s security environment and inter -
+national status have provided its leaders strong rationales for its 
+nuclear buildup, raising the question of whether Chinese leaders’ 
+public statements concerning the use of nuclear weapons reflect 
+their true position on the issue. Chinese leaders may be responding 
+to these rationales by redefining the requirements of their current 
+nuclear strategy and no-first-use policy. Chinese leaders also may be 
+reacting with an undeclared departure from their nuclear strategy 
+of assured retaliation to one that wields nuclear weapons to accom-
+plish the country’s political objectives in the region.
+China’s insistence that its stance on nuclear weapons has not 
+changed over nearly six decades is notable given major develop-
+ments in China’s strategic environment, which Chinese scholars 
+and strategists have argued necessitate a buildup of the country’s 
+nuclear arsenal. U.S. advancements in precision-guided convention-
+al weapons, ballistic missile defense, and ISR since the 1990s have 
+* “Strategic stability” has many definitions, but at the broadest level it refers to the absence of 
+armed conflict between nuclear-armed states. Other definitions include the ideas that: in a time 
+of crisis, there is no incentive to be the first to use military force of any type, nuclear or otherwise 
+(also known as “crisis stability”); in a crisis or conventional conflict, there is no incentive to be the 
+first to use nuclear weapons (“first strike stability”); and neither side believes it can improve its 
+relative position by building more weapons (“arms race stability”). Linton F. Brooks, “Perceptions 
+of Sino-American Strategic Stability: A U.S. View,” Carnegie Endowment for International Peace, 
+November 7, 2017.
+
+347
+exacerbated longstanding concerns within China that its retaliatory 
+capability is too vulnerable. 30 China’s “nuclear neighborhood” has 
+grown more complex with Russia’s nuclear modernization, the emer-
+gence of Pakistan and India as nuclear powers, and North Korea’s 
+development of nuclear and missile capabilities. 31 Despite the ap-
+parent comity between the two countries, Russia’s deployment of 
+low-yield nuclear weapons to its Far East, ongoing missile defense 
+efforts, and modernization of its already formidable arsenal chal-
+lenge the survivability of China’s nuclear deterrent. 32 Continued 
+border tensions with India, a neighboring nuclear power,* under -
+score the potential for escalation to nuclear use in a crisis, though 
+Chinese analysts remain dismissive of that possibility and of Indian 
+nuclear capabilities in general. 33
+China’s static public stance on nuclear weapons also stands in 
+contrast to recent official remarks that highlight nuclear weapons’ 
+contribution to China’s great power status and broader security in-
+terests. In a 2016 speech at PLA Rocket Force headquarters, General 
+Secretary Xi described the newly elevated service † that oversees the 
+country’s land-based missiles as “the strategic support of our coun-
+try’s status as a major power,” suggesting the Chinese leadership 
+views nuclear weapons as an important element of China’s interna-
+tional prestige.34 PLA Rocket Force officers and a political commis-
+sar have argued nuclear weapons enable China to deter adversaries 
+from threatening the country’s “sovereignty,” “core interests,” and 
+“development interests” in addition to “fulfill[ing] the state’s polit-
+ical and diplomatic objectives,” aims more expansive than simply 
+deterring nuclear attacks against China. 35 Chinese leaders have 
+readily leveraged their growing conventional capabilities to advance 
+their interests in regional territorial disputes, raising the question 
+of whether they might see the threat or use of nuclear weapons as 
+appropriate means to supplement conventional methods.
+China Modernizes, Diversifies, and Expands the Nuclear 
+Forces
+China’s unchanging public stance on nuclear weapons raises 
+questions in light of the significant and observable transformation 
+of China’s nuclear posture ‡ underway today.§ This effort involves 
+* India has a stockpile of around 150 nuclear warheads and currently operates eight types of 
+nuclear-capable delivery systems: two types of aircraft, four land-based ballistic missile systems, 
+and two sea-launched ballistic missile systems. At least three more systems are in development 
+and will soon be combat ready. India’s nuclear-capable aircraft and land-based missiles provide 
+a mix of strike options against China, but its current sea-launched ballistic missiles cannot yet 
+range China’s east coast. Indian nuclear capabilities are not as robust or sophisticated as Chinese 
+nuclear capabilities. Hans M. Kristensen and Matt Korda, “Indian Nuclear Forces, 2020,” Nuclear 
+Notebook, July 20, 2020; Alex Lockie, “We Ranked the World’s Nuclear Arsenals — Here’s Why 
+China’s Came Out on Top,” Business Insider, January 25, 2019.
+† During military reforms announced in December 2015, the PLA Second Artillery Force was 
+renamed the PLA Rocket Force and elevated from a military branch to a military service. Like 
+its predecessor, the PLA Rocket Force oversees China’s land-based missile force. It is responsible 
+for nuclear and conventional deterrence and strike missions. Michael S. Chase, written testimony 
+before the U.S.-China Economic and Security Review Commission, Hearing on China’s Military 
+Reforms and Modernization: Implications for the United States, February 15, 2018, 1.
+‡ A state’s nuclear posture encompasses its nuclear forces’ size, structure, capabilities, and read-
+iness.
+§ According to Mr. Hans Kristensen, director of the Nuclear Information Project at the Federa-
+tion of American Scientists, the modernization of China’s nuclear forces has occurred in phases. 
+The first phase, which occurred in the 1960s and 1970s, introduced bombers and liquid-fuel 
+moveable medium-range ballistic missiles (the DF-1, DF-2, and DF-3). The second phase, which 
+occurred in the 1980s and 1990s, introduced longer-range liquid-fuel moveable and silo-based 
+
+348
+developing a viable nuclear triad;  * improving the mobility, accu-
+racy, and penetration of deployed weapons systems; and signifi-
+cantly expanding the country’s stockpile of nuclear warheads. The 
+PLA is also working to build up its nuclear command, control, and 
+communications (NC3) system, which includes improved ISR capa-
+bilities that enable future missions such as rudimentary strategic 
+early warning and ballistic missile defense. As a result, the size 
+and capabilities of China’s nuclear forces will soon clearly exceed 
+those required for the minimum and purely retaliatory deterrent 
+it claims to have.
+If these improvements continue apace, China could become a 
+qualitative nuclear peer of the United States in around a decade, 
+with a similarly diversified, precise, and survivable force.† 36 Such a 
+force will give China a truly secure second-strike capability as well 
+as options for highly calibrated nuclear use, be that in the context 
+of retaliation or first use. China could even become a quantitative 
+nuclear peer if current projections for the growth of its land-based 
+strategic missile forces bear out. 37
+China’s Nascent Nuclear Triad
+For most of its history, China’s strategic nuclear forces ‡ were land 
+based and composed of high-yield, “city-busting” warheads mount-
+ed atop imprecise missiles. 38 Today, the Chinese nuclear forces are 
+making significant if uneven progress toward a nuclear triad com-
+posed of submarine-launched ballistic missiles (SLBMs), land-based 
+intercontinental ballistic missiles (ICBMs), and nuclear bombers. 
+Many of its new sea-based and land-based weapons systems are lon-
+ger range and more accurate than earlier generations, innovations 
+that expand the number of targets within the PLA’s reach and give 
+it new options to calibrate the level of damage inflicted on adversary 
+targets. China is also developing new technologies that will improve 
+intercontinental ballistic missiles that put almost all of the United States in range. The second 
+phase also included the first solid-fuel, road-mobile medium-range ballistic missile (the DF-21) 
+and an experimental nuclear-powered ballistic missile submarine (the Type 092). The third phase, 
+which occurred in the first decade and a half of the 2000s, introduced solid-fuel, road-mobile 
+intercontinental ballistic missiles (the DF-31A), an upgrade to the liquid-fuel intercontinental 
+ballistic missiles (the DF-5B) with multiple independently targetable warheads, and a small fleet 
+of SSBNs (the Type 094). The fourth and current phase is ongoing. Hans M. Kristensen, written 
+testimony for the U.S.-China Economic and Security Review Commission, Hearing on China’s 
+Nuclear Forces, June 10, 2021, 1–2.
+* A nuclear triad is a tripartite nuclear force structure consisting of land-, sea-, and air-
+based capabilities. Nuclear missiles can be launched from platforms such as ground-based silos, 
+road-mobile launchers, and submarines. Strategic aircraft can drop nuclear bombs and launch 
+nuclear missiles.
+† Brad Roberts, director of the Center for Global Security Research at Lawrence Livermore 
+National Laboratory, told Commission staff in an email that he expected China to become a qual-
+itative nuclear peer of the United States sometime during the decade 2030 to 2040. Brad Roberts, 
+Director of the Center for Global Security Research at Lawrence Livermore National Laboratory, 
+interview with Commission staff, August 27, 2021.
+‡ “Strategic” nuclear forces refer to intercontinental-range missile systems armed with high-
+yield warheads; historically, these were intended for use against an adversary’s major urban and 
+industrial centers. The New START Treaty signed by the United States and Russia defined the 
+range of strategic missiles as greater than 5,500 kilometers. “Non-strategic” forces encompass 
+missiles with ranges of less than 5,500 kilometers, potentially including short-, medium- and 
+intermediate-range delivery systems. Medium- and intermediate-range delivery systems are often 
+associated with China’s “regional” nuclear force. Separately, “tactical” warheads are a subset of 
+“non-strategic” weapons intended for use on the battlefield in close proximity to friendly forces; 
+they have relatively low explosive power and are carried by very short-range delivery systems 
+of 1,000 kilometers or less. Philip C. Saunders and David C. Logan, “China’s Regional Nuclear 
+Capability,” in James M. Smith and Paul J. Bolt, eds. China’s Strategic Arsenal, Georgetown Uni-
+versity Press, 2021, 126–127; Arms Control Association, “The Intermediate-Range Nuclear Forces 
+(INF) Treaty at a Glance,” August 2019.
+
+349
+its ability to counter other countries’ ISR, ballistic missile defense, 
+and precision-strike systems. These include multiple independently 
+targetable reentry vehicles (MIRVs), maneuverable reentry vehi-
+cles, decoys, chaff, jamming, and hypersonic glide vehicles.* 39 Chi-
+na’s strategic forces are complemented by the PLA’s growing arsenal 
+of medium- and intermediate-range ballistic missiles (MRBMs and 
+IRBMs) that can deliver nuclear warheads throughout the Indo-Pa-
+cific region.40
+China’s Nuclear Submarines Become a Credible Deterrent Force
+China’s nuclear-powered ballistic missile submarine (SSBN) fleet 
+now constitutes what the U.S. Department of Defense (DOD) de-
+scribes as a “credible” sea-based nuclear deterrent after more than 
+six decades of incremental progress and development. 41 Before its 
+first Jin-class (Type 094) SSBN entered service in 2014, the PLA 
+Navy had since the 1980s operated a sole Xia-class (Type 092) 
+SSBN that undertook a single patrol and reportedly never sailed 
+beyond Chinese waters. 42 Today, China has four operational Type 
+094 SSBNs based on Hainan Island and two more in the process 
+of being outfitted. 43 Each Type 094 carries up to 12 JL-2 nucle-
+ar SLBMs, designed to be equipped with a single warhead each. 44 
+DOD’s annual reports on China’s military capabilities, as well as 
+other U.S. government sources, suggest China’s Type 094 SSBNs 
+have conducted “deterrence patrols” since at least 2016, though it 
+remains unclear whether these patrols occur with nuclear warheads 
+mated to the missiles on board. 45
+China is constructing a follow-on SSBN, the Type 096, that will 
+enter service in the mid-2020s and improve on the Type 094’s noisy 
+design and limited range. 46 The Type 094 is much louder than the 
+top Russian or U.S. SSBNs, making it easily detectable and vul-
+nerable to adversaries’ anti-submarine warfare capabilities.47 More-
+over, the JL-2 has a range of approximately 7,200 kilometers, which 
+is sufficient to target Alaska, Guam, and Hawaii from waters near 
+China but unable to reach the continental United States unless the 
+submarine operates in the Western Pacific. 48 To reach Washington, 
+DC, a Type 094 carrying the JL-2 would need to operate in waters 
+north and east of Hawaii. 49 China will equip the Type 096 with the 
+JL-3, an SLBM capable of striking targets at a range of more than 
+9,000 kilometers.50 The Type 096 would allow China to target north-
+western parts of the continental United States from the Bohai Sea 
+and to hold Washington, DC, at risk if the submarines sail north-
+east of Japan. 51 The Type 096 could carry between 12 and 16 JL-3 
+SLBMs, and it is unclear at present if the JL-3s will be MIRVed. 52
+The PLA Navy exhibits conventional-nuclear “entanglement”  † to 
+the extent that it uses the same shore-based, very-low-frequency 
+* MIRV technology enables a single missile to carry a payload of multiple warheads, each of 
+which can be programmed to hit a different target. Maneuverable reentry vehicle technology 
+enables the warhead on a ballistic missile to track and home in on ground targets. Chaff refers 
+to clouds of tiny metallic strips that aircraft or rockets can release in flight that appear as sep-
+arate targets to an enemy’s radar and confuse a missile sent to intercept it. A hypersonic glide 
+vehicle is a maneuverable glide vehicle that is fired into space by rockets or a ballistic missile 
+and then released to glide to its target along the upper atmosphere. Hypersonic glide vehicles fly 
+at a lower altitude than ballistic missiles and can change their intended target and trajectory 
+repeatedly during their flight.
+† Geographic entanglement occurs when a state’s conventional and nuclear forces are located 
+in the same space, such as when the forces are garrisoned together during peacetime or when 
+
+350
+transmitters to communicate with both its conventional attack sub-
+marines and its SSBNs.53 This means any effort by an adversary to 
+disrupt communications between a PLA theater command and at-sea 
+conventional attack submarines during a war could risk nuclear es-
+calation by cutting off communications with the nuclear submarines.
+Land-Based Missiles Remain Central to China’s Nuclear Posture
+China’s land-based ballistic missile force is the backbone of its 
+nuclear deterrent and is undergoing a dramatic expansion. The PLA 
+Rocket Force operates China’s ICBMs for strategic deterrence mis-
+sions and a variety of shorter-range ballistic missiles for regional 
+deterrence missions. Up to half of the PLA Rocket Force’s 40 missile 
+brigades * may be nuclear capable.54 The brigades operating China’s 
+nuclear missiles are dispersed at many locations across the coun-
+try and assigned to six bases;  † a seventh base located in Shaanxi 
+Province is responsible for storing and handling most of the force’s 
+nuclear warheads.55
+China’s Strategic Missiles
+The ICBM force is reducing its vulnerability to an adversary’s 
+surprise attack by transitioning from liquid-fuel missiles to a com-
+bination of solid-fuel silo-based missiles and road-mobile missiles.‡ 
+There are currently about 100 ICBMs in the PLA Rocket Force’s ar -
+senal that could be assigned to various targets in the United States, 
+Russia, and India.56 These systems currently include the liquid-fuel, 
+roll-out-to-launch DF-4 (range of 5,500 kilometers); the liquid-fuel, 
+silo-based DF-5 (range of 13,000 kilometers), which has two MIRVed 
+variants; and the solid-fuel, road-mobile DF-31, DF-31A, and DF-
+31AG (ranges varying from 7,000 to 12,000 kilometers). 57 A new 
+solid-fuel, road-mobile, MIRV-capable ICBM known as the DF-41 
+(range of 14,000–15,000 kilometers) became operational in 2020 
+and has been integrated into at least two brigades. 58 DOD assess-
+they operate in the same areas during a crisis or wartime. Operational entanglement occurs 
+when conventional and nuclear forces are operated by or rely on the same military institutions 
+or practices, such as when these forces share personnel, command and control structures, mission 
+sets, or maintenance and logistics infrastructure. Technological entanglement occurs when the de-
+livery systems of conventional and nuclear forces are identical or indistinguishable, as is the case 
+with dual-capable weapons or weapons that have both conventional and nuclear variants. David 
+Logan, “Are They Reading Schelling in Beijing? The Dimensions, Drivers, and Risks of Nucle-
+ar-Conventional Entanglement in China,” forthcoming in Journal of Strategic Studies, 2020, 5–6.
+* The PLA Rocket Force has added ten brigades or more, an increase of more than one-third 
+since 2017. Ma Xiu and Peter W. Singer, “What Do We Know about China’s Newest Missiles?” 
+Defense One, March 19, 2021.
+† PLA Rocket Force “bases” are sometimes referred to as “armies” and are responsible for differ-
+ent geographic regions in China. PLA Rocket Force brigades are assigned to bases numbered 61 
+through 66; an additional base, Base 67, stores the nuclear warheads. Each base may supervise 
+between four and seven brigades, and each brigade encompasses thousands of personnel. The 
+structure of brigades varies depending on whether they operate conventional missiles, mobile 
+nuclear missiles, or fixed site (silo-based or cave-rollout-to-launch-site) nuclear missiles. Conven-
+tional brigades may have up to 36 launchers with as many as six missiles per launcher (enabling 
+up to five reloads). Mobile nuclear brigades may have between six and 12 missile launchers 
+per brigade, while fixed site nuclear brigades may have six or fewer launchers (silos or roll-out 
+sites) per brigade. Christopher J. Mihal, “Understanding the People’s Liberation Army Rocket 
+Force: Strategy, Armament, and Disposition,” Military Review, July–August 2021; Decker Ever -
+leth, “Mapping the People’s Liberation Army Rocket Force,” A Boy and His Blog, July 2, 2020; 
+David Logan, “Making Sense of China’s Missiles Forces,” in Phillip C. Saunders, Arthur S. Ding, 
+and Andrew Scobell, eds., Chairman Xi Remakes the PLA: Assessing Chinese Military Reforms, 
+National Defense University Press, 2019, 403–404.
+‡ By transitioning to solid-fuel missiles, China is improving the survivability and safety of its 
+ICBM force. Liquid-fuel ICBMs are vulnerable to attack because they take more time to fuel 
+before launch; liquid fuel is also dangerous to handle because it is toxic and corrosive.
+
+351
+es that the DF-41 could also have silo-based and rail-based launch 
+options.59
+Due to increases in China’s arsenal of ICBM missiles, launchers 
+assigned to its ICBM brigades, and MIRV technology, the number 
+of warheads that can be mounted on ICBMs threatening the United 
+States is expanding. 60 According to Hans M. Kristensen, director of 
+the Nuclear Information Project at the Federation of American Sci-
+entists (FAS), in 2000 China possessed 35 ICBMs, of which 20 could 
+hit the continental United States carrying one warhead each. 61 To-
+day, most of China’s 100 ICBMs are capable of hitting the United 
+States with a total of about 125 nuclear warheads, though they are 
+not all necessarily assigned to U.S. targets. 62 DOD predicts that the 
+number of warheads on China’s land-based ICBMs capable of strik-
+ing the United States, which make up only a portion of its total 
+warhead stockpile, will grow to 200 by 2025. 63
+Moreover, the PLA Rocket Force is constructing more than 270 
+new missile silos for its ICBM force in remote regions of China that 
+could be intended for multiple purposes. In 2021, researchers analyz-
+ing satellite imagery discovered construction underway for 16 silos 
+near the city of Jilantai in the western reaches of Inner Mongolia, 
+119 new silos near the northwestern city of Yumen in Gansu Prov-
+ince, approximately 110 new silos near the city of Hami in Xinjiang, 
+and at least 29 silos * in Hanggin Banner in Inner Mongolia (see 
+Figure 1).64 That total is more than ten times the number of silos 
+the PLA Rocket Force currently operates, greater than the number 
+of ICBM silos Russia operates, and more than half of the approxi-
+mately 400 land-based ICBMs the United States maintains in silos 
+today.65 According to Roderick Lee, director of research at the Chi-
+na Aerospace Studies Institute, between the newly discovered silos 
+and the PLA Rocket Force’s currently operational ICBM brigades, 
+China’s projected inventory of ground-based ICBM launchers is al-
+ready “close to or more than the United States’ current number of 
+deployed Minuteman III ICBMs.”  66 The silo fields are in various 
+stages of development and could take between five and ten years to 
+become operational.67
+The emergence of new silos—which are easily identifiable and 
+vulnerable to precision-guided munitions—is surprising given Chi-
+na’s emphasis in recent years on improving mobility, camouflage, 
+and concealment for its ICBMs. 68 The PLA Rocket Force (and its 
+predecessor, the Second Artillery) has long relied on an elaborate 
+infrastructure to store and transport its ballistic missiles, including 
+a vast network of underground tunnels, wheeled transporter erec-
+tor launchers, and rail networks.69 This infrastructure improves the 
+survivability of China’s nuclear forces but requires the relatively 
+time-consuming practices of bringing ICBMs out of storage, mat-
+ing them with their warheads, erecting them on mobile launchers, 
+and connecting them to the appropriate command and control infra-
+structure before firing a counterstrike. By contrast, silo-based mis-
+siles are the most responsive element of a country’s nuclear forces 
+because they can be put on high alert and launched quickly. 70
+* Roderick Lee, director of research at the China Aerospace Studies Institute, estimates that 
+this site could eventually contain up to 36 silos. Roderick Lee, “PLA Likely Begins Construction 
+of an Intercontinental Ballistic Missile Silo Site Near Hanggin Banner,” Air University, August 
+12, 2021.
+
+352
+Figure 1: China’s Silo-Based ICBMs
+NORTH KOREA
+AFGHANISTAN SOUTH KOREA
+BANGLADESH
+KAZAKHSTAN
+KYRGYZSTAN
+UZBEKISTAN
+PHILIPPINES
+MONGOLIA
+TAJIKISTAN
+MYANMAR
+THAILAND
+PAKISTAN
+VIETNAM
+BHUTAN
+TAIWAN
+RUSSIA
+CHINA
+JAPAN
+NEPAL
+INDIA
+LAOS
+NEIXIANG AIRFIELD
+(H-6N BOMBER BASE)
+JILANTAI
+TRAINING AREA
+SILOS
+(≈16)
+YUMEN SILOS
+(≈119)
+EXISTING
+DF-5 SILOS
+(≈9-10)
+EXISTING
+DF-5 SILOS
+(≈9-10)
+YULIN NAVAL BASE
+(NUCLEAR SUBMARINE
+BASE)
+HANGGIN BANNER
+SILOS
+(≈29)
+HAMI SILOS
+(≈110)
+PLA ROCKET
+FORCE HQ
+(BEIJING)
+0 250 500 mi
+≈
+New Silos Under Construction
+Operational Silos
+Approximate Number of Silos
+at this Location
+Sources: Hans Kristensen, Director of the Nuclear Information Project at the Federation of 
+American Scientists, interview with Commission staff, September 24, 2021; Roderick Lee, “PLA 
+Likely Begins Construction of an Intercontinental Ballistic Missile Silo Site Near Hanggin Ban-
+ner,” Air University, August 12, 2021; Matt Korda and Hans Kristensen, “China Is Building a 
+Second Nuclear Missile Silo Field,” Federation of American Scientists, July 26, 2021; Joby Warrick, 
+“China Is Building More than 100 New Missile Silos in Its Western Desert, Analysts Say,” Wash-
+ington Post, June 30, 2021; Hans Kristensen, “China’s Expanding Missile Training Area: More 
+Silos, Tunnels, and Support Facilities,” Federation of American Scientists, February 24, 2021; 
+Hans M. Kristensen, “China’s Strategic Systems and Programs,” in James M. Smith and Paul J. 
+Bolts, eds., China’s Strategic Arsenal: Worldview, Doctrine, and Systems, Georgetown University 
+Press, 2021, 98–100; Roderick Lee, “China’s Air Force Might Be Back in the Nuclear Business,” 
+Diplomat, September 9, 2020; Tyler Rogoway, “Image Shows Chinese Submarine Entering Myste-
+rious Cave Facility at South China Sea Base,” Drive, August 19, 2020.
+Some observers speculate that China could deploy some of its 
+ICBMs across the matrix of new silos while filling others with de-
+coys in a Cold War-style “nuclear shell game” for the purpose of com-
+plicating adversary targeting. 71 Alternatively, China could fill most 
+or all of the silos with ICBMs, which—especially if MIRVed—would 
+improve the chances that more of China’s ICBMs survive an adver -
+sary’s first strike and defeat its missile defenses. 72 Finally, DOD 
+assesses that expanding the silo-based force and putting a portion 
+of that force on heightened alert would enable China to shift to 
+a launch-on-warning posture, which would allow China to rapidly 
+launch its ICBMs upon notification of an incoming attack before 
+their silos could be destroyed. 73 Each interpretation assumes Chi-
+na’s motive for building the silos is to secure its second-strike capa-
+bility rather than to develop a first-strike capability. Large numbers 
+of silo-based missiles can also be used to launch a preemptive nucle-
+ar strike on an adversary.
+China’s Regional Missiles
+The PLA Rocket Force also has nuclear-capable MRBMs and 
+IRBMs capable of hitting targets across the Indo-Pacific, such as 
+allied capitals or U.S. military bases. These include the road-mo-
+bile, solid-fuel DF-21 MRBM (range of 2,150 kilometers) and the 
+road-mobile, solid-fuel DF-26 IRBM (range of 4,000 kilometers). 74 
+
+353
+Overall, the PLA Rocket Force has assigned about 60 nuclear war -
+heads to regional missions. 75
+The DF-26 entails unique escalation risks because it is a dual-ca-
+pable missile system that is “hot swappable” or able to switch rap-
+idly between conventional and nuclear warheads on a launch-ready 
+missile.76 DF-26 brigades have held drills in which units launch 
+a conventional attack and then reload with a nuclear warhead to 
+prepare for nuclear counterattacks. 77 This technological and oper -
+ational entanglement generates pressures for escalation to nuclear 
+use by making it difficult for an adversary to distinguish whether 
+a warhead carried by the DF-26 is conventional or nuclear in flight 
+and, by extension, to decide on an appropriate targeting response. 78 
+As DOD notes, because the DF-26 is China’s first nuclear-capable 
+missile system that can conduct precision strikes, it is the most like-
+ly weapon system to field a low-yield warhead in the near-term. 79 
+The DF-26’s precision enables it to be used for nuclear missions tar-
+geting U.S. military assets in the Indo-Pacific, though authoritative 
+Chinese military texts do not show that PLA doctrine has officially 
+shifted from its traditional emphasis on countervalue targeting.
+China’s Bomber Force Regains a Nuclear Mission
+The PLA Air Force appears to have reassumed a nuclear mission 
+after a long period of dormancy, indicating its bombers could car -
+ry out nuclear counterstrike missions to supplement China’s land- 
+and sea-based nuclear deterrent.* 80 In 2019, the PLA unveiled a 
+new nuclear-capable variant of the H-6 known as the H-6N that is 
+reportedly capable of air-to-air refueling and has a modified fuse-
+lage that may allow it to carry a nuclear air-launched ballistic mis-
+sile.81 The PLA’s H-6Ns are likely stationed in central China next 
+to a hardened underground facility that could be used to store the 
+aircraft in peacetime. 82 China is also developing a nuclear-capable 
+long-range stealth bomber known as the H-20 that will likely enter 
+production within the next decade. 83
+DOD assesses that the deployment of the air-launched ballistic 
+missile on China’s H-6N will “provide China for the first time with 
+a viable nuclear triad of delivery systems,” though the bombers’ lim-
+ited range suggests they would more likely be used for missions 
+closer to China. 84 Mr. Lee observes that China’s nuclear triad is 
+somewhat “lopsided” because its air-launched component is relative-
+ly small and too limited in range to target the continental United 
+States unless its bombers fly across Russian airspace or the Pacific 
+Ocean with their accompanying tankers. 85 He argues that the PLA 
+could be pursuing a nuclear bomber force to deter China’s other 
+nuclear-armed neighbors, for use against U.S. bases in the region, or 
+* The PLA Air Force delivered at least 12 of the nuclear weapons China detonated as part of 
+its nuclear testing program in the 1960s and 1970s. The U.S. Intelligence Community assessed 
+that some of China’s bombers trained for nuclear missions in the 1970s, but the country did not 
+have a dedicated strategic bomber force resembling that of the United States or Soviet Union. 
+The PLA Air Force’s nuclear capability is thought to have atrophied during the Cold War and its 
+nuclear mission did not appear active until the PLA Air Force publicly revealed the H-6N as its 
+first nuclear-capable air-to-air refuellable bomber during a 2019 military parade commemorating 
+the PRC’s 70th anniversary. Kenneth W. Allen and Cristina L. Garafola, “70 Years of the PLA 
+Air Force,” China Aerospace Studies Institute, 2021, 83; Hans M. Kristensen and Matt Korda, 
+“Chinese Nuclear Forces, 2020,” Nuclear Notebook, December 10, 2020, 453; U.S. Department 
+of Defense, Military and Security Developments Involving the People’s Republic of China 2020: 
+Annual Report to Congress, 2020, 50–51.
+
+354
+for the purpose of establishing nuclear competencies within the PLA 
+Air Force.86 Given the limited range of China’s bombers and suffi-
+ciency of other legs of the triad for China’s nuclear deterrent, how-
+ever, some analysts believe the reactivation of the PLA Air Force’s 
+nuclear mission more likely reflects its success as a bureaucratic 
+actor in fighting for resources than a clear strategic mission. 87
+Nuclear Warhead Stockpile Could Double by 2030
+China needs more nuclear warheads to arm its new delivery sys-
+tems and will significantly expand its inventory of nuclear warheads 
+over the next decade. China currently maintains a modest stockpile of 
+nuclear warheads similar in size to that of France or the United King-
+dom, depending on the estimate used.* 88 DOD estimated in 2020 that 
+China’s operational nuclear warhead stockpile was in the low 200s.89 
+DOD reports on China’s military capabilities from the early 2000s do 
+not indicate how large they assessed China’s nuclear stockpile to be 
+at that time, though they asserted the PLA planned to increase the 
+number of nuclear warheads that could target the United States in 
+the future.90 Researchers at FAS placed China’s 2020 stockpile at up 
+to 350 warheads.91 Their estimate of 350 warheads included roughly 
+272 operational warheads assigned for delivery by China’s land-based 
+ballistic missiles, sea-based missile forces, and nuclear-capable bomb-
+ers, as well as 78 warheads to arm new land- and sea-based missiles 
+still in the process of being fielded.92 FAS researchers assess that the 
+stockpile grew by roughly 118 warheads between 2000 and 2021. 93
+Projections of the future size of China’s stockpile vary, but credible 
+sources generally agree the increase will be significant. DOD estimated 
+in 2020 that the country’s operational nuclear warhead stockpile will 
+likely double to more than 400 over the next decade.94 Mr. Kristensen 
+testified before the Commission that a doubling of the stockpile over 
+the next decade is plausible given China’s past and ongoing modern-
+ization efforts.95 Admiral Richard predicted publicly in February 2021 
+that China’s nuclear weapons stockpile could even triple or quadruple 
+over the next decade.96 Assuming the most extreme case of a quadru-
+pling of DOD’s estimate, China could possess up to 1,000 warheads in 
+ten years’ time, a figure equivalent to more than two-thirds of the 1,400 
+strategic warheads the United States deploys on ballistic missiles † and 
+less than one-third of the total U.S. stockpile of strategic warheads.‡ 97
+According to Mr. Kristensen, projections for doubling, tripling, or 
+quadrupling China’s nuclear warhead stockpile over the next de-
+cade would require significant changes to its current force struc-
+ture.98 He estimates that to field a doubled stockpile, China would 
+need to increase the number of its DF-31AG brigades, double its 
+road-mobile DF-41s with MIRV capabilities, deploy a new brigade of 
+silo-based DF-41s with MIRVs, field an additional Type 096 SSBN 
+* According to the Federation of American Scientists, France and the United Kingdom maintain 
+stockpiles of 290 and 225 nuclear warheads, respectively. Hans M. Kristensen and Matt Korda, 
+“Status of World Nuclear Forces,” Federation of American Scientists, May 2021.
+† The New START Treaty caps the number of deployed U.S. and Russian strategic nuclear war -
+heads and bombs at 1,550. Arms Control Association, “New START at a Glance,” February 2021.
+‡ As of early 2021, the United States maintained an estimated stockpile of around 3,800 nuclear 
+warheads. According to FAS, about 1,800 warheads are currently deployed on ballistic missiles or 
+at strategic bomber bases. Around 2,000 are kept in storage to be used as a “hedge” as conditions 
+warrant. Hans M. Kristensen and Matt Korda, “United States Nuclear Weapons, 2021,” Nuclear 
+Notebook, January 12, 2021.
+
+355
+with MIRVed JL-3 missiles, and field more than a dozen nuclear 
+bombers.99 To field a tripled stockpile, China would need to increase 
+the number of DF-31AG and DF-41 brigades, add additional rail-
+based DF-41s, field two Type 096 SSBNs, and double the number 
+and weapons capacity of its nuclear bombers. 100 Mr. Kristensen es-
+timates that to field a quadrupled stockpile, China would require 
+a large number of additional road-mobile and rail-based missiles, 
+more nuclear DF-26 units, more bombers, and more MIRVed pay-
+loads on its DF-41 ICBMs. 101
+China’s Warhead Stockpile Can Grow without New Fissile Material 
+Production
+China could vastly increase its stockpile of nuclear warheads 
+without producing additional fissile material. According to Harvard 
+University Belfer Center research associate Hui Zhang, China halt-
+ed production of highly enriched uranium and plutonium for nuclear 
+weapons in the 1980s and maintains military stockpiles of 14 ± 3 
+tons * of highly enriched uranium and 2.9 ± 0.6 tons of plutonium 
+from that time.102 Mark Hibbs, nonresident senior fellow at the Car-
+negie Endowment for International Peace, testified before the Com-
+mission that China could produce between 200 and 800 additional 
+nuclear weapons using its existing plutonium inventory, depending 
+on how many kilograms of plutonium one estimates is necessary for 
+Chinese nuclear weapons designs. 103
+If Chinese leaders wished to generate additional weapons-grade 
+plutonium for even more warheads, Mr. Hibbs said, they could build 
+a new plutonium production reactor, repurpose an existing Chinese 
+research reactor to produce weapons-grade plutonium, or operate 
+fast reactors as part of their civil nuclear power program to “breed” 
+plutonium.104 At present, there is no evidence China intends to use 
+its fast reactors for nuclear weapons production, and neither of its 
+two 600-MW reactors are yet operational. 105 Given the sufficiency of 
+China’s existing inventories of fissile material, Chinese leaders may 
+see little need to make use of these additional pathways.
+Recent construction activity at China’s testing and weapons pro-
+duction facilities may offer additional evidence China is expanding 
+its production of nuclear warheads. Commercial satellite images of 
+China’s longtime nuclear weapons testing site at Lop Nur taken 
+between 2019 and 2021 showed construction of a probable drill site, 
+a probable underground facility, an excavated recess, and new roads 
+that could be a part of the support facilities required to conduct 
+new nuclear tests. 106 Satellite imagery of Pingtong nuclear facili-
+ty, which manufactures Chinese nuclear weapons components, also 
+shows new and renovated buildings for steam production and elec-
+tricity consumption constructed between 2010 and 2020 that may 
+increase its capacity to produce larger numbers of finished nuclear 
+weapons.107
+China May Pursue Low-Yield Warheads in the Future
+DOD assesses that China may complement its stockpile of strate-
+gic nuclear warheads with the production of low-yield warheads for 
+tactical nuclear weapons in the future. 108 Most of China’s nuclear 
+* ± is a notation used to measure uncertainty and is read “plus or minus.”
+
+356
+warheads have large yields ranging from several hundred kilotons 
+to more than one megaton; they are designed to be delivered across 
+a region or continents and to inflict large-scale damage on their 
+targets.109 By contrast, low-yield weapons can range from 5 kilotons 
+to 150 kilotons and are useful for calibrating damage to smaller 
+targets, such as military bases or aircraft carriers. 110
+There is little publicly available evidence that China has de-
+ployed tactical nuclear weapons, but U.S. Intelligence Community 
+estimates from the 1970s and 1980s noted “circumstantial evidence” 
+the country could have developed low-yield warheads, perhaps for 
+use in small bombs or depth charges. 111 The PLA also held several 
+military exercises in the early 1980s simulating the use of tactical 
+nuclear weapons, though simulations themselves do not prove devel-
+opment or deployment. 112
+Chinese commentators have argued in recent years that China re-
+quires lower-yield nuclear weapons to enhance deterrence and to ex-
+pand the PLA’s options for engaging U.S. forces in a regional war.113 
+Moreover, a 2017 article that originally appeared in the overseas 
+edition of the People’s Daily cited an interview with retired PLA 
+Rocket Force Senior Colonel Yang Chengjun in which he mentioned 
+that the PLA would develop “smaller tactical nuclear warheads to 
+attack the enemy” and limit collateral damage to civilian targets. 114 
+China reportedly carried out a secret test at its Lop Nur facility in 
+2019 that the State Department and some observers say was con-
+sistent with testing a low-yield weapon. 115
+China Enhances Nuclear Command, Control, and 
+Communications
+China has made substantial progress over the last two decades 
+toward improving the survivability of its NC3, or the systems and 
+processes for directing strategic forces to alert or employ nuclear 
+weapons.* 116 According to Phillip C. Saunders, director of the Cen-
+ter for the Study of Chinese Military Affairs at the National Defense 
+University, between the 1980s and early 2000s China had an “un-
+derdeveloped” NC3 system and no strategic ISR systems that could 
+provide warning of an incoming attack. 117 Since then, China’s NC3 
+system and the ISR that supports it have improved substantially. 
+The PLA’s situational awareness now enables more rapid retaliation 
+against a nuclear strike and forms the basis for a nascent ballistic 
+missile defense system. This progress is consistent with goals for 
+China’s nuclear force modernization identified by its 2015 white pa-
+per, which called for “improved strategic early warning, command 
+and control . . . and rapid reaction.” 118
+China’s Shifting Readiness and Nascent Triad Complicate Command 
+and Control
+China’s NC3 system has historically emphasized centralization 
+and strict controls to prohibit the unauthorized use of nuclear weap-
+ons. Authority to decide whether to use nuclear weapons is reserved 
+* According to DOD, NC3 includes detecting and characterizing incoming attacks, facilitating 
+decision-making, transmitting orders to alert or use nuclear weapons, and directing the strategic 
+forces. It therefore requires excellent ISR to provide situational awareness of incoming attacks 
+and redundant communications to ensure strategic forces carry out orders to use nuclear weap-
+ons. U.S. Department of Defense, Nuclear Posture Review, 2018, XIII.
+
+357
+to China’s top leaders in the Politburo Standing Committee. 119 The 
+Central Military Commission (CMC), headed by General Secretary 
+Xi, handles the execution of Chinese nuclear operations. 120 The PLA 
+Rocket Force is commanded directly by the CMC rather than indi-
+rectly through the geographical Theater Commands that oversee the 
+other services, an arrangement reflecting the importance China’s 
+leaders place on controlling the nuclear forces. 121 China may have 
+several practices in place to prevent the unauthorized use of nucle-
+ar weapons, including storing warheads and delivery systems sepa-
+rately in peacetime, installing technical-use controls on the weapons 
+themselves, and enacting a “two-man rule” prohibiting access to or 
+control of the weapons by any single person. 122
+The PLA Rocket Force appears to be putting portions of its forc-
+es on heightened alert in an effort to improve its readiness. China 
+keeps the majority of its nuclear forces on a peacetime status with 
+separated launchers, missiles, and warheads, DOD notes, but nu-
+clear and conventional PLA Rocket Force brigades conduct “combat 
+readiness duty” and “high-alert duty,” which include assigning a mis-
+sile battalion “to be ready to launch” and rotating to standby posi-
+tions as often as monthly for “unspecified periods of time.” 123 These 
+periods of combat readiness and high-alert duty presumably involve 
+temporarily mating warheads and delivery systems and could be 
+part of what DOD assesses is an impending move by some portions 
+of China’s nuclear forces to a launch-on-warning posture. 124
+The PLA Rocket Force’s growing numbers of mobile launchers and 
+dual-use missiles could complicate its NC3 process. China’s leaders 
+maintain redundant means of communication and command path-
+ways, including the ability to skip echelons of command, to ensure 
+their orders reach the firing units responsible for carrying out nu-
+clear strikes.* Dr. Saunders notes that the NC3 system may strug-
+gle to adequately track China’s growing number of mobile ICBMs 
+since all of those mobile launchers will be dispersed from garrison 
+to concealed locations during a crisis or conflict. 125 Another NC3-re-
+lated complication that may arise is whether the PLA Rocket Force 
+brigades operating the hot-swappable DF-26 missile will answer to 
+orders directly from the PLA Rocket Force, which oversees nuclear 
+missions, or from the Theater Commands, which oversee convention-
+al missions.126
+Little information is available about the NC3 processes for Chi-
+na’s SSBN fleet and strategic bomber force, which may pose their 
+own challenges for command and control. During a crisis or conflict, 
+the CMC will presumably relay orders to alert or use nuclear weap-
+ons to PLA Navy headquarters and PLA Air Force headquarters, 
+* According to George Washington University assistant professor Fiona Cunningham, the CMC 
+will transmit orders to alert or use nuclear weapons to the CMC Joint Operations Command, 
+PLA Rocket Force Headquarters, the missile bases, and then down the chain of command to the 
+missile launch companies. China’s leaders can relay orders directly to missile brigades, battalions, 
+or launch companies during a crisis (the so-called “skip echelon” system). The PLA Rocket Force’s 
+communications brigades operate redundant means of communication, including radio, fiber-optic 
+cables, and satellites, to ensure CMC orders are successfully transmitted to operational units. 
+The PLA Rocket Force also operates an automated command system that may be interoperable 
+with that of other PLA services and include support for its mobile missile force. Bates Gill, 
+“Organization of China’s Strategic Forces,” in James M. Smith and Paul J. Bolts, eds., China’s 
+Strategic Arsenal: Worldview, Doctrine, and Systems, Georgetown University Press, 2021, 171; 
+Fiona Cunningham, “Nuclear Command, Control, and Communications Systems of the People’s 
+Republic of China,” Nautilus Institute, July 18, 2019; Yu Xijun, ed., The Science of Second Artillery 
+Campaigns (第二炮兵战役学), People’s Liberation Army Publishing House, 2004, 168. Translation.
+
+358
+which will then convey those orders to the submarines on patrol 
+and the nuclear bombers, respectively. 127 Dr. Saunders observes 
+that each branch must “develop [its] own operational doctrine, per -
+sonnel reliability systems, and nuclear warhead handling facilities 
+to support . . . nuclear operations,” but the details are currently un-
+known.128 The SSBN fleet may have difficulty maintaining contact 
+with its command authority while operating in deep ocean waters 
+on patrol, though media reports in 2018 indicated China had built 
+a massive experimental antenna that could transmit messages to 
+submerged submarines via extremely low-frequency waves.* 129 
+Moreover, China’s SSBNs cannot replicate the PLA Rocket Force’s 
+practice of keeping nuclear warheads separated from their missiles. 
+The PLA will need to discard this practice for its SSBNs to carry 
+nuclear weapons on patrol, which will remove a traditional barrier 
+to unauthorized use. 130
+ISR Capabilities Will Enable Multiple Missions
+China’s ISR systems improve targeting and situational awareness 
+for China’s nuclear forces, enabling missions such as strategic early 
+warning and ballistic missile defense. An overlapping network of 
+radars and sensing satellites, most of which the PLA Strategic Sup-
+port Force likely operates in direct support of the CMC and PLA 
+Rocket Force headquarters, are the most important elements. 131 
+Together, these capabilities improve Chinese leaders’ situational 
+awareness and could enable them to move to a launch-on-warning 
+posture, whereby the PLA would launch nuclear weapons in retali-
+ation for an incoming strike that has been detected by ISR systems 
+but not yet detonated on Chinese territory.
+China’s ground-based radars, which include large-phased array 
+radars, over-the-horizon radars, and radars that detect low-flying 
+targets, enable the PLA to detect threats from different trajectories. 
+The Strategic Support Force now operates four large-phased array 
+radars that can detect and track incoming ballistic missiles at the 
+apex of their trajectory up to 5,000 kilometers away.† 132 Moreover, 
+China has two over-the-horizon radar systems that can detect ballis-
+tic missile launches up to 2,500 kilometers away from the southeast, 
+giving China radar coverage over neighboring countries in the East 
+China Sea and much of the Western Pacific. 133 China also has a 
+high-frequency surface wave radar as well as radars associated with 
+* Submerged submarines are unable to communicate with their command authorities at or -
+dinary radio frequencies, which do not travel well through saltwater. Submarines can surface 
+and raise an antenna above sea level to use ordinary radio transmissions for communication, 
+but this makes them vulnerable to anti-submarine warfare. Such vulnerability is problematic 
+because submerged submarines need to be able to receive their launch orders in the event of a 
+nuclear war. Technological innovations during the Cold War led to several methods for underwa-
+ter communication, such as the use of very low frequency radio waves at shallow depths and ex-
+tremely low frequency radio waves at depths up to hundreds of meters. Extremely low frequency 
+transmitters are technically difficult to construct and only the United States, Russia, China, and 
+India are known to use them. Ryan White, “How Do Submarines Communicate with the Outside 
+World?” Naval Post, May 3, 2021.
+† The north-facing large-phased array radar at Huanan can detect and track ICBMs launched 
+from the United States and Russia on a polar trajectory, while the large-phased array radars at 
+Yiyuan and Longgangzhen face southeast toward Taiwan and the South China Sea for the possi-
+ble purpose of bolstering Chinese conventional strikes on targets in those areas. The large-phased 
+array radar at Korla can face west, south, southeast, or east and may be utilized for tracking 
+satellite launch and missile intercept tests. Hans M. Kristensen, “China’s Strategic Systems and 
+Programs,” in James M. Smith and Paul J. Bolts, eds., China’s Strategic Arsenal: Worldview, Doc-
+trine, and Systems, Georgetown University Press, 2021, 115–116.
+
+359
+indigenous and Russian-made surface-to-air missile (SAM) systems 
+that can detect low-flying stealth aircraft and cruise missiles from 
+hundreds of kilometers away.134
+China is developing infrared satellites to detect ballistic missiles 
+from space, though the extent to which it may already have such 
+satellites is unclear. China has built a constellation of infrared ear -
+ly warning satellites named Shaobing akin to the United States’ 
+Defense Support Program satellites in geosynchronous orbit, ac-
+cording to a 2018 article in Science and Technology Daily, the of-
+ficial newspaper of China’s Ministry of Science and Technology. 135 
+Secret Chinese satellite launches in 2015, 2017, and 2020 provoked 
+speculation that the country was establishing a constellation of ear -
+ly warning satellites in geosynchronous orbit similar to the Unit-
+ed States’ Space-Based Infrared System, but it is not clear if this 
+constellation is the Shaobing constellation or something else. 136 In 
+2019, Russian President Vladimir Putin said Russia is helping Chi-
+na build an early warning system, cooperation that could include 
+assistance on space-based sensors. 137 China’s Yaogan electro-optical 
+satellite constellation provides broad coverage of ships and aircraft 
+operating in the Pacific Ocean. 138
+China has intermittently researched and tested technologies re-
+quired for ballistic missile defense since the 1960s, even though it 
+formally opposes U.S. ballistic missile defense. 139 Dr. Saunders tes-
+tified that China already has a “limited capability against tactical 
+and medium-range ballistic missiles” enabled by its Russian-built 
+and indigenous SAM systems, advanced interceptors, and ISR capa-
+bilities.140 For example, DOD assesses that China’s domestic HQ-9 
+long-range SAM system “likely has a limited capability to provide 
+point defense against tactical ballistic missiles.”  141 China has also 
+tested its HQ-19 mid-course interceptor, which may be able to inter -
+cept ballistic missiles within a 3,000-kilometer range, similar to the 
+U.S. Terminal High Altitude Area Defense system. 142 Dr. Saunders 
+notes the PLA “has some capability to engage both short-range and 
+medium-range ballistic missiles,” though the speed of its intercep-
+tors and its launch detection capabilities may limit its ability to 
+intercept longer-range missiles.143
+China’s Modernized Nuclear Forces Enable Changes in 
+Strategy and Heighten Nuclear Risks
+The observable transformation of China’s nuclear posture and the 
+projections for its expansion over the next decade raise questions 
+about changes in China’s nuclear strategy. Recent qualitative and 
+quantitative improvements in the nuclear forces clearly allow Chi-
+nese leaders to pursue a more ambitious nuclear strategy if they 
+wish to do so. Regardless of the strategic intent behind these chang-
+es, China’s buildup creates new capabilities that an increasingly 
+risk-tolerant Chinese leadership could someday feel emboldened to 
+employ either for threats or for limited use during a regional con-
+flict.
+Moreover, the risks of a nuclear exchange between China and the 
+United States are higher today than in the past. The entanglement 
+of China’s conventional and nuclear forces creates risks of acciden-
+tal nuclear escalation during a conventional war triggered by Chi-
+
+360
+na’s aggression in the Indo-Pacific. If Chinese leaders have already 
+changed their strategy without declaring they have done so, they 
+could be much more likely to intentionally threaten or use nuclear 
+weapons to achieve their regional objectives, such as deterring or 
+degrading intervening U.S. forces in a conventional war over Taiwan 
+they fear they could lose. Finally, if Chinese leaders choose to shift 
+their land-based missile force to a launch-on-warning posture, the 
+difficulties associated with learning to operate such a system could 
+generate false alarms about nonexistent incoming nuclear attacks, 
+potentially triggering a nuclear exchange between China and the 
+United States.
+Competing Interpretations of China’s Nuclear Buildup
+The available evidence about China’s nuclear buildup is consistent 
+with multiple interpretations of Chinese leaders’ intent. Chinese 
+leaders could simply be upgrading their nuclear forces to ensure 
+they can survive and retaliate against an adversary’s first strike 
+without altering China’s current nuclear strategy. Alternatively, 
+many of these advances could enable a shift to a launch-on-warning 
+posture. A third possibility is that Chinese leaders could be trans-
+forming their nuclear forces to support a strategy involving the lim-
+ited use of nuclear weapons against conventional military targets 
+in the Indo-Pacific, such as U.S. aircraft carriers and bases, while 
+continuing only to target an adversary’s major cities in retaliation 
+for a nuclear attack China sustains first. These explanations are 
+not mutually exclusive; Chinese leaders could intend to keep their 
+current retaliatory strategy for now but reserve the option to adopt 
+a new nuclear strategy in the future should conditions warrant.
+China’s Buildup Aims to Create a Survivable Retaliatory Force
+One interpretation is that China may be building up its nucle-
+ar forces in order to improve or restore its second-strike capability, 
+which was arguably never truly secure but has been undermined 
+in recent years by technological advances in other nuclear weapon 
+states China considers a threat. 144 Chinese scholars and some U.S. 
+analysts identify the United States’ development of ballistic missile 
+defense and conventional long-range strike capabilities for “damage 
+limitation” * as the main impetus for changes in China’s nuclear 
+posture.145
+The PLA’s emerging nuclear triad, growing warhead stockpile, 
+and increasing reliance on mobile platforms make it more difficult 
+for an adversary to disarm China in a nuclear first strike, increas-
+ing what George Washington University assistant professor Fiona 
+Cunningham and Massachusetts Institute of Technology political 
+science professor M. Taylor Fravel call the “assuredness” of retal-
+* “Damage limitation” refers to the ability to significantly reduce the damage an adversary can 
+inflict against the U.S. homeland in an all-out nuclear retaliatory attack. During the Cold War, the 
+United States interpreted damage limitation as denying the Soviet Union an “assured destruction 
+capability” against the United States, which then Secretary of Defense Robert McNamara defined 
+as a state’s ability to destroy 20 to 25 percent of another country’s population and 50 percent of 
+its industrial base in retaliation after an attack on its nuclear forces. Damage limitation requires 
+robust ISR to track incoming missiles, capable ballistic missile defense to intercept missiles in 
+flight, and long-range weapons (conventional or nuclear) that can destroy a state’s nuclear forces 
+on land and at sea, as well as its nuclear command and control infrastructure. Charles L. Glaser 
+and Steve Fetter, “Should the United States Reject MAD? Damage Limitation and U.S. Nuclear 
+Strategy toward China,” International Security 41:1 (Summer 2016): 54, 55, 62.
+
+361
+iation.146 MIRV technology on China’s ICBMs and the ability to 
+launch enough missiles to impose unacceptable damage on an ad-
+versary’s cities helps China complicate the U.S. approach to dam-
+age limitation and advance a de facto—if not political *—state of 
+mutual vulnerability.147 Growing numbers of missile silos improve 
+the likelihood that more of China’s ICBMs survive an attack, since 
+they are hardened and could be filled with a mix of decoys and real 
+warheads.148 Viewed through this lens, a decision by China to adopt 
+a launch-on-warning posture could also be consistent with the retal-
+iatory aspect of its current nuclear strategy. 149
+China’s Buildup Enables a Transition to Launch-on-Warning
+Chinese leaders might also intend their nuclear buildup to sup-
+port the adoption of a launch-on-warning posture. Such a posture, 
+which is technologically sophisticated and greatly increases the 
+speed with which China can retaliate against an incoming attack, 
+arguably supersedes the requirements of minimum deterrence if 
+adopted across the ICBM force. The very short time frame for de-
+cision-making created by a launch-on-warning posture could lead 
+Chinese leaders to launch a second strike with overwhelming force, 
+before they are able to assess the scale of the damage sustained by 
+a target as a result of the adversary’s first strike. Such a posture 
+thus creates the possibility that China could impose disproportion-
+ate damage on an adversary that struck it first in a more limited 
+fashion, behavior that would be inconsistent with the proportion-
+ality and relaxed response time emphasized by China’s historical 
+nuclear strategy. More importantly, a transition to launch-on-warn-
+ing heightens the risks of accidental or erroneous nuclear escalation 
+(for more, see “China’s Shift to Launch-on-Warning Could Result in 
+Accidental Nuclear Launch”).150
+China’s Buildup Enables a More Ambitious Nuclear Strategy
+China’s nuclear posture could also support a more ambitious nu-
+clear strategy that envisions the limited first use of nuclear weap-
+ons as a legitimate means of achieving China’s political objectives 
+in the region. Such a strategy would be consistent with important, if 
+officially marginalized, Chinese intellectual debates that took place 
+in the past over how China could use nuclear weapons to prevail in 
+wars and whether it should discard the no-first-use policy. Chinese 
+leaders today could be more receptive to the PLA’s perennial push 
+for additional strategic options as they consider how best to achieve 
+their expanding political interests.
+According to Dr. Saunders, PLA theorists have repeatedly raised 
+the possibility of a shift toward a more ambitious nuclear doctrine 
+that might include nuclear warfighting,† only to have CCP leaders 
+* The United States does not publicly acknowledge a mutual vulnerability relationship with 
+China. The nuclear forces of China and the United States can hold each other’s countries at risk, 
+but not to the same extent given the greater size and sophistication of the U.S. arsenal as well 
+as U.S. ballistic missile defense capabilities.
+† Nuclear warfighting strategies, often described as “flexible” or “limited” nuclear option ap-
+proaches, purportedly enable military commanders to limit the effects of a nuclear war by tar -
+geting an enemy state’s nuclear forces and military infrastructure (counterforce targeting) rath-
+er than its major population centers (countervalue targeting). Concepts of nuclear warfighting 
+assume that nuclear weapons can be deployed with discrimination and flexibility to accomplish 
+political objectives without resulting in escalation to all-out nuclear war. Nuclear warfighting 
+strategies are distinct from strategies that envision the only function of nuclear weapons as 
+
+362
+end the discussion.151 In the 1980s, for example, Chinese strategists 
+debated the possibility of a shift to “limited deterrence,”  * an ap-
+proach that envisioned a mix of counterforce and countervalue tacti-
+cal, theater, and strategic nuclear forces to deter escalation to war or 
+compel an adversary to back down if war broke out. 152 Christopher 
+P. Twomey, associate professor at the Naval Postgraduate School, 
+notes that passages in the 2004 authoritative text Science of Second 
+Artillery Campaigns discuss “distinct waves of [nuclear] retaliation,” 
+suggesting the text’s authors saw nuclear weapons as a tool to be 
+employed in a graduated way to control further escalation † during 
+a war that had already gone nuclear. 153
+More recently, writings by Chinese strategists and passages in au-
+thoritative texts over the past 20 years reflect an officially quashed 
+debate over whether China should abandon or otherwise qualify no 
+first use.154 Some PLA officers have argued that China should use 
+nuclear weapons first if an enemy’s conventional attack threatens 
+the survival of China’s nuclear forces or of the CCP itself. 155 The 
+aforementioned Science of Second Artillery Campaigns describes 
+threatening nuclear use—though not actually employing nuclear 
+weapons—in response to conventional attacks against high-value 
+targets within China. 156 The 2020 Science of Military Strategy dis-
+cusses launching nuclear weapons in “demonstration strikes,” pre-
+sumably on China’s territory or the open ocean, to signal resolve 
+during a crisis. 157
+Nuclear Use against Regional, Conventional Military Targets to 
+Deter or Degrade Adversary Forces
+If Chinese leaders decide to adjust their nuclear strategy, they are 
+most likely to adopt one involving the limited first use of low-yield, 
+more precise nuclear weapons against select conventional military 
+targets in the Indo-Pacific region. 158 Chinese leaders may believe 
+such a strategy would deter U.S. intervention or confer significant 
+military advantages if it enables them to destroy assets critical to 
+U.S. military operations, such as U.S. aircraft carriers or the bases 
+deterring an enemy from launching a nuclear attack. Nuclear warfighting strategies generally 
+require many accurate, reliable, and survivable nuclear weapons; robust ISR; and efficient com-
+mand and control processes, though the quantities may depend on the enemy state’s nuclear 
+capabilities. Bulletin of Peace Proposals, “Nuclear Deterrence, Nuclear War-Fighting and Nuclear 
+Disarmament,” Arms and Disarmament SIPRI Findings, 17:3/4 (1986): 391.
+* According to Harvard University professor Alastair Iain Johnston, Chinese writings outlining 
+limited deterrence identified as appropriate targets an enemy’s strategic missile, naval and air 
+forces, nuclear weapons stockpiles, command and control, early warning systems, transportation 
+hubs, military industrial targets, and political and economic centers, among others. Hitting these 
+targets and successfully suppressing escalation to higher levels of nuclear violence would re-
+quire additional numbers of accurate and survivable ICBMs, SLBMs, tactical and theater nuclear 
+weapons, ballistic missile defense, space-based early warning, and anti-satellite weapons. Chinese 
+strategists believed a limited deterrent should be able to respond proportionately to any level of 
+nuclear use, from tactical to strategic, and enable China to “entertain war-winning possibilities.” 
+China did not have the capabilities to implement limited deterrence when it emerged in the 
+1980s, however, and its core concepts were not reflected in policy or authoritative military texts 
+published afterward. Alastair Iain Johnston, “China’s New ‘Old Thinking’: The Concept of Limited 
+Deterrence,” International Security 20:3 (Winter 1995–1996): 5–6, 17–20.
+† Nuclear weapons can theoretically be used to control substantial military escalation during 
+an ongoing war, a concept known as “intrawar deterrence” or “transwar deterrence.” Intrawar 
+deterrence can be achieved by threatening to use nuclear weapons should the adversary escalate 
+a conflict beyond a particularly important threshold. Christopher Twomey, written testimony for 
+the U.S.-China Economic and Security Review Commission, Hearing on China’s Nuclear Forces, 
+June 10, 2021, 3–4; Keith B. Payne, “The Great Divide in U.S. Deterrence Thought,” Strategic 
+Studies Quarterly (Summer 2020): 24; W. Andrew Terrill, Escalation and Intrawar Deterrence 
+during Limited Wars in the Middle East, U.S. Army War College Press, 2009, xi.
+
+363
+on Guam and Okinawa.159 They could signal restraint at the strate-
+gic level by keeping their ICBM force de-alerted and communicating 
+directly that China would continue only to target an adversary’s 
+major cities with large-yield warheads in retaliation for a nuclear 
+first strike on the Chinese Mainland.
+Several technological developments within China’s nuclear forc-
+es make this shift in strategy possible. Caitlin Talmadge, associate 
+professor of security studies at Georgetown University, testified be-
+fore the Commission that the precision, range, and hot-swappable 
+character of the DF-26 suggest the system is “designed to be used 
+for something other than a countervalue second strike” and “well 
+suited to limited nuclear use against U.S. military targets in the 
+Pacific.” 160 Chinese commentators have described the future devel-
+opment and deployment of lower-yield nuclear weapons as means to 
+destroy U.S. aircraft carriers and bases and to manage escalation.161 
+Improvements to China’s NC3 system and ISR would also better 
+position China’s theater nuclear forces to identify and successfully 
+target U.S. forces during a regional conflict. 162 All of these capabil-
+ities support Admiral Richard’s observation in February 2021 that 
+China can now adopt “any plausible nuclear employment strategy 
+regionally” with its nuclear forces.163
+Chinese leaders could believe this strategy of limited nuclear use 
+is unlikely to provoke further nuclear escalation because of the im-
+balance of nuclear forces at the theater level. The United States 
+was unable to deploy nuclear or conventional intermediate-range 
+missiles in the Indo-Pacific between 1987 and 2019 due to its par -
+ticipation in the now-defunct INF Treaty. 164 During the same pe-
+riod, China—which was not party to the treaty—rapidly expanded 
+the intermediate-range missile arsenal that is now foundational to 
+its conventional military strategy and developed several intermedi-
+ate-range nuclear variants of these systems. 165 Brad Roberts, direc-
+tor of the Center for Global Security Research at Lawrence Liver -
+more National Laboratory, told the Commission that as a result, the 
+balance of Chinese and U.S. ground-based nuclear forces deployed in 
+the Indo-Pacific is “roughly a thousand missiles to zero.” 166 This im-
+balance means the United States lacks proportionate ground-based 
+options to respond to a limited use of nuclear weapons by China at 
+the theater level.
+PLA Capabilities to Engage in Limited Nuclear Counterforce against 
+the U.S. Homeland
+China’s military today may be capable of shifting to counter -
+force strategies * involving the very limited use of nuclear weapons 
+* One strategy might involve a limited “demonstration” of nuclear use, such as detonating a 
+nuclear weapon to create an electromagnetic pulse on the open ocean water near a U.S. military 
+installation. Chinese leaders could employ this strategy during a crisis to shock U.S. political 
+leaders and demonstrate their resolve to escalate to higher levels of nuclear violence should the 
+United States fail to “back down” over the issue at hand. The second strategy could involve using 
+a low-yield nuclear weapon against one or more of the radars associated with U.S. missile defense, 
+such as those located at military bases in Alaska. This strategy too would aim to intimidate U.S. 
+leaders into accepting Chinese political objectives during a crisis, but it would have the added 
+benefit of degrading U.S. NC3 and missile defense capabilities that would be relevant in the next 
+stage of a war. Both strategies rely on highly questionable assumptions that the U.S. leadership 
+would either not retaliate at all, for fear of inviting further nuclear attacks, or inflict a “tolerable,” 
+proportionate level of damage with a limited nuclear strike against a similar target in China. 
+There is no evidence in Chinese military texts indicating Chinese leaders intend to adopt either 
+strategy. Phillip C. Saunders, Director of the Center for the Study of Chinese Military Affairs at 
+
+364
+against targets on the U.S. homeland with its highly precise DF-41 
+ICBM and lower-yield warheads potentially under development, but 
+these strategies would be unable to manage escalation to all-out 
+nuclear war. China remains technologically incapable of launching 
+a disarming first strike against the United States. China’s nucle-
+ar forces are not large enough or sophisticated enough to destroy 
+most or all of the United States’ nuclear forces. It is true China is 
+developing highly accurate missiles, MIRVs, better ISR, the abili-
+ty to launch rapidly, and ballistic missile defense, all of which are 
+theoretically useful for destroying an adversary’s nuclear forces and 
+limiting any damage China could sustain in response. But to tar -
+get and degrade large portions of the U.S. nuclear arsenal, the PLA 
+would need vast quantitative increases and qualitative improve-
+ments in each of these capabilities. Even if it were to destroy many 
+of the United States’ silo-based ICBMs or strategic air bases, the 
+PLA would almost certainly be unable to destroy U.S. SSBNs before 
+they inflicted massive and unacceptable retaliation on the Chinese 
+Mainland.
+New Risks of Nuclear Escalation in a Competitive U.S.-China 
+Relationship
+Technological changes within China’s nuclear forces and the grow-
+ing chance of a conventional conflict in the Indo-Pacific theater in-
+crease the risks of escalation to a limited nuclear exchange between 
+China and the United States. This section discusses specific risks 
+associated with the PLA’s entanglement of nuclear and conventional 
+systems, the possibility China might use nuclear weapons to reverse 
+the outcome of a conventional war it was losing, and the adoption of 
+a launch-on-warning posture. It also assesses the risk that China’s 
+more credible nuclear deterrent could give Chinese leaders the con-
+fidence to pursue coercion or conventional aggression against U.S. 
+allies and partners in the Indo-Pacific.
+A U.S. Attack on “Entangled” PLA Assets Results in Nuclear 
+Escalation
+Growing entanglement between the PLA’s conventional and nucle-
+ar forces, specifically in its intermediate-range missile systems and 
+submarine forces, creates risks of accidental or unforeseen nuclear 
+escalation. It is not clear whether the PLA has intentionally entan-
+gled these capabilities to heighten the risks it poses to its adversary, 
+thereby enhancing deterrence, or whether it has done so to enhance 
+operational efficiency.167 Using the same designs for nuclear and 
+conventional missile variants also saves costs associated with re-
+search and production, creating economies of scale. 168
+The PLA’s entanglement of its conventional and nuclear forces 
+increases the possibility that the United States could unintention-
+ally degrade components of China’s nuclear arsenal or its associated 
+NC3 systems during a conventional war in ways that precipitate 
+Chinese nuclear escalation. Dr. Talmadge describes this escalation 
+pathway as “conventional counterforce” and notes it is most like-
+the National Defense University, interview with Commission staff, July 19, 2021; Christopher P. 
+Twomey, Associate Professor at the Naval Postgraduate School, interview with Commission staff, 
+July 20, 2021.
+
+365
+ly to emerge amid the fog of war and worst-case thinking during 
+an armed conflict over Taiwan. 169 “If Beijing interprets the erosion 
+of its sea- and land-based nuclear forces as a deliberate effort to 
+destroy its nuclear deterrent through conventional counterforce, or 
+perhaps even as a prelude to a nuclear counterforce, it might see 
+limited nuclear escalation as a way to force an end to the conflict,” 
+she observes.170 Similarly, Dr. Saunders agrees “U.S. strikes which 
+inadvertently destroy a handful of Chinese ICBMs or severely de-
+grade [PLA Rocket Force] strategic command and control systems 
+could significantly heighten Chinese threat perceptions and create 
+‘use or lose’ pressures that encourage nuclear use.” 171
+China Threatens or Uses Nuclear Weapons to Avoid Losing a War 
+over Taiwan
+Chinese leaders might also consider purposefully threatening the 
+use of or actually using nuclear weapons as a means to reverse 
+the outcome of a conventional war they were losing, such as a war 
+over Taiwan. Consistent with methods of strategic deterrence de-
+scribed in the Science of Military Strategy, China could attempt to 
+deter the United States from intervening in a conflict over Taiwan 
+by threatening the use of nuclear weapons through escalatory sig-
+naling practices. These methods include adjusting the deployments 
+of China’s nuclear weapons, raising readiness levels, publicly reveal-
+ing its prepared nuclear weapons, or carrying out warning strikes 
+involving nuclear weapons (presumably on the open ocean), any of 
+which could cause unintended escalation if mistaken by an adver -
+sary as preparations for a nuclear first strike. 172
+Alternatively, Dr. Talmadge argues that China could engage in 
+“asymmetric escalation” by actually using nuclear weapons against 
+U.S. military targets during a war over Taiwan. 173 “Given the is-
+land’s political importance, it is not inconceivable to think that Chi-
+nese leaders losing a war over Taiwan could engage in asymmetric 
+nuclear escalation to try to get the United States to back down or 
+simply to halt the U.S. conventional campaign,” she said. 174 China’s 
+use of nuclear weapons against conventional U.S. forces and bases 
+during a Taiwan contingency would obviously constitute a violation 
+of its no-first-use pledge, but in Dr. Talmadge’s view would be com-
+parable to the scenarios in which countries facing the loss of ter -
+ritory during a land war have historically threatened asymmetric 
+nuclear escalation.* 175
+Chinese leaders’ decision to escalate to nuclear use would rely on 
+the potentially erroneous assumption that the United States would 
+back down because it “cares less” about the outcome of a Taiwan 
+* Dr. Talmadge points out that China engaged in highly escalatory behavior during a border 
+crisis with the Soviet Union in 1969. “China started a skirmish that risked war and initially 
+believed that nuclear weapons would be irrelevant, even though the Soviet arsenal was several 
+orders of magnitude larger than China’s, just as the U.S. arsenal dwarfs China’s today,” she 
+observed. After learning that the Soviets had discussed with other countries plans to attack 
+China with nuclear weapons, Chinese leaders became deeply concerned that a nuclear attack 
+was imminent despite having no evidence the Soviets intended to follow through on their threat. 
+China tested a thermonuclear weapon at Lop Nur and placed the country’s nuclear forces on a 
+months-long alert for the first and only time in China’s history, a risky move given that at the 
+time the PLA relied on liquid-fueled missiles and rudimentary command and control procedures. 
+Caitlin Talmadge, oral testimony for the U.S.-China Economic and Security Review Commission, 
+Hearing on China’s Nuclear Forces, June 10, 2021, 116; Caitlin Talmadge, “Would China Go Nu-
+clear? Assessing the Risk of Chinese Nuclear Escalation in a Conventional War with the United 
+States,” International Security 41:4 (Spring 2017): 88–90.
+
+366
+conflict than does China. “The point of nuclear saber rattling in a 
+Taiwan conflict for them would be to awaken us to the asymmetry 
+of stake,” Dr. Roberts told the Commission. 176 He argued that Chi-
+nese leaders may not fully appreciate the importance the United 
+States places on Taiwan as a testament to democracy in Asia and 
+as a bellwether for its extended deterrence commitments. 177 “That’s 
+a large stake and that’s not wished away by the nuclear shadow,” 
+Dr. Roberts said.178
+China’s Shift to Launch-on-Warning Could Result in Accidental 
+Nuclear Launch
+A decision by China to adopt a launch-on-warning posture for its 
+nuclear forces increases the risk of accidental nuclear use. Disar -
+mament advocates generally regard launch-on-warning as destabi-
+lizing because it can produce false alarms about nonexistent attacks 
+and trigger a nuclear exchange. 179 Admiral Richard called China’s 
+potential shift to launch-on-warning “unsettling” before the Senate 
+Committee on Armed Services in April 2021 given what he described 
+as “the immature nature of Chinese strategic forces and compressed 
+timelines needed to assess and frame a response,” which increase 
+“the potential for error and miscalculation.” 180
+Moreover, a shift to launch-on-warning could require the predel-
+egation of launch authority to General Secretary Xi or to the CMC 
+since there would be too little time to build consensus within the Po-
+litburo Standing Committee over whether to launch in response to 
+potentially false reports of an incoming missile. The abandonment 
+of consensus decision-making over nuclear retaliation, a dynamic 
+that has already occurred in other policy areas, would mean General 
+Secretary Xi’s risk tolerance could play an outsized role in determin-
+ing whether China uses nuclear weapons. While DOD assesses that 
+China will keep at least a portion of its force on a launch-on-warn-
+ing posture, Dr. Saunders told the Commission he does not believe 
+a force-wide shift is likely given CCP leaders’ historical distrust of 
+the military and their concern that such a posture could heighten 
+the risks of escalation or accidental nuclear conflict. 181
+Increased Potential for Coercion or Conventional Aggression
+China’s growing nuclear arsenal could embolden it to pursue co-
+ercion or conventional aggression against U.S. allies and partners if 
+Chinese leaders believe their nuclear arsenal will deter the United 
+States from intervening on these countries’ behalf. This logic, known 
+in political science as the “stability-instability paradox,” holds that 
+because nuclear adversaries cannot afford to fight for fear of mutual 
+destruction, neither will initiate nuclear war (creating “stability”), 
+but that because of this, conventional war remains a viable option 
+(creating “instability”).182 Abraham Denmark, director of the Asia 
+Program at the Wilson Center, argued in testimony before the Com-
+mission that U.S. allies and partners are concerned China’s nuclear 
+modernization could affect the willingness of the United States to 
+provide extended deterrence in the long term because the poten-
+tial costs of defending them from conventional aggression against 
+a more capable nuclear-armed China will be higher than before. 183
+
+367
+Chinese conventional aggression is most plausible against Tai-
+wan and Japan. Mr. Denmark described in testimony one scenario 
+in which China could attempt to quickly seize Taiwan and pres-
+ent the United States with a fait accompli, threatening nuclear use 
+should U.S. forces attempt to roll back its gains. 184 Other analysts, 
+especially those in Japan’s strategic community, have argued that 
+China could extend its presence around or even seize the Senkaku 
+Islands.185
+China’s Proliferation Activities: An Added Nuclear Threat
+China continues to facilitate the global proliferation of nuclear 
+and missile technologies today, presenting the United States and its 
+allies with another nuclear-related threat. Whereas decades ago the 
+Chinese government and SOEs dominated the trade of prohibited 
+nuclear and missile technologies,* today Chinese private individuals 
+and companies are the most important vectors for proliferation to 
+countries of concern, and the goods they export are dual-use rather 
+than those with pure military applications. 186 “The Chinese govern-
+ment has adopted an, at best, passive response to this trade, neither 
+actively preventing nor punishing private entities for such exports 
+or re-exports,” Valerie Lincy, executive director of the Wisconsin 
+Project on Nuclear Arms Control, testified to the Commission. 187
+U.S. government reports in recent years allege that “China-based 
+entities” proliferate technologies and materials with nuclear and 
+missile applications to other countries, and that the Chinese gov-
+ernment turns a blind eye to their activities. For example, the 2021 
+version of the State Department’s annual report, Adherence to and 
+Compliance with Arms Control, Nonproliferation, and Disarmament 
+Agreements and Commitments, stated, “Chinese entities continued 
+to supply [Missile Technology Control Regime]-controlled † goods 
+to missile programs of proliferation concern in 2020,” though it re-
+ferred readers to a classified annex for details. 188 The report noted 
+that the U.S. government had raised a number of cases with the 
+Chinese government concerning transfers of missile-related goods 
+and technology by Chinese entities to countries of concern through-
+out 2020. “Although the United States has asked that China inves-
+* In the 1980s and 1990s, Chinese SOEs made strategically significant transfers of technology 
+and knowhow—including the complete design for a nuclear weapon and multiple missile sys-
+tems—to Pakistan, Iran, and North Korea, among others. China made the transfers despite these 
+countries variously refusing to sign the Treaty on the Non-Proliferation of Nuclear Weapons, 
+violating their treaty commitments, or withdrawing entirely from the treaty. The Chinese gov-
+ernment began to observe some nuclear nonproliferation norms and multilateral export control 
+regimes in the mid-1990s, which U.S. government sources at the time assessed led to improve-
+ment in the export practices of SOEs and an end to confirmed transfers of nuclear-capable mis-
+siles. China acceded to the Treaty on the Non-Proliferation of Nuclear Weapons in 1992, joined 
+the Zangger Committee in 1997, and joined the Nuclear Suppliers Group in 2004. Valerie Lincy, 
+written testimony for the U.S.-China Economic and Security Review Commission, Hearing on 
+China’s Nuclear Forces, June 10, 2021, 3–11; Congressional Research Service, Chinese Nuclear 
+and Missile Proliferation, May 17, 2021, 1; White House, A Report Relating to the Approval and 
+Implementation of the Agreement for Nuclear Cooperation between the United States and the 
+People’s Republic of China, Pursuant to 42 U.S.C. 2153(d), January 12, 1998.
+† The Missile Technology Control Regime is a multilateral export control regime that restricts 
+the proliferation of missiles, complete rocket systems, unmanned air vehicles, and related tech-
+nology for systems capable of carrying a 500-kilogram payload at least 300 kilometers as well as 
+systems intended for the delivery of WMD. China agreed to apply some of the Missile Technology 
+Control Regime’s guidelines for curbing missile proliferation despite the rejection of its formal 
+application for Mission Technology Control Regime membership in 2004 on the grounds that 
+it failed to meet the group’s nonproliferation standards. Wade Boese, “Missile Regime Puts Off 
+China,” Arms Control Association, November 2004.
+
+368
+tigate and put a stop to such activities, most of these cases remain 
+unresolved,” the report asserted. 189 The report also assessed that 
+China “has failed to adhere” to a pledge it reportedly made to the 
+United States in November 2000 that it would not assist “in any 
+way, any country in the development of ballistic missiles that can 
+be used to deliver nuclear weapons.”  190
+The U.S. government continues to sanction China-based enti-
+ties for their facilitation of nuclear and missile proliferation. On at 
+least two occasions in 2020, for example, the State Department an-
+nounced sanctions in accordance with the Iran, North Korea, and 
+Syria Nonproliferation Act on a number of Chinese individuals and 
+firms for transferring sensitive technology and items to Iran’s mis-
+sile programs.191 More broadly, the U.S. government has placed nu-
+merous Chinese SOEs, firms, and individuals involved in China’s 
+nuclear weapons program and proliferation activities on the U.S. 
+Department of Commerce’s Entity List.192 Several Chinese individ-
+uals have been prosecuted in recent years for conspiring to illicitly 
+transfer U.S.-origin technologies with nuclear and missile applica-
+tions to China. 193
+Proliferation of Dual-Use Items to Iran
+China-based individuals and private enterprises have played a 
+dominant role  in publicly documented cases of proliferation to Iran 
+over the last decade.* In some cases, Chinese nationals have en-
+gaged in elaborate schemes to transfer dual-use items from China to 
+Iran. The most notorious of these individual proliferators is Li Fan-
+gwei (also known as Karl Lee), a China-based businessman whom 
+the United States has sanctioned 12 times since 2010, including 
+most recently in 2019, for transferring sensitive dual-use technol-
+ogies such as gyroscopes, accelerometers, high-strength alloys, and 
+graphite cylinders to Iran. 194 According to a 2019 statement by the 
+National Security Council’s senior director for weapons of mass de-
+struction (WMD), Mr. Li’s transfers “contributed to Iran’s develop-
+ment of more advanced missiles with improved accuracy, range, and 
+lethality.” 195 Mr. Li remains at large in China despite U.S. requests 
+to extradite him and a $5 million reward the U.S. government has 
+offered for information leading to his arrest or conviction. 196 An-
+other prominent example of a Chinese individual enabling prolifer -
+ation to Iran is Cheng Sihai, a Chinese businessman who provided 
+Iran with titanium sheets and tubes, seamless steel tubes, pressure 
+valves, bellows, flanges, and U.S.-origin pressure transducers for the 
+country’s uranium enrichment program.197 Mr. Cheng was arrested 
+* Affiliates or subsidiaries of Chinese SOEs have sometimes been implicated in recent prolifer -
+ation activities that benefit Iran’s WMD activities. For example, China’s Wuhan Sanjiang Export 
+and Import Co. Ltd. was sanctioned by the U.S. Department of the Treasury in 2017 for selling 
+more than $1 million worth of technology, including radars and missile guidance equipment, to 
+a subsidiary of Iran’s Ministry of Defense and Armed Forces Logistics. Wuhan Sanjiang Export 
+and Import Co. Ltd. is a subsidiary of the large enterprise China Sanjiang Space Group, which 
+is in turn a subsidiary of the SOE China Aerospace Science and Industry Corporation. In the 
+1980s and 1990s, the Chinese governemnt reportedly helped Iran explore for uranium, provided 
+the design for the conversion plant at Isfahan, and made transfers that aided Iran’s development 
+of a solid-fuel ballistic missile. Valerie Lincy, written testimony for the U.S.-China Economic and 
+Security Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 9; U.S. Depart-
+ment of the Treasury, Treasury Designates the IRGC under Terrorism Authority and Targets IRGC 
+and Military Supporters under Counter-Proliferation Authority, October 13, 2017; Foreign Trade 
+Online, “Wuhan Sanjiang Import & Export Co., Ltd.”
+
+369
+by U.S. authorities in 2014 and sentenced in 2016 to nine years in 
+prison.198
+In other cases, Iranian individuals and companies have operated 
+from inside China to arrange transfers of dual-use items. Ms. Lincy 
+highlighted the case of Ghobad Ghasempour, an Iranian-born Cana-
+dian national who set up front companies in China with the help of 
+a Chinese partner to transship U.S.-origin items with applications 
+to missile guidance systems—such as a precision lathe machine, 
+thermal imaging cameras, and an inertial guidance system—to an 
+Iranian state-controlled engineering company. 199 Mr. Ghasempour 
+was arrested in the United States in 2017 and sentenced in 2018 to 
+42 months in prison, but his accomplice remains at large, presum-
+ably in China. 200
+SOEs Share Civil Nuclear and Missile Technologies with 
+Pakistan
+Beijing was instrumental in helping Pakistan develop its nucle-
+ar program in the early 1980s, and Chinese SOEs continue to ex-
+port dual-use technologies to Pakistan that could further its nuclear 
+and missile programs.* Chinese SOEs support a variety of projects 
+linked to China’s provision of fuel and services for nuclear power 
+plants it has built in Chashma and Karachi. 201 In 2012, China Na-
+tional Nuclear Corporation subsidiary China Zhongyuan Engineer -
+ing Corporation moved ahead with a plan to build two new civil 
+nuclear reactors in Chashma in addition to the two it had built 
+there prior to China joining the Nuclear Suppliers Group in 2004.† 
+Chinese officials made this decision despite the fact that Nuclear 
+Suppliers Group guidelines ‡ prohibit such assistance to Pakistan 
+because it is neither a member of the Treaty on the Non-Prolifera-
+tion of Nuclear Weapons nor does it have all of its nuclear facilities 
+under International Atomic Energy Agency safeguards.§ 202 One of 
+the SOEs constructing the Karachi plants, the China Nuclear En-
+ergy Industry Corporation, reportedly supplied fuel assemblies and 
+core components to the Pakistan Atomic Energy Commission, the 
+main Pakistani counterpart for the project that has been on the 
+U.S. Department of Commerce’s Entity List since 1998 due to pro-
+liferation concerns.203 Trade data reviewed by the Wisconsin Project 
+* In the 1980s and 1990s, China provided Pakistan with the complete design of a tested nuclear 
+weapon; a supply of weapons-grade uranium to fuel that design; the solid-fuel short-range DF-11 
+ballistic missile system, which likely formed the basis for Pakistan’s Shaheen missile system; and 
+5,000 ring magnets necessary for centrifuges used in uranium enrichment. Shirley A. Kan, “Chi-
+na and Proliferation of Weapons of Mass Destruction and Missiles: Policy Issues,” Congressional 
+Research Service, February 26, 2003, 4–5.
+† China built two nuclear reactors at Chashma as a result of agreements struck in 1991 and 
+2003. When China joined the Nuclear Suppliers Group in 2004, it informed fellow member states 
+that apart from these two reactors at Chashma, it would not supply any further reactors to 
+Pakistan. In 2011, however, Beijing asserted that it would “grandfather” a new deal to build two 
+reactors into the 2003 agreement, which was concluded before China’s entry into the Nuclear 
+Suppliers Group. Jeff M. Smith, “China and Pakistan’s Nuclear Collusion,” Wall Street Journal, 
+April 2, 2013; Sharad Joshi, “The China-Pakistan Nuclear Deal: A Realpolitique Fait Accompli,” 
+Nuclear Threat Initiative, December 11, 2011.
+‡ The Nuclear Suppliers Group is a group of nuclear supplier countries that implements two 
+sets of guidelines for nuclear exports and nuclear-related exports in order to curb the proliferation 
+of nuclear weapons. China joined the Nuclear Suppliers Group in 2004. Nuclear Suppliers Group, 
+“About the NSG;” Nuclear Suppliers Group, “Guidelines;” Nuclear Suppliers Group, “Participants.”
+§ While Pakistan has International Atomic Energy Agency safeguard agreements in force for all 
+its Chinese-built civil nuclear reactors, its nuclear weapons facilities in Islamabad do not have 
+such safeguards. Congressional Research Service, Chinese Nuclear and Missile Proliferation, May 
+17, 2021, 2.
+
+370
+shows that in 2014 and 2017, Wuhan Sanjiang Import and Export 
+Co. Ltd., which is ultimately subordinate to the SOE China Aero-
+space Science and Industry Corporation,* shipped items with appli-
+cations to missile transporters and launchers to Pakistani entities 
+associated with the country’s ballistic missile work. 204
+Nuclear relations between China and Pakistan remain “extensive 
+and problematic,” Ms. Lincy told the Commission. 205 China’s civ-
+il nuclear cooperation with Pakistan allows the country to devote 
+more of its unsafeguarded nuclear infrastructure to fissile material 
+production for nuclear weapons and provides it access to advanced 
+nuclear technologies that could ultimately benefit the unsafeguard-
+ed program.206
+Chinese Finance Benefits North Korea’s WMD Programs
+Private actors in China indirectly support North Korea’s ac-
+quisition of dual-use goods for its nuclear and missile programs 
+by facilitating its access to the foreign currency required to fund 
+these programs.† 207 Ms. Lincy argues this support entails hosting 
+agents for North Korean financial networks that process illicit 
+transactions to finance North Korea’s nuclear and ballistic mis-
+sile programs as well as North Korean nationals who remit in-
+come ultimately used for the same purposes. 208 Then Deputy As-
+sistant Secretary of State and current Commissioner Alex Wong 
+said in a November 2020 speech that “China hosts no less than 
+two dozen North Korean WMD and ballistic missile procurement 
+representatives and bank representatives” despite a UN Security 
+Council resolution requiring the expulsion of North Korean dip-
+lomats and representatives who assist in the evasion of sanctions 
+related to the country’s nuclear and missile programs. 209 “The 
+United States has provided China with ample actionable infor -
+mation on the ongoing UN-prohibited activities occurring within 
+its borders,” Deputy Assistant Secretary Wong noted, “but Beijing 
+has chosen not to act.” 210 North Korean workers also continue to 
+reside in China and earn income for North Korea’s nuclear weap-
+ons program. For example, North Korean information technology 
+workers linked to a UN-sanctioned entity that oversees North 
+Korea’s nuclear and missile programs—the Munitions Industry 
+Department—have established Chinese companies and sponsored 
+visas for North Korean workers. 211
+* Wuhan Sanjiang Export and Import Co. Ltd. has been sanctioned by the Treasury Department 
+for its sales of technology with missile applications to Iran; it is not on the Entity List maintained 
+by the U.S. Department of Commerce. The company is also not on the Non-SDN Chinese Mili-
+tary-Industrial Complex Companies List (NS-CMIC List), presumably because it is not publicly 
+traded. U.S. Department of Commerce Bureau of Industry and Security, Supplement No. 4 to Part 
+744 - ENTITY LIST, July 19, 2021; U.S. Department of the Treasury Office of Foreign Assets 
+Control, “Non-SDN Chinese Military-Industrial Complex Companies List,” June 16, 2021; Valerie 
+Lincy, written testimony for the U.S.-China Economic and Security Review Commission, Hearing 
+on China’s Nuclear Forces, June 10, 2021, 9–10.
+† In the 1990s, Chinese SOEs provided technology and knowhow that furthered North Korea’s 
+ballistic missile program. For example, in 1998 the Chinese SOE China Academy of Launch 
+Vehicle Technology, a subsidiary of China Aerospace Corporation, allegedly helped North Korea’s 
+space program develop satellites that were later used for the North Korean Taepodong-1 MRBM. 
+Valerie Lincy, written testimony for the U.S.-China Economic and Security Review Commission, 
+Hearing on China’s Nuclear Forces, June 10, 2021, 10.
+
+371
+Implications for the United States
+The rapid buildup of China’s nuclear arsenal signals a clear de-
+parture from the country’s historically minimalist nuclear posture. 
+It suggests Chinese leaders are more expansively redefining the 
+requirements of their assured retaliation strategy and potentially 
+even contemplating a more ambitious strategy envisioning the first 
+use of nuclear weapons to accomplish China’s regional objectives. 
+As Dr. Roberts observes, the significance of China’s buildup for the 
+United States “depends, in part, on China’s answer to the question, 
+‘How much is enough?’ ” and that so far, “China has given us no 
+answer.” 212
+China’s nuclear buildup puts it on a path to become a qualitative 
+nuclear peer of the United States in around a decade, with a simi-
+larly diversified, precise, and survivable force.213 Such a force would 
+give China a truly secure second-strike capability as well as options 
+for highly calibrated nuclear use that could support both their cur -
+rent assured retaliation strategy and a new strategy of limited nu-
+clear first use in the region. China could even become a quantitative 
+nuclear peer if projections for the growth of the land-based leg of 
+the nuclear triad are correct. Regardless of what the future holds, 
+however, several troubling implications are already apparent.
+First, China’s growing nuclear capabilities create uncertainty and 
+raise the risk of accidental or unforeseen nuclear escalation during 
+a regional conflict. Because some of the PLA’s conventional and nu-
+clear forces and supporting infrastructure are either comingled or 
+indistinguishable, the United States might accidentally attack nu-
+clear capabilities in the course of attacking nonnuclear capabilities 
+during a conventional war in the Indo-Pacific. Such a situation could 
+lead to “crisis instability” whereby China resorts to nuclear first use 
+in order to preserve its nuclear deterrent, which it believes to be in 
+serious danger. Reducing the risks stemming from entanglement in 
+the PLA will be challenging because Chinese leaders may worry they 
+will undermine deterrence or reduce operational efficiency if they 
+agree to reduce entanglement. 214 Moreover, Chinese leaders may 
+not believe that accidental nuclear escalation is a serious concern. 
+The belief that inadvertent escalation is unlikely actually makes it 
+more probable, however. As several nuclear experts affiliated with 
+the Carnegie Endowment for International Peace argue, this view 
+“leaves political and military leaders less inclined, in peacetime, to 
+take steps that could mitigate the risks and more inclined, in war -
+time, to interpret ambiguous events in the worst possible light.”  215 
+Similar risks of unintentional nuclear escalation could stem from a 
+launch-on-warning posture, which is prone to false alarms.
+Second, China’s growing nuclear capabilities raise the risks that a 
+conventional conflict in the Indo-Pacific could escalate to a deliber -
+ate nuclear exchange, though these risks are still small in absolute 
+terms. The expansion, modernization, and diversification of China’s 
+nuclear forces give the PLA greater flexibility, resiliency, and capac-
+ity to use its nuclear weapons. According to Dr. Roberts, the result 
+of these changes “will be a China that’s more confident in running 
+risks, military and political, and more risk for the United States in 
+defending its interests in a conflict over Taiwan or elsewhere in the 
+region with China.” 216 In a high-stakes conventional war, Chinese 
+
+372
+leaders could conceivably decide to threaten or engage in limited 
+nuclear use against U.S. conventional forces and bases for fear of 
+losing the conflict or their grip on power.
+Third, China’s growing nuclear capabilities could strain U.S. ex-
+tended deterrence by emboldening conventional aggression or nu-
+clear coercion against U.S. allies and partners. As China’s nuclear 
+arsenal grows, Dr. Roberts observes, Chinese leaders could become 
+confident in their “ability to suppress escalatory responses by the 
+United States because of the long shadow of nuclear weapons.”  217 
+With stability achieved at the strategic level, Chinese leaders may 
+feel more confident in their ability to use conventional force to re-
+solve territorial disputes over Taiwan, the East China Sea, or the 
+South China Sea. They could also stop short of using force and in-
+stead rely on their nuclear arsenal for coercion. Chinese leaders’ 
+possible interest in threatening nuclear use to deter Japanese in-
+volvement in a Taiwan contingency seemed evident in the decision 
+by a municipal Chinese government authority to repost on social 
+media a video threatening Japan with nuclear war in July 2021 
+after Japanese leaders made statements indicating they could come 
+to Taiwan’s defense.218
+Fourth, improvements in China’s nuclear forces could complicate 
+U.S. nuclear deterrence planning in the future even if they do not 
+presently threaten the survivability of U.S. nuclear forces. Never be-
+fore has the United States faced two peer nuclear-armed adversar -
+ies at the same time. The pace of China’s nuclear modernization, the 
+expansion of its nuclear warhead stockpile, and the extent to which 
+it cooperates with Russia may require the United States to reex-
+amine its deterrence strategies and force posture. Dr. Roberts told 
+the Commission the major challenges for the United States in the 
+decades ahead are “whether, as China’s nuclear force grows . . . we 
+need a strategic force of our own that’s larger as well” and “wheth-
+er [China and Russia] are an additive problem or whether China 
+remains a lesser-included problem because it’s a smaller force.” 219
+Fifth, China’s expanding nuclear arsenal raises the specter of an 
+arms race. China’s longstanding refusal to engage in arms control 
+inhibits deeper arms reductions by the United States, exacerbates 
+the anxiety of U.S. allies, and prompts other countries to hedge in 
+their nuclear strategies. 220 Chinese leaders may be uninterested in 
+creating mechanisms for crisis communication and management 
+because, as Mr. Denmark observes, “the way they make decisions, 
+the way they share information, does not lend itself well to those 
+sorts of communications.” 221 Without China’s participation in arms 
+control, an unbridled arms race between the world’s major nuclear 
+powers could develop and U.S. allies and partners in the Indo-Pacific 
+could decide to pursue their own nuclear deterrents.
+Finally, the Chinese government’s tolerance for Chinese compa-
+nies and individuals’ proliferation of dual-use technologies under -
+mines the global nonproliferation regime and poses a different type 
+of nuclear threat to U.S. allies and partners. The nuclear and ballis-
+tic missile technologies provided by various Chinese entities to Iran, 
+North Korea, and Pakistan over the years will continue to threaten 
+the security of U.S. allies and partners such as Israel, Saudi Arabia, 
+South Korea, Japan, and India. Combined with the direct threat 
+
+373
+posed by the PLA’s growing nuclear arsenal, the indirect threat 
+posed by such proliferation will increase the pressures on U.S. allies 
+and partners to develop missile defenses and credible second-strike 
+capabilities of their own.
+
+374
+ENDNOTES FOR SECTION 2
+1. Joby Warrick, “China Is Building More than 100 New Missile Silos in Its West-
+ern Desert, Analysts Say,” Washington Post, June 30, 2021.
+2. Ned Price, “Department Press Briefing—July 1, 2021,” U.S. Department of State, 
+July 1, 2021.
+3. David Brunnstrom and Daphne Psaledakis, “U.S. Calls Build-Up of China’s 
+Nuclear Arsenal ‘Concerning,’ ” Reuters, July 2, 2021; Ned Price, “Department Press 
+Briefing—July 1, 2021,” U.S. Department of State, July 1, 2021.
+4. Robert Burns, “Pentagon Says China Planning Big Increase in Nuclear Arsenal,” 
+Associated Press, September 1, 2020.
+5. “Cheney Highlights China’s Unprecedented Nuclear Threat & The Need to De-
+fend the U.S.,” website of Congresswoman Liz Cheney, April 21, 2021.
+6. M. Taylor Fravel and Evan S. Medeiros, “China’s Search for Assured Retalia-
+tion,” International Security 35:2 (Fall 2010): 49–51.
+7. M. Taylor Fravel, Active Defense: China’s Military Strategy since 1949, Prince-
+ton University Press, 2019, 237; John Wilson Lewis and Xue Litai, China Builds the 
+Bomb, Stanford University Press, 1988, 11, 34–37.
+8. M. Taylor Fravel, Active Defense: China’s Military Strategy since 1949, Princeton 
+University Press, 2019, 246–247; Xu Weidi, “China’s Security Environment and the 
+Role of Nuclear Weapons,” in Li Bin and Tong Zhao, eds., Understanding Chinese 
+Nuclear Thinking, Carnegie Endowment for International Peace, 2016, 24–25.
+9. M. Taylor Fravel, Active Defense: China’s Military Strategy since 1949, Princeton 
+University Press, 2019, 244–245; Xu Weidi, “China’s Security Environment and the 
+Role of Nuclear Weapons,” in Li Bin and Tong Zhao, eds., Understanding Chinese 
+Nuclear Thinking, Carnegie Endowment for International Peace, 2016, 24–25.
+10. John Wilson Lewis and Xue Litai, China Builds the Bomb, Stanford Univer -
+sity Press, 1988, 11, 34–37; Xu Weidi, “China’s Security Environment and the Role 
+of Nuclear Weapons,” in Li Bin and Tong Zhao, eds., Understanding Chinese Nuclear 
+Thinking, Carnegie Endowment for International Peace, 2016, 22.
+11. Xiao Tianliang, ed., The Science of Military Strategy (战略学), Military Science 
+Press, 2020, 128, 386. Translation; M. Taylor Fravel, Active Defense: China’s Military 
+Strategy since 1949, Princeton University Press, 2019, 244–246; State Council Infor -
+mation Office of the People’s Republic of China, China’s National Defense in the New 
+Era (新时代的中国国防), July 2019. Translation; State Council Information Office of 
+the People’s Republic of China, China’s Military Strategy (中国的军事战略), May 2015. 
+Translation; State Council Information Office of the People’s Republic of China, The 
+Diversified Employment of China’s Armed Forces (中国武装力量的多样化运用), April 
+2013. Translation; State Council Information Office of the People’s Republic of Chi-
+na, China’s National Defense in 2010 (2010年中国的国防), March 2011. Translation; 
+State Council Information Office of the People’s Republic of China, China’s National 
+Defense in 2008 (2008年中国的国防), January 2009. Translation; State Council Infor -
+mation Office of the People’s Republic of China, China’s National Defense in 2006 
+(2006年中国的国防), December 2006. Translation; Yu Xijun, ed., The Science of Second 
+Artillery Campaigns (第二炮兵战役学), People’s Liberation Army Publishing House, 
+2004, 297–316. Translation.
+12. Xiao Tianliang, ed., The Science of Military Strategy (战略学), Military Science 
+Press, 2020, 128, 386. Translation.
+13. M. Taylor Fravel, Active Defense: China’s Military Strategy since 1949, Princ-
+eton University Press, 2019, 238–239; Sun Xiangli, “The Development of Nuclear 
+Weapons in China,” in Li Bin and Tong Zhao, eds., Understanding Chinese Nuclear 
+Thinking, Carnegie Endowment for International Peace, 2016, 82–83.
+14. Sun Xiangli, “The Development of Nuclear Weapons in China,” in Li Bin and 
+Tong Zhao, eds., Understanding Chinese Nuclear Thinking, Carnegie Endowment for 
+International Peace, 2016, 83.
+15. State Council Information Office of the People’s Republic of China, China’s Na-
+tional Defense in 2006 (2006年中国的国防), December 2006. Translation; State Coun-
+cil Information Office of the People’s Republic of China, China’s National Defense in 
+2002 (2002年中国的国防), February 2002. Translation.
+16. Ministry of Foreign Affairs of the People’s Republic of China, Wang Yi Delivers 
+a Video Speech at the Conference on Disarmament in Geneva, June 11, 2021.
+17. Wilson Center History and Public Policy Program Digital Archive, “Statement 
+of the Government of the People’s Republic of China,” October 16, 1964.
+18. United Nations, “Letter Dated 7 June 1978 from the Permanent Representative 
+of China to the United Nations Addressed to the Secretary-General,” June 7, 1978; 
+United Nations, “Letter Dated 6 April 1995 from the Permanent Representative of 
+China to the United Nations Addressed to the Secretary-General,” April 6, 1995.
+
+375
+19. David Logan, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 1–2; John 
+Dotson, “Beijing Rejects Any Involvement in Nuclear Arms Limitation Talks,” China 
+Brief 20:19 (October 2020); Reuters, “China Says It Won’t Take Part in Trilateral 
+Nuclear Arms Talks,” May 6, 2019; Pan Zhenqiang, “China’s No First Use of Nuclear 
+Weapons,” in Li Bin and Tong Zhao, eds., Understanding Chinese Nuclear Thinking, 
+Carnegie Endowment for International Peace, 2016, 64–65.
+20. Ministry of Foreign Affairs of the People’s Republic of China, Wang Yi Delivers 
+a Video Speech at the Conference on Disarmament in Geneva, June 11, 2021; Embassy 
+of the People’s Republic of China in the United States of America, “Foreign Ministry 
+Spokesperson Zhao Lijian’s Regular Press Conference on April 14, 2021,” April 14, 
+2021; State Council Information Office of the People’s Republic of China, China’s 
+National Defense in the New Era (新时代的中国国防), July 2019. Translation; Shou 
+Xiaosong, ed., The Science of Military Strategy (战略学), Military Science Press, 2013, 
+172. Translation.
+21. Barton Gellman, “U.S. and China Nearly Came to Blows in ’96,” Washington 
+Post, June 21, 1998.
+22. Joseph Kahn, “Chinese General Threatens Use of A-Bombs if U.S. Intrudes,” 
+New York Times, July 15, 2005.
+23. Henrik Stålhane Hiim and Magnus Langset Trøan, “Hardening Chinese Real-
+politik in the 21st Century: The Evolution of Beijing’s Thinking about Arms Control,” 
+Journal of Contemporary China (2021), 6–7, 14.
+24. Nancy Gallagher, “China on Arms Control,” in James M. Smith and Paul J. 
+Bolts, eds., China’s Strategic Arsenal: Worldview, Doctrine, and Systems, Georgetown 
+University Press, 2021, 201; Wu Riqiang, “How China Practices and Thinks about 
+Nuclear Transparency,” in Li Bin and Tong Zhao, eds., Understanding Chinese Nu-
+clear Thinking, Carnegie Endowment for International Peace, 2016, 232; Pan Zhen-
+qiang, “China’s No First Use of Nuclear Weapons,” in Li Bin and Tong Zhao, eds., 
+Understanding Chinese Nuclear Thinking, Carnegie Endowment for International 
+Peace, 2016, 67; James Mulvenon and David Finkelstein, eds., China’s Revolution 
+in Doctrinal Affairs: Emerging Trends in the Operational Art of the Chinese People’s 
+Liberation Army, Center for Naval Analysis, 2005, 131; Kevin Pollpeter, U.S.-China 
+Security Management: Assessing the Military-to-Military Relationship, RAND Corpo-
+ration, 2004, xiv.
+25. Henrik Stålhane Hiim and Magnus Langset Trøan, “China’s Atomic Pessimism 
+and the Future of Arms Control,” War on the Rocks, June 21, 2021; Brad Roberts, 
+“U.S. Perspective,” in Patricia M. Kim, ed., Enhancing U.S.-China Strategic Stability 
+in an Era of Strategy Competition: U.S. and Chinese Perspectives, United States In-
+stitute for Peace 172 (April 2021), 11–12; Emma Farge, “U.S. Says China Is Resisting 
+Nuclear Arms Talks,” Reuters, May 18, 2021.
+26. China’s Ministry of Foreign Affairs, “Briefing by Mr. Fu Cong, Director General 
+of the Department of Arms Control and Disarmament of Ministry of Foreign Affairs,” 
+August 6, 2019.
+27. Xinhua, “China Reiterates Opposition to Multilateralization of INF Treaty,” 
+July 30, 2019.
+28. China’s Ministry of Foreign Affairs, Foreign Ministry Spokesperson Wang Wen-
+bin’s Regular Press Conference on February 5, 2021, February 6, 2021.
+29. China’s Ministry of Foreign Affairs, Foreign Ministry Spokesperson Wang Wen-
+bin’s Regular Press Conference on February 5, 2021, February 6, 2021.
+30. Hu Gaochen, “An Analysis of China-U.S. Asymmetric Nuclear Stability and the 
+U.S. Strategic Opportunism” (中美不对称核稳定与美国战略机会主义论析), Journal of 
+International Security 2 (2021). Translation; Zhang Jingquan, “On the Weakening of 
+Nuclear Deterrence Effect in Northeast Asia and Its Countermeasures” (东北亚 “核威
+慑效应弱化” 及其应对思考), Asia-Pacific Security and Maritime Affairs 3 (2020). Trans-
+lation; Xu Weidi, “China’s Security Environment and the Role of Nuclear Weapons,” 
+in Li Bin and Tong Zhao, eds., Understanding Chinese Nuclear Thinking, Carnegie 
+Endowment for International Peace, 2016, 35.
+31. Christopher Twomey, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 5; Eric 
+Heginbotham et al., “China’s Evolving Nuclear Deterrent: Major Drivers and Issues 
+for the United States,” RAND Corporation, 2017, 78–90.
+32. Christopher Twomey, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 5; Eric 
+Heginbotham et al., “China’s Evolving Nuclear Deterrent: Major Drivers and Issues 
+for the United States,” RAND Corporation, 2017, 73–74, 78.
+33. Christopher Twomey, written testimony for the U.S.-China Economic and Se-
+curity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 5; 
+
+376
+Rajesh Basrur, “The India-China Nuclear Dynamic: India’s Options,” ORF Issue Brief 
+430 (December 2020); Toby Dalton and Tong Zhao, “At a Crossroads? China-India 
+Nuclear Relations after the Border Clash,” Carnegie Endowment for International 
+Peace, August 19, 2020.
+34. People’s Liberation Army Daily, “Solidly Develop Strategic Capabilities: Consci-
+entiously Study and Implement Chairman Xi’s Important Speech during His Inspec-
+tion of the Rocket Force” (扎扎实实把战略能力搞上去—认真学习贯彻习主席视察火箭军
+机关时重要讲话), September 27, 2016. Translation.
+35. Zhang Changwei, He Tianjin, and Ge Song, “The Rocket Force Convenes the 
+Fourth Changying Forum in Beijing: Deeply Studying the Issue of Building the Rock-
+et Force’s Strategic Deterrence and Actual Fighting Capabilities, Providing Scientific 
+Theory Support for the Building, Development and Implementation of the Strategic 
+Force” (火箭军第四届长缨论坛在京举行: 深化对火箭军战略威慑和实践能力建设问题研究, 
+为战略力量建设发展与运用提供科学理论支撑), Rocket Forces Newspaper, September 26, 
+2017. Translation; Wan Huilan and Lue Xuejuan, “Firmly Bear in Mind the Sacred 
+Missions, Forge the Nation’s Potent Force” (牢记神圣使命铸就国之重器), Rocket Forces 
+Newspaper, September 23, 2017. Translation.
+36. Brad Roberts, Director of the Center for Global Security Research at Lawrence 
+Livermore National Laboratory, interview with Commission staff, August 27, 2021; 
+Brad Roberts, written testimony for the U.S.-China Economic and Security Review 
+Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 4–5.
+37. Roderick Lee, “PLA Likely Begins Construction of an Intercontinental Ballistic 
+Missile Silo Site Near Hanggin Banner,” Air University, August 12, 2021.
+38. David Logan, “Making Sense of China’s Missiles Forces,” in Phillip C. Saunders, 
+Arthur S. Ding, and Andrew Scobell, eds., Chairman Xi Remakes the PLA: Assessing 
+Chinese Military Reforms, National Defense University Press, 2019, 395; Christopher 
+Cowan, “Getting from Megatons to Kilotons,” ASPI Strategist, October 8, 2018.
+39. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 87.
+40. Hans M. Kristensen, “China’s Strategic Systems and Programs,” in James M. 
+Smith and Paul J. Bolts, eds., China’s Strategic Arsenal: Worldview, Doctrine, and 
+Systems, Georgetown University Press, 2021, 102.
+41. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 45, 86; Renny Ba-
+biarz, “China’s Nuclear Submarine Force,” China Brief 17:10, July 21, 2017.
+42. Kyle Mizokami, “Underwater Dud: China’s First Nuclear Submarine Failed 
+Miserably,” National Interest, July 15, 2021; Renny Babiarz, “China’s Nuclear Sub-
+marine Force,” China Brief 17:10, July 21, 2017.
+43. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 86; Renny Babiarz, 
+“China’s Nuclear Submarine Force,” China Brief 17:10, July 21, 2017.
+44. Hans M. Kristensen and Matt Korda, “Chinese Nuclear Forces, 2020,” Nuclear 
+Notebook, December 10, 2020, 451; U.S. Department of Defense, Military and Secu-
+rity Developments Involving the People’s Republic of China 2020: Annual Report to 
+Congress, 2020, 86; Renny Babiarz, “China’s Nuclear Submarine Force,” China Brief 
+17:10, July 21, 2017.
+45. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 45; U.S. Depart-
+ment of Defense, Military and Security Developments Involving the People’s Republic 
+of China 2019: Annual Report to Congress, 2019, 65–67; U.S. Department of Defense, 
+Military and Security Developments Involving the People’s Republic of China 2018: 
+Annual Report to Congress, 2018, 76–77; U.S. Department of Defense, Military and 
+Security Developments Involving the People’s Republic of China 2017: Annual Report 
+to Congress, 2017, 60–61; U.S. Department of Defense, Military and Security Devel-
+opments Involving the People’s Republic of China 2016: Annual Report to Congress, 
+2016, 26; Cecil Haney, “Transcript: Admiral Cecil Haney, Commander STRATCOM, 
+Defense Writers Group,” Defense Writers Group, October 22, 2015, 16–17.
+46. Hans Kristensen, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 4.
+47. Hans Kristensen, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 3; Sebastien 
+Roblin, “China’s Underwater ‘Nukes’: Country-Killers or Paper Tigers?” National In-
+terest, July 28, 2018.
+48. Hans M. Kristensen and Matt Korda, “Chinese Nuclear Forces, 2020,” Nuclear 
+Notebook, December 10, 2020, 452.
+49. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 86.
+
+377
+50. Hans Kristensen, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 4; Hans M. 
+Kristensen and Matt Korda, “Chinese Nuclear Forces, 2020,” Nuclear Notebook, De -
+cember 10, 2020, 452.
+51. Hans M. Kristensen and Matt Korda, “Chinese Nuclear Forces, 2020,” Nuclear 
+Notebook, December 10, 2020, 452–453.
+52. Hans M. Kristensen and Matt Korda, “Chinese Nuclear Forces, 2020,” Nuclear 
+Notebook, December 10, 2020, 453.
+53. Caitlin Talmadge, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 6.
+54. Hans M. Kristensen, “China’s Strategic Systems and Programs,” in James M. 
+Smith and Paul J. Bolts, eds., China’s Strategic Arsenal: Worldview, Doctrine, and 
+Systems, Georgetown University Press, 2021, 97–100.
+55. Hans M. Kristensen, “China’s Strategic Systems and Programs,” in James M. 
+Smith and Paul J. Bolts, eds., China’s Strategic Arsenal: Worldview, Doctrine, and 
+Systems, Georgetown University Press, 2021, 98–101; Bates Gill, “Organization of 
+China’s Strategic Forces,” in James M. Smith and Paul J. Bolts, eds., China’s Strategic 
+Arsenal: Worldview, Doctrine, and Systems, Georgetown University Press, 2021, 170.
+56. Hans M. Kristensen, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 2–3; U.S. 
+Department of Defense, Military and Security Developments Involving the People’s 
+Republic of China 2020: Annual Report to Congress, 2020, 56.
+57. Decker Everleth, “China’s Mobile ICBM Brigades: The DF-31 and DF-41,” A 
+Boy and His Blog, July 2, 2020; U.S. Department of Defense, Military and Security 
+Developments Involving the People’s Republic of China 2020: Annual Report to Con-
+gress, 2020, 56, 58, 86; Missile Defense Project, “DF-4 (Dong Feng-4 / CSS-3),” Center 
+for Strategic and International Studies, November 26, 2019; Missile Defense Project, 
+“DF-5 (Dong Feng-5 / CSS-4),” Center for Strategic and International Studies, Novem-
+ber 18, 2019; Missile Defense Project, “DF-31 (Dong Feng-31 / CSS-10),” Center for 
+Strategic and International Studies, October 8, 2019.
+58. Admiral Charles A. Richard, testimony before the Senate Armed Services Com-
+mittee, April 20, 2021; Missile Defense Project, “DF-41 (Dong Feng-41 / CSS-X-20),” 
+Center for Strategic and International Studies, October 8, 2019.
+59. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 56.
+60. Hans M. Kristensen, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 2; U.S. 
+Department of Defense, Military and Security Developments Involving the People’s 
+Republic of China 2020: Annual Report to Congress, 2020, 56; Henry Boyd, “2019 
+Pentagon Report: China’s Rocket Force Trajectory,” International Institute for Strate-
+gic Studies, May 15, 2019.
+61. Hans M. Kristensen, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 2.
+62. Hans M. Kristensen, written testimony for the U.S.-China Economic and Se-
+curity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 2–3.
+63. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 56.
+64. Roderick Lee, “PLA Likely Begins Construction of an Intercontinental Ballistic 
+Missile Silo Site Near Hanggin Banner,” Air University, August 12, 2021; Matt Korda 
+and Hans Kristensen, “China Is Building a Second Nuclear Missile Silo Field,” Fed -
+eration of American Scientists, July 26, 2021; Joby Warrick, “China Is Building More 
+than 100 New Missile Silos in Its Western Desert, Analysts Say,” Washington Post, 
+June 30, 2021; Hans Kristensen, “China’s Expanding Missile Training Area: More 
+Silos, Tunnels, and Support Facilities,” Federation of American Scientists, February 
+24, 2021.
+65. Matt Korda and Hans Kristensen, “China Is Building a Second Nuclear Missile 
+Silo Field,” Federation of American Scientists, July 26, 2021; Hans M. Kristensen and 
+Matt Korda, “United States Nuclear Forces, 2020,” Nuclear Notebook, January 13, 
+2020; U.S. Department of Defense, “America’s Nuclear Triad.” https:/ /www.defense.
+gov/Multimedia/Experience/Americas-Nuclear-Triad/ .
+66. Roderick Lee, “PLA Likely Begins Construction of an Intercontinental Ballistic 
+Missile Silo Site Near Hanggin Banner,” Air University, August 12, 2021.
+67. Hans Kristensen, Director of the Nuclear Information Project at the Federation 
+of American Scientists, interview with Commission staff, August 27, 2021.
+68. U.S.-China Economic and Security Review Commission, 2012 Annual Report to 
+Congress, November 2012, 180.
+
+378
+69. U.S. Department of Defense, Military and Security Developments Involving 
+the People’s Republic of China 2020: Annual Report to Congress, 2020, 91; Mark 
+A. Stokes, “China’s Nuclear Warhead Storage and Handling System,” Project 2049, 
+March 12, 2010, 8.
+70. Matthew E. Dillow, “Nuclear Hell on Wheels: Examining the Need for a Mobile 
+ICBM,” U.S. Airforce Center for Unconventional Weapons Studies, June 2015, 1–2.
+71. Joby Warrick, “China Is Building More than 100 New Missile Silos in Its West-
+ern Desert, Analysts Say,” Washington Post, June 30, 2021.
+72. Lin Yang, “U.S. Concerned about Report China Is Expanding Missile Silos,” 
+Voice of America, July 2, 2021.
+73. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 90.
+74. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 86; Missile De-
+fense Project, “DF-21 (Dong Feng-21 / CSS-5),” Center for Strategic and International 
+Studies, January 2, 2020; Missile Defense Project, “DF-26 (Dong Feng-26),” Center for 
+Strategic and International Studies, June 23, 2020.
+75. Hans M. Kristensen and Matt Korda, “Chinese Nuclear Forces, 2020,” Nuclear 
+Notebook, December 10, 2020, 447.
+76. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 56; Joshua Pollack 
+and Scott LaFoy, “China’s DF-26: A Hot-Swappable Missile?” Arms Control Wonk, 
+May 17, 2020.
+77. Gerald C. Brown, “Understanding the Risks and Realities of China’s Nuclear 
+Forces,” Arms Control Association, June 21, 2021; Joshua Pollack and Scott LaFoy, 
+“China’s DF-26: A Hot-Swappable Missile?” Arms Control Wonk, May 17, 2020.
+78. Phillip C. Saunders, written testimony for the U.S.-China Economic and Se-
+curity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 5–6; 
+Joshua Pollack and Scott LaFoy, “China’s DF-26: A Hot-Swappable Missile?” Arms 
+Control Wonk, May 17, 2020.
+79. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 88.
+80. Roderick Lee, “China’s Air Force Might Be Back in the Nuclear Business,” Dip-
+lomat, September 9, 2020; U.S. Department of Defense, Military and Security Devel-
+opments Involving the People’s Republic of China 2020: Annual Report to Congress, 
+2020, 50–51; U.S. Department of Defense, Military and Security Developments In-
+volving the People’s Republic of China 2018: Annual Report to Congress, 2018, 75–77.
+81. Hans M. Kristensen and Matt Korda, “Chinese Nuclear Forces, 2020,” Nuclear 
+Notebook, December 10, 2020, 453; U.S. Department of Defense, Military and Secu-
+rity Developments Involving the People’s Republic of China 2020: Annual Report to 
+Congress, 2020, 87.
+82. Roderick Lee, “China’s Air Force Might Be Back in the Nuclear Business,” Dip-
+lomat, September 9, 2020.
+83. Hans M. Kristensen and Matt Korda, “Chinese Nuclear Forces, 2020,” Nuclear 
+Notebook, December 10, 2020, 453.
+84. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 87; Hans Kris-
+tensen, written testimony for the U.S.-China Economic and Security Review Commis-
+sion, Hearing on China’s Nuclear Forces, June 10, 2021, 9.
+85. Roderick Lee, “China’s Air Force Might Be Back in the Nuclear Business,” Dip-
+lomat, September 9, 2020.
+86. Roderick Lee, “China’s Air Force Might Be Back in the Nuclear Business,” Dip-
+lomat, September 9, 2020.
+87. David Logan, written testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 9.
+88. Hans M. Kristensen and Matt Korda, “Status of World Nuclear Forces,” Feder -
+ation of American Scientists, May 2021.
+89. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 85.
+90. U.S. Department of Defense, Annual Report on the Military Power of the Peo-
+ple’s Republic of China, 2004, 37; U.S. Department of Defense, Annual Report on the 
+Military Power of the People’s Republic of China, 2003, 31.
+91. Hans M. Kristensen and Matt Korda, “Chinese Nuclear Forces, 2020,” Nuclear 
+Notebook, December 10, 2020, 443.
+92. Hans M. Kristensen and Matt Korda, “Chinese Nuclear Forces, 2020,” Nuclear 
+Notebook, December 10, 2020, 443.
+
+379
+93. Dataset provided via email by Hans M. Kristensen, Director of the Nuclear 
+Information Project at the Federation of American Scientists, July 22, 2021.
+94. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 85.
+95. Hans M. Kristensen, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 6.
+96. Charles A. Richard, “Forging 21st-Century Strategic Deterrence,” U.S. Naval 
+Institute Proceedings, February 2021, 12–14, 3.
+97. Hans Kristensen, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 10; Hans M. 
+Kristensen and Matt Korda, “United States Nuclear Weapons, 2021,” Nuclear Note-
+book, January 12, 2021.
+98. Hans Kristensen, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 6–7.
+99. Hans Kristensen, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 6.
+100. Hans Kristensen, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 6.
+101. Hans Kristensen, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 6–7.
+102. Hui Zhang, “China’s Fissile Material Production and Stockpile,” International 
+Panel of Fissile Materials, 2017, 2–3, 19, 38.
+103. Mark Hibbs, written testimony before the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 9.
+104. Mark Hibbs, written testimony before the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 10.
+105. Al Jazeera, “Concerns Grow over China Nuclear Reactors Shrouded in Mys-
+tery,” May 19, 2021.
+106. AllSource Analysis, “China: New Nuclear Test Area Activity, Lop Nur, 2019–
+2021,” June 18, 2021, 5.
+107. AllSource Analysis, “Expansion at China’s Pingtong Nuclear Facility, 2002–
+2020,” November 12, 2020.
+108. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 88.
+109. Christopher Cowan, “Getting from Megatons to Kilotons,” ASPI Strategist, 
+October 8, 2018.
+110. Phillip C. Saunders and David C. Logan, “China’s Regional Nuclear Capabil-
+ity,” in James M. Smith and Paul J. Bolt, eds., China’s Strategic Arsenal: Worldview, 
+Doctrine, and Systems, Georgetown University Press, 2021, 126; Chen Feng, “If the 
+United States Resumes Nuclear Testing, What Will China Do?” (如果美国恢复核试验, 
+中国怎么办?), Guancha, June 15, 2020. Translation.
+111. Phillip C. Saunders and David C. Logan, “China’s Regional Nuclear Capabil-
+ity,” in James M. Smith and Paul J. Bolt, eds., China’s Strategic Arsenal: Worldview, 
+Doctrine, and Systems, Georgetown University Press, 2021, 127; Hans M. Kristensen, 
+Robert S. Norris, and Matthew G. McKinzie, Chinese Nuclear Forces and U.S. Nuclear 
+War Planning, Federation of American Scientists and the Natural Resources Defense 
+Council, November 2006, 98–99; U.S. Central Intelligence Agency, PRC Defense Policy 
+and Armed Forces, National Intelligence Estimate 13–76, November 11, 1976, 16, 51. 
+https:/ /www.cia.gov/readingroom/docs/DOC_0001097855.pdf.
+112. Hans M. Kristensen, Robert S. Norris, and Matthew G. McKinzie, Chinese 
+Nuclear Forces and U.S. Nuclear War Planning, Federation of American Scientists 
+and the Natural Resources Defense Council, November 2006, 99.
+113. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 88; Chen Feng, “If 
+the United States Resumes Nuclear Testing, What Will China Do?” (如果美国恢复核试
+验, 中国怎么办?), Guancha, June 15, 2020. Translation; Global Times, “China Should 
+Seriously Study the Option of Openly Developing Low-Yield Nuclear Weapons” (中国
+应认真研究公开发展低当量核武器的选项), February 5, 2018. Translation.
+114. People’s Daily, “China’s Dongfeng-41 Technology Surpasses the United States 
+and Russia: Longer Range and Higher Accuracy” (中国东风41部分技术超过美俄: 射程
+更远 精度更高), November 24, 2017. Translation.
+115. Julian Borger, “China May Have Conducted Low-Level Nuclear Test, U.S. 
+Claims,” Guardian, April 16, 2020; Jonathan Landy, “U.S. Says China May Have Con-
+ducted Low-Level Nuclear Test Blasts,” Reuters, April 15, 2020.
+116. Congressional Research Service, “Nuclear Command, Control, and Communi-
+cations (NC3) Modernization,” December 8, 2020.
+
+380
+117. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 2.
+118. State Council Information Office of the People’s Republic of China, China’s 
+Military Strategy (中国的军事战略), May 2015. Translation.
+119. Phillip C. Saunders, written testimony for the U.S.-China Economic and Se-
+curity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 1–2; 
+Fiona Cunningham, “Nuclear Command, Control, and Communications Systems of 
+the People’s Republic of China,” Nautilus Institute, July 18, 2019.
+120. Phillip C. Saunders, written testimony for the U.S.-China Economic and Se-
+curity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 1–2; 
+Fiona Cunningham, “Nuclear Command, Control, and Communications Systems of 
+the People’s Republic of China,” Nautilus Institute, July 18, 2019.
+121. Fiona Cunningham, “Nuclear Command, Control, and Communications Sys-
+tems of the People’s Republic of China,” Nautilus Institute, July 18, 2019.
+122. Phillip C. Saunders, written testimony for the U.S.-China Economic and Se-
+curity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 2, 
+4; Fiona Cunningham, “Nuclear Command, Control, and Communications Systems 
+of the People’s Republic of China,” Nautilus Institute, July 18, 2019; Federation of 
+American Scientists, “Command and Control,” June 23, 2000. https://fas.org/nuke/
+guide/china/c3i/.
+123. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 88.
+124. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 88.
+125. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 4.
+126. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 4.
+127. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 3.
+128. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 4.
+129. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 3; Ste-
+phen Chen, “China’s New Antenna Is Five Times the Size of New York City, but Some 
+Fear It Could Be a Cancer Risk,” South China Morning Post, December 31, 2018.
+130. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 4.
+131. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 4.
+132. Hans M. Kristensen, “China’s Strategic Systems and Programs,” in James M. 
+Smith and Paul J. Bolts, eds., China’s Strategic Arsenal: Worldview, Doctrine, and 
+Systems, Georgetown University Press, 2021, 115–116; Sohu, “This Kind of Early 
+Warning Radar Must Be Large, with a Detection Distance of More than 5,000 Kilo-
+meters” (我国这种预警雷达一定要大, 探测距离超过5000公里, 美日韩躺枪), October 12, 
+2017. Translation.
+133. Hans M. Kristensen, “China’s Strategic Systems and Programs,” in James M. 
+Smith and Paul J. Bolts, eds., China’s Strategic Arsenal: Worldview, Doctrine, and 
+Systems, Georgetown University Press, 2021, 116.
+134. Hans M. Kristensen, “China’s Strategic Systems and Programs,” in James M. 
+Smith and Paul J. Bolts, eds., China’s Strategic Arsenal: Worldview, Doctrine, and 
+Systems, Georgetown University Press, 2021, 116; Liu Zhen, “China’s New High-Fre-
+quency Radar System Could Spot Stealth Aircraft from a Long Distance, Creator 
+Says,” South China Morning Post, June 11, 2019.
+135. Zhang Qian, “Space-Based Infrared Early Warning Satellites: The Never 
+Tired Space ‘Sentinel’ ” (天基红外预警卫星 永不疲惫的太空 “哨兵”), Science and Tech-
+nology Daily, February 7, 2018. Translation. http:/ /webcache.googleusercontent.com/
+search?q=cache:nrScasxTo6oJ:www.xinhuanet.com/mil/2018-02/07/c_129808061.
+htm+&cd=1&hl=en&ct=clnk&gl=us.
+136. Hans M. Kristensen, “China’s Strategic Systems and Programs,” in James M. 
+Smith and Paul J. Bolts, eds., China’s Strategic Arsenal: Worldview, Doctrine, and Sys-
+tems, Georgetown University Press, 2021, 117; Stephen Clark, “China’s First Launch 
+of 2020 Lofts Mystery Payload,” Spaceflight Now, January 7, 2020.
+137. Minnie Chan, “Vladimir Putin Says Russia Is Helping China Build a Missile 
+Early Warning System,” South China Morning Post, October 4, 2019; U.S. Depart-
+ment of Defense, Military and Security Developments Involving the People’s Republic 
+of China 2020: Annual Report to Congress, 2020, 89.
+
+381
+138. Hans M. Kristensen, “China’s Strategic Systems and Programs,” in James M. 
+Smith and Paul J. Bolts, eds., China’s Strategic Arsenal: Worldview, Doctrine, and 
+Systems, Georgetown University Press, 2021, 117; Business Standard, “China’s Eye 
+in the Sky: An Analysis of China’s Satellite Surveillance,” October 30, 2019.
+139. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 8.
+140. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 8.
+141. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 73.
+142. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 9; U.S. 
+Department of Defense, Military and Security Developments Involving the People’s 
+Republic of China 2020: Annual Report to Congress, 2020, 73.
+143. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 9.
+144. David Santoro, “China: The Forgotten Nuclear Power No More,” Pacific Forum, 
+July 14, 2021; Christopher Twomey, written testimony for the U.S.-China Economic 
+and Security Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 
+4–5; Gerald C. Brown, “Understanding the Risks and Realities of China’s Nuclear 
+Forces,” Arms Control Association, June 2021; Fiona S. Cunningham and M. Taylor 
+Fravel, “Assuring Assured Retaliation: China’s Nuclear Posture and U.S.-China Stra-
+tegic Stability,” International Security 40:2 (Fall 2015).
+145. Christopher Twomey, written testimony for the U.S.-China Economic and Se-
+curity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 4–5; 
+David Logan, written testimony for the U.S.-China Economic and Security Review 
+Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 8; Caitlin Talmadge, 
+written testimony for the U.S.-China Economic and Security Review Commission, 
+Hearing on China’s Nuclear Forces, June 10, 2021, 12–13; Hu Gaochen, “An Analysis 
+of China-U.S. Asymmetric Nuclear Stability and the U.S. Strategic Opportunism” (中
+美不对称核稳定与美国战略机会主义论析), Journal of International Security 2 (2021). 
+Translation; Zhang Jingquan, “On the Weakening of Nuclear Deterrence Effect in 
+Northeast Asia and Its Countermeasures” (东北亚 “核威慑效应弱化” 及其应对思考), 
+Asia-Pacific Security and Maritime Affairs 3 (2020). Translation; Fiona S. Cunning-
+ham and M. Taylor Fravel, “Assuring Assured Retaliation: China’s Nuclear Posture 
+and U.S.-China Strategic Stability,” International Security 40:2 (Fall 2015): 16, 19; Xu 
+Weidi, “China’s Security Environment and the Role of Nuclear Weapons,” in Li Bin 
+and Tong Zhao, eds., Understanding Chinese Nuclear Thinking, Carnegie Endowment 
+for International Peace, 2016, 34–35.
+146. David Santoro, “China: The Forgotten Nuclear Power No More,” Pacific Forum, 
+July 14, 2021; Fiona S. Cunningham and M. Taylor Fravel, “Assuring Assured Re-
+taliation: China’s Nuclear Posture and U.S.-China Strategic Stability,” International 
+Security 40:2 (Fall 2015): 10.
+147. David Santoro, “China: The Forgotten Nuclear Power No More,” Pacific Forum, 
+July 14, 2021; Caitlin Talmadge, “China and Nuclear Weapons,” Brookings, Septem-
+ber 2019, 2.
+148. Brad Lendon, “China Is Building a Sprawling Network of Missile Silos, Sat-
+ellite Imagery Appears to Show,” CNN, July 2, 2021; Hans Kristensen, “China’s Ex-
+panding Missile Training Area: More Silos, Tunnels, and Support Facilities,” Federa-
+tion of American Scientists, February 24, 2021.
+149. Tong Zhao, “Strategic Warning and China’s Nuclear Posture,” Diplomat, May 
+28, 2015.
+150. Tong Zhao, “Modernizing without Destabilizing: China’s Nuclear Posture in a 
+New Era,” Carnegie-Tsinghua Center for Global Policy, August 25, 2020.
+151. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 9.
+152. Alastair Iain Johnston, “China’s New ‘Old Thinking’: The Concept of Limited 
+Deterrence,” International Security 20:3 (Winter 1995–1996): 5–6, 17–20.
+153. Christopher P. Twomey, written testimony before the U.S.-China Economic 
+and Security Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 
+4; Christopher Twomey, “Nuclear Doctrine and Deterrence Concept,” in James M. 
+Smith and Paul J. Bolt, eds., China’s Strategic Arsenal: Worldview, Doctrine, and Sys-
+tems, 2021, 55.
+154. David C. Logan, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021; Christopher 
+Twomey, “Nuclear Doctrine and Deterrence Concept,” in James M. Smith and Paul 
+J. Bolt, eds., China’s Strategic Arsenal: Worldview, Doctrine, and Systems, 2021, 52; 
+
+382
+U.S. Department of Defense, Military and Security Developments Involving the Peo-
+ple’s Republic of China 2020: Annual Report to Congress, 2020, 86; State Council 
+Information Office of the People’s Republic of China, China’s National Defense in 
+the New Era, July 2019; Phillip C. Saunders, written testimony for the U.S.-China 
+Economic and Security Review Commission, Hearing on China’s Cyber and Nuclear 
+Capabilities, March 26, 2012, 4–5; Larry M. Wortzel, “China’s Nuclear Forces: Oper -
+ations, Training, Doctrine, Command, Control, and Campaign Planning,” U.S. Army 
+War College Strategic Studies Institute, 2007, 26–27.
+155. U.S. Department of Defense, Military and Security Developments Involving the 
+People’s Republic of China 2020: Annual Report to Congress, 2020, 86.
+156. Yu Xijun, ed., The Science of Second Artillery Campaigns (第二炮兵战役学), 
+People’s Liberation Army Publishing House, 2004, 294–296. Translation.
+157. Xiao Tianliang, ed., The Science of Military Strategy (战略学), Military Science 
+Press, 2020, 138. Translation.
+158. Phillip C. Saunders, written testimony for the U.S.-China Economic and Se-
+curity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 9–10; 
+Caitlin Talmadge, written testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 3; Christopher 
+Twomey, written testimony for the U.S.-China Economic and Security Review Com-
+mission, Hearing on China’s Nuclear Forces, June 10, 2021, 4; James Samuel Johnson, 
+“Chinese Evolving Approaches to Nuclear ‘War-Fighting’: An Emerging Intense US–
+China Security Dilemma and Threats to Crisis Stability in the Asia Pacific,” Asian 
+Security (2018): 3–4; Eric Heginbotham et al., “China’s Evolving Nuclear Deterrent: 
+Major Drivers and Issues for the United States,” RAND Corporation, 2017, 135–137.
+159. Christopher P. Twomey, Associate Professor at the Naval Postgraduate School, 
+interview with Commission staff, July 20, 2021.
+160. Caitlin Talmadge, written testimony for the U.S.-China Economic and Securi-
+ty Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 3.
+161. Chen Feng, “If the United States Resumes Nuclear Testing, What Will China 
+Do?” (如果美国恢复核试验, 中国怎么办?), Guancha, June 15, 2020. Translation; Global 
+Times, “China Should Seriously Study the Option of Openly Developing Low-Yield 
+Nuclear Weapons” (中国应认真研究公开发展低当量核武器的选项), February 5, 2018. 
+Translation.
+162. Caitlin Talmadge, written testimony for the U.S.-China Economic and Securi-
+ty Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 3–4.
+163. Charles A. Richard, testimony before the Senate Armed Services Committee, 
+April 20, 2021, 6.
+164. Jacob Stokes, “China’s Missile Program and U.S. Withdrawal from the In-
+termediate-Range Nuclear Forces (INF) Treaty,” U.S.-China Economic and Security 
+Review Commission, February 4, 2019, 2.
+165. Jacob Stokes, “China’s Missile Program and U.S. Withdrawal from the In-
+termediate-Range Nuclear Forces (INF) Treaty,” U.S.-China Economic and Security 
+Review Commission, February 4, 2019, 3–4.
+166. Brad Roberts, oral testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 215.
+167. Phillip C. Saunders, oral testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 62–63; David 
+Logan, “Are They Reading Schelling in Beijing? The Dimensions, Drivers, and Risks 
+of Nuclear-Conventional Entanglement in China,” forthcoming in Journal of Strategic 
+Studies (2020): 33.
+168. Gerald C. Brown, “Understanding the Risks and Realities of China’s Nuclear 
+Forces,” Arms Control Association, June 21, 2021; Phillip C. Saunders, oral testimony 
+for the U.S.-China Economic and Security Review Commission, Hearing on China’s 
+Nuclear Forces, June 10, 2021, 62; David Logan, “Are They Reading Schelling in Bei-
+jing? The Dimensions, Drivers, and Risks of Nuclear-Conventional Entanglement in 
+China,” forthcoming in Journal of Strategic Studies (2020): 33.
+169. Caitlin Talmadge, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 5–6; 
+Caitlin Talmadge, oral testimony for the U.S.-China Economic and Security Review 
+Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 104–105; Caitlin Tal-
+madge, “Would China Go Nuclear? Assessing the Risk of Chinese Nuclear Escalation 
+in a Conventional War with the United States,” International Security, No. 41, April 
+1, 2017, 70–73.
+170. Caitlin Talmadge, written testimony for the U.S.-China Economic and Securi-
+ty Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 8.
+171. Phillip C. Saunders, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 7.
+
+383
+172. Xiao Tianliang, ed., The Science of Military Strategy (战略学), Military Science 
+Press, 2020, 136–138. Translation.
+173. Caitlin Talmadge, written testimony for the U.S.-China Economic and Securi-
+ty Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 4–5.
+174. Caitlin Talmadge, written testimony for the U.S.-China Economic and Securi-
+ty Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 5.
+175. Caitlin Talmadge, written testimony for the U.S.-China Economic and Securi-
+ty Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 5.
+176. Brad Roberts, oral testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 211.
+177. Brad Roberts, oral testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 211.
+178. Brad Roberts, oral testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 211.
+179. Daryl G. Kimball, “Nuclear False Warnings and the Risk of Catastrophe,” 
+Arms Control Association, December 2019; Alan Phillips, “No Launch-on-Warning,” 
+Nuclear Age Peace Foundation, May 1, 2002.
+180. Admiral Charles A. Richard, testimony before the Senate Armed Services 
+Committee, April 20, 2021, 7.
+181. Phillip C. Saunders, written testimony for the U.S.-China Economic and Se-
+curity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 10.
+182. Rajesh Basrur, “China-India: The Stability-Instability Paradox,” RSIS Com-
+mentary 128 (June 23, 2020): 2.
+183. Abraham Denmark, written testimony for the U.S.-China Economic and Se-
+curity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 6–7.
+184. Abraham Denmark, written testimony for the U.S.-China Economic and Secu-
+rity Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 6.
+185. Patricia Kim, “Washington’s Allies and Partners Weigh in on U.S.-China Com-
+petition,” United States Institute of Peace, June 3, 2021; Sugio Takahashi, “Strategic 
+Stability and the Impact of China’s Modernizing Strategic Strike Forces,” in James 
+M. Smith and Paul J. Bolt, eds., China’s Strategic Arsenal: Worldview, Doctrine, and 
+Systems, Georgetown University Press, 2021, 63–64, 79; Scott W. Harold et al., “The 
+U.S.-Japan Alliance and Deterring Gray Zone Coercion in the Maritime, Cyber, and 
+Space Domains,” RAND Corporation, 2017, 30–31.
+186. Valerie Lincy, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 2; Daniel 
+Salisbury and Lucy Jones, “Exploring the Changing Role of Chinese Entities in WMD 
+Proliferation,” China Quarterly 225 (March 2016): 55–56.
+187. Valerie Lincy, oral testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 178.
+188. U.S. Department of State, Adherence to and Compliance with Arms Control, 
+Nonproliferation, and Disarmament Agreements and Commitments, April 2021, 44.
+189. U.S. Department of State, Adherence to and Compliance with Arms Control, 
+Nonproliferation, and Disarmament Agreements and Commitments, April 2021, 44.
+190. U.S. Department of State, 2021 Adherence to and Compliance with Arms Con-
+trol, Nonproliferation, and Disarmament Agreements and Commitments, April 15, 
+2021, 44.
+191. U.S. Department of State, New Sanctions under the Iran, North Korea, and 
+Syria Nonproliferation Act (INKSNA), November 27, 2020; Reuters, “U.S. Sanctions 
+13 Foreign Entities for Supporting Iran Missile Program,” February 25, 2020; “Im-
+position of Nonproliferation Measures against Foreign Persons, Including a Ban on 
+U.S. Government Procurement,” 85 Federal Register 8618–8619 (February 14, 2020).
+192. U.S. Department of Commerce Bureau of Industry and Security, Supplement 
+No. 4 to Part 744 - ENTITY LIST, July 19, 2021.
+193. U.S. Department of Justice, “Electrical Engineer Sentenced to More than Five 
+Years in Prison for Conspiring to Illegally Export to China Semiconductor Chips with 
+Military Uses,” July 22, 2021; U.S. Department of Justice, “Four Chinese Nationals 
+and Chinese Company Indicted for Conspiracy to Defraud the United States and 
+Evade Sanctions,” July 23, 2019.
+194. Valerie Lincy, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 15; “Imposi-
+tion of Nonproliferation Measures against Foreign Persons, Including a Ban on U.S. 
+Government Procurement,” 84 Federal Register 23627, May 14, 2019.
+195. Joel Gehrke, “White House Blames China for Iranian Missile Threat,” Wash-
+ington Examiner, May 8, 2019.
+196. Valerie Lincy, written testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 16; Eric Tucker, 
+
+384
+“Chinese Man Charged with Avoiding U.S. Sanctions,” AP News, April 30, 2014; U.S. 
+Department of State, Li Fangwei.
+197. Valerie Lincy, written testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 15; U.S. Depart-
+ment of Justice, “Extradited Chinese National Sentenced to Nine Years for Providing 
+U.S. Goods to Iran to Support Its Nuclear Program,” January 27, 2016.
+198. Valerie Lincy, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 15; U.S. De-
+partment of Justice, “Extradited Chinese National Sentenced to Nine Years for Pro-
+viding U.S. Goods to Iran to Support its Nuclear Program,” January 27, 2016; U.S. 
+Department of Justice, “Indicted Chinese National Lands at Boston’s Logan Airport 
+to Face Federal Prosecution for Supplying Iran with Nuclear Production Parts,” De-
+cember 5, 2014.
+199. Valerie Lincy, written testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 17; Iran Watch, 
+“Illicit Procurement Network Used Firms in China, Portugal, and Turkey to Supply 
+Iran,” October 31, 2018.
+200. Valerie Lincy, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 17; U.S. De-
+partment of Justice, “Canadian Sentenced to 3+ Years in Prison for Conspiracy to 
+Export Restricted Goods and Technology to Iran,” August 22, 2018.
+201. Rohan Joshi, “China, Pakistan, and Nuclear Non-Proliferation,” Diplomat, 
+February 16, 2015; Ananth Krishnan, “China Involved in Six Nuclear Projects in 
+Pakistan, Reveals Official,” India Today, February 8, 2015.
+202. Valerie Lincy, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, January 10, 2021, 5; Kelsey 
+Davenport and Marcus Taylor, “Assessing Progress on Nuclear Nonproliferation and 
+Disarmament: Updated Report Card 2010–2013,” Arms Control Association, April 
+2013, 15.
+203. Valerie Lincy, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 4–5.
+204. Valerie Lincy, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 5–6.
+205. Valerie Lincy, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 4.
+206. Valerie Lincy, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 5.
+207. Valerie Lincy, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 12.
+208. Valerie Lincy, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 12.
+209. U.S. Department of State, Deputy Special Representative for North Korea De-
+livers Keynote Address at CSIS Conference on North Korea’s Economy, November 30, 
+2020; United Nations Security Council, “Resolution 2270 (2016),” March 2, 2016, 3–4.
+210. U.S. Department of State, Deputy Special Representative for North Korea De-
+livers Keynote Address at CSIS Conference on North Korea’s Economy, November 30, 
+2020.
+211. Valerie Lincy, written testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 13.
+212. Brad Roberts, oral testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 188.
+213. Brad Roberts, Director of the Center for Global Security Research at Law-
+rence Livermore National Laboratory, interview with Commission staff, August 27, 
+2021; Brad Roberts, written testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 4–5.
+214. James M. Acton, Tong Zhao, and Li Bin, “Reducing the Risks of Nuclear En-
+tanglement,” Carnegie Endowment for International Peace, September 12, 2018.
+215. James M. Acton, Tong Zhao, and Li Bin, “Reducing the Risks of Nuclear En-
+tanglement,” Carnegie Endowment for International Peace, September 12, 2018.
+216. Brad Roberts, oral testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 188.
+217. Brad Roberts, “Taking Stock: U.S.-China Track 1.5 Nuclear Dialogue,” Law-
+rence Livermore National Laboratory, December 2020, 51.
+218. Emily Clark, “ ‘Military Fanboys’ Shared a Video Threatening Nuclear War. 
+This Is Why China Allowed It,” ABC News, July 19, 2021.
+219. Brad Roberts, oral testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 217.
+
+385
+220. Brad Roberts, oral testimony for the U.S.-China Economic and Security Re-
+view Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 140.
+221. Abraham Denmark, oral testimony for the U.S.-China Economic and Security 
+Review Commission, Hearing on China’s Nuclear Forces, June 10, 2021, 214.

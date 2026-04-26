@@ -1,0 +1,103 @@
+The Shaanxi Y-9 (Chinese: 运-9; pinyin: Yùn-9) is a Chinese medium utility/military transport aircraft produced by Shaanxi Aircraft Company for the People's Liberation Army. It is a lengthened and upgraded development of the Shaanxi Y-8F.
+
+
+== Development ==
+Development of the Y-9 may have begun as early as 2002 as the Y-8X program. The program was a collaborative effort with Antonov – the designers of the An-12 that it was ultimately derived from – and was aimed at competing with the Lockheed Martin C-130J Super Hercules. By September 2005, the Y-9 designation was being used. The Y-9 received design features originally intended for the Y-8F600, which was cancelled in 2008.
+Shaanxi had hoped to conduct the first flight as early as 2006, but it was delayed. Design changes were made in 2006, with the design being frozen by January 2010. After the design freeze, it was suggested that the first flight would depend on securing a launch customer; construction had also not yet commenced. The aircraft finally flew in November 2010.
+The Y-9 entered People's Liberation Army Air Force (PLAAF) service in 2012, with full operating capability being announced in December 2017.
+
+
+== Design ==
+The Y-9 is powered by four WoJiang WJ-6C turboprop engines. The propellers are six-bladed and made with Chinese JL-4 composites. The WJ-6C is replaced by the Pratt & Whitney Canada PW150B in the Y-9E export variant.
+The cruise speed is 300 knots (560 km/h; 350 mph) with an endurance of around 10.5 hours.
+
+
+=== Cargo capacity ===
+The cargo bay has an internal volume of 155 m3 and is fitted with cargo handling rollers and tie-down rings. The rear entrance to the cargo bay also functions as a ramp.
+
+
+== Variants ==
+
+Y-9
+Base variant
+Y-9E
+Export designation of Y-9
+Y-8Q / KQ-200 (GX-6)
+Anti-submarine aircraft
+Y-9JZ (GX-8)
+Electronic intelligence variant
+Y-9XZ (GX-9)
+Psychological warfare aircraft
+Y-9W / KJ-500 (GX-10)
+Airborne early warning and control variant. Five hour endurance, and fitted with lighter version of KJ-2000 AESA radar.
+
+Y-9G (GX-11)
+Electronic warfare (ECM) variant
+
+Y-9X (GX-12)
+Electronic intelligence (ELINT) aircraft
+Y-9LG (GX-13)
+New ECM variant
+
+Y-9Q / Y-9FQ (GX-15)
+Anti-submarine aircraft
+KJ-700 (GX-16)
+Aerial early warning variant
+Y-9DZ (GX-17)
+Speculated to be a new EW variant
+
+
+== Operators ==
+
+ China
+People's Liberation Army Air Force: Over 30 unit Y-9, 4 unit Y-9XZ, 8 unit Y-9W (KJ-500), 4 unit Y-9G, 2 unit Y-9X.
+People's Liberation Army Navy Air Force: 8 unit Y-9Q (KQ-200), 8 unit Y-9JZ (GX-8), 8 unit Y-9W (KJ-500H).
+People's Liberation Army Ground Force Aviation: 2
+ Myanmar
+Myanmar Air Force: 1 Y-9E (ordered November 2017)
+ Namibia
+Namibian Air Force: 2 Y-9E (delivered in December 2024)
+
+
+== Specifications (Y-9) ==
+Data from Jane's All the World's Aircraft 2010-11 General characteristics
+Crew: 4
+Capacity: 20,000 kg (44,092 lb) cargo / 106 paratroopers / 72 medevac +3 attendants
+Length: 36.065 m (118 ft 4 in)
+Wingspan: 38 m (124 ft 8 in)
+Height: 11.3 m (37 ft 1 in)
+Wing area: 121.9 m2 (1,312 sq ft)
+Airfoil: root: C-5-18; tip: C-3-14
+Max takeoff weight: 65,000 kg (143,300 lb) (and MLW)
+Fuel capacity: 23,000 kg (50,706 lb)
+Powerplant: 4 × WoJiang WJ-6C turboprop engines, 3,800 kW (5,100 shp)  each 
+Propellers: 6-bladed JL-4 composite constant-speed fully-feathering reversible propellers
+Performance
+
+Maximum speed: 660 km/h (410 mph, 360 kn)
+Cruise speed: 560 km/h (350 mph, 300 kn)
+Range: 2,200 km (1,400 mi, 1,200 nmi) with 15,000 kg (33,069 lb) payload
+Ferry range: 5,700 km (3,500 mi, 3,100 nmi) with maximum fuel
+Service ceiling: 10,400 m (34,100 ft) 
+Maximum operating altitude: 8,000 m (26,000 ft)
+Power/mass: 0.234 kW/kg (0.142 hp/lb)
+
+
+== See also ==
+Military transport aircraft
+Related development
+
+Shaanxi Y-8
+Antonov An-12
+Aircraft of comparable role, configuration, and era
+
+Kawasaki C-2
+Lockheed Martin C-130J Super Hercules
+Embraer C-390 Millennium
+
+Related lists
+
+List of military transport aircraft
+
+
+== References ==

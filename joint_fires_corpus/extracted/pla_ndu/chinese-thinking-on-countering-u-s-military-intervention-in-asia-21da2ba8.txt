@@ -1,0 +1,2046 @@
+Countering U.S. Military Intervention in Asia
+by Joel Wuthnow
+CHINA STRATEGIC PERSPECTIVES  20
+Center for the Study of Chinese Military Affairs
+Institute for National Strategic Studies
+National Defense University
+
+Cover image: deepAI
+The mission of the China Center is to serve as a national focal 
+point and resource center for multidisciplinary research and analytic 
+exchanges on the national goals and strategic posture of the People’s 
+Republic of China and the ability of that nation to develop, field, and 
+deploy an effective military instrument in support of its national stra-
+tegic objectives. The Center keeps officials in the Department of 
+Defense (DOD), other government agencies, and Congress apprised of 
+the results of these efforts. The Center also engages the faculty and 
+students of the National Defense University and other components of 
+the DOD professional military education system in aspects of its work 
+and thereby assists their respective programs of teaching, training, and 
+research. The Center has an active outreach program designed to pro-
+mote exchanges among American and international analysts of 
+Chinese military affairs.
+Center for the Study of Chinese Military Affairs
+
+Taming the Hegemon
+
+Center for the Study of Chinese Military Affairs
+Institute for National Strategic Studies
+China Strategic Perspectives, No. 20
+Series Editor: Phillip C. Saunders
+National Defense University Press
+Washington, D.C.
+September 2025
+by Joel Wuthnow
+Taming the Hegemon: Chinese Thinking on 
+Countering U.S. Military Intervention in Asia
+
+For current publications of the Institute for National Strategic Studies, please visit https://inss.ndu.edu/
+Publications/NDU-Press/.
+Opinions, conclusions, and recommendations expressed or implied within are solely those 
+of the contributors and do not necessarily represent the views of the Defense Department or any 
+other agency of the Federal Government. Cleared for public release; distribution unlimited.
+Portions of this work may be quoted or reprinted without permission, provided that a 
+standard source credit line is included. NDU Press would appreciate a courtesy copy of reprints 
+or reviews.
+First printing, September 2025
+Acknowledgments: For useful feedback on previous drafts, the author thanks Christopher 
+Andrews, Thomas J. Christensen, John Culver, Jeffrey Engstrom, David M. Finkelstein, Phillip 
+C. Saunders, and Chad Sbragia. Any mistakes or omissions are the responsibility of the author 
+alone.
+
+v
+Taming the Hegemon
+Contents
+Executive Summary............................................................................................1
+Introduction.........................................................................................................3
+Prospects of U.S. Intervention...........................................................................6
+A Typology of Options.....................................................................................13
+Chinese Thinking on Counter-Intervention.................................................20
+Implications and Conclusion...........................................................................32
+Notes...................................................................................................................37
+About the Author..............................................................................................51
+
+1
+Taming the Hegemon
+Executive Summary
+This report assesses recent Chinese thinking on countering U.S. intervention in Asia, spe-
+cifically in a Taiwan contingency. Key findings include:
+ 
+■People’s Liberation Army (PLA) analysts assume U.S. forces will intervene in a Tai-
+wan contingency, up to and including mainland strikes. This assumption, based on pru-
+dent military planning, has persisted for decades even as Chinese observers increasingly 
+viewed U.S. power in a state of relative decline. It drives the PLA to advocate for careful 
+preparation of counter-intervention options.
+ 
+■States in China’s position have historically relied on four options to counter third-party 
+intervention in offensive campaigns: direct assault against intervening forces; deterrence 
+actions against the third party’s political leadership; a fait accompli against the main target 
+before the intervener can mobilize; and creation of strategic buffers between the attacker 
+and the intervener.
+ 
+■PLA sources emphasize the options that require direct confrontation—direct assault 
+and strategic deterrence of the United States—because they are the most decisive. The first 
+relies on asymmetric warfare against key targets in the U.S. military system. The second 
+leverages nuclear, conventional, and informational (space, cyber, and cognitive warfare) 
+tools to pressure U.S. leaders to reject a recommendation to intervene. Both options are 
+part of an effort to “deter and check” the “powerful enemy," which is a frequent euphe-
+mism for the United States.
+ 
+■The PLA has a different attitude toward escalation in these two options. A direct assault 
+emphasizes military expediency. PLA scholars focus on precision strikes but also high-
+casualty attacks if necessary for the campaign plan. Deterrence relies on brinkmanship. 
+The two Taiwan Strait crises of the 1950s are touted as examples of successful deterrence 
+while managing risks. 
+ 
+■The PLA appears less interested in the two indirect options because they cannot guar-
+antee success. A fait accompli would be difficult due to strategic warning and a U.S. ability 
+to respond quickly. Beijing will try to create strategic buffers by pressuring U.S. allies and 
+partners to deny access, but those efforts could fail—and the U.S. military has options to 
+intervene that do not rely on host nation support. 
+ 
+■There is little deterrent value in shifting to a policy of strategic clarity regarding Tai-
+wan’s defense since the PLA already anticipates U.S. intervention. Chinese President Xi
+
+2 
+China Strategic Perspectives, No. 20
+Jinping appears to share that perspective. However, in the future, Chinese civilian leaders 
+might hold more sanguine views on the likelihood of U.S. intervention than their military 
+advisors, implying that messaging needs to be focused on both the PLA and the civilian 
+leadership. 
+ 
+■PLA deterrent signaling in the strategic domains (nuclear, space, and cyber) could cre-
+ate crisis instability even if the intent is to avoid escalation. Discussions with PLA inter-
+locutors, including both senior-level discussions and crisis simulations, could help man-
+age those risks. 
+ 
+■Assuming Beijing has already made a strategic decision for war, the best U.S. response 
+to Chinese deterrence is ambiguity and obfuscation. There are dangers in yielding to the 
+deterrent threat, which would be tantamount to capitulation, or rejecting it out of hand, 
+since Beijing would then pivot immediately to a direct assault. Entertaining but not com-
+mitting to a favorable response from China’s perspective can buy time for U.S. forces to 
+begin dispersal into a wartime posture. 
+ 
+■Deterring and defeating a PLA direct assault requires improvements to make U.S. tar-
+gets less vulnerable while also exploiting the PLA’s own asymmetric disadvantages, es-
+pecially its need to concentrate forces in the Taiwan Strait without guaranteed air and 
+maritime supremacy. There are also opportunities to misdirect PLA resources into targets 
+less essential for U.S. success. 
+ 
+■The PLA may currently discount a fait accompli option, but that could change. The 
+U.S. military should build and demonstrate capabilities that can slow an invasion despite 
+reduced warning. U.S. messaging can also highlight failures of previous fait accompli at-
+tempts, including Russian president Vladimir Putin’s 2022 gambit to cloak the Ukraine 
+invasion as an exercise and North Korean leader Kim Il Sung’s failure in the Korean War. 
+ 
+■Contestation over U.S. access, basing, and overflight is part of the backdrop of strategic 
+competition in Asia. Beijing will use all means at its disposal to block U.S. forces from 
+using military facilities on allied territory and could have some success. U.S. planning for 
+intervention should not assume that such access is guaranteed.
+
+3
+Taming the Hegemon
+Introduction
+China could use force to try to compel reunification with Taiwan in 2027, 2035, 2049, or 
+anytime in between. Key to its decision calculus will be its assessments of whether the United 
+States has the intention and capability to intervene. The military balance across the Taiwan Strait 
+has already shifted decisively in China’s favor.1 Taiwan can buy time through defense reforms, 
+but effective resistance to an invasion depends on U.S. intervention. This fact is well known 
+to the People’s Liberation Army (PLA), which has long considered mitigating U.S. interven-
+tion as a linchpin of its operational plans. The most dangerous scenario is one where the PLA 
+concludes that the United States has become a “paper tiger” that lacks the resolve and military 
+capabilities to intervene. Embracing this idea, they could advise Chinese leaders that war could 
+proceed with minimal risks—a one-on-one match with a much inferior opponent. 
+Fortunately, this is not the judgment that PLA officers have reached. They continue to ar-
+gue in internal writings that Chinese military planners must account for the possibility of U.S. 
+intervention at a time and scale sufficient to influence the course of the war. Recognizing the 
+U.S. military as an enduring threat has also focused their attention on developing credible coun-
+termeasures. This study finds that the PLA has focused its efforts on two primary options—de-
+terring U.S. intervention by marshaling nuclear, conventional, and informational capabilities 
+to threaten unacceptable consequences for U.S. political decisionmakers, and, failing that, con-
+ducting a direct assault against key links in the U.S. military system using precision strikes and 
+other means. The first option is exercised through a brinkmanship policy but seeks to manage 
+risks, while the second focuses on military expediency and carries high risks of escalation and a 
+broader war between the two powers. The two options are not contradictory but rather part of 
+a cohesive whole: seek to deter but prepare to defeat. 
+China’s concepts for counter-intervention are broader than U.S. analyses often assume. 
+Most of the attention in public discussions is on specific weapons and platforms that create anti-
+access/area-denial (A2/AD) challenges for U.S. forces. The sections of the annual Department of 
+Defense reports on Chinese military power that deal with counter-intervention usually focus on 
+relevant capabilities such as anti-ship ballistic missiles and counter-space systems.2 Other reports 
+and analyses likewise emphasize PLA hardware.3 Wargames are usually premised on assump-
+tions of robust PLA capabilities and magazine depth, with red team players employing hardware 
+in a way that U.S. subject matter experts believe is most efficacious.4 Such approaches are limited 
+not only because accurate appraisals of PLA hardware are difficult to conduct in open-source 
+analysis, but also because they artificially narrow China’s choices to a warfighting option.
+
+4 
+China Strategic Perspectives, No. 20
+Surprisingly, little work has been done to understand Chinese thinking on counter-inter-
+vention as opposed to documenting capabilities. In a 2014 essay, M. Taylor Fravel and Chris-
+topher Twomey could not find much evidence of Chinese consideration of A2/AD concepts in 
+doctrinal writings, concluding that this is not a primary feature of Chinese military strategy.5 In 
+a rebuttal, Timothy Heath and Andrew Erickson argued that China is nonetheless developing 
+A2/AD capabilities and engaging in plans for a “regional restructuring” to limit U.S. access by 
+expanding China’s own strategic influence.6 Ryan Martinson relates the views of senior leaders 
+supporting a deterrent and wartime role for the PLA Navy in counter-intervention.7 Brandon 
+Babin persuasively argues that China’s recent nuclear buildup is intended to deter U.S. interven-
+tion in a conventional war in Asia.8 While these articles all illuminate pieces of the puzzle, the 
+most recent comprehensive survey of PLA discussions on this topic dates from Roger Cliff and 
+colleagues’ 2007 RAND report Entering the Dragon’s Lair, which carefully catalogued the list of 
+U.S. targets PLA analysts thought needed to be held at risk.9 The intervening two decades have 
+given the PLA ample time to update their thinking based on new capabilities and an analysis of 
+which U.S. vulnerabilities should be exploited. 
+Gaining a more accurate picture of current PLA thinking about its options to counter U.S. 
+intervention is of increasing urgency as the U.S. Department of Defense shifts its own strategy. 
+Trump administration Defense Secretary Peter Hegseth describes China as the U.S. military’s 
+“pacing threat” and stresses the urgency of deterring China’s possible use of force to achieve 
+reunification, which would threaten Taiwan’s survival and peace and stability in Asia.10 A wider 
+aperture on Chinese thinking can help U.S. policymakers anticipate the strategies that the PLA 
+will employ to deter, delay, disrupt, or defeat U.S. participation in a war, and to develop ways to 
+undermine those approaches in peacetime and wartime. 
+This report provides an updated view on PLA thinking on how to counter U.S. interven-
+tion in a Taiwan contingency.11 It relies on professional PLA writings, primarily the internal 
+journals China Military Science and Military Arts that are published by the Academy of Military 
+Sciences (AMS), which is the center of doctrinal development for the PLA. Articles in these 
+journals are written not only by PLA scholars but also by senior operational figures from the 
+theater commands and Central Military Commission departments, providing insights into in-
+fluential viewpoints being circulated in the PLA. The report also leverages insights from oth-
+er professional journals as well as teaching volumes produced by AMS and the PLA National 
+Defense University (NDU), whose function is to train the senior commanders who would be 
+responsible for implementing these options. This report avoids reliance on PLA newspapers,
+
+5
+Taming the Hegemon
+which are intended for general consumption, and media commentary from PLA pundits whose 
+primary purpose is to cater to nationalist whims or influence foreign perceptions.12
+The report is organized into four main sections. The first establishes that the PLA contin-
+ues to assume U.S. intervention as part of its military planning. Those judgments have remained 
+unchanged despite (or perhaps because of) the rise of an alternative narrative in China’s strate-
+gic community that the United States has entered a period of irreversible decline. This section 
+also discusses the ways in which PLA authors think the United States could intervene and the 
+general principles that they assert should guide China’s response. The second section develops 
+a typology of counter-intervention options. Based on historical examples of states in China’s 
+position, it argues that leaders have four basic choices: direct assault, deterrence, fait accompli, 
+and strategic buffer. These options vary in terms of whether the intervener is targeted directly 
+or indirectly, and whether the primary means of defeat is military or political. 
+The third section applies this typology to the PLA literature. It finds strong evidence that 
+PLA analysts continue to discuss and update their thinking on the parameters of a direct as-
+sault on U.S. forces. The PLA has embraced the idea of an asymmetric operation targeting the 
+weak links in the U.S. military system and is refreshing those ideas based on new technology. 
+It also finds an increasing emphasis on the deterrent option. This would involve the use of 
+strategic capabilities to hold broader U.S. interests at risk to deter a decision to intervene. PLA 
+authors discuss conventional, nuclear, and informational tools relevant to this option and note 
+that history provides evidence that deterrence can work. A focus of these discussions is on Mao 
+Zedong’s use of brinkmanship to deter U.S. participation in the two Taiwan Strait crises of the 
+1950s. Other PLA sources describe Russian nuclear signaling in the Ukraine war as evidence of 
+successful deterrence. On the other hand, there is less support for the fait accompli and strategic 
+buffer options. This suggests that the PLA cannot rely on the assumption that it can achieve a 
+quick victory before U.S. forces can respond, nor can it assume that depriving U.S. forces of ac-
+cess to regional bases will be possible or sufficient. 
+The final section considers the policy implications. This includes seven main points: 1) 
+Washington should uphold the policy of strategic ambiguity since the PLA already assumes that 
+U.S. intervention is likely—shifts in declared policy would provoke without deterring; 2) U.S. 
+strategic messaging should focus on both Chinese civilian leaders and the PLA given that their 
+views on U.S. intervention may differ in the future; 3) talks should be carried out with PLA in-
+terlocutors to reduce the risks of crisis instability that could result from aggressive deterrent sig-
+naling, especially in the strategic domains (nuclear, space, and cyber); 4) once Beijing has made 
+a strategic decision for war, U.S. decisionmakers should respond ambiguously to PLA deterrent
+
+6 
+China Strategic Perspectives, No. 20
+threats to buy time for U.S. forces to disperse into a wartime posture and increase overall readi-
+ness; 5) U.S. defense strategy should focus on reducing the vulnerability of critical U.S. systems 
+while targeting asymmetric PLA weaknesses, especially its need to mass forces in the Taiwan 
+Strait; 6) any future PLA confidence in a fait accompli option should be undermined through 
+messages that highlight U.S. capabilities to respond despite reduced warning time; and 7) com-
+petition for access, basing, and overflight will continue, but U.S. planning for intervention should 
+not assume host nation support. 
+Prospects of U.S. Intervention
+PLA analysts continue to base their discussions of how a war with Taiwan would unfold, 
+and the requirements necessary to ensure operational success, on the assumption of a U.S. in-
+tent to actively participate in the conflict. This section begins with a discussion of PLA writings 
+anticipating U.S. intervention and notes that this assumption remains even as a simultaneous 
+narrative has developed since the late 2000s that U.S. power is in decline. It then reviews the 
+ways in which PLA authors expect the United States to intervene, ranging from low levels of 
+support, to blockade, to full-scale attacks on mainland China. Finally, it identifies a series of 
+general principles that PLA writings suggest must be followed when developing counter-in-
+tervention options, including the need for a careful net assessment of forces, a strong internal 
+defense, and policies that differentiate the main target from the intervening power. 
+Interference and Intervention
+U.S. military “intervention” [干预] in a war would constitute an extreme form of what 
+Chinese officials routinely criticize as U.S. “interference” [干涉] in cross-strait relations.13 Bei-
+jing has been frustrated with U.S.-Taiwan political and military coordination since unofficial 
+relations began in 1979. Those concerns grew after the strategic U.S.-China alignment ended 
+with the 1989 Tiananmen massacre and the collapse of the Soviet Union in 1991, and U.S. 
+administrations pursued stronger ties with an economically vibrant and democratizing Tai-
+wan.14 China’s complaints focused on U.S. arms sales to Taiwan, including the George H.W. 
+Bush administration’s sale of 150 F-16s in 1992, and a relaxation of U.S. restrictions on unof-
+ficial contacts, especially the Clinton administration’s decision to allow then-Taiwan president 
+Lee Teng-hui to give a pro-democracy speech at Cornell University in June 1995.15 Even before 
+Lee’s visit, Jiang Zemin asserted that “certain foreign forces” have “meddled in the Taiwan issue,” 
+which “impedes the process of China’s peaceful reunification, but also threatens peace, stability, 
+and development in the Asia-Pacific region.”16
+
+7
+Taming the Hegemon
+Such concerns lingered under Hu Jintao and have intensified in the Xi era.17 Xi has railed 
+against foreign “interference” in cross-strait affairs on many occasions, implicitly referencing 
+U.S. support for the island. At the 20th Party Congress in October 2022, Xi twice mentioned 
+“opposing external interference” in his report. He explained that China’s statement that it would 
+never “give up the use of force and reserve the option of taking all necessary measures” was 
+aimed not at ordinary Taiwan citizens, but at a “very small number of ‘Taiwan independence’ 
+separatists” and at “external interference.”18 The same year, the party’s propaganda department 
+published a primer on “the Chinese Communist Party’s national reunification” that detailed the 
+challenges of “external interference” for rank-and-file cadres:
+We firmly oppose external interference. The Taiwan issue is China’s internal 
+affairs, which concerns China’s core interests and the national sentiments of the 
+Chinese people. No external interference is allowed. We do not promise to give up 
+the use of force and reserve the option of taking all necessary measures. We are 
+targeting external interference and a very small number of “Taiwan independence” 
+separatists and their separatist activities, not our compatriots in Taiwan. We must 
+firmly oppose external forces stirring up trouble in the Taiwan Strait, prevent 
+and resolve major risks, and actively stabilize the external environment related 
+to Taiwan. In the face of increasing interference from external forces, we must 
+strengthen planning for the reunification process, maintain strategic focus, take 
+positive and proactive actions, and strive to promote the peaceful reunification of 
+the motherland.19
+Chinese observers blame U.S. actions for enflaming the situation. Xiao Yang, director of 
+the political research office at the Shanghai Institute for Taiwan Studies, identifies four nega-
+tive trends in U.S. policy that have caused alarm. First is the “officialization” of U.S.-Taiwan 
+exchanges, including a visit by then-U.S. Speaker of the House Nancy Pelosi to Taiwan in 2022. 
+Second were U.S. efforts to better integrate Taiwan into global industrial supply chains, thereby 
+weakening China’s economic leverage over the island’s leaders. Third was increasing “military-
+security interaction and cooperation” under both U.S. Republican and Democratic administra-
+tions, including growing arms sales and frequent U.S. naval transits through the Taiwan Strait. 
+Fourth was U.S. support for a greater role for Taiwan in international organizations such as the 
+World Health Assembly and the International Civil Aviation Organization.20 In response, Xiao
+
+8 
+China Strategic Perspectives, No. 20
+calls for a greater focus on “blocking external forces from interfering in the Taiwan issue,” in-
+cluding through updated legislation and reinvigorated propaganda campaigns.21
+Complaints about U.S. “interference,” however, did not translate into a consensus about the 
+likelihood of U.S. “intervention” immediately after the Cold War. Washington has maintained 
+a policy of “strategic ambiguity” about the conditions under which it would intervene since the 
+U.S.-Taiwan mutual defense treaty was dissolved in January 1979, and some in China initially 
+believed that the United States might not be willing to bear the costs of war for Taiwan.22 How-
+ever, debate about U.S. intentions narrowed as signs of U.S. support for Taiwan, and perceptions 
+of hostile U.S. motives toward China, became more prominent in the 1990s. One perceived 
+signal of aggressive U.S. intent was the Clinton administration’s decision to deploy two aircraft 
+carrier battle groups near the Taiwan Strait during the 1995–1996 crisis that erupted after Lee’s 
+visit to the United States.23 A more decisive moment was the accidental North Atlantic Treaty 
+Organization (NATO) bombing of China’s Belgrade embassy during the Kosovo air war in May 
+1999. For Chinese analysts, this not only reflected a worrisome trend of U.S. interventionism 
+but also was regarded as evidence that the United States would use force to maintain its hege-
+monic status in Asia.24 
+The question of whether U.S. forces would intervene might have been answered in the 
+“great peace and development debate” of 1999,25 but it was not inevitable that this consensus 
+would endure for more than two decades. Chinese analysts could have raised doubts about U.S. 
+intentions to defend Taiwan as relative U.S. power began what they perceived as an irreversible 
+decline. Indeed, an “American decline” narrative gained traction in China’s strategic commu-
+nity during the late Hu and Xi eras.26 Influential PLA authors shared this perspective. In a 2021 
+China Military Science article, Lieutenant General Qi Jianguo, then-deputy chief of the joint 
+staff department for intelligence, wrote that the “global financial crisis in 2008 was the peak of 
+the U.S. hegemonic order, and it also marked the beginning of the decline of U.S. hegemony. 
+The COVID-19 pandemic in 2019 was also an important point that marked the beginning of 
+the collapse of the U.S. hegemonic order.”27 A declining hegemon might prefer not to expend its 
+waning power in a war, even if it continued its peacetime “interference” in cross-strait affairs. 
+Yet this is not the conclusion that PLA analysts reached. Rather, there is continuity in the 
+argument that the PLA must prepare for the intervention of a “powerful enemy” [强敌], which 
+is a ubiquitous euphemism for the United States.28 The 2001 Science of Military Strategy, written 
+by AMS scholars, advised that commanders should “be prepared to deal with possible interna-
+tional intervention” both at the outset of and during a conflict to “prevent a reversal of the war 
+situation.”29 It also cautioned that “even if the direct combat target [that is, Taiwan] is weaker
+
+9
+Taming the Hegemon
+than us, the possibility of powerful enemy intervention and support cannot be ruled out.”30 
+These arguments continued after the “American decline” narrative began in the late 2000s. The 
+2009 volume Science of Army Operations, for instance, argued that “the biggest obstacle to our 
+national reunification is the military intervention of a powerful enemy.”31 The 2013 revision to 
+the Science of Military Strategy expanded on its previous warning a dozen years earlier not to be 
+complacent about the risks of foreign intervention:
+In the future, regardless how great the probability of a powerful enemy 
+implementing large-scale military intervention or directly initiating a war against 
+us, we cannot count on luck and must keep a foothold at the foundation of having 
+ample war preparations and powerful military capabilities of our own, rather 
+than at the assessment that the enemy will not come, intervene, or strike.32
+More recent PLA sources reaffirm these arguments. The 2020 Science of Military Strategy, 
+written by scholars at PLA NDU, asserted that “there is always the risk of military intervention 
+by external forces,” and “once the conflict expands, the PLA could face a situation of ‘one-to-two’ 
+or ‘one-to-many,’” implying the possibility of a coalition forming against China that might in-
+clude U.S. allies such as Japan, Australia, and the Philippines.33 PLA articles on niche warfight-
+ing subjects also assume U.S. intervention. For example, a 2025 Military Arts article prefaces the 
+need for quick responses by airborne troops with the prediction that “there is a high risk of pow-
+erful enemy intervention.”34 An article on army logistics argues that in the future, “the powerful 
+enemy’s intervention will be deeper, our breakthrough [capabilities] will be more difficult, and 
+the combat consumption rates will be higher.”35 These conclusions suggest either a perception 
+among PLA observers that U.S. decline is likely to make Washington even more aggressive as 
+it seeks to retain its leading position in Asia, or that those who expect U.S. intervention believe 
+that the pace and scope of the decline are not enough to contain the ability of the “powerful 
+enemy” to leverage military capabilities against China.36 
+Modes of U.S. Intervention
+In the view of PLA analysts, U.S. intervention could take several forms. In his Lectures on 
+Joint Campaign Command, AMS scholar Senior Colonel Zhang Peigao divides intervention into 
+three types. A “low” level of intervention would represent a continuation of peacetime “inter-
+ference” activities into a crisis, such as forward presence of foreign military forces and close-in 
+surveillance operations, which Zhang regards as a kind of “military deterrence.”37 A 2024 China
+
+10 
+China Strategic Perspectives, No. 20
+Military Science article similarly describes intelligence support to improve a partner’s “battle-
+field situational awareness, combat planning, and command and control efficiency,” which the 
+authors argue requires the PLA to impose an information blockade at the outset of a war.38 The 
+same article also discusses provision of “energy and material support,” such as oil, natural gas, 
+and food, which are “important foundations for supporting the war and normal operations of 
+society,” and which should thus be cut off by the offensive side.39
+A “medium” level of intervention could involve U.S. blockades and counter-blockades. For 
+Zhang Peigao, this could include the declaration of no-fly zones and maritime blockades.40 A 
+2000 Modern Navy article likewise states that the PLA “cannot rule out the possibility that the 
+U.S. Navy will assist the Taiwan military in implementing counter-blockade operations,” includ-
+ing the deployment of U.S. minesweepers to keep Taiwan’s ports open.41 In a more aggressive 
+way, PLA Naval Research Institute professor Senior Captain Liang Fang anticipates that U.S. 
+forces will also seek to close China’s access to strategic passageways such as the Strait of Malacca 
+in any regional conflict:
+As soon as there is an incident involving the Taiwan Strait and the South China 
+Sea, the U.S. Navy and Air Force [strengths] that are stationed in peripheral 
+areas will be able to quickly reach the area where the incident [occurred], 
+and this will greatly affect the actions of the People’s Republic of China’s troop 
+strengths and control the resolution of the Taiwan Strait and the South China Sea 
+issue. Speaking overall, the United States treats containment of maritime strategic 
+accesses as an important card for preventing China from completing its grand 
+enterprise of unifying the motherland.42
+Liang’s concern, in other words, is that the United States will attempt to shape Beijing’s risk 
+calculus for continuing the war by endangering its own access to strategic materials, such as oil, 
+and potentially merchant traffic.43
+The highest level of intervention would involve direct strikes against PLA combat forces, 
+including those in mainland China.44 Even before the 2010 publication of the influential Air-
+Sea Battle concept by the Center for Strategic and Budgetary Assessments, which called for 
+high-intensity strikes against the mainland,45 PLA analysts anticipated such actions. The 2000 
+Modern Navy article referenced above predicted U.S. sea-launched Tomahawk missiles and air-
+strikes in “gradually escalating attacks on the mainland,” whose targets could include “not only 
+our landing troops, but also civilian and military facilities.”46 The 2006 Science of Campaigns, a
+
+11
+Taming the Hegemon
+teaching volume produced by PLA NDU, noted that the “powerful enemy” has “stealth penetra-
+tion, long-range attack, and precision strike capabilities” that could be used to conduct “unin-
+terrupted airstrikes against us under various weather conditions.”47 The passage compares U.S. 
+capabilities with the PLA’s “relatively limited” ability to counter long-range strikes, placing them 
+“in a grim situation of defeating the superior with the inferior.”48
+The 2010 Air-Sea Battle report confirmed what PLA authors already expected. Later PLA 
+writings cited this concept as proof of their convictions and expanded on previous warnings 
+about mainland strikes. In 2012, Zhang Peigao wrote that Air-Sea Battle is the “main combat 
+style” of the “powerful enemy,” who will “make full use of our electromagnetic radiation signals 
+intercepted through long-range pre-reconnaissance” to “support their own targeted destruction 
+of our command-and-control system.”49 Zhang observed that this was the same concept used 
+by U.S. forces to “quickly paralyze the command system” of Iraqi forces in the Gulf War.50 Simi-
+larly, a 2014 China Military Science article by Major General Zhang Ming, then-director of the 
+General Staff Department’s Strategic Planning Bureau, argued that the Obama administration’s 
+rebalance to Asia strategy included a military intention to implement the Air-Sea Battle concept 
+by “promoting Asia-Pacific forward deployments.” Summing up the options available to U.S. 
+decisionmakers, he concluded, the “powerful enemy” will “help its allies gain comprehensive 
+battlefield control and intervene directly or indirectly.”51
+General Principles for China’s Response
+The expectation of U.S. intervention leads PLA scholars to recommend careful planning in 
+developing response options and capabilities. Zhang Peigao writes that the PLA should “careful-
+ly formulate countermeasures and make advanced preparations based on an accurate judgment 
+of the situation.”52 Given that the “powerful enemy” might intervene through different means, 
+Zhang suggests that plans should be “adaptable and flexible,” determined by “on-site, real-time 
+monitoring,” and incorporate “necessary improvements” according to changes in the battlefield 
+situation.53 The 2013 Science of Military Strategy adds that the development of relevant capabili-
+ties is useful not only in a contingency but also in strategic messaging. The “more ample our war 
+preparations and the stronger our military capabilities,” it argues, the “less likely the powerful 
+enemy would dare to rashly initiate a war against us.”54
+PLA sources identify several principles for an effective response. First is that plans should 
+be based on an ongoing net assessment of U.S. and PLA capabilities. Senior Colonel Chen Qiyin, 
+then an official in the Southern Theater Command’s joint staff department, argues that mili-
+tary theories (that is, doctrine) should analyze the strengths and weaknesses of the “powerful
+
+12 
+China Strategic Perspectives, No. 20
+enemy.”55 A 2024 China Military Science article recommends studying the “weak links in the 
+powerful enemy’s combat system” and identifying “checks and balances” that can exploit those 
+vulnerabilities, while considering the “advanced concepts, methods, and technologies” of the 
+adversary to improve PLA responses.56 In the authors’ words, “learn from the barbarians to de-
+feat the barbarians.”57 Along these lines, Major General Chen Hui, then-deputy chief of staff of 
+the Eastern Theater Command Air Force, argues that the frequent presence of enemy ships and 
+aircraft in his theater, which often involve the “validation of new tactics and new attack methods 
+of the powerful enemy,” constitutes a “natural training ground for realistic [PLA] training.”58
+A second principle is that the PLA must adopt a strong internal defense. Based on uncer-
+tainty about the forms and locations of U.S. intervention, Zhang Peigao recommends the promul-
+gation of “local defense plans for other directions” as well as defenses against enemy information 
+attacks and precision strikes.59 A 2009 volume, Science of Army Operations Under Informatized 
+Conditions, warns that commanders should carry out anti–air raid and anti-sabotage prepara-
+tions in both forward and rear areas. This includes defense of “assembly areas, important military 
+installations, important cities, important lines of communication, traffic hubs, and important 
+bridges.”60 Such preparations are necessary to “thwart the enemy’s intervention and support the 
+smooth implementation of the [island] landing joint operations.”61 This prescription is consis-
+tent with doctrinal requirements for the People’s Armed Police—China’s premier paramilitary 
+service—to conduct “defensive operations” including protection of internal targets in wartime.62
+Third is that planners should differentiate the main combat target (Taiwan) from the inter-
+vening force (the United States). Although the two might support each other, the PLA needs to 
+determine the amount of resources in terms of manpower, munitions, and equipment to expend 
+on the main target versus the third party. For Zhang Peigao, the former should be the primary 
+focus of attacks, but the PLA must “leave enough room” to handle the latter, and coordination 
+between the two should be conducted prior to and throughout the conflict.63 A China Military 
+Science article recognizes that severing the intervening force from the main target is an essen-
+tial task, but “how to grasp the balance of direct combat against the enemy and responding to 
+the intervention of external major powers” is a “major issue that needs to be solved in strategic 
+guidance.”64 Moreover, as discussed below, some Chinese sources argue that it can be beneficial 
+to formulate different approaches toward the two parties.65 
+In sum, the need to counter U.S. intervention remains a key factor informing PLA plan-
+ning for major operations against Taiwan. The judgment that planners must consider not only 
+the likelihood but also the mode of U.S. intervention and diligently prepare counters is a consis-
+tent theme in PLA writings since the late 1990s. The persistence of this theme suggests that the
+
+13
+Taming the Hegemon
+military is not so overconfident that it can discount the possibility, but also not so underconfi-
+dent to think that U.S. intervention would pose an insurmountable obstacle. On this basis, PLA 
+analysts have discussed a variety of ways to frustrate U.S. intervention so that options against 
+the main target can work as intended. This is the subject of the following sections. 
+A Typology of Options
+Leaders in China’s position have used a variety of ways to address the challenge of for-
+eign intervention in wartime. Based on examples from the world wars, the Cold War, and the 
+post–Cold War era, this section develops a typology of options. The typology consists of four 
+options that vary along two dimensions (see table). These dimensions reflect the basic choices 
+that leaders of an offensive campaign need to make. First is whether to directly target the in-
+tervening party or to use indirect methods including a fait accompli before the intervener can 
+act or strategic buffers that restrict the intervener’s freedom of action. Second is the means of 
+defeat. Leaders can choose blunt military instruments to cripple adversary military systems or 
+to conduct a rapid invasion. But they can also use a broader range of nuclear, conventional, and 
+even non-military tools to shape target decisionmaking. This could involve signaling to the in-
+tervening state’s leadership or to prospective host nations. This section explains the logic of each 
+option and illustrates them with historical examples, both successful and unsuccessful. 
+Direct Assault
+The first option is a direct military assault on the third party. This option applies when 
+the intervening side has already begun to mobilize and deploy forces or when the attacker con-
+cludes that intervention is inevitable—that is, it cannot be deterred. The mechanism of defeat is 
+Primary Mechanism of Defeat
+Blunt Force
+Political Signals
+Targeting Intervention
+Direct
+Direct assault: Disrupt or defeat 
+intervening side through military assault. 
+May be preemptive or reactive and employ 
+kinetic or nonkinetic weapons. 
+Deterrence: Threaten intervening leaders 
+with unacceptable costs through conventional, 
+strategic, or nonmilitary means.
+Indirect
+Fait accompli: Conduct a rapid attack 
+against the main target before intervener 
+can mobilize and deploy forces. Requires 
+strategic surprise through deception.
+Strategic buffer: Threaten or co-opt potential 
+host nations to deny intervener access, 
+basing, or overflight, raising the difficulty of 
+intervention.
+Table. Typology of Options
+
+14 
+China Strategic Perspectives, No. 20
+to employ force to deny the opponent a credible intervention option, or to reduce the effective-
+ness of the intervention so that an attack on the main target can proceed within an acceptable 
+level of risk. This is the most decisive option because, if successful, it eliminates the possibility 
+of external obstruction. However, it is also the most escalatory option because it requires the 
+use of force against the intervening third party. This could entail both vertical escalation as the 
+intervener uses a higher degree of force to pursue its objectives or even expands its war aims to 
+include elimination of the attacking regime, or horizontal escalation as the conflict expands to 
+other regions or other states join the conflict. A war of limited duration against a neighbor over 
+a specific territorial dispute could grow into a protracted war against a “powerful enemy,” the 
+risks of which would outweigh the reward sought in the initial campaign. 
+Seeking to manage the escalation risks, the attacker could control the timing and intensity 
+of its operations. A preemptive strike might be more decisive, but the attacker could wait until 
+the intervener has deployed forces, hoping that they might use force first. This would allow 
+the attacker to claim that it is pursuing a “self-defensive counter-attack”66 rather than a war 
+of aggression and reduce international support for the defender. On the modern battlefield, 
+the attacker could also control the intensity of its campaign by using non-kinetic tools such 
+as cyber-attacks against adversary networks or reversible attacks on space systems, or by us-
+ing precision weapons to strike targets while minimizing casualties. The attacker might also 
+refrain from targeting intervening troops stationed in other countries (for example, U.S. forces 
+in Japan) to reduce the likelihood of host nations becoming involved. However, steps to con-
+trol escalation would come at the expense of military effectiveness; a “knockout punch” would 
+be harder to achieve. 
+The most famous example of this option is Japan’s attack on U.S. forces at Pearl Harbor 
+in 1941. The strategic problem was Tokyo’s judgment that Washington would intervene to op-
+pose Japanese expansion into territory controlled by the British Empire or the Netherlands, 
+especially Malaya and the Dutch East Indies.67 Yet control of these territories was critical to 
+Japan’s imperial aspirations because of access to raw materials, such as oil, rubber, nickel, and 
+tin. Abandoning those ambitions, however, was not an option because it would have required 
+a fatal humiliation of the government.68 A direct conflict was inevitable, but Japanese leaders 
+understood that a protracted war against U.S. forces would be untenable because U.S. industrial 
+capacity was seven times greater than Japan’s. The only option was a surprise attack on the Pa-
+cific Fleet in Hawaii to buy Japan enough time to consolidate its position in Southeast Asia and 
+the Pacific Islands. That strike failed because U.S. aircraft carriers were not destroyed and, in the 
+broader sense, the United States was emboldened to fight a long war.69
+
+15
+Taming the Hegemon
+Another example is the Central Powers’ campaign against Romania in World War I. When 
+the war started, Romanian king Carol I considered joining the Central Powers but decided on 
+neutrality. It was thus a surprise when his successor, the German-born Ferdinand I, signed an 
+alliance with the Triple Entente in August 1916. Romania’s intervention in the war needed to 
+be crushed because of the threat of a new front that would have diverted troops from the main 
+theater, and because it endangered Austro-Hungarian supply lines in Transylvania. The Central 
+Powers agreed to a joint campaign to topple the Romanian regime that involved an assault on 
+Bucharest by German, Bulgarian, and Turkish forces; by December, most of Romania had come 
+under enemy control.70 Although it was not a strategic surprise, the campaign succeeded be-
+cause of a major imbalance between Romanian forces and the multinational coalition it faced. 
+Deterrence
+A second option is deterrence. As with a direct assault, the main target is the intervener, 
+but the mechanism of defeat is different. Rather than using blunt military tools, the attacker 
+threatens unacceptable consequences against the putative intervener before it enters the war. 
+Those consequences could include the possibility of a military defeat but could also involve 
+broader damage to the intervener’s territory, economy, or other interests so that decisionmakers 
+conclude that the likely rewards of intervention are not worth the risks to those other interests. 
+The tools selected for this option could include conventional forces as well as other instruments 
+such as economic power, and, in the modern context, strategic capabilities such as nuclear weap-
+ons, cyber threats to civilian infrastructure, and threats to commercial space systems. Threats 
+could be transmitted through rhetoric or through actions meant to increase their credibility. 
+The tradeoffs involved in this option are the inverse of direct assault. One risk is that the 
+threats might not be persuasive enough to influence the target’s calculus. If the threat fails, the 
+intervener would have the full range of military forces left at its disposal. Moreover, the issuance 
+of threats could deprive the attacker of its ability to surprise the main target (as well as any third 
+parties supporting them) as it would have likely revealed its intentions to clearly communicate 
+those threats. This could provide defenders time to increase their own readiness. The most sig-
+nificant risk is that more aggressive deterrent actions designed to make threats more persuasive, 
+such as conducting cyber-attacks, could inadvertently cause a target to be more resolved to 
+intervene than if the action had not occurred. Those actions could also prompt tit-for-tat retali-
+ation that could destabilize the crisis situation, especially if they involve strategic signaling. The 
+main reward is that deterrence could eliminate the possibility of intervention without the actual 
+costs of a direct military clash or at least restrain the scope of the adversary’s involvement to a
+
+16 
+China Strategic Perspectives, No. 20
+lower level.71 Without the prospect of intervention, the main target would be isolated and could 
+capitulate without the need for war, saving the attacker blood and treasure. An added benefit is 
+that, if deterrence fails, the mobilization of some deterrent tools (for example, long-range preci-
+sion strike or counter-space weapons) could be useful in direct assault. Mobilization of nuclear 
+forces would also be a useful backstop against vertical escalation.72
+The prospect of “winning without fighting” has led numerous aggressors to attempt to de-
+ter intervention. In World War I, Germany attempted to deter U.S. involvement by threatening 
+unrestricted submarine warfare against trans-Atlantic shipping. The threats were initially rhe-
+torical, with Admiral Alfred von Tirpitz exclaiming to a U.S. newspaper in 1915, “What would 
+America say if Germany declares submarine war on all enemy merchant ships?”73 The sinking 
+of the British ship Lusitania in May 1915 pushed Washington closer to war because 128 victims 
+were U.S. citizens, but isolationist sentiment in the United States prevailed. In February 1917, 
+Germany increased its deterrent actions by sinking the U.S. freighter Housatonic, but controlled 
+escalation by allowing passengers to board lifeboats, which likely delayed U.S. involvement by a 
+month.74 However, the loss of U.S. citizens in several sinkings in March galvanized U.S. support 
+for war. In his speech to Congress requesting a declaration of war, President Woodrow Wilson 
+stated: “American ships have been sunk, American lives have been taken, in ways [which] have 
+stirred us very deeply.”75 By escalating to lethal attacks on U.S. shipping, Germany’s deterrent 
+campaign caused the outcome it most wanted to avoid. 
+A successful example of deterrence was Adolf Hitler’s ploy to convince Britain and France 
+not to interfere in the annexation of the Sudetenland from Czechoslovakia in 1938. Hitler per-
+ceived that neither great power had the resolve to defend this territory, even though France had a 
+formal alliance with the Czech government. To promote non-intervention, Hitler first informed 
+the French that Germany was building “the most gigantic fortifications that ever existed” along 
+the Franco-German border and then warned British Prime Minister Neville Chamberlain that 
+without annexation, Hitler “would be prepared to risk a world war.”76 This prompted Cham-
+berlain to put more pressure on the Czech leadership to agree to annexation. Hitler’s success, 
+cemented in the September 1938 Munich Agreement, rested on warnings, but not lethal actions, 
+against opponents who preferred appeasement over conflict. It was not until Hitler’s invasion of 
+Poland almost a year later that Britain and France changed their strategy.77
+Another example of attempted deterrence was Vladimir Putin’s use of nuclear signaling to 
+deter NATO involvement in the February 2022 invasion of Ukraine. As Michael Kofman and col-
+leagues noted before the war, Russian military doctrine distinguishes general conventional forces 
+from “strategic deterrent forces,” whose utility is to threaten unacceptable consequences on ad-
+
+17
+Taming the Hegemon
+versary economic and military interests, including “deterring third parties from intervening.”78 
+Those “strategic deterrence forces” include not only nuclear but also non-nuclear capabilities 
+that can deliver strategic effects.79 Regular Russian bomber exercises carried out before the war 
+were part of a strategy to maintain general deterrence.80 At the outset of the war, Putin employed 
+several deterrent actions, including holding bomber exercise Operation Grom that simulated 
+nuclear strikes on several Scandinavian countries and sending ballistic missile submarines to 
+sea equipped with the intercontinental-range Yars nuclear missile.81 Putin matched these actions 
+with intimidating rhetoric as the war commenced:
+I would now like to say something very important for those who may be tempted 
+to interfere in these developments from the outside. No matter who tries to stand 
+in our way or all the more so create threats for our country and our people, they 
+must know that Russia will respond immediately, and the consequences will be 
+such as you have never seen in your entire history. No matter how the events 
+unfold, we are ready. All the necessary decisions in this regard have been taken. I 
+hope that my words will be heard.82
+While Putin’s threats might appear to have succeeded, they probably made no difference. 
+Ukraine was not a NATO ally, and President Joseph Biden signaled two weeks before the war 
+that he would not send U.S. forces into Ukraine.83
+Fait Accompli
+A third option is to defeat the main target before the third party can mobilize and deploy 
+forces. An intervention is still possible but less likely if the attacker has already consolidated 
+its position and especially if it has toppled the government. Achieving a fait accompli depends 
+heavily on speed and deception. The attacker might mask its own war preparations under the 
+cover of an exercise or send conflicting diplomatic signals to confuse its opponents, just as Japan 
+continued negotiations with the United States until Pearl Harbor. The benefit of this approach 
+is that it avoids direct military engagement with the intervener while also surprising the main 
+target. The major risk is that the deception could be exposed, which would eliminate the ele-
+ment of surprise, allow defenders to increase their own readiness, and prompt greater interna-
+tional support. Moreover, if the main target is well prepared, they might weather the attack long 
+enough for the intervention to take place even if the plan is not exposed beforehand.
+
+18 
+China Strategic Perspectives, No. 20
+In the Korean War, Kim Il Sung tried to achieve a fait accompli by overrunning South Ko-
+rean defenses and overthrowing the government. To succeed, Kim needed support from Joseph 
+Stalin, whose main concern was that U.S. forces would intervene from Japan and deal a crushing 
+blow to the communists. In a January 1950 meeting in Moscow, Kim reassured Stalin that the 
+offensive would conclude in three days, well before U.S. forces could arrive at a scale necessary 
+to make a difference, and that a popular uprising of 200,000 communist sympathizers in the 
+South would aid the invasion. Kim was also emboldened because he thought Washington would 
+hesitate based on Secretary of State Dean Acheson’s January 1950 speech that indicated that the 
+Korean Peninsula was outside the U.S. “defensive perimeter” and that any “initial reliance must 
+be on the people attacked to resist it.”84 Stalin ultimately approved the plan, although he re-
+mained wary of a direct U.S.-Soviet clash and limited overt Soviet participation throughout the 
+war.85 While North Korean troops achieved strategic surprise,86 U.S. airstrikes slowed the initial 
+invasion, and the tide of war turned with the Inchon landing in September 1950.87 
+The Soviet invasion of Czechoslovakia in August 1968 illustrates the role of deception 
+in generating confusion and reducing warning among foreign analysts. Soviet leader Leonid 
+Brezhnev decided to use force to suppress the political reforms that had begun in the “Prague 
+Spring” in January. Brezhnev did not fear U.S. or NATO intervention, since Czechoslovakia 
+was behind the Iron Curtain, but he intended to catch the international community off guard. 
+Brezhnev began his buildup of forces in June under the pretext of a Warsaw Pact exercise in 
+Czechoslovakia and Poland. At the same time, the Soviets moved a larger concentration of 
+forces to the Czech border from Hungary and East Germany.88 The troop movements caused 
+debate in the West. Some analysts thought that the Soviets only intended to put pressure on 
+Czechoslovakia and would not invade,89 others believed that they were part of routine exercises, 
+and still others correctly assessed Brezhnev’s intent. Writing in Studies in Intelligence in 1970, a 
+U.S. author drew lessons for the future:
+The fact that any U.S. analysts were taken in by the Soviet announcements on 
+“exercises” is cause for considerable concern that intelligence analysts also might 
+fail to recognize a deception effort when it might be vital to U.S. security to detect 
+it. Our experience in the invasion of Czechoslovakia has reinforced the opinion 
+long held by warning analysts that the U.S., at both its intelligence and policy 
+levels, is extremely vulnerable to deception.90
+
+19
+Taming the Hegemon
+Future analysts took this lesson to heart. When Vladimir Putin attempted similar tactics by 
+announcing large “snap exercises” on the eve of the Ukraine invasion, his plans were exposed—
+depriving him of the casus belli he sought in the court of international opinion.91
+Strategic Buffer
+A final option is to limit the ability of a third party to intervene by creating strategic buf-
+fers between the attacking state and the intervener. As with a fait accompli, this option avoids 
+direct confrontation with the intervener. The difference is that the mechanism of defeat rests 
+more on political tools exercised against susceptible governments and not on the blunt military 
+instruments required in a rapid invasion. In this respect, this option is more like the deterrence 
+approach, which also leans on political tools. Yet these two options are somewhat different in 
+the range of tactics that can be used to influence target decisionmaking. In deterrence, the at-
+tacker wields the threat of unacceptable costs to deter a government that would otherwise be 
+tempted to intervene; in a strategic buffer option, the attacker could either use coercion or 
+promise inducements to governments that might seek to avoid involvement in a war. Economic 
+or diplomatic side payments could therefore be part of the equation. 
+As with the other choices, there are tradeoffs in pursuing this option. The benefit is that this 
+approach does not require direct confrontation with a major adversary, narrowing the scope of 
+the war and reducing the likelihood of crisis instability involved in deterrence. It is simply a way 
+to make intervention more difficult for an enemy whose plans depend on foreign access. One 
+risk is that host nations could ignore the threats or inducements because allowing third-party 
+intervention through their territory or airspace is a higher priority. This could be due to alliance 
+commitments or to the judgment that a war against the main target would put their own sover-
+eignty at risk. Another problem is that success might not eliminate the possibility of successful 
+intervention if the opponent is able to bypass the buffer zone. For instance, the United States 
+might avoid dependence on forward bases and ports by leveraging its undersea capabilities or 
+through bombers launched from U.S. territory.
+This option was central to Soviet strategy on reducing NATO presence in parts of its near 
+abroad. Finnish neutrality is one example. In the 1949 Finland-Soviet treaty, Stalin provided 
+assurances that he would not interfere in Finland’s internal affairs if Helsinki promised not 
+to allow foreign forces to use its territory as a “springboard” for aggression against the Soviet 
+Union.92 At the same time, Stalin pressured Finland to influence Sweden not to join NATO 
+with the implicit threat that Sweden’s accession would trigger Soviet military presence in Fin-
+land.93 This gambit was successful not only because these countries preferred neutrality, but
+
+20 
+China Strategic Perspectives, No. 20
+also because U.S. officials similarly saw value in a Swedish buffer against the Soviet Union.94 
+The Soviets were more concerned about Austria becoming involved in NATO planning and 
+as a corridor for moving NATO forces between Germany and Italy. Their approach was to 
+make the Soviet Union’s postwar military withdrawal from Austria contingent on Austrian 
+neutrality; this was accomplished in a 1955 treaty.95 These negotiations achieved the Soviet 
+goal of reducing NATO presence in border regions, though NATO could still pose threats from 
+bombers and missiles in Western Europe and deployed nuclear weapons beginning in 1954. 
+In sum, prospective attackers have several options to reduce the risks of intervention. The 
+two direct options target the intervener but vary in terms of an emphasis on the use of force 
+once intervention is regarded as inevitable (direct assault) or threats to convince foreign de-
+cisionmakers not to mobilize in the first place (deterrence). The two indirect options avoid 
+confrontation with the intervener but are different in whether they rely on a rapid assault on 
+the main target (fait accompli) or on political steps to deprive the intervener of foreign access 
+(strategic buffer). Each option has its own set of risks and rewards, and there are examples of 
+leaders selecting each of them, albeit with varying levels of success. The next section applies this 
+typology to PLA writings to assess the likelihood that Beijing would select any of these options, 
+and to evaluate how they might be implemented. 
+Chinese Thinking on Counter-Intervention
+A review of the PLA literature on counter-intervention suggests that the greatest emphasis 
+for planners is on the two direct options. A direct assault is typically defined in terms of asym-
+metric operations that target the weak links in the U.S. operational system to delay or defeat 
+intervention. The main concern here is with military expediency and not escalatory risks. At 
+the same time, there is an equal emphasis on the deterrence option. Authors who discuss this 
+option suggest that the PLA can use strategic capabilities, including nuclear, conventional, and 
+information warfare forces, to undermine U.S. resolve to intervene. Here, there is much greater 
+concern with the possibility of escalation and crisis stability. The two options are not contradic-
+tory but fit into a cohesive whole: deterrence should be attempted, but if it fails, the PLA must be 
+ready to fight immediately. There is less attention on the two indirect options, since neither a fait 
+accompli nor a strategic buffer can ensure that PLA plans will not be detected, and intervention 
+will not be able to be conducted at a scale that would threaten the campaign.
+
+21
+Taming the Hegemon
+Direct Assault
+PLA sources, as one would expect, consistently argue for a capability to defeat foreign in-
+tervention through decisive action. For decades, these discussions have emphasized holding en-
+emy systems at risk through asymmetric means, or what are sometimes called “assassin’s mace” 
+[杀手锏] weapons, rather than through a head-to-head confrontation.96 The 2006 Science of 
+Campaigns suggests paralyzing “the enemy’s information systems and air dominance systems 
+with sudden and intense firepower,” trapping the opponent “in a passive position where he is 
+hard put to respond.”97 The authors add that the “intervention of a powerful enemy or interfer-
+ence by a regional military alliance” during a conflict means that “sufficient combat reserves” 
+will need to be on hand.98 A 2009 volume similarly proposes “noncontact operations” [非接触
+作战]—which is a misnomer because it involves kinetic strikes on “enemy information systems” 
+and other key targets but not large force-on-force engagements—using “elite strengths.”99 The 
+2020 Science of Military Strategy also favors destroying the “key nodes and vital points of the 
+enemy’s combat systems” by “defeating the strong with the weak.”100 
+Chinese writings discuss several key targets that are regarded as essential to U.S. interven-
+tion.101 These are elements of what PLA theorists describe as a “system of systems” that must 
+work together to achieve their intended effects. By compromising any specific system, including 
+reconnaissance and early warning, information transmission, command and control, firepower, 
+or comprehensive support, the enemy’s overall system will become less effective.102 Specific tar-
+gets listed in the 2015 internal volume Study on Asymmetric Operations include U.S. naval and 
+air bases, ammunition and fuel depots, aircraft carriers, and early warning aircraft.103 A 2022 
+article in Military Arts likewise argues that “even the powerful enemy’s system is not perfect,” 
+with weaknesses in satellite capabilities, early warning aircraft, aircraft carriers, fixed bases, and 
+data links that should be targeted through kinetic or non-kinetic means.104 
+The means of attack, for these authors, are simply those that can most efficiently destroy 
+adversary systems. The 2015 volume Research on Port Landing Operations notes that air force, 
+naval, and conventional missile forces all have counter-intervention missions in a landing cam-
+paign. Missiles, in particular, should be used to strike the “center of gravity of the anti-landing 
+party’s combat system and strive to destroy or paralyze it,” referring to both the intervener and 
+the main target.105 A China Military Science article published the same year advocated the de-
+velopment of “asymmetric high-tech means that can check and balance the powerful enemy,” 
+such as high-powered microwaves, anti-satellite laser technology, and kinetic interceptors, which
+
+22 
+China Strategic Perspectives, No. 20
+requires greater investments in “strategic frontier technology fields” including network and elec-
+tromagnetic field, space and near-space, and uncrewed aerial vehicle technology.106
+More recent PLA articles discuss new or upgraded capabilities relevant to achieving asym-
+metric advantages. A 2022 China Military Science article from AMS researcher Major General 
+Fu Bingzhong, for instance, describes the cross-domain collaboration between “unmanned 
+combat forces” in the air, land, sea, and space domains, which can target the information sys-
+tems, networks, and command and control centers of the “powerful enemy” and implement 
+precision strikes.107 Continuing this theme, Major General Feng Zhongguo, deputy comman-
+dant of the PLA Army Command Academy, writes in the same journal that the PLA must 
+“enrich the strategic means and methods of counterbalancing the powerful enemy,” including 
+through collaborative unmanned systems that can create “aerial swarms, ground wolf packs, 
+and underwater fish schools,” alongside traditional weapons such as long-range missiles, spe-
+cial forces, air and missile defenses, and network and electronic warfare tools.108 Meanwhile, 
+authors from the Dalian Naval Academy suggest that resisting the “powerful enemy” requires 
+blue-water capabilities that can counter foreign naval operations close to China and hold at risk 
+its “overseas strategic bases” and sea lines of communication outside the first island chain.109
+PLA sources also associate counter-intervention with the larger modernization goal of 
+“intelligentization” [智能化], based on the incorporation of artificial intelligence into PLA 
+command, control, communications, computers, intelligence, surveillance, and reconnaissance 
+(C4ISR) systems.110 In a 2023 China Military Science article, AMS scholar Senior Colonel Lan 
+Yongming writes that “the need to cope with the powerful enemy” means that the PLA should 
+construct an “intelligent” network information system that can “intelligently optimize the pri-
+oritization of strike targets and choose the best combat method.”111 In line with the principle 
+that counter-intervention requires a strong defense, Lan also states that the upgraded system 
+should be able to be quickly reconstituted in wartime conditions.112 Notably, Lan’s article pre-
+ceded the 2024 reorganization of the former Strategic Support Force that resulted in a new In-
+formation Support Force, a core purpose of which is to upgrade PLA networks to become more 
+“intelligent” and more resilient to adversary attacks.113
+As discussed above, an attacker can attempt to limit escalation by controlling the timing 
+and intensity of operations. Nevertheless, PLA writings emphasize military expediency—once 
+war has begun, the PLA should operate on a timeline and with the tools that can most effec-
+tively defeat intervention. Regarding the timing of operations, Roger Cliff and colleagues note 
+that a PLA lesson from the Gulf War was the need to seize the initiative, which could require 
+preemptive strikes. PLA observers faulted Iraq for adopting a passive approach that the U.S.-
+
+23
+Taming the Hegemon
+led coalition exploited during Desert Storm.114 This theme continues in writings published de-
+cades after the Gulf War. For instance, the 2009 Science of Joint Operations states that “taking 
+the initiative through decisive action,” including preemptive strikes, is a principle of modern 
+joint operations that should be mastered.115 The 2020 Science of Military Strategy argues that 
+because “losing the advantages of the first opportunity, one’s own combat system may be de-
+stroyed,” the PLA should “seize the first opportunity and win the initiative in the war.”116
+Regarding the selection of tools, PLA sources focus on precision strikes consistent with 
+the concept of “noncontact operations” but do not rule out the possibility that deadlier attacks 
+might be necessary for the operation. The 2009 volume Science of Army Operations Under In-
+formatized Conditions focuses on attacks on information systems, but “in situations where the 
+strategy permits, [we should] even attack the enemy’s strategic depth and inflict heavy losses to 
+maintain initiative in war.”117 Likewise, a 2012 China Military Science article proposes “annihi-
+lating the enemy’s living forces,” which would “create a situation favorable for us.”118 As opposed 
+to concluding that such actions would embolden adversary resolve, as Japan experienced after 
+the Pearl Harbor attack, the authors assume that high-casualty attacks would “shake the enemy’s 
+entire war system and trigger anti-war sentiment in the enemy’s country.”119 By contrast, none 
+of the sources consulted for this study indicated a preference to rely solely on non-kinetic tools 
+to control the risks of escalation.
+Deterrence
+The concept of “winning without fighting,” in the Western interpretation of the Art of War, 
+is an alluring possibility for aggressors.120 This is no less true in PLA writings on counter-inter-
+vention. In his Lectures on Joint Campaign Command, Zhang Peigao argues that attacks should 
+continue against the main target “until they give up resistance,” while deterrence should be the 
+“main focus” against third parties, so that they “do not dare to intervene rashly and [so that] the 
+intensity of the military intervention of the powerful enemy can be reduced to the maximum 
+extent.”121 PLA sources often discuss the logic and tools of this approach under the heading of 
+“strategic deterrence” [战略威慑].122 In his Theory of Strategic Deterrence, PLA NDU scholar 
+Zhang Yan explains that:
+As a special form of military strategy, strategic deterrence is, after all, not war, 
+although it similarly can have a certain impact on politics, economics, and society. 
+However, its destructiveness is much less than actual combat, and not only can it 
+leave greater room for political and diplomatic struggle, but it can also reduce the
+
+24 
+China Strategic Perspectives, No. 20
+excuses for outside forces to intervene. This is also the basic reason why as long as 
+deterrence can achieve its goals, there will be no considerations about using the 
+means of war.123
+The authors of the 2020 Science of Military Strategy agree that deterrence is preferable to 
+direct assault because of the possibility of limiting the scope of the conflict. Their argument rests 
+on the premise that any actual intervention would “affect the course of the war and the long-
+term development of the country” and should thus be avoided.124 In the chapter on “strategic 
+deterrence,” the authors explain that this requires reaching out to potential interveners through 
+“diplomatic channels” to “issue warnings to the other party as appropriate” and prevent the 
+expansion or “internationalization” of the conflict.125 Rather than waiting until the opponent 
+has already mobilized and deployed forces, the authors contend that the “best time to use deter-
+rence” is when the other side is still weighing its options “but is not very sure yet and the final 
+determination has not yet been made.”126 Deterrent actions at this stage of the conflict could 
+“make it difficult for the other party to form a will to act . . . or if the will to act is formed, it will 
+hesitate and not be able to put it into practice.”127
+Based on this logic, Xi Jinping instructed the PLA to “build a strong system of strategic de-
+terrence forces” [打造强大战略威慑力量体系] at the 20th Party Congress in October 2022.128 
+Xi’s statement followed similar guidance from Jiang Zemin to build a “strategic deterrence sys-
+tem” in 2002, but the connotation was somewhat different.129 Whereas Jiang framed his discus-
+sion in terms of strategic nuclear modernization, Xi’s statement was not limited to that field. 
+Rather, as in the similar Russian concept of “strategic deterrence,” he called for an improved 
+set of strategic capabilities to counterbalance foreign opponents. In an analysis of Xi’s concept, 
+PLA National University of Defense Technology professor Ge Tengfei writes in a party journal 
+that the intent is to “resolutely oppose interference by external hegemonic forces in national 
+sovereignty and security issues.”130 The system does this by “clearly telling external intervening 
+forces that no one should underestimate the Chinese peoples’ strong determination, firm will, 
+and strong ability to defend national sovereignty and territorial integrity.”131 Achieving this ob-
+jective requires not only a nuclear deterrent but also modernization in other “fields of emerging 
+strategic capabilities and disruptive technologies such as cyberspace and space.”132
+Other PLA sources discuss several types of capabilities that can be used to achieve strategic 
+deterrence in a crisis. First is nuclear signaling. The 2004 Science of Second Artillery Campaigns 
+describes the rungs of a signaling ladder through which nuclear forces can be used to intimi-
+date third parties, including raising alert statuses, conducting snap exercises or launches, and
+
+25
+Taming the Hegemon
+even blurring or lowering the threshold for nuclear use—suggesting that China might not wait 
+until it has been attacked with nuclear weapons to launch a nuclear attack as its no-first-use 
+doctrine requires.133 A 2023 China Military Science article likewise argues that to “curb military 
+intervention by countries outside the region in advance,” it can be useful for the offensive side 
+to “conduct large-scale strategic nuclear force exercises before the conflict begins.”134 Offering 
+a service-specific prescription, Dalian Naval Academy authors write that a sea-based deterrent 
+should be developed to showcase “reliable, credible, and effective nuclear deterrence” against 
+the “powerful enemy within and outside the first island chain.”135
+Russia’s nuclear signaling during the war in Ukraine likely clarified PLA thinking on the 
+utility of nuclear weapons in deterring intervention. Putin’s tactics were consistent with those 
+recommended in the Science of Second Artillery Campaigns, which focused on creating a “psy-
+chological shock” rather than on nuclear employment. Russia’s actions could therefore have 
+reaffirmed existing PLA beliefs in these methods or functioned as a case study.136 One group 
+of National University of Defense Technology scholars assesses that Russia’s use of hypersonic 
+missiles in its strategic nuclear exercises “fully exerted” a “strategic deterrent effect.”137 An article 
+from another scholar at the same institution suggested that Russia’s signaling campaign was 
+effective in convincing the United States to confine its involvement to the level of a proxy war 
+(what Zhang Peigao would classify in the “low” intervention category).138 Nevertheless, such 
+discussions were likely downplayed because of Beijing’s disavowal of Russian nuclear threats as 
+it sought to balance support for Moscow with other diplomatic goals.139
+Second are displays of conventional forces. Given China’s large stockpiles of long-range 
+missiles, it is unsurprising that several PLA sources discuss how these can be used in a deter-
+rent campaign. The 2006 Science of Campaigns asserts that conventional missile launches can 
+be staged not only to strike targets but also to “implement conventional deterrence against the 
+enemy.”140 The Theory of Strategic Deterrence similarly suggests that “firing missiles carrying 
+non-nuclear warheads towards relevant areas (or sea areas)” can achieve an intimidation ef-
+fect.141 Though not specifically cited, an example would be China’s launching of ballistic missiles 
+in waters near Taiwan during the 1995–1996 crisis to deter Taiwan independence. More recent-
+ly, a 2023 China Military Science article highlights the ability of air-launched ballistic missiles 
+and “other hypersonic weapons” to threaten “enemy ammunition depots and command posts” 
+from standoff distances, which has a “significant deterrent effect.”142
+Conventional deterrence can also include a maritime component. Zhang Peigao, for in-
+stance, anticipates that the United States will mobilize naval forces to intimidate Beijing during a 
+crisis and potentially to conduct blockade activities. After all, Washington deployed aircraft car-
+
+26 
+China Strategic Perspectives, No. 20
+riers in the 1995–1996 Taiwan Strait crisis. In the future, he suggests that the PLA should “orga-
+nize submarines to approach the enemy’s large-scale ship formations secretly when necessary . . . 
+so that the powerful enemy dares not intervene rashly.”143 Also writing from a naval perspective, 
+Liang Fang contends that the PLA should build blue-water naval forces that can “react rapidly” 
+to foreign naval blockades and therefore “force the enemy to abandon his intentions to threaten 
+the security of China’s maritime strategic accesses.”144 More generally, Lieutenant General Ren 
+Haiquan, former AMS president, wrote in a 2013 article that “joint long-range warfare” capabili-
+ties are intended “not to strike the powerful enemy early and hard,” but to “strive to deter war and 
+check-and-balance the powerful enemy.”145
+Third is manipulation of the information environment. Most PLA discussions of “strategic 
+deterrence” since the 2001 Science of Military Strategy include space and cyber weapons in the 
+list of strategic capabilities.146 Fiona Cunningham argues that these “information age” weapons 
+allowed Beijing to strengthen deterrence amid an imbalance of nuclear forces.147 Such informa-
+tion tools can be useful not only in threatening economic or social consequences—for instance, 
+crippling critical infrastructure through cyberattacks—but also in shaping the information en-
+vironment. A 2018 China Military Science article argues that a propaganda war through the me-
+dia can be useful in “disintegrating the enemy’s combat determination, destroying the people’s 
+will to resist,” and “interfering with its determination to intervene.”148 The Theory of Strategic 
+Deterrence suggests that “using media propaganda to issue statements and declarations, and 
+issuing mobilization orders” can also undermine adversary resolve.149 A 2022 article in China 
+Military Science argues that such declarations should be paired with “strong national defense 
+mobilization,” which underscores China’s “determination” to carry out a long war and therefore 
+has relevance to “achieving the strategic goal of deterring the powerful enemy.”150
+The key question for leaders exercising a deterrent option is how much risk to take in imple-
+menting deterrent actions. The German example from World War I discussed above illustrates 
+the risks in overly aggressive signals. It is certainly the case that Chinese concepts of “deterrence” 
+[威慑] have a connotation of what Western deterrence theory regards as “compellence”—using 
+aggressive means to convince an opponent to abandon an action that they are already pursu-
+ing.151 Risky actions such as conventional missile strikes designed not to destroy an adversary’s 
+operational system, as in the direct assault option, but to threaten further consequences once an 
+intervener has already begun to mobilize, would be consistent with this definition. Sinking an ad-
+versary ship as a deterrent action designed to cause a foreign government to cease participation in 
+a counter-blockade could also fit the concept. Such actions would parallel the purported Russian
+
+27
+Taming the Hegemon
+military doctrine to “escalate-to-deescalate,” 
+which could require crossing the threshold of 
+lethal violence to establish credibility.152
+However, Chinese analysts caution that 
+in facing a “powerful enemy,” deterrent ac-
+tions should be tailored to limit the risks of 
+escalation. This point is sometimes made 
+through historical analogy. PLA discussions 
+frequently recall how Mao allegedly caused 
+U.S. forces to retreat in the two Taiwan Strait 
+crises of the 1950s without prompting a di-
+rect U.S.-China conflict (see text box for 
+detail).153 In the first crisis, which lasted from 
+1954 to 1955, Mao employed a “brinkman-
+ship” policy of shelling Kuomintang (KMT) 
+ships and forces stationed on Dachen Island 
+but without targeting U.S. ships from the Sev-
+enth Fleet, which in the view of PLA histori-
+ans “caused the U.S. escort ships to retreat to 
+the high seas without firing a single shot.”154 
+PLA sources also praise Mao for his decision 
+not to interfere with the KMT’s evacuation 
+from Dachen at the end of the crisis, since 
+doing so would have precipitated a conflict 
+between the PLA and U.S. escort ships and 
+aircraft in the area.155
+PLA scholars also praise Mao’s deter-
+rent tactics during the second Taiwan Strait 
+crisis from August to December 1958.156 
+Mao’s dilemma was shelling KMT forces on 
+Jinmen and Mazu with the presence of U.S. 
+embedded military advisors and ships in the 
+surrounding waters. He authorized the bom-
+bardment under the condition that the PLA 
+Historical Memory Versus 
+Reality in the 1950s Taiwan 
+Strait Crises
+While PLA analysts praise Mao for de-
+terrent actions that limited U.S. involvement 
+in the two crises, they do not concede that 
+Mao failed in securing his broader politi-
+cal and strategic objectives. In the first crisis, 
+Mao’s intent was to deter Chiang Kai-Shek and 
+President Dwight Eisenhower from signing 
+a formal defense treaty. However, PLA shell-
+ing of Taiwan’s offshore islands prompted not 
+only the treaty but also the Congressional 
+Formosa Declaration, which authorized the 
+use of force to defend the offshore islands if 
+Taiwan or the Pescadores were threatened. In 
+1958, Mao attempted to mobilize support for 
+the Great Leap Forward and test U.S. resolve 
+to defend the offshore islands. However, Mao 
+was forced to suspend his punitive campaign 
+after the Seventh Fleet assembled dozens of 
+ships in the area. Mao then agreed to limit the 
+shelling to alternate day attacks in predictable 
+locations and rationalized his inability to seize 
+the islands from the KMT. These performative 
+attacks lasted for 20 years until the normaliza-
+tion of U.S.-China relations in 1979.*
+* Allen S. Whiting, “China’s Use of Force, 1950–96, 
+and Taiwan,” International Security 26, no. 2 (2001), 
+108–11; Thomas J. Christensen, Worse Than a Monolith: 
+Alliance Politics and Problems of Coercive Diplomacy in 
+Asia (Princeton: Princeton University Press, 2011).
+
+28 
+China Strategic Perspectives, No. 20
+not target U.S. forces and only after Marshal Peng Dehuai convinced him that U.S. forces would 
+not become involved. Even if U.S. ships opened fire, he instructed that “you are not to fight 
+back without orders.”157 Avoiding attacks on U.S. forces controlled escalation, but according to 
+Chinese historians, the PLA’s artillery attacks nonetheless deterred U.S. support for KMT at-
+tempts to resupply Jinmen since “unexpectedly, the American ships not only did not fire back, 
+but abandoned [the KMT] ships and turned around to flee towards Taiwan.”158 Hence, “U.S. 
+military intervention was eliminated to the maximum extent, thus achieving the expected stra-
+tegic goal.”159 Mao later recalled the success of his brinkmanship campaign against Washington:
+Last year, we learned of [Secretary of State John Foster] Dulles’s “brink of war 
+policy,” and Dulles became our teacher. His “brink of war policy” was directed at 
+us, and we also used the “brink of war policy” against them. The Kuomintang 
+fought with us for decades, and we are still fighting the Kuomintang. The 
+Kuomintang had no food to eat, and the United States gave them food. [Last 
+year], U.S. warships were only three miles away from the islands within the range 
+of our shells. They were on the brink of war, and so were we. We used the “brink of 
+war” to counter the “brink of war,” but they didn’t dare to move forward and only 
+went to the brink of war. We didn’t attack them, and they didn’t dare to move. 
+They looked at us, and we looked at them, for more than two months.160
+These examples reinforce the conclusion in PLA writings that deterrence without escala-
+tion is not only possible but also historically precedented. On the modern battlefield, this strain 
+of thinking suggests, the United States might once again refrain from fully supporting the de-
+fense of Taiwan in the face of successful brinkmanship.
+A deterrence campaign that comes to the “brink of war” might fail, which would neces-
+sitate activation of the direct assault option. A key issue, which PLA analysts do not address, 
+is that this decision to pivot would be made by the senior civilian leadership. They would have 
+to conclude that deterrence has been ineffective and that the only remaining option to address 
+U.S. intervention is to implement the direct assault. This decision would be made in high-stress 
+conditions and likely with incomplete or contradictory information. It is at this moment that 
+disagreements could form within the civilian leadership, or between senior civilians and their 
+military advisors.161 PLA sources might assume a flawless transition from deterrence to war-
+fighting, but delays prompted by such disagreements could provide time for the defenders to 
+improve their own readiness.
+
+29
+Taming the Hegemon
+Fait Accompli
+PLA writings do not clearly articulate a fait accompli option but emphasize speed and 
+deception.162 The 2006 Science of Campaigns argues that the attacker should maintain a “rapid 
+operational tempo” so that “even if the enemy knows our operational intention, they are still 
+unable to effectively respond.”163 It also states that “operational suddenness” is necessary if the 
+PLA “fights with a high-tech and powerful enemy.”164 However, “suddenness” does not equate 
+to confidence in a fait accompli since the authors assume that rapid movements would be part 
+of a direct attack that would include “firepower damage and force-strength assault.”165 A clearer 
+vision of a fait accompli comes in a 2025 Military Arts article on PLA Marine Corps moderniza-
+tion that encourages forces to “quickly control the target area” and make foreign forces “too late 
+to intervene” [来不及介入].166 But it is more likely that the authors were envisioning operations 
+such as the seizure of a small reef in the South China Sea given the main focus of the Marines 
+on those missions and not a larger campaign across the Taiwan Strait.167
+These discussions also highlight the role of deception in seizing the initiative. PLA scholars 
+have long been interested in the use of deception tactics to create advantages against stronger 
+enemies. The 2001 volume Military Deception Under High-Tech Conditions considers examples 
+of successful deception from historical operations, including German issuance of “false intel-
+ligence” during Operation Barbarossa in 1941, Japan’s feigned diplomatic negotiations with the 
+United States before Pearl Harbor, and the fake units established by the U.S. military to deceive 
+German defenders prior to the Normandy landings.168 Perhaps most relevant to a future Tai-
+wan campaign are PLA lessons from Britain’s successful operations to reassert control over the 
+Falklands in April 1982.169 PLA analysts note how the British foreign secretary made a statement 
+understating the size and intent of the operation, as well as a feint led by two aircraft carriers 
+that drew Argentine attention away from the actual landing zone.170
+The PLA’s interest in deception continues in more recent sources. The Science of Campaigns 
+references “concealment, camouflage, and deception” alongside “information operations” such 
+as “jamming, confusion, and deception against the enemy” and the use of “computer viruses 
+to harass the enemy’s command and control system.”171 A 2022 China Military Science article 
+similarly argues that “winning by surprise” in the future requires use of “various stealth tech-
+nologies” as well as “deceptive psychological warfare . . . so that new combat forces can attack 
+the enemy at an unexpected time and place, and achieve combat surprise.”172 As with the Science 
+of Campaigns, however, the authors do not presuppose that such tactics are used in a fait ac-
+compli. Instead, the utility of surprise is to facilitate “covert assaults on enemy key targets, seize
+
+30 
+China Strategic Perspectives, No. 20
+the initiative in battle, and ultimately achieve the purpose of the war.”173 This is consistent with 
+the expectation of a direct assault on the intervener. 
+While speed and deception are interpreted as keys to success, there are two reasons why 
+these factors do not translate into greater interest in a fait accompli option. The first is that PLA 
+observers might doubt their ability to conceal preparations for a landing campaign or other use 
+of force. Modern battlefields are more transparent than the historical examples PLA authors 
+have studied, providing defenders with stronger means of detecting large movements of troops 
+and equipment, and differentiating between exercises and mobilization. As former National 
+Intelligence Officer for East Asia John Culver argues, any Chinese offensive would “almost cer-
+tainly not be subtle, at least to the U.S. intelligence community and probably not to Taiwan and 
+other Western observers.”174 Second is that even if warning times were reduced, the United 
+States could rely on forward-based drones (that is, Hellscape), long-range bombers, and other 
+capabilities to create risks for a PLA offensive. Hence, while seizing the initiative is a criterion 
+for success, PLA observers likely conclude that a direct assault would still be necessary.
+Strategic Buffer
+PLA sources also pay less attention to creating strategic buffers to limit adversary freedom 
+of action. Most articles in the broader Chinese literature that address this option are from ci-
+vilian scholars affiliated with the diplomatic apparatus. These writings seek to identify fissures 
+between the United States and host nations to consider how those differences can be exploited 
+to weaken a U.S.-led coalition. For instance, a 2024 article from a civilian scholar assesses that 
+“transactional countries,” including the Philippines, allow use of their bases “mainly for mate-
+rial interests,” and are also prone to “domestic nationalist sentiments” that make the “risks of 
+using military bases . . . relatively high.”175 Another article similarly notes that host countries can 
+“impose restrictions on overflight rights” and “specific types of combat operations.”176 Access 
+will be determined by “the degree of threat perceptions and interest overlap, the host coun-
+try’s domestic public’s view of the conflict, and the perception of the possible retaliation of U.S. 
+competitors.”177 Still another article describes Japan’s support as ambivalent because China has 
+defined Taiwan as a “core interest,” and any interference could lead to “unpredictable and seri-
+ous consequences” in Tokyo’s relations with Beijing.178 
+These authors also argue that China should drive wedges between the United States and 
+allies and partners whose territory it depends on for access, basing, and overflight. One ar-
+ticle states that Beijing should “make plans to differentiate U.S. allies in emergencies such as 
+crises and combat operations, and how to influence the stability of the political access of the
+
+31
+Taming the Hegemon
+host countries of their bases to the U.S.”179 Another author encourages China to “take advan-
+tage of the asymmetrical relationships and conflict of interest between the United States and 
+its allies.”180 This author concludes that states “sometimes prefer to ally with potential threats 
+in geostrategic relationships rather than natural allies.”181 Such comments are consistent with a 
+broader Chinese literature that probes contradictory interests in U.S. alliance relationships, and 
+China’s own use of economic statecraft, as means that can be used to weaken U.S. influence in 
+the Indo-Pacific.182
+Of note, there is interest in the PLA literature on topics related to overseas basing that 
+could have relevance to the strategic buffer option. A 2022 China Military Science article, for 
+instance, discusses the legal principles under which states utilize foreign bases, which notes that 
+if a tenant uses its overseas bases “privately or jointly” with the host nation to “carry out interna-
+tionally unlawful acts that infringe on the rights and interests of a third country,” the host nation 
+carries responsibility.183 This principle could justify deterrent threats against host nations not to 
+allow U.S. forces access in a Taiwan contingency or direct retaliation. But this is not the author’s 
+main purpose. Instead, the article fits into a genre of articles that is driven by China’s own inter-
+est in overseas bases; it does not explain what the PLA should do to counter U.S. basing.184
+As with the fait accompli option, the lack of PLA attention to a strategic buffer approach 
+indicates that this is not a preferred approach to countering U.S. intervention. One limitation is 
+that, unlike Soviet policy at the beginning of the Cold War, Beijing cannot expect that several 
+key countries near Taiwan will not host U.S. forces. China is already surrounded by countries 
+who are longstanding U.S. allies that provide either permanent or rotational basing for U.S. 
+forces and must assume that those forces could be employed in a conflict. In addition, even if 
+some (or all) host nations refuse to provide access, basing, and overflight, the PLA would still be 
+vulnerable to the U.S. naval and long-range air force capabilities that are central to concepts of 
+force employment that descend from the Air-Sea Battle construct. Hence, while diplomats seek 
+to exploit differences between Washington and its allies, the PLA cannot rely on this approach 
+to promote the success of its future operations. 
+In sum, PLA thinking on counter-intervention emphasizes the two direct options: direct 
+assault and deterrence. This is logical because these are the two most decisive options. Either 
+Washington can be deterred from acting through powerful “strategic deterrence” forces, or, if 
+deterrence is not on the table, the PLA can conduct “noncontact operations” to delay or defeat 
+intervention once it is underway. Indeed, suggesting that both options must be pursued in tan-
+dem, an authoritative Central Military Commission study outline references both warfighting 
+and deterrence against the “powerful enemy” in its guidance on force development:
+
+32 
+China Strategic Perspectives, No. 20
+To strengthen the construction of the weapons and equipment system, we must 
+insist on key breakthroughs and work hard to fill the gaps in the system and make 
+up for the shortcomings and weaknesses. In particular, we must work hard to deter 
+and check [威慑制衡] the powerful enemy. Deterrence means having the ability 
+to deter them so that they dare not take action; checks-and-balances mean that “I 
+will not lose to you” in a local war, just like the War to Resist U.S. Aggression and 
+Aid Korea [that is, the Korean War].185
+Neither the fait accompli nor the strategic buffer option can ensure that U.S. forces will 
+not be able to respond in time and at a scale that will influence the course of the war. Efforts 
+will continue improving the PLA’s ability to use speed and deception to its advantage, and to 
+convince host nations not to provide access in wartime, but the ultimate guarantee of success 
+can only be provided through direct confrontation.
+Implications and Conclusion
+The PLA continues to anticipate that U.S. forces will intervene in a Taiwan contingen-
+cy. This intervention could range from low-level activities such as providing intelligence sup-
+port, to assisting in countering a Chinese blockade or imposing a distant blockade on Chinese 
+shipping, to striking PLA targets on the mainland. PLA analysts have thus encouraged careful 
+counter-intervention planning for decades. Historical cases suggest that there are four basic op-
+tions available to Beijing: direct assault, deterrence, fait accompli, and strategic buffer. The PLA 
+literature focuses mostly on the first two options, which involve direct confrontation with the 
+United States but operate through different mechanisms: a direct assault involves an early and 
+decisive “knockout punch,” while deterrence attempts to persuade Washington not to intervene 
+while limiting the risks of escalation. There is less evidence that the other two options are central 
+to the PLA’s thinking on countering U.S. intervention given their limitations.
+The analysis suggests that the existing literature that focuses almost exclusively on PLA 
+hardware is not wrong but offers too narrow of a view of the choices—and dilemmas—that Bei-
+jing must consider when building its campaign plan and implementing it in a crisis. Capabili-
+ties such as anti-ship ballistic missiles, hypersonic glide vehicles, and strategic bombers can be 
+used to implement asymmetric operations, which is fully consistent with the tactics that Roger 
+Cliff and colleagues anticipated in their 2007 report. But those tools can also compose the con-
+ventional leg of a “strategic deterrence” campaign, alongside nuclear and informational (cyber, 
+space, and cognitive warfare) tools. Analysts and wargame designers should think of China’s
+
+33
+Taming the Hegemon
+options as part of a cohesive plan, like a boxer’s “one-two punch,” to deter, but failing that, to 
+defeat. Red teams might consider the views on escalation that are built into these choices. In 
+deterrence, the PLA might approach the threshold of violence but hold back. Yet in scenarios 
+premised on a direct assault (the proverbial second punch), red teams would be well advised to 
+suggest high-intensity and even preemptive moves to secure victory.
+These findings imply several implications and recommendations for U.S. policy. First, a 
+deeply ingrained PLA belief that Washington will intervene means that a change in declaratory 
+policy will not have much deterrent effect vis-à-vis the PLA. Arguments that the United States 
+should pursue “strategic clarity” to strengthen deterrence against China are weakened because 
+the PLA already assumes and is preparing for U.S. intervention.186 A change in policy could be 
+treated in Beijing as a political provocation that it must respond to, which would increase risks 
+to Taiwan without providing a material benefit for the island’s security.187 Similarly, occasional 
+statements by U.S. presidents that Washington would certainly intervene have little deterrent 
+effect, but these are less consequential because they can be framed as gaffes, which means that 
+Beijing has less imperative to respond to underscore its resolve.188
+Second, policymakers should not assume that PLA judgments on the likelihood of U.S. 
+intervention will always be shared by civilian Chinese leaders. The PLA’s assessment that Wash-
+ington will intervene contributes more to deterrence than a view that the United States is a 
+“paper tiger” that will never intervene, even if it means that they must develop counters. Xi Jin-
+ping appears to share this judgment, since authoritative Chinese Communist Party documents 
+require the PLA to be able to “deter and check” the United States. However, there is another 
+scenario in which either Xi or his successor reaches a different conclusion. By historical analogy, 
+policymakers should remember that a reason for Hitler’s willingness to invade Poland in Sep-
+tember 1939 was his insistence that England and France lacked the willpower and capabilities to 
+intervene. At a conference at his Berghof mountain retreat two weeks before the invasion, Hitler 
+commented to his generals that England’s situation in the world was “very precarious,” while 
+France lacked manpower and artillery. He concluded: “Our enemies are little worms. I saw them 
+in Munich.”189 Hitler’s generals remained privately skeptical, and some even pursued a failed 
+coup against him, but the leader’s judgment outweighed his military advisors.190 
+It is possible that Xi could embrace similarly unrealistic thinking despite the PLA’s insis-
+tence that the U.S. threat must be taken seriously. Like Hitler, Xi has consolidated power such 
+that his personal assessment on the risks and rewards of war outweighs all others.191 Frequent 
+purges make it unlikely that a senior general would strongly push back once Xi indicates his 
+belief.192 The lack of checks and balances in the Chinese system therefore makes it necessary to
+
+34 
+China Strategic Perspectives, No. 20
+better understand his perspectives on the likelihood and possible results of U.S. intervention. Xi 
+could doubt intervention due to an embrace of the narrative of an “American decline,” overes-
+timation of the PLA’s capabilities or resolve relative to the United States,193 and the idea that he 
+might have an opportunity to achieve victory to cement his legacy.194 It is also possible that his 
+successor could have views that are out of sync with the PLA. In these circumstances, the PLA 
+might not be able to convince the top leader otherwise. While these are unlikely possibilities, 
+U.S. leaders should continue to deliver deterrent messages to senior Chinese civilian leaders and 
+not rely solely on exercises and demonstrations focused on the PLA itself. 
+Third, U.S. policy should emphasize crisis stability talks with China. Washington should 
+anticipate that Beijing’s initial approach in a crisis will be to implement “strategic deterrence.” 
+Indeed, some Chinese military activities such as aggressive maritime and air activities against 
+U.S. and allied forces in Asia are already part of a general deterrent campaign. While PLA au-
+thors suggest a brinkmanship policy that limits the escalatory risks by nearing the threshold of 
+lethal force without crossing it, there are still inherent risks. For instance, intimidation tactics 
+used against U.S. air and naval forces in the region raise the probability of accidents, and crisis 
+signaling in the nuclear, space, or cyber domains that could prompt unintentional escalation if 
+the target misreads China’s intentions. This could lead to a much larger war than China intends. 
+Since Beijing has an interest in avoiding those results, it could agree to peacetime discussions 
+on how to prevent and manage crises, especially in areas with potential strategic consequences 
+such as in the nuclear arena. In recent years, such talks have already been pursued at a low level 
+between the two defense establishments but could be upgraded to more senior levels.195 An-
+other option is crisis simulations held between governmental subject matter experts to clarify 
+the risks and discuss possible off-ramps. 
+Fourth, the best U.S. response to Chinese deterrent threats during a crisis is to maintain 
+ambiguity about its intentions for as long as possible. The assumption is that Beijing has already 
+made a strategic decision to use force and will not back down due to international pressure. 
+How to respond to Chinese messaging is thus a pivotal question. Yielding to the threats is tan-
+tamount to capitulation: Taiwan would be isolated and face a quick defeat. However, rejecting 
+Chinese threats also carries with it a risk. In the logic of the “one-two punch,” if the first punch 
+is ineffective, the attacker will quickly pivot to the second punch. It is imperative that Beijing 
+not conclude that its deterrent has failed because it will move quickly to a direct assault to seize 
+the initiative. An ambiguous U.S. response would encourage Beijing to believe that “winning 
+without fighting” is still possible, while providing a critical opportunity to coordinate with Tai-
+wan and allies and partners. Wherever possible, the United States could also take advantage of
+
+35
+Taming the Hegemon
+this window to increase its own readiness and reposition forces into a warfighting posture (for 
+example, maximum dispersal of forces). However, those moves should be conducted as subtly 
+as possible, since once Beijing discovers the ruse, it will pivot to the second punch. 
+Fifth, the most effective way to deter and defeat a direct PLA assault is to reduce the vul-
+nerabilities of the key targets that the PLA believes it can threaten while exploiting asymme-
+tries in the PLA’s own operational systems. The United States, in other words, must also master 
+“system destruction warfare.” Reducing vulnerability implies efforts that are already underway 
+in areas such as logistics resiliency, air base hardening, dispersal of forces to many locations in 
+and outside the first island chain, avoiding overreliance on satellites (for example, by shifting 
+to a greater emphasis on proliferated low Earth orbit constellations or other communications 
+modes), and improving C4ISR redundancy.196 Moreover, the PLA has its own asymmetric dis-
+advantages that can be exploited, the most important of which is its need to concentrate troops 
+and equipment in the confines of the Taiwan Strait where air and maritime superiority cannot 
+be guaranteed.197 Strengthening both close-in and long-range strike forces that can destroy in-
+vasion forces at their mustering locations, in transit, and on vulnerable beachheads is therefore 
+essential. U.S. strategy can also leverage other PLA asymmetries, such as rigid command and 
+control practices that slow down decisionmaking.198 Some capabilities designed to achieve these 
+effects can be revealed in peacetime to promote deterrence, while most should be reserved for 
+wartime use to create dilemmas that the PLA would have difficulty countering. 
+There are also possibilities to misdirect PLA investments and force allocations into tar-
+gets that are less critical to U.S. operational success.199 For instance, PLA authors continue to 
+describe aircraft carriers as a key target in the generation of combat sorties in a regional con-
+tingency. In a crisis, Washington could choose to keep aircraft carriers and other large surface 
+combatants at standoff distances and project power through harder-to-detect submarines, long-
+range bombers, and dispersed close-in forces operating from austere locations. However, if the 
+PLA continues to assess that aircraft carriers are a key link in the U.S. operational chain, then 
+it will invest resources to build counters and dedicate targeting and strike assets to hold them 
+at risk—which would reduce its ability to focus on more essential U.S. capabilities. Demonstra-
+tions or exercises that highlight misleading capabilities could be useful for this effect. 
+Sixth, lack of PLA interest in a fait accompli is not a reason for complacency. Limited at-
+tention to the option in the PLA literature probably reflects a judgment that completing a rapid 
+invasion of Taiwan before U.S. forces can arrive would be too difficult to implement. This as-
+sessment could change if the PLA gains confidence in its ability to move quickly and mask its 
+invasion forces under a plausible cover such as an exercise. Dissuading this thinking relies on
+
+36 
+China Strategic Perspectives, No. 20
+demonstrating U.S. capabilities that can be activated despite reduced warning to slow an initial 
+invasion, buying time for other forces to flow into the theater. It can also be emphasized in mes-
+saging that aggressors have often faced difficulties in conducting such operations—China can 
+be reminded not only of Putin’s failure to mask his invasion as an exercise in February 2022, but 
+also of Kim Il Sung’s conviction that South Korea would be overrun in three days. Kim’s folly 
+proved that Stalin’s trust was misplaced, triggered U.S. intervention, and drew China into the 
+conflict, with a disastrous result for all involved. 
+Finally, U.S. policymakers should regard contestation for access, basing, and overflight 
+as part of the backdrop of strategic competition in Asia and not as a core feature of China’s 
+approach to counter-intervention. There is little question that Beijing will use all tools at its 
+disposal, including economic statecraft and military tactics, to persuade Japan, the Philippines, 
+the Republic of Korea, and Australia not to allow U.S. forces access. Some (or all) of those efforts 
+may be successful even if Washington attempts to convince its allies otherwise.200 It is therefore 
+advisable to continue to diversify basing and access arrangements and to develop long-range 
+capabilities that do not depend on access to foreign territory. But this is not the main battlefield 
+on which the PLA intends to compete. Recognizing that U.S. allies might still grant access, and 
+that some U.S. forces can operate from U.S. territory or through the global commons, the PLA 
+has focused on deterrent and direct assault options—these are the options that demand the 
+greatest attention when considering how best to employ U.S. forces in a contested environment.
+In sum, the PLA fully expects the United States to intervene in a Taiwan conflict and has 
+been thinking through its options for 30 years. Deterrence requires that the PLA, and China’s 
+leaders, continue to worry about the possibility and effectiveness of U.S. intervention, and that 
+they lose hope in the most plausible counters. This requires steps not only to defeat PLA hard-
+ware but also to shape perceptions that, if left unchecked, could promote the same optimism in 
+a quick victory that tempted their predecessors into foolish decisions.
+
+37
+Taming the Hegemon
+Notes
+1 On the balance of forces, see Military and Security Developments Involving the People’s 
+Republic of China 2024: Annual Report to Congress (Washington, DC: Office of the Secretary of 
+Defense, 2024), 164–66, https://media.defense.gov/2024/dec/18/2003615520/-1/-1/0/military-and-
+security-developments-involving-the-peoples-republic-of-china-2024.pdf.
+2 Military and Security Developments Involving the People’s Republic of China 2024, 84.
+3 China Military Power: Modernizing a Force to Fight and Win (Washington, DC: Defense 
+Intelligence Agency, 2019), 65, https://www.dia.mil/Portals/110/Images/News/Military_Powers_Pub-
+lications/China_Military_Power.pdf; 2024 Report to Congress of the U.S.-China Economic and 
+Security Review Commission (Washington, DC: U.S.-China Economic and Security Review Commis-
+sion, November 2024), 553–54, https://www.uscc.gov/annual-report/2024-annual-report-congress; J. 
+Michael Dahm, China C4ISR and Counter-Intervention, Testimony Before the U.S.-China Economic 
+and Security Review Commission, Hearing on China’s Evolving Counter Intervention Capabilities 
+and Implications for the U.S. and Indo-Pacific Allies and Partners, March 21, 2024, https://www.uscc.
+gov/sites/default/files/2024-03/J.Michael_Dahm_Testimony.pdf; Thomas H. Shugart, Deterring the 
+Powerful Enemy: China’s Counter-Intervention Capability in a Regional Conflict, Testimony Before 
+the U.S.-China Economic and Security Review Commission, Hearing on China’s Capabilities and Con-
+cepts for “Counter-Intervention,” March 21, 2024, https://www.uscc.gov/sites/default/files/2024-03/
+Thomas_Shugart_Testimony.pdf; Stephen Biddle and Ivan Oelrich, “Future Warfare in the Western 
+Pacific: Chinese Anti-access/Area Denial, U.S. AirSea Battle, and Command of the Commons in East 
+Asia,” International Security 41, no. 1 (2016), 7–48, https://doi.org/10.1162/ISEC_a_00249; Nicholas 
+D. Anderson and Daryl G. Press, “Access Denied? The Sino-American Contest for Military Primacy in 
+Asia,” International Security 50, no. 1 (2025), https://doi.org/10.1162/ISEC.a.7; Andrew S. Erickson, 
+“China’s Evolving Anti-Access Approach: ‘Where’s the Nearest (U.S.) Carrier?’” China Brief 10, no. 
+18 (2010), 5–8, https://jamestown.org/program/chinas-evolving-anti-access-approach-wheres-the-
+nearest-u-s-carrier/.
+4 See, for example, Mark F. Cancian et al., The First Battle of the Next War: Wargaming a 
+Chinese Invasion of Taiwan (Washington, DC: Center for Strategic and International Studies [CSIS], 
+2023), https://www.csis.org/analysis/first-battle-next-war-wargaming-chinese-invasion-taiwan; Chris 
+Dougherty, Buying Time: Logistics for a New American Way of War (Washington, DC: Center for a 
+New American Security, 2023), https://www.cnas.org/press/press-release/buying-time-logistics-for-a-
+new-american-way-of-war.
+5 M. Taylor Fravel and Christopher P. Twomey, “Projecting Strategy: The Myth of Chinese 
+Counter-intervention,” The Washington Quarterly 37, no. 4 (2014), 171–87, http://dx.doi.org/10.1080/
+0163660X.2014.1002164. See also Christopher P. Twomey, “What’s in a Name? Building Anti-Access/
+Area Denial Capabilities Without Anti-Access/Area Denial Doctrine,” in Assessing the People’s Lib-
+eration Army in the Hu Jintao Era, ed. Roy Kamphausen et al. (Carlisle Barracks, PA: U.S. Army War 
+College Press, 2014), 153.
+6 Timothy Heath and Andrew S. Erickson, “Is China Pursuing Counter-Intervention?” The 
+Washington Quarterly 38, no. 3 (2015), 143–56, https://doi.org/10.1080/0163660X.2015.1099029.
+
+38 
+China Strategic Perspectives, No. 20
+7 Ryan D. Martinson, “Counter-Intervention in Chinese Naval Strategy,” Journal of Strategic 
+Studies 44, no. 2 (2021), 265–87, https://doi.org/10.1080/01402390.2020.1740092.
+8 Brandon J. Babin, “Xi Jinping’s Strangelove: The Need for a Deterrence-Based Offset Strat-
+egy,” in Modernizing Deterrence: How China Coerces, Compels, and Deters, ed. Roy D. Kamphausen 
+(Washington, DC: National Bureau of Asian Research, 2023), 67–99, https://www.nbr.org/publication/
+xi-jinpings-strangelove-the-need-for-a-deterrence-based-offset-strategy/.
+9 Roger Cliff et al., Entering the Dragon’s Lair: Chinese Antiaccess Strategies and Their 
+Implications for the United States (Santa Monica, CA: RAND, 2007), https://www.rand.org/pubs/
+monographs/MG524.html.
+10 “Remarks by Secretary of Defense Pete Hegseth at the 2024 Shangri-La Dialogue in 
+Singapore (as Delivered),” Department of Defense, May 31, 2025, https://www.defense.gov/News/
+Speeches/Speech/article/4202494/remarks-by-secretary-of-defense-pete-hegseth-at-the-2025-shangri-
+la-dialogue-in/.
+11 For a brief overview, see Joel Wuthnow, “How China Could Counter U.S. Intervention in 
+War Over Taiwan,” War on the Rocks, May 27, 2025, https://warontherocks.com/2025/05/how-china-
+could-counter-u-s-intervention-in-war-over-taiwan/.
+12 Andrew Chubb, “Propaganda, Not Policy: Explaining the PLA’s ‘Hawkish Faction’ (Part 
+One),” China Brief 13, no. 15 (2013), https://jamestown.org/program/propaganda-not-policy-explain-
+ing-the-plas-hawkish-faction-part-one/.
+13 Most PLA sources use 干预 to describe external military intervention by an adversary in 
+wartime; some also use 介入 (which is the basis of the Chinese translation of the U.S. doctrinal phrase 
+“antiaccess,” as 反介入). 干涉 usually refers to broader interference or meddling in another country’s 
+internal affairs, though confusingly干预 is sometimes also used in this context. The preference for 干
+预 or 介入is at odds with the People’s Liberation Army (PLA) dictionary, which does not have an 
+entry for these terms or for the U.S. phrase antiaccess/area-denial (A2/AD). Instead, it defines military 
+intervention [军事干涉 or 武装干涉] as “the act of a country or international organization using armed 
+force to forcibly intervene in the internal affairs of a country.” See PLA Military Terminology [中国人
+民解放军军语] (Beijing: Military Sciences Press, 2011), 7.
+14 Alan D. Romberg, Rein In at the Brink of the Precipice: American Policy Toward Taiwan 
+and U.S.-PRC Relations (Washington, DC: Henry L. Stimson Center, 2003), 105–93, https://www.
+stimson.org/wp-content/files/file-attachments/Complete%20Rein%20In%203rd%20Ed.pdf.
+15 On Taiwan leader visits, see Susan V. Lawrence, Taiwan Presidents’ U.S. Transit Visits, 
+IF12371 (Washington, DC: Congressional Research Service, January 3, 2025), https://www.congress.
+gov/crs-product/IF12371.
+16 Jiang Zemin, “Continue to Promote the ‘Reunification’ of the Motherland,” Xinhua, January 
+30, 1995, trans. CSIS, https://interpret.csis.org/translations/continue-to-promote-the-reunification-of-
+the-motherland/.
+17 Rhetoric under Hu was similar. The 2010 defense white paper, for instance, stated that the 
+United States, “in defiance of the three Sino-U.S. joint communiques, continues to sell weapons to 
+Taiwan, severely impeding Sino-U.S. relations and impairing the peaceful development of cross-Strait 
+relations.” See China’s National Defense in 2020, Xinhua, June 23, 2010, http://eng.mod.gov.cn/xb/
+Publications/WhitePapers/4887922.html.
+
+39
+Taming the Hegemon
+18 “Full Text of the 20th Party Congress Report” [二十大报告全文], Xinhua, October 25, 
+2022, https://www.gov.cn/zhuanti/zggcddescqgdbdh/sybgqw.htm.
+19 Liu Junchuan, ed., The Chinese Communist Party’s National Reunification [中国共产党祖
+国统一] (Beijing: Jiuzhou Press, 2022), 342.
+20 Xiao Yang, “In the New Era, We Will Continue to Improve the Institutional System to Op-
+pose External Interference” [新时代持续完善反对外部势力干涉的制度体系], Cross-Taiwan Strait 
+Studies [台海研究], no. 1 (2023), 73–4.
+21 Xiao, “In the New Era, We Will Continue to Improve the Institutional System to Oppose 
+External Interference.”
+22 Strategic ambiguity is a result of the Taiwan Relations Act not specifying whether the 
+United States would militarily intervene, despite its pledges to provide arms of a “defensive character.” 
+Every U.S. administration since 1979 has reaffirmed support for the act.
+23 Kristen Gunness and Phillip C. Saunders, Averting Escalation and Avoiding War: Lessons 
+from the 1995–1996 Taiwan Strait Crisis, China Strategic Perspectives 17 (Washington, DC: NDU 
+Press, 2022), https://ndupress.ndu.edu/Media/News/Article/3253814/averting-escalation-and-avoid-
+ing-war-lessons-from-the-19951996-taiwan-strait-cr/; Robert S. Ross, “The 1995–96 Taiwan Strait 
+Confrontation: Coercion, Credibility, and the Use of Force,” International Security 25, no. 2 (2000), 
+87–123, https://www.jstor.org/stable/2626754.
+24 David M. Finkelstein, China Reconsiders Its National Security: “The Great Peace and 
+Development Debate of 1999” (Arlington, VA: CNA, 2000), 30–1, https://www.cna.org/reports/2000/
+PeaceAndDevelopment.pdf; M. Taylor Fravel, Active Defense: China’s Military Strategy Since 1949 
+(Princeton: Princeton University Press, 2019), 224.
+25 Finkelstein, China Reconsiders Its National Security.
+26 See, for example, Rush Doshi, The Long Game: China’s Grand Strategy to Replace Ameri-
+can Order (Oxford: Oxford University Press, 2021), 161–76; Michael D. Swaine, “Chinese Views 
+of U.S. Decline,” China Leadership Monitor 69 (Fall 2021), 1–21, https://www.prcleader.org/post/
+chinese-views-of-u-s-decline; Jude Blanchette and Seth G. Jones, “Beijing’s New Narrative of U.S. 
+Decline,” CSIS Interpret: China Project, July 2021, https://opensource.csis.org/features/beijing-narra-
+tive-us-decline/.
+27 Qi Jianguo, “Understanding and Thinking About Great Changes Unseen in a Century” [对
+百年未有之大变局的认识与思考], China Military Science [中国军事科学], no. 3 (2021), 91.
+28 To be sure, PLA usage of 强敌 is not limited to the United States after the Cold War. This is 
+a generic term that refers to any strong opponent and differentiates them from weaker opponents, or 弱
+敌; Japan, for instance, was a 强敌 during World War II. Identification of the specific 强敌is usually 
+through context.
+29 Academy of Military Sciences Strategic Research Department, Science of Military Strategy 
+[战略学] (Beijing: Military Sciences Press, 2001), 416.
+30 Science of Military Strategy, 455. Brackets inserted.
+31 Cui Yafeng, ed., Science of Army Operations [陆军作战学] (Beijing: PLA Press, 2009), 
+104.
+
+40 
+China Strategic Perspectives, No. 20
+32 Academy of Military Sciences Military Strategy Studies Department, Science of Military 
+Strategy, trans. China Aerospace Studies Institute (Beijing: Military Sciences Press, 2013), 124 (101 in 
+the original).
+33 Xiao Tianliang, ed., Science of Military Strategy [战略学] (Beijing: National Defense Uni-
+versity Press, 2020), 45.
+34 Yu Qingjiang, “Implementing Chairman Xi’s Important Instructions and Striving to Build a 
+Strong, Modern Airborne Corps” [贯彻习主席重要指示努力建设一支强大的现代化空降兵部队], 
+Military Arts [军事学术], no. 1 (2025), 1.
+35 Dai Mingxiang and Yin Yanmei, “Accelerate the Transformation and Improvement of the 
+Quality and Efficiency of the Army’s Logistics Readiness” [加快提高陆军后勤备战转型质效], Mili-
+tary Arts [军事学术], no. 1 (2025), 49.
+36 Chinese sources are conflicted on this point. See Swaine, “Chinese Views of U.S. Decline,” 
+17–8.
+37 Zhang Peigao, Lectures on Joint Campaign Command [联合战役指挥教程] (Beijing: 
+Military Sciences Press, 2012), 213–4. Similarly, a 2000 Modern Navy article blasted U.S. arms sales 
+and other displays of support as forms of “military deterrence” to “intimidate our army and attempt to 
+prevent the realization of the great cause of reunification of the motherland.” See Sun Lihua and Tao 
+Guang, “A Predictive Analysis of Patterns of U.S. Intervention in the Taiwan Issue” [美国干预台湾问
+题样式预测分析], Modern Navy [当代海军], no. 4 (2000).
+38 Xu Hengbing and Xu Di, “On New-Quality Productivity and New-Quality Combat Effec-
+tiveness” [论新质生产力和新质战斗力], China Military Science [中国军事科学], no. 6 (2024), 62.
+39 Xu and Xu, “On New-Quality Productivity and New-Quality Combat Effectiveness.”
+40 Zhang, Lectures on Joint Campaign Command, 213–4.
+41 Sun and Tao, “A Predictive Analysis of Patterns of U.S. Intervention in the Taiwan Issue.”
+42 Liang Fiang, On Maritime Strategic Access [海上战略通道论], trans. China Aerospace 
+Studies Institute (Beijing: Current Affairs Press, 2011), 278.
+43 Liang’s analysis predicted a strategy of “offshore control” proposed in 2012 by U.S. scholar 
+T.X. Hammes, which would target China’s overseas trade rather than conducting mainland strikes. See 
+T.X. Hammes, Offshore Control: A Proposed Strategy for an Unlikely Conflict, INSS Strategic Forum 
+278 (Washington, DC: NDU Press, June 2012), https://ndupress.ndu.edu/Portals/68/Documents/stratfo-
+rum/SF-278.pdf.
+44 For a discussion, see John Speed Myers, Mainland Strikes and U.S. Military Strategy 
+Towards China (Santa Monica, CA: RAND, 2019), https://www.rand.org/pubs/rgs_dissertations/
+RGSD430.html.
+45 Jan van Tol et al., AirSea Battle: A Point-of-Departure Operational Concept (Washington, 
+DC: Center for Strategic and Budgetary Assessments, 2010), https://csbaonline.org/research/publica-
+tions/airsea-battle-concept.
+46 Sun and Tao, “A Predictive Analysis of Patterns of U.S. Intervention in the Taiwan Issue.”
+47 Zhang Yuliang, ed., Science of Campaigns [战役学] (Beijing: Military Sciences Press, 
+2006), 332.
+48 Zhang, ed., Science of Campaigns.
+
+41
+Taming the Hegemon
+49 Zhang, Lectures on Joint Campaign Command, 214–5.
+50 Zhang, Lectures on Joint Campaign Command.
+51 Zhang Ming, “Reflections on Several Strategic Issues in the New Situation” [对新形势下几
+个战略问题的思考], China Military Science [中国军事科学], no. 2 (2014), 19.
+52 Zhang, Lectures on Joint Campaign Command, 217–8.
+53 Zhang, Lectures on Joint Campaign Command.
+54 Science of Military Strategy (2013), 100.
+55 Chen Qiyin, “Advancing the Modernization of Military Theories in the New Era” [推进新
+时代军事理论现代化], China Military Science [中国军事科学], no. 6 (2018), 107. The PLA does not 
+have a specific word for doctrine in the Western sense, but the same idea is relevant in military theories 
+[军事理论].
+56 Cheng Jinming et al., “Vigorously Promote Warfare Innovation for the New Era” [大力推进
+新时代战法创新], China Military Science [中国军事科学], no. 3 (2024), 127–8.
+57 Cheng, Li, and Du, “Vigorously Promote Warfare Innovation for the New Era.”
+58 Chen Hui, “Focus on Balancing Powerful Enemies and Opponents, Adapt to the Transfor-
+mation and Development of the Air Force, and Continuously Improve the Actual Combat Training 
+Level of the Troops” [聚焦制衡强敌对手顺应空军转型发展持续提升部队实战化训练水平], Mili-
+tary Arts [军事学术], no. 1 (2022), 12.
+59 Zhang, Lectures on Joint Campaign Command, 212–3, 217–8.
+60 Chai Yuqiu and Xu Guocheng, Science of Army Operations Under Informatized Conditions 
+[信息化条件下陆军作战学] (Beijing: Military Sciences Press, 2009), 358. Notably, the “antiair raid” 
+campaign would be integrated in either a joint blockade campaign or a joint island landing campaign. 
+See Michael Casey, “Firepower Strike, Blockade, Landing: PLA Campaigns for a Cross-Strait Con-
+flict,” in Crossing the Strait: China’s Military Prepares for War With Taiwan, ed. Joel Wuthnow et al. 
+(Washington, DC: NDU Press, 2022), 132, https://ndupress.ndu.edu/Portals/68/Documents/Books/
+crossing-the-strait/crossing-the-strait.pdf.
+61 Casey, “Firepower Strike, Blockade, Landing,” in Wuthnow et al., ed. Crossing the Strait.
+62 Joel Wuthnow, China’s Other Army: The People’s Armed Police in an Era of Reform, China 
+Strategic Perspectives 14 (Washington, DC: NDU Press, 2019), 22, https://ndupress.ndu.edu/Por-
+tals/82/China%20SP%2014%20Final%20for%20Web.pdf.
+63 Zhang, Lectures on Joint Campaign Command, 215–6.
+64 Xu and Xu, “On New-Quality Productivity and New-Quality Combat Effectiveness,” 62.
+65 Specifically, the idea is that the main target should bear the brunt of the assault while deter-
+rence can be attempted to sideline the intervener. See discussion below for details.
+66 A “self-defensive counter-attack” [自卫还击作战] is how Beijing described its 1979 war 
+with Vietnam, claiming that Hanoi had initiated the conflict by attacking Cambodia 2 months earlier. 
+Presumably, in a future war with Taiwan, Beijing will frame its actions as defensive regardless of how 
+the war begins, but it might gain higher foreign legitimacy if the intervener fires the first shot.
+67 Bruce M. Russett, “Deterrence Theory and Decision Theory,” Journal of Peace Research 4, 
+no. 2 (1967), 94–9, https://doi.org/10.1177/002234336700400201.
+
+42 
+China Strategic Perspectives, No. 20
+68 Roberta Wohlstetter, Pearl Harbor: Warning and Decision (Stanford: Stanford University 
+Press, 1962), 354.
+69 Even the destruction of U.S. aircraft carriers in Pearl Harbor probably would not have 
+changed the outcome of the war. Of the three U.S. carriers that participated in the pivotal battle of 
+Midway in June 1942, only one (USS Enterprise) had been homeported in Pearl Harbor the previous 
+December. Moreover, even if all carriers had been destroyed, the fundamental imbalance in U.S. vs. 
+Japanese war capacity would have remained. Admiral Isoroku Yamamoto doubted that a war could be 
+won in the short term and warned about Japanese defeat over the longer-term months before the sur-
+prise attack. See Jeffrey Record, Japan’s Decision for War in 1941: Some Enduring Lessons (Carlisle 
+Barracks, PA: U.S. Army War College Press, 2009), 3–4, https://press.armywarcollege.edu/cgi/view-
+content.cgi?article=1632&context=monographs.
+70 Glenn E. Torrey, The Romanian Battlefront in World War I (Lawrence: University Press of 
+Kansas, 2011).
+71 From a Chinese perspective, as discussed below, an example would be the confinement of 
+the North Atlantic Treaty Organization’s role in Ukraine to the level of a “proxy war” involving train-
+ing and logistics support, but not a direct “boots on the ground” role.
+72 Thanks to Chris Andrews for suggesting this point.
+73 Lawrence Sondhaus, German Submarine Warfare in World War I: The Onset of Total War at 
+Sea (London: Rowman and Littlefield, 2017), 24.
+74 Sondhaus, German Submarine Warfare in World War I, 112.
+75 Sondhaus, German Submarine Warfare in World War I, 115.
+76 Daniel Sobelman, “Re-conceptualizing Triangular Coercion in International Relations,” 
+Cooperation and Conflict 58, no. 3 (2023), 365–7, https://doi.org/10.1177/00108367221098494.
+77 Gerhard L. Weinberg, A World at Arms: A Global History of World War II (Cambridge: 
+Cambridge University Press, 1994), 6–121.
+78 Michael Kofman et al., Russian Strategy for Escalation Management: Evolution of Key 
+Concepts (Arlington, VA: CNA, 2020), 10, https://www.cna.org/reports/2020/04/DRM-2019-U-
+022455-1Rev.pdf.
+79 Kofman et al., Russian Strategy for Escalation Management.
+80 Samuel Charap et al., Understanding Russian Coercive Signaling (Santa Monica, CA: 
+RAND, 2022), 67–8, https://www.rand.org/pubs/research_reports/RRA198-9.html.
+81 Stephen Blank, “Nuclear Weapons in Russia’s War Against Ukraine,” Naval War College 
+Review 75, no. 4 (2022), 68, https://digital-commons.usnwc.edu/nwc-review/vol75/iss4/6/.
+82 “Address by the President of the Russian Federation,” February 24, 2022, http://en.kremlin.
+ru/events/president/news/67843.
+83 “Biden Warns Americans in Ukraine to Leave, Says Sending Troops to Evacuate Would Be 
+‘World War,’” NBC News, February 10, 2024, https://www.nbcnews.com/politics/white-house/biden-
+warns-americans-leave-ukraine-russia-troops-world-war-rcna15781.
+84 By contrast, Dean Acheson clarified that Japan, the Ryukyus, and the Philippines were 
+within the “defensive perimeter.” See Dean Acheson, “Speech on the Far East,” National Press Club, 
+January 12, 1950, https://www.cia.gov/readingroom/docs/1950-01-12.pdf.
+
+43
+Taming the Hegemon
+85 Kathryn Weathersby, “The Soviet Role in the Early Phase of the Korean War: New Docu-
+mentary Evidence,” Journal of American-East Asian Relations 2, no. 4 (1993), 433, https://www.jstor.
+org/stable/23613018.
+86 P.K. Rose, “Two Strategic Intelligence Mistakes in Korea, 1950,” Studies in Intelligence 45, 
+no. 5 (2001), 57–65, https://apps.dtic.mil/sti/tr/pdf/ADA529658.pdf.
+87 Kenneth Moll, “The Guns of July 1950,” Air and Space Forces, September 1, 2005, https://
+www.airandspaceforces.com/article/0905korea/.
+88 Cynthia M. Grabo, “Soviet Deception in the Czechoslovak Crisis,” Studies in Intelligence 
+14, no. 1 (1970, declassified 1993), 12–3, https://www.cia.gov/resources/csi/static/Soviet-Deception-
+Czechoslovak-Crisis.pdf. See also Cynthia M. Grabo, Anticipating Surprise: Analysis for Strategic 
+Warning (Washington, DC: Joint Military Intelligence College, 2002), https://apps.dtic.mil/sti/citations/
+ADA476752.
+89 Leo J. Reddy, “NATO Before and After the Czechoslovak Crisis,” Vanderbilt Journal 
+of Transnational Law 2, no. 2 (1969), 69, https://scholarship.law.vanderbilt.edu/cgi/viewcontent.
+cgi?article=2685&context=vjtl.
+90 Grabo, “Soviet Deception in the Czechoslovak Crisis,” 17.
+91 Joshua C. Huminski, “Russia, Ukraine, and the Future Use of Strategic Intelligence,” 
+PRISM 10, no. 3 (2023), 9–25, https://ndupress.ndu.edu/Media/News/News-Article-View/Arti-
+cle/3511951/russia-ukraine-and-the-future-use-of-strategic-intelligence/.
+92 The treaty specifically referenced German troops; Joseph Stalin was apparently more 
+concerned about avoiding a repeat of Operation Barbarossa than U.S. or NATO aspirations in the late 
+1940s. See Jussi Hanhimäki, “‘Containment’ in a Borderland: The United States and Finland, 1948–
+49,” Diplomatic History 18, no. 3 (1994), 360, https://doi.org/10.1111/j.1467-7709.1994.tb00218.x.
+93 John Lukacs, “Finland Vindicated,” Foreign Affairs 71, no. 4 (1992), 50–63, https://www.
+jstor.org/stable/20045309.
+94 Douglas Brommesson et al., “Sweden’s Policy of Neutrality,” in Successful Public Policy in 
+the Nordic Countries: Cases, Lessons, Challenges, ed. Caroline de la Porte et al. (New York: Oxford 
+University Press, 2022), 291.
+95 Wolfgang Mueller, “The USSR and Permanent Neutrality in the Cold War,” Journal of Cold 
+War Studies 18, no. 4 (2016), 157, https://www.jstor.org/stable/26925643.
+96 Thomas J. Christensen, “Posing Problems Without Catching Up: China’s Rise and Chal-
+lenges for U.S. Security Policy,” International Security 25, no. 4 (2001), 5–40, https://www.jstor.org/
+stable/3092132; Michael Pillsbury, China Debates the Future Security Environment (Washington, DC: 
+NDU Press, 2000), 292–7.
+97 Zhang, Science of Campaigns, 97.
+98 Zhang, Science of Campaigns.
+99 Chai and Xu, Science of Army Operations Under Informatized Conditions, 349. The PLA’s 
+encyclopedia notes that “non-contact operations” were “widely used in the Kosovo War, the Afghani-
+stan War, and the Iraq War.” Its main characteristics include use of “integrated reconnaissance intel-
+ligence information systems” to provide targeting; use of “long-range precision-guided weapons to 
+destroy the enemy’s main targets”; use of hard and soft kill methods to “destroy the enemy’s command
+
+44 
+China Strategic Perspectives, No. 20
+information systems”; and protecting one’s own targets. See China Military Encyclopedia [中国军事
+百科全书] (Beijing: Encyclopedia of China Publishing House, 2007).
+100 Science of Military Strategy (2020), 293.
+101 For an extensive discussion, see Cliff et al., Entering the Dragon’s Lair, 51–77.
+102 Yu Liming, Study on Asymmetric Operations [非对称作战研究] (Beijing: NDU Press, 
+2015), 185. For a discussion, see Jeffrey Engstrom, Systems Confrontation and System Destruction 
+Warfare (Santa Monica, CA: RAND, 2018), https://www.rand.org/pubs/research_reports/RR1708.html; 
+and Mark Cozad et al., Gaining Victory in Systems Warfare: China’s Perspective on the U.S.-China 
+Military Balance (Santa Monica, CA: RAND, 2023), 61–90, https://www.rand.org/pubs/research_re-
+ports/RRA1535-1.html.
+103 Yu, Study on Asymmetric Operations, 185.
+104 Peng Daorong, “A Different Perspective on Systems Warfare” [换个视角看体系战], Mili-
+tary Arts [军事学术], no. 1 (2022).
+105 Xu Lisheng and Wang Zhaoyong, eds., Research on Port Landing Operations [港口登录作
+战研究], trans. China Aerospace Studies Institute (Beijing: NDU Press, 2015), 88.
+106 Zhu Qichao et al., “Innovation of Military Strategy in the Perspective of Scientific and 
+Technological Revolution” [科技革命视野中的军事战略创新], China Military Science [中国军事科
+学], no. 3 (2015), 76.
+107 Fu Bingzhong, “Research on the Concept of Space-Ground Integrated Unmanned Combat” 
+[天地一体无人战概念研究], Military Arts [军事学术], no. 1 (2022), 41.
+108 Feng Zhongguo, “Characteristics and Trends of World Army Development” [世界陆军发
+展的特点及趋势], China Military Science [中国军事科学], no. 2 (2022), 84.
+109 Yu Lingling et al., “Mao Zedong Thought on Building and Employing Naval Forces” [毛泽
+东海军建设运用思想探要], China Military Science [中国军事科学], no. 6 (2023), 52.
+110 For an overview, see J. Michael Dahm and Elsa B. Kania, “The Advent of Intelligent 
+Power: The Evolution of China’s Outlook on Military Informationization and Intelligentization,” in 
+The PLA in a New Era: Individuals, Ideas, and Influence, ed. Joel Wuthnow et al. (Washington, DC: 
+NDU Press, forthcoming).
+111 Lan Yongming, “Consideration on Focusing on the New Characteristics of Future Battle-
+field Coordination to Promote the Modernization of Force Structure” [着眼未来战场对抗新特点推进
+兵力结构现代化的思考], China Military Science [中国军事科学], no. 1 (2023), 117.
+112 Lan, “Consideration on Focusing on the New Characteristics of Future Battlefield Coordi-
+nation to Promote the Modernization of Force Structure.”
+113 Joel Wuthnow, “A New Step in China’s Military Reform,” Joint Force Quarterly 117 (2nd 
+Quarter 2025), 4–13, https://digitalcommons.ndu.edu/joint-force-quarterly/vol117/iss2/3/; J. Michael 
+Dahm, “A Disturbance in the Force: The Reorganization of People’s Liberation Army Command and 
+Elimination of China’s Strategic Support Force,” China Brief 24, no. 9 (2024), https://jamestown.org/
+program/a-disturbance-in-the-force-the-reorganization-of-peoples-liberation-army-command-and-elim-
+ination-of-chinas-strategic-support-force/.
+114 Cliff et al., Inside the Dragon’s Lair, 31–4.
+115 Dang Chongmin and Zhang Yu, “Science of Joint Operations” [联合作战学] (Beijing: PLA 
+Press, 2009), 87.
+
+45
+Taming the Hegemon
+116 Science of Military Strategy (2020), 279.
+117 Chai and Xu, Science of Army Operations Under Informatized Conditions, 349.
+118 Liu Changlong and Huang Peirong, “Continue to Promote Improvements in Our Ability to 
+‘Fight Based on Existing Equipment’” [“持续推进” 立足现有装备打仗能力提升], China Military 
+Science [中国军事科学], no. 4 (2012), 126–7.
+119 Liu and Huang, “Continue to Promote Improvements in Our Ability to ‘Fight Based on 
+Existing Equipment.’”
+120 See John F. Sullivan, “Sun Tzu’s Fighting Words,” The Strategy Bridge, June 15, 2020, 
+https://thestrategybridge.org/the-bridge/2020/6/15/sun-tzus-fighting-words. Sullivan argues that the 
+correct interpretation of this passage in the Art of War would focus on routing an enemy before it is 
+fully organized, which implies use of force rather than convincing an enemy not to fight in the first 
+place.
+121 Zhang, Lectures on Joint Campaign Command, 215–6.
+122 For a discussion, see Dean Cheng, “Chinese Views on Deterrence,” Joint Force Quarterly 
+60 (1st Quarter 2011), 92–4, https://ndupress.ndu.edu/Portals/68/Documents/jfq/jfq-60/jfq-60_92-94_
+Cheng.pdf. See also Lonnie Henley, “War Control: Chinese Concepts of Escalation Management,” in 
+Shaping China’s Security Environment, ed. Andrew Scobell and Larry M. Wortzel (Carlisle, PA: U.S. 
+Army War College Press, 2006), 86–7, http://www.jstor.com/stable/resrep11961.8.
+123 Zhang Yan, Theory of Strategic Deterrence [战略威慑论] (Beijing: Social Science Aca-
+demic Press, 2018), 145.
+124 Science of Military Strategy (2020), 256.
+125 Science of Military Strategy (2020), 123.
+126 Science of Military Strategy (2020), 138.
+127 Science of Military Strategy (2020), 139.
+128 “Full Text of the 20th Party Congress Report.”
+129 Joel Wuthnow, “Shield, Sword, or Symbol: Analyzing Xi Jinping’s ‘Strategic Deterrence,’” 
+Brookings, March 7, 2024, https://www.brookings.edu/articles/shield-sword-or-symbol-analyzing-xi-
+jinpings-strategic-deterrence/.
+130 Ge Tengfei, “Build a Strong System of National Strategic Deterrence Forces” [打造强大
+的国家战略威慑力量体系], People’s Tribune [人民论坛], no. 21 (2022): 39. The publication is a 
+subsidiary of People’s Daily, which makes this assessment more authoritative. 
+131 Ge, “Build a Strong System of National Strategic Deterrence Forces.”
+132 Ge, “Build a Strong System of National Strategic Deterrence Forces.”
+133 Michael S. Chase and Arthur Chan, China’s Evolving Approach to “Integrated Strategic 
+Deterrence” (Santa Monica, CA: RAND, 2016), 36–44, https://www.rand.org/pubs/research_reports/
+RR1366.html.
+134 Zhu Siyu et al., “New Technologies Generate Innovations in Operational Methods and New 
+Methods of Warfare Bring About Technological Integration: A Study of the Application of New Tech-
+nologies and New Operational Methods in Recent Armed Conflicts and Its Implications” [新技术催生
+战法创新新战法带动技术融合: 近期武装冲突中新技术新战法应用研究与启示], China Military
+
+46 
+China Strategic Perspectives, No. 20
+Science [中国军事科学], no. 1 (2023), 64.
+135 Yu et al., “Mao Zedong Thought on Building and Employing Naval Forces,” 52.
+136 Joel Wuthnow, Rightsizing Chinese Military Lessons From Ukraine, China Strategic Forum 
+68 (Washington, DC: NDU Press, September 2022), 5, https://inss.ndu.edu/Portals/68/Documents/
+stratforum/SF-311.pdf.
+137 Jin Ning and Ma Jianguang, “The Strategic Deterrence and Influence of the United States 
+and Russia in the Context of Great Power Competition” [大国博弈背景下的美俄战略威慑与影响], 
+Russian and Eastern European Studies [俄罗斯东欧中亚研究], no. 3 (2022), 42–62.
+138 Yang Guanghai, “U.S. Proxy War in Ukraine: Motives, Measures, and Implications” [美国
+在乌克兰的代理人战争: 动因, 举措与启示], Peace and Development [和平与发展], no. 1 (2023), 
+24–42.
+139 On PLA thinking on the broader nuclear dimensions of the conflict, see Maryanne Kivle-
+han-Wise and Tsun-Kai Tsai, “PRC Lessons Learned From Russia’s Invasion of Ukraine: Implications 
+for a Taiwan Conflict,” in The PLA in a Complex Security Environment: Preparing for High Winds 
+and Choppy Waters, ed. Benjamin Frohman and Jeremy Rausch (Washington, DC: National Bureau 
+of Asian Research, 2024), 121–2, https://www.nbr.org/publication/prc-lessons-learned-from-russias-
+invasion-of-ukraine-implications-for-a-taiwan-conflict/.
+140 Zhang, Science of Campaigns, 629.
+141 Zhang, Theory of Strategic Deterrence, 93.
+142 Zhu et al., “New Technologies Generate Innovations in Operational Methods and New 
+Methods of Warfare Bring About Technological Integration,” 64.
+143 Zhang, Lectures on Joint Campaign Command, 216–7.
+144 Liang, On Maritime Strategic Access, 302.
+145 Ren Haiquan, “Strengthening National Defense and the Armed Forces Building at the New 
+Stage in the New Period” [加强新时期新阶段国防和军队建设], China Military Science [中国军事
+科学], no. 3 (2013), 10. Emphasis added.
+146 Cheng, “Chinese Views of Deterrence.”
+147 Fiona S. Cunningham, Under the Nuclear Shadow: China’s Information-Age Weapons in 
+International Security (Princeton: Princeton University Press, 2025).
+148 Wang Yunlei et al., “Issues on Army Deterrence and Operations Under Multi-Dimensional 
+Conditions” [陆军全域慑战若干问题], China Military Science [中国军事科学], no. 2 (2018), 27. 
+This can also include social media manipulation. See Scott W. Harold et al., Chinese Disinformation 
+Efforts on Social Media (Santa Monica, CA: RAND, 2021), https://www.rand.org/pubs/research_re-
+ports/RR4373z3.html.
+149 Zhang, Theory of Strategic Deterrence, 26. 
+150 Yu Sen et al., “Base on Integrated National Strategic Systems and Capabilities to Enhance 
+National Defense Mobilization Capabilities” [依托一体化目家战略体系和能力提升国防动员能力], 
+China Military Science [中国军事科学], no. 3 (2022), 72.
+151 Cheng, “Chinese Views on Deterrence”; Chase and Chan, China’s Evolving Approach to 
+“Integrated Strategic Deterrence,” 4–5.
+
+47
+Taming the Hegemon
+152 Katarzyna Zysk, “Escalation and Nuclear Weapons in Russia’s Military Strategy,” RUSI 
+Journal 163, no. 2 (2018), https://www.rusi.org/explore-our-research/publications/rusi-journal/escala-
+tion-and-nuclear-weapons-russias-military-strategy. For an opposing view, see Kristin Ven Bruusgaard, 
+“The Myth of Russia’s Lowered Nuclear Threshold,” War on the Rocks, September 22, 2017, https://
+warontherocks.com/2017/09/the-myth-of-russias-lowered-nuclear-threshold/.
+153 Science of Military Strategy (2013), 119.
+154 Sun and Tao, “A Predictive Analysis of Patterns of U.S. Intervention in the Taiwan Issue,” 
+18.
+155 Xia Hongbo et al., “Fundamental Experience of Military Struggle Against U.S. Under the 
+Guidance of Mao Zedong After the Founding of the People’s Republic of China” [新中国成立后毛泽
+东指导对美军事斗争的基本经验], Military History [军事历史], no. 4 (2019), 57.
+156 Zhao Xuegong, “The Second Taiwan Strait Crisis and U.S.-China Relations” [第二 次台湾
+海峡危机与中美关系], Contemporary China History Studies [当代中国史研究] 10, no. 3 (2003), 70.
+157 Tang Fuquan and Wang Daowei, “An Exploration of the Strategic Planning Art of the 
+Chinese Communist Party in Resisting U.S. Intervention in the Military Struggle Along the Southeast 
+Coast” [中国共产党在东南沿海军事斗争中抗御美国干预的战略运筹艺术探要], Military History 
+Research [军事历史研究], no. 1 (2011), 17–8.
+158 Tang and Wang, “An Exploration of the Strategic Planning Art of the Chinese Communist 
+Party in Resisting U.S. Intervention in the Military Struggle Along the Southeast Coast.”
+159 Tang and Wang, “An Exploration of the Strategic Planning Art of the Chinese Communist 
+Party in Resisting U.S. Intervention in the Military Struggle Along the Southeast Coast.”
+160 Mao Zedong, “Conversations With Leaders of the Communist Parties of Some Latin 
+American Countries” [同拉丁美洲一些国家共产党领导人的谈话], March 3, 1959, https://marx-
+istphilosophy.org/maozedong/mx8/005.htm.
+161 For instance, civilians could adopt a more risk-acceptant posture than their cautious mili-
+tary advisors, or the reverse. Depending on the strength of the top leader, decisionmaking could require 
+bargaining and argumentation that delays the war. This scenario would fit with Model III (governmen-
+tal politics) in Allison’s framework. See Graham Alllison, Essence of Decision: Explaining the Cuban 
+Missile Crisis (New York: Little, Brown, 1971).
+162 This is fully consistent with PLA writings on war control. See Alison A. Kaufman and Dan-
+iel M. Harnett, Managing Conflict: Examining Recent PLA Writings on Escalation Control (Arlington, 
+VA: CNA, 2016), 68–70, https://www.cna.org/reports/2016/drm-2015-u-009963-final3.pdf.
+163 Zhang, Science of Campaigns, 96.
+164 Zhang, Science of Campaigns.
+165 Zhang, Science of Campaigns.
+166 Zhu Zhuansheng, “Aim to Win High-End Naval Battles, Accelerate the Construction of 
+the Marine Corps’ Combat Capabilities” [瞄准打赢高端海战, 加速推进海军陆战队作战能力建设], 
+Military Arts [军事学术], no. 1 (2025), 10.
+167 Joshua Arostegui, “PLA Army and Marine Corps Amphibious Brigades in a Post-Reform 
+Military,” in Wuthnow et al., Crossing the Strait, 161–94.
+
+48 
+China Strategic Perspectives, No. 20
+168 Li Weiguo, ed., Military Deception Under High-Tech Conditions [高技术条件下军事欺
+骗] (Beijing: NDU Press, 2001).
+169 See Christopher D. Yung, “Sinica Rules the Waves? The People’s Liberation Army Navy’s 
+Power Projection and Anti-Access/Area Denial Lessons from the Falklands/Malvinas Conflict,” in Chi-
+nese Lessons from Other Peoples’ Wars, ed. Andrew Scobell et al. (Carlise Barracks, PA: U.S. Army 
+War College Press, 2011), 75–114, https://apps.dtic.mil/sti/tr/pdf/ADA553490.pdf.
+170 Li, Military Deception Under High-Tech Conditions, 35.
+171 Zhang, Science of Campaigns, 126.
+172 Xu Wenhua and Du Liping, “Influence and Demand of Future Warfare on Military Train-
+ing” [未来战争对军事训练的影响及要求], China Military Science [中国军事科学], no. 1 (2022), 
+107. 
+173 Xu and Du, “Influence and Demand of Future Warfare on Military Training.”
+174 John Culver, “How We Would Know When China Is Preparing to Invade Taiwan,” 
+Carnegie Endowment for International Peace, October 3, 2022, https://carnegieendowment.org/
+posts/2022/10/how-we-would-know-when-china-is-preparing-to-invade-taiwan?lang=en.
+175 Liu Xinhua, “Characteristics, Motivations, and Trends of the Adjustment of the U.S. Indo-
+Pacific Military Base System” [美国印太军事基地体系调整的特点, 动因与趋势], Forum of World 
+Economics and Politics [世界经济与政治论坛], no. 3 (2024), 36–7.
+176 Chen Guiyun and Yuan Zheng, “U.S. Deployment of Defense Facilities in the Indo-Pacific 
+Region and Strategic Reassessment of ‘Base Dependence’” [美国在印太地区防务设施部署与 “基地
+依赖” 战略重估], Indian Ocean Economic and Political Review [印度洋经济体研究], no. 6 (2024), 
+74–5.
+177 Chen and Yuan, “U.S. Deployment of Defense Facilities in the Indo-Pacific Region and 
+Strategic Reassessment of ‘Base Dependence.’”
+178 Wang Shushen, “The Evolution of the U.S. Indo-Pacific Strategy and the Situation in the 
+Taiwan Strait” [美国印太战略演进与台海局势], Taiwan Studies [台湾研究], no. 2 (2023), 18.
+179 Chen and Yuan, “U.S. Deployment of Defense Facilities in the Indo-Pacific Region and 
+Strategic Reassessment of ‘Base Dependence,’” 75.
+180 Zhang Yao, “The Networking of the U.S. Asia-Pacific Security Architecture: Strategic 
+Tools, Internal Limitations, and China’s Response” [美国亚太安全架构网络化：战略工具、内在限
+度与中国应对], Journal of Strategy and Decision-Making [战略决策研究], no. 6 (2024), 30.
+181 Zhang, “The Networking of the U.S. Asia-Pacific Security Architecture: Strategic Tools, 
+Internal Limitations, and China’s Response.”
+182 See, for example, Andrew D. Taffer, “Threat and Opportunity: Chinese Wedging in the 
+Senkaku/Diaoyu Dispute,” Asian Security 16, no. 2 (2020), 157–78, https://doi.org/10.1080/14799855.
+2019.1567493; Tommy Sheng Hao Chai, “How China Attempts to Drive a Wedge in the U.S.-Australia 
+Alliance,” Australian Journal of International Affairs 74, no. 5 (2020), 511–31, https://doi.org/10.108
+0/10357718.2020.1721432; and Khang X. Vu, “External Coercion, Internal Accommodation: China’s 
+Wedge Strategies Towards the Vietnam–United States Partnership, 2013–2022,” Journal of Contempo-
+rary China 33, no. 149 (2024), 850–70, https://doi.org/10.1080/10670564.2023.2228718.
+
+49
+Taming the Hegemon
+183 Wang Wenjuan, “Application of International Law by the U.S., Russia, and Other Major 
+Countries in Their Overseas Military Bases” [美俄等因海外军事基地的国际法运川], China Military 
+Science [中国军事科学], no. 6 (2022), 146.
+184 See, for example, Isaac B. Kardon, “China’s Overseas Base, Places, and Far Seas Logis-
+tics,” in The PLA Beyond Borders: Chinese Military Operations in Regional and Global Context, ed. 
+Joel Wuthnow et al. (Washington, DC: NDU Press, 2021), 73–106, https://digitalcommons.ndu.edu/
+books-and-book-chapters/1/.
+185 Central Military Commission Political Work Department, Study Outline on Xi Jinping 
+Strong Army Thought [习近平强军思想学习纲要] (2023), 102. Emphasis added.
+186 Richard Haass and David Sacks, “American Support for Taiwan Must Be Unambiguous,” 
+Foreign Affairs, September 2, 2020, https://www.foreignaffairs.com/articles/united-states/american-
+support-taiwan-must-be-unambiguous.
+187 Michael Cunningham, “Should the USA Maintain Its Policy of Strategic Ambiguity To-
+wards Taiwan?” The Heritage Foundation, June 24, 2024, https://www.heritage.org/china/commentary/
+should-the-usa-maintain-its-policy-strategic-ambiguity-towards-taiwan; Steven M. Goldstein, “In 
+Defense of Strategic Ambiguity in the Taiwan Strait,” National Bureau of Asian Research, October 15, 
+2021, https://www.nbr.org/publication/in-defense-of-strategic-ambiguity-in-the-taiwan-strait/.
+188 President Joe Biden is widely known to have pledged to intervene on Taiwan’s behalf four 
+times during his Presidency. However, President Biden is not alone. After the EP-3 incident in April 
+2001, President George W. Bush likewise stated that the United States would do “whatever it took” to 
+defend the island. See David E. Sanger, “U.S. Would Defend Taiwan, Bush Says,” New York Times, 
+April 26, 2001, https://www.nytimes.com/2001/04/26/world/us-would-defend-taiwan-bush-says.html.
+189 Karl-Heinz Frieser, The Blitzkrieg Legend (Annapolis, MD: Naval Institute Press, 2013), 
+33.
+190 Frieser, The Blitzkrieg Legend.
+191 It is also unclear who in the PLA would be willing to challenge those views if they were to 
+emerge. Xi’s purge of Central Military Commission Vice Chairman He Weidong in 2025 removed the 
+sole source of credible advice on Taiwan from that body.
+192 Tyler Jost and Daniel C. Mattingly, “After Xi: The Succession Question Obscuring China’s 
+Future—And Unsettling Its Present,” Foreign Affairs, September/October 2025, https://www.foreignaf-
+fairs.com/china/after-xi-jinping-jost-mattingly.
+193 Robert Jervis, Perception and Misperception in International Politics (Princeton: Princeton 
+University Press, 2017), 344–8.
+194 Kevin Rudd, “Rudd: The War in Ukraine Won’t Change Xi’s Plans for Taiwan,” Financial 
+Review, June 24, 2022, https://www.afr.com/policy/foreign-affairs/rudd-the-war-in-ukraine-won-t-
+change-xi-s-plans-for-taiwan-20220621-p5avbk.
+195 “U.S. Department of Defense Holds First Crisis Communications Working Group With 
+the People’s Republic of China People’s Liberation Army,” Department of Defense, October 29, 2020, 
+https://www.defense.gov/News/Releases/Release/Article/2398907/us-department-of-defense-hosts-
+first-crisis-communications-working-group-with-t/. See also Michael D. Swaine, Avoiding the Abyss: 
+An Urgent Need for Sino-U.S. Crisis Management, Quincy Paper No. 16 (Washington, DC: Quincy
+
+50 
+China Strategic Perspectives, No. 20
+Institute, 2024), https://quincyinst.s3.amazonaws.com/wp-content/uploads/2024/09/27142210/QUIN-
+CY-PAPER-NO.-16-—-SWAINE.pdf; Michael D. Swaine, “How to Stop the United States and China 
+From Sliding Into War,” War on the Rocks, November 25, 2024, https://warontherocks.com/2024/11/
+how-to-stop-the-united-states-and-china-from-sliding-into-war/.
+196 Some of these principles are enshrined in the Joint Warfighting Concept. See Thomas A. 
+Walsh and Alexandra L. Huber, “A Symphony of Capabilities: How the Joint Warfighting Concept 
+Guides Service Force Design and Development,” Joint Force Quarterly 111 (4th Quarter 2023), 4–15, 
+https://ndupress.ndu.edu/Media/News/News-Article-View/Article/3568312/a-symphony-of-capabili-
+ties-how-the-joint-warfighting-concept-guides-service-for/. On airbase hardening, see Anderson and 
+Press, “Access Denied?” On space resilience, see Zachary Burdette, “The U.S.-China Military Balance 
+in Space,” International Security 49, no. 4 (2025), 71–118, https://doi.org/10.1162/isec_a_00509.
+197 Elbridge A. Colby, The Strategy of Denial: American Defense in an Age of Great Power 
+Conflict (New Haven: Yale University Press, 2022).
+198 Joel Wuthnow, System Overload: Can China’s Military Be Distracted in a War Over 
+Taiwan? China Strategic Perspectives 15 (Washington, DC: NDU Press, 2020), https://ndupress.ndu.
+edu/Portals/68/Documents/stratperspective/china/china-perspectives-15.pdf; Joel Wuthnow, “Defend-
+ing Taiwan in an Expanded Competitive Space,” Joint Force Quarterly 104 (1st Quarter 2021), 89–94, 
+https://ndupress.ndu.edu/Media/News/News-Article-View/Article/2884395/defending-taiwan-in-an-
+expanded-competitive-space/.
+199 On competitive strategies, see Thomas G. Mahnken, ed., Competitive Strategies for the 
+21st Century: Theory, History, and Practice (Stanford: Stanford University Press, 2012); and Andrew 
+W. Marshall, Long-Term Competition with the Soviets: A Framework for Strategic Analysis (Santa 
+Monica, CA: RAND, 1972), https://www.rand.org/pubs/reports/R862.html.
+200 Kelly Grieco and Jennifer Kavanaugh, “Coalition of the Unwilling: Why Asia’s Geography 
+Impedes Coalition Building,” unpublished manuscript; Kelly Grieco and Jennifer Kavanaugh, “The 
+Elusive Indo-Pacific Coalition: Why Geography Matters,” The Washington Quarterly 47, no. 1 (2024), 
+103–21, https://doi.org/10.1080/0163660X.2024.2326324.
+
+51
+Taming the Hegemon
+About the Author
+Dr. Joel Wuthnow is a Senior Research Fellow in the Center for the Study of Chinese Mili-
+tary Affairs, Institute for National Strategic Studies, at the National Defense University. Prior to 
+joining NDU, he was a China analyst at the Center for Naval Analyses, a post-doctoral fellow 
+in the China and the World Program at Princeton University, and a pre-doctoral fellow at the 
+Brookings Institution. His recent books and monographs include China's Quest for Military 
+Supremacy (Polity, 2025, with Phillip C. Saunders), Sea Dragons: Special Operations and Chinese 
+Military Strategy (Naval War College Press, 2025, with John Chen), Crossing the Strait: China’s 
+Military Prepares for War with Taiwan (NDU Press, 2022; lead editor); Gray Dragons: Assessing 
+China's Senior Military Leadership, China Strategic Perspectives 16 (NDU Press, 2022); The PLA 
+Beyond Borders: Chinese Military Operations in Regional and Global Context (NDU Press, 2021; 
+lead editor); System Overload: Can China’s Military Be Distracted in a War over Taiwan? China 
+Strategic Perspectives 15 (NDU Press, 2020); and Chairman Xi Remakes the PLA: Assessing Chi-
+nese Military Reforms (NDU Press, 2019; co-editor).
+Dr. Wuthnow received an A.B. in Public and International Affairs from Princeton Uni-
+versity, an M.Phil. in Modern Chinese Studies from Oxford University, and a Ph.D. in Political 
+Science from Columbia University.
+
+52 
+China Strategic Perspectives, No. 20
+
+53
+Taming the Hegemon
+
+No. 19 China’s Military Diplomacy 
+by Phillip C. Saunders and Melodie Ha (06/25)
+No. 18 Discerning the Drivers of China’s Nuclear Force Development: Models, Indicators, and Data 
+by David C. Logan and Phillip C. Saunders (07/23)
+No. 17 Averting Escalation and Avoiding War: Lessons from the 1995–1996 Taiwan Strait Crisis 
+by Kristen Gunness and Phillip C. Saunders (12/22)
+No. 16 Gray Dragons: Assessing China’s Senior Military Leadership
+by Joel Wuthnow (09/22)
+No. 15 System Overload: Can China’s Military Be Distracted in a War over Taiwan? 
+by Joel Wuthnow (06/20)
+No. 14 China’s Other Army: The People’s Armed Police in an Era of Reform 
+by Joel Wuthnow (04/19)
+No. 13 China’s Strategic Support Force: A Force for a New Era 
+by John Costello and Joe McReynolds (10/18)
+No. 12 Chinese Perspectives on the Belt and Road Initiative: Strategic Rationales, Risks, and Implications 
+by Joel Wuthnow (09/17)
+No. 11 Chinese Military Diplomacy, 2003–2016: Trends and Implications 
+by Kenneth Allen, Phillip C. Saunders, and John Chen (07/17)
+No. 10 Chinese Military Reforms in the Age of Xi Jinping: Drivers, Challenges, and Implications 
+by Joel Wuthnow and Phillip C. Saunders (03/17)
+No. 9 China Moves Out: Stepping Stones Toward a New Maritime Strategy 
+by Christopher H. Sharman (03/15)
+No. 8 Red China’s ‘Capitalist Bomb’: Inside the Chinese Neutron Bomb Program 
+by Jonathan Ray (01/15)
+No. 7 “Not an Idea We Need to Shun”: Chinese Overseas Basing Requirements in the 21st Century 
+by Christopher Yung and Ross Rustici, with Scott Devary and Jenny Lin (10/14)
+No. 6 China’s Forbearance Has Limits: Chinese Threat and Retaliation Signaling and Its Implications for 
+a Sino-American Military Confrontation 
+by Paul H.B. Godwin and Alice Miller (04/13)
+China Strategic Perspectives Series
+Editor, Dr. Phillip C. Saunders

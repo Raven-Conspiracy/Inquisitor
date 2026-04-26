@@ -1,0 +1,139 @@
+The Shenyang J-11 (Chinese: 歼-11; NATO reporting name: Flanker-B+/Flanker-L), also known as Yinglong (simplified Chinese: 应龙; traditional Chinese: 應龍; pinyin: yìnglóng; lit. 'Responsive Dragon') is a 4th generation twin-engine jet fighter of the People's Republic of China derived from the Soviet-designed Sukhoi Su-27SK. It is manufactured by the Shenyang Aircraft Corporation (SAC). The aircraft is operated by the People's Liberation Army Air Force (PLAAF) and the People's Liberation Army Naval Air Force (PLANAF).
+
+
+== Development ==
+
+
+=== Proposed J-11 ===
+Based on experience from the Vietnam War, the PLAAF issued a requirement in 1969 for a short take off and landing (STOL) light fighter to replace the Shenyang J-6 and Nanchang Q-5. The proposal from the  Shenyang Aircraft Design Institute and Shenyang Aircraft Factory was designated "J-11"; it resembled a French Dassault Mirage F1 and was powered by a British Rolls-Royce Spey 512 engine. The project was abandoned as no suitable engine could be procured, and the competing Nanchang J-12 was far more advanced.
+
+
+=== Su-27 purchase ===
+
+China was the Su-27's first export customer. China turned to the Soviet Union for weapons following the 1989 Tiananmen Square protests and massacre and the resulting Western arms embargo. China selected the Su-27 over the Mikoyan MiG-29. Three orders were made in the 1990s, and the deliveries of 36 Su-27SKs and 42 Su-27UBKs started in 1992 and continued into the 2000s.
+
+
+=== J-11 ===
+In 1996, China and Rosoboronexport entered a US$1.2 billion agreement permitting SAC to produce 200 Su-27UBKs under license. Production would start using kits manufactured by Komsomolsk-on-Amur Aircraft Plant (KnAPPO). Subsystems (avionics, radars and engines) would be imported from Russia and not be produced under license. Furthermore, the agreement prohibited China from exporting its production. Production began in 1997. The first two were completed in December 1998 but were poorly assembled and required Russian assistance to rebuild. Five were built by 2000, and another 20 by 2003, by which time production was of high quality and incorporated local airframe parts; Russia did not object to local airframe parts, which allowed KnAPPO to reduce the contents of the kits supplied. Russia resisted China's demands for upgraded avionics, eventually upgrading the obsolescent N001 pulse-Doppler radar with the improved N001V. Production of the J-11A, an "indigenous" variant, began in 2000. By 2006, at least 105 J-11 and J-11As had been produced with improved domestic avionics.
+Co-production reportedly ended in 2004 with the development of the J-11B "Flaming Dragon"—a variant with domestic subsystems, which was in violation of the co-production agreement. However, through 2009 China continued to hold licenses to produce Russian aircraft and components, which included previously confidential provisions concerning intellectual property. The original licence did not officially include carrier-capable aircraft (e.g. Sukhoi Su-33) or variants (e.g. Shenyang J-15).
+By 2015, J-11s were upgraded with Chinese-made missile approach warning systems (MAWS). Unconfirmed upgrades included improved cockpit displays, and fire control systems for R-77 or PL-10 missiles.
+
+
+=== J-11B ===
+The J-11B is a multirole variant of the J-11 incorporating Chinese subsystems. It was conceived as a way to remove the J-11's dependency on Russia. SAC unveiled a J-11B mockup in mid-2002. Three prototypes were delivered to the PLAAF for testing in 2006. The two-seater J-11BS followed two years after the J-11B. By 2011, reportedly 90% of the J-11B was based on subsystems and parts designed in China, with the engine presumably being a major part of the remainder. Many domestic subsystems are improvements of those found on the Su-27SK.
+Chinese subsystems on the J-11B include Type 1493 radar, 3-axis data system, power supply system, emergency power unit, brake system, hydraulic system, fuel system, environment control system, molecular sieve oxygen generation systems, digital flight control system, and glass cockpit. The airframe is slightly lighter due to greater use of composites.
+The J-11B may carry the PL-12 and PL-8B  air-to-air missiles. The J-11BG upgrade is capable of PL-15 and PL-10 missiles as well.
+
+
+=== Engine replacement ===
+By 2004, the J-11 was being tested with the Shenyang WS-10. Testing may have started as early as 2002; an image from the 2002 China International Aviation & Aerospace Exhibition allegedly depicted a J-11 with one engine replaced with a WS-10. WS-10 development proved difficult. One regiment converted to WS-10-powered J-11Bs in 2007, but was grounded for an extended period due to poor operational reliability. The WS-10A reportedly matured enough after 2009 to power the J-11B Block 02 aircraft, and Jane's reported the J-11B as powered by the WS-10 in 2014.
+
+
+== Operational history ==
+PLAAF J-11Bs participated in Shaheen 1, a joint Sino-Pakistani exercise, in March 2011. This was the first time the PLAAF conducted "operational" aerial maneuvers in Pakistan with the PAF.
+
+
+=== P-8 interception ===
+
+On 19 August 2014 a J-11B intercepted a U.S. Navy P-8 Poseidon (P-8) anti-submarine warfare aircraft that was over the South China Sea.
+The U.S. Department of Defense released details at a press conference on 22 August 2014 with Admiral John Kirby as spokesperson. According to Kirby, the incident occurred 135 miles (217 km) east of Hainan Island, in international airspace. The Chinese jet "crossed under the aircraft with one pass having only 50–100 feet [15–30 m] separation. The Chinese jet also passed the nose of the P-8 at 90 degrees with its belly toward the P-8 Poseidon, believed to be displaying its weapons load-out. Afterwards, the J-11 flew directly under and alongside the P-8, bringing their wingtips, as I said, to within 20 feet [6 m]. And then conducted a roll over the P-8, passing within 45 feet [14 m]." He said the "unprofessional" and "unsafe" actions of the Chinese pilot was "not keeping with the kind of military-to-military relationship" the U.S. sought to establish with China. An official complaint was sent to China through regular diplomatic channels. The Pentagon commented further that: "Military activities may be conducted within the Exclusive Economic Zone of another nation as an exercise of the freedoms of navigation and overflight."
+In response, the Chinese Ministry of National Defense spokesman Yang Yujun said that the U.S. criticisms were "totally groundless" as the Chinese pilot professionally maintained a safe distance. Furthermore, he blamed the "massive and frequent close-in surveillance" by the U.S. as the root cause, and called for the end of surveillance flights to improve bilateral military ties.
+
+
+== Variants ==
+J-11: The baseline license-produced variant assembled by Shenyang Aircraft Corporation from Russian-supplied kits based on the Su-27SK. Early production aircraft remained heavily dependent on Russian-supplied components.
+J-11A: A later production batch or improved variant of the J-11, generally described as incorporating some Chinese avionics and cockpit-display enhancements while remaining fundamentally a license-produced aircraft derived from the Russian Su-27SK, rather than a substantially indigenous redesign like the J-11B. Public sources differ on the combined production total of the J-11/J-11A, with figures of 104 or 105 commonly cited.
+J-11A upgraded variant: In the mid-2010s, some J-11As were observed receiving mid-life modernization upgrades, including the addition of Chinese-made missile approach warning systems (MAWS), and likely improvements to avionics and cockpit displays. Chinese media and online commentators have referred to these aircraft as the "J-11A MLU", but this does not appear to be a consistently used official designation. Public sources support the existence of such upgrades, but details regarding radar changes, weapons integration, and whether the aircraft fully reached the J-11B standard remain unclear.
+J-11B (Flanker-L): A more extensively Chinese-developed derivative of the J-11/Su-27SK family with a high proportion of domestic subsystems, including avionics, fire-control equipment, cockpit displays, flight-control systems, and weapons integration. It is widely regarded as the major step from licensed production toward an indigenized "Flanker" variant in Chinese service. Early prototypes and some initial production aircraft used Russian AL-31 series engines, while later batches progressively adopted the WS-10 turbofan.
+J-11BS (Flanker-L): A twin-seat version of the J-11B intended for training, conversion, and operational use, retaining most of the J-11B's domestic airframe and avionics improvements.
+J-11BH: Naval aviation variant of the J-11B operated by the People's Liberation Army Naval Air Force, broadly similar in configuration to the land-based J-11B but assigned to PLANAF units. It was first publicly sighted in 2010.
+J-11BSH: Naval aviation version of the J-11BS, used by the People's Liberation Army Naval Air Force.
+J-11BG: An upgraded batch or upgraded variant of the J-11B, identifiable by its grey radome. It is widely reported to incorporate improved avionics and is commonly speculated to feature an active electronically scanned array (AESA) radar as well as integration of newer air-to-air missiles such as the PL-10 and PL-15. Detailed technical characteristics, however, remain only partially confirmed in public sources.
+J-11BGH: Naval aviation counterpart to the J-11BG, generally understood to incorporate broadly similar avionics and weapons-system upgrades on the J-11BH airframe.
+J-11D: A deeply modernized and ultimately unproduced derivative of the J-11 family. It was reported to feature greater use of composite materials, additional weapon stations, an active electronically scanned array (AESA) radar, an improved fly-by-wire flight-control system, and WS-10B engines. Prototype aircraft were built and flown, but the type did not enter serial production or service; some of its technologies are widely believed to have informed later programs.
+
+
+== Accidents and incidents ==
+On December 7, 2017, a J-11B from the Western Theater Command Air Force's 111th Aviation Brigade crashed during a training exercise. The pilot, Captain Huang Peng, was killed in the crash after reportedly attempting to save the aircraft. Huang was posthumously awarded martyr status.
+
+
+== Operators ==
+ China
+People's Liberation Army Air Force: 100 J-11A, 180 J-11B and 90 J-11BS (as of 2018)
+111th Aviation Brigade - Korla Air Base
+People's Liberation Army Naval Air Force: 40 J-11BH and 32 J-11BSH (as of 2018)
+
+
+== Specifications (J-11A/J-11) ==
+Data from General characteristics
+Crew: 1
+Length: 21.9 m (71 ft 10 in)
+Wingspan: 14.7 m (48 ft 3 in)
+Height: 5.92 m (19 ft 5 in)
+Wing area: 52.84 m2 (568.8 sq ft)
+Gross weight: 23,926 kg (52,748 lb)
+Max takeoff weight: 33,000 kg (72,753 lb)
+Fuel capacity: 9,400 kg (20,700 lb) internal fuel
+Powerplant: 2 × Shenyang WS-10A "Taihang" afterburning turbofans, 132 kN (30,000 lbf) thrust  each (J-11B Block 02)
+Performance
+
+Maximum speed: Mach 2.35 (2,500 km/h, 1,553 mph) at altitude
+Range: 3,530 km (2,190 mi, 1,910 nmi)
+Service ceiling: 18,500 m (60,700 ft) without external ordnance and stores
+g limits: +9
+Armament
+
+Guns: 1× 30 mm (1.18 in) Gryazev-Shipunov GSh-30-1 cannon with 150 rounds
+Hardpoints: 10: 2 under fuselage, 2 under air ducts, 4 under wings, 2 on wingtips , with provisions to carry combinations of:
+Missiles: 
+PL-15 (Later B models and J-11D only)
+PL-12
+PL-10 (Later B and D models)
+PL-9
+PL-8
+Vympel R-77
+Vympel R-27
+Vympel R-73
+Rockets: Unguided rocket launcher
+Bombs: Free-fall cluster bombs
+Avionics
+
+Fire-control radar: NIIP Tikhomirov N001VE Myech coherent pulse Doppler radar, or Type 1493 radar (J-11B)
+OEPS-27 electro-optic system
+NSts-27 helmet-mounted sight (HMS)
+Gardeniya ECM pods
+
+
+== See also ==
+
+Related development
+
+Sukhoi Su-27
+Shenyang J-15
+Shenyang J-16
+Aircraft of comparable role, configuration, and era
+
+Boeing F/A-18E/F Super Hornet
+Dassault Rafale
+Eurofighter Typhoon
+Grumman F-14 Tomcat
+McDonnell Douglas F-15 Eagle/Mitsubishi F-15J
+Sukhoi Su-30
+Sukhoi Su-30MKK
+Sukhoi Su-35
+
+Related lists
+
+List of fighter aircraft
+
+
+== References ==
+Citations
+
+Bibliography
+
+
+== External links ==
+
+J-11 fighter, Chinese PLAAF (archived).
+A Flanker by any other name by Bai Wei Air Forces Monthly, May 2012 (archived).

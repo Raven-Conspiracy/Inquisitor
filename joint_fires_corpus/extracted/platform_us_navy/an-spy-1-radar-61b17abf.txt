@@ -1,0 +1,83 @@
+The AN/SPY-1 is a United States Navy passive electronically scanned array (PESA) 3D radar system manufactured by Lockheed Martin, and is a key component of the Aegis Combat System. The system is computer controlled and uses four complementary antennas to provide 360-degree coverage. The system was first installed in 1973 on USS Norton Sound and entered active service in 1983 as the SPY-1A on USS Ticonderoga. The -1A was installed on ships up to CG-58, with the -1B upgrade first installed on USS Princeton in 1986. The upgraded -1B(V) was retrofitted to existing ships from CG-59 up to the last, USS Port Royal.
+In accordance with the Joint Electronics Type Designation System (JETDS), the "AN/SPY-1" designation represents the first design of an Army-Navy electronic device for surface ship surveillance radar system. The JETDS system also now is used to name all Department of Defense electronic systems.
+
+
+== Description ==
+The first production model of the SPY-1 series is SPY-1, which forms the baseline configuration of all subsequent SPY-1 radars. SPY-1A has four antenna arrays in two separate deckhouses, with each antenna array containing 148 modules. Each module contains up to 32 radiating elements and phase shifters, and modules are paired to form transmitting and receiving sub-arrays, which are grouped into 32 transmitting and 68 receiving arrays. Transmitting arrays are driven by eight transmitters, each with four crossed-field amplifiers (CFAs). Each CFA produces a peak power of 132 kW. There are 4,096 total radiators, 4,352 receivers, and 128 auxiliary elements on each antenna array. The power requirement of SPY-1A is four times that of the AN/SPS-48. The AN/UYK-7 computer controls SPY-1.
+SPY-1A is a development of SPY-1, resulting from the deployment of SPY-1-equipped USS Ticonderoga off the Lebanese coast. It was discovered that the false alarm rate was high because the radar would pick up swarms of insects and clutter from mountainous terrain. The solution was to allow the operator to change the sensitivity profile of radar by periodically reducing attenuation, and setting threat and non-threat sectors according to changing environment. The result was more efficient utilization of resources. About 10% of the software totaling thirty thousand lines were rewritten to accommodate the necessary upgrade. In 2003, the U.S. Navy donated a SPY-1A antenna to the National Severe Storms Laboratory in Norman, Oklahoma, making it one of the first stationary phased arrays used in weather forecasting. This Multifunction Phased Array Radar was decommissioned and removed in 2016.
+SPY-1B adopts VLSI, resulting in increased performance and reduced size and weight. For example, the electronic cabinets area was reduced from 11 to 5, with the corresponding weight reduced from 14,700 lb (6,700 kg) to 10,800 lb (4,900 kg), and separate digital modules are reduced from 3,806 to 1,606. A 7-bit phase shifter replaced the 4-bit phase shifter in earlier models, with the corresponding weight of phase shifters in the face of the antenna reduced from 12,000 lb (5,400 kg) to 7,900 lb (3,600 kg), and a reduction of the side lobe by 15 dB. There are 4,350 radiators with two side lobe cancellation antennae, each with two elements, and the radar uses eleven 16-bit microprocessors. The ability to counter steep diving missiles was improved with more energy at higher elevations or longer pulse.
+SPY-1B(V) is a development of earlier SPY-1B with moving target indication capability incorporated in 1997.
+SPY-1D was first installed on USS Arleigh Burke (DDG-51) in 1991, with all antennas in a single deckhouse. It is a variant of the -1B to fit the Arleigh Burke class using the UYK-43 computer, with the main antenna also used as missile uplinks, thus eliminating the need for separate missile uplinks in earlier models. The AN/UYA-4 display in earlier models is replaced by the UYQ-21 display. Starting with Flight III (DDG-125), the Arleigh Burke class is being equipped with AN/SPY-6(V)1 radar from Raytheon; Flight IIA (DDG-79 to DDG-124) will be retrofitted with the AN/SPY-6(V)4 variant.
+SPY-1D(V), the Littoral Warfare Radar, was an upgrade introduced in 1998 with a new track initiation processor for high clutter near-coast operations, where the earlier "blue water" systems were especially weak. The waveform is coded and signal processing is improved. The ability to resist electronic attack was also improved.
+ SPY-1E SBAR (S-Band Active Array) is the only active electronically scanned array (AESA) model in the SPY-1 series. SPY-1E utilizes commercial off-the-shelf (COTS) subsystems, and a single-faced demonstration unit was built in 2004. The weight of the antenna remains the same, but the weight below the deck is greatly reduced. It was later renamed to AN/SPY-2 and subsequently developed into AN/SPY-4 Volume Search Radar (VSR) for Zumwalt-class destroyers and Gerald R. Ford-class aircraft carriers to complement their AN/SPY-3 X-band radar. VSR was removed from the Zumwalt class due to budgetary concerns and will be replaced with Raytheon AN/SPY-6 on the Gerald R. Ford class starting with USS John F. Kennedy (CVN-79).
+SPY-1F FARS (frigate array radar system) is a smaller version of the 1D designed to fit frigates. It is used in Norwegian Fridtjof Nansen-class frigates. The origin of the SPY-1F can be traced back to the FARS proposed to the German Navy in the 1980s. The size of the antenna of SPY-1F is reduced from the original 12 ft (4 m) with 4,350 elements to 8 ft (2.4 m) with 1,856 elements, and the range is 54% of the SPY-1D. It is not used by the U.S. Navy, although there were proposals to retrofit Freedom-class littoral combat ships.
+SPY-1F(V) is a derivative of SPY-1F with improved capability against littoral targets and cruise missiles and better multi-mission capability.
+SPY-1K is the smallest version of the radar currently offered, based on the same architecture as the 1D and 1F. It is intended for use on very small vessels such as corvettes, where the SPY-1F would be too large. The size of the antenna is further reduced to 5 ft (1.5 m) with 912 elements. As of 2007, none were in service, although the radar is incorporated into the design of the yet-unbuilt AFCON Corvette.
+
+
+== Variants ==
+AN/SPY-1: Prototypes, USS Norton Sound.
+AN/SPY-1A: Ticonderoga-class cruisers up to CG-58.
+AN/SPY-1B: Ticonderoga-class cruisers starting at CG-59. 3.66 metres (12.0 ft) diameter.
+AN/SPY-1B(V): Upgrade for the -1B version, retrofitted to CG-59 and up.
+AN/SPY-1D: Variant of -1B designed for Arleigh Burke-class destroyers, Japanese Kongō-class destroyers and Spanish Álvaro de Bazán-class frigates (F-101-104).
+AN/SPY-1D(V): Littoral Warfare Radar upgrade for the -1D variant applied to Arleigh Burke-class destroyers DDG 91 onwards, Japanese Atago-class destroyers and Maya-class destroyers, South Korean Sejong the Great-class destroyers (KDX-III), Spanish F-105 frigate and the Australian Hobart-class air warfare destroyers (AWD).
+AN/SPY-1F: Smaller version of the -1D designed to fit frigates. Installed on the Norwegian Fridtjof Nansen-class frigates. 2.44 metres (8 ft 0 in) diameter.
+AN/SPY-1K: Smallest version of the radar offered, intended to fit corvette-sized vessels. None currently in service.
+
+
+== Specifications ==
+The following specifications apply to the SPY-1A/B/D series.
+
+Size: 12 ft (3.7 m) octagon
+Weight above deck: 13,030 lb (5,910 kg) per face
+Weight below deck:131,584 lb (59,685 kg)
+Range: 175 nmi (201 mi; 324 km)
+45 nmi (52 mi; 83 km) against sea-skimming missiles
+Targets simultaneously tracked: 200 each array, 800 total
+Band: S-band 3–4 GHz; wavelength 7.5 cm–10 cm
+PRF: variable
+Scan rate (scan/min): 1 (horizon), 12 (above horizon)
+Peak Power: 6 MW
+Average Power: 58 kW
+Duty cycle: 1/100 seconds (1%)
+Antenna Gain: 9,300
+
+
+== Operators ==
+
+ Australia: Hobart-class destroyer
+ Japan: Kongō-class destroyer, Atago-class destroyer, Maya-class destroyer
+ Norway: Fridtjof Nansen-class frigate
+ Spain: Álvaro de Bazán-class frigate
+ South Korea: Sejong the Great-class destroyer
+ United States: Ticonderoga-class cruiser, Arleigh Burke-class destroyer
+
+
+== See also ==
+
+List of radars
+AN/SPY-7
+AN/SPY-6
+AN/TPY-2
+MF-STAR
+PAAMS
+Type 346 Radar
+List of military electronics of the United States
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+Missile Threat CSIS - AN/SPY-1 Radar
+GlobalSecurity.org
+Fire Controlman Volume 02-Fire Control Radar Fundamentals (Revised) p32—Table of radars
+Fire Controlman Volume 02-Fire Control Radar Fundamentals (Revised) p39—AN/SPY-1 history

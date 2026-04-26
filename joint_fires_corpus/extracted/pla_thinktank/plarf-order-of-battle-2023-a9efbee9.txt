@@ -1,0 +1,2630 @@
+CNS
+Washington, DC Oﬃce
+NONPRO NOTES
+July 2020
+CNS
+JULY 2023
+CNS
+OCCASIONAL PAPER
+#58 · APRIL 2023
+Eyes on U Opportunities, Challenges, 
+and Limits and Pancakes and Pie: 
+Opportunities, Challenges, and Limits of 
+Remote Sensing for Monitoring Uranium 
+Mining and Milling and Hot Dogs and Fries
+Grace Liu, Joseph Rodgers, Scott Milne, Margaret Rowland, Ben McIntosh, Mackenzie Best, 
+Octave Lepinard, and Melissa Hanham, and Captain Kirk, and Alan Smithee, and Godot
+Eyes on U Opportunities, Challenges, 
+and Limits and Pancakes and Pie: 
+Opportunities, Challenges, and Limits of 
+Remote Sensing for Monitoring Uranium 
+Mining and Milling and Hot Dogs and Fries
+Grace Liu
+Opportunities, Challenges, and 
+Limits of Remote Sensing
+Grace Liu, Joseph Rodgers, Scott Milne, Margaret 
+Rowland, Ben McIntosh, Mackenzie Best, Octave 
+Lepinard, and Melissa Hanham, and Captain Kirk, 
+and Alan Smithee, and Godot
+ People’ s Liberation Army Rocket 
+Force Order of Battle 2023
+Decker Eveleth
+
+ People’s Liberation 
+Army Rocket Force Order 
+of Battle 2023
+Decker Eveleth
+
+James Martin Center of Nonproliferation Studies
+Middlebury Institute of International Studies at Monterey 
+460 Pierce Street, Monterey, CA 93940, USA  
+Phone: +1 (831) 647-4154  
+Fax: +1 (831) 647-3519
+www.nonproliferation.org             www.middlebury.edu/institute
+ 
+Acknowledgments: This report was made possible thanks to a generous donation from the 
+Plowshares Fund. The Center thanks the Plowshares Fund for their continued contributions to 
+nonproliferation research.
+This material is based upon work supported by the National Science Foundation Graduate 
+Research Fellowship Program under Grant No. 2240753. Any opinions, findings, and 
+conclusions or recommendations expressed in this material are those of the author and do 
+not necessarily reflect the views of the National Science Foundation.
+The views, judgments, and conclusions in this report are the sole representations of the 
+authors and do not necessarily represent either the official position or policy or bear the 
+endorsement CNS or the Middlebury Institute of International Studies at Monterey.
+Cover image source: Xinhua/Kyodo
+©2023, The President and Trustees of Middlebury College
+
+Contents
+ 
+ 
+Highlights 
+ 
+.......................................................................................................................................................................................     1
+Introduction 
+ 
+...................................................................................................................................................................................     3
+The People’s Liberation Army Rocket Force Arsenal 
+ 
+...............................................................................................................     7 
+     DF-11 (CSS-7) 
+ 
+...........................................................................................................................................................................     8 
+     DF-15 (CSS-6) 
+ 
+...........................................................................................................................................................................     9 
+     DF-16 (CSS-11) 
+ 
+........................................................................................................................................................................   10 
+     DF-17 (CSS-22) 
+ 
+........................................................................................................................................................................   11 
+     CJ-10 (DF-10) 
+ 
+............................................................................................................................................................................   12 
+     DF-100 
+ 
+.......................................................................................................................................................................................   13
+     DF-21A (CSS-5 Mod 2) 
+ 
+............................................................................................................................................................   14
+     DF-21C (CSS-5 Mod 4) 
+ 
+............................................................................................................................................................   15
+     DF-21D (CSS-5 Mod 5) 
+ 
+............................................................................................................................................................   16
+     DF-26 (CSS-18) 
+ 
+........................................................................................................................................................................   17
+     DF-31 (CSS-10 Mod 1) 
+ 
+............................................................................................................................................................   18
+     DF-31A (CSS-10 Mod 2) 
+ 
+..........................................................................................................................................................   19
+     DF-31AG (CSS-10 Mod Unknown) 
+ 
+.........................................................................................................................................   20
+     DF-41 (CSS-20) 
+ 
+........................................................................................................................................................................   21
+     DF-4 (CSS-3) 
+ 
+.............................................................................................................................................................................   22
+     DF-5 (CSS-4) 
+ 
+.............................................................................................................................................................................   23
+Structure of the Rocket Force 
+ 
+.....................................................................................................................................................   25
+Order of Battle and Estimates 
+ 
+....................................................................................................................................................   31
+Implications 
+ 
+...................................................................................................................................................................................   49
+Conclusion 
+ 
+.....................................................................................................................................................................................   57
+Work Cited 
+ 
+.....................................................................................................................................................................................   59
+Appendix A: Locations of DF-5 Pattern Silos 
+ 
+..............................................................................................................................   63
+
+James Martin Center for Nonproliferation Studies | June 2023
+iv
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+1
+Highlights 
+•  The People’s Liberation Army Rocket Force’s (PLARF) combat missile units 
+are organized into six missile “bases,” each responsible for six to eight 
+brigades. The PLARF currently has at least forty combat missile brigades. A 
+significant number of these brigades have been added or relocated in the 
+last decade.
+•  China’s medium and intermediate-range missile force is undergoing a 
+significant modernization, with the retirement of older systems (DF-21A, 
+possibly the DF-21C) and the deployments of new systems (DF-17, DF-26).
+ ○ The DF-17 has entered service with at least one PLARF unit and will 
+certainly enter service with three more brigades in the next three years.
+ ○ The nuclear variant of the DF-21, the DF-21A, is in the process of being 
+retired. It has already been largely replaced with the DF-26. 
+ ○ The total number of active DF-26 launchers has reached at least 216 and 
+will likely reach 252 within the next three years.
+•  China’s mobile ICBM force is continuing to slowly grow and modernize as the 
+PLARF replaces older DF-31A systems with the DF-31AG. The DF-41 ICBM 
+is deploying to bases across northern China but appears to operate a lower 
+number of launchers per brigade than DF-31 brigades. 
+ ○ The original version of the DF-31 has been retired from active service. The 
+majority of DF-31A units have upgraded to the DF-31AG system.
+•  China’s silo-based ICBM force is expanding, with new ICBM silos under 
+construction for multiple ICBM missile systems.
+ ○ The construction of 334 solid-fuel missile silos at Yumen, Hami, and 
+Hanggin Banner, and Jilantai continues. 14 silos at Jilantai are for training 
+and developing concepts of operations.
+ ○ The PLARF is undertaking a large expansion in the number of liquid-fueled 
+DF-5 pattern silos. The number of DF-5 silos will more than double over 
+the next three years from 18 to at least 48 operational missile silos.
+•  The growing reliance on silo-based ICBMs may require a change in the alert 
+posture of the PLARF. In addition to the possibility that missiles in the solid-
+fueled silos will be on some form of continuous alert, the PLARF is also 
+constructing new or upgrading existing underground facilities near DF-5 
+silos. It is possible this indicates a desire to store nuclear warheads closer 
+to the silos to support greater levels of readiness in support of a launch on 
+warning (LOW) capability. 
+
+James Martin Center for Nonproliferation Studies | June 2023
+2
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+3
+Introduction
+The People’s Republic of China is currently in the process of radically expanding its 
+arsenal of conventional and nuclear land-based missile launchers. Over the past 
+decade China has doubled the number of combat missile brigades in the People’s 
+Liberation Army Rocket Force (PLARF), and has unveiled a myriad of new capabilities, 
+including missiles capable of firing both conventional and nuclear warheads, and 
+missiles equipped with hypersonic glide vehicles designed to evade missile defenses. 
+The technologies and deployment patterns of these weapons are important indicators 
+of the direction of China’s force posture: they not only indicate China’s military 
+capabilities, but also its fears and its conceptions about how future wars in the 
+region will be conducted. Deployment of particular systems with certain capabilities 
+to certain regions can inform us of what, how, and when China might strike certain 
+targets, which in turn can help us understand what China prioritizes as a threat. 
+The current expansion of China’s missile forces suggests a possible departure from 
+China’s previously restrained second-strike nuclear posture to a posture capable 
+of deterring at multiple levels of conflict and an increased shift towards nuclear 
+warfighting. As the Sino-American relationship becomes increasingly volatile over the 
+status of Taiwan, gaining accurate data on China’s conventional and nuclear missile 
+forces becomes more important than ever. 
+Since China first established a ballistic missile force, that force has historically been 
+quite small, kept at low levels of readiness, and constrained by a policy forswearing 
+the first use of nuclear weapons. A little over a decade ago, China only possessed 
+around 50 intercontinental ballistic missiles (ICBMs), of which only the 18 DF-5 
+ICBMs in silos and 12 DF-31A mobile launchers could reliably reach the contiguous 
+United States.
+1 After Xi Jinping elevated China’s missile forces into a full branch of 
+the People’s Liberation Army in 2015, the number of missile launchers deployed 
+by the PRC has increased rapidly. The PLARF, responsible for the operation of all 
+non-tactical ground-based surface-to-surface missile systems in China’s inventory, 
+operates both conventional and nuclear missiles for a variety of strategic missions. 
+This could include utilizing short, medium, and intermediate-range missiles to 
+neutralize Taiwanese defensive installations, striking US warships at long-range 
+while those warships are at sea or in port, or a retaliatory nuclear strike mission. 
+The PLARF is now on track to deploy more than 1,000 ballistic missile launchers by 
+2028, including at least 507 nuclear capable launchers, 342 to 432 conventional 
+launchers, and 252 dual-capable launchers. At least 320 solid-fueled fixed ICBM 
+silos and 30 liquid-fueled fixed ICBM silos are currently under construction in addition 
+to China’s growing arsenal of mobile ICBM launchers. And this tally does not even 
+touch launchers operated by the People’s Liberation Army Air Force (PLAAF) and the 
+People’s Liberation Army Navy (PLAN).
+1 “Military and Security Developments Involving the People’s Republic of China 2010.” Department of Defense, 
+2010. The original modification of the DF-31 only has the range to hit certain parts of the Pacific Northwest 
+from bases in northeast China, and in 2010 no such launchers were positioned in this location.
+
+James Martin Center for Nonproliferation Studies | June 2023
+4
+ 
+DF-15B launchers of Brigade 96714. Xinhua News Agency. 
+The dramatic multiplication in missile forces, both in terms of those missiles capable 
+of reaching the United States, and those missiles that offer China new capabilities 
+in a regional war, have serious implications for the strategic balance in East Asia as 
+well as the future direction of China’s nuclear posture. The direction of the posture 
+is difficult to assess due to the lack of sources coming out of China. As the Chinese 
+government has not officially commented on the buildup or acknowledged its scope, 
+any concrete data, like statements and records from the PLARF itself or Chinese 
+strategists, is hard to come by. Because of this, analysis of what the PLARF is actually 
+deploying and in what quantity is one of our only windows into developments into how 
+the PRC thinks about its nuclear weapons arsenal and how to use it. Open-source 
+intelligence techniques allow researchers to collect this data. By utilizing publicly 
+available information and commercial satellite imagery, researchers can examine 
+foreign military organizations in a level of detail that was previously only available to 
+state intelligence agencies.
+All Chinese military units have an assigned numerical cover designator, and these 
+designators are commonly referenced by Chinese state media. Because the 
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+5
+designators are ordered in a way that allows one to know what a unit does just based 
+on the designator, one can build an order of battle of PLA units partly by searching 
+through Chinese state media and identifying those unit cover designators and, 
+if imagery is present in that reporting, geolocate the unit in question. Exploitable 
+information available on the internet can be matched to infrastructure signatures 
+visible on commercial satellite imagery. Chinese state media publications on the 
+PLA commonly reference what city or county the unit resides in. Once an analyst 
+knows how the Chinese military generally build their units and can identify certain 
+infrastructure signatures as being PLARF specific, even units that do not appear on 
+Chinese state media can be easily identified. Different PLA facilities with different 
+purposes are built to different specifications and standards. Armored vehicle units 
+in the People’s Liberation Army Ground Force are easily identifiable because of 
+the unique way the PLA builds armored vehicle garages. People’s Liberation Army 
+Air Force units equipped with cruise missiles and air-launched ballistic missiles 
+are identifiable by the unique checkout facilities built to service those munitions. 
+Combat missile brigades of the PLARF can be identified via similar signatures. ICBM 
+units need garages big enough to host ICBM launchers and checkout facilities big 
+enough to service ICBMs. PLARF units need to have weather stations to help them 
+assess whether or not current conditions are suitable for operations. These facilities 
+– built to standards across all PLARF units – can indicate whether or not a facility 
+is related to the PLA and what role that facility plays. Combined, this information 
+allows us to identify PLARF bases, brigades, and support facilities, and place them 
+in a broader order of battle for all Chinese missile forces. This information not only 
+allows us to evaluate the PLARF’s force strength, but also gain clues about how the 
+PLARF envisions utilizing their nuclear and conventional forces in a conflict. A close 
+examination of the PRC’s land-based nuclear and conventional missile forces enables 
+us to examine possible changes in Chinese military strategy.
+The structure of this report is as follows: we will begin with an examination of 
+the land-based ballistic and cruise missile systems, detailing their capabilities 
+individually. We will then briefly detail the history and structure of the PLARF before 
+diving into the order of battle, before ending with a discussion of what changes in the 
+PLARF’s order of battle could indicate about China’s posture, their strategic concerns, 
+their thought processes on deterring the United States and other adversaries, and the 
+future direction of China’s missile order of battle.
+
+James Martin Center for Nonproliferation Studies | June 2023
+6
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+7
+The People’s Liberation Army Rocket 
+Force Arsenal
+Ballistic missiles are generally divided into categories based on range. Short-
+range ballistic missiles (SRBM) have ranges under 1000 km, while medium-range 
+missiles (MRBM) have ranges between 1000 km and 3000 km. Intermediate-range 
+missiles (IRBM) have ranges between 3000 km and 5500 km. Any missile that 
+is capable of hitting targets beyond 5500 km is classified as an intercontinental 
+ballistic missile (ICBM).
+All Chinese land-based missiles are given the name “Dongfeng” (East Wind) followed 
+by a number. The PLARF’s early liquid-fueled systems, like the DF-4 and DF-5, 
+are numbered sequentially, but this pattern is broken by subsequent solid-fueled 
+systems. Single-stage solid-fueled systems like the DF-11, DF-15, and DF-16 are 
+numbered DF-1X. Two-stage solid-fueled systems like the DF-21 and DF-26 are 
+numbered DF-2X, and China’s only three-stage solid-fueled ICBM is numbered DF-
+31. China’s newest solid-fueled ICBM, the DF-41, is probably numbered in the DF-4X 
+class because of its post-boost vehicle.
+2 These numerical designations are followed 
+by the missile’s mod number, denoting unique versions of the missile in question. For 
+example, the DF-21D MRBM is numbered as such because it is a two-stage, solid-
+fueled ballistic missile with three previous variants. In addition to its DF number, the 
+United States Intelligence Community also assigns each missile an internal reporting 
+designation. PLARF missiles have the designation “China-Surface-to-Surface” or 
+CSS. This designation is followed by a number and, if applicable, by the missile’s mod 
+letter, identifying the particular variant of the missile. For example, the DF-21 series 
+of missiles has been assigned the designation “CSS-5,” and the DF-21D has been 
+assigned the designation “CSS-5 Mod 5.” 
+2 Thanks to Jeffrey Lewis for pointing this out to me. 
+
+James Martin Center for Nonproliferation Studies | June 2023
+8
+DF-11 (CSS-7)
+ 
+ 
+ 
+14  DF-11A launchers of Brigade 96714. China Military. 
+ 
+Fuel Solid
+Stages 1
+Range ~600 km3 
+Length ~8.5 m
+Diameter ~0.8 m
+Number Deployed ~54 to 72 Launchers
+IOC ~1992
+ 
+The DF-11 is a conventional, single-stage, solid-fuel, road-mobile short-range ballistic 
+missile with a diameter of 0.8 meters and a length of 8.5 meters. The original variant 
+of this missile, thought to have a 300 km range, entered service with the Second 
+Artillery Corps in the mid-1990s. The PLARF has now entirely replaced the DF-11 
+with the DF-11A (CSS-7 Mod 2) which has an extended range of 600 km and an 
+aeroballistic warhead. A ground-penetrating subvariant of the DF-11A, the DF-11AZT, 
+is deployed alongside the A.
+At least one brigade of the DF-11A will be replaced soon with the DF-17. It is likely given 
+the PLARF’s sizable inventory of DF-11A missiles that the this system will continue to be 
+available to the PLARF, even if in a reserve role, for the foreseeable future. 
+3 “2020 Ballistic and Cruise Missile Threat.” National Air and Space Intelligence Center, July 2020. 
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+9
+DF-15 (CSS-6)
+ 
+ 
+DF-15B launchers of Brigade 96714. Xinhua News Agency.
+Fuel Solid
+Stages 1
+Range ~600-725 km4 
+Length ~9 m
+Diameter ~1 m
+Number Deployed ~54 to 72 Launchers
+IOC 1992
+The DF-15 is a conventional, single-stage, solid-fuel, road-mobile short-range ballistic 
+missile with a diameter of around 1 meter and a length of around 9 meters. Several 
+variants of the DF-15 exist, but only two are currently thought to be in service with 
+PLARF brigades: the aeroballistic DF-15B with a range of 850 km or more, and the 
+DF-15C, a ground-penetrating version with a range of 725 km or more.
+At least one brigade of the DF-15 will be replaced soon with the DF-17. It is likely given 
+the PLARF’s sizable inventory of DF-15missiles that the this system will continue to be 
+available to the PLARF, even if in a reserve role, for the foreseeable future. 
+4 “2020 Ballistic and Cruise Missile Threat.” National Air and Space Intelligence Center, July 2020.
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+10
+DF-16 (CSS-11)
+ 
+ 
+Six DF-16 launchers at Brigade 96736. China Military. 
+ 
+Fuel Solid
+Stages 2
+Range ~700+ km5 
+Length ~10 m
+Diameter ~1.1 m
+Number Deployed ~54 to 72 Launchers
+IOC 2012
+ 
+The DF-16 is a conventional, single-stage, solid-fuel, road-mobile short-range ballistic 
+missile with three known variants. One version has no fins on the warhead, while two 
+others with different lengths have aeroballistic warheads capable of maneuvering 
+in the terminal phase of their flight to evade missile defense. It is unknown how 
+the different variants match up to the DF-16’s different modification designations. 
+We know of DF-16A, DF-16B, and DF-16G designations. The DF-16B is capable of 
+launching warheads with cluster munitions, while the DF-16G has been described by 
+Chinese state media as a medium-range ballistic missile with greater accuracy and a 
+more maneuverable warhead.
+6
+5 “2020 Ballistic and Cruise Missile Threat.” National Air and Space Intelligence Center, July 2020.
+6 Lin, Jeffrey, and Singer, P.W. “New Chinese Ballistic Missile Crashes the Battlefield Party With Cluster Munitions.” 
+Popular Science, February 19th, 2016. 
+
+James Martin Center for Nonproliferation Studies | June 2023
+11
+DF-17 (CSS-22)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Three DF-17 launchers at the 2019 China National Day Parade. China Military. 
+ 
+Fuel Solid
+Stages 1
+Range Unknown
+Length ~11 m
+Diameter ~1 m
+Number Deployed ~27 to 36 Launchers
+IOC 2021
+ 
+The DF-17 is a single-stage, solid-fuel, road-mobile medium-range ballistic missile 
+equipped with a hypersonic glide vehicle. This allows the DF-17’s payload to glide 
+to its target, avoiding adversary radar and ballistic missile defenses. The PLARF is 
+currently in the process of widely deploying the DF-17 in both the Taiwan and Korea 
+areas. The system is currently operational with the DF-17’s OT&E brigade, 96727, 
+while three other brigades, 96714, 96716, and 96755, are currently in the process 
+of upgrading to the DF-17. 
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+12
+CJ-10 (DF-10)
+ 
+ 
+Multiple DF-10 launchers at the 2009 China National Day Parade. China Military. 
+ 
+Fuel Liquid (With Solid Booster)
+Stages N/A
+Range ~1,500–2,000 km
+Length Unknown
+Diameter Unknown
+Number Deployed ~54 to 72 Launchers
+IOC 2006
+ 
+The CJ-10 has been at various times interchangeably referred to as the CJ-10, DH-
+10, and DF-10. The CJ-10 is a subsonic surface-to-surface medium-range cruise 
+missile with two variants, the CJ-10 and the CJ-10A. Each CJ-10 launcher is capable 
+of carrying three CJ-10 missiles and can be reloaded in the field. Cruise missiles 
+have never been as widely deployed as other system types among the PLARF, but 
+still allow the PLARF to launch accurate low emission strikes against regional targets. 
+The original version of the CJ-10 is possibly in the process of being retired as its only 
+brigade, Brigade 96735, is probably in the process of upgrading to a new missile. An 
+upgraded version of the DF-10, the DF-10A, is also deployed by a single brigade.
+
+James Martin Center for Nonproliferation Studies | June 2023
+13
+DF-100
+ 
+ 
+Twelve DF-100 launchers at the 2019 China National Day Parade. China Military. 
+ 
+Fuel Liquid (With Solid Booster)
+Stages N/A
+Range ~2000 km 
+Length Unknown
+Diameter Unknown
+Number Deployed ~24
+IOC Unknown
+ 
+The DF-100 is a supersonic long-range cruise missile unveiled in the 2017 China 
+National Day Parade with a range of approximately 2000 km.
+7 The system’s OT&E 
+brigade is Brigade 96756 in Jinan, Shandong.8
+7 “Annual Report to Congress: Military and Security Developments Involving the People’s Republic of China 2021,” 
+Department of Defense, Sept 1st 2021.  
+8 “First PLA Rocket Force CJ-100 Unit Likely Identified.” China Aerospace Studies Institute, November 2020. 
+
+James Martin Center for Nonproliferation Studies | June 2023
+14
+DF-21A (CSS-5 Mod 2)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A DF-21A launcher. China Military  
+ 
+Fuel Solid
+Stages 2
+Range ~1,750 km9 
+Length ~11 m
+Diameter ~1.4 m
+Number Deployed ~12 Launchers
+IOC 1990s
+The DF-21A is a two-stage, solid-fuel, road-mobile medium-range ballistic missile. 
+The DF-21 began as the JL-1 submarine-launched ballistic missile, but owing to the 
+failure of the Xia class of ballistic missile submarines, the JL-1 was adapted for using 
+on land.
+10 The DF-21A is an upgrade of the original DF-21 and has a larger nose cone. 
+The DF-21A is a dedicated nuclear system, capable of launching a single nuclear 
+warhead to a range of around 1,750 km. The DF-21A’s intended target sets includes 
+Japan and strategic targets in southern Russia.
+11 This variant has been slowly retired 
+as operational brigades shift to more modern missiles like the DF-26.
+9 “2020 Ballistic and Cruise Missile Threat.” National Air and Space Intelligence Center, July 2020.
+10 Xue, Litai, and John Wilson Lewis. China’s Strategic Seapower : The Politics of Force Modernization in the 
+Nuclear Age. Stanford, Calif. : Stanford University Press, 1994. 
+11 Because of the DF-21’s antiquated guidance system, the launching positions for the system had to be built 
+positioned in a certain way relative to the intended target. This allows us to deduce the firing arc of any set of DF-
+21A launch positions. 
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+15
+DF-21C (CSS-5 Mod 4)
+ 
+ 
+ 
+A DF-21C launcher in a reload exercise. China Military. 
+ 
+Fuel Solid
+Stages 2
+Range ~1,500 km+12 
+Length ~13 m
+Diameter ~1.4 m
+Number Deployed Possibly retired
+IOC 2006
+ 
+The DF-21C is the conventional variant of the DF-21. This variant has a finned 
+maneuvering reentry vehicle capable of striking targets more accurately and has an 
+estimated range of at least 2,150 km. Because of the variant’s new maneuverable 
+reentry vehicle, the DF-21C is significantly longer than the DF-21A. It is possible 
+that this system has been retired, or deployed in low numbers in brigades that also 
+operate the DF-21D. No dedicated DF-21C brigades currently exist.
+12 “2020 Ballistic and Cruise Missile Threat.” National Air and Space Intelligence Center, July 2020.
+
+James Martin Center for Nonproliferation Studies | June 2023
+16
+DF-21D (CSS-5 Mod 5)
+ 
+ 
+A DF-21D launcher at the 2015 Victory Day Parade. China Central Television. 
+ 
+Fuel Solid
+Stages 2
+Range ~1,500 km+13 
+Length ~13 m
+Diameter ~1.4 m
+Number Deployed ~48 Launchers
+IOC Unknown
+ 
+Lastly in the DF-21 family, the DF-21D is a dedicated anti-ship ballistic missile in 
+service with two brigades. It reportedly has a range above 1,500 km. It is unknown 
+how effective this weapon is in practice. The DF-21D is not deployed in large numbers 
+and has been eclipsed by the DF-26. It is unlikely that the total number of DF-21Ds will 
+expand beyond this in the short term as there is little brigade space available for them. 
+It is probable that DF-21D brigades also operate other variants in the DF-21 family.
+13 “2020 Ballistic and Cruise Missile Threat.” National Air and Space Intelligence Center, July 2020.
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+17
+DF-26 (CSS-18)
+ 
+ 
+   
+ 
+ 
+A DF-21D launcher at the 2015 Victory Day Parade. China Central Television. 
+ 
+Fuel Solid
+Stages 2
+Range ~3,000 km+14 
+Length ~15 m
+Diameter ~1.4 m
+Number Deployed 216 Launchers
+IOC 2018
+ 
+The DF-26 is a two-stage, solid-fuel, road-mobile intermediate-range ballistic missile. 
+This system can engage land and sea targets at ranges beyond 3,000 km. The PRC 
+has widely deployed this system in a relatively short amount of time, with the system 
+entering into service around 2015. The PLARF now operates at least 6 active DF-26 
+brigades with a total of at least 252 launchers. Judging from analysis of the design of 
+the launcher itself, it is possible that the DF-26 has swappable warheads, as the DF-26 
+is reportedly capable of conducting conventional anti-ground and anti-ship missions, 
+as well as nuclear missions.
+15 We also know that different variants of the DF-26’s 
+stages exist, with different versions of the missile itself apparently offering different 
+capabilities. Precisely what is and is not interchangeable is not known.  DF-26 brigades 
+appear to be truly dual-use, capable of launching both nuclear and conventional 
+warheads. A CCTV video described Brigade 97646, a confirmed DF-26 brigade, quickly 
+switching from a conventional to a nuclear mission during an exercise.
+16
+14 “2020 Ballistic and Cruise Missile Threat.” National Air and Space Intelligence Center, July 2020. 
+ 
+15 Pollack, Joshua H. and LaFoy, Scott. “China’s DF-26: A Hot-Swappable Missile?” Arms Control Wonk Blog, May 
+17th 2020. 
+16  Singer, P.W. and Ma Xiu. “China’s Ambiguous Missile Strategy is Risky.” Popular Science, May 11th 2020.  
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+18
+DF-31 (CSS-10 Mod 1)
+ 
+ 
+ 
+A DF-31 launcher of Brigade 96752. China Military. 
+ 
+Fuel Solid
+Stages 3
+Range ~7,000 km+17 
+Length 15.5 m
+Diameter 2.1 m
+Number Deployed Retired
+IOC 2006
+ 
+The DF-31 was China’s first mobile ICBM system. The system is a solid-fuel, three-
+stage ICBM with a range of around 7,000 km and was capable of delivering a single 
+warhead. This system was not off-road mobile and had a significantly long launch time, 
+and could only fire from preprepared sites that can be very easily identified from space. 
+This significantly limited the survivability of the system. With its limited range, the DF-31 
+could only range the continental United States from bases in north-eastern China near 
+the Korean border. The DF-31 is now retired as its last remaining brigade has upgraded 
+to the DF-31AG or DF-41. The DF-31 has now been completely retired as all brigades 
+equipped with the system have upgraded to either the DF-31AG or DF-41. 
+17 “2020 Ballistic and Cruise Missile Threat.” National Air and Space Intelligence Center, July 2020.
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+19
+DF-31A (CSS-10 Mod 2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 DF-31A launchers at the 2009 National Day Parade. China Central Television. 
+ 
+Fuel Solid
+Stages 3
+Range ~11,000 km+18 
+Length 14.8 m
+Diameter 2.1 m
+Number Deployed 24 Launchers
+IOC 2007
+ 
+The DF-31A is an upgraded version of the DF-31. This variant of the system fits a shroud 
+over the warhead and has a different launcher. It also has a significantly upgraded 
+range, and is capable of hitting targets on the western coast of the United States. 
+While the ability to base the system deeper in China’s interior improves the system’s 
+survivability, the system still lacks mobility, launch speed, and has a significant number 
+of support vehicles. The number of brigades equipped with this version of the launcher 
+has declined as brigades continue to be upgraded to the DF-31AG. 
+18 “2020 Ballistic and Cruise Missile Threat.” National Air and Space Intelligence Center, July 2020.
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+20
+DF-31AG (CSS-10 Mod Unknown)
+ 
+ 
+12 DF-31AG launchers at the 2019 China National Day Parade. China Military. 
+ 
+Fuel Solid
+Stages 3
+Range ~11,000 km19 
+Length 14.8 m
+Diameter 2.1 m
+Number Deployed 48 to 56 Launchers
+IOC 2017
+ 
+To increase mobility and modernize the support equipment for the missile, the 
+PLARF unveiled the DF-31AG, which trades in the DF-31A’s truck and trailer for a 
+single eight-axle heavy vehicle, the HTF5980A. The DF-41 uses a version of the 
+same chassis, the HTF5980B. It is unclear at this point what precisely the difference 
+between the DF-31A and the DF-31AG is besides the change in transporter and 
+support equipment. PLA military newspapers mention that the AG has upgraded 
+cabling, reducing the number of necessary cables and allows for faster data 
+transmission times. But what changes, if any, have been made to the missile itself 
+is still unknown. Given the designation keeping the “A” designation and the fact that 
+they do not appear to have upgraded the guidance system, it unlikely that the missile 
+carried by the DF-31AG is significantly different from the DF-31A. There is also the 
+fact that if the DF-31AG was significantly different, it should have been assigned a 
+new designation by the US intelligence community (theoretically, CSS-10 Mod 3) but 
+we have not seen any DoD report reference such a designation. 
+19 “2020 Ballistic and Cruise Missile Threat.” National Air and Space Intelligence Center, July 2020.
+
+James Martin Center for Nonproliferation Studies | June 2023
+21
+DF-41 (CSS-20)
+ 
+ 
+12 DF-31AG launchers at the 2019 China National Day Parade. China Military. 
+ 
+Fuel Solid
+Stages 3
+Range 13,000 km+
+Length Unknown
+Diameter Unknown
+Number Deployed 12 to 20 Launchers
+IOC Unknown
+ 
+The DF-41 is the newest and the most advanced intercontinental ballistic missile 
+in the PLARF’s inventory. The DF-41 is capable of launching up to three warheads 
+at targets beyond 13,000 km.
+20 The system’s range allows it to target on the United 
+States’ eastern coast. The PRC paraded sixteen launchers for this system in 2019 
+and claimed it comprised two brigades. The Department of Defense has revealed 
+that the PRC is considering alternative basing modes for this system, including a silo 
+basing mode and a rail basing mode.
+21 However, the only launcher currently in use for 
+this system is the road-mobile launcher.
+20 “2022 Report on Military and Security Developments Involving the People’s Republic of China.” United States 
+Department of Defense, November 29th, 2022. Page 94.
+21 Ibid. Page 65.
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+22
+DF-4 (CSS-3)
+ 
+ 
+A DF-4 missile at a training facility in China. China Central Television. 
+ 
+Fuel Liquid
+Stages 2
+Range ~5,000 km
+Length 28.5 m
+Diameter 2.25 m
+Number Deployed Retired 
+IOC 1975
+ 
+The DF-4 is a two-stage, liquid-fuel intercontinental-range missile with a length of 
+28.2 m and a diameter of 2.25 m. The DF-4 has a range of around 6,000 kilometers 
+and is capable of striking targets in the western Soviet Union like Moscow, and 
+Guam. The system was introduced in 1975 and retired around 2015. The system 
+was equipped with a 3 megaton warhead. Because the missile can only be fueled 
+while in an erected upright position, firing a DF-4 requires time and a large number of 
+support vehicles. The Second Artillery Corps decided to deploy the DF-4 in a “roll-out-
+to-launch” (ROTL) firing mode, in which the missile is stored horizontally in a hardened 
+underground facility before being rolled out to a firing position immediately outside 
+the blast door. This allowed the DF-4 to potentially survive a first strike during the Cold 
+War period, but with the advent of extremely accurate ICBMs, the DF-4’s basing mode 
+became insufficient to guarantee or even moderately improve survivability. It is now 
+only used as a training tool to introduce recruits to the maintenance and handling of 
+liquid-fueled systems before they train on the larger DF-5 operational system. 
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+23
+DF-5 (CSS-4)
+ 
+ 
+A DF-4 missile at a training facility in China. China Central Television. 
+ 
+Fuel Liquid
+Stages 3
+Range 12,000 km+22 
+Length DF-5A (CSS-4 Mod 2) = ~34.3 m 
+DF-5B (CSS-4 Mod 3) = ~34.8 m
+Diameter 3.35 m
+Number Deployed 18 Silos
+IOC 1983
+ 
+Between the system’s introduction into service in 1981 and the introduction into 
+service of the DF-31A around 2006, the DF-5 was the only system available to the 
+PRC with the range to strike targets in the contiguous United States, and until the 
+deployment of the DF-41, the only system available to the PRC capable of striking 
+targets on the East Coast of the United States from their deployment areas. Two 
+variants of the DF-5 are currently deployed by the PLARF: the DF-5A, capable of 
+delivering a single five megaton warhead, and the DF-5B, capable of delivering three 
+warheads. A third variant, the DF-5C, that might be capable of delivering larger 
+payloads, might be in development.
+23
+22 “2020 Ballistic and Cruise Missile Threat.” National Air and Space Intelligence Center, July 2020. 
+23 “Annual Report to Congress: Military and Security Developments Involving the People’s Republic of China 
+2022,” Department of Defense, November 29th 2022.  Page 65.
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+24
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+25
+Structure of the Rocket Force
+The People’s Liberation Army Rocket Force can trace its lineage back over 50 years 
+to July of 1966, when China established the Second Artillery Corps (SAC) to oversee 
+China’s land-based missile forces, which at that point were mostly aspirational.
+24 
+During the Cold War the SAC deployed several large, liquid-fueled ballistic missiles 
+in modest numbers equipped with nuclear weapons to deter both the Soviet Union 
+and the United States. To preserve party control over China’s nuclear weapons, 
+units capable of delivering nuclear warheads and warhead handling units of the SAC 
+reported directly to the Central Military Commission of the Communist Party of China. 
+The SAC was expected to develop nuclear operation plans that were consistent with 
+China’s nuclear policies.
+25 The SAC was upgraded to a full branch of the PLA and 
+rechristened the People’s Liberation Army Rocket Force (PLARF) in 2015. 
+The rapid expansion in the PRC’s nuclear arsenal suggests a possible shift in 
+China’s thinking about the capabilities needed to deter the United States and confer 
+regional military superiority, which translates into changes in their doctrine and force 
+structure. Through the Cold War and into the 1990s and 2000s, PRC leaders were 
+satisfied with keeping their modest force at an extremely low state of alert. The PRC 
+deployed its nuclear missile forces in a minimum second-strike posture, planning 
+to retaliate with a relatively small missile force against an aggressor only after that 
+aggressor had completed its attack. During the Cold War, PRC leadership primarily 
+thought of nuclear weapons as political and psychological tools in addition to having 
+a positive effect on national prestige.
+26 Limited emphasis was placed on warfighting 
+with nuclear weapons. China made a public commitment to never be the first to use 
+nuclear weapons in a conflict and never use nuclear weapons against non-nuclear 
+states.
+27 PRC nuclear strategy emphasized survivability over raw numbers, investing 
+heavily in mobile ICBMs capable of evading an attack and camouflaging their existing 
+DF-5 siloed ballistic missiles with vegetation.
+28 Land-based mobile forces are kept 
+at a very low state of alert in peacetime, with transporter-erector-launchers (TELs), 
+warheads, and missiles all kept in separate locations.
+29 In a crisis, the PLA would 
+24 Lewis, Jeffrey G. Paper Tigers : China’s Nuclear Posture. Abingdon, Oxon: Abingdon, Oxon : Routledge, 2014.  
+Page 103.
+25 It should be noted that some nuclear weapon deployments made by the SAC are not in line with China’s policy 
+statements. For example, the SAC deployed the DF-21A nuclear missile to bases only capable of reaching Korea and 
+Japan, despite the PRC publicly committing to refrain from striking non-nuclear weapon states with nuclear weapons.
+26 Lewis, Jeffrey G. Paper Tigers : China’s Nuclear Posture. Abingdon, Oxon: Abingdon, Oxon: Routledge, 2014. 
+27 The deployment of Chinese nuclear forces sometimes flies in the face of this commitment. For a number of years 
+China deployed the DF-21A, a nuclear missile system, deployment areas targeting Japan.
+28 For examples of a camouflaged DF-5 silos, see appendix A. The camouflaging efforts would prove somewhat 
+pointless as the United States intelligence community were able to spot the silos while they were still under 
+construction. One Chinese former rocket scientist has claimed that China dug “shallow holes in the ground” as 
+decoy DF-5 silos to bolster the survivability of its DF-5 force. I have seen no evidence that decoy DF-5 silos exist. 
+Lewis, John Wilson, and Hua Di. “China’s Ballistic Missile Programs: Technologies, Strategies, Goals.” International 
+Security 17, no. 2 (1992): 5–40.  
+29 Stokes, Mark A. “China’s Nuclear Warhead Storage and Handling System.” Project 2049, 2010. 
+
+James Martin Center for Nonproliferation Studies | June 2023
+26
+disperse these units to underground facilities hidden throughout the mountainous 
+countryside where they could ride out an attack. If a launch order was given by 
+political leadership, missile launchers would then disperse from their underground 
+facilities to pre-surveyed launch points and retaliate. Military commanders did not 
+have the authority to authorize the use of nuclear weapons. Only Chinese political 
+leadership could authorize such a strike.
+30
+Under this deployment strategy, the China’s nuclear arsenal was extremely vulnerable 
+to attack if an attack occurred before the dispersal of launchers could be completed. 
+If an attack could destroy just one of the three storage locations for the missiles, 
+launchers, or warheads, it would significantly disrupt the ability of the entire missile 
+unit to complete its mission. The only units that could theoretically be ready to retaliate 
+in a surprise attack scenario were the DF-5 silo brigades, and it is unknown how many, 
+if any, of the DF-5 silos were kept on alert during this period and for how long. As 
+the PRC did not have early warning assets during the Cold War period, even if these 
+silos were ready to fire, it would be difficult to detect an incoming attack in time for a 
+fire order to go out to the brigade commanders from political leadership. This would 
+make it difficult, if not impossible, for the PRC to launch a retaliatory strike before 
+the silos would be destroyed by US ICBMs and SLBMs.
+31 China’s options for nuclear 
+strategies it could have adopted were not only restricted by political beliefs, but also by 
+technological limitations. As far as can be observed, both the DF-5 and DF-31 series 
+of ballistic missiles still use an antiquated system for missile alignment and guidance. 
+This limits the potential accuracy of the systems and also injects a substantial amount 
+of human error into the process of aiming the systems.
+32 This, however, is almost 
+certainly changing as China continues to modernize its nuclear missile forces. The PRC 
+also began building and deploying conventional solid-fuel short-range missile systems 
+like the DF-11 and DF-15. These systems have given China the ability to strike targets in 
+regional wars even if China does not possess air superiority. 
+During the 1990s and early 2000s, China’s minimum deterrence approach came 
+under pressure from multiple sources. Operation Desert Storm showed China that 
+their current military equipment and doctrine was ill-suited for fighting modern 
+30 Lewis, Jeffrey G. Paper Tigers : China’s Nuclear Posture. Abingdon, Oxon: Abingdon, Oxon : Routledge, 2014. 
+31 This was well known to Chinese strategists. DF-5 silos were referred to internally as “tombs.” 
+32 The PLARF appears to use a system, standard across the DF-11, DF-15, DF-5, and DF-31 series of missiles, 
+where the missile’s position on the earth is communicated to the missile by aligning a mirror on the side of the 
+missile with an azimuth angle taken by a theodolite. This system was used on older versions of the American 
+Minuteman III and the Titan II. This system is not only time consuming but relies on the missile technician being 
+extremely precise in their measurements. The possibility for human error to ruin the accuracy of a system was a 
+major concern among the United States Air Force during the period when this system was used on American silo-
+based missiles. United States Air Force Major General John Hepfer summarized the problem: “I wouldn’t argue too 
+much that it [operational accuracy] might not be quite as good as the theoretical capacity…aligning a Minuteman 
+missile to accomplish its intended mission is like threading a needle 400 feet away. They had a tube that went 
+down into the silo, and then they had a mirror, and they would have these guys go out into sub-zero weather, minus 
+30 degrees…sighting on the stars and transferring…an azimuth alignment…you’re talking of arc seconds to align 
+to…I had some of the young fellows work for me and they would say, ‘well, we got kind of cold, and your only desire 
+was to get out of the cold, you didn’t really care if it was 10 arc seconds or 30 arc seconds,’ and that would really 
+negate the accuracy of the system.” MacKenzie, Donald. Inventing Accuracy: A Historical Sociology of Nuclear 
+Missile Guidance. Cambridge, MA: MIT Press, 1993. Page 366-367.
+
+James Martin Center for Nonproliferation Studies | June 2023
+27
+wars where success partly depended on advanced technology and reconnaissance 
+assets.33 The 1999 US bombing of the Chinese embassy in Belgrade further 
+convinced China to expand and modernize their military forces. In addition, the 
+US withdrawal from the ABM Treaty and the continued development of the United 
+States’ missile defense forces may have motivated China to modernize their arsenal 
+of nuclear missiles to further the survivability of their launcher systems and the 
+penetration capabilities of the missiles themselves. These changes seemed to 
+accelerate after the political ascension of Xi Jinping and the dramatic changes to 
+China’s political system that have occurred since then.
+By 2015, rapid changes in China’s missile forces were evident. Older ballistic missile 
+systems like the DF-4 and DF-21A began to be replaced with more capable systems 
+like the DF-26. Less mobile and less accurate nuclear systems like the DF-31 and 
+DF-5 have been modernized with the unveiling of the DF-31AG and the DF-5B. The 
+PLARF has also unveiled the DF-41, a completely new mobile ICBM capable of 
+carrying up to three nuclear warheads.
+34 The Rocket Force’s total nuclear force is also 
+rapidly changing. At three locations in northern China, the PLARF is building fields 
+of missile silos that are of a similar size to US silo fields. When completed these silo 
+33 Fravel, Taylor M. Active Defense: China’s Military Strategy Since 1949. Princeton University Press, Princeton, 
+New Jersey, 2019. Page 187-191.
+34 “2022 Report on Military and Security Developments Involving the People’s Republic of China.” United States 
+Department of Defense, November 29th, 2022. Page 94.
+PEOPLE’S REPUBLIC OF CHINA
+SECOND ARTILLERY CORPS BRIGADES 2010
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+28
+fields will add 334 ICBM launchers to the PLARF’s order of battle.35 This is in addition 
+to a relatively modest increase in the number of DF-5 ICBM silos, of which China will 
+have at least 48 of by 2028. The number of mobile launchers is also growing as the 
+PLARF deploys the DF-41 MIRV capable mobile ICBM and increases the number of 
+DF-31A and DF-31AG launchers deployed to a single brigade. 
+Currently, the PLARF operates forty-one combat missile brigades across six “bases.” 
+Each base is effectively a corps level organization. These bases are numbered 61, 62, 
+63, 64, 65, and 66. Bases operate six to eight missile brigades with a large variety of 
+missile types. Each brigade operates a single missile type. Mobile launcher brigades 
+generally have their headquarters, barracks, and vehicle garages all at a single 
+location, but do not store rocket fuel or warheads in the same garrison. PLARF units 
+operating conventional missiles closely cooperate with the PLA’s regional theatre 
+command system, but do not appear to be directly subordinate to them.
+36
+Individual PLA units can be identified by their five-digit military unit cover designator 
+or MUCD. The first two digits identify the unit’s branch – in our case, PLARF units 
+begin with the numbers “96.” The third digit indicates the size of the unit. Units 
+that report directly to PLARF headquarters in Beijing like base command units are 
+numbered 966XX, while brigades are numbered 967XX and regiments are numbered 
+968XX. The fourth digit in the MUCD will identify the particular base, and the fifth will 
+identify the specific brigade. For example, a PLARF combat missile brigade with the 
+MUCD 96754 will be the fourth brigade assigned to Base 65. 
+Three additional bases support the PLARF’s operations. Base 67, headquartered 
+in Baoji, Shaanxi, oversees the storage and handling of China’s nuclear warheads. 
+Warhead storage and handling units, including units responsible for delivering 
+warheads to the combat missile brigades, report directly to the Central Military 
+Commission of the Communist Party of China to preserve party control over the 
+arsenal. China’s primary warhead storage facility is thought to be a series of 
+underground facilities built along the Taibai river valley, 60 km south of the city of 
+Baoji.
+37 In the event of a crisis, this base would transfer the warheads, first by truck, 
+and then by rail, to the combat missile units. Given recent infrastructure changes 
+among China’s nuclear missile brigades, it is probable that the PLARF will begin 
+storing nuclear warheads much closer to the launch brigades or silos. At the new 
+solid-fuel silo fields being built across northern China, the PLARF is building new 
+underground facilities, some of which might be used to store nuclear warheads. 
+Similarly, large underground facilities are also being constructed near new liquid-fuel 
+silos. Combined with the news that China may already have or will soon acquire an 
+early warning capability, it is possible that China will posture their silo forces to be 
+on higher alert to facilitate a launch-on-warning capability, with missiles prepped to 
+35 This includes 14 training silos. 
+36 Logan, David C. “PLA Reforms and China’s Nuclear Forces.” Joint Forces Quarterly, National Defense University, 
+October 1st, 2016.
+37 Stokes, Mark A. “China’s Nuclear Warhead Storage and Handling System.” Project 2049, 2010.  
+
+James Martin Center for Nonproliferation Studies | June 2023
+29
+launch with live warheads on a rotating basis.38 It is unknown how this change will 
+affect the PLARF’s party oversight structures. 
+Base 68 operates a number of engineering brigades and is responsible for the 
+construction and maintenance of sensitive PLARF installations, like missile tunnels, 
+missile test facilities, and storage sites. This base is headquartered in Luoyang, 
+Henan, but engineering brigades are found across China. 
+The last base, Base 69, is responsible for maintaining testing and training facilities 
+used by the PLARF. Importantly, this base is not responsible for the training of 
+raw recruits. Instead, that task is given to the individual bases, each of which has 
+a training regiment to conduct training on the systems specific to that base. For 
+example, Base 66’s training regiment maintains specialized equipment to train 
+personnel on large liquid-fueled systems. Base 69 maintains specialized training 
+facilities brigades can use for live-fire drills, including both the launch sites and the 
+missile test ranges with a variety of targets. The PLARF commonly uses mockups of 
+ships, airfields, bunkers, and aircraft as targets on their ranges.
+39 
+The PLARF maintains several facilities responsible for military education. The Rocket 
+Force Engineering University in Xi’an, Shaanxi is a four-year undergraduate institution 
+that trains the majority of the PLARF’s new officers. The PLARF also has the Rocket 
+Force Command College in Wuhan, Henan which seems to offer professional military 
+education to PLARF commanders. Lastly, the PLA maintains a non-commissioned 
+officer training facility in Qingzhou, Shandong. 
+38  “Annual Report to Congress: Military and Security Developments Involving the People’s Republic of China 
+2021,” Department of Defense, Sept 1, 2021, Page 93.
+39  For examples, see Sutton, H. I. “Great Wall of Naval Targets Discovered in Chinese Desert.” United States Naval 
+Institute, May 11, 2022. 
+
+James Martin Center for Nonproliferation Studies | June 2023
+30
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+31
+Order of Battle and Estimates40
+The following estimates the number of ballistic and cruise missile launchers within what 
+I refer to as the PLARF’s “active force.” The active force counts all missile launchers 
+that have been officially commissioned and are currently operated by a regular PLARF 
+combat missile brigade. A great number of factors need to be considered when 
+attempting to compile an estimate of the number of launchers in service. We must 
+identify the system operated by each brigade, estimate the number of launchers in 
+operation at each brigade individually, estimate what portion of the brigade’s heavy 
+vehicle fleet is dedicated to enabling reloads, account for the existence of reserve 
+forces, and estimate the current pace of the PLARF’s expansion. The number of 
+launchers at each brigade varies by missile type and physical space. In general, the 
+smaller the missile, the more launchers a brigade will have. Short-range ballistic 
+missile brigades equipped with the DF-11A or DF-15B will typically have around 27 to 
+36 launchers per brigade, while medium and intermediate range systems may have 
+between 24 and 36 depending on the unit in question.
+41 Brigades also have significant 
+numbers of vehicles for missile reloads. A typical SRBM brigade will have one 
+combination crane and missile carrier and one to two additional missile carriers per 
+launcher, giving a fully loaded brigade the ability to fire 108 missiles before needing to 
+fully resupply. Fixed and mobile ICBM units operate between six and twelve launchers, 
+depending on the system and the individual brigade in question. DF-31A and DF-31AG 
+units generally operate twelve launchers per brigade, while older DF-5 silo units have 
+six silos per brigade. The DF-5 units under construction appear to be building thirteen 
+silos, with one silo at each unit probably intended to serve a training role. PLARF units 
+operating the new DF-41 mobile ICBM operate eight launchers per brigade. While not 
+counted in the active force, we also have to consider launchers that are not assigned 
+to a brigade, but are kept in reserve. Chinese state media rarely mentions it, but the 
+PLARF does have a reserve personnel program so those personnel can be mobilized 
+in the event that the PLARF needs to add additional launchers to its combat power. 
+Chinese state media has shown a DF-11A brigade training such reserve launch crews. 
+During a major conflict, the PLARF could call up such reserves to operate DF-11A and 
+DF-15 short-range ballistic missiles previously removed from the active force to bolster 
+their combat power. We have seen in recent years the construction of battalion-level 
+facilities across Fujian province that appear to be intended for DF-11A launchers 
+or similarly sized systems, and DF-11A launchers have been sighted at several of 
+these facilities. These facilities could be used to support active or reserve SRBM unit 
+operations. The National Air and Space Intelligence Center also reports that the PLARF 
+still has some number of DF-4 launchers, but as no brigade is currently assessed to 
+operate the system, these systems are not counted in the active force.
+42
+40 Many of these site coordinates were originally pulled from O’Connor, Sean, “PLA Second Artillery Corps.” Air 
+Power Australia, 2009. Last updated April 2012. 
+41 There is some remaining uncertainty about the precise breakdown between the MRBM/IRBM launchers and 
+their reload vehicles. 
+42 “2020 Ballistic and Cruise Missile Threat.” National Air and Space Intelligence Center, July 2020.
+
+James Martin Center for Nonproliferation Studies | June 2023
+32
+Much of my estimate differs significantly from the estimates provided by the United 
+States Department of Defense, and there are clear reasons for that departure. United 
+States government sources count produced launchers, not just deployed launchers. 
+For example, the Department of Defense’s recent 2022 Report on Military and 
+Security Developments Involving the People’s Republic of China has begun counting 
+some of the new solid-fueled ICBM silos in their count of PLARF launchers, even 
+though those silos are not currently operational.
+43 As a result, their published data on 
+the force strength of the PLARF is significantly higher than my estimates in several 
+categories, as I am only counting forces that are operational. 
+Because the estimates include a projection on the future state of the arsenal, a 
+discussion of how the PLARF introduces new systems into service is in order. New 
+missile systems first go through testing with the Equipment Development Department 
+of the Central Military Commission (EDD).
+44 The new missile system will then be 
+assigned a PLARF brigade and goes into operational testing and evaluation (OT&E) 
+during which time the assigned PLARF brigade will train on the missile system while 
+developing concepts of operations through field testing. In general, the time between 
+a PLARF brigade receiving a missile for OT&E and the missile commissioning into 
+active service is over two years. Missiles are officially unveiled during parades while 
+they are still in OT&E. This means that missiles that have just been paraded are 
+not necessarily within the “active” PLARF force. PLARF also assigns new missiles 
+to OT&E brigades before those OT&E brigades have modernized their garrisons to 
+accommodate the new system. The DF-41 OT&E brigade’s garrison was not finished 
+until a year after the system was paraded. The DF-17 OT&E brigade’s garrison did 
+not have enough garages large enough to accommodate the system when it was first 
+paraded, and those facilities would not be finished until two years later. Sightings of 
+new missiles before they are officially unveiled therefore do not give us any indication 
+of the scale or shape of its deployment as those missiles will not be officially  
+introduced into service for a number of years. 
+43 “2022 Report on Military and Security Developments Involving the People’s Republic of China.” United States 
+Department of Defense, November 29th, 2022. Page 167. The report’s count of ICBM launchers only makes 
+sense when taking the fixed ICBM construction into account.
+44 This organization replaced the General Armaments Department in 2016. 
+
+James Martin Center for Nonproliferation Studies | June 2023
+33
+PLARF MISSILE BRIGADES 2023
+Base 61
+ Br igade 96711  Chi zhou  DF -26 
+ Br
+igade 96712
+ L
+eping
+ DF
+-21A 
+ Br
+igade 96713
+ S
+hangrao
+ DF
+-15 
+ Br
+igade 96714
+ Y
+ong’an
+ DF
+-17 
+ Br
+igade 96715
+ Mei
+zhou
+ DF
+-11 
+ Br
+igade 96716
+ G
+angzhou
+ DF
+-17* 
+ Br
+igade 96717
+ Jinhua
+ DF
+-16 
+ Br
+igade 96718
+ N
+ancheng
+ U
+nknown
+Base 62
+ Br igade 96721  Y ibin  DF -31AG 
+ Br
+igade 96722
+ Y
+uxi
+ DF
+-31A 
+ Br
+igade 96723
+ L
+uorong
+ DF
+-10A 
+ Br
+igade 96724
+ D
+anzhou
+ DF
+-21D 
+ Br
+igade 96725
+ Jianshui
+ DF
+-26 
+ Br
+igade 96726
+ Qin
+gyan
+ DF
+-26 
+ Br
+igade 96727
+ Punin
+g
+ DF
+-17
+Base 65
+ Br igade 96751  Chif eng  DF -41* 
+ Br
+igade 96752
+ Jilin Cit
+y
+ DF
+-41* 
+ Br
+igade 96753
+ U
+nknown
+ DF
+-21D 
+ Br
+igade 96754
+ H
+aicheng
+ DF
+-26* 
+ Br
+igade 96755
+ T
+onghua
+ DF
+-17* 
+ Br
+igade 96756
+ Jinan
+ DF
+-100 
+ Br
+igade 96757
+ Jin
+zhou
+ U
+nknown 
+ 
+Base 66
+ Br igade 96761  L ushi  DF -5 
+ Br
+igade 96762
+ L
+uanchuan
+ DF
+-5* 
+ Br
+igade 96763
+ N
+anyang
+ DF
+-31A 
+ Br
+igade 96764
+ Xian
+gyang
+ DF
+-31AG 
+ Br
+igade 96765
+ Chan
+gzhi
+ DF
+-26 
+ Br
+igade 96766
+ Xin
+yang
+ DF
+-26
+*Under Construction 
+Base 63
+ Br igade 96731  Jin gzhou  DF -5 
+ Br
+igade 96732
+ S
+haoyang
+ DF
+-31AG 
+ Br
+igade 96733
+ Huit
+ong
+ DF
+-5 
+ Br
+igade 96734
+ Y
+ueyang
+ DF
+-5* 
+ Br
+igade 96735
+ Y
+ichun
+ DF
+-10 
+ Br
+igade 96736
+ S
+haoguan
+ DF
+-16A 
+  
+ 
+Base 64
+ Br igade 96741  H ancheng  DF -21A 
+ Br
+igade 96742
+ D
+atong
+ DF
+-31AG 
+ Br
+igade 96743
+ T
+ianshui
+ DF
+-31AG 
+ Br
+igade 96744
+ H
+anzhong
+ DF
+-41 
+ Br
+igade 96745
+ Y
+inchuan
+ DF
+-41* 
+ Br
+igade 96746
+ K
+orla
+ DF
+-26 
+ Br
+igade 96747
+ Xinin
+g
+ DF
+-26
+
+James Martin Center for Nonproliferation Studies | June 2023
+34
+BRIGADE MUCD CITY PROVINCE COORDINATES EQUIPMENT LAUNCHERS
+Base 61 96601 Huangshan Anhui 29.693670°, 
+118.300750° N/A N/A
+611 96711 Chizhou Anhui 30.693722°, 
+117.899460° DF-26 36
+612 96712 Leping Jiangxi 28.980699°, 
+117.120333° DF-21A45 12
+613 96713 Shangrao Jiangxi 28.473698°, 
+117.892180° DF-15 ~27-36
+614 96714 Yong’an Fujian 26.061420°, 
+117.314914° DF-1146 ~27-36
+615 96715 Meizhou Guangdong 24.284673°, 
+115.970660° DF-11 ~27-36
+616 96716 Ganzhou Guangdong 25.901627°, 
+114.960340° DF-1547 ~27-36
+617 96717 Jinhua Zhejiang 29.149513°, 
+119.615749° DF-16B ~27-36
+618 96718 Nanchang Jiangxi 28.500880°, 
+115.922039° Unknown48 Unknown
+45 It is possible that Brigade 96712 has upgraded to a new system. The brigade has modernized its support facilities extensively. In 
+addition, a HTF5980 vehicle was spotted on the brigade’s campus during a recent CCTV report, first spotted by Roderick Lee. This vehicle 
+did not have a canister for a missile, nor did it have consoles in the vehicle cab that would support the launching of a ballistic missile.
+46 Brigade 96714 is currently in the process of transitioning from the DF-11A to the DF-17.
+47 Brigade 96716 is currently in the process of transitioning from the DF-15 to the DF-17.
+48 Brigade 96718 is now confirmed to be at this garrison, but the location does not have any of the necessary support facilities to support 
+a combat missile brigade. It is possible that 618 is only temporary at this location while a more permanent purpose built facility is being 
+constructed elsewhere.
+BRIGADE MUCD CITY PROVINCE COORDINATES EQUIPMENT LAUNCHERS
+Base 62 96602 Kunming Yunnan 24.990880°, 
+102.834324° N/A N/A
+621 96721 Yibin Sichuan 28.761295°, 
+104.789930° DF-31AG 12
+622 96722 Yuxi Yunnan 24.360227°, 
+102.492667° DF-31A 12
+623 96723 Luorong Sichuan 24.386782°, 
+109.571921° DF-10A ~27-36
+624 96724 Danzhou Hainan 19.472163°, 
+109.461026° DF-21D49 ~24
+625 96725 Jianshui Yunnan 23.734899°, 
+102.871884° DF-26 36
+626 96726 Qingyuan Guangdong 23.684396°, 
+113.177081° DF-26 36
+627 96727 Puning Guangdong 23.418995°, 
+116.177730° DF-1750 ~27-36
+49 It is possible that this brigade is equipped with a variety of DF-21 missile variants, but we have not seen confirmation of this yet. 
+50 Brigade 96727 is the DF-17 OT&E Brigade. Roderick Lee was first to positively geolocate imagery of the DF-17 to this location.
+
+James Martin Center for Nonproliferation Studies | June 2023
+35
+BRIGADE MUCD CITY PROVINCE COORDINATES EQUIPMENT LAUNCHERS
+Base 63 96603 Huaihua Hunan 27.575323°, 
+110.025527° N/A N/A
+631 96731 Jingzhou Liaoning 26.579157°, 
+109.670782° DF-5 6 (Silos)
+632 96732 Shaoyang Hunan 27.254009°, 
+111.388961° DF-31AG 12
+633 96733 Huitong Hunan 26.893910°, 
+109.739592° DF-5 6 (Silos)
+634 96734 Yueyang Hunan 29.333373°, 
+113.215396°
+Fixed Liquid ICBM 
+Probable DF-5
+13 Under Construction 
+(Silos)
+635 96735 Yichun Jiangxi 27.888072°, 
+114.387228° DF-1051 ~27-36
+636 96736 Shaoguan Guangdong 24.756827°, 
+113.680600° DF-16A ~27-36
+51 Brigade 635 is almost certainly in the process of upgrading to a new missile system, possibly the DF-17. What are possibly DF-17 transporter-
+reloader vehicles have been spotted in Yichun city. Brigade 635 has also constructed a new set of garages that implies it intends to house a 
+system with a launcher that is significantly longer than their existing DF-10s.
+BRIGADE MUCD CITY PROVINCE COORDINATES EQUIPMENT LAUNCHERS
+Base 64 96604 Lanzhou Gansu 35.938060°, 
+104.012017° N/A N/A
+641 96741 Hancheng52 Shaanxi 35.474651°, 
+110.446750°53 
+Future Mobile ICBM 
+Probable DF-41
+8 Launcher Garages 
+Under Construction
+642 96742 Datong Qinghai 36.948337°, 
+101.666042° DF-31AG 12
+643 96743 Tianshui Gansu 34.531120°, 
+105.913829° DF-31AG54 12
+644 96744 Hanzhong Shaanxi 33.132149°, 
+106.935515° DF-4155 12
+645 96745 Yinchuan Ningxia 38.594228°, 
+106.227469°
+Future Mobile ICBM  
+Probable DF-41
+8 Launcher Garages 
+Under Construction
+646 96746 Korla Xinjiang 41.691469°, 
+86.172619° DF-26 36
+647 96747 Xining Qinghai 36.566253°, 
+101.848503° Unknown56 Unknown
+52 A previously published version of this order of battle placed Brigade 96741’s new garrison at a facility outside Sanmenxia, Henan. 
+However, new information suggests that that facility actually belongs to Brigade 661. Credit to Ise Midori for pointing this out to me.
+53 Brigade 96741 is building a new brigade complex at 35.391098°, 110.375328°. The new garrison area is being constructed with ICBM garages.
+54 DF-31AG OT&E brigade.
+55 In addition to the presence of several ICBM-specific infrastructure signatures, Brigade 644 was awarded the honorific title “New Generation 
+1st Dongfeng Brigade,” suggesting that this unit is equipped with the DF-41. In addition, Ma Xiu noticed that this brigade conducted launches 
+of an unknown missile at the same time as reported DF-41 test launches. 
+Ma Xiu. “PLA Rocket Force Organization.” China Aerospace Studies Institute, October 22nd 2022.
+56 According to research done by Ma Xiu, 96747 is reported by Chinese state media to be equipped with a new missile type. The brigade and 
+its large support garrisons – of which this unit has several, each with its own large high-bay – do not have any infrastructure signatures unique 
+to a known missile type.
+
+BRIGADE MUCD CITY PROVINCE COORDINATES EQUIPMENT LAUNCHERS
+Base 65 96605 Shenyang Liaoning 41.857919°, 
+123.451444°57 N/A N/A
+651 96751 Chifeng Inner Mongolia 42.258124°, 
+118.825075° DF-4158 
+6 Launcher 
+Garages Under 
+Construction59 
+652 96752 Jilin City Jiangxi 43.938500°, 
+126.449443°
+Future Mobile ICBM 
+Probable DF-41
+8 Launcher 
+Garages Under 
+Construction
+653 96753 Unknown Unknown Unknown DF-21D60 ~24
+654 96754 Haicheng Liaoning 40.845255°, 
+122.768522° DF-26 36
+655 96755 Tonghua Jilin 41.667404°, 
+125.957184° DF-1761 Under 
+Construction
+656 96756 Jinan Shandong 36.234871°, 
+117.715607° DF-10062 ~24
+657 96757 Jinzhou Liaoning 39.302431°, 
+122.064301° Unknown Unknown
+57 Ma Xiu. “PLA Rocket Force Organization.” China Aerospace Studies Institute, October 22nd 2022.
+58 Individuals who participated in the 2019 China National Day Parade in the DF-41 section of the parade have been traced to this brigade. In 
+addition, the brigade’s garrison area is utilizing a launcher garage layout that we only see at ICBM class system garrisons.
+59 For reasons unknown the PLARF abandoned construction on one set of launcher garages, bringing the number of launchers the brigade is 
+capable of housing down from eight to six.
+60 Brigade 653 is reported to have moved out of their old garrison in Jinan, Shandong, but their new garrison is currently unknown.
+61 Brigade 655 has taken over the Tonghua garrison from 652. The garrison area is still under construction but DF-17 launchers are visible on 
+satellite imagery. Ma Xiu. “PLA Rocket Force Organization.” China Aerospace Studies Institute, October 22nd 2022.
+62 The presence of DF-100 launchers in the area was first reported by the China Aerospace Studies Institute.
+BRIGADE MUCD CITY PROVINCE COORDINATES EQUIPMENT LAUNCHERS
+Base 66 96606 Luoyang Henan 34.640071°, 
+112.381550° N/A N/A
+661 96761 Lushi Henan 34.516723°, 
+110.861740° DF-5 6
+662 96762 Launchuan Henan 33.792418°, 
+111.588338°
+Fixed Liquid ICBM 
+Probable DF-5
+13 Under 
+Construction (Silos)
+663 96763 Nanyang Henan 33.010779°, 
+112.414978° DF-31A 12
+664 96764 Xiangyang Henan 31.945292°, 
+112.120759°
+Mobile ICBM 
+Probable DF-4163 8
+665 96765 Changzhi Shanxi 36.258955°, 
+113.177970° Unknown64 Unknown
+666 96766 Xinyang Henan 32.168528°, 
+114.127922° DF-26 36
+63 Before Brigade 664’s new garrison in Xiangyang was finished, they were temporarily based at Base 66’s training regiment facility in Luoyang. 
+During their stay there, CCTV released extensive imagery of the brigade training on several DF-31AGs. However, the garrison at Xiangyang closely 
+matches other garrisons intended for the DF-41, so it is possible that this brigade is actually equipped with that system instead. Ma Xiu. “PLA 
+Rocket Force Organization.” China Aerospace Studies Institute, October 22nd 2022.
+ 
+64 The garrison at Changzhi does not match known garrison layouts. Tentatively, it appears to be intended for a MRBM or IRBM class system, 
+possible the DF-26.
+
+SYSTEM CLASS LAUNCHERS 
+PER BRIGADE
+LAUNCHERS 
+TOTAL (2022) 2028 ESTIMATE
+DF-465 ICBM 4+ 0 0
+DF-5 ICBM 6 to 1266 18 At least 48
+DF-11 SRBM 27 to 36 54 to 72 27 to 36
+DF-15 SRBM 27 to 36 54 to 72 27 to 36
+DF-16 SRBM 27 to 36 54 to 72 54 to 72
+DF-17 MRBM 27 to 36 27 to 36 108 to 144
+CJ-10 GLCM 27 to 36 27 to 36 0 to 36
+DF-10A GLCM 27 to 36 27 to 36 27 to 36
+DF-100 GLCM ~24 ~24 ~24 to 48
+DF-21A MRBM 12 12 0 to 24
+DF-21C MRBM 12 0?67 0?
+DF-21D68 MRBM ~24 ~48 ~48
+DF-26 IRBM 36 216 At least 252
+DF-31 ICBM 0 0 0
+DF-31A ICBM 12 24 0 to 24
+DF-31AG ICBM 12 48 to 56 48 to 80
+DF-41 (mobile) ICBM 6 to 12 12 to 20 34 to 50
+Jilantai Silos ICBM N/A 0 1469 
+Yumen Silos ICBM N/A 0 120
+Hami Silos ICBM N/A 0 110
+Hanggin Banner Silos ICBM N/A 0 90
+65 All remaining DF-4 roll-out-to-launch sites have either been retired or are in the process of being converted into DF-5 pattern silos.
+66 Older DF-5 silo missile brigades had six silo launchers per brigade, each operated by a battalion sized unit. Several new silo brigade 
+currently under construction appear to be building at least 12 silos at each silo area. It is unknown whether or not the PLARF plans to 
+modernize older DF-5 brigades to this new quantity.
+67 No dedicated DF-21C brigades currently exist, but it is possible that the two DF-21D brigades are actually equipped with both DF-21C and 
+DF-21D type missiles.
+68 It is possible that the brigades identified as DF-21D brigades are also equipped with a new nuclear variant of the system, the DF-21E, but 
+this is unlikely due to geographic factors.
+69 This facility is a “concepts of operations” and is not used in combat operations.
+CLASS BRIGADES (ACTIVE) TOTAL LAUNCHERS (2023) TOTAL LAUNCHERS (2028)
+SRBM 6 162 to 216 108 to 144
+MRBM 4 87 to 96 156 to 192
+GLCM 3 78 to 96 78 to 96
+IRBM 6 216 252
+ICBM (Mobile) 8 92 124
+ICBM (Fixed) 3 18 383+
+ICBM (Total) 11 110 507+
+Nuclear (Total) 12 122 507+
+Conventional (Total) 12 315 to 396 342-432
+Dual (Total)70 6 216 252
+70 The “dual” category refers to DF-26 brigades that are capable of launching nuclear and conventional warheads. This category does not 
+overlap with either the conventional or nuclear category.
+
+James Martin Center for Nonproliferation Studies | June 2023
+38
+ 
+PLARF Brigade 96755, Tonghua, Jilin. Google Earth. 
+ 
+At time of publication, it is estimated that the PLARF has 162 to 216 SRBM 
+launchers, 87 to 96 MRBM launchers, 78 to 96 GLCM launchers, 216 IRBM 
+launchers, and 110 ICBM launchers within its active force. By 2028 this force will 
+grow to at least 108 to 144 SRBM launchers, at least 156 to 192 MRBM launchers, 
+at least 78 to 96 or more GLCM launchers, at least 252 IRBM launchers, and 507 or 
+more ICBM launchers. It is worth emphasizing that everything in the current estimate 
+is counting something that the PRC has already built or is in the process of building. 
+While there are some cases where I cannot confirm precisely which system will be 
+garrisoned at some brigades under construction, I am not conjuring the estimates 
+from any hypothetical future expansion.
+The PLARF currently operates six SRBM brigades equipped with the DF-11, DF-15, 
+and DF-16 systems. These systems are intended to allow the PLA to strike critical 
+time-sensitive targets like command and control nodes, weapon stockpiles, and 
+airbases in the opening stages of a regional conflict, and these systems are capable 
+of carrying a variety of warhead types that enable them to destroy each of these types 
+of targets. SRBM brigades are structured with large numbers of vehicles dedicated 
+to carrying missile reloads, allowing SRBM units in the field to continually reload by 
+dispatching missile transporters to stockpiles spread across Fujian province.
+The total number of SRBMs in PLARF inventory has decreased recently as the PLARF 
+replaces DF-11As and DF-15s with DF-17s. At one former DF-11A brigade, Brigade 
+96714, the PLARF has built new garages that are slightly deeper than garages  
+ 
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+39
+PLARF Brigade 96752, Jilin City, Jilin. Google Earth. 
+ 
+previously constructed to house DF-11A launchers. There is also ground-truth imagery 
+of DF-17 launchers at Brigade 96714. That story is repeated at Brigade 96716, 
+where an entirely new brigade complex is under construction with new garages that 
+are carbon copies of the ones built at 96714. The replacement of DF-11A and DF-15 
+units with the new DF-17 is supported by changes in the CMPR’s estimated number 
+of SRBMs between 2021 and 2022. The number of SRBMs decreased from 250 
+to 200, supporting the satellite imagery evidence that multiple SRBM brigades are 
+upgrading to an MRBM class system.
+71
+Despite the fact that the DF-17 is an MRBM class system, the PLARF has decided 
+to emplace them closest to Taiwan. Two confirmed operational and future DF-17 
+brigades in southern China, Brigade 96714 and Brigade 96727, are both placed 
+roughly 400 kilometers from Taiwan. It is possible that this placement is to reduce 
+the travel time of the DF-17 targets in Taiwan so that the PLARF gives the Taiwanese 
+military as little warning time as possible as this system will certainly be used to strike 
+Taiwanese air defense installations in order to enable strikes from other systems like 
+the PLAAF’s CJ-20 air-launched land attack cruise missile and the CH-AS-X-13 air-
+launched ballistic missile in the opening salvo of a conflict. It is also possible that this 
+placement is simply the result of intra-organizational bureaucratic battles.
+The number of MRBMs in PLARF service has risen as the PLARF reduces the number  
+of DF-21s in service but adds significant numbers of DF-17s to their inventory. 
+71 Huang, Kristin. “Exclusive: Chinese Military Fires ‘Aircraft-Carrier Killer’ Missiles Into South China Sea in 
+‘Warning to the United States’” South China Morning Post, August 26th, 2020.  
+Brad, Lendon. “China Test Anti-Ship Missile in South China Sea, Pentagon Says.” Cable News Network (CNN), 
+July 3rd, 2019.
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+40
+ 
+PLARF Brigade 96721, Yibin, Sichuan. Google Earth. 
+ 
+Currently the PLARF only has 12 DF-21A launchers still in the active force, but with 
+the DF-21A’s remaining brigade showing signs of imminent modernization, it is 
+probable that those launchers will be retired and replaced shortly. The PLARF also 
+still has two brigades of DF-21D launchers in inventory. It is possible that these units 
+operate multiple variants of the DF-21 system.
+The PLARF’s active IRBM inventory entirely consists of the DF-26 IRBM. The DF-
+26 has now replaced the majority of DF-21A and DF-21C brigades. Currently the 
+PLARF active force includes at least six DF-26 brigades. The exact number of 
+DF-26s is difficult to estimate because of difficulties in distinguishing which heavy 
+vehicles are launchers and which are reload vehicles and the fact that different 
+brigades seem to have different amounts of garage space. The DF-26 IRBM 
+can theoretically strike land and sea targets with either conventional or nuclear 
+warheads. This allows it to support a variety of missions previously supported 
+by different variants of the DF-21 system. The scale of the DF-26’s deployment 
+and the broad scope of its mission makes the DF-26 one of the most important 
+missiles currently in the PLARF arsenal.
+There is some doubt from open-source analysts about how capable the DF-21D and 
+DF-26 systems are in reality in fulfilling their long-range anti-ship role. An effective 
+long-range anti-ship capability requires both extreme accuracy and the effective  
+ 
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+41
+ 
+Probable locations of PLARF DF-41 brigades.  
+ 
+deployment and use of ISR assets capable of fixing an enemy ship’s position. It is 
+unknown how capable the PLA’s ISR systems are of either of those tasks, especially in 
+a contested airspace. Reports suggest that the PLARF has successfully tested anti-
+ship ballistic missiles against moving targets in the South China Sea.
+72
+SRBM, MRBM, and IRBM garrisons now increasingly rely on larger field garrison sites, 
+especially for the SRBM and MRBM units stationed in Fujian Province directly across 
+from Taiwan. Across the area, the PLARF has begun building numerous battalion-
+level garrisons. These garrisons can act as staging areas for units in the process of 
+deployment, allowing ballistic missile launchers to be loaded with their warheads 
+and missile before being sent out into the field. The large system of field garrisons 
+also allows the PLARF to disperse their missile forces for long periods of time without 
+putting too much stress on their forces.
+The PLARF continues to modernize its ICBM range forces. These forces consist of the 
+DF-4, DF-5, DF-31, and DF-41 systems. While government sources continue to claim 
+that the PLARF continues to have some number of DF-4 missiles in service, no active 
+PLARF brigades are currently assessed to be equipped with the system. The  
+ 
+ 
+ 
+72 Huang, Kristin. “Exclusive: Chinese Military Fires ‘Aircraft-Carrier Killer’ Missiles Into South China Sea in 
+‘Warning to the United States’” South China Morning Post, August 26th, 2020.  
+Brad, Lendon. “China Test Anti-Ship Missile in South China Sea, Pentagon Says.” Cable News Network (CNN), 
+July 3rd, 2019.
+ 
+PLARF PROBABLE DF-41 LOCATIONS
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+42
+ 
+ 
+DF-5 testing and operational silos. Google Earth. 
+ 
+original DF-31 missile is now retired, and the remaining DF-31A launchers are being 
+replaced with the off-road mobile DF-31AG launchers. This not only allows the PLARF 
+to launch from a larger number of positions, it also significantly shortens the launch 
+preparation time of the system due to upgrades to the DF-31AG’s support vehicles. 
+The DF-41 MIRV-capable system is at this point close to exiting or already beyond the 
+OT&E phase and is in the process of being deployed to additional brigades.
+The PLARF has adopted a new garage layout for ICBM brigades in which the launchers 
+are divided into company areas. Each mobile ICBM company has two launchers and 
+their associated support vehicles. Evidence that we have so far from brigades with 
+confirmed launcher equipment suggests that the DF-31AG will continue to have twelve 
+launchers per brigade, while the newer brigades with only eight launchers per brigade 
+are intended for the DF-41. It is also possible that the newer brigades reflect a general 
+reorganization of ICBM launchers across the entire service, as the PLARF redistributes 
+DF-31AG launchers over a wider number of brigades, but this is unlikely.
+Notably, many of the new ICBM brigades are being constructed with significantly 
+less room for support vehicles per launcher than in previous layouts. For example, 
+Brigade 96721, a DF-31AG brigade, has twice as many garages for launcher 
+support vehicles than Brigade 96751, a DF-41 brigade. It is probable this indicates 
+a major difference between the two systems, with DF-41 launchers requiring 
+significantly fewer support vehicles than the DF-31AG, partly due to the DF-41’s 
+new guidance system. This significantly lowers the logistical burden and footprint 
+of a company of DF-41 mobile ICBM launchers compared to the DF-31AG.umber of 
+fixed ICBM launchers from their previous inventory of 18 DF-5 silos to roughly 383 
+including training silos. Around 334 of these new launchers are flat-land silo  
+ 
+DF-5 TEST SILO DF-5 OPERATIONAL SILO
+Image courtesy of Google Earth
+
+James Martin Center for Nonproliferation Studies | June 2023
+43
+ 
+A DF-5 pattern silo under construction at PLARF Brigade 96734. Google Earth. 
+ 
+fields intended to house solid-fueled ICBMs like the DF-31 or DF-41. The remaining 
+30 new launchers are intended for the DF-5 liquid-fueled ICBM and are being 
+constructed on mountainous terrain.
+Three silo fields containing roughly 100 ICBM silos each are being constructed at three 
+locations across northern China.
+73 A fourth, much smaller set of silos at a place called 
+Jilantai are intended for training and developing concepts of operations. The small 
+size of these silos and lack of flame ducts suggests that these silos are intended for 
+canisterized, cold-launched, solid-fueled ballistic missiles like the DF-31 or DF-41. 
+Launch control for these silos is handled by centralized command and control facilities, 
+which each appear to control ten silos. Support facilities, including missile maintenance 
+facilities, explosive storage facilities, and administrative facilities, are under 
+construction at all three locations. Notable differences can be observed in the exact 
+layout of each site and the support equipment present. While the silo fields at Yumen 
+and Hami are very similar in design and construction, the field at Hanggin Banner does 
+not appear to have the same pattern of command-and-control facilities and has pieces 
+of supporting infrastructure whose purposes have not as of yet been identified. It is 
+ 
+ 
+73 Yumen was detected first by the author. The Hami silo field was detected soon afterwards by Hans Kristensen 
+and Matt Korda at the Federation of American Scientists. The last to be detected was the field at Hanggin Banner, 
+detected by Roderick Lee over at the China Aerospace Studies Institute.  
+Warrick, Joby. “China is Building More than 100 New Missile Silos in its Western Desert, Analysts Say.” Washington 
+Post, June 30th 2021.  
+Korda, Matt, and Kristensen, Hans. “China is Building A Second Nuclear Missile Silo Field.” Federation of American 
+Scientists, July 26th, 2021.  
+Lee, Roderick. “PLA Likely Begins Construction of an Intercontinental Ballistic Missile Silos Site near Hanggin 
+Banner.” China Aerospace Studies Institute, August 12th, 2021. 
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+44
+ 
+An underground facility under construction at PLARF Brigade 96734. Google Earth. 
+ 
+possible that this location is intended to host a different system. A notable feature of 
+all the solid-fueled missile fields is what appear to be raised concrete emplacements 
+consistent with existing Chinese radar facilities. It is likely that the PLARF will invest 
+heavily in radar and possibly air defense launchers at each silo field in an effort to 
+defend against American stealth cruise missiles and stealth bombers.
+PLARF units probably involved in maintaining and operating China’s new solid-fueled 
+silos are placed in the nearest major city in compliance with standing PLARF policy 
+that brigade level units are placed in or near large cities.
+74 Infrastructure signatures 
+unique to the Hanggin Banner silo field are also present at a PLARF facility in 
+Yinchuan, 230 kilometers away. As these infrastructure signatures only appear at 
+Hanggin Banner and at this PLARF facility, it is likely that this facility in Yinchuan will 
+be involved in the operation of China’s new solid-fueled missile silos.
+It is unclear how long it will take for these silos to become operational. The 2022 Report 
+on Military and Security Developments Involving the People’s Republic of China appears 
+to count some of these systems in their estimate of PLARF launchers, indicating that 
+some of the silos themselves have finished construction.
+75 However, it may take some 
+time before the silo fields enter operation. Personnel will need to be trained, missiles and 
+support equipment produced, and concepts of operation will continue to be developed.
+ 
+ 
+74 Lewis, John Wilson, and Hua Di. “China’s Ballistic Missile Programs: Technologies, Strategies, Goals.” 
+International Security 17, no. 2 (1992): 5-40. 
+ 
+75 “2022 Report on Military and Security Developments Involving the People’s Republic of China.” United States 
+Department of Defense, November 29th, 2022. Page 167.
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+45
+ 
+An underground facility under construction at PLARF Brigade 96734. Google Earth. 
+ 
+Analysts and academics have put forward predictions about the possible number of 
+warheads the PLARF could deploy to the new solid-fuel silos that range from a couple 
+dozen to over one thousand.
+76 Lower estimates tend to theorize that China could 
+deploy a limited number of missiles across a much larger number of silos, shifting 
+them around periodically so that a potential adversary would not be able to tell which 
+silos are armed and which are empty.
+77 Such a strategy, referred to in the United 
+States as “shell game,” would force an adversary to dedicate a much larger number 
+of missiles to destroy a handful of Chinese missiles. This argument partly rests on 
+an assessment of China’s lack of sufficient fissile material, an issue that is extremely 
+difficult to accurately assess via open-source means. The shell game basing mode is 
+both technically feasible given advances in PRC missile technology and arguably in 
+line with historical PRC nuclear weapons doctrine. The biggest piece of evidence in 
+favor of this hypothesis is the existence of Jilantai. At Jilantai, a known site the PLARF 
+uses to develop concepts of operation for ballistic missile forces, the PRC is building 
+a total of 14 missile silos, ten on flat land, and another four placed into the side of a 
+hill. This number is more than either the United States or the Soviet Union ever built 
+at a single site. It is possible that the PLARF has built the ten flat land silos to support 
+training and developing deception operations under a shell game deployment plan. 
+ 
+ 
+76 For an example of an estimate at the lower end, see Acton, James M. “Don’t Panic About China’s New Nuclear 
+Capabilities.” The Washington Post, July 27th 2021. 
+ 
+77 The usual point of comparison here is the Multiple Protective Shelter basing mode that the United States Air 
+Force planned on using to deploy the Peacekeeper missile. This system involved distributing 200 missile launchers 
+across 4,600 hardened shelters.
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+46
+ 
+Locations of silos either under construction or currently operational in China.  
+ 
+It would also be very difficult for any open-source analyst to verify whether or not the 
+PLARF is implementing a shell game strategy. If done correctly, it should be close to 
+impossible for an outsider to identify which silos are armed and which are empty. 
+This assumes the PLARF fakes maintenance patterns and maintains a number 
+of dummy missile canisters to move around and confuse the adversary’s analyst. 
+This would be resource and personnel intensive, but this has not stopped 
+the PRC in the past. At the present time, the United States government also 
+appears unclear on what deployment strategy the PLARF will eventually adopt. 
+Former STRATCOM head Admiral Charles Richard has previously stated that 
+whether or not the PRC will put a missile in every silo is currently unknown.
+78 It 
+is also unknown precisely which solid-fueled ICBM would be deployed at these 
+sites. Congressional testimony from STRATCOM head Admiral Charles Richards 
+suggests that the PLARF might deploy DF-31A missiles inside the solid-fueled 
+silos, not the DF-41.
+79
+This would bring the number of possible deployed warheads down considerably 
+considering the DF-31A is not thought to be capable of carrying multiple warheads 
+and still keep the United States within range. If true, that deployment would 
+significantly reduce the possible number of nuclear warheads the PLA is capable of
+78 Heinrichs, Rebeccah. “Transcript: A Conversation with Admiral Richard.” The Hudson Institute, September 14, 2021. 
+ 
+79 Statement of Charles A. Richard, Commander, United States Strategic Command, Before the House 
+Appropriations Subcommittee on Defense. 117th Congress, April 5th 2022.
+PLARF SILO DEPLOYMENT AREAS
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+47
+ 
+A probable radar facility under construction at the Yumen silo field. Image courtesy of Planet Labs PBC. 
+ 
+deploying among their land-based missile forces, as the DF-31A is not capable of  
+carrying multiple warheads. The Department of Defense’s 2022 Report on Military 
+and Security Developments Involving the People’s Republic of China is, however, 
+tracking an increase in the number of ICBMs produced by China that seems to match 
+the number of silos under construction.
+80 This suggests that the PLARF will, at the 
+very least, keep the option of deploying a missile in every silo open.
+In addition to the expansion in solid-fueled missiles, the PLARF is also expanding 
+the number of liquid-fueled DF-5 pattern ballistic missile silos under construction. 
+At three different locations, the PLARF is building new sets of silos with the exact 
+same construction patterns as patterns spotted by the Central Intelligence Agency 
+during the DF-5’s initial deployment in the 1980s.
+81 Satellite images also show 
+several silo ring segments of a size appropriate for DF-5 pattern silos. At two brigades 
+constructing new DF-5 pattern silos, Brigade 96734 in Yueyang and Brigade 96762 
+in Launchuan, the PLARF is building sets of DF-5 pattern silos in sets of around 
+thirteen.
+82 One silo at each brigade is likely intended to be a training facility. This is 
+double the number of silos per brigade at older DF-5 silo brigades. At a third site, the 
+PLARF is building four new DF-5 pattern silos over older DF-4 roll-out-to-launch sites, 
+but one would expect this location to have a quantity of silos matching the other new 
+80 “Annual Report to Congress: Military and Security Developments Involving the People’s Republic of China 
+2022,” Department of Defense, November 29th 2022. 
+ 
+81 For examples and a discussion of the timeline of DF-5 construction, see Lafoy, Scott, and Eveleth, Decker. 
+“Possible ICBM Modernization Underway at Sundian.” Arms Control Wonk, February 5th 2020. 
+ 
+82 See appendix A for precise locations.
+
+James Martin Center for Nonproliferation Studies | June 2023
+48
+missile brigades. It is possible that these silos will be operated by a nearby existing 
+DF-5 silo brigade, Brigade 96731.
+In the older DF-5 brigades, the silos themselves are camouflaged, first with grass 
+covers to obscure the sliding silo door, and then sometimes with fake greenhouses 
+or other small buildings placed on top of the sliding door. However, no effort is made 
+to obscure the nearby battalion-level administrative and support buildings. The entire 
+silo garrison (1 launch battalion) lives and works in buildings usually within close 
+proximity of the silo itself, with the administration and support facilities for the entire 
+brigade situated in the nearest large town or city.
+83 Newer DF-5 silos do not attempt 
+any semblance of camouflage. Brigade 96762, the silo brigade at the furthest stage 
+of construction, will probably enter service within the next two years.
+Recent infrastructure changes also imply a change to how the PLARF deploys its nuclear 
+warheads to combat missile brigades. At both new and old DF-5 silo brigades, the 
+PLARF is building new large underground facilities and expanding their existing facilities, 
+possibly indicating the placement of nuclear warheads closer to the silos themselves. In 
+combination with United States government publications reporting that China is moving 
+toward a launch-on-warning posture, it is likely that future silo-based nuclear forces will be 
+kept on much higher states of alert than China has previously practiced.
+84 
+It is at this point effectively impossible to determine where the PRC will end their 
+missile expansion but one notable detail about the possibility of future PLARF 
+expansion is that the PLARF does attempt to distribute brigades somewhat 
+evenly across their bases, possibly out of concern that putting too many brigades 
+under a single base would put unacceptable stress on that base’s organization. If 
+organizational stress factors are a serious concern of the PLARF, then we should 
+expect that the force organization that we currently see under its current base 
+structure is likely close to where the PLARF will settle in the longer term unless 
+we see the PLARF begin to stand up new bases. This also suggests that the solid-
+fueled silo units currently under construction, due to their probable manpower and 
+organization demands, would be placed under a new base.
+83 The primary garrison of a PLARF brigade is almost always situated near or within a major city, apparently for 
+morale reasons.  
+Lewis, John Wilson, and Hua Di. “China’s Ballistic Missile Programs: Technologies, Strategies, Goals.” International 
+Security 17, no. 2 (1992): 5–40.  
+84 “2022 Report on Military and Security Developments Involving the People’s Republic of China.” United States 
+Department of Defense, November 29th, 2022. Page 99.
+
+James Martin Center for Nonproliferation Studies | June 2023
+49
+Implications
+The PLARF’s missile expansion has serious implications for China’s wartime 
+capabilities and international behavior. At the sub-strategic nuclear level, the PLARF’s 
+expansion of MRBM and IRBM systems enables them to strike a variety of important 
+time-sensitive targets in the opening stages of a conflict while preserving the 
+magazine depth necessary to continue fighting as adversary reinforcements pour into 
+the region. It is important to consider that this expansion does not exist in a vacuum, 
+and that many of the conventional missile capabilities that the PLARF is pursuing 
+exist to enable action from other arms of their military force. As already mentioned, 
+an example of this is the DF-17’s capability of evading and neutralizing adversary 
+missile defense sites, enabling the PLA to use other less expensive systems to 
+strike those now undefended areas. Continued investment in large numbers of long-
+range anti-ship missiles complicates the United States’ ability to militarily respond 
+to a Chinese invasion of Taiwan or other aggressive actions in the region. At the 
+strategic nuclear level, China’s rapid expansion of strategic ICBM launchers gives the 
+Chinese nuclear deterrent a degree of survivability in the face of adversary missile 
+defenses, conventional precision strike systems, and continued American superiority 
+in fast-striking SLBMs. At the present time however, because the political drivers 
+and thought processes behind China’s nuclear build are very difficult to assess, we 
+have limited ability to predict where China’s nuclear expansion will stop, what basing 
+concepts they will eventually adopt, and how they might utilize their nuclear forces in 
+the event of a crisis or conflict.
+Attempts to estimate the future size of the PRC’s nuclear arsenal have been wrong 
+in the past, partly because of an underemphasis on the political beliefs of China’s 
+leadership. A good example of this is a Defense Intelligence Agency National 
+Intelligence Estimate from 1974 titled “PRC Strategic Nuclear Forces: How Much is 
+Enough?” that projected that the size of China’s nuclear arsenal would grow to 50-75 
+MRBM launchers, 15-30 IRBM launchers, 50-75 ICBM launchers, and 5-10 SLBM 
+submarines within the next ten years.
+85 This estimate was based not on what analysts 
+knew about how Chinese leadership thought about the role of nuclear weapons, but 
+was based on the assessment of what China would need to gain a survivable and 
+credible deterrent according to American standards. As it did not take into account 
+these factors, their estimates were wildly in excess of what China actually constructed 
+during this time frame. It is important to keep this in mind and avoid mirror-imaging 
+the Chinese expansion, especially while we have so little data on the beliefs of 
+China’s military and leadership. The various organizations with China’s political 
+and military apparatus today might not have the same outlook and assumptions 
+about how to structure a missile force or what is required to be survivable or control 
+escalation as the United States does. Systems and concepts that might seem like 
+obvious compliments to their growing force to American analysts might not make 
+sense to Chinese planners. 
+85 See Eveleth, Decker, “On Projections,” A Boy and His Blog, March 7th 2022, for a copy of this document.
+
+James Martin Center for Nonproliferation Studies | June 2023
+50
+The system is opaque even to Chinese academic experts, whose writing on Chinese 
+nuclear thought was previously at least partly reflective of the thought processes 
+of the Chinese government and military. Public academic sources have been 
+increasingly disconnected from the actual state of the Chinese arsenal in the Xi 
+Jinping era, and some Chinese academics report that their colleagues seem reluctant 
+to even discuss the new solid-fueled silos or seriously believe Chinese state media’s 
+ludicrous suggestion that they are actually windfarms.
+86 A recent example is the 2020 
+edition of The Science of Military Strategy, an academic text compiled by the People’s 
+Liberation Army National Defense University, that covers Chinese perspectives on the 
+state of China’s military strategy. Sometimes such texts could serve as an accurate 
+depiction of Chinese strategic thought and give hints about the future direction of 
+the PLA’s military procurement. However, recent PLARF construction is contrary 
+to the authors’ viewpoints on Chinese nuclear strategy. In a section entitled “The 
+Status of Mobile Combat Force Construction Will be More Prominent,” the authors 
+speak warmly of the utility of strategic mobile forces over fixed silo forces. “Taking 
+into account China’s national and military conditions, the combination of mobile 
+operations and fixed operations, and more emphasis on the construction of mobile 
+combat forces will be the direction of the construction and development of strategic 
+missile forces.”
+87 The actual development of China nuclear forces does not match 
+that suggestion. Instead, we see a relatively modest expansion of their mobile forces 
+and a massive expansion of their fixed silo forces. Before the detection of the new silo 
+fields at Yumen, Hami, and Hanggin Banner, Chinese academics had even expressed 
+confusion as to why the PLARF was hanging on to even its modest collection of 18 
+DF-5 silos considering the advantages of mobile launchers.
+88 Now we see the number 
+of DF-5 silos ballooning to 48 or more. 
+Despite our lack of insight into political drivers and thought processes, security 
+drivers are easier to see, as China has been particularly vocal about American 
+capabilities either already deployed or under development that could seriously 
+compromise their nuclear arsenal. Chinese military leaders, academics, and 
+diplomatic personnel have repeatedly voiced concern that the United States is 
+embracing a military strategy to ensure global hegemony and nuclear primacy over 
+86 Tong Zhao, “What’s Driving China’s Nuclear Buildup?” Carnegie Endowment for International Peace, 
+August 5th, 2021.  
+ 
+87 “The Science of Military Strategy.” Xiao Tianliang, Lou Yaoliang, Kang Wuchao, and Cai Renzhao. National Defense 
+University Press, Beijing, 2020. Page 382. Translated by the China Aerospace Studies Institute, January 2022. 
+ 
+88 When Wu Riqiang, a Chinese scholar at Renmin University was questioned on why, if China could ensure 
+deterrence entirely with their land mobile and submarine arsenal, the PLA was still maintaining the DF-5 silo force, 
+he suggested that the force existed for technology demonstration. 
+“Why is China Modernizing its Nuclear Arsenal?” Transcript, Carnegie International Nuclear Policy Conference 
+2015.” March 24, 2015.
+
+James Martin Center for Nonproliferation Studies | June 2023
+51
+China through conventional long-range firepower and missile defenses. 89 Regardless 
+of the actual capability of the current American national missile defense system or 
+stated American intent regarding the missile defense system, the PRC worries that 
+the United States could in the future neutralize a large portion of incoming Chinese 
+warheads, possibly after destroying a portion of Chinese nuclear launchers on the 
+ground with long-range conventional strikes, negating the deterrent effect of the 
+existing nuclear arsenal. A decade ago, when the PRC only had the capability to 
+throw around 30 missiles at the contiguous United States, even a limited missile 
+defense system like the one the United States has in operation was a major threat. 
+In addition, the continued development of precise long-range conventional systems 
+capable of striking strategic targets around the world under the Prompt Global 
+Strike program could allow the United States to quickly destroy nuclear launcher 
+systems in the PRC without using nuclear weapons. Both of these programs have 
+been the source of anxiety in Beijing despite the immense technological challenges 
+they present. There is also the idea that China’s mobile missile arsenal was in the 
+past vulnerable to American numerical superiority in nuclear weapons. Given the 
+United States’ superiority in numbers and its advanced intelligence capabilities, 
+some Chinese academics have been concerned in the past that the United States 
+could either locate launchers in the field or afford to dedicate a large number of 
+warheads to the destruction of a single launcher, carpeting a large area to ensure 
+its destruction.
+90 The first generation of Chinese ICBM launcher’s lack of mobility, 
+large number of support vehicles, long launch preparation time, and locatable 
+launch sites degraded their survivability even further. All of these concerns have 
+probably contributed to China’s decision to rapidly expand their nuclear missile 
+arsenal. Others have argued that China should build a large arsenal to avoid 
+seeming weak and show force to Western powers who might try to intimidate the 
+country. Hu Xijin at the Global Times, a state media outlet that publishes in English, 
+explicitly referenced the power of nuclear weapons to “shape the attitudes of US 
+elites towards China.”
+91
+Some concerns may also be implied from what China is in the process of building and 
+how they are building it. A massive expansion in solid-fueled silos could be a result 
+of decreasing confidence in the survivability of their mobile forces and an attempt 
+to create a “missile sponge” that would be large enough to absorb an American first 
+strike and leave the United States with few missiles for targeting China’s mobile forces. 
+The expansion in liquid-fueled systems implies that China is also concerned about 
+the amount of damage that their forces need to be capable of inflicting. Liquid-fueled 
+89 This concern has generated much discussion and multiple technical studies about the survivability of the 
+Chinese nuclear deterrent, especially after Keir A. Lieber and Daryl G. Press’s much debated paper “The End of 
+MAD? The Nuclear Dimension of U.S. Primacy.” International Security, 30, no. 4 (2006): 7-44. Two notable works 
+by Chinese academics discussing the survivability of the Chinese arsenal are Li Bin “Tracking Chinese Strategic 
+Mobile Missiles.” Science and Global Security 15 (2007):1-30 and Wu Riqiang “Living With Uncertainty:  Modeling 
+China’s Nuclear Survivability.” International Security 44, no. 4 (2020): 84-118. 
+ 
+90 Li Bin “Tracking Chinese Strategic Mobile Missiles.” Science and Global Security 15 (2007):1-30 
+ 
+91 “China Needs to Increase its Nuclear Warheads to 1,000.” Hu Xijin, Global Times, May 8th 2020.
+
+James Martin Center for Nonproliferation Studies | June 2023
+52
+missiles like the DF-5 are capable of carrying much heavier payloads than solid-fueled 
+missiles, allowing the missile to carry a larger number of warheads and penetration 
+aids. This allows even a small expansion of missiles to have a large impact on China’s 
+ability to penetrate American missile defenses and strike US cities. Another piece of 
+evidence that China is concerned about their ability to penetrate American missile 
+defenses is its investment in a fractional orbital bombardment system (FOBS). A 
+FOBS system throws warhead effectively into orbit, allowing you to fire in directions 
+that are not covered by an adversary’s missile defense system. In August of 2021, 
+the PRC tested a hypersonic-glide vehicle equipped ICBM that circumnavigated the 
+globe before impacting one of China’s missile testing ranges.
+92 The missile missed the 
+target by more than two dozen miles, but demonstrated a commitment to developing 
+technologies in order to defeat advances in American missile defense technology. 
+Other developments suggest concerns over not just American national missile 
+defenses, but also missile defense assets tied to conventional theatre missile 
+defense networks deployed by the United States, Japan, and South Korea. It is 
+increasingly difficult to differentiate the homeland and theatre rungs of American 
+missile defense deployments. Radar systems like the AN/TPY-2 deployed with 
+forward deployed theatre missile defense systems, many of which are intended 
+to defend South Korea and Japan from North Korean missile attack, could be 
+used to detect Chinese strategic ballistic missiles in the boost phase and relay 
+trajectory data to strategic missile defense systems intended to defend against 
+ICBMs. During the period when the United States first deployed the AN/TPY-
+2 missile defense radar systems to Japan, the PRC had a DF-31 ICBM brigade 
+not 55 kilometers from the North Korean border, easily within the AN/TPY-2’s 
+detection range. The PLARF is continuing to deploy ICBMs to the region with the 
+discovery of two probable DF-41 brigades being committed to areas within 500 
+kilometers of the North Korean border. China has been particularly vocal about 
+the deployment of the AN/TPY-2 and its concerns over the effects on China’s 
+security, going so far as to sanction various South Korean companies.
+93 It is 
+notable that there is evidence that the PLARF brigade garrison that operated the 
+DF-31 ICBMs close to the North Korean border is now transitioning to the DF-17, 
+a missile designed for evading missile defenses. The DF-17 is now in the process 
+of being widely deployed to both the area around Korea and the Taiwan Strait. 
+The deployment of the DF-100, a supersonic cruise missile, to Shandong province 
+is another indication that the PLARF is concerned about its ability to penetrate 
+adversary missile defense systems. 
+A simple numerical expansion of nuclear launchers while keeping the same 
+constrained nuclear posture of second strike NFU should not be a cause of significant 
+concern. It is even possible that China maintaining a much larger second strike NFU 
+force would lower the risk of nuclear confrontation because China’s arsenal would be 
+92 Sevastopulo, Demetri, “China Tests New Space Capability with Hypersonic Missile.” Financial Times, October 
+16th 2021. 
+ 
+93 Kim, Victoria. “When China and U.S. Spar, It’s South Korea That Gets Punched.” Los Angeles Times, November 
+19th, 2020.
+
+James Martin Center for Nonproliferation Studies | June 2023
+53
+more survivable against an American nuclear attack and accidental destruction of 
+some nuclear capable launchers during a conventional conflict would not significantly 
+erode its retaliatory capability. Concern should be focused on how the nuclear 
+expansion might either be the result of planned changes to China’s nuclear posture, 
+or could result in eventual changes to China’s nuclear posture. Even if China is not 
+currently planning to utilize its new nuclear assets more aggressively, the fact that 
+those assets now exist and are capable of doing so makes a possible eventual shift to 
+a more aggressive posture much easier to achieve. 
+The most concerning change to China’s nuclear forces is not actually the numerical 
+expansion in launchers, but their apparent shift from a retaliation plan that imagined 
+firing a salvo of nuclear missiles after an adversary had already completed an attack 
+against the Chinese homeland to a posture of launch of warning (LOW). Under launch on 
+warning, an incoming nuclear attack is detected in flight with satellites and ground-based 
+radar, allowing a state to retaliate before the incoming missiles have struck their targets. 
+China’s developing launch on warning capability, combined with solid-fueled missile silos, 
+means that they can quickly launch a nuclear attack at a moment’s notice. A LOW posture 
+presents new challenges in ensuring conventional conflicts stay conventional. Unlike 
+the United States, any future war China will be involved in will include the large-scale 
+use of long-range conventional munitions against targets within the Chinese homeland. 
+LOW relies at least in part on ground-based radar that is also capable of detecting 
+regional conventional munitions and aircraft. As such, it is probable that at least some 
+of these systems and their support systems will be struck by American munitions during 
+a conventional conflict. Given that China now appears to be investing in protection for 
+its fixed ICBM force, it is probable that Chinese planners are concerned about American 
+stealth cruise missile and bomber attacks that will preclude any large-scale attack 
+on Chinese strategic forces. Striking radar used for strategic early warning could be 
+misinterpreted as a prelude to a larger damage limitation strike. 
+How these modernizations will affect escalation during a crisis or conflict with the 
+United States is also a source of concern. In the past, the risk of a conventional conflict 
+escalating to nuclear use was very low due to China’s strong normative commitment 
+to NFU and the lack of entanglement of nuclear and conventional launchers. During 
+a major conventional conflict between the United States and China, the United States 
+strategy calls for the destruction of Chinese military sites in the Chinese interior like 
+command-and-control nodes, airfields, and missile facilities.
+94 Ten years ago, the 
+risk of a facility related to China’s strategic nuclear deterrent being misidentified as 
+a conventional military facility was very low due to the uniqueness of infrastructure 
+signatures at Chinese nuclear sites and the fact that facilities like missile tunnels 
+for nuclear assets were mostly geographically separate from conventional ones. The 
+only exception to this was China’s arsenal of nuclear DF-21A nuclear MRBM missiles, 
+the majority of which were aimed at Okinawa and mainland Japan. However, the 
+uniqueness of their launchers and launch sites made it unlikely that the United States 
+would accidentally strike them if looking for conventional targets.
+94 Talmadge, Caitlin. “Would China Go Nuclear? Assessing the Risk of Chinese Nuclear Escalation in a 
+Conventional War with the United States.” International Security 41, no. 4 (2017): 50-92.
+
+James Martin Center for Nonproliferation Studies | June 2023
+54
+However, Chinese conventional and nuclear military assets are now being entangled 
+in two important respects.95 The first is geographic colocation. Recall that the 
+PLARF uses hardened tunnels to both hide their launchers and enable them to 
+survive strikes by an adversary after the launchers have been dispersed from 
+their bases. Once conventional hostilities begin China might deploy their nuclear 
+missile launchers to their tunnel facilities, either out of fear of an American first 
+strike or as a way of signaling to the United States that it was prepared to strike 
+as such deployments would be detectable via satellite imagery. It is unreasonable 
+to assume that the United States intelligence community does not know where at 
+least the majority of these tunnel facilities are. Excavation efforts are very difficult to 
+hide because of both the size of the supporting infrastructure necessary for tunnel 
+construction and the amount of earth that needs to be removed from the excavation. 
+The DF-26 is also based in areas that also host mobile ICBM brigades. If the DF-26 
+is sheltered in tunnels similar to the ones used by mobile ICBM brigades, it would 
+be difficult to distinguish whether or not any particular PLARF tunnel is hosting a 
+conventional or nuclear asset. This risks the United States accidentally striking mobile 
+ICBM assets during a conventional conflict, leading to escalation as the PRC believes 
+that its nuclear deterrent is under deliberate attack. 
+The second way that conventional and nuclear military assets are being entangled 
+is through an increasing reliance on launchers that are capable of firing either 
+conventional or nuclear missiles like the DF-26. The PRC would utilize the DF-26 
+heavily in any conflict involving the United States or its allies in East Asia and the 
+Pacific. The PLARF practices striking mock airfields and stationary ship-sized targets 
+with live missiles on a regular basis and would use such capabilities to attempt 
+to prevent the United States from coming to Taiwan’s defense in the event of war. 
+Nuclear warheads could be delivered to DF-26 brigades prior to the initiation of a 
+conventional conflict, as DF-26 units practice rapidly switching from a conventional 
+to a nuclear mission. The delivery of nuclear warheads to the brigades could be 
+detected by United States intelligence means, forcing the United States to consider 
+the possibility that any inbound DF-26 missiles could be nuclear in nature. This 
+aspect of the DF-26 – which some have argued is a feature, not a bug, and others 
+have argued is simply a cost saving measure – carries significant risk of inadvertent 
+escalation as the United States would not be able to conclusively determine whether 
+or not DF-26 operations are conventional or nuclear in nature.
+96
+Lastly, the interaction between the PLARF’s missile expansion and the United States’ 
+missile expansion should be carefully considered. Previous PRC nuclear strategy of 
+simply riding out an attack by placing their ICBM in hardened tunnels had the positive 
+effect that, if the PRC was confident in the survivability of those hardened tunnels, there 
+was a smaller risk of the PRC striking first after misidentifying an incoming American 
+munition. The silo fields have changed this. The PRC has presented an extremely 
+95 Many of my thoughts on escalation relies on the previous work of James Acton.  
+James M. Acton; “Escalation through Entanglement: How the Vulnerability of Command-and-Control Systems 
+Raises the Risks of an Inadvertent Nuclear War.” International Security 2018; 43 (1): 56–99. 
+ 
+96 Panda, Ankit. “China’s Dual-Capable Missiles: A Dangerous Feature, Not a Bug.” The Diplomat, May 13th 2020.
+
+James Martin Center for Nonproliferation Studies | June 2023
+55
+obvious set of fixed targets they fully expect the US will attempt to neutralize with 
+nuclear ballistic and cruise munitions. The establishment of PLARF air defense units 
+and construction of what are probably air defense support facilities at the new solid-
+fueled silo fields suggest that the PLARF is very concerned about systems like LRSO 
+being utilized against nuclear command and control nodes at the silo fields. It would 
+be difficult for the PRC to determine the intended target of incoming cruise missiles if 
+the United States attempts to strike targets in China’s interior. If during a conventional 
+conflict the PLARF receives reports about incoming American cruise missiles or 
+intermediate-range ballistic missiles and believes those missiles are intended for the 
+silo fields, they might have a strong incentive to “use it or lose it.” 
+As evidenced by both writings from Chinese academics and strategies and by the 
+infrastructure and systems China is currently in the process of emplacing, attacks by 
+the United States on its allies against nuclear command and control and early warning 
+systems utilizing long-range stealth systems are a source of serious concern. This concern, 
+fueled in part by rhetoric from the United States, increases the risk that conventional 
+military actions undertaken by the United States during a conventional conflict will 
+be misinterpreted as preludes to a larger damage limiting strike on Chinese strategic 
+systems. To ease this concern, an effort should be undertaken by the United States 
+government to change its rhetoric and general attitude towards the Chinese strategic 
+capability, first by explicitly acknowledging that the United States and China exist in a 
+state of mutual vulnerability. This acknowledgement, supported by possible changes to 
+United States nuclear policy, could be used to reassure the People’s Republic of China 
+that the United States is not posturing its forces with the intent to achieve a state of 
+nuclear primacy over its adversaries. This could also open the door for possible dialogues 
+between the United States and China on nuclear issues. Currently Chinese nuclear 
+thinking is a black box – we can see the security drivers being fed into the box, and we 
+can see the military infrastructure and deployed military systems that come out of that 
+box, but as the Chinese military does not publicly talk about their thoughts concerning 
+nuclear weapons and deterrence, their exact thinking eludes us. The United States should 
+attempt to establish dialogue between the United States military and the Chinese military 
+to ensure each side has a clear idea of how the other thinks about nuclear deterrence and 
+escalation. These dialogues would help ensure that each side knows how the other might 
+react to certain actions and deployments so as to avoid miscalculation.
+
+James Martin Center for Nonproliferation Studies | June 2023
+56
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+57
+Conclusion
+The PLARF is transforming from a modest collection of outdated missile systems to a 
+modern survivable force capable of executing a variety of missions. On the conventional 
+side, the PLARF is now equipping itself with highly accurate systems capable of evading 
+missile defenses for the destruction of targets in Taiwan, Japan, and the Korean 
+peninsula. On the nuclear side, the PRC’s massive and rapid expansion of their ICBM 
+force from under 100 launchers to around 500 launchers dramatically increases the 
+survivability of their force. Risks of nuclear conflict are not inherent to any given system 
+however, nor does the risk necessarily increase as the number of nuclear missiles 
+grows. Instead, the risk of nuclear war is a function of the deployment patterns, levels 
+of alert, modes of thinking, and employment strategies China chooses to adopt, and, 
+most importantly, the fact that we don’t know how those things are changing. As we 
+have little insight into many of these aspects, the amount of risk involved in a potential 
+conflict between the United States and China increases as we have no clear ideas 
+about what sort of military action or losses China would find acceptable and what it 
+would find unacceptable. Several aspects of their arsenal are, justly, causes of extreme 
+concern. But a simple numerical expansion of the number of nuclear weapons they 
+have available should not concern us as much as the United States accidentally ticking 
+off a checklist of things China believes would be precursors to an American first strike 
+due to its ignorance of Chinese employment strategies.
+As the launchers China is currently constructing become operational, China’s 
+deployed nuclear forces will increasingly be at odds with its public statements on their 
+nuclear policy. The PRC has so far refused to acknowledge the scale of their nuclear 
+force expansion, especially the solid-fueled missile silos under construction. As it 
+would be difficult for them to publicly discuss its nuclear posture without basically 
+acknowledging the missile forces they have recently constructed, we will have to 
+wait for China to first acknowledge what they are building before the United States 
+can hope for them to begin speaking with China on how they plan to posture them. 
+While the United States and China cannot even agree on even a basic picture of each 
+other’s arsenals there is little point in making specific suggestions about potential 
+strategies for arms control negotiations. Instead, the first step towards avoiding an 
+arms race and reducing the risk of conflict must begin with restarting communication 
+between the militaries and policy communities of each country. Time will tell precisely 
+which posture the PRC adopts for its new nuclear forces. The possible courses of 
+action the United States and others could take in response to the PRC’s nuclear 
+expansion depends on what sort of paradigms Chinese political and military leaders 
+have adopted when thinking about their own arsenal.
+
+James Martin Center for Nonproliferation Studies | June 2023
+58
+
+
+James Martin Center for Nonproliferation Studies | June 2023
+59
+Work Cited
+Acton, James M. “Escalation through Entanglement: How the Vulnerability of 
+Command-and-Control Systems Raises the Risks of an Inadvertent Nuclear War.” 
+International Security 43, no. 1 (August 1, 2018): 56–99. https://doi.org/10.1162/
+isec_a_00320.
+Acton, James M. “Don’t Panic About China’s New Nuclear Capabilities.” Washington 
+Post, June 30, 2021. https://www.washingtonpost.com/politics/2021/06/30/dont-
+panic-about-chinas-new-nuclear-capabilities/.
+“Ballistic and Cruise Missile Threat.” National Air and Space Intelligence Center, July 
+2020. https://irp.fas.org/threat/missile/bm-2020.pdf.
+Cunningham, Fiona S., and M. Taylor Fravel. “Dangerous Confidence? Chinese Views 
+on Nuclear Escalation.” International Security 44, no. 2 (October 1, 2019): 61–109. 
+https://doi.org/10.1162/isec_a_00359.
+“First PLA Rocket Force CJ-100 Unit Likely Identified.” China Aerospace Studies 
+Institute, n.d. https://www.airuniversity.af.edu/Portals/10/CASI/documents/
+Research/CASI%20Articles/2020-11-04%20656%20Brigade%20CJ-100s.
+pdf?ver=vG4fQA5fYa8Y5_4yNpfOVg%3d%3d.
+Fravel, M. Taylor. Active Defense: China’s Military Strategy Since 1949, n.d.
+Heinrichs, Rebeccah. “A Conversation With Admiral Richard.” The Hudson Institute, 
+September 14, 2021. https://www.hudson.org/national-security-defense/transcript-
+a-conversation-with-admiral-richard.
+Hu, Xijin. “China Needs to Increase Its Nuclear Warheads to 1,000.” Global Times, 
+May 8, 2020. https://www.globaltimes.cn/content/1187766.shtml.
+Huang, Kristin. “Chinese Military Fires ‘Aircraft-Carrier Killer’ Missile into South China 
+Sea in ‘Warning to the United States.’” South China Morning Post, August 26, 2020. 
+https://www.scmp.com/news/china/military/article/3098972/chinese-military-
+launches-two-missiles-south-china-sea-warning.
+Kim, Victoria. “When China and U.S. Spar, It’s South Korea That Gets Punched.” 
+Los Angeles Times, November 19, 2020. https://www.latimes.com/world-nation/
+story/2020-11-19/south-korea-china-beijing-economy-thaad-missile-interceptor.
+Korda, Matt, and Hans M. Kristensen. “China Is Building A Second Nuclear Missile 
+Field.” Federation of American Scientists, July 26, 2021. https://fas.org/blogs/
+security/2021/07/china-is-building-a-second-nuclear-missile-silo-field/.
+LaFoy, Scott, and Decker Eveleth. “Possible ICBM Modernization Underway at Sundian.” 
+Arms Control Wonk (blog), February 5, 2020. https://www.armscontrolwonk.com/
+archive/1208828/possible-icbm-modernization-underway-at-sundian/.
+
+James Martin Center for Nonproliferation Studies | June 2023
+60
+Lee, Roderick. “PLA Likely Begins Construction of an Intercontinental Ballistic Missile 
+SIlo Site near Hanggin Banner.” China Aerospace Studies Institute, August 12, 2021. 
+https://www.airuniversity.af.edu/CASI/Display/Article/2729781/pla-likely-begins-
+construction-of-an-intercontinental-ballistic-missile-silo-si/.
+Lendon, Brad. “China Tests Anti-Ship Missile in South China Sea, Pentagon Says.” 
+CNN, July 3, 2019. https://www.cnn.com/2019/07/03/asia/south-china-sea-
+missile-test-intl-hnk/index.html.
+Lewis, Jeffrey. Paper Tigers: China’s Nuclear Posture. The International Institute for 
+Strategic Studies, 2014.
+Lewis, John Wilson, and Hua Di. “China’s Ballistic Missile Programs: Technologies, 
+Strategies, Goals.” International Security 17, no. 2 (Autumn 1992): 5–40. https://doi.
+org/10.2307/2539167.
+Li, Bin. “Tracking Chinese Strategic Mobile Missiles.” Science and Global Security 15 
+(2007): 1–30.
+Li, Bin, Xiangli Sun, Sugio Takahashi, and Christopher Twomey. “Why Is China 
+Modernizing Its Nuclear Arsenal?” Presented at the Carnegie International Nuclear 
+Policy Conference, March 24, 2015. https://carnegieendowment.org/files/12-
+chinanucleararsenal240315wintro-formatted.pdf.
+Lieber, Kier, and Daryl G. Press. “The End of MAD? The Nuclear Dimension of U.S. 
+Primacy.” International Security. 30, no. 4 (2006): 7–44.
+Lin, Jeffrey, and P. W. Singer. “New Chinese Ballistic Crashes the Battlefield Party With 
+Cluster Munitions.” Popular Science, February 19, 2016. https://www.popsci.com/
+new-chinese-ballistic-missiles-crashes-battlefield-party-with-cluster-munitions/.
+Logan, David C. “PLA Reforms and China’s Nuclear Forces.” Joint Forces Quarterly, 
+October 1, 2016. https://ndupress.ndu.edu/Media/News/Article/969665/pla-
+reforms-and-chinas-nuclear-forces/.
+MacKenzie, Donald. Inventing Accuracy: A Historical Sociology of Nuclear Missile 
+Guidence. Cambridge, MA: Cambridge University Press, 1993.
+“Military and Security Developments Concerning the People’s Republic of China.” 
+United States Department of Defense, 2010. https://dod.defense.gov/Portals/1/
+Documents/pubs/2010_CMPR_Final.pdf.
+“Military and Security Developments Concerning the People’s Republic of China.” 
+United States Department of Defense, 2021. https://media.defense.gov/2021/
+Nov/03/2002885874/-1/-1/0/2021-CMPR-FINAL.PDF.
+“Military and Security Developments Concerning the People’s Republic of China.” 
+United States Department of Defense, 2022. https://media.defense.gov/2022/
+Nov/29/2003122279/-1/-1/1/2022-MILITARY-AND-SECURITY-DEVELOPMENTS-
+INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA.PDF.
+
+James Martin Center for Nonproliferation Studies | June 2023
+61
+O’Connor, Sean. “PLA Second Artillery Corps.” Air Power Australia, 2009. https://www.
+ausairpower.net/APA-PLA-Second-Artillery-Corps.html.
+Panda, Ankit. “China’s Dual-Capable Missiles: A Dangerous Feature, Not a Bug.” The 
+Diplomat, May 13, 2020. https://thediplomat.com/2020/05/chinas-dual-capable-
+missiles-a-dangerous-feature-not-a-bug/.
+Pollack, Joshua H., and Scott LaFoy. “China’s DF-26: A Hot Swappable Missile?” 
+Arms Control Wonk (blog), May 17, 2020. https://www.armscontrolwonk.com/
+archive/1209405/chinas-df-26-a-hot-swappable-missile/.
+Sevastopulo, Demetri. “China Tests New Space Capability with Hypersonic Missile.” 
+Financial Times, October 16, 2021. https://www.ft.com/content/ba0a3cde-719b-
+4040-93cb-a486e1f843fb.
+“Statement of Charles A. Richard, Commander, United States Strategic Command,” 
+April 5, 2022. https://www.congress.gov/117/chrg/CHRG-117hhrg45431/CHRG-
+117hhrg45431.pdf.
+Stokes, Mark. “China’s Nuclear Warhead Storage and Handling Facility.” Project 2049, 
+2010. https://project2049.net/wp-content/uploads/2018/05/chinas_nuclear_
+warhead_storage_and_handling_system.pdf.
+Sutton, H. I. “Great Wall of Naval Targets Discovered in Chinese Desert.” United States 
+Naval Institute News, May 11, 2022. https://news.usni.org/2022/05/11/great-wall-
+of-naval-targets-discovered-in-chinese-desert.
+Talmadge, Caitlin. “Would China Go Nuclear?: Assessing the Risk of Chinese Nuclear 
+Escalation in a Conventional War with the United States.” International Security 41, 
+no. 4 (Spring 2017): 50–92.
+Tong, Zhao. “What’s Driving China’s Nuclear Buildup?” Carnegie Endowment for 
+International Peace, August 5, 2021. https://carnegieendowment.org/2021/08/05/
+what-s-driving-china-s-nuclear-buildup-pub-85106.
+Warrick, Joby. “China Is Building More Than 100 New Missile Silos in Its Western 
+Desert, Analysts Say.” Washington Post, June 30, 2021. https://www.washingtonpost.
+com/national-security/china-nuclear-missile-silos/2021/06/30/0fa8debc-d9c2-
+11eb-bb9e-70fda8c37057_story.html.
+Wu, Riqiang. “Living with Uncertainty: Modeling China’s Nuclear Survivability.” 
+International Security 44, no. 4 (Spring 2020): 84–118.
+Xiao, Tianliang, Taoliang Lou, Wuchao Kang, and Renzhao Cai. “The Science of 
+Military Strategy.” National Defense University Press Beijing, 2020. https://www.
+airuniversity.af.edu/CASI/Display/Article/2913216/in-their-own-words-2020-science-
+of-military-strategy/.
+Xiu, Ma. “PLA Rocket Force Organization.” China Aerospace Studies Institute, 
+October 22, 2022.
+
+James Martin Center for Nonproliferation Studies | June 2023
+62
+Xiu, Ma, and P. W. Singer. “China’s Ambiguous Missile Strategy Is Risky.” Popular 
+Science, May 11, 2020. https://www.popsci.com/story/blog-network/eastern-
+arsenal/china-nuclear-conventional-missiles/.
+Xue, Litai, and Lewis John Wilson. China Strategic Seapower: The Politics of Force 
+Modernization in the Nuclear Age. Stanford, Calif.: Stanford University Press, 1994.
+
+Appendix A: Locations of DF-5 
+Pattern Silos 97
+SILO COORDINATES STATUS
+661-1 34.360996°, 111.844502° Operational
+661-2  34.285075°, 111.627066° Operational
+661-3 34.199984°, 111.008438° Operational
+661-4  33.929888°, 111.043407° Operational
+661-5  33.863203°, 111.307279° Operational
+661-6 33.978170°, 111.254034° Operational
+662-1 33.786214°, 112.024075° Under Construction
+662-2 33.809708°, 111.942421° Under Construction
+662-3 33.760176°, 112.163625° Under Construction
+662-4  33.764653°, 112.207810° Under Construction
+662-5  33.909091°, 112.174327° Under Construction
+662-6  33.892992°, 111.873807° Under Construction
+662-7  33.910421°,111.902537° Under Construction
+662-8 33.938413°, 111.890494° Under Construction
+662-9 33.889641°, 112.219333° Under Construction
+662-10 33.934342°, 112.289509° Under Construction
+662-11 33.862991°, 112.233247° Under Construction
+662-12 33.922618°, 111.846142° Under Construction
+662-13  34.119758°, 111.832412° Under Construction
+633-1 26.813563°, 109.649910° Operational
+633-2 26.862612°, 109.926385° Operational
+633-3 26.947774°, 109.710334° Operational
+633-4  27.031126°, 109.787864° Operational
+633-5 27.034813°, 109.880123° Operational
+633-6 26.944392°, 109.946422° Operational
+631-1 26.430807°, 109.461770° Operational
+631-2 26.440251°, 109.563333° Operational
+631-3 26.474686°, 109.628713° Operational
+631-4 26.484534°, 109.912996° Operational
+631-5 26.561295°, 109.845390° Operational
+631-6 26.647122°, 109.823929° Operational
+631-7 26.312695°, 109.950076° Under Construction
+631-8 26.268510°, 109.924854° Under Construction
+631-9 26.228579°,109.901905° Under Construction
+631-10 26.187640°, 109.893310° Under Construction
+634-1 29.587878°, 113.663187° Under Construction
+634-2 29.451151°, 114.210927° Under Construction
+634-3 29.570014°, 114.289402° Under Construction
+97 Several of the locations in this list were first published by Ben Reuter.
+
+James Martin Center for Nonproliferation Studies | June 2023
+64
+SILO COORDINATES STATUS
+634-4 29.671949°,114.263895° Under Construction
+634-5 29.498568°, 114.510974° Under Construction
+634-6 29.523660°, 114.596433° Under Construction
+634-7 29.591893°, 114.660436° Under Construction
+634-8 29.673740°,114.293365° Under Construction
+634-9 29.534310°,114.468723° Under Construction
+634-10 29.454190°, 114.150093° Under Construction
+634-11 29.400185°, 114.227494° Under Construction
+634-12 29.343784°, 114.195723° Under Construction
+634-13 29.550094°, 114.407798° Under Construction
+
+James Martin Center for Nonproliferation Studies | June 2023
+65
+Author
+Decker Eveleth is a graduate research assistant at the James Martin Center for 
+Nonproliferation Studies and a master’s student at the Middlebury Institute of 
+International Studies in Monterey, California. He is a recipient of the National Science 
+Foundation’s Graduate Research Fellowship.
+
+Occasional Papers from CNS
+#58 • People’s Liberation Army Rocket Force Order 
+of Battle 2023
+#57 • Radiological Security in Contested Territories
+#56 • Russian-Turkish Relations and Implications 
+for U.S. Strategy and Operations
+#55 • Everything Counts: Building a Control 
+Regime for Nonstrategic Nuclear Warheads in 
+Europe 
+#54 • The Final Stretch: Tackling Remaining HEU 
+Challenges
+#53 • Public-health Engagement with North Korea 
+in the COVID-19 Era
+#52 • Scientific Risk Assessment of Genetic 
+Weapons Systems
+#51 • The Final Stretch: Tackling Remaining HEU 
+Challenges
+#50 • Making a Better Open Skies Treaty
+#49 • A Guide to Investigating Outbreak Origins
+#48 • US Nonproliferation Cooperation with Russia 
+and China
+#47 • Dual Use in the DPRK
+#46 • Options for a Verifiable Freeze on North 
+Korea’s Missile Programs
+#45 • The Finger on the Button
+#44 • Eyes on U: Opportunities, Challenges, and 
+Limits of Remote Sensing for Monitoring Uranium 
+Mining and Milling
+#43 • North Korea’s International Scientific 
+Collaborations: Their Scope, Scale, and Potential 
+Dual-Use and Military Significance 
+#42 • The Other Fissile Material: Strengthening 
+National and International Plutonium Management 
+Approaches
+#41 • Monitoring Uranium Mining and Milling in 
+India and Pakistan through Remote Sensing Imagery
+#40 • Monitoring Uranium Mining and Milling in 
+China and North Korea through Remote Sensing 
+Imagery
+#39 • Safeguards and Verification in Inaccessible 
+Territories
+#38 • Geo4Nonpro 2.0
+#37 • All the World Is Staged: An Analysis of 
+Social Media Influence Operations against US 
+Counterproliferation Efforts in Syria
+#36 • North Korea’s Information Technology 
+Networks
+#35 • Countering North Korean Procurement 
+Networks Through Financial Measures: The Role of 
+Southeast Asia
+#34 • Open-Source Monitoring of Uranium 
+Mining and Milling for Nuclear Nonproliferation 
+Applications
+#33 • WMD Proliferation Risks at the Nexus of 3D 
+Printing and DIY Communities 
+#32 • Taiwan’s Export Control System: Overview 
+and Recommendations 
+#31 • Revisiting Compliance in the Biological 
+Weapons Convention
+#30 • Crowdsourcing Systems and Potential 
+Applications in Nonproliferation 
+ 
+#29 • The Verification Clearinghouse: Debunking 
+Websites and the Potential for Public 
+Nonproliferation Monitoring
+#28 • Geo4nonpro.org: A Geospatial 
+Crowdsourcing Platform for WMD Verification 
+#27 • Searching for Illicit Dual Use Items in Online 
+Marketplaces: A Semi-Automated Approach 
+#26 • 2016 Symposium Findings on Export Control 
+of Emerging Biotechnologies
+#25 • Outlawing State-Sponsored Nuclear 
+Procurement Programs  and Recovery of 
+Misappropriated Nuclear Goods
+
+#24 • Strengthening the ROK-US Nuclear 
+Partnership
+#23 • Replacing High-Risk Radiological Materials
+#22 • A Blueprint to a Middle East WMD-Free Zone
+#21 • Biotechnology E-commerce: A Disruptive 
+Challenge to Biological Arms Control
+#20 • Countering Nuclear Commodity Smuggling: 
+A System of Systems
+#19 • Alternatives to High-Risk Radiological 
+Sources 
+#18 • Stories of the Soviet Anti-Plague System 
+#17 • Ugly Truths: Saddam Hussein and Other 
+Insiders on Iraq’s Covert Bioweapons
+#16 • Rethinking Spent Fuel Management in South 
+Korea
+#15 • Engaging China and Russia on Nuclear 
+Disarmament 
+#14 • Nuclear Challenges and Policy Options for 
+the Next US Administration 
+#13 • Trafficking Networks for Chemical Weapons 
+Precursors: Lessons from the 1980s Iran-Iraq War  
+#12 • New Challenges in Missile Proliferation, 
+Missile Defense, and Space Security 
+#11 • Commercial Radioactive Sources: Surveying 
+the Security Risks 
+#10 • Future Security in Space: Commercial, 
+Military, and Arms Control Trade-Offs 
+#09 • The 1971 Smallpox Epidemic in Aralsk, 
+Kazakhstan, and the Soviet Biological Warfare 
+Program 
+#08 • After 9/11: Preventing Mass Destruction 
+Terrorism and Weapons Proliferation 
+#07 • Missile Proliferation and Defences: Problems 
+and Prospects 
+ 
+#06 • WMD Threats 2001: Critical Choices for the 
+Bush Administration  
+#05 • International Perspectives on Ballistic Missile 
+Proliferation and Defenses 
+#04 • Proliferation Challenges and 
+Nonproliferation Opportunities for New 
+Administrations 
+#03 • Nonproliferation Regimes at Risk 
+#02 • A History of Ballistic Missile Development in 
+the DPRK 
+#01 • Former Soviet Biological Weapons Facilities 
+in Kazakhstan: Past, Present, and Future
+
+nonproliferation.org

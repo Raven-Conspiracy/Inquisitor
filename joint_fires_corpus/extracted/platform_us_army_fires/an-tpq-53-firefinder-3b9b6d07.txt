@@ -1,0 +1,40 @@
+AN/TPQ-53 Quick Reaction Capability Radar is a mobile active electronically scanned array counter-battery radar system manufactured by Lockheed Martin. The radar is specifically designed to locate the firing positions of both rocket and mortar launchers. It has a maximum detection range of 56 mi (90 km) and has an operating frequency of 2–4 GHz (15.0–7.5 cm).
+In accordance with the Joint Electronics Type Designation System (JETDS), the "AN/TPQ-53" designation represents the 53rd design of an Army-Navy electronic device for ground transportable special combination radar system. The JETDS system also now is used to name all Department of Defense electronic systems.
+
+
+== History ==
+The TPQ-53 radar's delivery on 2 July 2009 followed its successful live-fire performance testing against indirect fire from mortars, artillery and rockets from a simulated enemy. The system has been tested and approved by the US Army. TPQ-53 radar systems will replace the aging AN/TPQ-36 and AN/TPQ-37 medium-range radars now in the Army's inventory.
+Prior to September 2011, the system was known as "EQ-36 Counterfire Target Acquisition Radar". EQ-36 was a Lockheed reference to the “Enhanced AN/TPQ-36", their program to develop what eventually became the AN/TPQ-53.
+In June 2013, the United States Army exercised a contract option to finish out the total production of 51 systems. After a contract award 24 April 2017 has completed production, the Army will hold more than 170 such systems. In April 2020, the first TPQ-53s with Gallium nitride (GaN) transmit-receive modules were delivered providing additional power, reliability and the possibility for extended range, and counterfire target acquisition (CTA).
+After Russian-backed separatists started operating tanks in Eastern Ukraine, the U.S. started sending military items to Ukraine, including twenty AN/TPQ-53 radar systems in 2015. As a result, Ukraine's units thus equipped saw casualty rates decline from 47 percent to around 18 percent. Ukrainian combat expertise with the system led to their providing training to U.S. forces.
+
+
+== Operators ==
+ Romania
+Romanian Land Forces
+ Saudi Arabia
+Saudi Arabian Army
+ Singapore
+Singapore Army
+ Ukraine
+Ukrainian Ground Forces
+ United States
+United States Army
+
+
+== See also ==
+
+List of radars
+List of military electronics of the United States
+ARTHUR (military)
+AN/TPS-80 Ground/Air Task Oriented Radar
+Swathi Weapon Locating Radar
+Red Color
+Type 704 Radar
+
+
+== Notes ==
+
+
+== External links ==
+FrontierIndia.net - U.S. Army Receives First EQ-36 Counterfire Target Acquisition Radar System (7 July 2009)

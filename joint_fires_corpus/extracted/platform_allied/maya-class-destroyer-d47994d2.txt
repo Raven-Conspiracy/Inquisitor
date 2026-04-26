@@ -1,0 +1,53 @@
+The Maya class of guided-missile destroyers (まや型護衛艦, Maya-gata Goeikan) in the Japan Maritime Self-Defense Force is a modified version of the Atago class, with an updated Aegis Combat System and electric propulsion system. Maya was commissioned on March 19, 2020. Haguro was commissioned on March 19, 2021.
+
+
+== Background ==
+The Maritime Self-Defense Force (MSDF) began construction of the Aegis-equipped Kongō class in FY1988. In FY2002 and 2003, a modified version, Atago class, was also added for its fleet.
+However, even after the four Kongō-class and two Atago-class destroyers had been commissioned, it was still necessary to build two more Aegis-equipped destroyers to replace Hatakaze class, the best and last survivor of Tartar-equipped destroyers. The construction of these two Aegis-equipped destroyers was included in the National Defense Program Guidelines for FY2014 and beyond. The first ship, JS Maya, was built in the FY2015 budget.
+
+
+== Design ==
+While it shares the same design characteristics as the Atago class, the Maya class possesses a larger hull to install a hybrid-electric propulsion system.
+Maya-class destroyers are engineered with a COGLAG (Combined Gas turbine-eLectric And Gas turbine) propulsion system, a modification of the combined gas and gas propulsion system employing electric propulsion for low-speed cruising. The JMSDF had been testing a COGLAG propulsion system on JS Asuka. Then, the adoption of the system for surface combatants began with the Asahi class. While the Asahi class system had a low voltage distribution of 450 volts, the Maya class system is equipped with a more advanced system that can handle a high voltage distribution of 6,600 volts.
+The JMSDF already uses an integrated electric propulsion system for auxiliary vessels and is expected to expand to surface combatant ships in the future in light of its future weapon accommodation.
+
+
+== Equipment ==
+The Maya class features the newer Aegis Weapon System (AWS) Baseline 9C (referred to as J7 in Japan), compared with the Atago class using the Baseline 7 system (now being updated to Baseline 9C with modernization). With this system, these destroyers are equipped with the Cooperative Engagement Capability (CEC) system. This will allow the ship to share surveillance or targeting information with other CEC-equipped assets, such as ships from the American or Australian Navy or from American or Japanese E-2 Hawkeyes. In addition to the AWS, they are also equipped with an Aegis BMD 5.1 system; they are the first JMSDF Aegis vessels to be capable of ballistic missile defense (BMD) from the time of its commissioning.
+In addition to the existing SM-2MR Block IIIB surface-to-air missiles, the SM-6 will also be installed in the future. The SM-6 missiles can be networked to the CEC system and thus allow it to receive targeting information from other CEC-equipped sources. While the primary role of the SM-6 is to intercept enemy aircraft and cruise missiles, the SM-6 is also capable of intercepting ballistic missiles in their terminal phase and can double as an anti-ship missile.
+As for anti-ballistic missiles, these ships are equipped with the SM-3 Block IA, IB, and IIA. The SM-3 Block IIA is the latest variant of the SM-3 missiles, being re-designed drastically to defend broader areas.
+The ship will use Type 17 ship-to-ship missiles (SSM-2) in addition to an existing Type 90 (SSM-1B). As for lightweight torpedoes, the HOS-303 torpedo tubes were adopted for this class; this is contrary to the HOS-302 tubes that were used until the Atago class.
+Future armaments for the ships are slated to include a locally built railgun and a laser point-defense system.
+
+
+== Operational history ==
+On 16 November 2022, the guided-missile destroyer Maya fired an SM-3 Block IIA missile, successfully intercepting the target outside the atmosphere in the first launch of the missile from a Japanese warship. On 18 November 2022, the Haguro likewise fired an SM-3 Block IB missile with a successful hit outside the atmosphere. Both test firings were conducted at the Pacific Missile Range Facility on Kauaʻi Island, Hawaii, in cooperation with the U.S. Navy and U.S. Missile Defense Agency. This was the first time the two ships conducted SM-3 firings at the same time, and the tests validated the ballistic missile defense capabilities of Japan's newest Maya-class destroyers.
+
+
+== Ships in the class ==
+
+
+=== Namesakes ===
+Maya shares her name with the World War II era Japanese Takao-class heavy cruiser Maya, while Haguro shares her name with Myōkō-class heavy cruiser Haguro.
+
+
+== See also ==
+List of destroyer classes in service
+Equivalent destroyers of the same era
+
+Type 055
+Zumwalt class
+Visakhapatnam class
+Hobart class
+
+
+== References ==
+
+
+=== Bibliography ===
+
+Inaba, Yoshihiro (13 May 2020). "JMSDF To Put Its Latest Aegis Destroyer JS Maya Through Its Paces". Naval News.
+Rimland, Ben (1 August 2018). "Japan Launches Future Aegis Destroyer JS Maya". Navy Recognition.
+Tokumaru, Shinichi (December 2018). "Air defense system of new JMSDF DDG Maya". Ships of the World (in Japanese) (889). Kaijin-sha: 53–57. NAID 40021712920.
+Tokumaru, Shinichi (May 2021). "Mechanism of JMSDF's AEGIS Destroyers - Weapon System". Ships of the World (in Japanese) (947). Kaijin-sha: 88–97.
+Yamazaki, Makoto (August 2014). "Development of Japanese DDG". Ships of the World (in Japanese) (802). Kaijin-sha: 69–75. NAID 40020135975.

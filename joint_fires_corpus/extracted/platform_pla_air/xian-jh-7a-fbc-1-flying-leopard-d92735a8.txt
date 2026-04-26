@@ -1,0 +1,155 @@
+The Xi'an JH-7 (simplified Chinese: 歼轰-7; traditional Chinese: 殲轟-7; pinyin: jiān hōng qī – fighter-bomber; NATO reporting name Flounder), also known as the FBC-1 (Fighter/Bomber China-1) Flying Leopard, is a Chinese tandem two-seat, twin-engine fighter-bomber/strike aircraft in service with the People's Liberation Army Naval Air Force (PLANAF), and the People's Liberation Army Air Force (PLAAF). The aircraft is produced by the Xi'an Aircraft Industrial Corporation (XAC); the design was developed with the 603 Institute (later the Xi'an Aviation Design and Research Institute). 
+The JH-7 entered service with the PLANAF in 1994. The JH-7A entered service with the People's Liberation Army Air Force (PLAAF) in 2004.
+
+
+== Development history ==
+
+
+=== JH-7 ===
+
+In the early 1970s, China started a program to replace the Nanchang Q-5 for the PLAAF and the PLANAF. XAC's proposal in November 1977 was for a large two-seat aircraft comparable to the General Dynamics F-111 Aardvark, Sukhoi Su-24, and Panavia Tornado. XAC intended to produce a variant for each end-user - the H-7 tactical bomber for the PLAAF and the JH-7 fighter-bomber for the PLANAF - to accommodate the differing requirements. By 1980, XAC was still attempting to find an acceptable baseline for both. The program began to receive lower priority. The Falklands War renewed interest in a naval fighter-bomber; in November 1982, the JH-7 became the main focus of development with the H-7 eventually being cancelled. In 1983, the Rolls-Royce RB.168 Spey Mk 202 turbofan—to be license produced as the WS-9—was chosen as the power plant over the domestic WS-6; the latter's development program failed.
+Five prototypes, a static test article were built, and 12 or 18 pre-production aircraft were produced by 1992. All were powered by the Spey due to problems with the WS-9. The fourth prototype crashed in 1995 or 1996 due to engine failure. The aircraft's KF-1 fly-by-wire control system was tested on a modified Shenyang J-6.
+The first flight occurred on 14 December 1988; it ended in an emergency landing after vibration disabled instrumentation. The first supersonic flight was on 17 November 1989. The live fire tests with the YJ-8 anti-ship missile occurred in 1996. Initial operating capability was reached in 1994 when pre-production aircraft entered PLANAF service, and the aircraft received its type certificate in 1998.
+Full production was delayed by continuing problems with the WS-9. Rolls-Royce assisted Liming Aero Engines in 1997-1998. XAC considered replacing the engine with the Lyulka AL-31F or the Snecma M53; these were not pursued to avoid further delays. The delivery of production aircraft started in 2001. The delays caused the PLAAF to order the Sukhoi Su-30MKK.
+
+
+=== JH-7A ===
+
+When the PLA examined the future role of air forces, it identified a need for precision air-to-surface capability. An improved JH-7, the JH-7A, was designed to meet this requirement. The JH-7A's general and deputy general designers were Tang Changhong (唐长红) and Wu Jieqin (吴介琴) respectively.
+The JH-7A had a lighter and stronger airframe than the JH-7, allowing the newer aircraft to carry a maximum ordnance load of 9,000 kg. In PLANAF, this allowed four YJ-81 anti-ship missiles to be carried, compared to the two on the JH-7.
+The JH-7A is equipped with domestic Chinese helmet mounted sight (HMS) for evaluation, and this HMS currently being tested is developed by Xi'an Optronics Group (Xi Guang Ji Tuan 西光集团), a member of Northern Electro-Optic Co. Ltd (北方光电股份有限公司), the wholly owned subsidiary of Norinco, and the HMS on JH-7A was developed from the helicopter HMS manufactured by the same company, thus both share many common components. HMS tested on JH-7A is compatible with air-to-air/surface missiles, and it is also compatible with airborne sensors such as radars and electro-optics so that the sensors are slaved to HMS, enabling the fast tracking and aiming of the weaponry. The cockpit of JH-7A still retains some traditional single function dial indicators, but there are two large color liquid crystal display multi-function displays which can be monochrome if pilots choose. Other avionic upgrades of JH-7 include replacing Type 960-2 noise jammer with BM/KJ-8605, replacing Type 265A radar altimeter with Type 271 radar altimeter, fully digitized fly-by-wire flight control system, and in addition, Type 232H airborne radar is replaced by JL-10A pulse-Doppler radar, enabling JH-7A to fire laser-guided bombs and Kh-31P anti-radiation missiles. The existing JH-7s were upgraded with JH-7A electronics. Two additional hardpoints increased the total to 6 from the original 4, and one-piece windscreen replaced the original three-piece windscreen.
+The JH-7A was the first Chinese aircraft to use paperless design, and the software used was CATIA V5.
+The JH-7AII variant was in service in 2019.
+
+
+== Operational history ==
+On 19 August 1992, a JH-7 made an emergency landing after the rudder fell off at an altitude of 5,000 meters during a test flight. Huang Bingxin, the pilot, refused to jettison the payload of four live missiles and abandon the aircraft, and instead used differential thrust from the two engines to return to the airport. A starboard tire burst on touchdown and the aircraft was brought to a halt with the drogue parachute.
+The JH-7A entered service with the PLANAF in early 2004, and with the PLAAF by the end of the year.
+In 2007 JH-7s went abroad to participate in "Peace Mission" exercises of the Shanghai Cooperation Organisation (SCO). In April 2012, multiple JH-7 aircraft joined a Russia-China joint naval exercise in eastern China. In 2013, JH-7s participated in a Russia–China joint exercise held on Russian territory.
+
+
+== Accidents and incidents ==
+The JH-7 prototype's first flight on 14 December 1988, flown by Huang Bingxin, ended in an emergency landing. The dashboard was disabled by violent engine vibrations toward the end of the flight, and the aircraft landed safely without instrumentation.
+On 8 June 1991, a JH-7 prototype suddenly began to leak fuel at a high rate. Lu Jun (卢军), a Russian-trained Chinese test pilot, managed to make a safe emergency landing when the fuel reserve had dropped to slightly more than 30 liters. Three years later, on 4 April 1994, a JH-7 prototype crashed during a test flight, killing Lu. In 1995 or 1996, the fourth prototype crashed after engine failure; both crew members were killed.
+On 14 October 2011, a JH-7 crashed during an exhibition at an air show in Shaanxi province, northwest China.
+On 5 June 2014, a JH-7 crashed during a training mission in Yiwu, Zhejiang province.
+On 22 December 2014, a JH-7 crashed near the city of Weinan in Shaanxi province, under unknown circumstances. At least two persons are said to have died in the crash.
+On 22 October 2016, a JH-7 crashed in Liuzhou, Guangxi province. According to pictures released on social media, the pilots ejected.
+On 12 March 2019, a JH-7 crashed during a training exercise in Ledong County, Hainan, 
+killing pilot Commander Ren Yongtao and weapon systems officer Lt Junior Grade Nian Jinxin. The crash occurred during a low-altitude flight. The crew steered the aircraft away from a densely populated residential area and a school; their bravery was recognized by the PLAAF.
+On 18 May 2019, a JH-7 crashed in Gaocun Town, Weihai City area, Shandong province.
+
+
+== Operators ==
+
+ People's Republic of China
+People's Liberation Army Naval Air Force (PLANAF)** – Approximately 110–120 JH-7A aircraft in service (as of 2025). The PLANAF employs the JH-7 primarily for anti-ship missile strikes, close air support, and interdiction operations. The aircraft has been noted for its role in anti-submarine warfare (ASW) exercises and long-range strike capabilities against maritime targets.
+People's Liberation Army Air Force (PLAAF)** – Approximately 110–120 JH-7A aircraft in service (as of 2025). The PLAAF continues to use the JH-7 for a range of tactical strike missions, including both land-attack and anti-ship roles. These aircraft are integral to China's rapid response capabilities, particularly in the context of Taiwan Strait tensions and South China Sea disputes. JH-7s are also used for electronic warfare training and simulation exercises.
+
+
+== Variants ==
+
+JH-7
+PLANAF anti-ship fighter-bomber.
+H-7
+PLAAF tactical bomber; cancelled.
+JH-7A
+Later production utilising composite structure to reduce weight, improved flying control system and improved avionics including the JL10A Shan Ying J-band pulse-Doppler radar. Weapon loads increased by the addition of two more wing hardpoints and two hardpoints under the intake trunking for mission pods such as targeting pods.
+JH-7A2
+Improved variant with enhanced air-to-ground munitions and carrying capabilities. The variant was first observed in 2019. The fighter-bomber was officially unveiled on Zhuhai Airshow in 2021.
+JH-7E
+Possibly export variant, shown at 2018 Zhuhai Airshow.
+FBC-1 Flying Leopard
+Export version of the JH-7.
+FBC-1M Flying Leopard II
+Export version of the JH-7A.
+
+
+== Specifications (JH-7A) ==
+Data from General characteristics
+Crew: 2
+Length: 22.32 m (73 ft 3 in)
+Wingspan: 12.8 m (42 ft 0 in)
+Height: 6.22 m (20 ft 5 in)
+Wing area: 42.2 m2 (454 sq ft)
+Empty weight: 14,500 kg (31,967 lb) 
+Max takeoff weight: 28,475 kg (62,777 lb) 
+Powerplant: 2 × Xian WS-9 Qinling turbofan engines, 54.29 kN (12,200 lbf) thrust  each dry, 91.26 kN (20,520 lbf) with afterburner
+Performance
+
+Maximum speed: 1,808 km/h (1,123 mph, 976 kn)
+Maximum speed: Mach 1.52
+Combat range: 1,760 km (1,090 mi, 950 nmi) with one in-flight refueling (estimated)
+900 km (560 mi; 490 nmi) without refueling (estimated)
+Service ceiling: 16,000 m (52,000 ft)
+Armament
+
+Guns: 1× 23mm twin-barrel GSh-23L autocannon, 300 rounds
+Hardpoints: 9 in total (6× under-wing, 2× wing-tip, 1× under-fuselage) with a capacity of 9,000 kg (20,000 lb) external fuel and ordnance
+Rockets: 57mm/90mm unguided rocket pods
+Missiles: 
+Air-to-air missiles:
+PL-5
+PL-8
+PL-9
+PL-12
+Anti-ship missiles:
+YJ-81
+Air-to-surface missiles:
+Kh-29
+AKF-98
+AKF088C
+YJ-83K
+KD-88
+CM-802AKG
+C-705
+C-704
+YJ-7 (C-701)
+Anti-radiation missiles:
+YJ-91
+LD-10
+CM-102
+Bombs: 
+Unguided bombs
+Laser-guided bombs
+LT series 500 kg (1,100 lb) guided bombs.
+GB series 1,000 kg (2,200 lb)/500 kg (1,100 lb)/250 kg (550 lb)/100 kg (220 lb) guided bombs.
+Satellite-guided bombs
+LS series 500 kg (1,100 lb)/250 kg (550 lb) guided bombs.
+FT series 500 kg (1,100 lb)/250 kg (550 lb) guided bombs.
+GB6 500 kg (1,100 lb) guided submunition dispenser.
+YJ-1000-1 1,000 kg (2,200 lb) bunker penetrator.
+Avionics
+JL-10A radar
+
+
+== See also ==
+
+Aircraft of comparable role, configuration, and era
+
+A-5 Vigilante
+F-111A/C/D/E/F Aardvark
+FB-111A / F-111G
+Panavia Tornado
+SEPECAT Jaguar
+Sukhoi Su-24
+IAR-93 / J-22 Orao
+Mitsubishi F-1
+
+Related lists
+
+List of Chinese aircraft
+
+
+== References ==
+
+
+== Sources ==
+
+
+== External links ==
+
+Chinese JH-7 documentary, interview with Chief Designer
+JH-7A photos and information – AirForceWorld.com
+JH-7 at SinoDefence.com
+JH-7 at GlobalSecurity.org

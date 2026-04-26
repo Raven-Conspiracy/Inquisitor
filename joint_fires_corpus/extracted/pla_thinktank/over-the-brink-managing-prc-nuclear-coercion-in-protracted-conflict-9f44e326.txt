@@ -1,0 +1,311 @@
+Over the Brink | CNAS
+Executive Summary
+A new era of nuclear deterrence is taking shape in the Indo-Pacific theater. As the People’s Republic of China (PRC) dramatically expands and modernizes its nuclear arsenal, the risks of PRC nuclear coercion and escalation are evolving. Building on the authors’ prior work on U.S.-PRC nuclear escalation risks and protracted U.S.-PRC conflict, this report examines the United States’ ability to manage nuclear coercion in a hypothetical protracted conflict over Taiwan. To this end, the authors conducted two tabletop exercises (TTXs) and supplementary research to better understand the challenges of U.S.-PRC intrawar deterrence.
+Findings Summary
+This study finds that a hypothetical, protracted U.S.-PRC conflict creates conditions under which nonstrategic nuclear weapons use is both appealing to the PRC and difficult to manage for the United States. Moreover, once nuclear escalation in the Indo-Pacific occurs, reciprocal tactical nuclear exchanges may continue, but not necessarily lead to general nuclear war. These findings reflect the fundamental differences of deterrence in the emerging Indo-Pacific era, where distinct geography, targets, and capabilities make limited nuclear escalation potentially more tolerable than in the Cold War era.
+The authors further found that the United States is currently ill-equipped in doctrine, capabilities, and concepts to manage this nuclear future. Relying on submarines and dual-capable fighters and bombers for signaling and employment, the United States may encounter issues related to platform vulnerability, signaling visibility, and conventional warfighting. Additionally, the TTXs highlighted major divergences of opinion on nuclear retaliation that will likely challenge U.S. decision-makers and that may result in capitulation, compromises, or ineffective counter-coercion approaches.
+This report also illuminates a critical area for future study: the role of allies and partners within a broader U.S. escalation management strategy. The United States needs to maintain alliance cohesion and the credibility of extended deterrence represents a logical target for PRC nuclear coercion, particularly when facing a disadvantageous conventional balance. Across the TTXs, nuclear strikes on U.S. allies were viewed as key strategic turning points. For these reasons, strengthening extended deterrence and improving escalation management coordination are crucial areas for future study.
+Methodology
+The authors developed and executed two TTXs, conducted supplemental research, and crafted a novel escalation model linking conventional warfighting to nuclear deterrence.
+The study’s TTXs each posited a hypothetical nuclear employment logic in which China sought to achieve favorable conflict termination through limited nuclear escalation. The first case,
+Spike the Ball
+, posited PRC limited nuclear use when China was marginally advantaged. The second,
+Cold Stop
+, posited limited PRC nuclear use when China was marginally disadvantaged. Following a scripted Red nuclear strike against multiple U.S. military targets at the conclusion of the first move, both games moved into traditional free play for two to three turns to test U.S. ability to manage and respond to Chinese nuclear escalation.
+Building on analysis of the TTXs and supplemental research, the authors subsequently developed a novel escalation model. This “conventional-nuclear crossfade” framework underscores how nuclear escalation risks are nonlinear and how, in a protracted Sino-American conflict in the Indo-Pacific, an inversion of conventional and nuclear escalation risks may render limited nuclear exchanges both more credible and more tolerable. The escalation risks associated with conventional and nuclear actions are likely to blur, lending nonstrategic nuclear weapons an uncomfortable yet plausible logic for employment.
+Key Findings and Recommendations
+FINDING
+Protracted conventional conflict with the PRC heightens the potential for nonstrategic nuclear weapons use due to decreasing conventional capabilities, increasing nuclear signaling and use options, and the nature of the theater.
+Protraction’s reduction of preferred conventional munitions increases the perceived utility of higher-efficiency nuclear weapons. Additionally, the Indo-Pacific’s archipelagic and maritime nature lends itself to small numbers of air-bursted weapons compared to the Cold War confrontation in central Europe. These differences increase the perceived tolerability of nuclear use.
+RECOMMENDATIONS
+Educate senior U.S. decision-makers on the troubling logic of theater nuclear use and corresponding limits on U.S. responses.
+Senior decision-makers must look beyond the PRC’s longstanding declaratory policy and understand both the dangerous potential branches of Chinese nuclear futures and corresponding limitations on U.S. responses.
+Pursue dialogue and confidence-building measures where possible with the PRC, even when there is a perception of limited movement.
+The United States and its allies should continue to engage with PRC interlocuters wherever possible to create pathways for dialogue and understanding. In doing so, U.S. diplomats may be able to achieve real progress on sensitive, nuclear-adjacent issues.
+FINDING
+U.S. regional allies are a clear strength and potential vulnerability.
+U.S. allies and partners are key in deterring China and maintaining a “free and open Indo-Pacific.” China may use nuclear arms to undermine or break U.S. extended deterrence commitments and thus the underlying alliances.
+RECOMMENDATION
+Hold detailed planning conversations with Japan and Australia on responses to nuclear use.
+U.S. diplomats and senior military officials must begin forthright discussions on the implications of PRC nuclear expansion for U.S. allies and partners. This level of coordination must include plans for resilience, redundancy, and forces operating in contaminated environments.
+FINDING
+The United States lacks the doctrine, capabilities, and concepts to manage the conventional-nuclear crossfade.
+U.S. nuclear thinking and systems remain tied to the Cold War, and current capabilities suffer from a lack clear of signaling tools and employment difficulties.
+RECOMMENDATIONS
+Fully integrate nuclear activities into U.S. planning and exercises, not just as a “last day” or stand-alone exercise.
+Reviving this skill for great power competition and potential U.S.-PRC conflict generates a powerful signal that U.S. forces are alert to the threat of nuclear escalation and lessens the operational advantages that an adversary may seek to gain through limited nuclear use.
+Develop and exercise operational concepts for visible theater nuclear generation.
+Given the inherent signaling limitations of ballistic missile submarines, the U.S. Air Force must develop the tactics, techniques, and procedures to move nonstrategic nuclear weapons quickly and safely to theater and mate with forward-deployed aircraft.
+Improve both the capabilities and capacities of conventional munitions.
+To avoid a dangerous dependence on theater nuclear arms, the United States must fund expanded conventional munitions capabilities to include area-effects weapons, “good enough” weapons that can be produced en masse, and a substantially higher capacity of preferred conventional munitions.
+Consider expanded theater nuclear weapons capabilities.
+The United States likely lacks the theater nuclear capabilities necessary to engage in effective conflict management and forestall successful nuclear coercion. For this reason, the United States should consider the development of a small number of nuclear-tipped antiship capabilities to increase the flexibility of U.S. theater nuclear capabilities and better align legacy Cold War capabilities with the Indo-Pacific age.
+Introduction
+During the Cold War, Western scholars labored to develop theories and approaches for managing escalation and gaining advantage in the competition between the United States and the Soviet Union.
+1
+While most of these theorists focused on preventing conflict, a smaller subset of scholars considered more pernicious questions: how might a conventional war escalate to the nuclear level—and would nuclear war be controllable?
+2
+Thankfully, these theories were never put into action and this line of inquiry was truncated by the fall of the Berlin Wall and the end of the Cold War era.
+Strategists in the United States are currently asking many of these same questions about competition and potential conventional conflict with the People’s Republic of China (PRC).
+3
+While a variety of experts have studied the PRC’s conventional modernization for over a decade, consideration of the nuclear dimensions of the PRC’s evolving military capabilities has, until recently, been largely relegated to a small community of specialists. This relegation can be attributed in part to China’s minimalist nuclear strategy, which emphasizes assured deterrence and no first use, and to its relative lack of nuclear warfighting capabilities.
+4
+Over the past five years, it has become clear that the PRC is dramatically expanding both the quantity and quality of its strategic nuclear forces. This includes new mobile missile systems (DF-31AG and DF-41), enhancements to submarine-launched ballistic missiles (JL-3), modernization of the air leg (H-6N), and most dramatically, construction of over 300 hardened intercontinental ballistic missile (ICBM) silos.
+5
+The 2023 China Military Power Report suggests that the PRC will have 1,000 operational warheads by 2030.
+6
+As recently as 2020, the U.S. Department of Defense (DoD) estimated that the PRC’s operational stockpile was “in the low 200s,” and claimed that it grew to 500 warheads in 2023.
+7
+PRC leadership has clearly decided on markedly increasing their nuclear capabilities but has failed to explain the overarching strategic rationale for this expansion. Many U.S. analysts view this lack of strategic clarity with alarm.
+8
+At a minimum, it increases the chances of misunderstanding and misperception. While the exact rationale behind the PRC’s qualitative and quantitative nuclear expansion is unclear, these efforts will enable China to potentially change its current nuclear strategy of assured deterrence. There are signs that the People’s Liberation Army (PLA) is moving toward a launch-on-warning posture, and increased capability and capacity creates previously unavailable strategic options for PRC leadership.
+9
+Regardless of the state of PRC nuclear strategy today, presently observed changes in its arsenal create the possibility of future changes in its strategy. The Indo-Pacific era thus requires a revaluation of the strategic tools built during the Cold War.
+It is this uncertainty that compels U.S. strategic analysts to ask uncomfortable “what if” questions about PRC nuclear strategy. These questions are most concerning when considering how relative strategic parity influences the stability-instability paradox and opens the window for discrete, nonstrategic nuclear strikes.
+10
+The PRC’s nonstrategic nuclear capabilities are particularly opaque. Much has been written about the dual-capable nature of the DF-26 IRBM and the potential to quickly “hot swap” the payload between conventional and nuclear warheads.
+11
+There is very little to no publicly available information on the quantity of PRC tactical warheads. It is apparent that the PRC has dramatically expanded the quantity of DF-26 launchers over the past five years.
+12
+While details on PLA thinking remain sparse, small-yield, precise nonstrategic nuclear arms neatly fit into the PLA’s conventional warfighting approaches and are being discussed in Chinese military writings.
+13
+The DF-26 launcher offers the People’s Republic of China options to potentially change its nuclear strategy. Nonstrategic nuclear arms fit neatly into the PLA’s conventional warfighting approaches and are being discussed in Chinese military writings.
+Andy Wong/Pool via Getty
+The DF-26 launcher offers the People’s Republic of China options to potentially change its nuclear strategy. Nonstrategic nuclear arms fit neatly into the PLA’s conventional warfighting approaches and are being discussed in Chinese military writings.
+Andy Wong/Pool via Getty
+A prior Center for a New American Security (CNAS) Defense Program study,
+Avoiding the Brink
+, began to explore many of these issues in a Taiwan invasion scenario. It concludes that while an increased PRC nuclear arsenal improved its coercive leverage by providing additional options and second-strike capabilities, the PRC would likely see little advantage in pursuing such a strategy early in a conflict given its expansive conventional strike capabilities.
+14
+If nuclear coercion or employment were to occur, the authors of
+Avoiding the Brink
+suggest that both sides could struggle with credibility. Under these conditions, the United States would see value in its continued strategic quantitative advantage and the PRC would perceive an asymmetry of resolve—that is, the PRC is more invested in conquering Taiwan than the United States is in defending it.
+15
+In addition, this work observed that the nature of the potential coercive nuclear targets likely favors the PRC, given the asymmetry between the U.S. position operating from forward locations and the PLA position operating from its homeland.
+16
+Crucially,
+Avoiding the Brink
+concludes that, despite not observing significant pathways for nuclear coercion and use early in a conflict, “there might be increased pressure to use nuclear weapons as conventional weapons stocks became depleted or in an effort to end the war on favorable terms.”
+17
+A subsequent CNAS Defense program study,
+Rolling the Iron Dice
+, explores the twisted, confusing logic of protracted war.
+Iron Dice
+does not focus on the interdependent relationship between the depletion of conventional weapons, the need to terminate the conflict, or the role of nonstrategic nuclear weapons. Instead, it concludes:
+A risk-acceptant actor could leverage a precisely targeted, low-yield weapon to push a conflict to the very edge of the nuclear cliff, leaving the other actor with few, if any, options short of strategic escalation.
+18
+The potential for conflict expansion to the tactical nuclear domain in the pursuit of conflict termination is largely beyond the scope of this immediate paper. It is . . . a crucial area for further study.
+19
+This body of work reveals important questions. How would protracted warfare change the nuclear escalation dynamic between the United States and the PRC? How does the deterrence landscape shift when both sides possess mature precision strike capabilities? Are there plausible logics behind asymmetric nuclear escalation for the PRC in a protracted war scenario?
+20
+This report attempts to provide some answers to these questions.
+This research, funded by the Defense Threat Reduction Agency (DTRA), creates a novel, linked model of escalation, integrating the concepts of advanced conventional warfighting with nuclear deterrence, and uses two tabletop exercises (TTXs) to increase understanding of escalation dynamics in a protracted war scenario. The TTXs explore how the PRC could use nuclear coercion in two subtly different protracted war scenarios that extend an initial conflict over Taiwan well into a second month.
+21
+Ultimately, this study seeks to understand the implications of a plausible and highly dangerous future.
+Unfortunately, strategies of asymmetric, coercive escalation for war control and, potentially, termination, represent a plausible future.
+The study’s authors acknowledge that many of the approaches adopted in these TTXs by both the Red and Blue teams diverge from current concepts. This is especially true with respect to PRC strategy, where much remains unclear about the objective of its nuclear modernization efforts. Unfortunately, strategies of asymmetric, coercive escalation for war control and, potentially, termination, represent a plausible future.
+22
+This report has four major components. The first summarizes the key findings and insights from this study. The second reviews the approach that the team took, describes the hypothetical PRC nuclear use theories that were developed to support the TTXs, and outlines a framework for understanding the escalation relationship between advanced conventional war and nuclear escalation in the Indo-Pacific. The third analyzes this emerging nuclear future. The fourth presents the team’s key findings and recommendations on how the United States can best avoid this future.
+Endnotes
+For example, see: Thomas Schelling,
+Arms and Influence
+(New Haven, CT: Yale University Press, 2008); Herman Kahn,
+On Thermonuclear War
+(New York: Routledge, 2007);
+Bernard Brodie, Strategy in the Missile Age
+(Santa Monica, CA: RAND Corporation, 1959),
+https://www.rand.org/pubs/commercial_books/CB137-1.html
+; Albert Wohlstetter, “The Delicate Balance of Terror,”
+Foreign Affairs
+, January 1959,
+https://www.foreignaffairs.com/articles/1959-01-01/delicate-balance-terror
+; and Glenn Snyder,
+Deterrence and Defense
+(Princeton, NJ: Princeton University Press, 2015).
+↩
+Stephen J. Cimballa, ed.,
+Strategic War Termination
+(New York: Praeger, 1986); Desmond Ball, “Can Nuclear War Be Controlled?”
+The Adelphi Papers
+21, no. 169 (1981),
+https://doi.org/10.1080/05679328108457384
+; Colin S. Gray, “Targeting Problems for a Central War,”
+Naval War College Review
+33 no. 1 (1980),
+https://www.jstor.org/stable/44641987
+; Michael E. Howard, “On Fighting a Nuclear War,”
+International Security
+5 no. 4 (1981),
+https://doi.org/10.2307/2538710
+; and Klaus Knorr, “Controlling Nuclear War,”
+International Security
+9, no. 4 (1985),
+https://doi.org/10.2307/2538542
+.
+↩
+Jacob Heim, Zachary Burdette, and Nathan Beauchamp-Mustafaga,
+U.S. Military Theories of Victory for a War with the People’s Republic of China
+(Santa Monica, CA: RAND, 2024),
+https://doi.org/10.7249/pea1743-1
+; Matthew Kroenig,
+Deliberate Nuclear Use in a War over Taiwan: Scenarios and Considerations for the United States
+(Washington, DC: Atlantic Council, 2023),
+http://www.atlanticcouncil.org/in-depth-research-reports
+; and Caitlin Talmadge, “Would China Go Nuclear? Assessing the Risk of Chinese Nuclear Escalation in a Conventional War with the United States,”
+International Security
+41, no. 4 (2017),
+https://doi.org/10.1162/isec_a_00274
+.
+↩
+Pan Zhenqiang, “China’s No First Use of Nuclear Weapons,” in
+Understanding Chinese Nuclear Thinking
+, eds. Li Bin and Tong Zhao (Washington, DC: Carnegie Endowment for International Peace, 2016), 51–55,
+https://carnegieendowment.org/files/ChineseNuclearThinking_Final.pdf
+.
+↩
+Military and Security Developments Involving the People’s Republic of China 2023
+(Washington, DC: U.S. Department of Defense, 2023), VIII,
+https://media.defense.gov/2023/oct/19/2003323409/-1/-1/1/2023-military-and-securitydevelopments-involving-the-peoples-republic-of-china.pdf
+; Anthony Capaccio, “China Has Put Longer-Range ICBMs on Its Nuclear Subs, US Says,” Bloomberg, November 18, 2022,
+https://www.bloomberg.com/news/articles/2022-11-18/us-says-china-s-subs-armed-with-longer-range-ballistic-missiles
+; and Decker Eveleth,
+People’s Liberation Army Rocket Force Order of Battle 2023
+(Monterey, CA: Middlebury Institute of International Studies at Monterey, 2023),
+https://nonproliferation.org/peoples-liberation-army-rocket-force-order-of-battle-2023
+.
+↩
+Military and Security Developments 2023
+, VIII.
+↩
+Military and Security Developments 2023
+, VII.
+↩
+Austin Long, “Myths or Moving Targets? Continuity and Change in China’s Nuclear Force,” War on the Rocks, December 4, 2020,
+https://warontherocks.com/2020/12/myths-or-moving-targets-continuity-and-change-in-chinas-nuclear-forces
+; John Erath, “The China Dilemma,” Center for Arms Control and Non-Proliferation, November 13, 2023,
+https://armscontrolcenter.org/the-china-dilemma
+.
+↩
+Military and Security Developments 2023
+, 112.
+↩
+The stability-instability paradox is the term for the uncomfortable realization that as the risks of nuclear conflict grow, the potential for conventional conflict decreases. The inverse is that as a nuclear war becomes less likely the risks of conventional conflict grow. For a solid primer, see: S. Paul Kapur, “Stability-Instability Paradox,” in
+The SAGE Encyclopedia of Political Behavior
+, ed. Fathali M. Moghaddam (Thousand Oaks, CA: SAGE Publications, Inc., 2017), 799–801,
+https://nps.edu/documents/105858948/106279825/Kapur_Sage+Encyclopedia_Stability-Instability_OCt17/c7952c37-2f5d-4462-9630-5bff04f6cd8f
+. It is important to recognize that while the PRC is beginning to approach U.S. and Russian numbers for deployed weapons, both nations retain much larger stockpiles of nondeployed weapons. According to the NNSA, the U.S. total stockpile included 3,750 warheads in 2020. Despite the United States (and Russia) retaining overall quantitative overmatch, the scale of the PRC’s expansion has propelled them into the first rank of global nuclear powers. It is also important to recognize that deterrence is not a simple counting game. For more on the U.S. stockpile, see U.S. National Nuclear Security Administration, “Transparency in the U.S. Nuclear Weapons Stockpile,” October 2021,
+https://www.energy.gov/nnsa/transparency-us-nuclear-weapons-stockpile
+.
+↩
+Military and Security Developments 2023
+, 66–67.
+↩
+The 2018 China Military Power Report (CMPR) indicated an intermediate range ballistic missile (IRBM) force of no more than 30 launchers. The 2023 CMPR indicated an IRBM force of 500 launchers. This is an increase of over 1,500 percent. See:
+Annual Report to Congress: Military and Security Developments Involving the People’s Republic of China 2018
+(Washington, DC: U.S. Department of Defense, 2018), 125,
+https://media.defense.gov/2018/aug/16/2001955282/-1/-1/1/2018-china-military-powerreport.pdf
+;
+Military and Security Developments 2023
+, 67.
+↩
+Military and Security Developments 2023
+, 112; Jeffrey Engstrom,
+Systems Confrontation and System Destruction Warfare: How the Chinese People’s Liberation Army Seeks to Wage Modern Warfare
+(Santa Monica, CA: RAND, 2018), 9–19.
+↩
+Stacie Pettyjohn and Hannah Dennis,
+Avoiding the Brink: Escalation Management in a War to Defend Taiwan
+(Washington, DC: Center for a New American Security, 2023), 7,
+https://s3.us-east-1.amazonaws.com/files.cnas.org/documents/CNASReport-Avoiding-the-Brink-Final.pdf
+.
+↩
+Pettyjohn and Dennis,
+Avoiding the Brink
+, 8.
+↩
+Pettyjohn and Dennis,
+Avoiding the Brink
+, 2.
+↩
+Pettyjohn and Dennis,
+Avoiding the Brink
+, 4.
+↩
+Thomas C. Schelling,
+The Strategy of Conflict
+, 1980 ed. (Cambridge, MA: Harvard University, 2005), 265–266; Pettyjohn and Dennis,
+Avoiding the Brink
+, 10–11.
+↩
+Andrew Metrick,
+Rolling the Iron Dice: The Increasing Chance of Conflict Protraction
+(Washington, DC: Center for a New American Security, 2023), 19,
+https://s3.us-east-1.amazonaws.com/files.cnas.org/documents/IronDice_ProtractedWar_Final_110723.pdf
+.
+↩
+The logic of asymmetric nuclear escalation is best described by Vipin Narang in
+Nuclear Strategy in the Modern Era
+. However, for the purposes of this study, asymmetric escalation is seen as a nuclear posture that is latently embedded within states with both an advanced conventional warfighting capability and an assured nuclear retaliation capability. The technological and operational foundations of these capabilities are highly synergistic. For more on nuclear posture and asymmetric escalation, see: Vipin Narang,
+Nuclear Strategy in the Modern Era: Regional Powers and International Conflict
+(Princeton, NJ: Princeton University Press, 2014).
+↩
+It should be noted that there is no good definition of a protracted conflict. This work accepts the definition in
+Rolling the Iron Dice
+of a conflict that lasts longer than leadership expects. The authors understand that 40 days into a conflict may not appear protracted, but certainly, large numbers of military capabilities have been exhausted by this point. More practically, from a game design perspective, generating a plausible scenario six months to a year into a high-intensity conflict between two nuclear-armed peer states is analytically fraught. By centering the protracted scenario relatively close to conflict onset, the authors were able to have an increased degree of analytic believability in the scenario, order of battle, and geopolitical state.
+↩
+Narang,
+Nuclear Strategy in the Modern Era
+, 14–23.
+↩
+Authors
+Andrew Metrick
+Former Fellow, Defense Program
+Andrew Metrick is a former fellow with the Defense Program at the Center for a New American Security (CNAS). His research focuses on the linkages between strategic objectives ...
+Philip Sheers
+Associate Fellow, Defense Program
+Philip Sheers is an associate fellow with the Defense Program at the Center for a New American Security (CNAS). His research covers escalation management and nuclear deterrenc...
+Stacie Pettyjohn
+Senior Fellow and Director, Defense Program, CNAS
+Stacie Pettyjohn is a senior fellow and director of the Defense Program at the Center for a New American Security (CNAS). She is a recognized expert in U.S. defense strategy, ...
+More from CNAS
+Reports
+Defense
+Avoiding the Brink
+The United States is entering an unprecedented multipolar nuclear era that is far more complex and challenging than that of the Cold War. This report examines potential trigge...
+By
+Stacie Pettyjohn                          &               Hannah Dennis
+February 22, 2023
+Reports
+Defense
+Rolling the Iron Dice
+Executive Summary 
+The prospect of a Sino-American war looms on the horizon. No scenario for such a conflict has garnered more interest than the potential invasion of Taiwan b...
+By
+Andrew Metrick
+November 9, 2023
+Reports
+Defense
+Dangerous Straits: Wargaming a Future Conflict over Taiwan
+Until recently, U.S. policymakers and subject matter experts have viewed the People’s Republic of China’s (PRC’s) forcible unification with Taiwan as a distant threat. But the...
+By
+Stacie Pettyjohn,                                        Becca Wasser                          &               Chris Dougherty
+June 15, 2022
+Reports
+Defense
+More than Half the Battle
+The DoD needs to embrace, rather than fight against, the changes in the character of warfare and learn to thrive within its chaos in ways that China and Russia may be unable t...
+By
+Chris Dougherty
+May 20, 2021
+View All Reports
+View All Articles & Multimedia
+Get the Latest from CNAS
+Sign up for weekly updates and analysis on the most important issues in U.S. national security.
+Thanks for subscribing!
+Subscribe
+This site is protected by reCAPTCHA and the Google
+Privacy Policy
+and
+Terms of Service
+apply.
+There was a problem submitting the form. Please double check your information and try again.

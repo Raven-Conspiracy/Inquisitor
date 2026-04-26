@@ -1,0 +1,60 @@
+The AN/ALQ-99 is an airborne electronic warfare system, previously found on the EA-6B Prowler and now utilised by the EA-18G Growler military aircraft. The ALQ-99E version of the system was carried on the EF-111A Raven aircraft as an escort or standoff jammer. The aging ALQ-99 is to be replaced by the Next Generation Jammer systems.
+In accordance with the Joint Electronics Type Designation System (JETDS), the "AN/ALQ-99" designation represents the 99th design of an Army-Navy airborne electronic device for special countermeasures equipment. The JETDS system also now is used to name all Department of Defense electronic systems.
+
+
+== Description ==
+
+The ALQ-99 is an airborne integrated jamming system designed and manufactured by EDO Corporation. Receiver equipment and antennas are mounted in a fin-tip pod while jamming transmitters and exciter equipment are located in under-wing pods. The system is capable of intercepting, automatically processing and jamming received radio frequency signals. The system receivers can also detect, identify and direction find those signals, providing signals intelligence (SIGINT) either automatically or manually.
+
+The AN/ALQ-99 was mounted on the US Navy and US Marine Corps EA-6B Prowler aircraft and the Navy's EA-18G Growler aircraft. It was mounted on US Air Force EF-111A Raven aircraft before these aircraft were retired from service by May 1998. EA-6B Prowlers were retired from active service following deployment in 2015.
+The AN/ALQ-99 has a maximum power output of 10.8 kW in its older versions and of 6.8 kW in its newer versions. It uses a ram air turbine to supply its own power.
+The AN/ALQ-99 is capable of jamming frequencies from 64 MHz (4.68 m) to 20 GHz (1.5 cm). Jamming frequency ranges are set forth in 10 bands:
+
+Band 1: 64–150 MHz (4.68–2.00 m)
+Band 2: 150–270 MHz (2.00–1.11 m)
+Band 3: 270–500 MHz (1.11–0.60 m)
+Band 4: 0.5–1 GHz (59.96–29.98 cm)
+Band 5/6: 1–2.5 GHz (29.98–11.99 cm)
+Band 7: 2.5–4 GHz (11.99–7.49 cm)
+Band 8: 4–7.8 GHz (7.49–3.84 cm)
+Band 9: 7.8–11 GHz (3.84–2.73 cm)
+Band 10: 11–20 GHz (2.73–1.50 cm)
+
+
+== History ==
+
+The AN/ALQ-99 has been used during the Vietnam War (1972–1973), Operation El Dorado Canyon (1986), Gulf War (1991), Operation Northern Watch (1992–2003), Operation Southern Watch (1997–2003), Operation Allied Force (1999), 2003 Second Gulf War, and Operation Odyssey Dawn (2011). The poor reliability of the ALQ-99 and frequent failures of the Built In Test (BIT) have caused crew to fly missions with undetected faults. The ALQ-99 also interferes with the aircraft's AESA radar, reduces top speed of the aircraft and imposes a high workload on the two-person crew when employed in the EA-18G Growler.
+
+
+== Variants ==
+AN/ALQ-99A – Entered service in 1972, covering bands 1, 2, 4, and 7.
+AN/ALQ-99B/C Expanded Capability (XCAP) – Introduced in 1973, expanding coverage to include bands 5, 6, 8, and 9.
+AN/ALQ-99D Improved Capability (ICAP I) – Introduced in 1975, adding coverage of band 3 and the AN/AYA-6B, an improved computer allowing faster response times and more automation of systems
+AN/ALQ-99E – The version mounted on the EF-111A, a heavily modified variant of the F-111A introduced in 1977. The jamming equipment was mostly stored on the underside of the aircraft in the bomb bay, while the receiving equipment was mounted to the vertical stabilizer, similar to the EA-6B. It featured a 70% commonality with the AN/ALQ-99F ICAP II, and introduced increased computer automation, allowing the jamming systems to be handled by a single crewmate, as opposed to a crew of 3 on the EA-6B. The ALQ-99E underwent several improvements through the late 1980s and early 1990s expanding coverage to include band 10, increasing computer memory and processing power, and the improved Universal Exciter.
+AN/ALQ-99F Improved Capability (ICAP II) – Introduced in 1980, the -99F featured the AN/AYK-14 computer, with 4 times the memory and increased processing power.
+AN/ALQ-99G ICAP II Block 82 – Introduced in 1982, allowing limited capability for the EA-6B to carry the AGM-88 HARM missile.
+AN/ALQ-99H ICAP II Block 86 – Introduced in 1988, improving the EA-6B's ability to carry the AGM-88 HARM missile.
+AN/ALQ-99I ICAP II Block 89 – Introduced in 1996, implementing the improved Universal Exciter and increased processing power.
+AN/ALQ-99J ICAP II Block 89A – Introduced in 2000, also included the Universal Exciter and expanded coverage to include band 10.
+AN/ALQ-99 ICAP III – Introduced in 2003, initially for the EA-6B, increased processing power and equipment standardization. Also carried by the E/A-18G Growler.
+
+
+== See also ==
+
+AN/ALQ-144
+AN/ALQ-172
+AN/ALQ-249
+Electronic countermeasures
+List of military electronics of the United States
+Similar US Military ECM systems
+
+
+== References ==
+
+
+== External links ==
+
+L3Harris – Our History – An L3Harris Timeline: acquired EDO in 2007
+Air Power Australia – The Anatomy of the TACJAMMER
+DTIC – Advanced Ram Air Driven Power and Cooling Unit (Archived)
+EDO Corp – EW Systems: EA-6B (Archived)

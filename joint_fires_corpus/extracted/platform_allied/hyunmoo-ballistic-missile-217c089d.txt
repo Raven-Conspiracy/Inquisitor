@@ -1,0 +1,80 @@
+Hyunmoo (Korean: 현무; Hanja: 玄武) is a series of South Korean ballistic and cruise missiles developed by the Agency for Defense Development (ADD) and manufactured by Hanwha and LIG Nex1.
+The Hyunmoo-1 was a variant of the NHK-1 Baekgom (Nike Hercules Korea-1 White Bear; Korean: NHK-1 백곰) missile whose propulsion engine was modified based on the technology transfer of the American Nike Hercules and has been deployed to the ROK Armed Forces from 1987. Later, Hyunmoo-1 was retired in 2018 due to the further development of the Hyunmoo-2 with a longer range.
+
+
+== Hyunmoo-1 ==
+
+Hyunmoo-1 is the first domestically-produced ballistic missile used by the South Korean Army. It was developed by the South Korean national Agency for Defense Development, and is based on the American 1960s Nike Hercules missile system; the US designates it as the Nike Hercules Korea (NHK-1). In 1986, South Korea succeeded in test-launching a missile with a current payload of 480 kg (1,060 lb) and a range of 180 km (110 mi).
+The Hyunmoo system, which means "guardian angel of the northern skies" in Korean, launches a missile from a mobile launcher which is fire-controlled from the missile battery's command and control vehicle. The Hyunmoo-1 missile, which is 12 m (39 ft) long and weighing 5 t (11,000 lb), is propelled by a two-stage solid rocket motor. It features an independent inertial guidance and control system which means it can reach any target in any weather conditions without further commands after launch.
+
+
+=== Early Missile Restrictions ===
+
+In 1990 the US withheld approval on a request by South Korea to start selling the Hyunmoo-1 abroad. The US only granted export approval after South Korea provided technical information on its Hyunmoo system, and agreed to not develop rockets with ranges of more than 180 km (110 mi). South Korea was permitted to produce a limited number of Hyunmoo missiles under US inspection until production ended.
+
+
+=== Specifications ===
+
+
+== Hyunmoo-2 ==
+The Hyunmoo-2A was the first of South Korea's attempts to develop an newer indigenous ballistic missile with an increased range, over Hyunmoo-1. Due to an agreement in 2001 with the MTCR (Missile Technology Control Regime), the missile's range was limited to 300 km. It is carried by a 4 axle transporter erector launcher (TEL).
+Eventually the missile range was increased to 800 km which spurred on the development of Hyunmoo-2B and Hyunmoo-2C.
+South Korea released the upgraded version of Hyunmoo-2A, named Hyunmoo-2B, which was put into service in late 2009. This ballistic missile had an increased range of 500 km. If launched from the central region of South Korea, all of North Korean territory is under a 550-kilometer striking range. Its accuracy is 30 m circular error probable.
+The upgraded version of Hyunmoo-2B, named Hyunmoo-2C, was unveiled in 2017. The ballistic missile has an increased range of 800 km, but with a warhead weight reduced by half, and uses a different type of TEL with 5 axles (K501), and launch canister that is wider and longer, suggesting increased weight. The warhead section features maneuvering fins (similar to those on Pershing II), which suggests a maneuverable reentry vehicle or some type of terminal guidance for increased accuracy. It has extreme accuracy (circular error probable of 1–5 m), ideal as a bunker buster. If fired from southernmost Jeju Island, it can still reach all of North Korea but will be outside the range of North Korean Scud missiles.
+The missile is suspected to be a derivative of the Russian Iskander missile. From video and pictures published by the South Korean military and media, the Hyunmoo-II missile's head is similar to the Russian Iskander missile and the double cone structure of China's M20 missile, missile shape and Iskander missile is very similar. Even the tail is the Iskander-style truncated delta wing. There is precedent for cooperation on missile technology between Russia and South Korea — the South Korean  KM-SAM air-defence system is based on the Russian 9M96E missile developed for the S-400 Triumf (NATO reporting name: SA-21 "Growler") system — but there are also resemblances with the American ATACMS and Israeli LORA missiles.
+
+
+=== Hyunmoo 4-4 ===
+
+On 7 September 2021, South Korea tested a submarine-launched ballistic missile (SLBM) from a Dosan Ahn Changho-class submarine, making it the third country to develop a conventionally-armed SLBM capability on a conventionally powered (diesel-electric) submarine after the Soviet Union (Golf-class submarine) and North Korea (Sinpo-class submarine). The missile was the Hyunmoo 4-4, a variant of the Hyunmoo-2B with a 500 km range.
+
+
+== Hyunmoo-3 ==
+
+In 2006, the South Korean defense ministry released a statement that it had been testing several cruise missiles under the series of Hyunmoo-3 which were similar to the American Tomahawk or the Russian Kalibr. The first official model, Hyunmoo-3B, was unveiled in 2009 with a maximum range of 1,000 km meaning it could hit any part of North Korea as well as some parts of China and Tokyo.  Unlike Hyunmoo-2 missiles, the Hyunmoo-3 missiles would use cruise missile technology. It uses the same four axle TEL like the Hyunmoo 2.
+The Hyunmoo-3C missile's deployment is still unknown. The missile would have an increased maximum range of 1,500 km.
+Hyunmoo-3D/Hyunmoo-4 are under speculation however work on such a missile is unlikely to occur any time soon due to regulations on missile range. Some cite its deployment for the late 2030s, however, such a missile is still a grey area to the public.
+
+
+== Hyunmoo-4 ==
+While the South Korean military's missiles are currently capable of destroying structures at surface level, it says it needs heavier warheads to be able to destroy North Korea's underground facilities and bunkers. The new Hyunmoo IV ballistic missile is fitted with a new warhead capable of destroying North Korea's underground military facilities, command centers and its leadership and is probably a variant of the extended-range Hyunmoo-2C missile currently under development. Seoul reached a de facto deal with the U.S. in September 2017 to revise their missile development guidelines so that it can double the maximum payload of its ballistic missiles. Two Hyunmoo-4 missiles were test-fired in April 2020, with one of them misfiring. The Hyunmoo-4 has a range of 800 km and an increased payload of 2,000 kg (4,400 lb).
+
+
+== Hyunmoo-5 ==
+On 1 October 2024, the ROK Armed Forces unveiled the Transporter Erector Launcher for the Hyunmoo-5 surface-to-surface ballistic missile with a range of 3,000 kilometers at the 76th anniversary Armed Forces Day ceremony. The missile itself was not unveiled, only its launch canister and vehicle were displayed. According to data released through the South Korean National Defense Committee, the missile weighs 36 tons and has a warhead payload of 8 tons, which is the same weight as the LGM-30 Minuteman III, a 36-ton Intercontinental ballistic missile (ICBM) developed in the United States, and was developed as a bunker-buster missile for striking underground shafts in the North Korean military.
+A non-nuclear ballistic missile equipped with an 8 ton warhead is unprecedented; other modern conventional warheads generally are less than one ton. It probably includes a heavy dense metal penetrator or tandem charges for deeply buried bunker penetration. Until the 2021 abolition of the South Korea Ballistic Missile Range Guidelines, such a missile would not have been permitted.
+It is thought to be powered by a two-stage solid-fuel engine, with an estimated  length of about 16 m and a diameter of 1.6 m. It uses a nine-axle K901 Transporter Erector Launcher vehicle produced by Kia Motors. The warhead can destroy structures deeper than 100 meters below the surface, missile speed is close to Mach 10 in the descending phase.
+South Korea revealed that the missiles will be deployed by the end of 2025. The range of this missile with an 8 ton warhead payload is reported to be up to 3500km, which could be extended to over 5500km using a different warhead under 1 ton.
+
+
+== Variants ==
+
+
+== Notable events ==
+On 23 June 2017, South Korea unveiled footage of a successful missile test launch of a Hyunmoo-2C missile. Unlike its predecessor, which had a maximum range of 500 km, the Hyunmoo-2C has a maximum range of 800 km and thus is capable of hitting any part of North Korea. South Korean President Moon Jae-in was shown to be observing the missile launch at the time.
+On 4 July 2017, South Korea carried out a joint ballistic missile drill with the U.S. where they launched 2 Hyunmoo-2B missiles and 2 ATACMS missiles. The drill was seen as a response to North Korea's supposed successful test launch of an ICBM.
+On 4 September 2017, South Korea President Moon Jae-In & U.S. President Trump agreed to lift the 500 kg limit on South Korea's missile warheads. This would allow South Korea to develop and deploy missiles with a warhead weighing up to 2,000 kg. This would enable South Korea to target and destroy virtually all of North Korea's underground facilities and hardened bunkers.
+On 6 September 2017, South Korea's MoD announced the upcoming development of a new missile dubbed the "Frankenmissile." The Hyunmoo missile variant would carry a warhead weighing up to 1,000 kg and would be used to target key North Korean sites both above and underground.
+On 15 September 2017, in response to a North Korean missile test, South Korea fired two Hyunmoo-2A missiles, one of which failed and fell into the East Sea.
+During U.S. President Donald Trump's visit to Seoul in 2017, the U.S. and South Korea agreed to eliminate any limit on South Korean missiles.
+During a military parade North Korea displayed a short range ballistic missile similar in design to the Hyunmoo-2 on 8 February 2018 that is thought to have been tested in August 2017, according to South Korean military source that disclosed details of the test to the Chosun Ilbo. Designated as KN-23 by the U.S. DoD, the missile was test fired on 4 May and 9 May 2019 where two missiles were launched in each of the tests. In 2023, the official name of KN-23 was revealed as Hwasong-11A.
+On 5 October 2022, a Hyunmoo-2C missile fired in response to a North Korean ICBM test malfunctioned and crashed into a golf course in Gangneung. No people were harmed by the incident.
+
+
+== See also ==
+Korean People's Army Strategic Force
+South Korea Ballistic Missile Range Guidelines
+
+
+== References ==
+
+
+== External links ==
+
+Hyunmoo miniature model
+Hyunmoo launch picture
+Article on "Hyunmoo."
+Hyumoo pictures at Globalsecurity.org
+S.Korea's Cruise Missile Program Revealed
+Seoul to Boost Defense Against N.Korean Nukes, Missiles
+Design Characteristics of South Korea's Ballistic and Cruise Missiles

@@ -1,0 +1,1496 @@
+Defense Department Intelligence and Security Doctrine
+FAS
+|
+Intelligence
+|
+Documents
+||
+Defense Department
+Intelligence and Security
+Doctrine,  Directives and Instructions
+Doctrine is the fundamental principles by which the military forces or
+   elements thereof guide their actions in support of national
+   objectives.  It is authoritative but requires judgment in
+   application.  (Joint Pub 1-02)
+The joint publication hierarchy provides a framework for joint doctrine and joint
+tactics, techniques, and procedures. The organizational structure follows traditional
+joint staff lines of responsibility to the maximum degree possible. Each series provides
+for a keystone manual as the first publication in the series. The keystone manuals
+constitute the doctrinal foundation of the series. There are a number of online sources for joint doctrine and related publications.
+The Department of Defense (DoD) issues a large number of
+Directives and Instructions
+. The purpose of these issuances varies; however, all of them are used to internally manage the business of the DoD.
+DoD Directives
+are broad DoD policy documents containing what is
+required by legislation, the President, or the Secretary of Defense
+to initiate, govern, or regulate actions or conduct by the DoD
+Components within their specific areas of responsibilities.  DoD
+Directives establish or describe policy, programs, and
+organizations; define missions; provide authority; and assign
+responsibilities.
+DoD Instructions
+implement the policy, or
+prescribes the manner or a specific plan or action for carrying out
+the policy, operating a program or activity, and assigning
+responsibilities.
+The DoD Directives and Instructions are numbered according to the following eight
+major subject groups:
+1000 - Manpower and Personnel (Civilian, Military, and Reserve)
+2000 - International and Foreign Affairs
+3000 - Plans and Operations, Research and Development,
+Intelligence, and Computer Language
+4000 - Logistics, Natural Resources, and Environment
+5000 - Acquisition and Administrative Management, Organizational
+Charters, Security, and Public and Legislative Affairs
+6000 - Health
+7000 - Budget, Finance, Audits, and Information Control
+8000 - Information Management
+JCS Joint Publications
+United States Government Glossary of Interagency and Associated Terms
+, July 2017
+JP 1, Doctrine for the Armed Forces of the United States
+25 March 2013, Incorporating Change 1,
+12 July 2017
+JP 1-0, Joint Personnel Support
+01 December 2020
+Department of Defense Dictionary of Military and Associated Terms
+as of November 2021
+JP 1-05, Religious Affairs in Joint Operations
+20 November 2013
+JP 2-0, Joint Intelligence,
+22 October 2013
+JP 2-01, Joint and National Intelligence Support to Military Operations
+, 5 July 2017
+JP 2-01.1, Joint Tactics, Techniques, and Procedures for Intelligence Support to Targeting
+, 9 January 2003
+JP 2-01.2, Joint Doctrine and Tactics, Techniques, and Procedures for Counterintelligence Support to Operations
+JP 2-01.3, Joint Intelligence Preparation of the Operational Environment
+, 21 May 2014
+JP 2-02, National Intelligence Support to Joint Operations
+,  28 September 1998
+JP 2-03, Geospatial Intelligence in Joint Operations
+, 5 July 2017
+JP 3-0, Joint Operations
+, 17 January 2017, Incorporating Change 1, 22 October 2018
+JP 3-01, Countering Air and Missile Threats
+, 21 April 2017
+JP 3-01.1, Aerospace Defense of North America
+, 4 November 1996
+JP 3-02, Amphibious Operations
+, 4 January 2019
+JP 3-03, Joint Interdiction
+, 9 September 2016
+JP 3-04,  Joint Shipboard Helicopter and Tiltrotor Aircraft Operations
+, 06 December 2012
+JP 3-05.  Special Operations
+, 16 July 2014
+JP 3-06.  Joint Urban Operations
+, 20 November 2013
+JP 3-07.  Stability
+, 03 August 2016
+JP 3-07.2, Joint Tactics, Techniques, and Procedures for Antiterrorism
+, 17 March 1998
+APPENDIX J THREATCON SYSTEM
+JP 3-07.3, Peace Operations
+, 01 March 2018 (via
+Public Intelligence
+)
+JP 3-07.4, Counterdrug Operations
+, 5 February 2019
+JP 3-08, Interorganizational Cooperation
+, 12 October 2016
+JP 3-09, Joint Fire Support
+, 10 April 2019
+JP 3-09.3, Close Air Support
+, 25 November 2014
+JP 3-10, Joint Security Operations in Theater
+, 25 July 2019
+JP 3-11, Operations in Chemical, Biological, Radiological, and Nuclear Environments
+, 29 October 2018
+JP 3-12, Cyberspace Operations
+, 8 June 2018
+JP 3-13, Information Operations
+, 27 November 2012, incorporating Change 1, 20 November 2014
+JP 3-13.1, Electronic Warfare
+, 08 February 2012
+JP 3-13.2, Psychological Operations
+, 7 January 2010
+JP 3-13.3, Operations Security
+, 06 January 2016 (via
+Public Intelligence
+)
+JP 3-13.4, Military Deception
+, 14 February 2017 (
+2012 edition
+)
+JP 3-14, Space Operations
+, 10 April 2018, with change 1, 26 October 2020
+JP 3-15, Barriers, Obstacles, and Mine Warfare for Joint Operations
+, 06 September 2016
+JP 3-15.1, Counter-Improvised Explosive Device Operations, 09 January 2012
+JP 3-16, Multinational Operations
+, 01 March 2019
+JP 3-17, Air Mobility Operations
+, 5 February 2019
+JP 3-18, Joint Forcible Entry Operations
+, 11 May 2017, Incorporating Change 1
+9 January 2018
+JP 3-20, Security Cooperation
+, 23 May 2017
+JP 3-22, Foreign Internal Defense
+, 17 August 2018
+JP 3-24, Counterinsurgency
+, 25 April 2018
+JP 3-25, Countering Threat Networks
+, 21 December 2016
+JP 3-26, Counterterrorism
+24 October 2014
+JP 3-27, Homeland Defense
+10 April 2018
+JP 3-28, Defense Support of Civil Authorities
+29 October 2018
+JP 3-29, Foreign Humanitarian Assistance
+14 May 2019
+JP 3-30, Joint Air Operations
+25 July 2019
+JP 3-31, Joint Land Operations
+, 03 October 2019
+JP 3-32, Joint Maritime Operations
+, 8 June 2018, Incorporating Change 1, 20 September 2021
+JP 3-33, Joint Task Force Headquarters
+, 30 July 2012
+JP 3-34, Joint Engineer Operations
+, 06 January 2016
+JP 3-35, Deployment and Redeployment Operations
+, 10 January 2018
+JP 3-40, Joint Countering Weapons of Mass Destruction
+, 27 November 2019
+JP 3-41, Chemical, Biological, Radiological, and Nuclear Response
+, 09 September 2016
+JP 3-50, Personnel Recovery
+, 20 December 2011
+JP 3-51, Joint Doctrine for Electronic Warfare
+, 7 April 2000
+JP 3-52, Joint Airspace Control
+, 13 November 2014
+JP 3-53, Doctrine for Joint Psychological Operations
+, 5 September 2003
+Joint Pub No. 3-55 - Reconnaissance,  Surveillance, and Target Acq Sppt for Joint Op
+April 14, 1993
+Joint Pub No. 3-55.1 - JTTP for Unmanned  Aerial Vehicles
+27 August 1993
+Joint Pub No. 3-56.1 - Command and Control  for Joint Air Operations
+14 Nov 1994
+JP 3-57, Civil-Military Operations
+, 9 July 2018
+JP 3-59, Meteorological and Oceanographic Operations
+, 10 January 2018
+JP 3-60, Joint Targeting
+, 31 January 2013
+JP 3-61, Public Affairs
+17 November 2015, Incorporating Change 1, 19 August 2016
+JP 3-63, Detainee Operations
+, 13 November 2014
+JP 3-68, Noncombatant Evacuation Operations
+, 18 November 2015
+JP 3-72, Joint Nuclear Operations
+, 17 April 2020 (
+2019 edition
+)
+JP 3-80, Resource Management
+, 11 January 2016
+JP 3-84, Legal Support
+, 02 August 2016
+JP 3-85, Joint Electromagnetic Spectrum Operations
+, 22 May 2020
+JP 4-0, Joint Logistics
+4 February 2019, Incorporating Change 1, 8 May 2019
+JP 4-01, The Defense Transportation System
+18 July 2017
+JP 4-02, Joint Health Services
+17 December 2017, incorporating Change 1, 28 September 2018
+JP 4-03, Joint Bulk Petroleum and Water Doctrine
+11 January 2016
+JP 4-04, Contingency Basing
+4 January 2019
+JP 4-05, Joint Mobilization Planning
+23 October 2018
+JP 4-06, Mortuary Affairs
+12 October 2011
+JP 4-08, Logistics in Support of Multinational Operations
+5 July 2017
+JP 4-09, Distribution Operations
+05 February 2010
+JP 4-10, Operational Contract Support
+04 March 2019
+JP 5-0, Joint Planning
+, 01 December 2020
+JP 6-0, Joint Communications System
+10 June 2015, Incorporating Change 1, 04 October 2019
+JP 6-01, Joint Electromagnetic Spectrum Management Operations
+20 March 2012
+Military Tribunals
+Regulation for Trial by Military Commission (2011 Edition)
+, November 2011
+Manual for Military Commissions (2010 Edition)
+, April 2010
+Military Commission Instructions
+Instruction No. 1: Guidance on Military Commission Instructions themselves
+Instruction No. 2: Crimes and Elements for Trials by Military Commission
+Instruction No. 3: Responsibilities of the Chief Prosecutor, Prosecutors, and Assistant Prosecutors
+Instruction No. 4: Responsibilities of the Chief Defense Counsel, Detailed Defense Counsel, and Civilian Defense Counsel
+Instruction No. 5: Qualification of Civilian Defense Counsel
+Instruction No. 6: Reporting Relationships for Military Commission Personnel
+Instruction No. 7: Sentencing
+Instruction No. 8: Administrative Procedures
+Instruction No. 9: Review of Military Commission Proceedings
+Military Commission Instruction
+(draft), February 28, 2003
+Military Commission Orders
+Order No. 1: Procedures for Trials by Military Commissions of Certain Non-United
+States Citizens in the War Against Terrorism
+Order No. 2: Designation of Deputy Secretary of Defense as Appointing Authority
+Order No. 3: Special Administrative Measures for Certain Communications Subject to Monitoring
+Order No. 4: Designation of Deputy Appointing Authority
+Order No. 5: Designation of Appointing Authority
+Joint Chiefs of Staff Policy Documents
+Joint Strategy for Biological Warfare Defense
+, Chairman of the Joint Chiefs of Staff Instruction 3112.01B, 2 November 2012
+Defense Response to Chemical, Biological, Radiological, and Nuclear (CBRN) Incidents in the Homeland
+, Chairman of the Joint Chiefs of Staff Instruction CJCSI 3125.01D, 07 May 2015
+Military Support to Foreign Consequence Management Operations for Chemical, Biological, Radiological, and Nuclear Incidents
+, Chairman of the Joint Chiefs of Staff Instruction 3214.01E, 28 May 2015
+Program for Detainee Operations
+, Chairman of the Joint Chiefs of Staff Instruction 3290.01B, 1 June 2012, Change 1, 17 February 2015
+Joint Military Intelligence Requirements Certification
+, Chairman of the Joint Chiefs of Staff Instruction 3312.01A, 23 February 2007
+Target Development Standards
+, Chairman of the Joint Chiefs of Staff Instruction 3370.01B, 6 May 2016
+Delegation of Authority to Commanders of Combatant Commands to Disclose Classified Military Information to Foreign Governments and International Organizations
+, Chairman of the Joint Chiefs of Staff Instruction 5221.01D, 1 May 2013
+Standardization of Military and Associated Terminology
+, Chairman of the Joint Chiefs of Staff Instruction 5705.01F, 01 May 2017
+Information Assurance (IA) and Support to Computer Network Defense (CND)
+, Chairman of the Joint Chiefs of Staff Instruction 6510.01F, 09 February 2011
+Code Word, Nickname and Exercise Term Report
+, Chairman of the Joint Chiefs of Staff Manual 3150.29A, 23 April 1998
+Preservation of Historical Records of Operations Enduring Freedom and Noble Eagle and Pertaining to Iraq
+, Chairman of the Joint Chiefs of Staff Notice 5760, 7 September 2006, current as of 31 January 2008
+Joint DoDIIS/Cryptologic SCI Information Systems Security Standards
+, rev. 2, 31 March 2001 [
+MS Word
+]
+DOD Directives
+DODD 1300.22
+Mortuary Affairs Policy, October 30, 2015, Incorporating Change 1, December 8, 2017
+DODD 1300.30
+DoD Support of State, Official, Special Military, and First lady Funerals, August 24, 2021, Incorporating Change 1, February 16, 2023
+DODD 1322.18
+Military Training, January 13, 2009, Incorporating Change 1, Effective February 23, 2017
+DODD 1344.10
+Political Activities by Members of the Armed Forces, February 19, 2008
+DODD 1400.16
+Inter-departmental Civilian Personnel Administration Support, October 30, 1970
+DODD 1400.34
+DoD Civilian Intelligence Personnel Management System (CIPMS)  November 16, 1994
+DODD 1400.35
+Defense Civilian Intelligence Personnel System (DCIPS) September 24, 2007, incorporating change 1, September 1, 2009
+DODD 1442.11
+Political Activity Rules for DoD Political Appointees, November 8, 2021
+DODD 2000.12
+DoD Antiterrorism (AT) Program, August 18, 2003, current as of December 13, 2007
+DODD 2000.13
+Civil Affairs, March 11, 2014, Incorporating Change 1, May 15, 2017
+DODD 2005.02E
+Maritime Domain Awareness (MDA) in the Department of Defense, March 31, 2015, Incorporating Change 1, May 12, 2017
+DODD 2060.01
+Implementation of, and Compliance with, Arms Control Agreements, June 23, 2020
+DODD 2060.02
+DoD Countering Weapons of Mass Destruction (WMD) Policy, January 27, 2017
+DODD S-2060.04 DoD Support to the National Technical Nuclear Forensics (NTNF) Program (U), April 1, 2009
+DODD 2167A, "Defense System Software Development."
+DODD 2310.01E
+DoD Detainee Program, March 15, 2022
+DODD 2310.07
+Past Conflict Personnel Accounting Policy, April 12, 2017, Incorporating Change 1, April 23, 2018
+DoDD 2311.01
+DoD Law of War Program, July 2, 2020
+DoDD 3000.03E
+DoD Executive Agent for Non-Lethal Weapons (NLW), and NLW Policy, April 25, 2013, Incorporating Change 1, September 27, 2017
+DoDD 3000.05
+Stabilization, 13 December 2018
+DoDD 3000.06
+Combat Support Agencies (CSAs), June 27, 2013, Incorporating Change 1, Effective July 8, 2016
+DoDD 3000.07
+Irregular Warfare (IW), 28 August 2014, Incorporating Change 1, May 12, 2017
+DoDD 3000.09
+Autonomy in Weapon Systems, January 25, 2023
+DoDD 3000.10
+Contingency Basing Outside the United States, August 27, 2021
+DoDD 3002.01
+Personnel Recovery in the Department of Defense, 16 April 2009, Incorporating Change 2, May 24, 2017
+DoDD 3020.04
+Order of Succession Pursuant to Executive Order 13533 and the Federal Vacancies Reform Act of 1998, August 25, 2010
+DoDD 3020.40
+Mission Assurance (MA), November 29, 2016, Change 1, effective September 11, 2018
+DoDD 3020.44
+Defense Crisis Management, 4 June 2007, Incorporating Change 2, Effective August 22, 2019
+DoD Manual 3025.01, Volume 1
+Defense Support of Civil Authorities: Overview, August 11, 2016, including Change 1, April 13, 2017
+DoD Manual 3025.01, Volume 2
+Defense Support of Civil Authorities: Incident Response, August 11, 2016, including Change 1, April 12, 2017
+DoD Manual 3025.01, Volume 3
+Defense Support of Civil Authorities: Pre-Planned DoD Support of Law Enforcement Agencies, Special Events, Community Engagement, and Other Non-DoD Entities, August 11, 2016, including Change 1, April 13, 2017
+DoDD 3025.13
+Employment of DoD Capabilities in Support of the U.S. Secret Service (USSS), Department of Homeland Security (DHS), October 8, 2010
+DoDD 3025.14
+Evacuation of U.S. Citizens and Designated Aliens from Threatened Areas Abroad, February 26, 2013, Incorporating Change 1, November 30, 2017
+DoDD 3025.18
+Defense Support of Civil Authorities (DSCA), December 29, 2010, Incorporating Change 2, Effective March 19, 2018
+DoDD 3100.10
+Space Policy, August 30, 2022, Change 1, October 15, 2024
+DoDD 3115.09
+DoD Intelligence Interrogations, Detainee Debriefings, and Tactical Questioning, October 11, 2012, Incorporating Change 3 Effective October 29, 2020
+DoDD 3115.13
+DoD Support to the High-Value Detainee Interrogation Group (HIG), December 9, 2010, Incorporating Change 3, August 26, 2020
+DoDD 3115.16
+The Defense Warning Network, December 5, 2013, Incorporating Change 2, August 10, 2020
+DoDD 3115.18
+DoD Access to and Use of Publicly Available Information (PAI), June 11, 2019, Incorporating Change 1, August 20, 2020
+DODD 3150.06
+U.S. Nuclear Command and Control System Support Staff (NSS), May 24, 2013
+DODD 3150.08
+DoD Response to U.S. Nuclear Weapon and Radiological Material Incidents, 27 November 2020
+DODD 3150.5
+DoD Response to Improvised Nuclear Device (IND) Incidents, 24 March 1987
+DODD 3160.01
+Homeland Defense Activities Conducted by the National Guard, 25 August 2008, Incorporating Change 2, June 6, 2017
+DODD 3222.04
+Electronic Warfare (EW) Policy, March 26, 2014, Incorporating Change 1, Effective May 10, 2017
+DODD 3300.03
+DoD Document and Media Exploitation (DOMEX), January 11, 2011, Incorporating Change 2, Effective November 2, 2020
+DODD 3305.5
+: General Defense Intelligence Program (GDIP) Management, May 9, 1986
+DODD 3310.1 International Intelligence Agreements
+DODD 3325.1 Foreign Materiel Program [SECRET] 18 September 1986
+DODD S-3325.02 Transfer of National Intelligence Collection Tasking Authority (NICTA), March 16, 2009
+DODD 3600.01
+, Information Operations (IO), May 2, 2013
+DODD 3610.01
+, Electromagnetic Spectrum Enterprise Policy, September 4, 2020
+DODD 3700.01
+, DoD Command and Control Enabling Capabilities, October 22, 2014, Incorporating Change 2, April 28, 2022
+DODD 3801.02
+, North Atlantic Treaty Organization (NATO) Special Operations Headquarters (NSHQ), May 28, 2019
+DODD 4180.01
+DoD Energy Policy, April 16, 2014
+DODD 4500.54E
+DoD Foreign Clearance Program (FCP), May 31, 2022
+DODD 4630.5
+Compatibility, Interoperability, and Integration of Command,
+Control, Communications, and Intelligence (C3I) Systems, November 12,
+1992
+DODD 4640.6
+Communications Security Telephone Monitoring and Recording,
+June 26, 1981
+DODD 4650.1
+Policy for Management and Use of the Electromagnetic Spectrum, June 8, 2004
+DODD 4650.05
+Positioning, Navigation, and Timing (PNT), June 9, 2016, Incorporating Change 2, April 8, 2021
+DODD 4715.21
+Climate Change Adaptation and Resilience, January 14, 2016, Incorporating Change 2, January 16, 2025
+DODD 5000.01
+The Defense Acquisition System, September 9, 2020, with Change 1, effective July 28, 2022
+DODD 5010.10
+Intelligence Career Development Program, August 9, 1972
+DOD 5010.38
+Management Control (MC) Program, August 26, 1996
+DODD 5025.1
+Department of Defense Directives System, 27 July 2000
+DOD 5030.19
+DoD Responsibilities on Federal Aviation, September 13, 2013
+DOD5030.61
+DoD Airworthiness Policy, May 24, 2013, Incorporating Change 2, August 24, 2017
+DODD 5100.01
+Functions of the Department of Defense and Its Major Components, 21 December 2010, Incorporating Change 1, September 17, 2020
+DODD 5100.19 Implementation of National Security Council Intelligence Directive No. 7 [SECRET] 19 March 1959
+DODD 5100.20
+National Security Agency / Central Security Service, 26 January 2010
+DODD 5100.23
+: Administrative Arrangements for the National Security Agency, May 17, 1967, thru Ch 2, November 1, 1985
+DODD 5100.46
+Foreign Disaster Relief (FDR), July 6, 2012
+DODD 5100.47
+: National Cryptologic School, April 30, 1965
+DODD 5100.55
+United States Security Authority for North Atlantic Treaty Organization Affairs (USSAN), February 27, 2006
+DODD 5100.78
+:  United States Port Security Program, August 25, 1986
+DODD 5100.85
+Intelligence Systems Board (ISB) June 27, 1995
+DODD 5100.96
+DoD Space Enterprise Governance and Principal DoD Space Advisor (PDSA), June 9, 2017
+DODD 5101.02E
+DoD Executive Agent (EA) for Space, January 25, 2013
+DODD 5101.17E
+Roles and Responsibilities Associated with the Recovery of Chemical Warfare Material, May 11, 2016, Incorporating Change 3, May 9, 2022
+DODD 5101.20E
+DoD Biological Select Agents and Toxins (BSAT) Biosafety and Biosecurity Program, January 25, 2019
+DODD 5101.21E
+DoD Executive Agent for Unified Platform and Joint Cyber Command and Control (JCC2), June 4, 2020
+DODD 5105.02
+Deputy Secretary of Defense, February 11, 2021
+DODD 5105.07
+Director, Defense Digital Service (DDS), January 5, 2017, change 1, effective December 4, 2019
+DODD 5105.20
+Defense Representation, United States Mission to the North Atlantic Treaty Organization (USNATO) and Europe, June 27, 2013, Incorporating Change 1, Effective May 14, 2020
+DODD 5105.21
+Defense Intelligence Agency, January 25, 2023
+DODD 5105.23
+National Reconnaissance Office (NRO), June 28, 2011, Incorporating Change 1, Effective October 29, 2015
+DODD 5105.42
+Defense Counterintelligence and Security Agency, January 16, 2025
+DODD 5105.56
+: Central Imagery Office, May 6, 1992 [reissued 23 October 1995, rescinded October 1996]
+DODD 5105.60
+National Geospatial-Intelligence Agency (NGA), July 29, 2009
+DODD 5105.62
+Defense Threat Reduction Agency (DTRA), April 24, 2013, Incorporating Change 1, November 10, 2015
+DODD 5105.64
+Defense Contract Management Agency (DCMA), January 10, 2013
+DODD 5105.65
+Defense Security Cooperation Agency (DSCA), October 26, 2012
+DODD 5105.67
+Department of Defense Counterintelligence Field Activity (DoD CIFA), 19 February 2002
+DODD 5105.68
+Pentagon Force Protection Agency (PFPA), 5 December 2013, Incorporating Change 2, Effective May 22, 2019
+DODD 5105.72
+Defense Technology Security Administration (DTSA), April 26, 2016
+DODD 5105.73
+Defense Technical Information Center (DTIC), May 2, 2013, Incorporating Change 1, October 25, 2017
+DODD 5105.74
+Defense Media Activity, September 13, 2023
+DODD 5105.75
+Department of Defense Operations at U.S. Embassies, December 21, 2007
+DODD 5105.76
+Planning for Presidential Transitions and the Transition of Political Appointees and Other Officials, August 30, 2022, Change 1 effective February 3, 2023
+DODD 5105.85
+Defense Innovation Unit (DIU), July 5, 2016, Incorporating Change 1, November 23, 2018
+DODD 5105.86
+Director, Strategic Capabilities Office (SCO), November 14, 2016
+DODD 5105.87
+Director, Defense Digital Service (DDS), January 5, 2017
+DODD O-5105.88
+OSD Red Team (redacted), November 25, 2020
+DODD 5106.01
+Inspector General of the Department of Defense (IG DoD), April 20, 2012, Incorporating Change 2, Effective May 29, 2020
+DODD 5106.04
+Defense Inspectors General, May 22, 2014, Incorporating Change 1, Effective May 14, 2020
+DODD 5110.10
+Defense POW/MIA Accounting Agency (DPAA), January 13, 2017
+DODD 5111.01
+Under Secretary of Defense for Policy (USD(P)), June 23, 2020
+DODD 5111.03
+Deputy Under Secretary of Defense for Policy (DUSD(P)), 25 January 2017, Incorporating Change 1, April 14, 2020
+DODD 5111.07
+Assistant Secretary of Defense for International Security Affairs (ASD(ISA)), 7 November 2008
+DODD 5111.10
+Assistant Secretary of Defense for Special Operations and Low-Intensity
+Conflict, May 5, 2021
+DODD 5111.11
+Director of Net Assessment, April 14, 2020
+DODD 5111.13
+Assistant Secretary of Defense for Homeland Defense and Global Security (ASD(HD&GS)), March 23, 2018
+DODD 5111.14
+Assistant Secretary of Defense for International Security Policy (ASD(ISP)), 22 March 2005
+DODD 5111.17
+Assistant Secretary of Defense for Asian and Pacific Security Affairs (ASD(APSA)), 29 October 2008
+DODD 5111.18
+Assistant Secretary of Defense for Global Strategic Affairs (ASD(GSA)), 13 June 2011
+DODD 5111.21
+Arms Transfer and Technology Release Senior Steering Group and Technology Security and Foreign Disclosure Office, October 14, 2014, Incorporating Change 1, Effective July 14, 2020
+DODD 5122.05
+Assistant Secretary of Defense for Public Affairs (ASD(PA)), August 7, 2017
+DODD 5132.03
+Security Cooperation, January 16, 2025
+DODD 5134.08
+Assistant Secretary of Defense for Nuclear, Chemical and Biological Defense Programs (ASD(NCB)), January 14, 2009, Incorporating Change 3, Effective March 27, 2019
+DODD 5134.10
+Defense Advanced Research Projects Agency (DARPA), May 7, 2013, Incorporating Change 1, September 22, 2017
+DODD 5134.14
+Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics (PDUSD(AT&L)), December 29, 2010, incorporating Change 1, May 4, 2011
+DODD 5134.09
+Missile Defense Agency (MDA), September 17, 2009
+DODD 5135.02
+Under Secretary of Defense for Acquisition and Sustainment (USD(A&S)), July 15, 2020
+DODD 5135.03
+Deputy Under Secretary of Defense for Acquisition and Sustainment, December 10, 2020
+DODD 5137.02
+Under Secretary of Defense for Research and Engineering (USD(R&E)), July 15, 2020
+DODD 5137.03
+Deputy Under Secretary of Defense for Research and Engineering, December 10, 2020
+DODD 5143.01
+Under Secretary of Defense for Intelligence and Security (USD(I&S)), October 24, 2014, Incorporating Change 2, April 6, 2020
+DODD 5143.02
+Deputy Under Secretary of Defense for Intelligence and Security (DUSD(I&S)), January 29, 2020
+DODD 5144.02
+DoD Chief Information Officer (DoD CIO), November 21, 2014, Incorporating Change 1, September 19, 2017
+DODD 5145.01
+General Counsel of the Department of Defense (GC DoD), December 2, 2013, Incorporating Change 2, Effective January 30, 2015
+DODD 5148.11:
+Assistant to the Secretary of Defense for Intelligence Oversight (ATSD(IO)), April 24, 2013
+DODD 5148.13:
+Intelligence Oversight, April 26, 2017
+DODD 5160.05E
+Roles and Responsibilities Associated with the Chemical and Biological Defense Program, November 12, 2024
+DODD 5160.41E
+Defense Language, Regional Expertise, and Culture (LREC) Program, August 21, 2015, Incorporating Change 2, Effective August 25, 2020
+DODD 5200.1-R
+Information Security Program Regulation, January 1997 (superseded by
+DoD Manual 5200.01
+, 4 volumes, February 2012)
+DODD 5200.2-R
+DoD Personnel Security Program, January 1987 (with Change 3, 23 Feb 1996) (superseded by
+DOD Manual 5200.02
+)
+DODD 5200.5 Communications Security (COMSEC) (CONFIDENTIAL), 6 October 1981
+DODD 5200.12
+Conduct of Classified Meetings, 27 July 1992
+DODD 5200.17 The Security, Use and Dissemination of Communications Intelligence (COMINT) [SECRET] 26 January 1965
+DODD 5200.19, Control of Compromising Emanations [SECRET], 10 February 10, 1968
+DODD 5200.26  Defense Investigative Program, 12 June 1979
+DODD 5200.27
+:  Acquisition of Information Concerning Persons and Organizations not Affiliated with the Department of Defense, January 7, 1980
+DODD 5200.28
+Security Requirements for Automated Information Systems (AISs), March 21, 1988.
+DODD 5200.30
+:Guidelines for Systematic Declassification Review of Classified Information in Permanently Valuable DoD Records, March 21, 1983
+DODD 5200.31E
+, DoD Military Working Dog (MWD) Program, 10 August 2011, Incorporating Change 1, Effective September 21, 2020
+DODD 5200.32
+, Department of Defense Security Countermeasures
+(SCM) and Polygraph Education, Training, and Program Support, 26 February 1996
+DODD 5200.33
+Defense Courier Service (DCS), 25 August 1998
+DODD 5200.37
+Defense Human Intelligence, 16 January 2025
+DODD 5200.43
+, Management of the Defense Security Enterprise, October 1, 2012, Incorporating Change 3, July 14, 2020
+DODD 5200.47E
+, Anti-Tamper (AT), September 4, 2015, Incorporating Change 3, December 22, 2020
+DODD 5205.02E
+DoD Operations Security (OPSEC) Program, June 20, 2012, Incorporating Change 2, August 20, 2020
+DODD 5205.07
+Special Access Program (SAP) Policy, September 12, 2024
+DOD Manual 5205.07 volume 1
+DoD Special Access Program (SAP) Security Manual: General Procedures, updated January 17, 2025
+DOD Manual 5205.07 volume 2
+DoD Special Access Program (SAP) Security Manual: Personnel Security, November 24, 2015, Incorporating Change 2, Effective October 30, 2020
+DOD Manual 5205.07 volume 3
+DoD Special Access Program (SAP) Security Manual: Physical Security, April 23, 2015, Incorporating Change 3, Effective December 8, 2020
+DOD Manual 5205.07 volume 4
+Special Access Program (SAP) Security Manual: Marking, October 10, 2013, Incorporating Change 1, Effective May 9, 2018
+DODD 5205.10
+Department of Defense Treaty Inspection Readiness Program (DTIRP), December 5, 2000
+DODD 5205.12
+Military Intelligence Program, November 27, 2024
+DODD 5205.14
+DoD Counter Threat Finance (CTF), August 19, 2010, Incorporating Change 3, May 4, 2017
+DODD 5205.15E
+DoD Forensic Enterprise (DFE), April 26, 2011, Incorporating Change 1, August 14, 2017
+DODD 5205.82
+Defense Institution Building, January 27, 2016, Change 1, effective May 4, 2017
+DODD-5210.2
+Access to and Dissemination of Restricted Data, Change 3 - 16 November 1994
+DODD 5210.45
+: Personnel Security in the National Security Agency, May 9, 1964
+DODD 5210.46
+DoD Building Security for the National Capital Region,
+January 28, 1982
+DODD 5210.48
+Credibility Assessment (CA) Program, April 24, 2015, Incorporating Change 2, Effective October 1, 2020
+DODD 5210.50
+Management of Serious Security Incidents Involving Classified Information, October 27, 2014, Incorporating Change 2, Effective September 18, 2020
+DODD 5210.52
+Security Classification of Airborne Sensor Imagery and Imaging Systems, 18 May 1989
+DODD 5210.55
+Department of Defense Presidential Support
+Program, 15 December 1998
+DODD 5210.56
+Arming and the Use of Forece, November 18, 2016, with Change 1 effective November 6, 2020
+DODD 5210.70 DoD Cryptologic Training, 3 November 1980
+DODD 5210.78
+: Department of Defense Polygraph Institute (DoDPI), September 18, 1991
+DODD 5210.79
+Defense Personnel Security Research and Education Center (PERSEREC), 31 May 1989
+DODD 5210.88
+Safeguarding Biological Select Agents and Toxins, February 11, 2004
+DODD 5215.1
+Computer Security Evaluation Center, 16 November 1994
+DODD 5220.6
+Defense Industrial Personnel Security Clearance Review Program, 20 April 1999
+DODD 5220.22
+National Industrial Security Program, 27 September 2004
+DOD 5220.22-M
+, National Industrial Security Program Operating Manual (NISPOM), February 2006, Incorporating Change 2, May 18, 2016
+NISPOM Supplement
+, DoD 5220.22-M-Sup. 1, February 1995
+Defense Department Overprint to the National Industrial Security Program Operating Manual Supplement
+, January 1998
+DOD Manual 5220.32, volume 1
+, National Industrial Security Program: Industrial Security Procedures for Government Activities, August 1, 2018, Incorporating Change 2, December 10, 2021
+DOD Manual 5220.32, volume 2
+, National Industrial Security Program: Procedures for Government Activities Relating to Foreign Ownership, Control, or Influence (FOCI), April 17, 2014, Incorporating Change 2, December 10, 2021
+DODD 5230.11
+Disclosure of Classified Military Information to Foreign
+Governments and International Organizations, 16 June 1992
+DODD 5230.20
+Visits, Assignments, and Exchanges of Foreign Nationals, August 12, 1998
+DODD 5230.21 Protection of Classified National Security Council and Intelligence Information, 15 March 1982
+DODD 5230.23 Intelligence Disclosure Policy [CONFIDENTIAL] 18 November 1983
+DODD 5230.25
+Withholding of Unclassified Technical Data From Public Disclosure, Administrative Reissuance, 18 August 1995
+DoD Manual 5230.30
+DoD Mandatory Declassification Review (MDR) Program
+, December 22, 2011, Incorporating Change 3, Effective February 8, 2022
+DOD Manual 5240.01
+Procedures Governing the Conduct of DoD Intelligence Activities, August 8, 2016 (with accompanying
+Fact Sheet
+)
+DOD Manual S-5240.01-A
+Procedures Governing the Conduct of DoD Intelligence Activities: Annex Governing Signals Intelligence Information and Data Collected Pursuant to Section 1.7(C) of E.O. 12333, January 7, 2021
+DODD 5240.01
+: DoD Intelligence and Intelligence-Related Activities and Defense Intelligence Component Assistance to Law Enforcement Agencies and Other Civil Authorities, September 27, 2024
+DODD 5240.1-R
+, "Procedures Governing the Activities of DoD Intelligence Components that Affect U.S. Persons," December 1982, Incorporating Change 2, Effective April 26, 2017 (cancelled and incorporated into Directive 5240.01)
+DODD 5240.02
+: Counterintelligence (CI), March 17, 2015, Incorporating Change 1, Effective May 16, 2018
+DODD 5240.3
+: Counterintelligence and Operations Security Support Program for the Defense Nuclear Agency, January 25, 1983
+DODD 5240.06
+: Counterintelligence Awareness and Reporting, 17 May 2011, Incorporating Change 3, Effective August 31, 2020
+DODD 5240.9 Support to Department of Defense Offensive Counterintelligence Operations [SECRET] 28 November 1989
+DODD 5240.12
+Department of Defense (DoD) Intelligence Commercial Activities (ICAs) July 1, 1996, updated January 11, 1999
+DODD 5240.19
+Counterintelligence Support to the Defense Critical Infrastructure Program, 27 August 2007
+DODD 5250.01
+Management of Intelligence Mission Data (IMD) in DoD Acquisition, January 22, 2013, Incorporating Change 1, August 29, 2017
+DODD 5400.07
+DOD Freedom of Information Act Program, April 5, 2019
+DOD Manual 5400.07
+DOD Freedom of Information Act (FOIA) Program, January 25, 2017
+DODD 5505.06
+Investigations of Allegations Against Senior DoD Officials, June 6, 2013
+DODD 5505.09
+Interception of Wire, Electronic, and Oral
+Communications for Law Enforcement, April 20, 1995
+DODD 5535.02
+DoD Patent Security Review Process, 24 March 2010
+DODD 6055.9E
+Explosives Safety Management and the DoD Explosives Safety Board, 19 August 2005
+DoD Biosurveillance
+, September 17, 2020, Change 1, June 21, 2024
+DODD 6490.14
+Defense Suicide Prevention Program, June 18, 2013, Incorporating Change 1, Effective April 1, 2016
+DODD 7045.14
+The Planning, Programming, Budgeting, and Execution (PPBE) Process, January 25, 2013, Incorporating Change 1, August 29, 2017
+DODD 7050.06
+Military Whistleblower Protection, April 17, 2015, Incorporating Change 1, October 12, 2021
+DODD 7920.1, Life Cycle Management of Automated Information Systems (AIS), 17 October 1978
+DODD 8000.01
+Management of the Department of Defense Information Enterprise (DoD IE), March 17, 2016
+DODD 8100.2
+Use of Commercial Wireless Devices, Services, and Technologies in the
+Department of Defense (DoD) Global Information Grid (GIG), April 14, 2004
+DODD 8140.01
+Cyberspace Workforce Management, October 5, 2020
+DODD 8260.05
+Support for Strategic Analysis (SSA), July 20, 2011
+DODD 8320.03
+Unique Identification (UID) Standards for a Net-Centric Department of Defense, 23 March 2007
+DODD 8521.01E
+DoD Biometrics, January 13, 2016, Incorporating Change 1, August 15, 2017
+DODD 8520.1
+Protection of Sensitive Compartmented Information (SCI), December 20, 2001
+DODD 8910.1
+Management and Control of Information Requirements, 11 June 1993
+DOD Instructions
+DODI 1000.01
+Identification (ID) Cards Required by the Geneva Conventions, April 16, 2012
+DODI 1000.25
+DoD Personnel Identity Protection (PIP) Program
+, March 2, 2016
+DODI 1000.29
+DoD Civil Liberties Program, May 17, 2012, Incorporating Change 1, November 26, 2014
+DODI 1000.32
+Prohibition of Lobbying Activity by Former DoD Senior Officials, March 26, 2020
+DODI 1005.06
+Display of the National Flag at Half-staff, July 17, 2015
+DODI 1025.2
+, National Security Education Program,  March 9, 2006
+DODI 1025.3
+Administrator, National Security Education Program,  May 13, 1994
+DODI 1025.5
+National Security Education Program (NSEP) Grants to
+Institutions of Higher Education, February 13, 1995
+DODI 1025.11
+, DoD Science, Technology, Engineering, and Mathematics (STEM) Education Programs and Activities, August 21, 2020
+DODI 1100.22
+Policy and Procedures for Determining Workforce Mix, January 8, 2008, April 12, 2010
+DODI 1300.06
+Conscientious Objectors, July 12, 2017
+DODI 1300.17
+Religious Liberty in the Military Services, September 1, 2020
+DODI 1300.18
+Department of Defense (DoD) Personnel Casualty Matters, Policies, and Procedures, January 8, 2008, incorporating change 1, August 14, 2009
+DODI 1300.28
+In-Service Transition for Transgender Service Members, Effective April 30, 2021
+DODI 1304.23
+Acquisition and Use of Criminal History Record Information for Military Recruiting Purposes, October 7, 2005
+DODI 1315.20
+Management of the DoD Foreign Area Officer Program, March 25, 2022
+DODI 1325.02
+Desertion and Unauthorized Absence or Absence Without Leave, October 26, 2021
+DODI 1325.06
+Handling Protest, Extremist, and Criminal Gang Activities Among Members of the
+Armed Forces, November 27, 2009, Incorporating Change 2, Effective December 20, 2021
+DODI 1325.07
+Administration of Military Correctional Facilities and Clemency and Parole Authority, March 11, 2013
+DODI 1340.27
+Military Foreign Language Skill Proficiency Bonuses, August 17, 2022
+DODI 1341.08
+Payment of Death Gratuity to Survivors of Certain DoD Personnel Assigned to Intelligence Duties, 25 August 2006, Incorporating Change 1, Effective August 20, 2020
+DODI 1400.36
+DoD Implementation of the Joint Intelligence Community Duty Assignment (JDA) Program, 2 Jun 2008, Incorporating Change 1, Effective October 5, 2020
+DODI 1430.16
+Growing Civilian Leaders, August 23, 2022
+DODI 2000.03
+International Interchange of Patent Rights and Technical Information, January 17, 2006, certified current as of December 3, 2010
+DODI 2000.11
+Procedures for Handling Requests for Asylum and Temporary Refuge, May 13, 2010
+DODI 2000.12
+DoD Antiterrorism (AT) Program, March 1, 2012, Incorporating Change 3, May 8, 2017
+DODI 2000.16
+DoD AntiTerrorism Standards, October 2, 2006
+DODI 2000.21
+DoD Support to International Chemical, Biological, Radiological, and Nuclear (CBRN) Incidents, April 5, 2016, Incorporating Change 1, May 8, 2017
+DODI 2000.25
+DoD Procedures for Reviewing and Monitoring Transactions Filed with the Committee on Foreign Investment in the United States (CFIUS), December 16, 2021 with Change 1, May 27, 2022
+DODI 2000.26
+DoD Use of the Federal Bureau of Investigation (FBI) eGuardian System, December 4, 2019
+DODI 2000.28
+DoD Policy and Responsibilities Relating to the Regional Defense Combating Terrorism Fellowship Program (CTFP), November 14, 2013
+DODI 2000.30
+Global Health Engagement (GHE) Activities, July 12, 2017
+DODI 2030.08
+Implementation of Trade Security Controls (TSC) for Transfers of DoD U.S. Munitions List (USML) and Commerce Control List (CCL) Personal Property to Parties Outside DoD Control, May 23, 2006
+DODI 2040.02
+International Transfers of Technology, Articles, and Services, July 10, 2008
+DODI 2040.03
+End Use Certificates (EUCs), July 15, 2020
+DODI 2060.03
+Application of the National Security Exclusion to the Agreements Between the
+United States of America and the International Atomic Energy Agency for the Application of Safeguards in the United States of America, September 10, 2019
+DODI 2200.01
+Combating Trafficking in Persons (CTIP), June 21, 2019
+DODI 2205.02
+Humanitarian and Civic Assistance (HCA) Activities, June 23, 2014, Incorporating Change 1, May 22, 2017
+DODI 2310.08
+Medical Program Support for Detainee Operations, September 5, 2019, with Change 1, effective August 25, 2021
+DODI 2310.09
+Behavioral Science Support (BSS) for Detainee Operations and Intelligence Interrogations, September 5, 2019
+DODI 3000.05
+Stability Operations, September 16, 2009, Incorporating Change 1, June 29, 2017
+DODI 3000.11
+Management of DoD Irregular Warfare (IW) and Security Force Assistance (SFA) Capabilities, May 3, 2016
+DODI 3000.12
+Management of U.S. Global Defense Posture (GDP), May 6, 2016, Incorporating Change 1, May 8, 2017
+DODI 3000.14
+DoD Counterdrug and Counter-Transnational Organized Crime Policy, August 28, 2020
+DODI 3000.17
+Civilian Harm Mitigation and Response
+, December 21, 2023
+DODI 3001.02
+Personnel Accountability in Conjunction With Natural or Manmade Disasters, May 3, 2010
+DODI 3002.02
+Personnel Recovery and 406 MHz Search and Rescue (SAR) Emergency Beacons in the Department of Defense, January 11, 2013, Incorporating Change 1, Effective April 25, 2016
+DODI 3002.03
+DoD Personnel Recovery -- Reintegration of Recovered Personnel, July 15, 2013, Incorporating Change 1, April 26, 2016
+DoDI 3020.26
+DoD Continuity Policy, June 4, 2024
+DODI 3020.39
+Mission Assurance Policy for the Defense Intelligence Enterprise (DIE), March 2, 2015, Incorporating Change 2, Effective September 21, 2020
+DODI 3020.41
+Contractor Personnel Authorized to Accompany the U.S. Armed Forces, October 3, 2005
+DODI 3020.42
+Defense Continuity Plan Development, February 17, 2006
+DODI 3020.45
+Defense Critical Infrastructure Program (DCIP) Management, April 21, 2006, Incorporating Change 1, June 6, 2017
+DODI 3020.46
+The Militarily Critical Technologies List (MCTL), October 24, 2008, Incorporating Change 1, November 16, 2017
+DODI 3020.47
+DoD Participation in the National Exercise Program (NEP), January 29, 2019
+DODI 3020.48
+Guidance for Maritime Operational Threat Response (MOTR)-Related Conferencing Coordination Activities Implementation, March 6, 2009, Incorporating Change 1, Effective February 26, 2014, Certified current through March 6, 2016
+DODI 3020.50
+Private Security Contractors Operating in Contingency Operations, Humanitarian or Peace Operations, or Other Military Operations or Exercises, October 13, 2022
+DODI 3020.51
+Intelligence Support to the Defense Critical Infrastructure Program (DCIP), June 23, 2011, Incorporating Change 2, Effective July 9, 2020
+DODI 3020.52
+DoD Installation Chemical, Biological, Radiological, Nuclear, and High-Yield Explosive (CBRNE) Preparedness Standards, May 18, 2012
+DODI 3025.19
+Procedures for Sharing Information with and Providing Support to the U.S. Secret Service (USSS), Department of Homeland Security (DHS), November 29, 2011, Incorporating Change 1, March 13, 2017
+DODI 3025.20
+Defense Support of Special Events, April 6, 2012, Incorporating Change 1, May 24, 2017
+DODI 3025.21
+Defense Support of Civilian Law Enforcement Agencies, February 27, 2013, Incorporating Change 1, Effective February 8, 2019
+DODI 3025.23
+Domestic Defense Liaison with Civil Authorities, May 25, 2016
+DODI 3100.08
+The Technical Cooperation Program (TTCP), August 7, 2012, Incorporating Change 1, November 30, 2017
+DODI 3100.11
+Management of Laser Illumination of Objects in Space, October 24, 2016
+DODI 3115.08
+Collection of Information on Non-U.S. Persons Outside the United States at the Request of U.S. Law Enforcement Agencies (LEAs), January 14, 2009, Incorporating Change 3, Effective October 1, 2020
+DODI 3115.10E
+Intelligence Support to Personnel Recovery, March 24, 2006, Incorporating Change 1, November 6, 2020
+DODI 3115.11
+DoD Intelligence Human Capital Management Operations, January 22, 2009, Incorporating Change 3, September 21, 2020
+DODI 3115.12
+Open Source Intelligence (OSINT), August 24, 2010, Incorporating Change 2, Effective July 16, 2020
+DODI 3115.14
+Civil Aviation Intelligence, July 29, 2011, Incorporating Change 2, Effective August 25, 2020
+DODI 3115.15
+Geospatial Intelligence (GEOINT), December 6, 2011, Incorporating Change 2, Effective October 1, 2020
+DODI 3115.17
+Management and Oversight of DoD All-Source Analysis, November 16, 2016, Incorporating Change 1, Effective September 21, 2020
+DODI 3115.19
+Executive Agent for Tactical Exploitation of National Capabilities, February 7, 2023
+DODI 3150.02
+DoD Nuclear Weapon Systems Surety Program, December 17, 2024
+DODI 3150.09
+The Chemical, Biological, Radiological, and Nuclear (CBRN) Survivability Policy, April 8, 2015, Incorporating Change 4, December 8, 2023
+DODI 3150.10
+DoD Response to U.S. Nuclear Weapon Incidents, July 2, 2010
+DODI 3200.12
+DoD Scientific and Technical Information Program (STIP), August 22, 2013, Incorporating Change 3, Effective December 17, 2018
+DODI 3200.19
+Non-Lethal Weapons (NLW) Human Effects Characterization, May 17, 2012, Incorporating Change 1, September 13, 2017
+DODI 3200.20
+Scientific and Engineering Integrity, July 26, 2012, Incorporating Change 1, December 5, 2017
+DODI 3201.01
+Management of DoD Research and Development (R&D) Laboratories, September 29, 2016, with Change 1, December 8, 2017
+DODI 3201.04
+In-House Laboratory Independent Research (ILIR) Program, October 18, 2013
+DODI 3201.05 Management of Science and Technology Reinvention Laboratory Personnel Demonstration Projects, December 29, 2021
+DODI 3204.01
+DoD Policy for Oversight of Independent Research and Development (IR&D), August 20, 2014, Incorporating Change 2, July 9, 2020
+DODI 3216.01
+Use of Animals in DoD Conducted and Supported Research and Training, March 20, 2019
+DODI 3216.02
+Protection of Human Subjects and Adherence to Ethical Standards in DoD-Conducted and -Supported Research, April 15, 2020, with Change 1, June 29, 2022
+DODI 3222.03
+DoD Electromagnetic Environmental Effects (E3) Program, August 25, 2014, Incorporating Change 2, October 10, 2017
+DODI 3300.2
+:  Combined Intelligence Publishing Service (CIPS), February 7, 1994
+DODI 3300.05
+Reserve Component Intelligence Enterprise (RCIE) Management, July 17, 2013, Incorporating Change 2, Effective August 7, 2020
+DODI 3300.07
+Defense Intelligence Foreign Language and Regional and Culture Capabilities, February 14, 2017, Change 3 Effective May 18, 2022
+DODI 3305.01
+National Intelligence University, January 24, 2017, Change 2, August 25, 2020
+DODI 3305.02
+DoD General Intelligence Training and Certification, August 12, 2015, Incorporating Change 2, Effective September 28, 2020
+DODI 3305.09
+DoD Cryptologic Training, June 13, 2013, Incorporating Change 2, Effective September 21, 2020
+DODI 3305.10
+:  Geospatial-Intelligence (GEOINT) Training, July 3, 2013, Incorporating Change 2, Effective September 25, 2020
+DODI 3305.11
+:  DoD Counterintelligence (CI) Training and Certification, August 13, 2015, Incorporating Change 2, Effective August 27, 2020
+DODI 3305.12
+:  Intelligence and Counterintelligence (I&CI) Training of Non-U.S. Persons, October 14, 2016, Incorporating Change 2, Effective October 19, 2020
+DODI 3305.14
+:  Joint Intelligence Training (JIT) and Certification, August 18, 2015, Incorporating Change 2, Effective September 25, 2020
+DODI 3305.15
+:  DoD Human Intelligence (HUMINT) Training and Certification, August 13, 2015, Incorporating Change 2, Effective August 25, 2020
+DODI 3305.16
+:  DoD Measurement and Signature Intelligence (MASINT) Training and Certification, August 13, 2015, Incorporating Change 2, Effective October 1, 2020
+DODI 3325.08
+:  DoD Intelligence Collection Management, September 17, 2012, Incorporating Change 3, Effective August 26, 2020
+DODI 3325.11
+:  Management of the Joint Reserve Intelligence Program (JRIP), June 26, 2015, Incorporating Change 2, Effective September 24, 2020
+DODI 3608.12
+:  Joint Information Operations (IO) Education, November 4, 2005, incorporating Change 1, December 6, 2011
+DODI 3710.01
+:  National Leadership Command Capabilities (NLCC) Configuration Management (CM), May 1, 2013
+DODI 3741.01
+: National Leadership Command Capabilities (NLCC) Configuration Management (CM), May 1, 2013, Incorporating Change 1, Effective July 15, 2020
+DODI 3901.01
+: Special Operations Policy and Oversight Council, December 26, 2023
+DODI 3902.01
+Special Operations Forces: Joint Combined Exchange Training Program, November 16, 2023
+DODI 3902.02
+Special Operations Forces Foreign Language, Regional Expertise, and Culture Policy, August 17, 2023
+DODI 4000.19
+Interservice and Intragovernmental Support, August 9, 1995
+DODI 4120.15
+Designating and Naming Military Aerospace Vehicles, November 2, 2023
+DODI 4140.01
+DoD Supply Chain Materiel Management Policy, March 6, 2019
+DODI 4140.66
+Registration and End-Use Monitoring of Defense Articles and/or Defense Services, September 7, 2010, Incorporating Change 1, May 24, 2017
+DODI 4140.67
+DoD Counterfeit Prevention Policy, April 26, 2013, Incorporating Change 3, March 6, 2020
+DODI 4160.28
+DoD Demilitarization Program, November 30, 2022
+DODI 4540.01
+Use of International Airspace by U.S. Military Aircraft and for Missile and Projectile Firings, June 2, 2015
+DODI 4540.05
+DoD Transportation of U.S. Nuclear Weapons, June 23, 2011, Incorporating Change 3, November 9, 2017
+DODI 4540.07
+Telecommunications Services in the National Capital Region (NCR), September 24, 2009, Incorporating Change 2, August 10, 2012
+DODI 4650.01
+Policy and Procedures for Management and Use of the Electromagnetic Spectrum, January 9, 2009
+DODI 4650.02
+Military Auxiliary Radio System, December 20, 2021
+DODI 4650.06
+Positioning, Navigation, and Timing Management, July 30, 2020, with Change 1, May 7, 2021
+DODI 4650.08
+Positioning, Navigation, and Timing (PNT) and Navigation Warfare, December 27, 2018, with Change 1, December 30, 2020
+DODI 4715.06
+Environmental Compliance in the United States, May 4, 2015, Incorporating Change 1, October 27, 2017
+DODI 4715.18
+Emerging Chemicals of Environmental Concern, September 4, 2019, with Change 1, February 9, 2024
+DODI 4715.19
+Use of Open-Air Burn Pits in Contingency Operations, November 13, 2018
+DODI 4715.27
+DoD Low-Level Radioactive Waste (LLRW) Program, July 7, 2017, Incorporating Change 2, Effective April 12, 2019
+DODI 5000.02
+Operation of the Defense Acquisition System, January 7, 2015, Incorporating Change 10, December 31, 2020
+DODI 5000.56
+Programming Geospatial-Intelligence (GEOINT), Geospatial Information and Services (GI&S), and Geodesy Requirements for Developing Systems, July 9, 2010, Incorporating Change 2, Effective August 26, 2020
+DODI 5000.60
+Defense Industrial Base Assessments, July 18, 2014, Incorporating Change 3, August 5, 2022
+DODI 5000.61
+DoD Modeling and Simulation (M&S) Verification, Validation, and Accreditation (VV&A), December 9. 2009
+DODI 5000.69
+Joint Services Weapon and Laser System Safety Review Processes, August 10, 2023
+DODI 5000.73
+Cost Analysis Guidance and Procedures, March 13, 2020
+DODI 5000.77
+DoD Federally Funded Research and Development Center (FFRDC) Program, January 31, 2018, Incorporating Change 2, November 6, 2019
+DODI 5000.82
+Requirements for the Acquisition of Digital Capabilities, June 1, 2023
+DODI 5000.83
+Technology and Program Protection to Maintain Technological Advantage, July 20, 2020, with Change 1, effective May 21, 2021
+DODI 5000.86
+Acquisition Intelligence, September 11, 2020
+DODI 5000.88
+Engineering of Defense Systems, November 18, 2020
+DODI 5000.89
+Test and Evaluation, November 19, 2020
+DODI 5000.90
+Cybersecurity for Acquisition Decision Authorities and Program Managers, December 31, 2020
+DODI 5000.94
+Use of Robotic Systems for Manufacture and Sustainment in the DoD, March 28, 2022
+DODI 5000.97
+Digital Engineering, December 21, 2023
+DODI 5015.02
+DoD Records Management Program, February 24, 2015, Incorporating Change 1, August 17, 2017
+DODI 5025.01
+DoD Issuances Program, August 1, 2016, with Change 4, effective June 7, 2023
+DODI 5025.12
+Standardization of Military and Associated Terminology, March 5, 2020, with Change 1, January 21, 2022
+DODI 5030.14
+Disclosure of Atomic Information to Foreign Governments and Regional Defense Organizations, August 17, 2011, Incorporating Change 3, Effective May 28, 2020
+DODI 5030.36
+Emergency Security Control of Air Traffic (ESCAT), April 24, 2014
+DODI 5030.57
+Special Warnings to Mariners, December 5, 2011, Incorporating Change 2, Effective October 29, 2020
+DODI 5030.59
+National Geospatial-Intelligence Agency (NGA) LIMITED DISTRIBUTION Geospatial Intelligence, March 10, 2015, Incorporating Change 2, Effective September 24, 2020
+DODI 5040.02
+Visual Information, October 27, 2011, Incorporating Change 2, Effective April 23, 2018
+DODI 5040.05
+Alteration of Official DoD Imagery, June 6, 2006
+DODI 5100.76
+Safeguarding Conventional Arms, Ammunition, and Explosives (AA&E), May 20, 2010, Incorporating Change 2, Effective October 19, 2020
+DODI 5100.86
+DoD Forensic Science Committee, April 18, 2014
+DODI 5100.91
+Joint Intelligence Interoperability Board (JIIB), October 28, 2008
+DODI C-5105.32 Defense Attache System (DAS) (U), March 18, 2009
+DODI 5105.58
+: Measurement and Signature Intelligence (MASINT), April 22, 2009, Incorporating Change 2, Effective September 24, 2020
+DODI C-5105.81, Implementing Instructions for DoD Operations at U.S. Embassies (U), November 6, 2008
+DODI 5110.11
+, Raven Rock Mountain Complex (RRMC) [redacted], October 4, 2010
+DODI 5111.19
+: Section 2282 Global Train-and-Equip Authority, July 26, 2011, Incorporating Change 1, May 8, 2017
+DODI 5129.47
+: Center for Countermeasures, January 26, 2015
+DODI 5132.13
+: Staffing of Security Cooperation Organizations (SCOs) and the Selection and Training of Security Cooperation Personnel, January 9, 2009
+DODI 5132.14
+: Assessment, Monitoring, and Evaluation Policy for the Security Cooperation Enterprise, January 13, 2017
+DODI 5145.03
+: Oversight of the DoD Personnel Security Programs, January 10, 2013, Incorporating Change 1, Effective June 19, 2020
+DODI 5160.68
+: Single Manager for Conventional Ammunition (SMCA): Responsibilities of the SMCA, the Military Services, and United States Special Operations Command (USSOCOM), December 29, 2008
+DODI 5160.71
+: DoD Language Testing Program, June 30, 2022
+DODI 5200.01
+: DoD Information Security Program and Protection of Sensitive Compartmented Information, April 21, 2016, Incorporating Change 2, Effective October 1, 2020
+DODI 5200.02
+: DoD Personnel Security Program (PSP), March 21, 2014, Incorporating Change 3, Effective September 24, 2020
+DODI 5200.08
+: Security of DoD Installations and Resources, December 10, 2005, Incorporating Change 3, Effective November 20, 2015
+DODI 5200.33
+: Defense Courier Operations (DCO), June 30, 2011
+DODI 5200.39
+: Critical Program Information (CPI) Identification and Protection Within Research, Development, Test, and Evaluation (RDT&E), May 28, 2015, Incorporating Change 3, Effective October 1, 2020
+DODI S-5200.42
+: Defense Human Intelligence (HUMINT) and Related Intelligence Activities (redacted), December 8, 2009
+DODI 5200.44
+: Protection of Mission Critical Functions to Achieve Trusted Systems and Networks, February 16, 2024
+DODI 5200.46
+: DoD Investigative and Adjudicative Guidance for Issuing the Common Access Card (CAC), September 9, 2014, Incorporating Change 1, Effective May 4, 2018
+DODI 5200.48
+: Controlled Unclassified Information (CUI), March 6, 2020
+DODI 5205.08
+: Access to U.S. Classified Cryptographic Information, February 16, 2018, Incorporating Change 1, September 24, 2020
+DODI 5205.10
+: DoD Treaty Inspection Readiness Program (DTIRP), February 20, 2009
+DODI 5205.11
+: Management, Administration, and Oversight of DoD Special Access Programs (SAPs), September 12, 2024
+DODI 5205.13
+: Defense Industrial Base (DIB) Cyber Security (CS) Activities, January 29, 2010, Incorporating Change 2, August 21, 2019
+DODI 5205.16
+The DoD Insider Threat Program, December 20, 2024
+DODI 5205.83
+: DoD Insider Threat Management and Analysis Center (DITMAC), March 30, 2017, Incorporating Change 1 effective October 29, 2020
+DODI 5205.85
+: Enhanced Security Program to Support the DoD Innovation Initiative, August 16, 2022
+DODI 5205.87
+: Mitigating Risks Related to Foreign Ownership, Control, or Influence for Covered DoD Contractors and Subcontractors, May 13, 2024
+DODI 5210.02
+: Access to and Dissemination of Restricted Data and Formerly Restricted Data, June 3, 2011, Incorporating Change 1, October 25, 2017
+DODI 5210.42
+: DoD Nuclear Weapons Personnel Reliability Assurance, April 27, 2016, Incorporating Change 3, October 11, 2019
+DODI 5210.45
+: Personnel Security Policies and Procedures for Sensitive Cryptologic Information in the National Security Agency/Central Security Service, November 14, 2008, Certified Current Through November 14, 2015,Incorporating Change 3, Effective August 27, 2020
+DODI 5210.65
+: Security Standards for Safeguarding DoD Chemical Agents, October 1, 2020
+DODI 5210.83
+: DoD Unclassified Controlled Nuclear Information (UCNI), July 12, 2012, Incorporating Change 2, Effective October 2, 2020
+DODI 5210.87
+: Selection of DoD Military and Civilian Personnel and Contractor Employees for Assignment to Presidential Support Activities (PSAs), November 30, 1998
+DODI 5210.88
+: Security Standards for Safeguarding Biological Select Agents and Toxins, May 26, 2020
+DODI 5210.89
+: Minimum Security Standards for Safeguarding Biological Select Agents and Toxins, April 18, 2006
+DODI 5210.91
+: Polygraph and Credibility Assessment (PCA) Procedures, August 12, 2010, Incorporating Change 2, Effective March 30, 2020
+DODI 5215.2
+Computer Security Technical Vulnerability Reporting Program, 2 September 1986
+DODI 5220.22
+: National Industrial Security Program (NSIP), March 18, 2011, as amended (superseded by
+DODI 5220.31
+)
+DODI 5220.28
+Application of Special Eligibility and Clearance Requirements in the SIOP-ESI Program for Contractor Employees, 8 March 1978
+DODI 5220.31
+National Industrial Security Program, May 9, 2023
+DODI 5230.09
+Clearance of DoD Information for Public Release, January 25, 2019, with Change 1, Effective February 9, 2022
+DODI 5230.16
+Public Affairs Guidance for Nuclear Weapon and Radiological Material Incidents, October 24, 2023
+DODI 5230.21
+: Protection of Classified National Security Council and Intelligence Information, March 15, 1982
+DODI 5230.24
+Distribution Statements on DoD Technical Information, January 10, 2023
+DODI 5230.27
+Presentation of DoD-Related Scientific and Technical Papers at Meetings, November 18, 2016, Incorporating Change 1, September 15, 2017
+DODI 5230.29
+: Security and Policy Review of DoD Information for Public Release, August 13, 2014, Incorporating Change 2, February 8, 2022
+DODI 5240.04
+: Counterintelligence (CI) Investigations, April 1, 2016, Incorporating Change 2, Effective September 18, 2020
+DODI 5240.05
+: Technical Surveillance Countermeasures (TSCM), April 3, 2014, Incorporating Change 2, Effective August 27, 2020
+DODI S-5240.09, Offensive Counterintelligence Operations (OFCO) (U), October 29, 2008
+DODI 5240.10
+: Counterintelligence (CI) in the Combatant Commands and Other DoD Components, October 5, 2011, Incorporating Change 1, Effective October 15, 2013
+DODI 5240.16
+: DoD Counterintelligence Functional Services, August 27, 2012, Incorporating Change 1, Effective October 15, 2013
+DODI 5240.17
+: DoD Counterintelligence Collection Reporting, October 26, 2005
+DODI 5240.18
+: Counterintelligence (CI) Analysis and Production, November 17, 2009, Incorporating Change 3, Effective September 24, 2020
+DODI 5240.19
+: Counterintelligence Support to the Defense Critical Infrastructure Program (DCIP), January 31, 2014, Incorporating Change 2, Effective November 6, 2020
+DODI 5240.22
+: Counterintelligence Support to Counterterrorism and Force Protection, October 12, 2022
+DODI 5240.25
+: Counterintelligence Badges and Credentials, March 30, 2012, Incorporating Change 2, Effective May 9, 2018
+DODI 5240.26
+: Countering Espionage, International Terrorism, and the Counterintelligence (CI) Insider Threat, May 4, 2012, Incorporating Change 3, Effective December 7, 2020
+DODI 5240.27
+: Joint Counterintelligence Training Activity (JCITA), November 13, 2013, Incorporating Change 2, Effective October 2, 2020
+DODI 5250.11
+: Damage Assessments, December 23, 1991
+DODI 5400.04
+Provision of Information to Congress, March 17, 2009
+DODI 5400.11
+DoD Privacy and Civil Liberties Programs, January 29, 2019, with Change 1 effective December 8, 2020
+DOD Manual 5400.11, volume 2
+DoD Privacy and Civil Liberties Programs: Breach Preparedness and Response Plans, May 6, 2021
+DODI 5400.13
+Public Affairs (PA) Operations, October 15, 2008
+DODI 5400.14
+Procedures for Joint Public Affairs Operations, November 3, 2014
+DODI 5400.16
+DoD Privacy Impact Assessment (PIA) Guidance, July 14, 2015
+DODI 5400.17
+Official Use of Social Media for Public Affairs Purposes
+, August 12, 2022, with Change 1 effective January 24, 2023
+DODI 5405.03
+Development, Submission, and Approval of Proposed Public Affairs Guidance
+(PPAG), February 18, 2016
+DODI 5410.01
+Release of Information Concerning Accidents Involving Military Personnel or Equipment or Concerning Senior Personnel, June 2, 2009
+DODI 5500.14
+Deoxyribonucleic Acid (DNA) Collection Requirements for Criminal
+Investigations, May 27, 2010
+DODI 5505.03
+: Initiation of Investigations by Defense Criminal Investigative Organizations, March 24, 2011, Incorporating Change 2, February 13, 2017
+DODI 5505.09
+: Communication Interception for Law Enforcement, August 22, 2023
+DODI 5505.14
+: DNA Collection and Submission Requirements for Law Enforcement, April 5, 2022
+DODI 5505.15
+: DoD Contractor Disclosure Program, June 3, 2021, with Change 1, effective October 31, 2022
+DODI 5505.16
+: Criminal Investigations by Personnel Who Are Not Assigned to a Defense Criminal Investigative Organization, May 7, 2012
+DODI 5505.17
+: Personally Identifiable Information and Law Enforcement Information Handling by DoD Law Enforcement Activities, August 22, 2023
+DODI 5525.01
+: Foreign Criminal and Civil Jurisdiction, May 31, 2019
+DODI 5525.07
+: Implementation of the August 1984 Memorandum of Understanding (MOU) Between the Department of Justice (DOJ) and DOD Relating to the Investigation and Prosecution of Certain Crimes, March 5, 2020
+DODI 5525.13
+: Limitation of Authority to Deputize DoD Uniformed Law Enforcement Personnel by State and Local Governments, September 28, 2007, Incorporating Change 2, Effective September 8, 2020
+DODI 5525.14
+: DoD Law Enforcement Officers (LEOs) Flying Armed, March 22, 2011, Incorporating Change 4, Effective October 1, 2020
+DODI 5525.16
+: Law Enforcement Defense Data Exchange (LE D-DEx), August 29, 2013 Incorporating Change 3, Effective October 30, 2020
+DODI 5525.18
+: Law Enforcement Criminal Intelligence (CRIMINT) in DoD, October 18, 2013, Incorporating Change 3, Effective October 1, 2020
+DODI 5525.19
+: DoD Identity Matching Engine for Security and Analysis (IMESA) Access to Criminal Justice Information (CJI) and Terrorist Screening Databases (TSDB), May 4, 2016, Incorporating Change 2, Effective October 1, 2020
+DODI 5530.03
+: International Agreements, December 4, 2019
+DODI 5535.10
+: Coordination of DoD Efforts to Identify, Evaluate, and Transfer DoD Technology Items, Equipment, and Services to Federal, State, and Local First Responders, November 24, 2009, Incorporating Change 1, May 24, 2017
+DODI 5535.11
+: Availability of Samples, Drawings, Information, Equipment, Materials, and Certain Services to Non-DoD Persons and Entities, March 19, 2012
+DODI 6000.16
+: Military Health Support for Stability Operations, May 17, 2010
+DODI 6050.05
+: DoD Hazard Communication (HAZCOM) Program, February 26, 2019
+DODI 6055.08
+: Occupational Ionizing Radiation Protection Program, April 9, 2021
+DODI 6055.11
+: Protecting Personnel from Electromagnetic Fields, May 12, 2021
+DODI 6055.15
+: DoD Laser Protection for Military Lasers, August 25, 2023
+DODI 6055.17
+: DoD Emergency Management (EM) Program, February 13, 2017, Incorporating Change 3, June 12, 2019
+DODI 6055.20
+: Assessment of Significant Long-Term Health Risks from Past Environmental Exposures on Military Installations, June 6, 2017, Incorporating Change 2, Effective June 10, 2019
+DODI 6420.01
+: National Center for Medical Intelligence (NCMI), March 20, 2009, Incorporating Change 3, Effective September 8, 2020
+DODI 6440.03
+: DoD Laboratory Network (DLN), June 10, 2011
+DODI 6490.05
+: Maintenance of Psychological Health in Military Operations, November 22, 2011, Incorporating Change 3, May 29, 2020
+DODI 7041.03
+: Economic Analysis for Decision-making, September 9, 2015, Incorporating Change 1, October 2, 2017
+DODI 7050.03
+: DoD Office of the Inspector General Access to Records and Information, November 13, 2024
+DODI 7600.02
+Audit Policies, October 16, 2014, Incorporating Change 1, Effective March 15, 2016
+DODI 7650.01
+Government Accountability Office (GAO) and Comptroller General Requests for Access to Records, January 27, 2009, Incorporating Change 2, Effective May 15, 2018
+DODI 7650.02
+Engaging with the Government Accountability Office (GAO) on GAO Audits, January 24, 2020, with Change 1, January 26, 2022
+DODI 7650.03
+Follow-up on Government Accountability Office (GAO), Inspector General of the Department of Defense (IG DoD), and Internal Audit Reports, 18 December 2014, Incorporating Change 1, Effective January 31, 2019
+DODI 8110.01
+Mission Partner Environment Information Sharing Capability Implementation for the DoD, June 30, 2021
+DODI 8130.01
+Installation Geospatial Information and Services (IGI&S), April 9, 2015
+DODI 8170.01
+Online Information Management and Electronic Messaging, December 31, 2018
+DODI 8220.02
+: Information and Communications Technology (ICT) Capabilities for Support of Stabilization and Reconstruction, Disaster Relief, and Humanitarian and Civic Assistance Operations, April 30, 2009
+DODI 8260.03
+: The Global Force Management Data Initiative (GFM DI), February 19, 2014, Incorporating Change 1, Effective March 19, 2018
+DODI 8260.04
+: Military Health System (MHS) Support to DoD Strategic Analysis, December 18, 2009
+DODI 8310.01
+: Information Technology Standards in the DoD, February 2, 2015
+DODI 8320.02
+: Sharing Data, Information, and Information Technology (IT) Services in the Department of Defense, August 5, 2013, Incorporating Change 1, Effective June 24, 2020
+DODI 8320.05
+: Electromagnetic Spectrum Data Sharing, August 18, 2011
+DODI 8320.07
+: Implementing the Sharing of Data, Information, and Information Technology (IT) Services in the Department of Defense, August 3, 2015, Incorporating Change 1, December 5, 2017
+DODI 8330.01
+: Interoperability of Information Technology, Including National Security Systems, September 27, 2022
+DODI 8410.01
+Internet Domain Name and Internet Protocol Address Space Use and Approval, December 4, 2015, incorporating Change 1, June 4, 2021
+DODI 8410.02
+Support to DoD Information Network Operations, December 8, 2021
+DODI 8420.02
+DoD Satellite Communications, August 3, 2023
+DODI 8440.10
+DoD Information Technology (IT) Service Management (ITSM), December 24, 2015
+DODI 8500.01
+Cybersecurity, March 14, 2014, Incorporating Change 1, Effective October 7, 2019
+DODI 8510.01
+Risk Management Framework (RMF) for DoD Information Technology (IT), March 12, 2014, Incorporating Change 3, December 29, 2020
+DODI 8520.02
+Public Key Infrastructure and Public Key Enabling, May 18, 2023
+DODI 8520.03
+Identity Authentication for Information Systems, May 19, 2023
+DODI 8523.01
+Communications Security (COMSEC), January 6, 2021
+DODI 8530.01
+Cybersecurity Activities Support to DoD Information Network Operations, March 7, 2016, Incorporating Change 1, July 25, 2017
+DODI 8530.03
+Cyber Incident Response, August 9, 2023
+DODI 8531.01
+DoD Vulnerability Management, September 15, 2020
+DODI 8550.01
+DoD Internet Services and Internet-Based Capabilities, September 11, 2012
+DODI 8560.01
+Communications Security (COMSEC) Monitoring, August 22, 2018
+DODI 8580.02
+Security of Individually Identifiable Health Information in DoD Health Care
+Programs, August 12, 2015
+DODI 8581.01
+Information Assurance (IA) Policy for Space Systems Used by the Department of Defense, June 8, 2010
+DODI 8582.01
+Security of Non-DoD Information Systems Processing Unclassified Nonpublic DoD Information, December 9, 2019
+DODI 8585.01
+DoD Cyber Red Teams, January 11, 2024
+DODI 8910.01
+Information Collection and Reporting, March 6, 2007, Incorporating Change 1, January 17, 2013
+Other
+Prepublication and Security Review of Privately Written Works by Current and Former DoD Personnel
+, Directive-Type Memorandum (DTM) 24-005, November 8, 2024
+DoD Standards for Records Management Capabilities in Programs Including Information Technology
+, Directive-Type Memorandum (DTM) 22-001, March 3, 2022, Incorporating Change 1, February 22, 2023
+Tenets of Responsible Behavior in Space
+, memo from the Secretary of Defense, July 7, 2021
+Department of Defense Implementation of Internet Protocol Version 6
+, Directive-Type Memorandum (DTM) 21-004, January 29, 2021
+Federal Advisory Committee Management Program Ethics Responsibilities
+, Directive-Type Memorandum (DTM) 21-002, May 21, 2021, Incorporating Change 3, May 13, 2024
+DoD Public Web Program
+, Directive-Type Memorandum (DTM) 21-001, June 15, 2021, Incorporating Change 3, March 27, 2024
+Establishment of the Climate Working Group
+, March 9, 2021
+Special Access Program Contractor Portfolio Program Establishment
+, December 15, 2020 (via
+Air Force Magazine
+)
+Joint Identity Activities
+, Joint Doctrine Note 1-20, 24 November 2020
+Enabling Cyberspace Accountability of DoD Components and Information Systems
+, Directive-Type Memorandum (DTM) 20-004, November 13, 2020
+Procedures for the DOD Personnel Security Program (PSP)
+, DOD Manual 5200.02, April 3, 2017, with change 1 effective October 29, 2020
+Interim Regulations for Condolence or Sympathy Payments to Friendly Civilians for Injury or Loss That Is Incident to Military Operations
+, Under Secretary of Defense, June 22, 2020
+Missile Defense System Policies and Governance
+, Directive-Type Memorandum 20-002, March 13, 2020, Incorporating Change 4, February 20, 2024
+Strategy
+, Joint Doctrine Note 2-19, December 10, 2019
+Interim Policy for DoD Intelligence Interrogations, Detainee Debriefings (I2D2), and Tactical Questioning (TQ)
+, Directive-Type Memorandum (DTM) 19-010, September 6, 2019, Incorporating Change 1, Effective October 6, 2020
+Expedited Screening Protocol (ESP)
+, Directive-Type Memorandum (DTM) 19-008, July 20, 2019, Incorporating Change 3, Effective August 26, 2021
+Competition Continuum
+, Joint Doctrine Note 1-19, June 3, 2019
+Physical Security Program: Access to DoD Installations
+, DoD Manual 5200.08, volume 3, January 2, 2019, Change 1, September 18, 2020
+Establishment of the Close Combat Lethality Task Force (CCLTF)
+, Directive-Type Memorandum (DTM) 18-001, March 16, 2018, Incorporating Change 1, Effective December 28, 2018
+Prohibition on Providing Funds to the Enemy and Authorization of Additional Access to Records
+, Directive-Type Memorandum (DTM) 18-003, April 9, 2018, Incorporating Change 5, January 11, 2022
+Authority for Support of Special Operations for Irregular Warfare (IW)
+, Directive-Type Memorandum (DTM) 18-005, August 3, 2018, Incorporating Change 03, August 19, 2021
+Interim Policy and Guidance for Defense Support to Cyber Incident Response
+, Directive-Type Memorandum (DTM) 17-007, June 21, 2017, Incorporating Change 7, October 18, 2023
+Guidance for the Domestic Use of Unmanned Aircraft Systems in U.S. National Airspace
+, DoD policy memorandum, August 18, 2018
+Joint Inspectors General Manual
+, DoD Manual 5106.06, May 7, 2018
+Strategy
+, Joint Doctrine Note 1-18, April 25, 2018
+DoD Security Accreditation and Certification
+, DoD Manual 3305.13, March 14, 2011, Incorporating Change 1, April 26, 2018
+Defense Demilitarization: Program Administration
+, DoD Manual 4160.28, Volume 1, August 9, 2017, Change 1, January 16, 2018
+Defense Demilitarization: Demilitarization Coding
+, DoD Manual 4160.28, Volume 2, March 9, 2017, Change 3, August 9, 2019
+Information Assurance Workforce Improvement Program
+, DoD 8570.01-M, December 19, 2005, Incorporating Change 4, November 10, 2015
+Disciplinary and Adverse Actions
+, Administrative Instruction 8, December 16, 2016
+Department of Defense Law of War Manual
+, DoD Office of General Counsel, June 2015, updated July 2023
+Joint Electromagnetic Spectrum Operations
+, Joint Doctrine Note 3-16, 20 October 2016
+Identity Activities
+, Joint Doctrine Note 2-16, 03 August 2016
+Office of the Secretary of Defense and Joint Staff (JS) Freedom of Information Act (FOIA) Program
+, Administrative Instruction 108, June 23, 2016, Incorporating Change 2, Effective February 9, 2022
+Command Red Team
+, Joint Doctrine Note 1-16, 16 May 2016
+Integrated DoD Intelligence Priorities
+, Directive-Type Memorandum (DTM) 15-004, September 3, 2015, Incorporating Change 2, Effective September 4, 2018
+Historical Research in the Files of the Office of the Secretary of Defense
+, Administrative Instruction 50, May 20, 2015, Incorporating Change 2, February 10, 2022
+DoD Intelligence and Security Training Standards
+, DoD Manual 3115.11, March 24, 2015, Incorporating Change 3, Effective October 29, 2020
+Guidance for the Domestic Use of Unmanned Aircraft Systems
+, Policy Memorandum 15-002, Deputy Secretary of Defense, February 17, 2015
+Policy Guidance for the Processing of National Interest Determinations (NIDs) in Connection with Foreign Ownership, Control, or Influence (FOCI)
+, Directive-Type Memorandum (DTM) 15-002, February 11, 2015, Incorporating Change 7, Effective November 6, 2020
+DoD Compliance with Section 4 of Presidential Policy Directive-28, "Signals Intelligence Activity"
+, memorandum from USD(I), January 20, 2015
+Nuclear Weapons Personnel Reliability Program
+, DoD Manual 5210.42, January 13, 2015, Incorporating Change 4, May 9, 2022
+DoD Nuclear Weapon System Safety Program Manual
+, DoD Manual 3150.02, January 31, 2014, Incorporating Change 4, May 7, 2021
+DoD Geospatial Intelligence (GEOINT) Accreditation and Certification
+, DoD Manual 3305.10, May 27, 2014, Incorporating Change 2, Effective September 14, 2020
+Cryptologic Accreditation and Certification
+, DoD Manual 3305.09, May 27, 2014, Incorporating Change 2, Effective October 1, 2020
+DoD Implementation of Presidential Policy Directive 19
+, Directive-Type Memorandum (DTM) 13-008, July 8, 2013, Incorporating Change 5, April 19, 2021
+Congressional Notification for Authorized Public Disclosure of Intelligence Information
+, Directive-Type Memorandum (DTM) 13-009, October 8, 2013
+DoD Internal Information Collections
+, Directive-Type Memorandum (DTM) 12-004, April 24, 2012, Incorporating Change 2, October 8, 2013
+Nuclear Weapon Accident Response Procedures (NARP)
+, DoD Manual 3150.08, August 22, 2013, Incorporating Change 2, Effective July 21, 2020
+OSD Records and Information Management Program
+, Administrative Instruction 15, May 3, 2013, Incorporating Change 2, November 17, 2020
+Deviations from the DoD Physical Security Program
+, Directive-Type Memorandum (DTM) 13-005, April 25, 2013, Incorporating Change 3, Effective November 20, 2015
+Original Classification Authority and Writing a Security Classification Guide
+, DoD Manual 5200.45, January 17, 2025 (replaces
+DoD Handbook 5200.01H
+, November 1999)
+Use of Excess Ballistic Missiles for Space Launch
+, Directive-Type Memorandum (DTM) 11-008, July 5, 2011, Incorporating Change 3, April 25, 2013
+Mental Health Assessments for Members of the Military Services Deployed in Connection with a Contingency Operation
+, Directive-Type Memorandum (DTM) 11-011, August 12, 2011, incorporating Change 3, December 14, 2012
+Policy Guidance for Foreign Ownership, Control, or Influence (FOCI)
+, Directive-Type Memorandum (DTM) 09-019, September 2, 2009, incorporating Change 6, January 9, 2014
+DoD Sensitive Compartmented Information (SCI) Administrative Security Manual, DoD Manual 5105.21, 3 volumes, October 19, 2012
+Volume 1: Administration of Information and Information Systems Security
+Volume 2: Administration of Physical Security, Visitor Control, and Technical Security
+Volume 3: Administration of Personnel Security, Industrial Security, and Special Activities
+, Incorporating Change 2, Effective September 14, 2020
+Implementing Guidelines for Periodic Review of Detainees Held at Guantanamo Bay per Executive Order 13567
+, Directive-Type Memorandum (DTM) 12-005, May 9, 2012, Incorporating Change 2, November 4, 2013
+DoD Guidance for Reporting Questionable Intelligence Activities and Significant or Highly Sensitive Matters
+, Directive-Type Memorandum (DTM) 08-052, June 17, 2009, incorporating Change 6, September 10, 2015 (cancelled and superseded by
+Directive 5148.13
+)
+Next Generation Common Access Card (CAC) Implementation Guidance
+, Directive-Type Memorandum (DTM) 08-003, December 1, 2008, incorporating Change 5, October 8, 2013
+DoD Implementation of Homeland Security Presidential Directive-12 (HSPD-12)
+, Directive-Type Memorandum (DTM) 08-006, November 26, 2008, incorporating Change 5, October 8, 2013
+Intelligence Oversight Policy Guidance
+, Directive-Type Memorandum (DTM) 08-011, March 26, 2008, incorporating Change 6, September 10, 2015
+Declassification Marking Guidance for DoD Special Access
+Program (SAP) Classified Material
+, DTM 07-021, April 26, 2007
+Technology Security and Foreign Disclosure (TS&FD) Processes
+, Directive-Type Memorandum (DTM) 11-053, January 9, 2012, Incorporating Change 2, February 8, 2013 (expired)
+Videotaping or Otherwise Electronically Recording Strategic Intelligence Interrogations of Persons in the Custody of the Department of Defense
+, Directive-Type Memorandum (DTM) 09-031, May 10, 2010, Incorporating Change 3, May 25, 2012
+Responsible and Effective Use of Internet-based Capabilities
+, Directive-Type Memorandum (DTM) 09-026, February 25, 2010, incorporating Change 4, May 9, 2012
+Supply Chain Risk Management (SCRM) to Improve the Integrity of Components Used in DoD Systems
+, Directive-Type Memorandum (DTM) 09-016, March 25, 2010, Incorporating Change 3, March 23, 2012
+Department of Defense Support to Foreign Disaster Relief
+, GTA-90-01-030, 13 July 2011
+Space Systems Acquisition Policy (SSAP)
+, Directive-Type Memorandum (DTM) 09-025, October 18, 2010, incorporating Change 3, January 11, 2013
+Immediate Implementation Provisions of Executive Order 13526, 'Classified National Security Information'
+, Directive-Type Memorandum (DTM) 11-004, April 26, 2011
+Control of NATO Classified Documents
+, Administrative Instruction 27, August 18, 2022
+Counterinsurgency (COIN) Training and Reporting Guidance for Preparing U.S. Forces to Succeed in Afghanistan and Pakistan
+, Directive-Type Memorandum (DTM) 11-002, December 9, 2010, incorporating Change 1, May 18, 2011
+Law Enforcement Reporting of Suspicious Activity
+, Directive-Type Memorandum (DTM) 10-018, October 1, 2010
+Interim Policy Guidance for DoD Physical Access Control
+, Directive-Type Memorandum (DTM) 09-012, December 8, 2009, Incorporating Change 9, August 23, 2018
+Policy Guidance for DoD Access Control
+, Directive-Type Memorandum (DTM) 08-004, April 9, 2008, Incorporating Change 3, March 19, 2013
+UCMJ Jurisdiction Over DoD Civilian Employees, DoD Contractor
+Personnel, and Other Persons Serving With or Accompanying the Armed Forces Overseas During Declared War and in Contingency Operations
+, Directive-Type Memorandum (DTM) 08-009, March 10, 2008, incorporating Change 1, September 23, 2010
+Intelligence Oversight Policy Guidance
+, Directive-Type Memorandum (DTM) 08-11, March 26, 2008, incorporating Change 1, September 8, 2010
+Fundamental Research
+, memorandum from Under Secretary of Defense Ashton B. Carter, May 24, 2010
+Law Enforcement Suspicious Activity Reporting (SAR) System - eGuardian
+, Secretary of Defense Robert M. Gates, May 20, 2010
+Safety Standards for Microbiological and Biomedical Laboratories
+, DoD Manual 6055.18-M, August 11, 2020
+Guide to Nongovernmental Organizations for the Military
+, Office of the Assistant Secretary of Defense (Health Affairs), Edited and rewritten by Lynn Lawry MD, Summer 2009
+Security of Unclassified DoD Information on Non-DoD Information Systems
+, Directive-Type Memorandum (DTM) 08-027, July 31, 2009, incorporating Change 1, September 16, 2010
+DoD Counterthreat Finance (CTF) Policy
+, Directive-Type Memorandum (DTM) 08-034, December 2, 2008
+DoD Operations Security (OPSEC) Program Manual
+, November 3, 2008, Incorporating Change 2, Effective October 29, 2020
+DOD Manual 3020.45, volume 1: Defense Critical Infrastructure Program (DCIP): DoD Mission-Based Critical Asset Identification Process (CAIP)
+, October 24, 2008
+DOD Manual 3020.45, volume 2: Defense Critical Infrastructure Program (DCIP): DCIP Remediation Planning
+, October 28, 2008
+DoD Use of the Civil Search and Rescue Satellite-aided Tracking (SARSAT) System for Support to Personnel Recovery
+, Directive-Type Memorandum (DTM) 08-021, October 17, 2008, incorporating Change 1, September 16, 2010
+Establishment of a Subordinate Unified U.S. Cyber Command Under U.S. Strategic Command for Military Cyberspace Operations
+, memorandum from the Secretary of Defense, June 23, 2009
+Establishment of the Defense Counterintelligence and Human Intelligence Center (DCHC)
+, Directive-Type Memorandum 08-032, July 22, 2008
+DoD Force Protection Threat Information
+, Directive-Type Memorandum 08-007, July 22, 2008
+Reorganization of the Office of the Under Secretary of Defense for Intelligence
+, USD(I) Memorandum, June 18, 2008
+Report of the Overseas Jurisdiction Advisory Committee
+, the Advisory Committee on Criminal Law Jurisdiction Over Civilians Accompanying the Armed Forces in Time of Armed Conflict, April 1997
+Irregular Warfare (IW) Joint Operating Concept (JOC)
+, version 1.0, 11 September 2007
+Joint Urban Operations Joint Integrating Concept
+, version 1, U.S. Joint Forces Command, July 23, 2007
+DoD 5200.08-R
+Physical Security Program, April 9, 2007, Incorporating Change 2, October 19, 2020
+An Assessment of International Legal Issues in Information Operations
+, DoD Office of General Counsel, May 1999
+https://irp.fas.org/doddir/dod/
+Created by John Pike
+Maintained by
+Steven Aftergood
+Updated June 26, 2024

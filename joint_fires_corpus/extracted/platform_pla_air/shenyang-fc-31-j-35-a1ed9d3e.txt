@@ -1,0 +1,224 @@
+The Shenyang J-35  (Chinese: 歼-35; pinyin: jiān-sānwǔ) is a series of Chinese single-seater, twin-engine, all-weather, stealth multirole combat aircraft manufactured by Shenyang Aircraft Corporation (SAC), designed for air superiority and surface strike missions. The aircraft has two variants, a land-based variant designed for the People's Liberation Army Air Force (PLAAF), and a carrier-based variant optimized for catapult-assisted takeoff (CATOBAR) for the People's Liberation Army Naval Air Force (PLANAF). The aircraft is also promoted for export. It is the first fifth-generation fighter in the world to have been launched, in 2025, from an aircraft carrier using an electromagnetic catapult (EMALS).
+The aircraft was developed from the FC-31 Gyrfalcon (Chinese: 鹘鹰; pinyin: Hú yīng), a stealth aircraft prototype that served as a demonstrator aiming to secure potential export customers after SAC lost the J-XX bid to the Chengdu Aircraft Industry Group's J-20. SAC, however, kept the project going via private funding, and later the People's Liberation Army, particularly the PLA Navy Air Force, took an interest in the FC-31 project, leading to the prototype being further developed with a catapult launch bar and folding wings, and the revised variant took flight on 29 October 2021. A land-based variant emerged in 2023 and was officially debuted ahead of the 2024 China International Aviation & Aerospace Exhibition, receiving the designation J-35A.
+On 3 September 2025, Chinese state media China Daily announced the J-35 and the J-35A to be part of the aircraft fleet of the PLA Navy and the PLAAF. The introduction of the J-35 makes it the second Chinese fifth-generation fighter (after the Chengdu J-20) and China the only country other than the United States to use two types of stealth fighters.
+
+
+== Development ==
+
+
+=== Designation ===
+The prototype of the J-35 had been referred to as J-31, F-60, J-21, Snowy Owl or Falcon Hawk in various media reports. The fighter initially did not feature the J-XX nomenclatures, as such names are reserved for programs launched and financed by the military, while the FC-31 was developed independently as a privately funded venture by SAC. The original FC-31 prototype made its maiden flight on October 31, 2012.
+
+
+=== Origin ===
+While the Chengdu J-20 stealth fighter was officially endorsed by the PLAAF after Chengdu Aerospace Corporation's proposal won the PLAAF bid for the next-generation jet fighter, Shenyang Aircraft Corporation pressed on and developed a private project aiming to secure potential export customers.
+In September 2011, Shenyang Aircraft Corporation presented the scale model of the FC-31, dubbed the "F-60" at an innovation competition held in Beijing.
+In June 2012, a partially assembled F-60 was photographed in a police-escorted road transit through a national highway atop a truck and trailer, with its airframe heavily overwrapped by camouflage covering. Initially, military observers speculated the subject in transit was the Hongdu JL-10 trainer aircraft. A few days later, pictures of a fully assembled fighter aircraft parking on an airfield emerged on the internet, with the new aircraft displaying stealth characteristics, the registration number "31001" on the front fuselage. Military observers gave temporary names to the aircraft, such as J-21, J-31, or F-60. Several features were also noted, such as the more conventional airframe design with trapezoidal wings (instead of the canard-delta configuration of the Chengdu J-20) and twin nose wheels, leading to the speculation that F-60 could become a carrier-borne aircraft in the future.
+On 31 October 2012, The first prototype made its maiden flight, accompanied by a J-11 serving as the chase aircraft.
+
+
+=== Shenyang FC-31 ===
+In November 2012, the aircraft was officially revealed at Zhuhai Airshow 2012, with the designation Shenyang FC-31, following Chinese export fighter terminology and aircraft such as FC-1 and FC-20. A scale model of the FC-31 was displayed inside the exhibition hall.
+On 12 November 2014, the FC-31 prototype performed its first public flight demonstration at Zhuhai Airshow 2014. The prototype was fitted with two Klimov RD-93 engines. Reuben Johnson of Aviation International News noted the prototype was not optimized in its flight performance. The author also noted that another model with modified details was displayed inside the exhibition hall.
+In 2015, the FC-31 model was displayed first time at a foreign military trade expo, at Dubai Airshow. AVIC official told Aviation Week that the company was pushing the aircraft for export while negotiating with the Chinese government and the People's Liberation Army for further development. Some additional details were given by the FC-31's designer, including its stealth capabilities, payload, and operational range. The aircraft was intended to serve as a competitor to the Lockheed Martin F-35 on the export market, especially for countries which cannot join the F-35 program or afford the American fighter.
+There were also persistent rumors of the FC-31 being developed into a carrier-based naval fighter. In 2015, the FC-31's chief designer Sun Cong suggested that FC-31 would succeed Shenyang J-15 in operating on China's aircraft carriers.
+In 2015, Jiangsu A-Star Aviation Industries Company marketed its EOTS-86 infra-red search and track as a possible addition to the FC-31.
+In November 2016, AVIC released a promotional video of an FC-31 prototype, displaying the refinement in construction quality from earlier prototypes.
+On 23 December 2016, the second prototype of the FC-31 took flight. The second prototype features several revisions and upgrades to the aircraft design. The inefficient RD-93 engine was replaced by two smokeless WS-13E engines, the canopy was changed from the two-piece design to a reinforced single-piece glass, and the control surface configuration was overhauled, now with clipped and swept vertical tails instead of the trapezoid tails. Other improvements included modifications to the vertical stabilizers, wings, and airframe, an electro-optical targeting system, a larger payload, improvements in stealth, and upgraded electronics. This prototype was not featured in the Zhuhai Airshow of 2016. Still, a cockpit model with a sidestick controller, multifunctional touchscreen displays, and a heads-up display was showcased in the AVIC booth.
+The real '31001' prototype aircraft was displayed on the ground in Shenyang, China in 2016. It was displayed again at Zhuhai Airshow 2018, implying China no longer deemed first prototype sensitive technologically.
+On 21 November 2018, the Aviation Week reported that People's Liberation Army (PLA) has taken interest in the Shenyang FC-31.
+By February 2022, AVIC continued to promote FC-31 for export.
+
+
+=== Shenyang J-35 ===
+In June 2020, the Chinese Aeronautical Establishment, the research wing of the Aviation Industry Corporation of China (AVIC), announced that a "new fighter" was under development and would make its maiden flight in 2021. This "new fighter" was theorized by media and military analysts as the navalized version of the Shenyang FC-31.  New reports indicated that the new variant would feature a bigger radome, navalized functions, and different alignments of control surfaces to reduce the radar signature.
+In June 2021, a mock-up of the FC-31 (J-35) prototype was spotted parked on top of China's carrier test facility, which simulates the flight deck of the Type 003 aircraft carrier. Analysts believe the J-35 could serve in China's future Type 003 aircraft carrier, as well as launched with ski-jump on China's older carriers, complementing the fleet of Shenyang J-15. In July 2021, a static FC-31 with opened weapons bay was displayed inside the Shenyang Aircraft Corporation Expo Park. Analysts noted the similarity of the weapons bay dimension between Chengdu J-20 and FC-31, which means the fighter could accommodate PL-15 missiles and other armaments in similar quantities.
+On 29 October 2021, the modified carrier-based variant of the FC-31, tentatively named J-35, conducted its maiden flight. This new prototype, in blue-green primer paint, features a major redesign. A catapult launch bar and folding wing mechanisms were added, intended for operating on the Type 003 aircraft carrier with its electromagnetic catapult system. A chin-mounted sensor turret, similar to the Electro-Optical Targeting System (EOTS) on F-35, is featured. The canopy was modified, blending in with the upper fuselage, allowing for more internal fuel load, aerodynamic advantages, and potential to mount sensors behind the cockpit. The overall shape of the first J-35 prototype indicated a developmental lineage from the second prototype of the FC-31.
+
+On 22 July 2022, the J-35 prototype '350003' was spotted by military analysts. This new prototype was reportedly the second flying prototype and the third overall prototype of the navalized J-35 variant. The new prototype was also painted in the People's Liberation Army Navy (PLAN) grey camouflage, with the PLAN's 'flying shark' logo visible on its vertical stabilizers. The '350003' features sawtooth edges for compartment panels, seamless exteriors, and new engines, reportedly WS-21 or WS-13X, which is a further development of the WS-13E mounted on the second prototype of the FC-31. This engine is fitted with pronounced, serrated exhaust nozzles, helping to reduce rearward radar and infrared signatures. A video of the prototype flying was recorded on the same day.
+In March 2023, the People's Liberation Army Navy released a recruitment video, teasing about the service's future carrier aircraft, which included a rough outline of the FC-31.
+In August 2023, a J-35 prototype was spotted test flying with landing gear extended in China. On 8 December 2023, a mock-up of the J-35 was spotted on the deck of the Type 003 aircraft carrier, which was recently launched and preparing for sea trials at her homeport.
+On 26 September 2023, the land-based variant of the J-35, tentatively named the J-31 by defense analysts, made its first flight. The land-based variant was distinguished by its smaller wing surface area, single nose wheel, and non-clipped wings, different from the earlier J-35 prototype.
+On 13 February 2024, a full-size mockup of the navalized J-35 fighter was spotted aboard China's aircraft carrier Liaoning, under evaluation for potential use on the aircraft deck. The test of the J-35 on Liaoning signified that the fighter is intended to operate not only on catapult-equipped Type 003 but also the older ski-jump (STOBAR) carriers. Analysts also believed the smaller size and lighter weight of the J-35 could provide operational advantages on the Liaoning and Shandong. A few days later on 29 February 2024, the Liaoning embarked to the sea, carrying the J-35 mock-up for further testing. On 13 March 2024, military analysts noted the third flying prototype of the J-35 testing near Shenyang's facilities.
+On 5 November 2024, the People's Liberation Army Air Force (PLAAF) officially announced that the J-35A, the air force variant of the J-35, would attend the Zhuhai Airshow in 2024, held in the same month. The close-up photograph of the J-35A showcased by the PLAAF was painted in grey paint with the Air Force's roundel with the number '75' engraved on the vertical stabilizers, celebrating PLAAF's 75th anniversary. Photographs confirmed the differences with earlier naval J-35 on wing size, nose wheel, and vertical stabilizer design. On 12 November 2024, the J-35A conducted its first public flight performance at the Zhuhai Airshow.
+On 22 September 2025, the PLAN Navy announced that the Shenyang J-35 had been certified for CATOBAR operation. Chinese media released the footage of the launch and recovery of the Shenyang J-35 via electromagnetic catapults onboard the Chinese aircraft carrier Fujian. This makes J-35 the first stealth fighter to accomplish electromagnetic catapult-assisted launch and recovery at sea. The United States Navy's USS Gerald R. Ford is yet to launch the Lockheed Martin F-35C.
+
+
+== Design ==
+
+
+=== Overview ===
+The Shenyang J-35 development program was initiated as the Shenyang FC-31 project, an export-oriented demonstrator funded by private ventures. There were constant revisions between the prototypes and the later models commissioned by the Chinese military, as different parties had divergent demands and requirements. The navalized J-35 and land-based J-35A were also developed in parallel with different missions and roles, corresponding to their intended operational environment. In total, there were four notable variants of the FC-31/J-35 development cycle, including the first flying prototype '31001', the second flying prototype '31003' and the two variants of the land- and carrier-based J-35 fighters, which were known as the J-35A and J-35, respectively.
+The Shenyang FC-31 is a medium-sized aircraft, smaller than the Chengdu J-20, and designed to complement the latter with a lower cost and simpler operations. The twinjet aircraft features a conventional configuration with a blended body and a chiseled nose section, followed by forward-swept intake ramp, diverterless supersonic inlet (DSI) bumps, trapezoidal wings with leading/trailing-edge flaps, all-moving tail-planes, and two canted swept-back vertical stabilizers (the first prototype has triangle stabilizers) with truncated rudders (full-length rudders on the naval J-35 prototypes). The initial prototype featured a two-piece canopy, later replaced by a single-piece bubble canopy on the second prototype and the clamshell-type canopy on the J-35 and J-35A.
+The FC-31 prototype has a twin-wheel nose landing gear, giving provision for the fighter's navalization as a carrier-based fighter. The twin-wheel design was later preserved in the naval Shenyang J-35 design, with a catapult launch bar added. The naval J-35 also features handholds inside the cockpit, folded wings, a larger wing area, and a recovery tailhook for carrier operations. On the land-based Shenyang J-35A, the wheel section is replaced by a single-wheel design, and the variant also features a smaller wing area and different vertical stabilizers. Naval and land variants also have different software and avionics, optimized for the practice of their respective service. Though two variants have separate missions and roles, the shared platform allows easier cross-service joint operations, according to the AVIC.
+
+
+=== Stealth ===
+The Shenyang FC-31 features low-observable aircraft designs, focusing on the reduction of the radar cross-section (RCS). To achieve stealth, the control surfaces are edge-aligned, and engine blades are hidden by the serpentine inlets (S-ducts) behind the diverterless supersonic inlets (DSI) bumps, which obscure the reflective surface of the engine from radar detection. The airframe and its internal weapons bay, compartment doors, and embedded antennas are lined with sawtooth edges and covered with radar-absorbent coating materials, both structurally "baked in" and applied externally. The early prototype featured simple round engine nozzles, which were redesigned on the later models with serrated edges to reduce radar and infrared signatures. AVIC claims the aircraft is stealthy against L-band and Ku-band radars, and would be low-observable against many multi-spectrum sensors. The Shenyang J-35 inherits the FC-31 design with a smooth surface and low-observable characteristics.  A radar reflector (Luneburg lens), reportedly retractable on the J-35A and bolted on for the J-35 prototypes, is fitted underneath the fuselage to mask aircraft's signatures.
+
+
+=== Avionics ===
+The Shenyang FC-31 and Shenyang J-35 are fitted with an active electronically scanned array (AESA) radar with a distributed aperture system (DAS) serving as an optical early-warning system and infrared search and track (IRST). The radar advertised for the FC-31 prototype is the Nanjing Research Institute of Electronics Technology (NRIET) KLJ-7A, which is reportedly similar to performance of the AN/APG-81. Under the chin, the fighter is fitted with an electro-optical targeting system (EOTS) turret. 
+Inside the cockpit, there is a side stick controller on the FC-31 and J-35A, or an integrated center stick for the naval J-35, a conventional heads up display, and a large single-piece multi-function touchscreen display (MFD) of 20 in × 8 in (510 mm × 200 mm) in size. The pilot is also provided with a helmet-mounted display and sight (HMD/S) system, comparable to that of Striker system made by BAE Systems. The flight control system is fully digitalized, with triple redundancy modules and twin data bus. The aircraft is intended to serve as a node in the network of elements with other platforms, playing a key role in Chinese military's kill chain.
+
+
+=== Engines ===
+Two prototypes of the FC-31 and the later Shenyang J-35 use different engine options. The earliest prototype was fitted with Klimov RD-93 engines. The RD-93 engine was reportedly inefficient, leading to the aircraft to exhale black-colored exhaust. Replacing the engine with a more efficient, indigenous choices became a priority for the Aviation Industry Corporation of China (AVIC).
+The second FC-31 prototype is fitted with the domestic Guizhou WS-13E engine, an improved variant of the Guizhou WS-13 that powered the JF-17, providing 87.2 kN (19,600 lbf; 8,890 kgf) of maximum thrust. The WS-13E engine is smokeless and more efficient than the RD-93.
+The further developed Shenyang J-35 was initially powered by the Guizhou WS-21 engine, also known as the WS-13X, a derivative and upgrade of the WS-13E. The WS-21 provides 93.2 kN (21,000 lbf; 9,500 kgf) of thrust, and served as an interim powerplant for the early production J-35.
+The final production powerplant for the J-35 is the Guizhou WS-19, an engine capable of producing approximately 110–116 kN (25,000–26,000 lbf; 11,200–11,800 kgf) of thrust with a higher thrust-to-weight ratio. The J-35 was expected to be capable of supercruise with the WS-19 engines fitted; however As of 5 November 2024 there has been no confirmation this was achieved.
+The J-35 is equipped with a retractable refueling probe for inflight refueling. The aircraft can achieve a short-take off distance of 450 m (1,480 ft) and a landing distance of 700 m (2,300 ft).
+
+
+=== Armaments and payload ===
+
+The Shenyang FC-31 has a lengthened centerline internal weapons bay with a dimension similar to that of Chengdu J-20. The weapons bay has six internal hardpoints. Externally, the fighter has six hardpoints on the wings. The first FC-31 prototype can reportedly carry 8,000 kg (18,000 lb) of payload in total, split between the internal carrying capabilities of 2,000 kg (4,400 lb) and external carrying capacity of 6,000 kg (13,000 lb). Under the regular combat load, the fighter has a combat radius of 648 nmi (746 mi; 1,200 km) and maximum take-off weight of 25,000 kg (55,000 lb). On the second prototype, the maximum take-off weight is increased to 28,000 kg (62,000 lb) along with a modified fuselage.
+Inside the weapons bay, the J-35 can carry six air-to-air missiles, such as PL-10, PL-15 and PL-21. Apart from air-superiority loadouts, the internal bay can also carry precision-strike munitions, with maximum provisions for twelve small diameter bombs, four large deep-penetration bombs of 500 kg (1,100 lb), four supersonic land-attack missiles, or four anti-radiation/anti-ship missiles. Externally, the wings allow the maximum provisions of six air-to-air missiles, 18 small bombs, four large bombs of 500 kg (1,100 lb), or four land-attack missiles. Presumably, the operator can mix the combinations of armaments according to the missions. Aside from underslung weapons, speculative observations also believe an autocannon is located above the port-side air intake.
+
+
+== Operational history ==
+
+
+=== Flight testing ===
+The prototype conducted a high-speed taxiing test and briefly became airborne. On 31 October 2012, prototype No. 31001 conducted the model's maiden flight. It was accompanied by two J-11 fighters in a ten-minute test flight with its landing gear lowered.
+With the maiden test flight of prototype No. 31001 on 30 October 2012, China became the second nation after the United States to have two stealth fighter designs in field testing at the same time. The aircraft continued a limited test program, with footage emerging of further flights that took place in February 2013.
+On 23 December 2016, the second prototype of the FC-31, No. 31003, took its maiden flight. The second prototype featured a modified airframe, with different engines, cockpit, wings, avionics, electronics, and overall dimensions. The aircraft length was increased from 16.8 m (55 ft) to 17.3 m (57 ft) and the maximum take-off weight was increased from 25 t (25,000 kg; 55,000 lb) to 28 t (28,000 kg; 62,000 lb). 
+On 29 October 2021, the third flying prototype of the FC-31, tentatively named J-35, conducted its maiden flight. The variant featured catapult launch bar, folding wing mechanisms, modified canopy. Overall, the "J-35" prototype was largely seen as the developmental continuation of the FC-31 V2. On 22 July 2022, the fourth flying prototype, No. '350003', took its maiden flight. It was reportedly the second flying prototype and the third overall prototype of the "J-35" variant, featuring the People's Liberation Army Navy (PLAN) grey camouflage, a more prominent stealth design, and new engines.
+On 26 September 2023, the land-based variant of the J-35, named J-35A, with a different wing and landing gear design, made its first flight. No aircraft designation number was shown. On 13 March 2024, another prototype of the J-35 reportedly flew near Shenyang Aircraft Corporation facilities.
+In the middle of November 2024, the land-based J-35A was publicly unveiled at the Zhuhai air show in China. The news organisation CNN commented at the time that it was not clear when the J-35A fighter would be commissioned into military use and where the aircraft would then be deployed.
+At the end of May 2025, the Chinese aircraft carrier Fujian carried out its eighth sea trial, with ship-borne Shenyang J-35 stealth fighters, fitted for catapult launch, carrying out tests and flights at the same time.
+In June 2025, a prototype with serial number "3506" was observed, which was approaching production standard.
+On 22 September 2025, the Chinese state broadcaster released multiple videos and photos showing the complete catapult launch and recovery (CATOBAR) sequence for the Shenyang J-35, along with Shenyang J-15T and Xi'an KJ-600 aircraft on the Type 003 Fujian aircraft carrier, via the ship's electromagnetic catapults. PLA Navy also announced that Fujian had achieved "initial full-deck operational capability", laying the foundation for the subsequent integration of the carrier aviation wing and the carrier strike group. These tests were likely conducted months earlier, instead of in September.
+
+
+=== Production ===
+In May 2025, two prototype aircraft, bearing serial numbers 61820 and 61821, were identified by defense analyst Andreas Rupprecht. The serial number indicated their association with the 1st Air Brigade of the People's Liberation Army Air Force (PLAAF), based in Shenyang. The observation suggested the aircraft may have entered early production and limited service.
+In July 2025, Chinese state media showed multiple J-35 fighters on the assembly line inside a Shenyang Aircraft Corporation (SAC) production facility. In the same month, naval J-35 aircraft painted with service serial numbers were photographed in China, indicating the aircraft's service with the People's Liberation Army Navy (PLAN) imminent.
+
+
+=== Deployment ===
+On 3 September 2025, the J-35 and J-35A were shown as part of the PLA Navy and PLAAF arsenal during the V-Day parade in Beijing, as was reported by the Chinese state media China Daily. A number of  J-35 and J-35A took part: several arrowhead-shaped groups of five planes flew by, each containing a J-35 and a J-35A (in addition to a J-20, a J-20A, and a J-20S).
+On 22 September 2025, the PLA Navy announced that the Shenyang J-35 had been certified for catapult launch and recovery (CATOBAR) operation using the electromagnetic catapult onboard the Fujian aircraft carrier.
+
+
+== Export ==
+
+
+=== Pakistan ===
+In January 2024, Pakistan Air Force (PAF) chief Zaheer Sidhu announced Pakistan's intention to buy FC-31 aircraft, and preparations were made for the acquisition. In December 2024, Pakistani media reported that the PAF approved the purchase of 40 aircraft.
+On 4 June 2025, a Pakistani official told Janes Information Services that pilots had begun training in China for the induction of FC-31 aircraft. Pakistan was reportedly considering acquiring 3- aircraft or possibly more with PL-17 missiles. On 6 June 2025, Pakistan's government officially announced the country's plan to acquire the J-35A, with the delivery expected in two years. The sale would make Pakistan the first export customer of the aircraft type.
+However, in late June 2025, Pakistan's Defense Minister Khawaja Asif stated in an interview with Arab News when asked about the J-35 sales, that “it's only in the media, and beneficial mainly for Chinese defense sales". Asif’s remarks dismissed these claims as speculative.
+In April 2026, it was reported that China had Fast-Tracked J-35 deliveries to Pakistan. A Pakistani analyst described the Chinese package as “"an ecosystem rather than merely an aircraft purchase", because of the J-35, KJ-500 AWAC and HQ-19 combination rather than an isolated acquisition.
+
+
+=== Russia ===
+In July 2025, Izvestia consulted an analyst and reported that following the decision to decommission Russian aircraft carrier Admiral Kuznetsov, the Russian Navy might be looking at procuring J-35s to be used on a potential future aircraft carrier design. According to the analyst consulted, the J-35 would be pitted against a proposed navalized variant of the Sukhoi Su-75. The analyst that spoke to Izvestia also reported that the Russian Navy might be interested in procuring a carrier-based AEW&C from China for the future carrier, such as the Xi'an KJ-600.
+
+
+== Variants ==
+FC-31 No. 31001
+First flying prototype. Export-oriented variant.
+FC-31 No. 31003
+Second flying prototype. Export-oriented variant. It featured several major redesigns and a higher maximum take-off weight.
+J-35
+ Naval aviation variant with larger chord and CATOBAR and STOBAR capability.
+J-35A
+ Land–based variant for PLAAF.
+J-31B Gyrfalcon
+Variant unveiled by Chinese state media in July 2024.  The J-31B was depicted in the video as significantly larger than the FC-31 prototype, and will have side weapon bays each capable of carrying at least two missiles in addition to a main bay.  The aircraft was reported by Nikkei as being a naval variant, stating that it is expected to be deployed on the aircraft carrier Fujian.  However, an expert quoted by South China Morning Post believed that the J-31B is more likely intended for the People's Liberation Army Air Force.
+
+
+== Strategic implications ==
+In 2013, U.S. Defense Acquisitions Chief Frank Kendall told a Senate hearing that stolen F-35 data helped U.S. rivals speed up their own fifth-generation fighter projects. In a 2015 article for the Diplomat, Franz-Stefan Gady said that documents leaked to Der Spiegel provided the first public confirmation of theft of top secret data of the Joint Strike Fighter program by Chinese hackers.
+U.S. military and industry officials believed in 2014 that once the J-35 (still called FC-31 then) entered service, it would likely be more than a match for existing fourth-generation fighters like the F-15 Eagle, F-16 Fighting Falcon, and F/A-18E/F Super Hornet. They suggested that the capability of the J-35 against the newest fighters, such as the U.S. F-22 and F-35, would depend on factors such as quantity of the platforms, quality of pilots, and capabilities of radars and other sensors.
+Western commentaries also focused on the export potential of the aircraft, suggesting that the J-35 could be attractive to countries that cannot afford the American fighters or face Western export restrictions. However, regional rivals, including India (HAL AMCA) and Japan (Mitsubishi F-X), were pursuing their own programs to develop fifth and sixth generation fighters to counter China's developments, while some of China's other neighbors were considering purchasing the F-35 or Su-57 to foster their capabilities.
+Numerous comparisons have been made between the Chinese J-35 and American F-35, including their similar size, roles, and wing-tail configurations. Some potential differences have been reported to be their design structure, internal subsystems, and operational requirements. Writing for Air Power Australia in 2014, UK photographer David Bignell claimed that the FC-31 was modeled after the F-22. 
+Accoriding to a March 2025 article from 19FortyFive, the J-35 was developed to "assert its dominance in key regional hotspots", with its stealth, avionics and weapons designed to achieve air superiority over Taiwan.
+
+
+== Operators ==
+ China
+
+ People's Liberation Army Air Force : J-35A
+ People's Liberation Army Navy: J-35
+People's Liberation Army Naval Air Force
+
+
+=== Potential sales ===
+ Egypt
+In May 2025, Egypt was reportedly considering the purchase of the J-35. Egyptian military officials showed interest in the aircraft during an event celebrating 45 years of military ties between Egypt and China.
+ Pakistan
+Pakistan Air Force – 40 aircraft (planned)
+
+
+== Specifications (J-35) ==
+Data from Aviation Industry Corporation of China, Aviation Week, Flight Global unless otherwise attributedGeneral characteristics
+Crew: 1
+Length: 17.5 m (57 ft 5 in)
+Wingspan: 13.5 m (44 ft 3 in)
+Height: 4.8 m (15 ft 9 in)
+Wing area: 61 m2 (660 sq ft)
+Empty weight: 15,000 kg (33,069 lb) Estimate based on similar naval aircraft
+Gross weight: 22,200 kg (48,943 lb) Based on 15,900 lb internal fuel capacity
+Max takeoff weight: 30,000 kg (66,139 lb)
+Powerplant: 2 × Guizhou WS-19 afterburning turbofans 
+Performance
+
+Maximum speed: Mach 1.8
+Mach 1.14, 1,400 kilometres per hour (870 mph; 756 kn) at sea level
+Combat range: 1,250 km (780 mi, 670 nmi) (radius) on internal fuel
+1,900 kilometres (1,200 mi) (radius) with air refueling
+2,000 kilometres (1,200 mi) (radius) with external fuel tanks
+Service ceiling: 16,000 m (52,000 ft)
+g limits: +9/-3
+Armament
+
+Guns: Unknown (Reportedly)
+Hardpoints: 6 × internal hardpoints inside weapons bay, 6 × external hardpoints on wings with a capacity of 2,000 kilograms (4,400 lb) internal, 6,000 kilograms (13,000 lb) external, and up to 8,000 kilograms (18,000 lb) total weapons payload, with provisions to carry combinations of:
+Missiles: 
+Air-to-air missiles:
+PL-10 short-range infrared homing
+PL-15 long range active radar homing
+PL-17 long-range active radar homing (planned)
+PL-21 long-range active radar homing (in development)
+Air-to-ground missiles:
+6 × LD-8A anti-radiation missiles (internally)
+8 × supersonic land attack missiles
+8 × supersonic anti-radiation missiles
+8 × supersonic anti-ship missiles
+Bombs: 
+6 × CM-506KG precision guided glide bomb (internally)
+8 × 500 kg deep-penetration bombs
+30 × smaller bombs
+Avionics
+
+KLJ-7A AESA radar
+Distributed aperture system (DAS) optical early-warning system
+Electro-optical targeting system (EOTS) 
+
+
+== See also ==
+
+Related development
+
+Chengdu J-20
+J-XX
+Aircraft of comparable role, configuration, and era
+
+KAI KF-21 Boramae
+Lockheed Martin F-22 Raptor
+Lockheed Martin F-35 Lightning II
+Sukhoi Su-57
+TAI TF Kaan
+
+Related lists
+
+List of fighter aircraft
+List of active Chinese military aircraft
+List of aircraft produced by China
+
+
+== Notes ==
+
+
+== References ==

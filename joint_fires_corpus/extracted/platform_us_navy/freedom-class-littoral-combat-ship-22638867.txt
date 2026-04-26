@@ -1,0 +1,122 @@
+The Freedom class is one of two classes of the littoral combat ship program, built for the United States Navy.
+The Freedom class was proposed by a consortium formed by Lockheed Martin as "prime contractor" and by Fincantieri (project) through the subsidiary Marinette Marine (manufacturer) as a contender for a fleet of small, multipurpose warships to operate in the littoral zone. Two ships were approved, to compete with the Independence-class design offered by General Dynamics and Austal for a construction contract of up to fifty-five vessels.
+Despite plans in 2004 to only accept two each of the Freedom and Independence variants, in December 2010 the US Navy announced plans to order up to ten additional ships of each class, for a total of twelve ships per class.
+In early September 2016, the US Navy announced that the first four vessels of the LCS program, the Freedom class ships Freedom and Fort Worth and two Independence class, would be used as test ships and would not be deployed with the fleet. In February 2020, the Navy announced that it plans to retire those same four ships. On 20 June 2020, the US Navy announced that all four would be taken out of commission in March 2021 and placed in inactive reserve.
+
+
+== Planning and construction ==
+
+Planning for a class of small, multipurpose warships to operate in the littoral zone began in the early 2000s. The construction contract was awarded to Lockheed Martin's LCS team (Lockheed Martin, Gibbs & Cox, Marinette Marine, Bollinger Shipyards) in May 2004 for two vessels. These would then be compared to two ships built by Austal USA to determine which design would be taken up by the Navy for a production run of up to fifty-five ships.
+On 15 April 2003, the Lockheed Martin LCS team unveiled their Sea Blade concept based on the hull form of the motor yacht Destriero.
+The keel of the lead ship Freedom was laid down in June 2005, by Marinette Marine in Marinette, Wisconsin. She was christened in September 2006, delivered to the Navy in September 2008, and commissioned that November. During INSURV trials, 2,600 discrepancies were discovered, including 21 considered high-priority. Not all of these were rectified before the ship entered service, as moving the ship away from Milwaukee before the winter freeze was considered a higher priority.
+Cost overruns during Freedom's construction combined with projected future overruns led the government to issue a "stop-work" in January 2007 and ultimately led to the cancellation of construction of LCS-3 (the second Freedom class ship) on 13 April 2007. This ship was later reordered.
+After much inconsistency on how testing and orders were to proceed, in November 2010, the Navy asked that Congress approve 10 each of the Freedom and Independence variants.
+
+
+== Design ==
+
+The ship is a semiplaning steel monohull with an aluminum superstructure. It is 377 ft (115 m) in length, displaces 3,500 metric tons (3,400 long tons), and can achieve 47 kn (87 km/h; 54 mph). The design incorporates a large, reconfigurable seaframe to allow rapidly interchangeable mission modules, a flight deck with integrated helicopter launch, recovery and handling system, and the capability to launch and recover boats (manned and unmanned) from both the stern and side.
+The ship uses a Trigon traversing system to move helicopters in and out of the hangar. The ship has two ways to launch and recover various mission packages: a stern ramp and a starboard side door near the waterline. The mission module bay has a three-axis crane for positioning modules or cargo.
+The most serious problems with the Freedom class have been with the electrical systems.
+The fore deck has a modular weapons zone which can be used for a 57 mm gun turret or missile launcher. A Rolling Airframe Missile launcher is mounted above the hangar for short-range defense against aircraft and cruise missiles, and .50-caliber gun mounts are provided topside. The Fleet-class unmanned surface vessel is designed for operations from Freedom-variant ships.
+The core crew is 40 sailors, usually joined by a mission package crew and an aviation detachment for a total crew around 75. Automation allows a reduced crew, which greatly reduces operating costs, but workload can still be "gruelling". During testing of the class lead, two ship's companies rotated on four-month assignments.
+Four 750-kilowatt Fincantieri Isotta Fraschini diesel generators provide 3 megawatts of electrical power to power the ship systems.
+The Congressional Budget Office estimated that fuel would account for only "8 percent to 18 percent" of the total lifecycle costs for the Freedom class. Senator Jeff Sessions of Alabama called the report into question and suggested that the Independence class, built in his state, would be more fuel efficient and that less frequent refuelings would affect military operations beyond the cost of fuel.
+In 2012, a Navy cybersecurity team found major deficiencies in Lockheed's Total Ship Computing Environment, which controls the entire ship to reduce crewing requirements.
+Survivability has been a criticism of both the Freedom and Independence classes, rated at level one by the Navy, compared to level two for the Oliver Hazard Perry-class guided-missile frigates (FFG) they were designed to replace. Lockheed claims the Freedom class is actually more survivable than the FFGs because Navy requirements for various survivability levels have changed since the FFGs were assessed, and because the Freedom class hulls are made of high-strength, low-weight steel that was not previously available.
+Milwaukee was the first Freedom-class ship to be fitted with cavitation performance waterjets (Rolls-Royce Axial-Flow Waterjet Mk-1). The jets create partial vacuums in liquid using an improved impeller blade design. Cavitation jets do not increase the ship's top speed, but deliver 10% greater fuel efficiency with less noise and vibration, reduced lifecycle costs, improved maintainability, increased availability, and potentially improved efficiency at lower speeds. In 2014, the Navy announced plans to add these waterjets to every Freedom variant that is produced. The mixed-flow design was changed to an axial design to push water parallel to the shaft of the impeller.
+The first ships of both LCS classes were delivered before the designs were mature so that improvements could be built into future ships. Many improvements to the Freedom class came from the problems experienced by Freedom (LCS-1) on the ship's first deployment, including power outages, corroded equipment, and a faulty air compressor. To prevent water from being taken into the anchor windlass room, the anchor winch, hydraulic unit, and mooring capstan were replaced with a single electric chain winch on the main deck, and the existing towing chain was replaced with a lighter chain.
+Corrosion resistance was also improved by the impressed-current cathodic protection system being modified by adding protections to the water-jet inlet tunnel. Adjustments to the Freedom class, starting with LCS-3, saw the stern transom lengthened and buoyancy tanks added to the stern to increase weight service and enhance stability. Plans were adjusted to see a significantly less complex gas-turbine electric start system added on LCS-5 to reduce costs and lower ship weight.
+Starting with LCS-17, the Freedom-class ships will be equipped with the TRS-4D naval radar. The TRS-4D is an AESA radar built by Airbus Defence and Space that is similar to the one on German F125-class frigates, the difference being the Freedom class will have a rotating version instead of a fixed panel, the first AESA rotating radar aboard a US Navy ship. It is a three-dimensional, multifunction naval radar combining mechanical and electronic azimuth scanning that delivers increased sensitivity to detect smaller targets with greater accuracy and faster track generation.
+
+
+=== Engine maintenance incidents ===
+As of November 2016, three of four active Freedom-class ships had suffered maintenance incidents involving the engines and associated propulsion hardware. Milwaukee broke down in the Atlantic Ocean in December 2015 and had to be towed back to port. Metallic debris was found in the filter system. The cause was traced to a clutch between the gas turbine and diesel engine systems, which failed to disengage as designed while switching from one propulsion system to the other.
+Fort Worth suffered a similar breakdown in the Pacific Ocean in January 2016. Improper procedures used aboard ship caused a set of combining gears – hardware used to transfer power to the ship's water propulsion system – to be operated with insufficient oil. And in July 2016, Freedom suffered a seawater leak into one of her two main diesel propulsion systems and had to return to San Diego for seawater decontamination.
+
+
+=== Transmission design defect ===
+The Freedom class has experienced severe issues with its transmission, specifically, its combining gear, a system described as "generally unreliable", yet one that needs to be engaged for reaching the speeds over 12 knots (22 km/h). After Little Rock suffered a breakdown of its combining gear early in 2020, Detroit had to limp back to port in Mayport, Florida in October 2020 from a deployment to South America after suffering another breakage of the combining gear.
+In January 2021, the Navy halted deliveries of Freedom-class ships due to a design flaw of the ship's combining gear. The Navy, Marinette and the firm that designed the combining gear, Renk AG, were working on an upgrade to address the issue. The Navy announced that, once the upgrade is complete, new deliveries will resume. The Navy predicted it would take months to implement the upgrade to ships already in active service. Commissioning of LCS-21, Minneapolis-St. Paul was thus postponed.
+The combining gear problem was later fixed and applied to LCS-19 St. Louis and all follow-on ships. LCS-11, 13, 15 and 17 have all begun undergoing repair work or are scheduled to do so. The cost for fixing the defective combining gear is estimated to be between $8 million and $10 million per ship.
+
+
+== Ships ==
+
+
+=== Ship orders and naming history ===
+In March 2009, the Navy ordered two Freedom-class LCSs, the lead ship Freedom (LCS-1) and Fort Worth (LCS-3), announced by then-Secretary of the Navy Donald C. Winter. The Freedom class are assigned odd hull numbers. The Independence class have even numbers. In December 2010, the Navy placed a block-buy order of up to 10 additional Freedom-class ships, for a total of 12 ships in the class.
+In March 2016, the Navy exercised an option under the block-buy contract for one additional Freedom-class vessel. LCS-25 would be the 11th vessel built under the block-buy contract and the 13th overall. Freedom and Fort Worth were built prior to the block-buy order.
+In March 2014, the Navy awarded contract options to fund construction of LCS-17 and LCS-19, the seventh and eighth ships in a ten-ship contract. In April 2015, the Navy awarded LCS-21 to Lockheed Martin. In April 2016, the Navy awarded a contract to Lockheed Martin for LCS-25, the 13th of the Freedom-class ships. In October 2017, Marinette Marine announced the order to build LCS-27, at a cost under the congressional cost cap of $584 million.
+In February 2018, Navy Secretary Richard V. Spencer named LCS-27 as Nantucket.
+In September 2018, the Navy ordered two additional Independence-class ships and one Freedom-class ship.
+In January 2019, the Navy exercised an option in their contract with Lockheed Martin to purchase a single additional Freedom-class ship, numbered LCS-31 and has since been named Cleveland.
+
+
+=== Ships in class ===
+
+Note: The Navy has announced that Cleveland LCS-31 will be the last Freedom-class LCS to be built despite placing orders for Independence-class variants numbered LCS-32, LCS-34, LCS-36, and LCS-38.
+
+
+==== Plan to retire LCS hulls ====
+During planning for the FY21 Budget proposal, the Navy recommended the scrapping of the original four hulls (two Freedom class, two Independence class) in 2021, some 10 years ahead of prior planning. This was explained by former Chief of Naval Operations, Admiral Mike Gilday, during the WEST Conference in March 2020, when he said: We made a decision a number of years ago. … In order to give capability to LCS 5 and beyond, particularly the block buys we did in 2015, we decided we needed to do much more testing and use those first four hulls, so that we could better understand what were the issues with respect to hull maintenance and engineering that kept plaguing us and kept us from getting those ships to sea. … We used those first hulls to test and we put no money into upgrading them like the rest of the fleet. … Those first four ships are not bringing lethality to the fight. … I just didn't see the return on investment.
+There was also a comment that it would cost another $2 billion to get the first four hulls prepped for sea duty.
+In May 2021, the Navy confirmed it would decommission the first two littoral combat ships in 2021. In July 2021, the Navy decommissioned Independence. Freedom was decommissioned in September 2021. Both ships will join the reserve fleet.
+In June 2021, the Navy released an abbreviated long-range shipbuilding report to Congress, which included ships planned to be decommissioned in fiscal year 2022. This included three Freedom class ships, Fort Worth, Detroit, and Little Rock, and the Independence class Coronado. All four ships would be placed Out of Commission in Reserve and retained as reactivation candidates. Congress denied the Navy from retiring the three Freedom class ships in Fiscal Year 2022.
+
+
+== Freedom-class based variants ==
+
+
+=== Small Surface Combatant variant ===
+Lockheed submitted a variety of upgrade options for Freedom-class ships to the Small Surface Combatant Task Force, aimed at transforming the LCS from "niche" platforms into ships with more protection and firepower beyond Flight 0 to survive against more advanced military adversaries. With 200 short tons (180 t) of space available for mission packages, room is available for added capabilities. Anti-aircraft warfare was suggested with the installation of a SPY-1F air defense radar and permanently installed vertical launch systems (VLS).
+Current 387-foot (118 m) length versions could house four to 32 VLS cells, each holding four RIM-162D Evolved Sea Sparrow missiles or one SM-2 missile. For surface warfare, the 2.2-inch (57 mm) gun could be replaced with a larger weapon up to the Mk 45 5-inch (130 mm); integration of the AGM-114L Hellfire missile for defense against fast-attack craft  was also factored in.
+Lockheed's approach was to integrate mission systems into the hull so that the ships could perform anti-submarine, anti-surface, and anti-aircraft duties without needing to swap out mission packages. Weight would be increased from 3,400 to 3,600 tons and the hull could be stretched an additional 23–33 feet (7–10 m). In addition to adding vertical launch tubes and a sonar, the main gun would be integrated with the stronger and more sophisticated radar.
+The Navy's recommendation to base the Small Surface Combatant on upgraded versions of both Freedom and Independence LCSs was accepted in December 2014. Although Lockheed submitted improvements including vertical launch systems, 3.0-inch (76 mm) guns, and advanced combat systems and sensors, the Navy opted to keep the 2.2-inch (57 mm) gun, not add a vertical launch system, and chose to add an upgraded 3-D radar. Other changes included installation of an unspecified over-the-horizon missile, Mark 38 0.98-inch (25 mm) guns, a torpedo countermeasures system, a multifunction towed array system, installation of the SeaRAM launcher, an upgraded countermeasures decoy system, an upgraded electronic warfare system, armor added to vital spaces, and improved signature management.
+The SSC will focus in SUW and ASW with these additions, as well as retaining all other features of their mission packages. The SSC is not required to perform MCM, which will continue to be handled by the LCS. The vessels will retain a degree of modularity to concentrate on one mission set and will still have mission bays, although they may be reduced. SSC vessels are planned to begin procurement by 2019, and whether the enhancements can be added to existing LCS hulls is being investigated.
+
+
+=== Multi-mission combat ship variant ===
+In 2012, Lockheed renamed the Surface Combat Ship (SCS) to match GD's Multi-Mission Combatant term and revealed that the full capabilities, such as Aegis, would only be available on a stretched 3,500-ton hull.
+Lockheed has also been working on a trimmed-down version of the Freedom-class LCS to offer on the international market for smaller patrol vessels. This Multi-Mission Combat Ship adds in phased-array radar and a vertical launch system on a smaller hull with a smaller crew size, at the cost of removing the high-speed gas turbines and one-third of the mission module area.
+A much larger, more capable frigate design was submitted to meet the requirements of the US Navy's proposed FFG(X) program. Although based on the Freedom hull form, it has to be bigger and more heavily armed to meet more demanding mission requirements. In February 2018, this design was one of the five finalists selected to be considered for the 20-ship contract that will be awarded in 2020.
+In May 2019, Lockheed Martin announced that it won't submit a bid to compete in the design of the Navy's FFG(X), as it elected to focus on its involvement developing the frigate's Aegis-derived COMBATSS-21 combat management system and other systems, such as Mk-41 VLS, processing of ASW area, advanced electronic warfare and platform integration, etc. On 30 April 2020, Fincantieri Marinette Marine's FREMM multipurpose frigate won the contest.
+
+
+==== Multi-Mission Surface Combatant ====
+Derived from previous Surface Combat Ship, MMSC was designed to confront modern maritime and economic security threats at both littoral and open ocean waters. It was funded by the need of Royal Saudi Navy (RSN). MMSC features an open-architecture design with semi-planning mono-hull made of steel and aluminum superstructure. It has a length of 389 ft 1 in (118.6 m), a beam of 57 ft 9 in (17.6 m), a draft of 14 ft 1 in (4.3 m) and 4,000 short tons (3,600 t) of displacement. The large deck supports an MH-60R Seahawk and the hangar can accommodate a helicopter plus two vertical take-off and landing unmanned air vehicles (VTUAVs).
+Rigid-hulled inflatable boats (RHIBs) will be carried amidship to support naval missions in high sea state and the articulating stern ramp is designed to enable fast and safe deployment of boats. Its anti-surface warfare armament includes two quad launchers for RGM-84 Harpoon Block II or similar anti-ship missiles, one MK-15 Mod 31 SeaRAM with 11-cell RIM 116C Block II Rolling Airframe Missiles (RAMs) CIWS, a 2.2-inch (57 mm) Mk110 or 3.0-inch (76 mm) Mk75 OTO Melara deck gun and medium-caliber rapid-fire guns, such as 0.5-inch (13 mm) machine guns, M621 0.79-inch (20 mm) NARWHAL remote-controlled guns or similar.
+For ASW missions, the helicopter and Nixie AN/SLQ-25 torpedo defense system, Mk-32 Surface Vessel Torpedo Tubes. For AAW, the ship can be outfitted with two eight-cell Mk-41 VLS with a mix of RIM-162 ESSM medium and SM-2 long range missiles, as a new 150 kW laser weapon that is being testing on existing LCS. MMSC are fitted with Aegis-derived COMBATSS-21 combat management system (CMS), which is designed to integrate the ship's sensors, communications and armament to provide improved mission flexibility and self defense.
+Sensors include TRS-4D GaN AESA (rotating of fixed) surveillance and target acquisition radar, a modern fire control radar (for rotated), a multi-function phased array radar, an identificator friend or foe (IFF), Automatic Launch of Expendables (ALEX) chaff and decoy launching system, AN/SLQ-61 Lightweight Tow (LWT) Torpedo Defense Mission Module (TDMM), Nulka active missile decoy, towed array and a compact low-frequency active and passive variable depth sonar. Propulsion is a CODAG (combined diesel and gas) system with speed of over 30 knots (56 km/h; 35 mph) and a range of 5,000 nautical miles (9,300 km; 5,800 mi) at a speed of 10 knots (19 km/h; 12 mph).
+MMSC was proposed as the next multi-mission frigate for the Hellenic Navy, which would acquire four new frigates in the following years. Greece required four new MMSC frigates, an upgrade of its current four MEKO-200HN frigates with common systems, participation contracts for the future Constellation-class frigate, plus two ships of the Arleigh Burke-class destroyer or Ticonderoga-class cruiser for an urgent intermediate solution. This proposal was rejected in favour of the new FDI-class frigate.
+
+
+== Foreign sales ==
+
+
+=== Saudi Arabia ===
+Lockheed Martin has offered an Aegis Combat System-equipped variant for national missile defense radar picket use to a number of Persian Gulf states.
+The Surface Combat Ship was offered to Saudi Arabia as part of a 2011 arms deal. The total cost for the eight ships was reported to be as much as $5 billion. The Saudi Naval Expansion Program II calls for some $20 billion for new warships, which can include up to 12 Freedom-class ships; the Saudis have not looked to purchase Austal's Independence-class ship. The Saudis, as well as other potential foreign buyers, want permanent weapons capabilities built into the ship rather than interchangeable mission packages.
+Another potential ship under evaluation was the Arleigh Burke class destroyer. The Freedom class would be outfitted with vertical missile launchers and the SPY-1F radar, a smaller and lighter but shorter range version of Arleigh Burke's SPY-1D. A decision between the ships would be based on the desire for a large-hulled ship with a large missile defense system or a larger number of small-hulled multimission ships.
+In October 2015, Saudi Arabia requested the sale of four Freedom-class ships to update its eastern fleet in a potential $11.25 billion deal via FMS. A letter of offer and acceptance was signed by the US Navy and Saudi Arabia in May 2017. In March 2018, Lockheed Martin was awarded a $481 million contract by the Naval Sea Systems Command to support the construction of MMSCs and the steel-cutting ceremony took place in October 2019.
+In December 2019, Lockheed Martin with Fincantieri Marinette Marine was awarded a $1.96 billion contract to provide detailed design and construction and the contract-related work is expected to be completed by June 2026. The Multi-Mission Surface Combatant (MMSC) variant does away with the LCS modular mission package ability and the forward two mission bays, but keeps the aft mission bay with a stern ramp. The requirement for an Aegis combat system was dropped for cost reasons and the ships will instead feature the TRS-4D AESA air search radar.
+Unlike the Flight 0 Freedom, the MMSC features two 8-cell Mk 41 VLS that can carry 16 SM-2 or 64 ESSMs in total, as well as an OTO Melara 3.0-inch (76 mm) main gun, Harpoon Block II anti-ship missiles, torpedoes and the SeaRAM. It will also have an MH-60R helicopter, ASW sonar suites, and the Link 16 data-link for interoperability with regional US forces.
+The first of four MMSC vessels for the Royal Saudi Navy, named Saud (820), was launched on December 16, 2025, at the Fincantieri Marinette Marine shipyard in Wisconsin.
+
+
+== See also ==
+
+Ada-class corvette (Turkey)
+Braunschweig-class corvette (Germany)
+Doha-class corvette (Qatar)
+Gowind-class corvette (France, exports)
+Kamorta-class corvette (India)
+Project 20386 corvette (Russia)
+Type 056 corvette (China)
+
+
+== References ==
+
+
+== External links ==
+Freedom-class Littoral Combat Ship on navyrecognition.com

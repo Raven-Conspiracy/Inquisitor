@@ -3,3 +3,4 @@ __pycache__/
 .DS_Store
 *.partial.*.jsonl
 shard_*_work.json
+joint_fires_corpus/raw/

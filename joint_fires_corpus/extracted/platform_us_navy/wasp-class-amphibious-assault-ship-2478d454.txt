@@ -1,0 +1,50 @@
+The Wasp class is a class of landing helicopter dock (LHD) amphibious assault ships operated by the United States Navy. Based on the Tarawa class, with modifications to operate more advanced aircraft and landing craft, the Wasp class is capable of transporting almost the full strength of a United States Marine Corps Marine Expeditionary Unit (MEU), and landing them in hostile territory via landing craft or helicopters as well as providing air support via AV-8B Harrier II attack aircraft or F-35B Lightning II stealth strike-fighters. All Wasp-class ships were built by Ingalls Shipbuilding, at Pascagoula, Mississippi, with the lead ship, USS Wasp, commissioned on 29 July 1989. Eight Wasp-class ships were built, and as of April 2021, seven are in active service, as USS Bonhomme Richard was seriously damaged by fire on 12 July 2020, and subsequently decommissioned in April 2021.
+
+
+== Design ==
+The Wasp class is based on the preceding Tarawa-class design. The design was modified to allow for the operation of AV-8B Harrier II aircraft and Landing Craft Air Cushion (LCAC) hovercraft, making the Wasp class the first ships specifically designed to operate these.
+
+The main physical changes between the two designs are the lower placement of the ship's bridge in the Wasp class, the relocation of the command and control facilities to inside the hull, the removal of the 5-inch (127 mm) Mk 45 naval guns and their sponsons on the forward edge of the flight deck, and a lengthening of 24 feet (7.3 m) to carry the LCACs.
+Each Wasp-class ship has a displacement of 40,500 long tons (41,150 t) at full load, is 831 feet (253.2 m) long, has a beam of 104 feet (31.8 m), and a draft of 27 feet (8.1 m). For propulsion, most of the ships are fitted with two steam boilers connected to geared turbines, which deliver 70,000 shaft horsepower (52,000 kW) to the two propeller shafts. This allows the LHDs to reach speeds of 22 knots (41 km/h; 25 mph), with a range of 9,500 nautical miles (17,600 km; 10,900 mi) at 18 knots (33 km/h; 21 mph). The last ship of the class, USS Makin Island, was instead fitted with two General Electric LM2500 geared gas turbines. The ship's company consists of 1,208 personnel.
+
+
+=== Amphibious operations ===
+The LHDs can support amphibious landings in two forms: by landing craft and by helicopter. In the 266-by-50-foot (81 by 15.2 m) by 28-foot (8.5 m) high well deck, the LHDs can carry three Landing Craft Air Cushion, twelve Landing Craft Mechanised, or 40 Amphibious Assault Vehicles (AAVs), with another 21 AAVs on the vehicle deck. The flight deck has nine helicopter landing spots and can operate helicopters and tiltrotors as large as the Sikorsky CH-53E Super Stallion and MV-22B Osprey. The size of the air combat element varies depending on the operation: a standard air combat element consists of six Harriers or six F-35B Lightning IIs and four AH-1W/Z Super Cobra/Viper attack helicopters for attack and support, twelve Ospreys and four Super Stallions for transport, and three or four Bell UH-1Y Venom utility helicopters. For a full assault, the air group can have a maximum of 22 Ospreys, while a Wasp operating in the sea control or "Harrier carrier" or "Lightning carrier" configuration carries 20 AV-8Bs or F-35Bs (though some ships of the class have operated as many as 24 Harriers), supported by 6 Sikorsky SH-60 Seahawk helicopters for anti-submarine warfare. Two aircraft elevators move aircraft between the flight deck and the hangar; in order to transit the Panama Canal, these elevators need to be folded in.
+
+Each ship is capable of hosting 1,894 personnel of the United States Marine Corps; almost the full strength of a marine expeditionary unit (MEU). A Wasp-class vessel can transport up to 30,800 square feet (2,860 m2) of cargo, and another 20,000 square feet (1,858 m2) is allocated for the MEU's vehicles, which typically include 5 M1 Abrams battle tanks, up to 25 AAVs, 8 M198 howitzers, 68 trucks, and up to 12 other support vehicles. A six-track internal monorail system and six 12,000-pound (5,400 kg) internal elevators are used to shift cargo from the cargo holds to landing craft in the well deck.
+Each Wasp-class ship has a hospital with 64 patient beds and 6 operating rooms. An additional 536 beds can be set up in an overflow casualty ward as needed.
+
+
+=== Armament and sensors ===
+
+The armament of the first four Wasp class consists of two Mark 29 octuple launchers for RIM-7 Sea Sparrow missiles, two Mark 49 launchers for RIM-116 Rolling Airframe Missiles, three 20 mm Phalanx CIWSs, four 25 mm Mark 38 chain gun systems, and four .50 caliber machine guns. The next four ships, Bataan, Bonhomme Richard, Iwo Jima, and Makin Island, have a slightly reduced weapons outfit compared to their preceding sister ships, with one Phalanx and one Mark 38 gun removed.
+Countermeasures fitted to the ships include four to six Mark 36 SRBOC chaff and decoy launchers, an AN/SLQ-25 torpedo decoy, AN/SLQ-49 chaff buoys, a Sea Gnat missile decoy, and an AN/SLQ-32 Electronic Warfare Suite.
+The sensor suite fitted to each ship comprises an AN/SPS-48 or AN/SPS-52 air-search radar backed up by an AN/SPS-49 air-search radar, an SPS-67 surface search radar, an AN/URN-25 TACAN system, along with several additional radars for navigation and fire control.
+
+
+== Construction ==
+All Wasp-class ships were built by Ingalls Shipbuilding, at Pascagoula, Mississippi. The first ship of the class, USS Wasp, was commissioned on 29 July 1989.
+The fifth ship of the class, USS Bataan, was constructed through a process of modular assembly and prefitting out, which meant that the LHD was almost 75 percent complete when she was launched. Bataan was also the first LHD that was purpose built to house female crew members (as opposed to being modified after completion), with dedicated berths for up to 450 female sailors or Marines.
+Japanese Defense Minister Itsunori Onodera in 2014 suggested that Japan purchase at least one Wasp-class ship to provide robust defensive amphibious capability for Japanese outer islands in the face of Chinese threats.
+
+
+== Ships in class ==
+
+
+== Video games ==
+In the video game ArmA 2 the MARSOC team callsign Razor operates amidst the 27th MEU from the fictional LHD-9 Khe Sanh
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Bibliography ===
+Bishop, Chris; Chant, Christopher (2004). Aircraft Carriers: The World's Greatest Naval Vessels and Their Aircraft. London: MBI. ISBN 0-7603-2005-5. OCLC 56646560.
+
+
+== External links ==
+
+Seaforces.org

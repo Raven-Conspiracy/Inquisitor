@@ -1,0 +1,1210 @@
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     
+      Mark Stokes and Eric Lee 
+ 
+ 
+    April 12, 2022 
+  
+ 
+ 
+Early Warning in the 
+Taiwan Strait 
+
+
+ 
+ 
+ 
+ 
+Early Warning in the Taiwan Strait 
+ 
+ 
+About the Project 2049 Institute  
+ 
+The Project 2049 Institute is a nonprofit research organization focused on promoting American values 
+and security interests in the Indo-Pacific region. We specialize in open-source research using Chinese 
+language sources to inform policy debate and advance public education. Our core mission is to create 
+and disseminate knowledge that makes the region more peaceful and prosperous. 
+ 
+The Project 2049 Institute is located in Arlington, Virginia, and was co -founded in 2008 by the 
+Honorable Randall Schriver and Lt Col Mark Stokes (USAF, ret.). We are a 501(c)3 tax -exempt 
+organization. Independent and non -partisan, our research is focused on bolstering human rights and 
+national security. 
+ 
+ 
+About the Authors 
+ 
+Mark Stokes is Executive Director of the Project 2049 Institute. In addition to Taiwan issues, 
+Mark’s research focus  includes Chinese People’s Liberation Army (PLA) Rocket Force and 
+Strategic Support Force, defense industry, military and political leadership, and cross -Strait 
+relations. Mark has served in a variety of military and private sector positions. A 20 year U.S. Air 
+Force veteran, he served in intelligence, planning, and policy positions. From 1984 -1989, he was 
+assigned to the Philippines and West Berlin. After graduate school and Chinese language training, 
+Mark served as assistant air attaché at the U.S. Embassy in Beijing from 1992 to 1995. From 1995 
+to May 1997, he was assigned as a strategic planner within the U.S. Air Force Plans and Operations 
+Directorate. Between 1997 and 2004, he served as senior country director for China and Taiwan 
+in the Office of the Secretary of Defense. After retiring from military service, he worked in the 
+private sector on Taiwan for more than three years. Mark joined Project 2049 in 2008. He holds a 
+BA from Texas A&M University and graduate degrees in international relations and Asian studies 
+from Boston University and the Naval Postgraduate School. He has working proficiency in 
+Mandarin Chinese. 
+ 
+Eric Lee is Associate Director of Programs at the Project 2049 Institute. He manages the institute’s 
+internship program, AsiaEye blog, outreach, and co-leads several core projects, including the U.S.-
+Taiwan Defense Industrial Cooperation and Supply Chain Security Program. Previously, he 
+managed all aspects of the institute’s senior visiting fellowship with the former Chief of the 
+General Staff of Taiwan’s armed forces. Eric’s primary areas of research are cross-Strait security, 
+U.S.-China, and U.S.-Taiwan issues. His writing has appeared in  NBC News, The Diplomat, The 
+National Interest, and various Project 2049 publications. Eric holds a bachelor's degree from the 
+University of California, Los Angeles. He is a Pacific Forum Young Leader and was previously 
+an Alexander Hamilton Society Security and Strategy Seminar Fellow. Eric is fluent in Mandarin. 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+Early Warning in the Taiwan Strait 
+ 
+ 
+Acknowledgements  
+ 
+The authors would like to recognize and thank Fu S. Mei, Ian Easton, Colby Ferland, Surya 
+Narayanan, Lilly Lee, Steven Wang, Alice Cho, and Jenny Li. Their contributions, corrections, edits, 
+and suggestions made this a better report. Any remaining errors are the responsibility of the authors.   
+  
+The Project 2049 Institute’s research is supported by private foundations, U.S. government agencies, 
+like-minded governments, corporations, and individual donors. A complete list of our supporters can 
+be found on our website at https://project2049.net/about/.  
+ 
+Cover Image: Aerial view of military radar and asphalt road in Kenting National Park, Hengchun 
+Town, Southern Taiwan at sunrise. (Source: “PNK Photo.”) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+1 
+ 
+Early Warning in the Taiwan Strait 
+ 
+Introduction 
+ 
+Air sovereignty is a nation’s exercise of absolute control and authority over the airspace above its 
+territory. Political and military leaders demonstrate authority over territorial airspace through 
+surveillance and control. Territorial airspace is the domain above a country’s land areas, internal 
+waters, and territorial waters out to no more than 12 nautical miles. The U.S. Department of 
+Defense defines air sovereignty as  “a nation’s inherent right to exercise absolute control and 
+authority over the airspace above its territory.”1  
+ 
+Taiwan, under its current Republic of China (ROC) constitution, exists as an independent 
+sovereign state. From Beijing’s perspective, there i s one China, Taiwan is part of China, and the 
+People’s Republic of China (PRC) is the sole legitimate government of China in the international 
+community. PRC claims over Taiwan represent a border dispute in which one side claims the entire 
+territory of the other. 
+ 
+Early warning systems are critical at each point along the peace -war continuum. Early warning 
+generally includes intelligence, space -based infrared sensors, and long -range radars. Various 
+sources of intelligence, such as human resource intelligenc e, signals intelligence, and satellite 
+imagery may provide strategic warning pending military action. U.S. Space Command provides 
+warning through satellite-based infrared sensors that are able to detect heat signatures created by 
+ballistic missiles upon launch. Alerts are shared with allies and partners, including Taiwan. 
+ 
+Taiwan relies mostly on radar for early warning. 2 Ground-based and airborne radars and other 
+sensors search the air, space, maritime, land, cyber, and electromagnetic domains for indications 
+and warning s of potential threats, including a full -scale invasion. Radar intelligence can be 
+produced through monitoring and cataloging air activity over time, which helps discern patterns 
+and unusual activity. Radar is correlated with identification friend or foe (IFF) equipment and 
+passive sensors to determine the nature of flight activity. It scans within a defined geographic area 
+well beyond territorial airspace, known commonly as an air defense identification zone (ADIZ). 
+Air surveillance radar works in tandem with civilian air tra ffic control to deconflict the use of 
+airspace and enable vectoring of fighters to visually identify flight activity within an ADIZ.3 Upon 
+detecting large-scale raids, long-range radars enable the dispersal of aircraft and cueing of ground- 
+and sea-based air defenses. Early warning thus offers Taiwan’s national command authority an 
+essential window of time to implement contingency plans for civil defense, mobilization, and 
+counterstrikes.  
+ 
+ 
+ 
+(Figure 1: At very long ranges the curvature of the Earth limits the so-called “radar horizon.” 
+Source: “Ogier Electronics.”) 
+
+
+ 
+ 
+2 
+ 
+Early Warning in the Taiwan Strait 
+ 
+Ground-based early warning radars are typically characterized by large antennae  and low 
+frequencies that can detect and track PLA flight activity hundreds of kilometers away. Line of 
+sight limits a radar’s detection range. The higher the radar, the greater the range, placing a premium 
+on mountaintop real estate. Taiwan is blessed with some of the highest elevations in the Indo -
+Pacific region, giving its radars an advantage. In addition to conventional long range radar systems, 
+Taiwan has invested in early w arning radar systems capable of detecting potentially catastrophic 
+ballistic and land attack cruise missile strikes. 
+ 
+A powerful ground-based early warning radar, similar in appearance to the U.S. Precision 
+Acquisition Vehicle Entry Phased Array Warning Sy stem ( PAVE PAWS ) radar, detects PLA 
+ballistic missile launches upon breaking the horizon thousands of kilometers away. The single 
+ground-based radar is also capable of detecting airbreathing flight vehicles and maritime traffic 
+transiting the Taiwan Strait. However, any ground-based system will have limitations on the ability 
+to provide early warning against cruise missiles and other low flying, low observable flight 
+vehicles. Powerful radars constructed on airborne early warning aircraft fill such critical gaps.4 
+ 
+For Taiwan, early warning is a critical requirement at the strategic, operational, and tactical levels 
+of warfare. The Taiwan Relations Act (TRA) states that the United States shall “maintain the 
+capacity of the United States to resist any resort  to force or other forms of coercion that would 
+jeopardize the security, or the social or economic system, of the people on Taiwan.”5 Furthermore, 
+the U.S. shall make available “such defense articles and defense services in such quantity as may 
+be necessary to enable Taiwan to maintain a sufficient self -defense capability.” However, since 
+2007, U.S. defense policy toward s Taiwan appears to have adopted a n increasingly restrictive 
+definition of self -defense. This shift most recently manifested itself in a new State Department 
+security assistance policy toward Taiwan that enshrines an arbitrary distinction between 
+“asymmetric defense” and “conventional” defe nse articles and services. While details remain 
+unclear, the new policy allegedly includes a strong presumption of denial of requests for defense 
+articles and services judged to be “conventional” in nature.6 
+ 
+Early warning, and the air sovereignty mission  more broadly, is an example of a capability that 
+defies the simple “asymmetric” versus conventional dichotomy. This brief examines the role of 
+early warning in Taiwan’s national security and defense and within the context of the broader U.S.-
+Taiwan relationship.  
+
+ 
+ 
+3 
+ 
+Early Warning in the Taiwan Strait 
+ 
+Air Sovereignty, PLA Use of Force, and the Conflict Continuum 
+ 
+Chinese use of military force takes place along a continuum from peace to war. Coercive courses 
+of action, known i n contemporary lexicon as “gray -zone” operations, are directed milita ry 
+activities designed by the Central Military Commission (CMC) to advance the Chinese Communist 
+Party (CCP) Politburo’s political goals with minimal cost. The CMC Political Work Department 
+likely plays a critical role in planning and executing coercive military campaigns.7 
+ 
+Coercion succeeds when Taiwan’s political leadership concedes to Beijing’s demands under armed 
+duress, despite retaining the power to resist.8 Coercive uses of force augment propaganda, military 
+liaison, diplomatic, United Front Work, and economic instruments. Graduated escalation increases 
+the risk of continued resistance, instilling in an enemy fear of future loss by slowly raising the risk 
+of greater d amage. Coercion also requires the  ability to retain control over each step on the 
+escalation ladder. A coercive campaign may seek to sow fear and uncertainty, or inflict pain and 
+destruction, to generate popular support to compel Taiwan’s leadership to the negotiating table on 
+unfavorable terms. 
+ 
+At the low end of the spectrum, the CMC routinely calibrates shows of force for strategic effect. 
+Shows of force are a form of subtle cross -Strait signaling, demonstrating potential consequences 
+of a particular policy decision in Washington or Taipei. Military actions are amplified through 
+PLA propaganda and liaison channels f or audiences around the world. Courses of action i n the 
+middle part of the continuum include an air and/or maritime blockade, an island grab, and a 
+strategic paralysis campaign.  
+ 
+A maritime blockade would seek to isolat e Taiwan by attacking its sea lines of communication 
+into and out of ports.  An air blockade could forcibly bring the Taipei Flight Information Region 
+(FIR) under Shanghai or establish and enforce a no -fly zone over Taiwan. An air blockade also 
+could suppor t a broader campaign to attain information dominance. Judicious application of 
+firepower, combined with electromagnetic spectrum operations, cyber, operations security, and 
+deception presumably would seek to paralyze Taiwan’s command and control system and  its 
+ability to mount an organized resistance. Strategic-level targets likely would include early warning 
+radar systems, national and operational -level command and control centers, communications 
+nodes, critical infrastructure, and any deep interdiction assets. PLA writings suggest heavy reliance 
+upon surprise an d pre -emption to shock leaders i n Taiwan, paralyze the ability to conduct 
+operations, and to force a political solution soon after initiation of hostilities. 
+ 
+At the upper end of the conflict continuum, Beijing could seek the destruction of the ROC central 
+government, physical occupation, and imposition of will upon a vanquished population. Planning 
+for annihilation takes political considerations off the table and assumes the ROC armed forces are 
+the center of gravity. PLA mobilization for an invasion would be difficult to mask. However, 
+China’s leaders may believe that ordering large -scale surprise missile strikes could decisively 
+destabilize Taiwan, compelling it to acknowledge PRC sovereignty over the island before U.S. 
+intervention. Theater-range hypersonic glide vehicles, land attack cruise missiles, and ballistic 
+missiles pose the most significant threats to Taiwan’s strategic and operational -level command 
+and control system.  
+
+ 
+ 
+4 
+ 
+Early Warning in the Taiwan Strait 
+ 
+The Chinese Airspace Challenge 
+ 
+Chinese Communist Party statecraft has adopted extraordinary means to control Taiwan’s 
+interactions with the international community since establishing the PRC in 1949. Such measures 
+include blocking Taiwan’s meaningful participation in United Nations-affiliated agencies, such as 
+the International Civil Aviation Organization (ICAO). The United Nations calls upon members to 
+refrain from “the threat or use of force against the territorial integrity or political independence of 
+any state.”9 The PRC has ensured that Taiwan is excluded from such criteria. 
+ 
+The CCP has outlined seven triggers for employment of non -peaceful means to advance its 
+political goals: 1) actions resulting in Taiwan’s permanent separation from China; 2) sustained 
+refusal to engage in cross-Strait negotiations; 3) internal chaos in Taiwan; 4) a drastic deterioration 
+of Taiwan’s armed forces and operational readiness; 5) permanent basing of U.S. or other foreign 
+military forces on Taiwan; 6) Taiwan’s deployment of nuclear weapo ns; and 7) subverting CCP 
+legitimacy through direct promotion of democracy or other measures.10  
+ 
+Military courses of action available to the Politburo Standing Committee and CMC can generally 
+be categorized as coercive or annihilative. Annihilation seeks the destruction of the ROC state and 
+imposition of will on a vanquished population. Annihilative courses of action set aside the political 
+context, including conditions and demands. Coercive courses of action are calibrated for political 
+effect and intended to fall below the threshold to justify direct U.S. military intervention. Targets 
+of a coercive campaign may include Taiwan’s public, the United States, or coalition partners. The 
+CMC may seek an explicit policy change, shift in public opinion, or change  in the economy. A 
+single air or missile strike, activation of a jammer targeting early warning radar, or crossing of the 
+Taiwan Strait centerline may produce a strategic or political effect. The mechanism for how a 
+military action will directly result in the desired political effect is unknown, but could entail 
+punishment, denial, and strategic paralysis.11 Examples of coercive courses of action include low 
+intensity shows of force or an air campaign to achieve strategic paralysis. The CMC prioritizes 
+escalation dominance.12 
+ 
+PLA displays of force could aim to deter or compel political leaders in Taipei and the international 
+community to concede to Beijing’s political agenda. Limited uses of force could challenge 
+Taiwan’s authority over its territorial airspace. Over the past few years, for instance, the PLA has 
+crossed the Taiwan Strait’s centerline, conducted circumnavigational flights around Taiwan, and 
+made deliberate incursions into Taiwan’s ADIZ. The centerline has been tacitly acknowledged as 
+a border by both sides of the Taiwan Strait. While Taiwan’s ADIZ extends well over mainland 
+China for alert purposes, the centerline marks the boundary of the Taipei and Shanghai FIRs. ROC 
+Air Force (ROCAF) training areas are also to the east of the centerline. PLA military flights tha t 
+cross the centerline can thus be interpreted as deliberately calibrated forms of coercion.  
+ 
+PLA circumnavigational flights, referred to as “island encirclement patrols,” began in 2016. Long 
+distance overwater training flights h ave transited the Bashi Ch annel, proceeded northeast of 
+Taiwan, and returned to China through the Miyako Strait. PLA propaganda outlets noted the flights 
+were intended to “maintain national sovereignty and territorial integrity.”13 
+ 
+ 
+
+ 
+ 
+5 
+ 
+Early Warning in the Taiwan Strait 
+ 
+Beijing made veiled threats to declare an ADIZ covering the Taipei FIR as early as 2007. Five 
+years later, the CMC established an ADIZ over the East China Sea. In 2018, China unilaterally 
+announced and implemented a new air route (M503) running northbound along the western side 
+of the centerline of the  Taiwan Strait. Also announced were three spurs from M503 to Xiamen, 
+Fuzhou, and Dongshan that parallel military and civilian flights to Kinmen and Matsu.14 
+ 
+The unilaterally announced routes deepened Taiwan’s suspicions of Chinese intent. As a matter of 
+principle, Beijing has long viewed the Taiwan Strait as internal waters, along with the airspace 
+above it. Furthermore, Beijing has used diplomatic coercion across international organizations to 
+deny Taiwan’s meaningful participation in ICAO. ICAO is  responsible for global air navigation, 
+including the conciliation of jurisdictional flight information regions. The Taipei FIR is one of the 
+busiest in the world.15 
+ 
+ 
+(Figure 2: Diagram of newly declared M503 flight by mainland China down western line of the 
+Taiwan Strait. Source: “Civic Aeronautics Administration, ROC Ministry of Transportation and 
+Communications.”) 
+ 
+ 
+  
+
+
+ 
+ 
+6 
+ 
+Early Warning in the Taiwan Strait 
+ 
+The PLA Kinetic Challenge 
+ 
+The PLA Rocket Force (PLARF) presents the most significant kinetic challenge to Taiwan’s early 
+warning and command and control system. 16 Under direct control of the CMC, the PLARF has 
+traditionally been responsible for nuclear operations. P lanning for a conventionally capable 
+ballistic and cruise missile capability since after conclusion of the U.S. -Soviet Inte rmediate 
+Nuclear Forces (INF) Treaty in 1987.  The INF Treaty restricted U.S. and Soviet deployment of 
+ballistic and land attack cruise missiles with ranges between 500 and 5,500 kilometers. Unbound 
+by the treaty, the PLA’s first brigade equipped with a conventionally capable ballistic missile was 
+established in 1993. The brigade launched dummy rounds into announced closure areas off the 
+coast of Keelung and Kaohsiung during exercises in 1995 and 1996.17 
+ 
+By 2007, the PLA’s corps-level missile command opposite Taiwan completed its planned structure 
+of five conventional ballistic missile brigades under a corps -level missile command opposite 
+Taiwan. Initial units were equipped with the 600 -kilometer range DF-15 or DF-11A short range 
+ballistic missile (SRBM). A typical ballistic missile with a 300 -kilometer range has a flight time 
+of approximately five minutes.18 Therefore, since 2007, any unhardened structure on Taiwan has 
+been within seven minutes of destruction. 
+ 
+Ballistic Missile Flight Data 
+Missile Range (km) Highest Altitude (km) Angle of Reentry at 70km Total Flight Time in seconds (minutes) 
+300 84.4 25 331 (5.51) 
+600 164 39 443 (7.38) 
+1,000 257 40 562 (9.37) 
+1,500 391 42.1 677 (11.20) 
+2,000 490 40 789 (13.15) 
+3,000 700 38.6 989 (16.48) 
+ 
+(Figure 3: Ballistic Missile Flight Data. Source: “Project 2049 Institute.”) 
+ 
+Today, the PLARF’s conventional missile forces include a n 800-kilometer range vari ant of the 
+DF-15; DF-11A SRBM; 700-kilometer range DF-16 SRBM; 1,500-kilometer range variant of the 
+DF-21 medium-range ballistic missile (MRBM); the DF -17 MRBM equipped with a hypersonic 
+glide vehicle; and the 3 ,000-kilometer range DF -26 intermediate-range ballistic missil e.19 The 
+PLARF diversified its strike options through deployment of a first -generation ground launched 
+cruise missile in 2005. Systems such as the 1 ,500-kilometer range DH -10 and 2,000-kilometer 
+range DF-100 ground-launched cruise missile are deployed to at least two PLARF brigades.20 
+ 
+In a crisis, the CMC could assign selected PLARF brigades to a Taiwan -focused joint task force. 
+A combination of airbreathing flight vehicles, such as the DH-10, and ballistic missiles launched 
+from multiple axes of attack would present significant challenges for any defender. Use of decoys, 
+military deception, and penetration aids would further complicate defenses. 
+ 
+A missile campaign would be followed by conventional PLA Air Force (PLAAF) strikes to ensure 
+air defenses remain suppressed. If the PLA is successful in operating in the skies over Taiwan with 
+
+ 
+ 
+7 
+ 
+Early Warning in the Taiwan Strait 
+impunity, conditions are created for a maritime blockade or an amphibious invasion. Together, the 
+PLAAF and Navy Aviation are equipped with approximately 2,250 combat aircraft, making it the 
+largest aviation force in the region and the third largest in the world. In 2020, the Party announced 
+objectives to move towards “intelligentized” warfare that could offer Beijing an even broader 
+range of military options by 2027. 
+ 
+ 
+The PLA Non-Kinetic Challenge to Early Warning 
+ 
+The PLA is increasing investment s into non-kinetic force options as well. The PLA understands 
+that electromagnetic spectrum superiority is a prerequisite for dominance in air, sea, ground, space, 
+and cyber domains. Therefore, it is investing significant resources into non -kinetic means of 
+disrupting, deceiving, and destroying single points of failure in an adversary’s early warning and 
+control systems. Priorities include artificial intelligence and microelectronics.21  
+ 
+Electromagnetic spectrum operations would be central to a PLA coercive campaign directed 
+against Taiwan. Electromagnetic attack assets would reduce Taiwan’s warning time through 
+covering the takeoff, formation into strike packages, and transit. R adar countermeasures directed 
+against early warning are intended to reduce time available to organize an effective response. PLA 
+strategists note that employment of electromagnetic attacks can be a deterrent in and of itself.22 A 
+notional PLA electromagnetic attack would employ stand-off jamming to saturate or deceive early 
+warning systems by injecting noise through sidelobes to mask flight formations penetrating 
+Taiwan’s ADIZ and territorial airspace. The Southwest Institute of Electronic Equipment (SWIEE) 
+is the PLA’s most significant supplier of radar countermeasure systems.23 
+ 
+ 
+Early Warning in the Taiwan Strait 
+ 
+Early warning provides Taiwan’s national -level decision makers with the information needed to 
+make timely and accurate decisions throughout the conflict continuum. Air sovereignty is the 
+exercise of control and authority over national territorial airspace. Air sovereignty missions – 
+surveillance and control – demonstrate authority over territorial airspace. Ground-based and AEW 
+radar systems search well beyond sovereign airspace to identify threats. Once detected and 
+identified, necessary actions can be taken to respond. 
+ 
+ 
+ 
+(Figure 4: Taiwan’s Concept of Air Sovereignty. Source: “Steven Wang / Song Wen-shih.”) 
+
+
+ 
+ 
+8 
+ 
+Early Warning in the Taiwan Strait 
+ 
+Early warning allows national-level command authorities to forecast, monitor, and assess national 
+security threats, and determine appropriate countermeasures. Early warning also enables civil 
+defense. Taiwan’s early warning system is tested through Wan’an air raid drills, which are carried 
+out annually around Taiwan to exercise civil defense plans. Conducted since 1978, Wan’an drills 
+increase operational readiness and civil awareness of possible threats.24 
+ 
+Taiwan’s ADIZ is a declared geographic area extending beyond its territorial airspace. It is a 
+designated airspace within which aircraft are required to comply with special identification 
+procedures.25 Flight activity within the area is monitored and assessed for its potential threat to 
+national security. Taiwan’s ADIZ was established in 1953 in the lead-up to the U.S.-ROC Mutual 
+Defense Treaty.26 
+ 
+An ADIZ supports the air sovereignty mission. Former Taiwan President Ma Ying -jeou 
+emphasized that “ADIZs are establis hed to provide early warning and identification.” 27  In 
+coordination with air traffic control authorities, ROCAF air surveillance operators track 
+cooperative and non-cooperative aircraft within Taiwan’s ADIZ using radar and passive sensors. 
+Cooperative aircraft, such as commercial flights, file a flight plan and use a transponder to identify 
+themselves to civilian and military air traffic managers. An aircraft flying in an ADIZ may be 
+identified as a possible threat, potentially leading to interception by ROCAF fighters.28 
+ 
+The boundaries of Taiwan’s ADIZ extend west into China. In a practical sense, the western 
+boundary is the centerline of the Taiwan Strait, also known as the “Davis Line.” Taiwan’s Ministry 
+of National Defense (MND) and Ministry of Transpo rtation and Communications specify areas 
+within the ADIZ where flight activity is restricted. 29 The MND is responsible for identifying, 
+monitoring, intercepting, following, and engaging all aircraft in Taiwan’s ADIZ.30 
+(Figure 5: Air Defense Identification Zones in East Asia. Source: “Congressional Research 
+Service.”)  
+
+
+ 
+ 
+9 
+ 
+Early Warning in the Taiwan Strait 
+ 
+Taiwan’s Early Warning Infrastructure 
+ 
+Early warning enables Taiwan’s national -level decision makers to make timely and accurate 
+decisions. Sources of early warning include intelligence, space -based infrared sensors, and long -
+range radars. Intelligence includes intercept of selected military and civilian communicat ions 
+channels, commercial space-based imagery, and traditional human assets.31 Taiwan also is one of 
+nine international partners of the U.S. Space Command for Shared Early Warning.32 
+ 
+Taiwan’s highest value assets include six AEW platforms, a large ultra -high frequency (UHF) 
+phased array early warning radar, and radars forward deployed on offshore islands. Both search a 
+large swath of airspace for flight vehicles, including airborne targets and ballistic missiles. 
+Secondary missions may include tracking shi ps at sea and electromagnetic support measures. 
+AEW platforms overcome inherent limitations of ground -based radars due to elevation. Looking 
+down over the Taiwan Strait at 10,000 meters, and over the mainland beyond, AEW searches vast 
+volumes of airspace for potential threats flying “under the radar,” so to speak, such as land attack 
+cruise missiles. AEW is an essential component of the air sovereignty mission. 
+ 
+The ROCAF operates one of the most advanced air surveillance systems in the world. Barring the 
+Himalayas, Taiwan has the highest elevations in the Indo-Pacific region: more than 156 mountain 
+peaks surpass 3,000 meters (10,000 feet). Early warning radar installations are maintained on 
+selected peaks. 
+ 
+Taiwan’s air sovereignty infrastructure is rooted in the U.S. -ROC Mutual Defense Treaty. The 
+United States developed and installed an initial early warning network in the 1950s. The system, 
+designed to detect Soviet bomber raids against North America, hinged upon a network of radars 
+across Alaska to t he Arctic regions of Canada and Iceland. Distant Early Warning Line (DEW 
+Line) radar tracks were correlated via computers within the Semi-Automatic Ground Environment 
+(SAGE) in the 1960s and 1970s. As the Soviets diversified nuclear delivery options, a paralle l 
+ballistic missile early warning system (BMEWS) network was designed to detect Soviet and 
+Chinese intercontinental ballistic missile (ICBM) launches against North America.33  
+ 
+The United States  worked closely with allies, including Taiwan. The U.S. Taiwan  Defense 
+Command’s air component was established adjacent to the ROCAF Air Operations Center (AOC) 
+in Taipei’s Gongguan area and connected via tunnel. 34 The AOC reported to the Combined 
+Operations Center (COC) in Hengshan, an underground facility in Taipei’s northern suburbs. The 
+AOC has traditionally relied heavily on a network of early warning radar stations cons tructed on 
+the offshore islands - Pescadores (Penghu Islands) - along Taiwan’s coastline, and on mountains 
+in the central part of the island. 
+ 
+Radar reporting units passed tracks up the chain for manual plotting on boards. Sites on Matsu and 
+Kinmen offered the deepest look over the mainland. Others were constructed at the southernmost 
+tip of Taiwan (Eluanbi), the west coast of Miaoli (Waipu), the n ortheast coast (Sandiaojiao), the 
+central east coast (Hualien), and Huoyanshan. Selected units were designated as control and 
+reporting centers (CRCs) and granted authority to scramble and control fighter reactions to 
+unidentified flight activity within Ta iwan’s ADIZ. CRCs were located on Penghu (Magong), at 
+
+ 
+ 
+10 
+ 
+Early Warning in the Taiwan Strait 
+the northern tip of Taiwan (Shimen), and on Leshan, a 2,600-meter peak in central Taiwan. USAF 
+weapons control officers were assigned to at least five of these early warning radar stations.35  
+ 
+In the years prior to the 1979 derecognition of the ROC, the U.S. supported an overhaul of Taiwan's 
+early warning and control network. The Sky Net ( Tianwang) system was conceptually based on 
+the U.S. SAGE system.36 With the assistance of the U.S. Air Force, Taiwan acquired FPS-43 early 
+warning radar systems and constructed new inst allations on Leshan and a 1,000 -meter tall 
+mountain north of Taipei near Yangmingshan (Songshan). The ROCAF also rearranged CRC 
+responsibilities. The Department of Defense Rome Air Development Center assisted in upgrading 
+four existing FPS-88 radars to the FPS-110. Tianwang reportedly began operations in 1979.37  
+ 
+With the initial deployment of conventional ballistic and land attack cruise missiles and 
+introduction of advanced fighters, the ROCAF be gan planning in 1994 for a next -generation 
+automated air defense system, known as the Chiangwang system. Chiangwang integrated tracks 
+downlinked from six E-2T AEW aircraft equipped with a powerful UHF radar.  
+ 
+The introduction of adva nced tactical data links further modernized Taiwan’ s air sovereignty 
+system. Regional battle management centers under the AOC are responsible for northern, southern, 
+and eastern sectors. In the event that the AOC is lost, Regional Operations Control Center s 
+(ROCCs) are able to assume the AOC’s national air sovereignty mission should the latter fail. 38 
+As follow -on to  Chiangwang, the Huanwang system leverages Link-16 and sophisticated 
+computing to fuse tracking data from individual early warning radars into a single integrated air 
+picture that is shared among participants in the network. 39 Participants include Hengshan, JOAC, 
+ROCCs, selected fighters, long -range air defenses, and ROC Army and Navy platforms. 40 A 
+common tactical picture also shares friendly position data.41 
+ 
+ 
+(Figure 6: Taiwan Early Warning and Control System. Source: “Project 2049 Institute.”) 
+
+
+ 
+ 
+11 
+ 
+Early Warning in the Taiwan Strait 
+  
+A large, UHF long -range early warning radar, known today as the Surveillance Radar Program 
+(SRP), i s a pillar of Taiwan’s air sovereignty system. In 1998, the MND, with the support of 
+President Lee Teng -hui and Chief of the General Staff GEN Tang Fei, formally requested U.S. 
+assistance in the design, development, and construction of a  new early warning radar system  
+similar to the U.S. PAVE PAWS. During this period, the PLA began a massive buildup of its 
+conventional ballistic and land attack missile infrastructure opposite Taiwan. At the time, U.S. 
+media reporting suggested policy concerns over Chinese r eactions to the sale. Operational -level 
+concerns focused on the radar’s survivability in the face of a missile attack. 42 Ultimately, the 
+Clinton and Bush administrations supported the SRP to increase warning time and undercut the 
+coercive utility of the PLA’s growing arsenal of increasingly accurate and lethal ballistic missiles 
+deployed across the Taiwan Strait.43 
+ 
+ 
+ 
+(Figure 7: Long-range UHF early warning radar in Leshan. Source: “Up Media.”) 
+ 
+The SRP was constructed at an established site on Leshan a t an elevation of over 2,600 meters 
+(8,000 feet). The system is designed to detect ballistic missile launches upon breaking the horizon 
+out to at least 3,000 kilometers, or further upon receipt of an alert from the U.S. Shar ed Early 
+Warning system. The system’s missile warning center is able to generate alerts. Unlike PAVE 
+PAWS, the SRP is able to detect and track air breathing threats. Low radar cross section targets, 
+such as cruise missiles, unmanned aerial systems, and heli copters, can be detected at 200 
+kilometers. The radar has a latent space situational awareness and maritime surface tracking 
+capability. The SRP is collocated with a missile warning center. 44 Taiwan ultimately opted for a 
+single radar but has kept the door open for a possible second.45 
+ 
+Ground- and sea-based radar systems are inherently limited in their ability to detect flight activity 
+below the horizon. Airborne platforms equipped with high power early warning radars can detect 
+airbreathing targets at all altitudes and out to extended ranges. Taiwan formally requested the 
+acquisition of four E -2C Hawkeye early warning aircraft in 1992. The Clinton administration 
+
+
+ 
+ 
+12 
+ 
+Early Warning in the Taiwan Strait 
+released a specially configured version designated as E -2T in 1993 with  initial deliveries taking 
+place five years later. Taiwan acquired two E-2C Hawkeye 2000 aircraft (also known as E-2K) in 
+2004 and brought the original four E -2Ts up to E -2K configuration by 2013. Within the Indo -
+Pacific region, Japan and Singapore also are equipped with E-2s.46 
+ 
+Taiwan’s E -2K AEW fleet is equipped with the APS -145 active electronically scanned array 
+(AESA) radar, a passive detection system, and IFF. Link -16 terminals feed track data into the 
+Huanwang system. The E -2K radar incorporates sid elobe suppression and other electronic 
+counter-countermeasure capabilities. With a service ceiling of more than 10,000 meters, Taiwan’s 
+AEW aircraft should be able to detect targets around Taiwan at ranges greater than 500 
+kilometers.47 AEW radar data is shared within the ROCAF Air Combat Command and to selected 
+Army and Navy participants through advanced tactical data links. It is unknown if Cooperative 
+Engagement Capability has been released. After over 20 years of operation, however, the E -2K 
+aircraft are reaching the end of their service life.48 
+ 
+Taiwan’s conventional radar systems augment the SRP and E -2K for air sovereignty and early 
+warning missions. Most belong to the FPS -117 family of three -dimensional long -range search 
+radar. The USAF invested in, developed, and deployed the first generation of FPS -117s to the 
+DEW Line in the 1980s to provide advance warning of Soviet bomber attacks. Fixed and mobile 
+variants operate in the L -Band (1 to 2 -GHz) and employ sophisticated counter -jamming 
+technology. The FPS -117 and its mobile variants (TPS -59, GE-592, and TPS -77) extended the 
+range of Taiwan’ s early warning and control system. The system reportedly has a maximum 
+detection range of more than 300 kilometers and altitude of 30 kilometers. Taiwa n fielded initial 
+FPS-117 derivatives in the 1980s.49 
+ 
+ 
+(Figure 8: Yilan Dong’aoling Radar Station. Source: “Makato Lin / Wikimedia Commons.”) 
+ 
+ 
+
+
+ 
+ 
+13 
+ 
+Early Warning in the Taiwan Strait 
+ 
+Taiwan began the process of acquiring seven fixed FPS-117 radar systems and an additional four 
+mobile variants in 2002.50 With ballistic missile target tracking capability, the radar is reportedly 
+able to determine accurate launch and impact prediction points, discriminate debris from the 
+missile, and offer cueing quality data to air and missile defense fire unit s. It is reportedly one of 
+the few currently fielded ground -based sensors that can detect and track long -range airbreathing 
+targets and tactical ballistic missiles.51 The ROCAF is modernizing its fixed and mobile TPS-117 
+family of radars.52 
+ 
+Taiwan has acquired other radars to augment the FPS -117. In addition to installing two Hughes 
+Air Defense Radar (HADR or HR-3000) systems in 1993, Taiwan also acquired four TPS-43 radar 
+systems that were subsequently upgraded to the TPS -75, a mobile passive electronically scanned 
+array system operating in the S-band (2.9 to 3.1-GHz). TPS-75s are reportedly deployed to Taitung, 
+Hualian, and Pingdong radar stations. 53  The HADR, a three -dimensional phased array air 
+surveillance radar operating in the S -band (2 to 4-GHz), is allegedly deployed to Songshan and 
+Dagangshan radar stations.54 The TPS-59 was constructed on Leshan.55 
+ 
+ 
+  
+
+ 
+ 
+14 
+ 
+Early Warning in the Taiwan Strait 
+ 
+Conclusion 
+ 
+The CCP poses an existential threat to the Republic of China (Taiwan). Beijing challenges 
+Taiwan’s authority over its territory and the airspace above it. A number of coercive measures are 
+available to the CCP Politburo short of a full -scale amphibious inv asion. At the low end of the 
+peace-war continuum, the PLA uses shows of force. The PRC has a long history of leveraging 
+aerospace power as an instrument of coercive persuasion against Taiwan. The PLA could carry 
+out a coercive campaign to attain strategic paralysis and implement a blockade of the skies above 
+Taiwan. A strategic paralysis campaign envisions the physical destruction of Taiwan’s command 
+and control system, strategic warning, and communications nodes through integrated air and 
+missile strikes. In a worst-case scenario, the PLA could attempt an amphibious invasion.56 
+ 
+Since 2007, U.S. policy has shifted its focus toward the high end of this peace -war continuum. 
+Perspectives assume Chinese coercion will fail and that annihilation, defined as the eradication of 
+the ROC and total political control over its people, is the only course of action that assures 
+Beijing’s success. Assessments cast early warning radars, advanced fighters, submarines, long -
+range air defenses, and main battle tanks as prestige-enhancing platforms with little operational or 
+tactical value. Asymmetric defense, defined for Taiwan as smaller, dispersed, cost -effective, and 
+highly mobile  weapon systems , is intended to prevent a fait accompli  and hold out for U.S. 
+intervention. With an emphasis on a decisive battle in the littoral, counterstrikes against selected 
+targets on the mainland are deemed offensive, provocative, and unlikely to be effective.57 
+ 
+Early warning, whether derived from intelligence, satellites, or radars, is critical in responding to 
+all Chinese courses of action. In February 2022, Taiwan’s President Tsai Ing -wen called on the 
+armed forces to “ramp up efforts to provide early warning and surveillance of military 
+developments in the Taiwan Strait and surrounding areas.” 58 At the strategic level, early warning 
+enables a national command authority to create a window of time to organize an effective response 
+to existential threats. Early warni ng also complements operational and t actical level asymmetric 
+approaches outlined in the Overall Defense Concept (ODC).59 In the absence of a Mutual Defense 
+Treaty with the United States, Taiwan’s armed forces invest in capabilities to counter all possible 
+PLA courses of action along the peace-war continuum. 
+ 
+Taiwan and the United States share a long history of cooperation on air surveillance and control. 
+Taiwan’s use of U.S.-supplied systems also provides the potential for interoperability with the U.S. 
+military, and potentially other militar y forces in the region. The large UHF long -range early 
+warning radar and E-2K airborne early warning aircraft have been strategic pillars of Taiwan’s air 
+sovereignty system for over 25 years. Other fixed and mobile early warning radar systems augment 
+the SRP and AEW. Early warning systems, as well as associated networks and communications, 
+are critical for Taiwan’s national security and defense. Should Taiwan request additional or new 
+early warning systems, the Biden administration should support it.60 U.S. and Taiwan interlocutors 
+should also consider a common operational picture that includes the sharing of radar surveillance 
+among the U.S. and coalition partners in the Indo-Pacific region. For more effective and efficient 
+investments in Taiwan’s national security, the United States  and Taiwan would do well to begin 
+establishing roles and missions for critical scenarios across the spectrum of coercion and 
+annihilation.  
+
+ 
+ 
+15 
+ 
+Early Warning in the Taiwan Strait 
+ 
+Endnotes 
+ 
+1 See “DOD Dictionary of Military and Associated Terms,” U.S. Department of Defense, updated 
+November 2021, at https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/dictionary.pdf; and 
+“Continental Air Defense: A Dedicated Force Is No Longer Needed,” U.S. General Accounting 
+Office, May 1994, at https://www.gao.gov/assets/nsiad-94-76.pdf. The North American 
+Aerospace Defense Command (NORAD) describes air sovereignty as “providing surveillance 
+and control of the territorial airspace.”  
+ 
+2 Britain deployed the world’s first early warning radar network (CHAIN HOME), prior to the 
+Second World War. CHAIN HOME, along with the Dowding ground controlled intercept, 
+contributed toward the defeat of Nazi Germany’s Luftwaffe. Royal Air Force fighters did not 
+have to invest significant time searching large volumes of airspace for targets, but were guided to 
+within visual range by air controllers on the ground. 
+ 
+3 An ADIZ serves as a buffer between territorial and international airspace. Airspace control 
+authorities may direct fighters on alert to intercept, identify, and escort aircraft within an ADIZ. 
+Selected early warning radar stations are often assigned tactical control. 
+ 
+4 A radar’s capability depends on several factors. These include elevation of the radar and 
+altitude of target, portion of the frequency spectrum within which it operates, power and size of 
+the antenna (power aperture). A radar also is judged by its ability to filter returns caused by 
+clutter, such as the sea, ground, birds, rain, and other conditions. Electromagnetic (EM) attack 
+would seek to deliberately reduce the effectiveness of a radar system. EM attack could include 
+noise jamming, generation of false targets, chaff, decoys, and anti-radiation missiles. Fire control 
+radars, organic to air defense units equipped with surface to air missile (SAM) systems, such as 
+the U.S. PATRIOT, Taiwan’s TIANKUNG, or Chinese SA-10/20, generally operate at higher 
+frequencies with reduced range yet better target discrimination. 
+ 
+5 “Taiwan Relations Act (Public Law 96-8, 22 U.S.C. 3301 et seq.),” U.S. Congress, January 1, 
+1979, available online at https://www.ait.org.tw/our-relationship/policy-history/key-u-s-foreign-
+policy-documents-region/taiwan-relations-act/.  
+ 
+6 Russell Hsiao, “Biden Administration Unveils New Security Assistance Policy towards 
+Taiwan,” Global Taiwan Brief, March 23, 2022, at https://globaltaiwan.org/wp-
+content/uploads/2022/03/Vol-7-Issue-6-1.pdf. For an excellent discussion of the asymmetric and 
+conventional distinction, see Fu S. Mei, “Building Defense Capabilities Towards Integrated 
+Deterrence (構建符合「整體性嚇阻」戰略的國防戰力),” United Daily News, November 10, 
+2021, at https://opinion.udn.com/opinion/story/121595/5880516. 
+ 
+7 Mark Stokes and Russell Hsiao, “The People’s Liberation Army General Political Department: 
+Political Warfare with Chinese Characteristics,” Project 2049 Institute, October 14, 2013, at 
+https://project2049.net/2013/10/14/the-peoples-liberation-army-general-political-department-
+political-warfare-with-chinese-characteristics/.  
+
+ 
+ 
+16 
+ 
+Early Warning in the Taiwan Strait 
+ 
+8 Randall Schriver and Mark Stokes, “Evolving Capabilities of the People’s Liberation Army: 
+Consequences of Coercive Aerospace Power for U.S. Conventional Deterrence,” Project 2049 
+Institute, August 20, 2008, at https://project2049.net/2008/08/20/evolving-capabilities-of-the-
+peoples-liberation-army-consequences-of-coercive-aerospace-power-for-u-s-conventional-
+deterrence/.  
+ 
+9 The International Civil Aviation Organization (ICAO), a specialized agency of the United 
+Nations, defines air sovereignty as the “exclusive competence of a State to exercise its 
+legislative, administrative and judicial powers within its national airspace.” The ROC was a 
+founding member of ICAO at the Chicago Convention of 1944, when it was established that 
+“every State has complete and exclusive sovereignty over the airspace above its territory.” See 
+“Convention on International Civil Aviation,” International Civil Aviation Organization, 
+December 7, 1944, at https://www.icao.int/publications/documents/7300_orig.pdf; and “Airspace 
+Sovereignty (Presented by the Civil Air Navigation Services Organization (CANSO)),” 
+International Civil Aviation Organization, April 3, 2013, at 
+https://www.icao.int/Meetings/atconf6/Documents/WorkingPapers/ATConf.6.WP.080.1.en.pdf. 
+Also see Russell Hsiao, “Cross-Strait Aviation and Beijing’s Hybrid Warfare,” Taiwan Insight, 
+February 21, 2018, at https://taiwaninsight.org/2018/02/21/the-politics-of-cross-strait-aviation-
+and-beijings-hybrid-warfare/; and “A Primer on M503 and Civil Aviation in Asia,” CSIS, March 
+14, 2018, at https://amti.csis.org/primer-m503-civil-aviation-asia/.  
+ 
+10 Article 8 of the 2005 Anti-Secession Law states that “in the event that the ‘Taiwan 
+independence’ secessionist forces should act under any name or by any means to cause the fact 
+of Taiwan’s secession from China, or that major incidents entailing Taiwan’s secession from 
+China should occur, or that possibilities for a peaceful reunification should be completely 
+exhausted, the state shall employ non-peaceful means and other necessary measures to protect 
+China’s sovereignty and territorial integrity. See “Anti-Secession Law (反分裂国家法),” PRC 
+National People’s Congress, March 14, 2005, available online at 
+http://en.people.cn/200503/14/eng20050314_176746.html. Also see Mark Burles and Abram N. 
+Shulsky, Patterns in China’s Use of Force: Evidence from History and Doctrinal Writings 
+(Santa Monica, CA: 1999). 
+ 
+11 A punishment strategy targets the general population and the economy, thus putting pressure 
+on democratically elected leadership to adjust policy. Denial strategies would seek to undermine 
+or paralyze Taiwan’s capacity for organized military resistance in the hope that the political 
+leadership would concede to Beijing’s demands to avoid further loss or futile expenditure of 
+resources. 
+ 
+12 For background on effective control (有效控制), see Alison A. Kaufman and Daniel M. 
+Hartnett, “Managing Conflict: Examining Recent PLA Writings on Escalation Control,” Center 
+for Naval Analysis, February 2016, at https://www.cna.org/cna_files/pdf/DRM-2015-U-009963-
+Final3.pdf. 
+ 
+13 See Mercedes Trent, “Over the Line: The Implications of China’s ADIZ Intrusions in 
+Northeast Asia,” Federation of American Scientists, August 17, 2020, at 
+https://uploads.fas.org/2020/08/ADIZ-Report.pdf; and Mark Cozad and Nathan Beauchamp-
+
+ 
+ 
+17 
+ 
+Early Warning in the Taiwan Strait 
+ 
+Mustafaga, “People’s Liberation Army Air Force Operations over Water: Maintaining Relevance 
+in China's Changing Security Environment,” RAND Corporation, 2017 at 
+https://www.rand.org/pubs/research_reports/RR2057.html. For reference to “circumnavigate the 
+island” (绕岛巡航), see “Various PLA Air Force fighters continuously ‘circumnavigate the 
+island’ to test actual combat capability (中国空军多型战机连续“绕岛巡航”检验实战能力),” 
+Xinhua, April 19, 2018, at http://www.xinhuanet.com/politics/2018-04/19/c_1122710694.htm. 
+ 
+14 Mark Stokes, “China’s Air Defense Identification System: The Role of PLA Air Surveillance,” 
+Project 2049 Institute, May 9, 2014, at https://project2049.net/2014/05/09/chinas-air-defense-
+identification-system-the-role-of-pla-air-surveillance/; and Russell Hsiao, “Cross-Strait Aviation 
+and Beijing’s Hybrid Warfare,” Taiwan Insight, February 21, 2018, at 
+https://taiwaninsight.org/2018/02/21/the-politics-of-cross-strait-aviation-and-beijings-hybrid-
+warfare/.  
+ 
+15 Michael Mazza and Gary Schmitt, “Righting a Wrong: Taiwan, the United Nations, and 
+United States Policy,” Project 2049 Institute, October 25, 2021, at 
+https://project2049.net/2021/10/25/righting-a-wrong-taiwan-the-united-nations-and-united-
+states-policy/.  
+ 
+16 For a detailed examination of Taiwan’s tactical air defenses, see Michael J. Lostumbo, David 
+R. Frelinger, James Williams, and Barry Wilson, “Air Defense Options for Taiwan: An 
+Assessment of Relative Costs and Operational Benefits,” RAND Corporation, 2016, at 
+https://www.rand.org/pubs/research_reports/RR1051.html. 
+ 
+17 Patrick E. Tyler, “China Wargames Viewed as Tactic to Press Taiwan,” New York Times, 
+August 19, 1995, at https://www.nytimes.com/1995/08/19/world/china-war-games-viewed-as-
+tactic-to-press-taiwan.html.  
+ 
+18 Ian Easton, “Able Archers: Taiwan Defense Strategy in an Age of Precision Strike,” Project 
+2049 Institute, September 22, 2014, at https://project2049.net/2014/09/22/able-archers-taiwan-
+defense-strategy-in-an-age-of-precision-strike/.  
+ 
+19 “Military and Security Developments Involving the People’s Republic of China,” U.S. 
+Department of Defense, November 3, 2021, at 
+https://media.defense.gov/2021/Nov/03/2002885874/-1/-1/0/2021-CMPR-FINAL.PDF.  
+ 
+20 For details of the PLA’s cruise missile development, see Dennis M. Gormley, Andrew S. 
+Erickson, and Jingdong Yuan, A Low-Visibility Force Multiplier Assessing China’s Cruise 
+Missile Ambitions (Washington, DC: NDU Press, 2014), available online at 
+https://ndupress.ndu.edu/Portals/68/Documents/Books/force-multiplier.pdf. Also see “Military 
+and Security Developments Involving the People’s Republic of China,” U.S. Department of 
+Defense, November 3, 2021, at https://media.defense.gov/2021/Nov/03/2002885874/-1/-
+1/0/2021-CMPR-FINAL.PDF; and Ian Easton, “The Assassin Under the Radar,” Project 2049 
+Institute, October 1, 2009, at https://project2049.net/2009/10/01/the-assassin-under-the-radar-
+chinas-dh-10-cruise-missile-program/.  
+ 
+
+ 
+ 
+18 
+ 
+Early Warning in the Taiwan Strait 
+ 
+21 Marcus Clay, “To Rule the Invisible Battlefield: The Electromagnetic Spectrum and Chinese 
+Military Power,” War on the Rocks, January 22, 2021, at https://warontherocks.com/2021/01/to-
+rule-the-invisible-battlefield-the-electromagnetic-spectrum-and-chinese-military-power/.  
+ 
+22 “Science of Military Strategy (战略学),” National Defense University, 2020.  
+ 
+23 SWIEE is headquartered in Chengdu and is also known as the China Electronics Technology 
+Group Corporation (CETC) 29th Research Institute. SWIEE reportedly supplies the PLA with 
+60% of its electronic reconnaissance and jamming equipment. The institute also designs and 
+manufactures assemblies and components, such as ultra-wideband antennas. The 29th Research 
+Institute publishes the journal, Electronic Information Warfare Technology (电子信息对抗技
+术), in which PLA engineers have examined means of jamming older E-2 early warning aircraft 
+using artificial intelligence-supported technologies. See Wang Zhenxing, Li Xiaoyan, and Cui 
+Xinfeng, “Inversion and Simulation of E-2C Airborne Early Warning Radar Antenna (E-2C 预警
+机雷达天线方向图反演和仿真),” Electronic Information Countermeasures Technology, 2018. 
+The authors are from the PLA’s primary EMSO training complex in Luoyang. Also see Chih-
+Cheng Lo, “The Vulnerability of an Airborne Early Warning (AEW) System Against Stand-Off 
+Noise Jamming (SOJ),” U.S. Naval Postgraduate School, September 1996, at 
+https://apps.dtic.mil/sti/pdfs/ADA318176.pdf. 
+ 
+24 The requirement for air raid drills is outlined in the “Civil Defense Act (民防法),” Laws & 
+Regulations Database of the Republic of China (Taiwan), amended January 20, 2021, at 
+https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=D0080118. For reference to the Airspace 
+Threat Alert System (空中威脅告警系統), see “MND Explains ‘Airspace Threat Alert System’ 
+Test Press Release (國防部說明『空中威脅告警系統』訊息測試新聞稿),” ROC Ministry of 
+National Defense, March 28, 2018, at 
+https://www.mnd.gov.tw/Publish.aspx?p=75197&title=%E5%9C%8B%E9%98%B2%E6%B6%
+88%E6%81%AF&SelectStyle=%E6%96%B0%E8%81%9E%E7%A8%BF; and “Wan’an 
+Exercise (萬安演習),” ROC Ministry of National Defense, All-out Defense Mobilization Agency, 
+updated March 1, 2022, at https://aodm.mnd.gov.tw/front/front.aspx?menu=076&mCate=076.  
+ 
+25 “Air Defense Identification Zones,” U.S. Naval War College, Stockton Center for 
+International Law, 2021, at https://digital-
+commons.usnwc.edu/cgi/viewcontent.cgi?article=2939&context=ils.  
+ 
+26 “President's Interview with Asia Weekly (總統接受亞洲週刊專訪),” Office of the President 
+of the Republic of China (Taiwan), December 25, 2013, at 
+https://www.president.gov.tw/NEWS/18286.  
+ 
+27 “President Ma attends academic conference on contemporary international and transnational 
+law (總統出席「現代國際法與超國界法」學術研討會暨「中華民國國際法學會」102 年年
+會),” Office of the President of the Republic of China (Taiwan), December 14, 2013, at 
+https://www.president.gov.tw/NEWS/18253.  
+ 
+
+ 
+ 
+19 
+ 
+Early Warning in the Taiwan Strait 
+ 
+28 Among various sources outlining Taiwan air defense system, see David A. Shlapak, David T. 
+Orletsky, and Barry A. Wilson, Dire Strait? Military Aspects of China-Taiwan Confrontation 
+and Options for U.S. Policy (Santa Monica: RAND Corporation, 2000), available online at 
+https://www.rand.org/content/dam/rand/pubs/monograph_reports/2007/MR1217.pdf; and David 
+A. Shlapak, David T. Orletsky, Toy I. Reid, Murray Scot Tanner, and Barry Wilson, A Question 
+of Balance: Political Context and Military Aspects of the China-Taiwan Dispute (Santa Monica, 
+CA: RAND, 2009), available online at 
+https://www.rand.org/content/dam/rand/pubs/monographs/2009/RAND_MG888.pdf. 
+ 
+29 “Civil Aviation Act (民用航空法),” Laws & Regulations Database of The Republic of China 
+(Taiwan), May 30, 1953, at 
+https://law.moj.gov.tw/LawClass/LawSearchContent.aspx?pcode=K0090001&kw=%e5%88%b6
+%e7%a9%ba.  
+ 
+30 Song Wen-hsi, “Exploring Airspace Sovereignty within Air Defense Identification Zones from 
+a Legal Perspective (法源觀點探討防空識別區之空域主權),” ROC Air Force Bimonthly, 
+December 1, 2020, at https://www.mnd.gov.tw/NewUpload/202012/2-
+%E6%B3%95%E6%BA%90%E8%A7%80%E9%BB%9E%E6%8E%A2%E8%A8%8E%E9%9
+8%B2%E7%A9%BA%E8%AD%98%E5%88%A5%E5%8D%80%E4%B9%8B%E7%A9%BA
+%E5%9F%9F%E4%B8%BB%E6%AC%8A_232353.pdf.  
+ 
+31 An estimated 500,000 to 1.5 million Taiwanese are physically on mainland China at any given 
+time. 
+ 
+32 For reference to Taiwan and Shared Early Warning, see John W. Raymond, “Testimony before 
+the House Armed Services Committee: Fiscal Year 2021 Priorities and Posture of the United 
+States Space Command,” U.S. Congress, February 27, 2020, at 
+https://www.congress.gov/116/meeting/house/110583/witnesses/HHRG-116-AS29-Wstate-
+RaymondJ-20200227.pdf. Other partners include NATO, Israel, Japan, Jordan, Kuwait, Saudi 
+Arabia, Republic of Korea, and the United Arab Emirates. Also see Wendell Minnick, “US 
+intelligence is in bed with Taiwan space agency,” Shephard Media, September 24, 2018, at 
+https://www.shephardmedia.com/news/digital-battlespace/us-intelligence-bed-taiwan-space-
+agency/. 
+ 
+33 For a history of SAGE and associated radar systems, see David F. Winkler, Searching the 
+Skies: The Legacy of the United States Cold War Defense Radar Program (Langley, VA: Air 
+Combat Command, 1997), available online at https://apps.dtic.mil/sti/citations/ADA331231. 
+Also see “SAGE: Semi-Automatic Ground Environment Air Defense System,” MIT Lincoln 
+Laboratory, at https://www.ll.mit.edu/about/history/sage-semi-automatic-ground-environment-
+air-defense-system. 
+ 
+34 For background on the 327th Air Division, see “Taipei Air Station” at 
+http://taipeiairstation.blogspot.com/. Also see Jacob Van Staaveren, Air Operations in the 
+Taiwan Crisis of 1958, U.S. Air Force Historical Division Liaison Office, November 1962. For 
+background on the role of a USAF air division, see Mike Pietrucha and Jeremy Renken, 
+
+ 
+ 
+20 
+ 
+Early Warning in the Taiwan Strait 
+ 
+“Bringing the Air Division Back to the Future,” War on the Rocks, April 22, 2019 at 
+https://warontherocks.com/2019/04/bringing-the-air-division-back-to-the-future/. 
+ 
+35 See “Taipei Air Station” at http://taipeiairstation.blogspot.com/. 
+ 
+36 Control Reporting Points (CRPs) were located in Kinmen, Dongyin, Hualien, Waipu, 
+Dagangshan, and Dahanshan. The three RPs were now located in Sandiaojiao, Shimen, and 
+Eluanbi. For background on the Automated Air Defense System Preparation Office (自動化防空
+系統籌建處), see Liao Ying-yen, “From Dongyin Radar Station, Reviewing the Evolution of 
+ROCAF Battle Management Radar Under the U.S.-Taiwan Mutual Defense Treaty (Part 2) (從
+東引雷達站回顧美台協防期間，空軍戰管雷達演變史),” Taiwan Public Television Service, 
+February 16, 2022, at https://news.pts.org.tw/article/567771.  
+ 
+37 The program names were COMMANDO EDGE and PEACE EDGE. Among various sources, 
+see “Administrative Practices: Nicknames,” U.S. Department of the Air Force, January 1, 1975, 
+at 
+https://books.google.com/books?id=hWfVAAAAMAAJ&pg=PA10&lpg=PA10&dq#v=onepage
+&q&f=false.  
+ 
+38 For background on Chiangwang (強網系統) and Regional Operations Control Centers 
+(ROCC; 區域作戰管制中心), see Wendell Minnick, “Taiwan Targets $30 Million for Radar 
+Upgrades,” Janes Defense Weekly, November 6, 2000. Also see Luo Tianbin, “Linking 
+Combatant Commands, One point of breakage inspires concern (戰管連動 一處被破全體堪
+虞),” Liberty Times, March 1, 2012, at https://news.ltn.com.tw/news/focus/paper/564762. The 
+AOC is alternatively known as the Air Force Combat Command (空軍作戰指揮部, 空軍作戰部 
+or 空作部). Specifically, the underground facility is located at Chanchushan (Toad Mountain; 蟾
+蜍山) in the Gongguan (公館) residential area (福興營區). 
+ 
+39 Wang Jiong-hua, “Air Force Builds the Huanwang System to Monitor PLA Fighters (空軍建
+置寰網系統監控中共戰機 去年竟 19 次故障),” Apple Daily, April 14, 2019, at 
+https://tw.appledaily.com/politics/20190414/KIGJTXXIOA4BTRO6TSY5ENICEI/; Luo 
+Tianbin, “Taiwan Strait Military: Linking sea-air missile radars to strengthen air defense, the 
+military's 'Huangchan project' will be completed in 2024 (台海軍情: 聯結海空飛彈雷達強化防
+空 軍方「寰展計畫」2024 年完成),” Liberty Times, May 1, 2021, at 
+https://news.ltn.com.tw/news/politics/breakingnews/3517481; and Chu Ming, “Improve Air 
+Force Air Defense Missile Effectiveness, ‘Huanwang’ Battle Management Network Incorporates 
+Israeli Technology (提升空軍防空飛彈攔截效能「寰網」聯戰採以色列系統作為主要核心
+技術),” Up Media, December 9, 2021, at 
+https://www.upmedia.mg/news_info.php?Type=1&SerialNo=132001.  
+ 
+40 For a history of Taiwan’s air defense and early warning projects covered under Anyu (安宇), 
+see “Taiwan's military implemented a plan to replace its air defense radar, the entire program 
+was completed in 2006 (台军方实行换装防空雷达计划 全案 2006 年完成),” Sohu, August 11, 
+2003, at http://news.sohu.com/37/79/news212017937.shtml. For more on Taiwan’s C2 and early 
+
+ 
+ 
+21 
+ 
+Early Warning in the Taiwan Strait 
+ 
+warning systems, see “The Balance of Air Power in the Taiwan Strait,” US-Taiwan Business 
+Council, May 2010, at https://www.us-taiwan.org/wp-
+content/uploads/2019/12/2010_may11_balance_of_air_power_taiwan_strait.pdf.  
+ 
+41 The Joint Tactical Information Distribution System (JTIDS) operates on a secure wireless data 
+link network operating in the UHF or L-band portion of the frequency spectrum - specifically 
+between 962 and 1213-MHz. Within this 250-MHz bandwidth range, the JTIDS reportedly hops 
+77,000 times a second over 51 specific frequencies. Although JTIDS can still be jammed, the 
+cost and power required for a jammer to cover the entire 250-MHz bandwidth would be 
+significant. JTIDS also utilizes encryption for an extra level of security. See Hsiao Jie-yun, 
+“Military plans to invest more than NT$10 billion to revitalize the Bosheng case (軍方擬投逾百
+億元，為中風的博勝案復健),” Storm Media, January 8, 2021, at 
+https://new7.storm.mg/article/3364237. Also see Ed Ross, “Taiwan’s Ballistic-Missile 
+Deterrence and Defense Capabilities,” China Brief, February 10, 2011, at 
+https://jamestown.org/program/taiwans-ballistic-missile-deterrence-and-defense-capabilities/. 
+ 
+42 Philip Shenon, “U.S. Plans to Sell Radar to Taiwan to Monitor China,” New York Times, April 
+30, 1999, at https://archive.nytimes.com/www.nytimes.com/library/world/asia/043099taiwan-
+missiles.html?Re.  
+ 
+43 Among various sources, see “Raytheon's Surveillance Radar Program for Taiwan Completes 
+System Design Review,” Business Insider, May 10, 2006, at 
+https://markets.businessinsider.com/news/stocks/raytheons-surveillance-radar-program-for-
+taiwan-completes-system-design-review-807865; and Inside the Pentagon, Vol. 20, No. 14 
+(April 1, 2004), p. 1. 
+ 
+44 John Liang, Inside Missile Defense, Vol. 11, No. 14 (July 6, 2005), p. 2. For reference to the 
+Reconnaissance and Early Warning Center (空軍偵蒐預警中心), see You Kai-shiang, “INDSR: 
+Leshan Radar Station covers the South China Sea for early warning to the United States (國防
+院：樂山雷達站範圍涵蓋南海 供美早期預警),” Central News Agency, November 29, 2020, at 
+https://www.cna.com.tw/news/firstnews/202011290163.aspx. 
+ 
+45 “Increase Survivability of ‘Long-Range Early Warning Radar’ in Leshan, Hsinchu, protection 
+by layered anti-aircraft missiles (提高新竹樂山「長程預警雷達」存活率 防空飛彈層層防
+護),” ETToday, October 1, 2020, at https://www.ettoday.net/news/20131001/277087.htm.  
+ 
+46 The E-2C foreign military sales (FMS) program was estimated to be U.S. $700 million. 
+Shirley Kan, “Taiwan: Major U.S. Arms Sales Since 1990,” Congressional Report Service, 
+October 31, 2001, at https://apps.dtic.mil/sti/pdfs/ADA472822.pdf. For general background on 
+the E-2C, see Daniel M. Sunday, Timothy P. Barrett, Michael G. Dennis, Constantine M. 
+Frangos, Mark O. Schlegel, and Thomas D. Whitaker, “E-2C Hawkeye Combat System 
+Display,” Johns Hopkins University APL Technical Digest, Volume 23, Numbers 2 and 3 (2002), 
+at https://www.jhuapl.edu/content/techdigest/pdf/V23-N2-3/23-02-Sunday.pdf. Also see “U.S. 
+Arms Sales to Taiwan (美國對台軍售大事記),” Voice of America, October 7, 2013, at 
+https://www.voacantonese.com/a/timeline-us-arms-sales-to-taiwan/1764389.html; and 
+
+ 
+ 
+22 
+ 
+Early Warning in the Taiwan Strait 
+ 
+“Transmittal No. 99–30,” U.S. Department of Defense, August 12, 1999, at 
+https://www.govinfo.gov/content/pkg/FR-1999-08-12/pdf/99-20786.pdf; and “E2K All 
+Upgraded, Combat and Rescue Power Increased (E2K 全數升級 戰力救援增),” Taiwan News, 
+March 9, 2013, at https://www.taiwannews.com.tw/ch/news/2168492. 
+ 
+47 For retrofit work, see “Taipei Economic and Cultural Representative Office in the United 
+States – E-2T Retrofit Upgrade,” Defense Security Cooperation Agency, October 3, 2008, at 
+https://web.archive.org/web/20110721171925/http:/www.dsca.osd.mil/PressReleases/36-
+b/2008/Taiwan_08-47.pdf; “AN/APS-145 Advanced Airborne Surveillance Radar,” Lockheed 
+Martin, at https://digilander.libero.it/humboldt/pdf/ANAPS-145.pdf; and “Lockheed Martin 
+APS-145 radar to go aboard new Customs aircraft,” Military Aerospace Technology, November 
+1, 1999, at https://www.militaryaerospace.com/home/article/16705866/lockheed-martin-aps145-
+radar-to-go-aboard-new-customs-aircraft.  
+ 
+48 The E-2s also include the ARC-158 UHF datalink and ARQ-34 Dual HF Communications Set. 
+See “Taiwan Receives Upgraded E-2K Early Warning Aircraft From US,” Airforce Technology, 
+March 10, 2013, at https://www.airforce-technology.com/news/newstaiwan-e-2k-early-warning-
+aircraft-us/.  
+ 
+49 The system is reportedly able to counter anti-radiation missiles and counter jamming attempts 
+by randomly hopping among 18 channels in the 1.215 to 1.4-GHz band and using pencil beams 
+for targets with low radar cross sections. “FPS-117,” Missile Defense Advocacy Alliance, May 1, 
+2018, at https://missiledefenseadvocacy.org/defense-systems/an-fps-117/. 
+ 
+50 “Taiwan To Receive Early-Warning Radars From US: Jane’s,” Space Daily, June 13, 2002, at 
+https://www.spacedaily.com/news/bmdo-02o.html; and Chu Ming, “Combatant Command radar 
+cannot detect drones and cruise missiles, 3D radar on offshore wind turbines become crucial (戰
+管雷達無法偵測無人機與巡弋飛彈 離岸發電風機預警的 3D 雷達成利器),” Up Media, 
+November 6, 2019, at https://www.upmedia.mg/news_info.php?Type=1&SerialNo=74835.  
+ 
+51 “AN/TPS-59 Long-range Air Surveillance Radars,” Lockheed Martin, at 
+https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/ground-based-
+air-surveillance-radars/TPS-59%20Fact%20Sheet.pdf; and “AN/TPS-59,” Missile Defense 
+Advocacy Alliance, May 22, 2018, at https://missiledefenseadvocacy.org/defense-systems/an-tps-
+59/.   
+ 
+52 Hung Che-cheng, “Responding to PLA J-20, ROCAF Upgrading FPS-117 Capabilities (因應
+殲 20 威脅 空軍全面提升 FPS-117 雷達性能),” United Daily News, September 1, 2021, at 
+https://city.udn.com/60321/7124407#ixzz7MC62tAkg. Taiwan also operates a number of ship-
+based air search and SAM acquisition radars, such as the ADAR-1 (Chang Bai). The Chang Bai 
+radar system is reported to be based on Lockheed Martin’s ADAR-HP (Air Defense Array 
+Radar-High Power) design and operates in the 2 to 4-GHz range (S-band). Developed for the 
+TIANKUNG SAM system, the system reportedly has a 120-degree field of view and maximum 
+range of 450 kilometers. Among various sources, see “Medium Range Air Defense Radar,” 
+Taiwan Defense Review, June 19, 2006. At least seven systems are said to be currently in service. 
+The system performance specifications remain classified, but its reported effective detection 
+
+ 
+ 
+23 
+ 
+Early Warning in the Taiwan Strait 
+ 
+range against 1m² targets is around 400 kilometers. Reportedly, it is resistant to electronic 
+countermeasures and can detect fixed and rotary-wing aircraft, cruise missiles and UAVs. See 
+“3D Rotating Phased Array Radar System,” National Chun-shan Institute of Science and 
+Technology, at 
+https://www.ncsist.org.tw/eng/csistdup/products/product.aspx?product_id=278&catalog=41.  
+ 
+53 “AN/TPS-75 Radar System,” Federation of American Scientists, at https://man.fas.org/dod-
+101/sys/ac/equip/an-tps-75.htm; “Military Exercise ‘destroy radar’! J-10 test-fired YJ-91 anti-
+radiation missile (軍演「摧毀雷達」！ 殲-10 試射鷹擊-91 反輻射導彈),” ETToday, 
+November 18, 2016, at https://www.ettoday.net/news/20161118/813607.htm; and “Transmittal 
+No. 00-22,” U.S. Department of Defense, March 16, 2000, at 
+https://www.govinfo.gov/content/pkg/FR-2000-03-16/pdf/00-6433.pdf.  
+ 
+54 See “Electronic Warfare Handbook 2008,” Shephard, 2008, at 
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.174.4209&rep=rep1&type=pdf. The 
+Songshan radar station, where the HR-3000 system was deployed, reportedly suffered a serious 
+explosion in 1998 that killed nine people. 
+ 
+55 The TPS-59 is a mobile variant of the FPS-117 developed for the U.S. Marine Corps. Four 
+TPS-77 (GE-592) air surveillance radars were acquired in 1984 and a fifth in 1992. Data was 
+acquired from Stockholm International Peace Research Institute (SIPRI) trade register database. 
+ 
+56 Ian Easton, “China’s Top Five War Plans,” Project 2049 Institute, January 6, 2019, at 
+https://project2049.net/2019/01/06/chinas-top-five-war-plans/.  
+ 
+57 Among various sources, see For background on Taiwan’s counter-strike capability, see Denny 
+Roy, “Taiwan Perilously Ponders Its Strategic Missile Force,” China Brief (Vol 6, Issue 20), 
+May 9, 2007, at https://jamestown.org/program/taiwan-perilously-ponders-its-strategic-missile-
+force/; William Murray, “Revisiting Taiwan’s Defense Strategy,” Naval War College Review, 
+61, No. 3 (Summer 2008): 12−38; Jim Thomas, John Stillion, and Iskander Rehman, Hard ROC 
+2.0: Taiwan and Deterrence through Protraction (Washington, DC: Center for Strategic and 
+Budgetary Assessments, 2014), at https://csbaonline.org/research/publications/hard-roc-2-0-
+taiwan-and-deterrence-through-protraction/publication/1; Michael J. Lostumbo, David R. 
+Frelinger, James Williams, and Barry Wilson, Air Defense Options for Taiwan: An Assessment of 
+Relative Costs and Operational Benefits (Santa Monica, CA: RAND Corporation, 2016); 
+Michael A. Hunzeker and Alexander Lanoszka, A Question of Time: Enhancing Taiwan’s 
+Conventional Deterrence Posture (Fairfax, VA: November 2018), at https://csps.gmu.edu/wp-
+content/uploads/2018/11/A-Question-of-Time.pdf; Drew Thompson, Hope On The Horizon: 
+Taiwan’s Radical New Defense Concept, at https://warontherocks.com/2018/10/hope-on-the-
+horizon-taiwans-radical-new-defense-concept/; Tanner Greer, “Taiwan’s Defense Strategy 
+Doesn’t Make Military Sense But It Does Make Political Sense,” Foreign Affairs, September 17, 
+2019, at https://www.foreignaffairs.com/articles/taiwan/2019-09-17/taiwans-defense-strategy-
+doesnt-make-military-sense; and James Timbie, Adm. James O. Ellis Jr., “A Large Number of 
+Small Things: A Porcupine Strategy for Taiwan,” Texas National Security Review, December 
+2021, at https://tnsr.org/2021/12/a-large-number-of-small-things-a-porcupine-strategy-for-
+taiwan/. 
+
+ 
+ 
+24 
+ 
+Early Warning in the Taiwan Strait 
+ 
+ 
+58 “President Tsai Responds to Ukraine Developments (聽取「烏克蘭情勢因應小組」簡報 
+總統四項指示：呼籲和平理性、確保國家安全、確保民心安定、維持經濟穩定),” Office of 
+the President of the Republic of China (Taiwan), February 23, 2022, at 
+https://www.president.gov.tw/News/26560.  
+ 
+59 Lee Hsi-min and Eric Lee, “Taiwan’s Overall Defense Concept, Explained,” The Diplomat, 
+November 3, 2020, at https://thediplomat.com/2020/11/taiwans-overall-defense-concept-
+explained/; “2021 Quadrennial Defense Review (2021 年日年期國防總檢討),” ROC Ministry of 
+National Defense, 2021, at 
+https://www.mnd.gov.tw/NewUpload/%e6%ad%b7%e5%b9%b4%e5%9c%8b%e9%98%b2%e5
+%a0%b1%e5%91%8a%e7%b8%bd%e6%aa%a2%e8%a8%8e(QDR)/%e6%ad%b7%e5%b9%b4
+%e5%9c%8b%e9%98%b2%e5%a0%b1%e5%91%8a%e7%b8%bd%e6%aa%a2%e8%a8%8e(Q
+DR).files/%e6%ad%b7%e5%b9%b4%e5%9c%8b%e9%98%b2%e5%a0%b1%e5%91%8a%e7
+%b8%bd%e6%aa%a2%e8%a8%8e(QDR)-
+110/110%20QDR(%e4%b8%ad%e6%96%87%e6%ad%a3%e5%bc%8f%e7%89%88).pdf; and 
+“ROC National Defense Report 2021 (中華民國 110 年國防報告書),” ROC Ministry of 
+National Defense, 2021, at 
+https://www.mnd.gov.tw/NewUpload/%E6%AD%B7%E5%B9%B4%E5%9C%8B%E9%98%B
+2%E5%A0%B1%E5%91%8A%E6%9B%B8%E7%B6%B2%E9%A0%81%E5%B0%88%E5%
+8D%80/%E6%AD%B7%E5%B9%B4%E5%9C%8B%E9%98%B2%E5%A0%B1%E5%91%8
+A%E6%9B%B8%E5%B0%88%E5%8D%80.files/%E5%9C%8B%E9%98%B2%E5%A0%B1
+%E5%91%8A%E6%9B%B8-
+110/%E5%9C%8B%E9%98%B2%E5%A0%B1%E5%91%8A%E6%9B%B8-110-
+%E4%B8%AD%E6%96%87.pdf.  
+ 
+60 Hung Che-cheng, “Taiwan Constructs High-Altitude Air Defense Network with the U.S. 
+Military (我將與美軍建構高高空防禦網),” United Daily News, March 15, 2021, at 
+https://udn.com/news/story/10930/5317999.  

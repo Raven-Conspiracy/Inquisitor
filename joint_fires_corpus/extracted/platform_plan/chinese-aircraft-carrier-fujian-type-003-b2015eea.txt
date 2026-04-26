@@ -1,0 +1,70 @@
+Fujian (18; Chinese: 福建舰; pinyin: Fújiàn Jiàn) is a Chinese conventionally powered aircraft carrier serving in the People's Liberation Army Navy (PLAN). It is the third carrier of the Chinese aircraft carrier programme and the first of the Type 003 class (NATO/OSD Fujian class), succeeding the Type 002 Shandong. It is China's first indigenously designed carrier, and its first capable of catapult-assisted take-offs (CATOBAR); previous Chinese carriers used ski-jumps (STOBAR). It is the second carrier in the world (after the United States Navy's Gerald R. Ford) to have electromagnetic catapults (EMALS) for launching carrier-based aircraft. The EMALS of Fujian is powered by a Medium-Voltage Direct Current (MVDC) integrated power system—the first of its kind for an aircraft carrier, stated to be more reliable  compared to the AC-based EMALS of the Gerald R. Ford-class. It is also the first aircraft carrier in the world to launch a fifth-generation fighter using the electromagnetic catapult system.
+Fujian was built by the Jiangnan Shipyard, launched on 17 June 2022, and started sea trials in May 2024. In 2019, analyst Robert Farley from the U.S. Army War College believed that Fujian would be the "largest and most advanced aircraft carrier ever built outside the United States". 
+On 22 September, 2025, Chinese state media released video footage of Fujian conducting electromagnetic catapult launch tests of the J-15T, J-35 and KJ-600 combat/support aircraft, when the carrier was returning from its ninth sea trial. The carrier was formally commissioned into PLAN service at a ceremony in Sanya, Hainan on 5 November 2025, with CCP general secretary and Central Military Commission chairman Xi Jinping in attendance.
+
+
+== Design ==
+Fujian's class was originally designated by military observers as Type 002, because at the time the incomplete Shandong was thought to be Type 001A due to it being a modified design of the preceding Type 001 Liaoning. Shandong was officially confirmed as a Type 002 during its commissioning in December 2019. After that, observers began referring to the in-construction Fujian as Type 003.
+Fujian was originally intended to use steam catapults, which the Chinese reverse-engineered from the scrapped HMAS Melbourne. In 2013, PLAN Rear Admiral Yin Zhuo reported it would use electromagnetic (EM) catapults instead; EM catapult prototypes were observed in 2016 alongside steam catapults. In 2017, Rear Admiral Ma Weiming stated that the PLAN was still evaluating both steam and EM catapults but expected to make a decision soon. 
+Its crew consists of 2,000 sailors and 1,000 airmen.
+
+
+=== Size ===
+The ship is estimated to be 316 m (1,036 ft 9 in) long, 76 m (249 ft 4 in) wide, and have a full load displacement of 80,000 to 85,000 tons. The size has been compared to the United States Navy's Kitty Hawk-class aircraft carriers.
+
+
+=== Aviation ===
+The flight deck has three medium-voltage direct-current electromagnetic catapults, an angled landing runway with electromagnetic arresting gears, and two starboard hangar elevators. As of 2025, electromagnetic (EM) catapults are the most technologically advanced aircraft launch technology and are only used on the Fujian and the USS Gerald R. Ford, while previous CATOBAR systems have used steam catapults and hydraulic arresting gears.
+Fujian's air wing is estimated to include at least 40 fixed-wing aircraft and 12 helicopters. The onboard air wing includes catapult-compatible J-15T multirole fighters, the J-15DT electronic-warfare aircraft, the J-35 stealth fighters, the KJ-600 airborne early warning and control (AEW&C) aircraft, and the HZ-20 utility helicopters.
+
+
+=== Propulsion ===
+Fujian is powered by conventional steam turbines and diesel generators. It is said to have eight boilers and four steam turbines with diesel generators and four shafts. This gives it a top speed of 30 knots and a range of 8,000 to 10,000 nautical miles.
+
+
+== History ==
+
+
+=== Construction ===
+
+The National Interest reported that construction began in March 2015. The Diplomat reported that "initial work" began in February 2016, with Shanghai Jiangnan Shipyard Group receiving a notice to proceed in March 2017. Work was reportedly delayed in June 2017 by EM and steam catapult tests. By November 2017, work had resumed after the PLAN reportedly developing an IEP system to power the EM catapults. The first prefabricated block modules were placed into the dry dock in July 2020, and most of the keel and base hull blocks were in place by early September 2020. The superstructure was installed by July 2021.
+
+
+=== Outfitting ===
+
+Fujian was launched on 17 June 2022. Like previous Chinese carriers, it was named for a province according to PLAN naming regulations. Western media noted that Fujian province was opposite to Taiwan across the Taiwan Strait. Power and mooring tests started in April 2023. Catapult testing started in November 2023. Aircraft mockups were also used.
+
+
+=== Sea trials ===
+Fujian started sea trials in May 2024. The first occurred from 1 to 8 May. The PLAN acknowledged that trials were underway in December 2024. Fujian returned to Jiangnan pier near Shanghai from its fifth sea trial on 3 December 2024, after having left on 18 November 2024; this was its longest trial out of the five trials conducted up until December 2024. Photographs of the returning carrier showed rubber markings from tyres on the deck, a possible indicator that real aircraft were involved in the fifth trial. The Fujian returned from its sixth sea trial on 7 January 2025.
+On 18 March 2025, the Fujian set out on its seventh sea trial. Because catapult testing was expected to take place, expectations that the ship could be commissioned in 2025 were raised, should the tests be deemed a success. The carrier returned from its seventh sea trial on 1 April 2025. Fujian carried out its eighth sea trial at the end of May 2025, with ship-borne Shenyang J-35 stealth fighters, fitted for catapult launch, carrying out tests and flights at the same time.
+On 1 August 2025, Chinese media released a video teasing the launch of the J-15T carrier-borne fighter aircraft using electromagnetic catapults. Though no complete sequence of the take-off and recovery was shown, analysts believed the carrier and its air wing were reaching an important milestone.
+The ninth sea trial began on 10 September 2025. On 11 September the Japan Maritime Self-Defense Force confirmed it was spotted in waters northwest of the Senkaku Islands, heading for the Taiwan Strait. On 12 September it was confirmed to have passed through the Taiwan Strait and headed for the South China Sea for training and testing. The report speculates that, based on the number of sea trials conducted by Chinese aircraft carriers prior to commissioning, the carrier could be commissioned on 18 September (the commemoration of the September 18 Incident) or early October (National Day). The Chinese navy downplayed the trip, however, saying on 12 September that this "cross-regional trial and training exercise" was a routine arrangement in the carrier's construction process.
+On 22 September 2025, the Chinese state broadcaster released multiple videos and photos showing the complete launch and recovery sequence for the Shenyang J-15T, Shenyang J-35, and Xi'an KJ-600 aircraft, via the ship's electromagnetic catapults. PLA Navy announced that Fujian had achieved "initial full-deck operational capability", and the test laid the foundation for the ensuing integration of the carrier air wing and the carrier battle group. These flight tests were likely completed months ago during one of the earlier sea trials, instead of in September. The timing of the footage's release during the 9th sea trial could indicate that the commissioning of the aircraft carrier was imminent.
+
+
+=== Commissioning ===
+The carrier was commissioned at a ceremony in Sanya, Hainan on 5 November 2025. CCP general secretary and Central Military Commission chairman Xi Jinping was in attendance at the commissioning and flag-presenting ceremony. Afterwards, he boarded for an inspection tour.
+
+
+=== Operational service ===
+On December 14, 2025, the ship departed from Yulin Naval Base, Hainan, without aircraft aboard. It then transited Chinese territorial waters in the Taiwan Straits and returned to Jiangnan Shipyard for maintenance. This transit was not an operational deployment, in contrast to the carriers Liaoning and Shandong, which conducted extensive carrier strike group operations around Japan and Taiwan in 2025.
+
+
+== See also ==
+
+List of aircraft carriers in service
+Equivalent aircraft carriers of the same era
+
+Gerald R. Ford class
+Queen Elizabeth class
+MUGEM class
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===

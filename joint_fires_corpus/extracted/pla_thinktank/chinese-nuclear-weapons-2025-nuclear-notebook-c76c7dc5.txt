@@ -1,0 +1,2551 @@
+Bulletin of the Atomic Scientists
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/rbul20
+Chinese nuclear weapons, 2025
+Hans M. Kristensen, Matt Korda, Eliana Johns & Mackenzie Knight
+To cite this article: Hans M. Kristensen, Matt Korda, Eliana Johns & Mackenzie Knight
+(2025) Chinese nuclear weapons, 2025, Bulletin of the Atomic Scientists, 81:2, 135-160, DOI:
+10.1080/00963402.2025.2467011
+To link to this article:  https://doi.org/10.1080/00963402.2025.2467011
+Published online: 12 Mar 2025.
+Submit your article to this journal 
+View related articles 
+View Crossmark data
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rbul20
+
+NUCLEAR NOTEBOOK
+Chinese nuclear weapons, 2025
+Hans M. Kristensen, Matt Korda, Eliana Johns and Mackenzie Knight
+ABSTRACT
+The modernization of China’s nuclear arsenal has both accelerated and expanded in recent years. 
+In this issue of the Nuclear Notebook, we estimate that China now possesses approximately 600 
+nuclear warheads, with more in production to arm future delivery systems. China is believed to 
+have the fastest-growing nuclear arsenal among the nine nuclear-armed states; it is the only Party 
+to the Treaty on the Non-Proliferation of Nuclear Weapons that is significantly increasing its nuclear 
+arsenal. The Nuclear Notebook is researched and written by the staff of the Federation of American 
+Scientists’ Nuclear Information Project: director Hans M. Kristensen, associate director Matt Korda, 
+and senior research associates Eliana Johns and Mackenzie Knight. To see all previous Nuclear 
+Notebook columns in the Bulletin of the Atomic Scientists dating back to 1987, go to https:// 
+thebulletin.org/nuclear-notebook/ .
+KEYWORDS 
+China; ballistic missiles; 
+nuclear arsenals; nuclear risk; 
+nuclear weapons; nuclear 
+notebook
+Within the past five years, China has significantly 
+expanded its ongoing nuclear modernization program 
+by fielding more types and greater numbers of nuclear 
+weapons than ever before. Since our previous edition on 
+China in May 2024, China has continued to develop its 
+three new missile silo fields for solid-fuel intercontinen -
+tal ballistic missiles (ICBMs), continued the construc -
+tion of new silos for its liquid-fuel DF-5 ICBMs, has 
+been developing new variants of ICBMs and advanced 
+strategic delivery systems, and has likely produced 
+excess warheads for these systems once they are 
+deployed. China has also further expanded its dual- 
+capable DF-26 intermediate-range ballistic missile 
+force, which appears to have completely replaced the 
+medium-range DF-21 in the nuclear role. At sea, China 
+has been refitting its Type 094 ballistic missile submar -
+ines with the longer-range JL-3 submarine-launched 
+ballistic missile. In addition, China has recently reas -
+signed an operational nuclear mission to some of its 
+bombers with an air-launched ballistic missile that 
+might have nuclear capability. In all, China’s nuclear 
+expansion is among the largest and most rapid moder -
+nization campaigns of the nine nuclear-armed states.
+We estimate that China has produced a stockpile of 
+approximately 600 nuclear warheads for delivery by 
+land-based ballistic missiles, sea-based ballistic missiles, 
+and bombers (see Table 1 ).
+The Pentagon reported in 2024 that China’s nuclear 
+stockpile had “surpassed 600 operational warheads as of 
+mid-2024” (US Department of Defense 2024 , IX). But 
+Chinese warheads are not “operational” like the US and 
+Russian nuclear warheads deployed on operational 
+missiles and at bomber bases; nearly all Chinese war -
+heads are thought to be stored separate from the launch -
+ers. Moreover, we cannot replicate the warhead estimate 
+based on the reported and observable force structure 
+unless we assign warheads to a significant number of 
+China’s new silos.
+The Pentagon also estimates that China’s arsenal will 
+surpass 1,000 warheads by 2030, many of which will 
+probably be “deployed at higher readiness levels” (US 
+Department of Defense 2024 , IX). The Pentagon’s 2024 
+report to Congress, like in 2023, notably did not include 
+the projection made in previous Department of Defense 
+reports that China might field a stockpile of about 1,500 
+nuclear warheads by 2035 (US Department of Defense 
+2022b , 94, 98).
+These projections depend on many uncertain factors, 
+including:
+● How many missile silos China will ultimately build;
+● How many silos China will load with missiles;
+● How many warheads each missile will carry;
+● How many DF-26 intermediate-range ballistic mis -
+siles will be deployed and how many of them will 
+have a nuclear mission;
+● How many ballistic missile submarines China will 
+field and how many warheads each missile will 
+carry;
+● How many bombers China will operate and how 
+many weapons each will carry; and
+● Assumptions about the future production of fissile 
+materials and the number of warheads China will
+be able to produce.
+CONTACT Hans M. Kristensen 
+ hkristensen@fas.org
+BULLETIN OF THE ATOMIC SCIENTISTS               
+2025, VOL. 81, NO. 2, 135–160 
+https://doi.org/10.1080/00963402.2025.2467011
+© 2025 Bulletin of the Atomic Scientists 
+
+The latest Pentagon projection appears to simply 
+apply the same growth rate of new warheads added 
+to the stockpile between 2019 and 2021 to the sub -
+sequent years until 2030. Using that same growth 
+rate until 2035 produces the 1,500 warheads the 
+Pentagon previously projected. We assess that this 
+projected growth trajectory is feasible but depends 
+significantly upon answers to the above questions 
+( Figure 1 ).
+Research methodology and confidence
+The analyses and estimates made in the Nuclear 
+Notebook are derived from a combination of open
+Table 1. Chinese nuclear forces, 2025.
+Type NATO designation
+Number of 
+launchers
+a
+Year 
+deployed
+Range 
+(kilometers)
+Warheads x yield
+b 
+(kilotons) Warheads
+Land-based ballistic missiles
+c
+Intermediate-range
+d
+DF-26 CSS-18 250
+e
+2016 4,000 1 × 425 100
+f
+Subtotal: 250 100
+Intercontinental range
+DF-5A CSS-4 Mod 2 6 1981 12,000 1 × 4.5 MT 6
+DF-5B CSS-4 Mod 3 12 2015 13,000 Up to 5 × 425 60
+DF-5C (CSS-4 Mod 4) . . (2025) 13,000 1 × “multi-MT” . .
+DF-27 ? . . (2026) 5,000–8,000 1 × ? . .
+DF-31 CSS-10 Mod 1 . . 2006 7,200 1 × 425 . .
+g
+DF-31A CSS-10 Mod 2 24 2007 11,200 1 × 425 24
+DF-31A CSS-10 (silo) 320
+h
+(2024) 11,200 1 × 425 30
+h
+DF-31AG (CSS-10 Mod 2)
+i
+72 2018 11,200 1 × 425 72
+DF-41 CSS-20 (mobile) 28 2020 12,000 Up to 3 × 425 84
+DF-41 CSS-20 (silo) . . . . 12,000 Up to 3 × 425 . .
+Subtotal: 462 276
+Total land-based 712 376
+Submarine-launched ballistic missiles
+JL-2 CSS-N-14 0
+j
+2016 7,000+ 1 × 700 0
+JL-3 CSS-N-20 6/72 2022
+k
+9,000+ 1 × 425 72
+Aircraft
+l
+H-6N B-6 20 2020 3,100+ 1 × ALBM 20
+H-20 ? . . (2030) ? (ALCM?) . .
+Subtotal 804 468
+Warheads produced for incoming delivery 
+systems
+132
+m
+Total 600
+n
+Abbreviations used: ALBM: air-launched ballistic missile; ALCM: air-launched cruise missile; DF: Dong Feng (“East Wind”); DOD: US Department of Defense; IRBM: 
+intermediate-range ballistic missile; JL: Ju Lang (“Giant Wave”); H: Hong (“Bang”); MRBM: medium-range ballistic missile; MT: megaton; SLBM: submarine- 
+launched ballistic missiles; SSBN: nuclear-powered ballistic missile submarine; TEL: transporter erector launcher. 
+Notes: Two dots (. .) imply the number is unknown or premature. 
+a
+Numbers between parentheses indicate weapons in the process of entering service but not yet operational. 
+b
+The Chinese nuclear testing program demonstrated a wide range of warhead yields. While older and less accurate missiles were equipped with megaton-yield 
+warheads, new and more accurate missiles carry warheads with much lower yields, possibly in the few hundreds of kilotons. It is possible that some warheads 
+have even lower yield options. Updated yield estimates from Zhang ( 2025 ). 
+c
+Although the DF-17 MRBM was previously claimed to possibly be dual-capable, this has not been substantiated and the 2023 DOD report describes it as 
+conventional. As a result, the DF-17 is no longer included in this table. 
+d
+The nuclear variants of the DF-21 (DF-21A/E) were not mentioned in the 2023 and 2024 DOD reports and appear to have been withdrawn from service. 
+e
+US Department of Defense lists 250 IRBM launchers in 2024, the same as for the past two years. The DOD number may include launchers for bases that are 
+nearing completion or upgrading to DF-26. 
+f
+If all deployed DF-26 launchers are counted as one nuclear warhead each, the total stockpile would be just over 600 warheads, which is what the Pentagon 
+reported in 2024. But that would mean each DF-26 launcher is assigned a nuclear warhead, which seems excessive for a dual-capable launcher. This table 
+assumes 100 of the DF-26 TELs have a nuclear mission. More DF-26 may be in production for more bases. 
+g
+The DF-31 is no longer listed in the annual DOD report and is thought to have been retired. 
+h
+This assumes a small number of missiles have been loaded into the silos in each of the three new missile fields. 
+i
+The DF-31AG is thought to carry the same basic missile type as the DF-31A and, therefore, is likely also referred to as the CSS-10 Mod 2 by the Department of 
+Defense; however, this designation is unconfirmed. 
+j
+In November 2022, the commander of the US Pacific Fleet stated that China had replaced all of its deployed JL-2 SLBMs with JL-3s. The 2024 DOD report, 
+however, describes the SSBNs as upgrading to the JL-3. Given that we do not yet have confirmation that the JL-2 has been fully replaced by the JL-3, we 
+continue to include it in this table. 
+k
+The JL-3 was previously thought to be intended to arm the future Type 096 SSBN, but US officials have stated that the JL-3 has recently become operational on 
+Type 094/A SSBN. Instead, the Type 096 SSBN apparently will be armed with a new and longer missile. 
+l
+Bombers were used to conduct at least 12 of China’s nuclear test explosions between 1965 and 1979 and gravity bomb models are displayed in museums. The 
+People’s Liberation Army Air Force nuclear capability was dormant for years, but the mission has recently been reestablished. 
+m
+In addition to the 468 warheads assigned to operational forces, China probably has produced, or is producing, dozens of warheads for additional launchers, 
+including those needed to arm its hundreds of new missile silos. 
+n
+It is not possible to replicate the 600-nuclear warhead stockpile estimate published by the Pentagon with the observable Chinese force structure unless all DF- 
+26 TELs, the JL-3 SLBM carries MIRV, and/or a significant number of the new silos are assumed to be assigned nuclear warheads. Until more information 
+becomes available, we assume the difference is made up of newly produced warheads for missiles intended to arm the silos.
+136
+ H. M. KRISTENSEN ET AL.
+
+sources: (1) state-originating data (e.g. government 
+statements, declassified documents, budgetary informa -
+tion, military parades, and treaty disclosure data); (2) 
+non-state-originating data (e.g. media reports, think 
+tank analyses, and industry publications); and (3) com -
+mercial satellite imagery. Because each of these sources 
+provides different and limited information that is sub -
+ject to varying degrees of uncertainty, we crosscheck 
+each data point by using multiple sources and supple -
+menting them with private conversations with officials 
+whenever possible.
+Analyzing and estimating China’s nuclear forces is 
+a challenging endeavor, particularly given the relative 
+lack of state-originating data and the tight control of 
+messaging surrounding the country’s nuclear arsenal and 
+doctrine. Like most other nuclear-armed states, China has 
+never publicly disclosed the size of its nuclear arsenal or 
+much of the infrastructure that supports it. This degree of 
+relative opacity makes China’s nuclear arsenal difficult to 
+quantify, particularly given that it is likely the fastest- 
+growing arsenal in the world. China may become more 
+transparent about its nuclear forces over the coming dec -
+ade if it deepens its participation in arms control consulta -
+tions—the first of which took place in November 2023— 
+although building a culture of nuclear transparency from 
+scratch will take time (Gordon 2023 ). In September 2024, 
+China surprisingly notified the United States before it test- 
+launched a DF-31AG intercontinental ballistic missile 
+from Hainan Island (Johns 2024 ).
+Despite blind spots, it is possible to develop a much 
+more comprehensive picture of the Chinese nuclear 
+arsenal today than just a few decades ago by examining 
+videos of China’s People’s Liberation Army (PLA) mili -
+tary parades, translations of strategic documents, and 
+commercial satellite imagery. The relative degree of struc -
+ture and standardization within the various PLA services 
+also allows researchers to better understand the structure 
+and mission of missile brigades and individual units.
+Additionally, other countries—particularly the 
+United States—regularly produce public assessments 
+or statements about China’s nuclear forces. Such state -
+ments, however, must be verified as they can be institu -
+tionally biased and reflect a mind-set of worst-case 
+thinking rather than the most likely scenario. Analysis 
+produced by think tanks and non-governmental experts 
+can also be highly useful in informing estimates: The 
+transparency surrounding China’s missile forces, in par -
+ticular, has been greatly enhanced in recent years by the 
+unique work of Mark Stokes, Decker Eveleth (Eveleth 
+2023 ), Ben Reuter, and the US Air Force’s China 
+Aerospace Studies Institute.
+It is important to view external analysis with a critical 
+eye, as there is a high risk of citation and confirmation 
+bias, in which governmental or non-governmental 
+reports build on each other’s estimates—sometimes 
+without the reader knowing that this is occurring. This 
+practice can inadvertently create a cyclical echo cham -
+ber effect, which may not necessarily match the reality 
+on the ground.
+In the absence of reliable or official data, commercial 
+satellite imagery has become a particularly important 
+resource for analyzing China’s nuclear forces. Satellite
+Figure 1. Silo field assumptions and projections of China’s nuclear weapons stockpile. Projections for the growth of China’s nuclear 
+weapons stockpile depend significantly on assumptions about how China’s three new solid-fuel missile silo fields will be armed. 
+(Credit: Federation of American Scientists).
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 137
+
+imagery makes it possible to identify air, missile, and 
+navy bases, as well as potential underground storage 
+facilities. For instance, satellite imagery obtained from 
+Planet Labs, Maxar Technologies, and Copernicus was 
+used by non-governmental experts, including some of 
+the authors of this report, to document China’s new 
+missile silo fields in 2021 (Korda and Kristensen 2021 ) 
+and has been instrumental for continuously monitoring 
+construction at those sites and at other bases across the 
+country. The PLA’s standardization has also enabled 
+researchers to better understand developments at 
+China’s military bases, as layouts and construction 
+dynamics now increasingly follow the same patterns, 
+designs, and dimensions.
+Considering all these factors, we maintain a relatively 
+higher degree of confidence in our Chinese nuclear force 
+estimates than in those of some other nuclear-armed 
+countries where official and unofficial information is 
+even more scarce (Pakistan, India, Israel, and North 
+Korea). However, our estimates about Chinese nuclear 
+forces come with relatively more uncertainty than those 
+of countries with greater nuclear transparency (the 
+United States, the United Kingdom, France, and Russia).
+Fissile materials production
+How much and how fast China’s stockpile can grow will 
+depend upon its inventories of plutonium, highly 
+enriched uranium (HEU), and tritium. The 
+International Panel on Fissile Materials assessed in 
+2023 that China had a stockpile of approximately 14 
+tonnes (metric tons) of HEU and approximately 2.9 
+tonnes of separated plutonium in or available for 
+nuclear weapons (Kütt, Mian, and Podvig 2023 , 
+328–329). Those inventories were sufficient to support 
+a doubling of the stockpile over the past five years and 
+potentially an increase to approximately 1,000 warheads 
+by the turn of the decade. However, producing more 
+than 1,000 additional warheads by 2035 would require 
+additional fissile material production; the Pentagon 
+confirmed this assessment in 2024 by saying China 
+“probably will need to begin producing new plutonium 
+this decade to meet the needs of its expanding nuclear 
+stockpile” (US Department of Defense 2024 , 107). The 
+Pentagon also assesses that China is expanding and 
+diversifying its capability to produce tritium (108), and 
+China reportedly began in 2023 to operate two large 
+new centrifuge enrichment plants-one at Emeishan and 
+another at Lanzhou (Zhang 2023a , 2023b ).
+Chinese production of weapon-grade plutonium 
+reportedly ceased in the mid-1980s (Zhang 2018 ), and 
+the Pentagon stated in 2024 that China “has not pro -
+duced large quantities of plutonium for its weapons 
+program since the early 1990s” (US Department of 
+Defense 2024 , 107). However, Beijing is combining its 
+civilian technology and industrial sector with its defense 
+industrial base to leverage dual-use infrastructure (US 
+Department of Defense 2023 , 28). It is believed that 
+China likely intends to acquire significant stocks of 
+plutonium by using its civilian reactors, including two 
+commercial-sized CFR-600 sodium-cooled fast-breeder 
+reactors that are currently under construction at Xiapu 
+in Fujian province (Jones 2021 ; von Hippel 2021 ; Zhang 
+2021b ). Rosatom—Russia’s state-controlled nuclear 
+energy company—completed the final delivery of fuel 
+to supply the first fuel loading in December 2022 
+(Rosatom 2022 ), and steam possibly seen emanating 
+from a cooling tower on satellite imagery in 
+October 2023 suggests the first CFR-600 reactor may 
+have begun operation (Kobayashi 2023 ). In 
+December 2023, the International Panel on Fissile 
+Materials reported that the first reactor had begun oper -
+ating at low-power mode in mid-2023 (Zhang 2023a ). 
+As of the end of 2024, it was unclear if the reactor had 
+been connected to the grid and begun generating elec -
+tricity (Park 2024 ). The second reactor is scheduled to 
+come online by 2026.
+To extract plutonium from its spent nuclear fuel, 
+China completed construction of its first civilian 
+“demonstration” reprocessing plant at the China 
+National Nuclear Corporation (CNNC) Gansu Nuclear 
+Technology Industrial Park in Jinta, Gansu province, 
+which is expected to be operational in 2025 (Zhang 
+2024 ). China has started the construction of a second 
+plant to reprocess spent light-water reactor fuel at the 
+same location, which is expected to be up and running 
+before the end of the decade (Zhang 2021a , 2024 ). 
+Construction of a third plant in a new, extended area of 
+the park began in 2023 and is expected to be completed in 
+the early 2030s (Zhang 2024 ). The MOX plant and fuel 
+reprocessing capacity at Jinta and the 50 tonne-per-year 
+capacity at Jiuquan (Plant 404) could support the two 
+CFR-600 reactors, which will begin operation with highly 
+enriched uranium (HEU) rather than mixed oxide 
+(MOX) fuel through a supply agreement with Russia 
+(US Department of Defense 2023 , 109; Zhang 2021a ).
+The ambiguity of Chinese nuclear warhead types 
+and uncertainty on the exact amount of fissile material 
+required for each warhead design make it difficult to 
+estimate how many weapons China could produce 
+from its existing HEU and weapons-grade plutonium 
+stockpiles. If both fast-breeder reactors operate as 
+planned (despite other countries having serious diffi -
+culties operating fast-breeder reactors), they could 
+potentially produce large amounts of plutonium and,
+by some estimates, could enable China to acquire over 
+138
+ H. M. KRISTENSEN ET AL.
+
+330 kilograms of weapon-grade plutonium annually 
+for new warhead production (Kobayashi 2023 )— 
+which would be consistent with the Pentagon’s most 
+recent projections (US Department of Defense 2024 , 
+107). China, however, insists that its CFR-600 reactors 
+are for civilian use only, and some experts have 
+pointed out that fast-breeder reactors are an extremely 
+inefficient way of producing weapons-grade pluto -
+nium (Park 2024 ).
+Although China’s production and reprocessing of 
+fissile materials is largely consistent with its nuclear 
+power efforts and its goal of reaching a closed nuclear 
+fuel cycle, the Pentagon asserts that Beijing intends to 
+use this infrastructure “to produce nuclear warhead 
+materials for its military in the near term” (US 
+Department of Defense 2024 , 107). The degree of trans -
+parency surrounding China’s nuclear materials produc -
+tion and its suspected expansion of uranium and tritium 
+production has recently decreased as China has not 
+reported its separated plutonium stockpile to the 
+International Atomic Energy Agency since 2017 (US 
+Department of Defense 2024 , 108).
+US estimates and assumptions about Chinese 
+nuclear forces
+Evaluation of current US projections about the future size 
+of China’s nuclear weapons stockpile must take earlier 
+projections into account, some of which did not come to 
+pass. During the 1980s and 1990s, US government agencies 
+published several projections for the number of Chinese 
+nuclear warheads. A US Defense Intelligence Agency study 
+from 1984 inaccurately estimated that China had 150 to 
+360 nuclear warheads and projected it could increase to 
+more than 800 by 1994 (Kristensen 2006 ). Over a decade 
+later, another Defense Intelligence Agency study published 
+in 1999 projected that China might have over 460 nuclear 
+weapons by 2020 (US Defense Intelligence Agency 1999 ). 
+While this latter projection ultimately proved to be closer 
+to the warhead estimate the Pentagon published in 2020, it 
+was still more than twice the “low-200s” warhead estimate 
+announced by the Pentagon (US Department of Defense 
+2020 , ix; Figure 2 ).
+Current US projections also come with significant 
+uncertainties. In November 2021, the Pentagon’s 
+annual China Military Power Report (CMPR) to 
+Congress projected that China could have 700 deli -
+verable warheads by 2027, and possibly as many as 
+1,000 by 2030 (US Department of Defense 2021 , 90). 
+The 2022 Pentagon report increased the projection 
+even further, claiming that China’s stockpile of 
+“operational” nuclear warheads had surpassed 400 
+and might reach about 1,500 warheads by 2035 (US 
+Department of Defense 2022b , 94). The estimate 
+increased to more than 500 warheads in 2023 and 
+to over 600 warheads in 2024 and repeated the 
+projection that China might possess over 1,000 
+operational warheads by 2030 (US Department of
+Figure 2. US organizations’ estimates of China’s nuclear weapons stockpile. Abbreviations used: CIA, Central Intelligence Agency; DIA, 
+Defense Intelligence Agency; DOD, US Department of Defense; FAS, Federation of American Scientists; OSD, Office of the Secretary of 
+Defense; STRATCOM, US Strategic Command. (Credit: Federation of American Scientists).
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 139
+
+Defense 2024 , IX). However, the available public 
+information and observable force structure do not 
+allow us to replicate the estimate of more than 600 
+warheads unless we assign a significant number of 
+nuclear warheads—up to 160—to the new silos. As 
+a result, we assess that China’s stockpile number 
+might include approximately 600 warheads but that 
+this estimate must include a significant number of 
+warheads that have been produced to eventually arm 
+missiles that are still in the process of being fielded.
+Chinese officials have pushed back against what 
+they see as the “sensationalized” or “exaggerated” 
+claims made in successive Pentagon CMPRs (Li 
+2022a ; Ministry of National Defense of the People’s 
+Republic of China 2023a ). However, the Chinese 
+government has not denied—and has barely 
+acknowledged—the expansion of the mobile ICBM 
+force or the construction of three large new missile 
+silo fields.
+The projected increase has unsurprisingly triggered 
+a wide range of speculations about China’s nuclear 
+intentions. Over the past five years, high-ranking US 
+officials—including the former US STRATCOM com -
+mander—have suggested that China has moved away 
+from its longstanding “minimum deterrence” posture, 
+and that it “seeks to match, or in some areas surpass, 
+quantitative and qualitative parity with the United 
+States in terms of nuclear weapons” (Billingslea 2020 ; 
+Bussiere 2021 ; US Strategic Command 2022 ; Cotton 
+2023 ).
+US officials and individuals in the public debate have 
+repeatedly claimed that China’s expansion will make it 
+a nuclear “peer” or “near peer” in the future. This is 
+a gross exaggeration, however: There is no evidence that 
+China’s ongoing nuclear expansion will result in parity 
+with the US arsenal. Even the worst-case 2023 projec -
+tion of 1,500 warheads by 2035 amounts to less than half 
+of the current US nuclear stockpile. When reminded 
+about that reality, some US defense officials have sought 
+to downplay the importance of numbers: “We don’t 
+approach it from purely a numbers game,” according 
+to then-deputy commander of the US Strategic 
+Command, Lt. Gen. Thomas Bussiere. “It is what is 
+operationally fielded, . . . status of forces, posture of 
+those fielded forces. So, it is not just a stockpile num -
+ber,” he said (Bussiere 2021 ).
+Nuclear testing
+The projection for how much the Chinese nuclear 
+stockpile will increase also depends on the size and 
+design of its warheads. China’s nuclear testing program 
+of the 1990s partially supported the development of the 
+warhead (#535) type currently arming the DF-31-class 
+ICBMs. This warhead design may also have been used to 
+equip the liquid-fueled DF-5B ICBM with multiple 
+independently targeted reentry vehicle (MIRV) technol -
+ogy, replacing the much larger multi-megaton warhead 
+(#506) used on the DF-5A. The large DF-41 and the JL-3 
+missiles could potentially use the same smaller #535 
+warhead or the even smaller #5×5 warhead (Zhang 
+2025 ). The Pentagon believes that China probably 
+seeks a “lower-yield” nuclear warhead for the DF-26 
+(US Department of Defense 2024 , 124); however, it is 
+unclear if that implies the production of a new warhead 
+or how low such a “lower” yield might be. China is 
+thought to already have a lower-yield warhead, the 
+#5×5 warhead (Zhang 2025 ). For instance, if Beijing 
+wanted a low-yield warhead, it could potentially do so 
+by using existing warheads and “turning off” the ura -
+nium secondary so only smaller-yield plutonium pri -
+mary is used, similarly to what the United States did 
+with its W76–2 warhead more than five years ago.
+Developing significantly different warhead designs 
+would probably require additional nuclear test explo -
+sions. To avoid such tests, China could potentially make 
+simpler designs that use a previously tested nuclear 
+explosive package, advanced computer simulations, and 
+sub-critical (or very low-yield) underground explosive 
+experiments. Recently, the United States has claimed 
+that some of China’s actions at Lop Nur “raise concern” 
+about its adherence to the United States’ “zero-yield” 
+standard (US Department of State 2022 , 29). However, 
+the report did not explicitly accuse China of conducting 
+critical tests that produced a yield, and none of the 2023 
+and 2024 Compliance Reports included any additional 
+information. Instead, the State Department and Pentagon 
+suggested that the activities at Lop Nur are an indication 
+that China might be planning to use the site “year-round” 
+(US Department of State 2023 , 18; 2024 ; US Department 
+of Defense 2024 ).
+Analysis of commercial satellite imagery shows sig -
+nificant construction at the Lop Nur site with the 
+construction of approximately a dozen concrete build -
+ings near the site’s airfield, as well as at least one new 
+tunnel at the site’s northern testing area (Brumfiel 
+2021b ). The imagery shows what appears to be new 
+drainage areas, drill rigs, roads, spoil piles, and cov -
+ered entrances to potential underground facilities, as 
+well as new construction at the main administration, 
+support, and storage areas (Babiarz 2023 ; Brumfiel 
+2021a ; J. Lewis 2023 ). Many of these activities 
+appeared to still be ongoing as of the time of writing 
+this report. In addition to new activity at the northern 
+tunnel test area, satellite imagery also indicated activ -
+ity at a possible new eastern test area at Lop Nur
+140
+ H. M. KRISTENSEN ET AL.
+
+(Babiarz 2023 ). However, although the construction 
+works are significant, they do not prove that China 
+plans to conduct new nuclear explosive tests at the 
+site. Should China conduct low-yield nuclear tests at 
+Lop Nur, it would violate its responsibility under the 
+Comprehensive Nuclear Test Ban Treaty it has signed 
+but not ratified.
+Nuclear doctrine and policy
+Since its first nuclear test in 1964, China has maintained 
+a consistent narrative about the purpose of its nuclear 
+weapons. This narrative was restated in China’s updated 
+2023 national defense policy:
+China is always committed to a nuclear policy of no first 
+use of nuclear weapons at any time and under any 
+circumstances, and not using or threatening to use 
+nuclear weapons against non-nuclear-weapon states or 
+nuclear-weapon-free zones unconditionally. . . . China 
+does not engage in any nuclear arms race with any other 
+country and keeps its nuclear capabilities at the mini -
+mum level required for national security. China pursues 
+a nuclear strategy of self-defense, the goal of which is to 
+maintain national strategic security by deterring other 
+countries from using or threatening to use nuclear 
+weapons against China. (Ministry of National Defense 
+of the People’s Republic of China 2023b )
+China increasingly refers to its nuclear forces as a key 
+capability for achieving “strategic counterbalance”—a 
+phrase that has not been formally defined by Chinese 
+government sources—which appears to suggest that 
+China believes its nuclear weapons play a role in shaping 
+the geostrategic balance of global power (Zhao 2024 ).
+Despite its declaratory policy of emphasizing 
+a “defensive” nuclear posture, China has never defined 
+how large a “minimum” capability is or what activities 
+constitute an “arms race.” The stated policies evidently 
+do not prohibit the unprecedented expansion of China’s 
+nuclear arsenal currently underway. The posture appar -
+ently seeks to “adapt to the development of the world’s 
+strategic situation,” part of which involves the “organic 
+integration [of] nuclear counterattack capability and 
+conventional strike capability” (China Aerospace 
+Studies Institute 2022 , 381–382).
+Such capabilities require investing significant 
+resources to ensure the survivability of the nuclear 
+arsenal against a nuclear or conventional first strike, 
+including practicing “nuclear attack survival exercises” 
+to ensure that troops could still launch nuclear counter -
+attacks if China were to be attacked (Global Times 
+2020 ). It also involves improving early-warning systems 
+and the stealth capabilities of its nuclear forces to be able 
+to elude enemy detection (Kaufman and Waidelich 
+2023 , 42, 45).
+The People’s Liberation Army maintains what it 
+refers to as a “moderate” readiness level for its nuclear 
+forces and keeps most of its warheads at its regional 
+storage facilities and its central hardened storage facility 
+in the Qinling mountain range.
+1 
+The 2024 Pentagon 
+report reaffirmed this posture, stating that China main -
+tains “a portion of its units on a heightened state of 
+readiness while leaving the other portion in peacetime 
+status with separated launchers, missiles, and war -
+heads.” But the report also described that the People’s 
+Liberation Army Rocket Force (PLARF) brigades con -
+duct “combat readiness duty” and “high alert duty” 
+drills, which “includes assigning a missile battalion to 
+be ready to rapidly launch” (US Department of Defense 
+2024 , 106).
+The readiness of the Chinese nuclear missile force 
+was challenged in early 2024 with the disclosure that 
+a US intelligence assessment had found that corruption 
+within the People’s Liberation Army had led to an ero -
+sion of confidence in its overall capabilities, particularly 
+when it comes to the Rocket Force (Martin and Jacobs 
+2024 ). The 2024 Pentagon report noted that the subse -
+quent corruption investigation “likely resulted in the 
+PLARF repairing the silos, which would have increased 
+the overall operational readiness of its silo-based force” 
+(US Department of Defense 2024 , 159). This could 
+explain the heightened activity seen through satellite 
+imagery at several new Chinese silos over the past year.
+Increased readiness and alert drills do not necessarily 
+require nuclear warheads to be installed on the missiles 
+or prove that they are installed at all times, but it cannot 
+be ruled out either. However, recent dismissals of top 
+defense officials and widespread corruption might 
+degrade the Chinese leadership’s willingness to arm 
+missiles with warheads in peacetime.
+A nuclear attack against China is unlikely to come 
+out of the blue and is more likely to follow a period 
+of increasing tension and possibly conventional war -
+fare, allowing the warheads to be mated to the mis -
+siles in time. Moreover, a credible retaliatory 
+capability doesn’t require missiles to be on alert in 
+peacetime: With launchers inside tunnels dispersed 
+across vast mountainous areas, it is impossible—even 
+for a large nuclear adversary—to prevent China from 
+retaliating with at least some of its missiles intact. In 
+April 2019, the Chinese delegation to the 
+Preparatory Committee for the 2020 Review 
+Conference of the Parties to the Treaty on the Non- 
+Proliferation of Nuclear Weapons provided a generic 
+description of its alert posture and the stages
+Chinese nuclear forces would go through in a crisis:
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 141
+
+In peacetime, the nuclear force is maintained at 
+a moderate state of alert. In accordance with the prin -
+ciples of peacetime-wartime coordination, constant 
+readiness, and being prepared to fight at any time, 
+China strengthens its combat readiness support to 
+ensure effective response to war threats and emergen -
+cies. If the country faced a nuclear threat, the alert status 
+would be raised and preparations for nuclear counter- 
+attack undertaken under the orders of the Central 
+Military Commission to deter the enemy from using 
+nuclear weapons against China. If the country were 
+subjected to nuclear attack, it would mount a resolute 
+counter-attack against the enemy. (Ministry of Foreign 
+Affairs of the People’s Republic of China 2019 )
+In peacetime, the “moderate state of alert” might 
+involve designated units to be deployed in high com -
+bat-ready condition with nuclear warheads installed, 
+or in nearby storage sites under the control of the 
+Central Military Commission that could be released 
+to the unit quickly if necessary. Analysts have 
+described Chinese nuclear forces as following a six- 
+stage alert sequence based upon increasingly action -
+able intelligence (J. W. Lewis and Xue 2012 ; Wood, 
+Stone, and Corbett 2024 ):
+(1) Standing war preparedness alert: day-to-day 
+readiness condition.
+(2) Class 3 operational preparations alert: missile 
+bases accelerate preparations for launching mis -
+siles and base security is upgraded.
+(3) Class 2 operational preparations alert: missile 
+bases, including associated air defense and 
+ground crews, shift to maximum readiness.
+(4) Class 1 operational preparations alert: gives 
+authority to designated base commanders to 
+launch nuclear weapons upon receipt of formal 
+orders from the Central Military Commission.
+(5) Preparatory order: includes precise timing and 
+instructions for mobile launch units to enter 
+launch sites and for siloed units to conduct 
+necessary pre-launch activities.
+(6) Formal order: official launch order from the 
+Central Military Commission authorizing the 
+use of nuclear weapons.
+China is building several underground facilities at some of 
+its newer sites, including at its three solid-fuel missile silo 
+complexes, which could potentially be used for warhead 
+storage. Each PLARF regional base has a dedicated “equip -
+ment inspection” regiment or brigade that is responsible 
+for storage, management, and transportation of the nuclear 
+weapons assigned to missile brigades in that base area.
+The Pentagon assesses that the construction of hun -
+dreds of new silos for quick-launch solid fuel missiles 
+and development of a space-based early warning system 
+indicate China’s intent to move to a launch-on-warning 
+(LOW) posture, known in China as a “early warning 
+counterstrike” ( 预警反击 ), giving China time to launch 
+its missiles before they would be destroyed (US 
+Department of Defense 2024 , 110). The Pentagon says 
+that China “likely has at least three early warning satel -
+lites in orbit” and that the PLARF continues to conduct 
+exercises involving “early warning of a nuclear strike 
+and LOW responses” (110).
+In addition to the technical means for protecting the 
+missiles against a first strike, the PLARF has also 
+emphasized “survival protection” for its land-based 
+nuclear forces (China Aerospace Studies Institute 
+2022 , 386). This involves training soldiers to perform 
+additional tasks beyond their primary roles, including 
+a “role switch” where a transporter erector launcher 
+(TEL) driver would also know how to launch a missile, 
+or a measurement specialist who knows how to com -
+mand (Baughman 2022 ). During one “survival protec -
+tion” training exercise in November 2021, a launch 
+battalion was informed they would be “killed” by an 
+enemy missile strike in five minutes. Rather than 
+attempting to evacuate—the standard “survival protec -
+tion” procedure—the battalion commander ordered his 
+troops to conduct a surprise “launch on the spot” of 
+their ballistic missile before the enemy missile hit their 
+position (Baughman 2022 ; Lu and Liu 2021 ). While the 
+report did not specify whether the battalion had 
+a nuclear or conventional strike role, the exercise sug -
+gests that the PLARF is practicing launching missiles in 
+a launch-on-warning scenario.
+These data points, however, are not necessarily evi -
+dence of a formal shift to a more aggressive nuclear 
+posture (Fravel, Hiim, and Trøan 2023 ). They could 
+just as likely be intended to allow China to disperse its 
+forces and, if needed, launch rapidly—but not necessa -
+rily “on warning”—in the context of a crisis, thereby 
+safeguarding its forces against a surprise conventional 
+or nuclear first strike. For decades, China has deployed 
+silo-based DF-5s and road-mobile ICBMs that, in 
+a crisis, would be armed with the intention to launch 
+them before they are destroyed. China potentially could 
+maintain its current strategy even with many new silos 
+and improved early-warning systems.
+Notably, both the United States and Russia operate 
+large numbers of solid-fuel silo-based missiles and 
+early-warning systems to be able to detect nuclear 
+attacks and launch their missiles before they are 
+destroyed. The two countries also insist that such 
+a posture is both necessary and stabilizing. It seems 
+reasonable to assume that China would seek a similar
+posture to safeguard its own retaliatory capability.
+142
+ H. M. KRISTENSEN ET AL.
+
+A Chinese early-warning system could potentially 
+also be intended to enable a future advanced missile 
+defense system. The latest Pentagon report on China’s 
+military capabilities notes that China is fielding an indi -
+genous HQ-19 (known to the United States as CH-AB 
+-02) anti-ballistic missile system and developing an 
+“ultra-long-range” missile defense system as well as hit- 
+to-kill mid-course technology that could engage inter -
+mediate-range ballistic missiles and possibly ICBMs, 
+although the latter would still take many years to 
+develop (US Department of Defense 2024 , 62). China 
+already maintains several ground-based large phased- 
+array radars that contribute to its nascent early-warning 
+capabilities.
+China’s nuclear expansion and apparent pursuit of 
+a launch-on-warning capability have triggered a debate 
+about China’s longstanding no-first-use policy. 
+Although there has been considerable discussion in 
+China about the size and readiness of the nuclear arsenal 
+as well as when the no-first-use policy would apply, 
+there is little evidence to suggest that the Chinese gov -
+ernment has deviated from it, which is also reiterated in 
+its 2023 national defense strategy (Ministry of National 
+Defense of the People’s Republic of China 2023b ; 
+Santoro and Gromoll 2020 ).
+As with other nuclear-armed states, there is uncer -
+tainty and ambiguity about what circumstances could 
+cause the Chinese leadership to order the use of nuclear 
+weapons. Despite its no-first-use policy, Chinese offi -
+cials have privately stated in the past that China reserves 
+the right to use nuclear weapons if its nuclear forces 
+were attacked with conventional weapons. The 
+Pentagon echoed this in its 2024 report: “China’s 
+nuclear strategy probably includes consideration of 
+a nuclear strike in response to a non-nuclear attack 
+threatening the viability of China’s nuclear forces or 
+C2, or that approximates the strategic effects of 
+a nuclear strike” (US Department of Defense 2024 , 102).
+The modernization of the nuclear forces could poten -
+tially influence Chinese nuclear strategy and declaratory 
+policy gradually in the future by offering the Chinese 
+leadership more efficient ways of deploying, respond -
+ing, and coercing with nuclear or dual-capable forces. 
+The 2022 US Nuclear Posture Review suggested that 
+China’s trajectory of expanding and improving its 
+nuclear arsenal could “ . . . provide [China] with new 
+options before and during a crisis or conflict to leverage 
+nuclear weapons for coercive purposes, including mili -
+tary provocations against US Allies and partners in the 
+region” (US Department of Defense 2022a , 4).
+This raises the question of whether China will lever -
+age nuclear weapons in its “counter-intervention” strat -
+egy that aims to limit the US presence in the East and 
+South China Seas and achieve reunification with 
+Taiwan. China has made clear that it “keeps to the 
+stance that China will not attack unless we are attacked, 
+but China will surely counterattack if attacked. China 
+will firmly defend its national sovereignty and territorial 
+integrity, and resolutely thwart the interference of exter -
+nal forces and the separatist activities for ‘Taiwan 
+Independence’” (Li 2022b ).
+Regardless of what the specific red lines may be, 
+China’s no-first-use policy probably has a high thresh -
+old. The significant modernization of non-nuclear 
+forces seems to indicate that the Chinese leadership is 
+interested in keeping it that way. Many experts believe 
+there are very few scenarios in which China would 
+benefit strategically from a first nuclear strike even in 
+the case of conventional conflict with a military power 
+such as the United States (Tellis 2022 , 27). However, in 
+a situation in which the stakes would be high—such as 
+in a military clash over Taiwan—both China and the 
+United States appear to reserve the option of using 
+nuclear weapons—including first—if deemed necessary. 
+In the Pentagon’s words: “Beijing probably would con -
+sider nuclear first use if a conventional military defeat in 
+Taiwan gravely threatened [the Chinese Communist 
+Party] regime survival” (US Department of Defense 
+2024 , 102).
+Land-based ballistic missiles
+China continues the long-term modernization of its 
+land-based, nuclear-capable missile force. But the pace 
+and scope of this effort have increased significantly over 
+the past few years with the construction underway of 
+approximately 350 new missile silos and several new 
+bases for road-mobile missile launchers. Overall, we 
+estimate that the PLARF currently operates approxi -
+mately 712 launchers for land-based missiles that can 
+deliver nuclear warheads. But not all of those are neces -
+sarily assigned nuclear warheads. Of those launchers, 
+462 can be loaded with missiles that can reach the 
+continental United States. Many of China’s ballistic 
+missile launchers are for short-, medium-, and inter -
+mediate-range missiles intended for regional missions, 
+and most of those do not have nuclear strike missions. 
+We estimate that China has roughly 100 nuclear war -
+heads assigned to regional missiles, although this num -
+ber comes with significant uncertainty.
+The PLARF, which is headquartered in Beijing, has 
+recently undergone several management shakeups: In 
+July 2023, the PLARF commander and political com -
+missar, along with several other senior officers, were 
+removed from their positions following an anti- 
+corruption investigation. Notably, the top two PLARF
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 143
+
+officials were replaced by generals from outside the 
+PLARF itself: the new commander and political com -
+missar come from the People’s Liberation Army Navy 
+(PLAN) and the People’s Liberation Army Air Force 
+(PLAAF), respectively (Lendon, McCarthy, and Chang 
+2023 ). In October 2023, China’s Minister of National 
+Defense Li Shangfu, who would have been responsible 
+for approving nuclear weapons acquisitions, was also 
+removed from his post (US Department of Defense 
+2024 , XII).
+The PLARF controls nine individually numbered 
+bases: six for missile operations distributed across 
+China (Bases 61 through 66), one for overseeing the 
+central nuclear stockpile (Base 67), one for maintaining 
+infrastructure (Base 68), and one that is assumed to be 
+for training and missile tests (Base 69) (Xiu 2022 , 2). 
+Each missile operating base controls six to eight missile 
+brigades, with the number of launchers and missiles 
+assigned to each brigade depending on the type of mis -
+sile (Xiu 2022 , 5).
+To accommodate the growing missile force, the total 
+number of Chinese missile brigades has increased too. 
+This increase is predominantly caused by the growing 
+inventory of conventional missiles, but it is also 
+a product of China’s nuclear modernization program. 
+We estimate that the PLARF currently has approxi -
+mately 45 brigades with ballistic or cruise missile 
+launchers. Approximately 30 of those brigades either 
+operate ballistic missile launchers with nuclear capabil -
+ity or are upgrading to do so soon (see Table 2 ). This is 
+close to the 50 nuclear missile brigades that Russia 
+operates—known as regiments in the Russian military 
+vocabulary (Kristensen, Korda, and Reynolds 2023 ).
+Intercontinental ballistic missiles
+Of China’s 462 ICBM launchers, we estimate that over 170 
+may have been assigned missiles that can deliver over 270 
+warheads. This may include some missiles loaded in three 
+new silo fields that recently were completed in northern 
+China, although it remains to be seen how many of the silos 
+will be loaded. These 320 new silos for solid-fuel missiles 
+and the construction of 30 new silos for liquid-fuel missiles 
+in three mountainous areas of central-eastern China con -
+stitute the most significant recent development in China’s 
+nuclear arsenal (Eveleth 2023 ; Korda and Kristensen 2021 ; 
+Lee 2021 ; J. Lewis and Eveleth 2021 ; Reuter 2023 ).
+At two of the three missile silo fields—as well as the 
+training site at Jilantai—the silos are positioned roughly 
+three kilometers apart in an almost perfect triangular 
+grid pattern. The silos in the third field are positioned 
+randomly but still with the same distance between them. 
+The silo fields are located deeper inside China than any 
+other known ICBM base, and beyond the reach of the 
+United States’ conventional and nuclear cruise missiles. 
+The Pentagon’s 2024 CMPR states that China “has 
+loaded at least some ICBMs”—likely DF-31s—across 
+the three silo fields (US Department of Defense 2024 , 
+77, 103). We cautiously estimate that perhaps 10 silos in 
+each missile field may have been loaded. The new silo 
+fields are described in detail below:
+Yumen silo field
+The Yumen silo field, located in Gansu province in the 
+western military district, covers an area of approximately 
+1,110 square kilometers with a perimeter fence surround -
+ing the entire complex. The field includes 120 individual 
+silos. There also appear to be at least five launch control 
+centers scattered throughout the field, which are con -
+nected to the silos through underground cables.
+In addition to the 120 silos, the Yumen field also 
+includes dozens of supporting and defensive structures. 
+These include multiple security gates in the north 
+(40.38722° N, 96.52416° E) and south (40.03437° N, 
+96.69658° E), at least 23 support facilities, and approxi -
+mately 20 surveillance or radio towers. Additionally, the 
+Yumen field includes at least five raised square plat -
+forms around the perimeter of the complex, which 
+could possibly be used for air and missile defense.
+Construction of the field began in March 2020 and 
+the last inflatable shelter was removed in February 2022, 
+indicating that the most sensitive construction on each 
+silo has now been completed. Construction at the 
+Yumen field is the furthest along out of the three silo 
+complexes. For some time between April and May 2024, 
+several silos were covered with a camouflage structure to 
+conceal possible maintenance on the silos.
+Hami silo field
+The Hami field, located in Eastern Xinjiang in the wes -
+tern military district, spans an area of approximately 
+1,028 square kilometers, roughly the same size as the 
+Yumen field, and has a similar perimeter fence around 
+the entire complex.
+Construction at the Hami field, which includes 110 
+missile silos, is thought to have begun at the start of 
+March 2021—roughly one year after Yumen. The last of 
+the Hami field’s inflatable domes were removed in 
+August 2022, indicating the completion of the most 
+sensitive aspects of construction.
+Like Yumen, the Hami field includes at least three 
+security gates, at least 15 surveillance or radio towers,
+several potential launch control centers, a rail transfer 
+facility, and several raised square platforms for air-defense
+144
+ H. M. KRISTENSEN ET AL.
+
+Table 2. Chinese missile brigades, 2025.
+a
+Base Number 
+(Provinces) Unit Location
+b
+(º N, ºE) Weapon type
+c
+Nuclear role Notes
+PLARF HQ Beijing (40.0352, 116.3197)
+Base 61 
+(Anhui, Fujian, 
+Guangdong, Jiangxi, 
+Zhejiang)
+HQ Huangshan (29.6956, 118.2997)
+611 Brigade Qingyang (30.6903, 117.9011) DF-26 Yes Major upgrade underway.
+612 Brigade Leping (28.9797, 117.1205) DF-21A (DF-31AG?)
+d
+Yes Possibly upgrading to DF-31AG.
+613 Brigade Shangrao (28.4745, 117.8954) DF-15B (DF-17?)
+e
+No Possibly upgrading to new missile.
+614 Brigade Yongan (26.0596, 117.3151) DF- 17
+f
+No First DF-17 brigade.
+615 Brigade Meizhou (24.2828, 115.9708) DF-11A
+g
+No
+616 Brigade Ganzhou (25.8992, 114.9587) DF-17
+h
+No New base added since 2020.
+i
+617 Brigade Jinhua (29.1508, 119.6153) DF-16A
+j
+No Second DF-16 brigade. Status uncertain.
+? Brigade* Nanchang (28.5004, 115.9214)? (GLCM?) No Status uncertain.
+Base 62
+k 
+(Guangxi, Guangdong, 
+Hainan, Sichuan, 
+Yunnan)
+HQ Kunming (24.9888, 102.8346) Base expansion underway.
+621 Brigade Yibin (28.7607, 104.7914) DF-31AG?
+l
+Yes Upgraded from DF-21A.
+622 Brigade Yuxi (24.3601, 102.4942) DF-31A Yes Former DF-21A brigade.
+623 Brigade Liuzhou (24.3856, 109.5726) DF-10A No First DF-10A brigade.
+624 Brigade Danzhou (19.4721, 109.4570) DF-21D No Possibly upgrading to new missile.
+625 Brigade Jianshui (23.7354, 102.8713) DF-26 Yes Possibly second DF-26 brigade.
+626 Brigade Qingyuan (23.6845, 113.1768) DF-26
+m
+Yes Possible third DF-26 brigade.
+627 Brigade Puning (23.4122, 116.1816) DF-17
+n
+No Base expansion underway.
+Base 63 
+(Huaihua, Hubei, 
+Hunan)
+HQ Huaihua (27.5747, 110.0250)
+631 Brigade Jingzhou (26.5783, 109.6703) DF-5B (DF-5C?) Yes 6 silos, adding 6 more plus training.
+o
+632 Brigade Shaoyang (27.2532, 111.3859) DF-31AG Yes Upgraded from DF-31.
+633 Brigade Huitong (26.8935, 109.7388) DF-5A Yes 6 silos.
+p
+634 Brigade Yueyang (29.3321, 113.2150)
+q
+(DF-5C?) (Yes) New 12-silo field under construction.
+635 Brigade Yichun (27.8869, 114.3862) DF-17? No Previously DF-10A.
+636 Brigade Shaoguan (24.7579, 113.6797) DF-16A No First DF-16A brigade.
+Base 64 
+(Gansu, Inner 
+Mongolia, Ningxia, 
+Qinghai, Shaanxi, 
+Xinjiang)
+HQ Lanzhou (35.9387, 104.0159)
+641 Brigade Hancheng (35.4754, 110.4468) (DF-31) (Yes) Was last DF-31 base.
+Hancheng (35.3876, 110.3745) DF-31AG Yes New base completed in late-2024.
+642 Brigade Datong (36.9495, 101.6663) DF-31AG
+r
+Yes At least three dispersed launch units.
+643 Brigade Tianshui (34.5315, 105.9103) DF-31AG Yes First DF-31AG brigade.
+644 Brigade Hanzhong (33.1321, 106.9361) DF-41 Yes First DF-41 integration base.
+s
+645 Brigade Yinchuan (38.5919, 106.2266) (DF-41)? (Yes) Rumored second DF-41 base.
+646 Brigade Korla (41.6946, 86.1734) DF-21C and DF-26
+t
+Yes
+u
+Only base with both DF-21 and DF-26.
+647 Brigade Zhangye (38.8591, 100.4356)
+v
+DF-26? (Yes) New brigade base under construction.
+? Brigade* Hami (42.2806, 92.4959) (DF-31A) (Yes) 120 missile silos.
+? Brigade* Yumen (40.1449, 96.5518) (DF-31A) (Yes) 110 missile silos.
+Base 65 
+(Jilin, Liaoning, 
+Shandong)
+HQ Shenyang (41.8586, 123.4514)
+651 Brigade Chifeng (42.2574, 118.8249) DF-41
+w
+Yes New base completed in late-2024.
+652 Brigade Jilin (43.9362, 126.4507)
+x
+DF-31AG Yes New base.
+Tonghua area
+y
+(DF- 31A?)
+z
+(Yes) DF-31A seen training in area.
+653 Brigade Laiwu (36.2332, 117.7154) DF-21D No Possibly upgrading to new missile.
+654 Brigade Dengshahe (39.3028, 122.0654) (DF-26)
+aa
+(Yes) Former DF-21A used for DF-26 support.
+Dengshahe (39.2353, 122.0440) (DF-26) (Yes) New base construction paused.
+Huangling (40.8452, 122.7682)?
+bb
+DF-26
+cc
+Yes Renovated brigade base.
+655 Brigade Tonghua (41.6681, 125.9548) (DF-17) No Base upgrade underway.
+656 Brigade Linyi (36.246, 117.65326)
+dd
+(CJ-100)? No Rumored first CJ-100 brigade.
+657 Brigade ? ? ? Rumored new base.
+? Brigade* Yulin (Ordos) (40.1597, 108.1113) (DF-31A) (Yes) 90 missile silos.
+Base 66 
+(Henan)
+HQ Luoyang (34.6405, 112.3823) HQ base.
+ee
+661 Brigade Lushi (34.5165, 110.8620)
+ff
+DF-5B Yes 6 silos.
+Sanmenxia (34.7294, 111.1773) DF-5
+gg
+Yes New base.
+662 Brigade Luanchuan (33.7927, 111.5899)
+hh
+(DF-5C?) (Yes) New 12-silo field under construction.
+ii
+663 Brigade Nanyang (33.0117, 112.4145) DF-31A Yes First DF-31A brigade.
+664 Brigade Xiangyang (31.9443, 112.1197)
+jj
+DF-31AG Yes Includes at least four launch unit sites.
+665 Brigade Changzhi (36.2580, 113.1785)
+kk
+(DF-26)? (Yes) New brigade base.
+ll
+666 Brigade Xinyang (32.1675, 114.1257) DF-26 Yes First DF-26 brigade base.
+Total: 45 Brigades ~30
+Base 67 
+(Shaanxi)
+Central nuclear weapons storage complex. Headquartered in Baoji city. Responsible for storing and handling nuclear warheads at 
+nearby underground storage facility as well as smaller regional storage sites located in each regional base area.
+*Question marks (?) indicate the information is unknown or uncertain. 
+a
+This table is based on: US Department of Defense, Office of the Secretary of Defense, Military and Security Developments Involving the People’s 
+Republic of China, October 19, 2024 (and previous years), https://media.defense.gov/2024/Dec/18/2003615520/-1/-1/0/MILITARY-AND-SECURITY- 
+DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA-2024.PDF .; Decker Eveleth, People’s Liberation Army Rocket Force Order of Battle 
+2023 , Middlebury Institute of International Studies at Monterey, June 2023, https://nonproliferation.org/wp-content/uploads/2023/07/peoples_ 
+liberation_army_rocket_force_order_of_battle_2023.pdf .; Ma Xiu, PLA Rocket Force Organization, CASI, October 2022, https://www.airuniversity. 
+af.edu/Portals/10/CASI/documents/Research/PLARF/2022-10-24%20PLARF%20Organization.pdf .; Mark Stokes, PLA Rocket Force Leadership and 
+Unit Reference , Project 2049 Institute, April 9, 2018; P.W. Singer and Ma Xiu, “China’s missile force is growing at an unprecedented rate,” Popular 
+Science , February 25, 2020; individual researchers such as Ben Reuters, Vinayak Bhat, and others who prefer to remain autonomous; and this 
+author’s observations and estimates. The table is a work in progress and is updated as new information becomes available. 
+b
+Each brigade has several launch battalions (up to six) and support units located in the region. Question mark indicates unknown or uncertain location. In 
+addition, PLARF operates several training areas, such as Jilantai and Haixi/DaQaidam, where launch units visit to exercise or integrate new equipment. 
+c
+Missiles in parenthesis indicate additional uncertainty or upgrade. 
+d
+Possibly upgraded to DF-31AG. Ma Xiu, PLA Rocket Force Organization, CASI, October 2022, p. 62. 
+https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/PLARF/2022-10-24%20PLARF%20Organization.pdf . 
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 145
+
+forces matching those found at the Yumen field ( Figure 3 ). 
+There is also a separate fenced complex—located roughly 
+10 kilometers from the eastern fence of the main silo field— 
+which includes several tunnels that could potentially be 
+intended for warhead storage.
+Yulin silo field
+The Yulin field, located near Hanggin Banner west of 
+Ordos, is smaller than the other two fields, measuring 
+832 square kilometers. It includes 90 missile silos, at 
+least 12 support facilities, and several suspected launch 
+control centers and air defense sites. Unlike the Hami 
+and Yumen fields, the Yulin field does not yet have 
+a significant fence perimeter, although each silo is sur -
+rounded by its own secure fencing.
+Construction at the Yulin field began shortly after 
+that of the Hami field (in April or May 2021), and it has 
+a different layout than both the Yumen and Hami fields. 
+Unlike the other two fields, the silos at the Yulin site are
+Conversion will require significant upgrade of base infrastructure, but visible construction appears limited. Until recently brigade was thought to 
+have DF-21A (seen in 2021). Decker Eveleth, https://twitter.com/dex_eve/status/1355210408831795200 . 
+e
+Possible conversion to unidentified system in 2021. Ma Xiu, PLA Rocket Force Organization, CASI, October 2022, p. 63. https://www.airuniversity.af.edu/ 
+Portals/10/CASI/documents/Research/PLARF/2022-10-24%20PLARF%20Organization.pdf . Possible DF-21 TELs seen in 2022. 
+The 613 Brigade conducted missile test launches from Jilantai in August 2021 to a range of approximately 1,400 kilometers, significantly 
+longer than the 800-km range of the DF-15B the brigade is normally associated with. “Uncovering the truth Behind the PLA Rocket 
+Force’s August 2021 Missile Launch,” China Aerospace Studies Institute (CASI) , Air University, Maxwell AFB, August 2021), https://www. 
+airuniversity.af.edu/Portals/10/CASI/documents/Research/CASI%20Articles/2021-08-30%20PLARF%20missile%20test%20Aug%202021.pdf . 
+f
+Probably completed upgrading to DF-17 in 2022 with infrastructure upgrade. New garage complex added and DF-17 TELs visible. 
+g
+A possible DF-17 TEL was seen in April 2022. 
+h
+New base under construction north of Ganzhou is larger and has highbay-garage seen at other bases upgrading to DF-17. 
+i
+The old 616 Brigade base with DF-15 is downtown Ganzhou (25.8337, 114.9098). 
+j
+In addition to DF-16, satellite photos occasionally show trucks that resemble DF-21C and DF-26, but they appear to be transporters. 
+k
+Base 62 was previously an important nuclear DF-21 area. 
+l
+Both CASI and Eveleth list 621 with DF-31AG but a Weibo article from 2019 found by Ben Reuters shows two DF-31A TELs in a twin-garage. CASI in 2024 
+mysteriously listed the base with DF-26. 
+m
+It is possible 626 Brigade includes the DF-26B anti-ship version. 
+n
+Appears to have achieved operational capability with new highbay garage area. Two DF-17s seen on December 9, 2022. 
+o
+The brigade has 5–6 silos (plus possibly decoy silos) and an underground missile storage facility. 
+p
+The brigade has 5–6 silos plus possibly decoy silos. 
+q
+This location was first reported by Ben Reuter. Tweet, December 31, 2022, https://twitter.com/benreuter_IMINT/status/1609136561496461313 . 
+r
+DF-31 launchers were displayed in June 2011. Hans M. Kristensen, “Chinese Mobile ICBMs Seen In Central China,” FAS Strategic Security Blog , March 1, 2012, 
+https://fas.org/blogs/security/2012/03/df-31deployment/ . In June 2019, a possible DF-31AG was seen at the 642 Brigade launch unit training site at Haiyan. 
+s
+Decker Eveleth, “China’s Mobile ICBM Brigades: The DF-31 and DF-41,” aboyandhis.blog , July 2, 2020, https://www.aboyandhis.blog/post/china-s-mobile-icbm- 
+brigades-the-df-31-and-df-41 . 
+t
+A DF-41 was seen in 2024 at the training complex east of Korla. 
+u
+Hans M. Kristensen, “China’s New DF-26 Missile Shows Up At Base In Eastern China,” FAS Strategic Security Blog , January 21, 2019, https://fas.org/blogs/ 
+security/2020/01/df-26deployment/ . 
+v
+Possible new DF-26 base with two highbay garages with room for a total of 32 TELs. Another facility two kilometers to the west was previously 
+rumored as the new 647 Brigade base but the infrastructure does not fit. DOD only lists one PLARF base in this area. 
+w
+Possibly DF-41. A video in late-2021 showed what appeared to be inspection of a possible DF-41 TEL. Roderick Lee, tweet, December 28, 2021, https://twitter. 
+com/roderick_s_lee/status/1475885536254599172 . 
+x
+First reported by Twitter account @pir34 on May 14, 2022, https://twitter.com/pir34/status/1525473049297952769 . Location for 652 Brigade was previously 
+rumored as Tonghua area. DOD does not list a PLARF base in Jilin but two in Tonghua (possibly 652 and 655). 
+y
+The 652 Brigade has long been reported to be in the Tongdao area and DF-31A launchers seen training. DOD reports two PLARF brigades in this area. 
+z
+Rumored to have been upgraded from DF-21C to DF-31/A. DF-31s have been seen training at launch unit site in 2016 ( http://news.cntv.cn/2016/02/03/ 
+VIDEW2FtUUbzNYs7rBJ7kItH160203.shtml .) and 2020 ( https://new.qq.com/omn/20200206/20200206A0JEZ000.html ). However, despite large highbay garage 
+added, base lacks TEL garages seen at other DF-31 bases. 
+aa
+Only the DF-26 is nuclear-capable, first seen here in 2019. Hans M. Kristensen, “China’s New DF-26 Missile Shows Up At Base In Eastern China,” FAS 
+Strategic Security Blog , January 21, 2019, https://fas.org/blogs/security/2020/01/df-26deployment/ .. Dengshahe upgraded from DF-3A to DF-21A in 
+2014. Hans M. Kristensen, “Chinese Nuclear Missile Upgrade Near Dalian,” FAS Strategic Security Blog , May 21, 2014, https://fas.org/blogs/security/ 
+2014/05/dengshaheupgrade/ . PLARF operates a TEL training area east of Korla that includes numerous launch pads and technical areas. This 
+includes test-launches of ballistic missiles, including the DF-26. In 2024, a DF-41 was observed at the site. 
+bb
+Rumored new location first suggested by Ben Reuter and listed by Decker Eveleth in 2023. DOD does not list a PLARF brigade base in this area but continues 
+to list one in the Dengshahe area and added a second PLARF base north of Dalian. 
+cc
+Five possible DF-26 TEL seen in November 2023. 
+dd
+Some say 656 Brigade is in Laiwu to the east, which already has 653 Brigade. 
+ee
+The brigade probably has 4–5 silos plus possibly decoy silos. 
+ff
+Some place 661 Brigade HQ in Lingbao to the north (34.5166, 110.8619), which might be training unit. 
+gg
+The new base is identified in the 2024 CMPR as associated with the DF-5 missile. 
+hh
+Potential silos are located around Shecunzhen to the east. 
+ii
+Major HQ upgrade began in 2020 and finished in 2022. 
+jj
+664 Brigade is sometimes said to be located in Luoyang (34.5966, 112.4386), but that facility appears to be a rail transfer point without the infrastructure normally 
+associated with a TEL brigade base. Instead, Xingyan was rumored as in 2021 to be the new 664 Brigade area. @ljsxank, tweet March 3, 2021, https://twitter.com/ 
+ljsxank/status/1367307966794190856 . This is still unconfirmed. 
+kk
+DOD indicate a PLARF brigade base in Weihui. A large new base was completed there in 2022 with infrastructure that could potentially indicate DF-26. 
+ll
+Chanzhi was rumored in 2021 to be new location for 665 Base. @ljsxank, tweet February 11, 2021, https://twitter.com/ljsxank/status/1359757617107591169 .
+146
+ H. M. KRISTENSEN ET AL.
+
+positioned in a slightly less grid-like pattern, although 
+most silos are still spaced roughly three kilometers 
+apart. In addition, the inflatable domes erected during 
+construction at the Yulin field were all round, as 
+opposed to the rectangular domes found at the Yumen 
+and Hami fields, although this is likely due to logistical 
+or construction reasons rather than a distinct difference 
+between the silos themselves.
+Recent satellite imagery shows activity at many silos, 
+but this could simply indicate regular maintenance.
+China’s ICBM force structure
+In total, these discoveries suggest that China is con -
+structing 320 new silos for solid-fueled ICBMs across 
+the three fields of Yumen, Hami, and Yulin, excluding 
+the approximately 15 training silos at the Jilantai site. In 
+addition, China is upgrading and expanding the number 
+of silos for the liquid-fueled DF-5 ICBM and increasing 
+the number of silos per brigade (US Department of 
+Defense 2023 , 107). This appears to include doubling 
+the number of silos of at least two existing DF-5 bri -
+gades from six to 12 and adding two new brigades each 
+with 12 silos. Once completed, based on current obser -
+vations, this project will increase the number of DF-5 
+silos from 18 to 48.
+Combined, these construction efforts for silo-based 
+ICBMs (in addition to new road-mobile ICBM bases) 
+constitute the largest expansion of the Chinese nuclear 
+arsenal ever. The 350 new Chinese silos under
+construction exceed the number of silo-based ICBMs 
+operated by Russia and constitutes about three-quarters 
+the size of the entire US ICBM force.
+In addition to the construction of new ICBM facil -
+ities, there is uncertainty about how many ICBMs China 
+currently operates. The US Department of Defense’s 
+( 2024 ) report about China’s military and security devel -
+opments assessed that, as of early 2024, China had 500 
+ICBM launchers (silo and mobile) with 400 missiles in 
+its inventory (US Department of Defense 2024 , 66). The
+Figure 3. Satellite imagery showing the location of missile silos (red circles), security gates and support facilities (yellow squares), and 
+surveillance towers (orange circles) of the Hami field in Xinjiang, China. (Images: Maxar Technologies and Google Earth; Annotations: 
+Federation of American Scientists).
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 147
+
+previous reports listed 500 launchers and 350 missiles as 
+of the end of 2022, and 300 launchers and 300 missiles 
+as of the end of 2021 (US Department of Defense 2022b , 
+167; 2023 , 186). The sharp increase in the number of 
+launchers over two years suggests that the US 
+Department of Defense is now counting all of China’s 
+new silos in its ICBM launcher estimate. However, it is 
+likely many of these new silos are still not loaded with 
+missiles; the difference between 500 launchers and 400 
+missiles indicates that China may still be producing 
+missiles for the new launchers. Analysis of satellite ima -
+gery shows that construction is ongoing in all three silo 
+fields, suggesting that they may still be some years away 
+from full operational capability.
+In its 2024 report, the Pentagon assessed that China 
+“has loaded at least some ICBMs”—likely a “DF-31- 
+class” ICBM—into the silos at its new silo fields (US 
+Department of Defense 2024 , 63, 103).
+If each silo in the three new silo fields is loaded with 
+a single-warhead DF-31-class ICBM, the total number 
+of warheads in China’s ICBM force could potentially be 
+approximately 600 warheads—more than twice as many 
+as today’s estimate of 276. However, it is currently 
+unknown how China will operate the new silos— 
+whether all silos will be filled; whether they will be 
+loaded with just silo-based DF-31-class ICBMs or 
+a mix of DF-31As and DF-41s; and how many warheads 
+each missile will carry. ( Figure 1 above shows the effect 
+of these uncertainties on the projections of Chinese 
+nuclear weapons.) Regardless of what missile type ends
+up in each silo, the sheer number of silos will likely have 
+a significant effect on US strike plans against China 
+because the US targeting strategy has been typically 
+focused on holding nuclear and other military targets 
+at risk, although this strategy does not mean that all silos 
+must necessarily be held at risk at the same time.
+At this stage, it is unclear how these hundreds of new 
+silos will alter the existing brigade structure for China’s 
+missile forces. Presently, each of China’s ICBM missile 
+brigades is responsible for six to 12 launchers, and it 
+might be expected that each new missile silo field would 
+be organized as a single brigade. However, some ana -
+lysts have hypothesized that the three new silo fields 
+could lead to the creation of entirely new PLARF 
+“Bases” (each with several brigades)—an extremely 
+rare event that has not taken place in more than 50  
+years (Xiu 2022 , 255). For now, the Pentagon’s 2024 
+report on China shows the Hami and Yumen missile 
+silo fields as “Missile Brigades” in the Western Theater 
+organized under Base 64, and the Yulin missile silo field 
+as a “Missile Brigade” in the Northern Theater orga -
+nized under Base 65 (US Department of Defense 2024 , 
+64, 119, 121).
+Although China has deployed ICBMs in silos since 
+the early 1980s, building missile silos on this scale is 
+a significant shift in China’s nuclear posture. The 
+decision to do so has probably not been caused by 
+a single event or issue but, rather, by a combination 
+of strategic and operational objectives, including 
+protecting the retaliatory capability against a first 
+strike, overcoming the potential effects of adversarial 
+missile defenses, better balancing the ICBM force 
+between mobile and silo-based missiles, increasing 
+China’s nuclear readiness and overall nuclear strike 
+capability to account for improvements in the 
+Russian, Indian, and US nuclear arsenals, elevating 
+China to a world-class military power, as well as 
+national prestige.
+Currently two versions of the DF-5 are deployed: 
+the DF-5A (CSS-4 Mod 2) and the MIRVed DF-5B 
+(CSS-4 Mod 3). Since 2020, the Pentagon’s annual 
+reports to Congress have noted that the DF-5B can 
+carry up to five MIRVs (US Department of Defense 
+2020 , 56), and that this version is likely being upgraded 
+(US Department of Defense 2024 , 103). We estimate 
+that two-thirds of the DF-5s are currently equipped to 
+carry MIRVs. In its 2024 annual report, the Pentagon 
+indicated that a third modification with a “multi- 
+megaton yield” warhead—known as the DF-5C—is 
+currently being fielded and suggests that at least two 
+brigades will likely field the DF-5C (US Department of 
+Defense 2024 , 103).
+In 2006, China debuted its first solid-fuel road- 
+mobile ICBM—the DF-31 (CSS-10 Mod 1)—which 
+had a range of about 7,200 kilometers, meaning that it 
+could not reach the continental United States from its 
+deployment areas in China.
+2 
+Since then, China has 
+iterated on its original DF-31 design, producing newer 
+versions of the missile: the extended-range DF-31A 
+(CSS-10 Mod 2) and DF-31AG, which has increased 
+maneuverability, as well as one additional silo-based 
+variant.
+There is some uncertainty about the name of the silo- 
+based variant of the DF-31. The 2021 and 2022 CMPRs 
+indicated the potential existence of a DF-31B ICBM, but 
+subsequent editions did not include this designation. 
+The Pentagon’s 2024 report stated two CSS-10 Mod 3 
+were launched out of a training silo in September 2023, 
+which is different than the “DF-31-class ICBM” lan -
+guage that has recently been used to describe the version 
+that is being loaded into China’s new silo fields (US 
+Department of Defense 2024 , 107). The DF-31B and 
+the CSS-10 Mod 3 may be the same missile, although 
+the language is unclear. As of October 2024, these newer 
+variants were assumed to have completely replaced the
+original DF-31 in China’s arsenal.
+148
+ H. M. KRISTENSEN ET AL.
+
+The DF-31A (CSS-10 Mod 2) is an extended-range 
+version of the DF-31. With a range of 11,200 kilometers, 
+the DF-31As can reach most of the continental United 
+States from most deployment areas in China. Each DF- 
+31A brigade used to operate only six launchers but they 
+have recently been upgraded to operate 12 (Eveleth 
+2020 ). We estimate that China still deploys a total of 
+about 24 DF-31As in two brigades.
+In his March 2023 testimony before Congress, US 
+STRATCOM Commander Gen. Anthony Cotton sur -
+prisingly suggested that the DF-31A ICBM could 
+carry MIRVs. This differs from the US Air Force’s 
+National Air and Space Intel Center’s (NASIC) 2020 
+estimate that the DF-31As are equipped with only 
+one warhead per missile, as well as from the 
+Pentagon’s 2022 annual China report, which referred 
+to the DF-41 as “China’s first road-mobile and silo- 
+based ICBM with MIRV capability,” therefore indi -
+cating that the DF-31A is not MIRV-capable (Cotton 
+2023 ; National Air and Space Intelligence Center 
+2020 ; US Department of Defense 2022b , 94). It 
+remains unclear whether the discrepancy can be 
+attributed to updated intelligence, an incorrect state -
+ment by the US STRATCOM commander, or diver -
+gent assumptions by different branches of the 
+intelligence community. It is also unclear how the 
+DF-31 family could be MIRV-capable unless China 
+has also designed a smaller-diameter MIRV warhead; 
+some claim China has developed a smaller warhead 
+with a lower yield (Zhang 2025 ). Adding warheads 
+would also reduce the range of the missile due to
+a heavier payload. For these reasons and in the 
+absence of further information, we continue to attri -
+bute one warhead to each DF-31A.
+Since 2017, China’s road-mobile ICBM moderniza -
+tion effort has focused on supplementing and possibly 
+replacing the DF-31A version with the newer DF-31AG 
+and increasing the number of associated bases; we esti -
+mate that seven brigades operate the DF-31AG. The 
+new DF-31AG eight-axle launcher is thought to carry 
+the same missile as the DF-31A launcher but has 
+improved off-road capabilities. The US Air Force 
+NASIC’s 2020 missile report listed the DF-31AG as 
+having an unknown (“UNK”) number of warheads per 
+missile in contrast to the DF-31A, which was listed with 
+only one warhead. This suggests that the AG version 
+could potentially have a different payload (National Air 
+and Space Intelligence Center 2020 , 29). However, for 
+the same reasons as for the DF-31A, we currently 
+assume that the DF-31AG is also deployed with 
+a single warhead.
+The next phase of China’s ICBM modernization is 
+the integration of the new DF-41 ICBM (CSS- 20) that 
+began development back in the late 1990s. China dis -
+played 18 DF-41s at its 70
+th 
+National Day parade in 
+October 2019, with the launchers being said to come 
+from two brigades (New China 2019 ). In April 2021, the 
+commander of US Strategic Command testified to 
+Congress that the DF-41 “became operational [in 
+2020], and China has stood up at least two brigades” 
+(Richard 2021 , 7). A third base appears to have been 
+completed and several other bases may be upgrading to 
+receive the DF-41 as well. The number of garages at the 
+bases indicates that there may be approximately 28 DF- 
+41 launchers deployed.
+In previous Nuclear Notebooks, we estimated that 
+the DF-41 could carry up to three MIRVs, which the 
+Pentagon’s 2023 and 2024 China reports appeared to 
+validate (US Department of Defense 2023 , 107; 2024 , 
+104). It is unknown if all DF-41s will be equipped with 
+MIRVs or if some will have only one warhead to max -
+imize range. In addition to road-mobile launchers, the 
+Pentagon says that China “appears to be considering 
+additional DF-41 launch options, including rail-mobile 
+and silo-basing” (US Department of Defense 2024 , 65; 
+2022b , 65). “Silo basing” mode appears to refer to 
+China’s new silo fields at Yumen, Hami, and Yulin.
+China is also developing a new dual-capable missile, 
+known as the DF-27 (CSS-X-24), which reportedly has 
+a range between 5,000 and 8,000 kilometers and likely 
+has a hypersonic glide vehicle payload option (US 
+Department of Defense 2024 , 65, 109). This range class 
+is somewhat redundant for the nuclear strike mission, as 
+these distances can already be easily covered by China’s 
+longer-range ICBMs. It is therefore potentially possible 
+that the system could ultimately be used in 
+a conventional strike role. Reporting surrounding the 
+DF-27 is highly unclear, however: The Pentagon’s 2024 
+report states that the missile may be deployed. 
+Moreover, a US intelligence assessment of 
+February 2023 notes that “land attack and antiship var -
+iants [of the DF-27] likely were fielded in limited num -
+bers in 2022,” whereas in May 2023 the South China 
+Morning Post reported that the DF-27 has been in ser -
+vice since 2019, citing a Chinese military source (R. 
+Chan 2023 ; US Department of Defense 2023 , 67). In 
+June 2021, Chinese state media broadcasted videos of 
+what was rumored to be a military exercise featuring the 
+DF-27 (Tiandao 2022 ), which strongly resembles the 
+DF-26 with an attached conical hypersonic glide vehicle 
+(HGV). This would be similar to how the DF-17 resem -
+bles a DF-16 with an attached HGV. US intelligence 
+assessed in February 2023 that China conducted 
+a developmental flight test of a “multirole HGV” for 
+the DF-27, which flew for around 12 minutes and tra
+veled approximately 2,100 kilometers (R. Chan 2023 ).
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 149
+
+The Pentagon’s 2024 report noted that “China prob -
+ably is developing advanced nuclear delivery systems 
+such as a strategic HGV and a fractional orbital bom -
+bardment (FOB) system” (US Department of Defense 
+2024 , 65). As of January 2025, China had tested each of 
+these systems at least once. In July 2021, China con -
+ducted a test of a new FOB system equipped with 
+a hypersonic glide vehicle, an event described as an 
+unprecedented achievement for a nuclear-armed coun -
+try (Sevastopulo 2021 ). According to the Pentagon, the 
+system came close to striking its target after flying 
+around the world, and “demonstrated the greatest dis -
+tance flown (~40,000 kilometers) and longest flight time 
+(~100+ minutes) of any [Chinese] land-attack weapons 
+system to date” (US Department of Defense 2022b , 65). 
+An operational FOB/HGV system would pose chal -
+lenges for missile tracking and missile defense systems, 
+as it could theoretically orbit around the Earth and 
+release its maneuverable payload unexpectedly with lit -
+tle detection time, although the US missile defense sys -
+tem is not intended to defend against Chinese missiles.
+Medium- and intermediate-range ballistic missiles
+The most significant development in China’s medium- 
+and intermediate-range ballistic missile force is the pro -
+duction and fielding of the dual-capable DF-26. Since 
+2018, the number of reported DF-26 launchers has 
+increased from 18 to 250, with 500 missiles in 2024, 
+according to Pentagon estimates (US Department of 
+Defense 2024 , 66). We estimate that approximately 250
+DF-26 launchers are now fielded in seven brigades, with 
+an eight brigade under construction.
+The DF-26 intermediate-range ballistic missile 
+(IRBM) is dual-capable and launched from a six-axle 
+road-mobile launcher. With its approximate 4,000- 
+kilometer range, the DF-26 can target important US 
+bases in Guam and Northeast Asia, as well as large 
+parts of Russia and all of India.
+Although the total number of launchers has not 
+increased since 2022, the base structure is undergoing 
+significant developments. One of the most interesting is 
+the expansion of the 611 Brigade (30.6903º N, 117.9011º 
+E) near the town of Rongcheng, east of Chizhou in the 
+Anhui Province. Chinese President Xi Jinping visited 
+the base in October 2024 and was briefed on “the bri -
+gade’s newly introduced weaponry and equipment and 
+examined its training in operating the arms” (Chinese 
+State Council 2024 ). The new weapon referred to was 
+the DF-26, which has been integrated with the base 
+since 2021. A massive expansion—one that began in 
+2023 and is now almost complete—shows a completely 
+new structure for a DF-26 base or any known PLARF 
+base (see Figure 4 ).
+Significant developments for hosting the DF-26 are 
+also underway at other bases. 642 Brigade at Datong in 
+the Qinghai province is equipped with the DF-31AG 
+ICBM but in March 2022, a large number of DF-26s 
+(probably a whole brigade) conducted a large exercise 
+west of Datong on a string of launch pads recently con -
+structed along a road in the valley west of Base 64’s 
+Equipment Inspection Brigade garrison outside 
+Changwu town (36.852º N, 101.376º E) (see Figure 5 ). 
+Commercial satellite imagery shows an estimated 24 DF- 
+26 launchers participating in the exercise along the road 
+and on the base itself. It is possible, but unconfirmed, that 
+the DF-26s were visiting Base 64’s training center in 
+Xining as part of their preparation for eventually integrat -
+ing with the 647 Brigade garrison that is under construc -
+tion 150 miles (240 kilometers) north in Zhangye. That 
+garrison appears to be intended for 24 launchers.
+As a dual-capable system, it seems unlikely that all 
+DF-26s are assigned a nuclear mission. The DF-26 exists
+in three versions, of which one is thought to be an anti- 
+ship version that is not nuclear-capable. Most DF-26s of 
+the other two versions probably serve conventional mis -
+sions, given that nuclear warheads have been produced 
+for use by only some of the launchers. We estimate that 
+perhaps a total of 100 warheads are assigned to the DF- 
+26 force. One brigade, the 646 Brigade at Korla, is 
+reportedly tasked with both nuclear and conventional 
+strike missions, the first time this type of dual mission 
+had been confirmed within a single brigade (Xiu 2022 , 
+129, 131). To enable this dual mission, the DF-26 is 
+reportedly capable of rapidly swapping out warheads, 
+potentially even after the missile has been loaded onto 
+its launch vehicle (Pollack and LaFoy 2020 ; US 
+Department of Defense 2023 , 67).
+The dual-capable role of the DF-26, and the ability 
+to change the launcher’s warhead in the field, raises 
+some thorny issues about command and control and 
+the potential for misunderstandings in a crisis. 
+Preparations to launch—or the actual launch of—a 
+DF-26 with a conventional warhead against a US 
+base in the region could potentially be misinter -
+preted as the launch of a nuclear weapon and trigger 
+nuclear retaliation—or even preemption. China is 
+one of several countries (including India, Pakistan, 
+and North Korea) that mix nuclear and conventional 
+capabilities on medium- and intermediate-range bal -
+listic missiles.
+Citing Chinese defense industry publications, official 
+media commentary, and military writings, the US 
+Department of Defense assessed in 2024 that the DF- 
+26 could eventually be used to “field a lower-yield
+150
+ H. M. KRISTENSEN ET AL.
+
+warhead in the near term” (US Department of Defense 
+2024 , 110). In addition, US STRATCOM Commander 
+testified in March 2023 that China was making an 
+“investment in lower-yield, precision systems with thea -
+ter ranges” (Cotton 2023 , 6). It is unclear what “lower- 
+yield” warhead means; it is not necessarily the same as 
+an explicitly “low-yield warhead.”
+Separately, previous claims that the medium-range 
+hypersonic glide vehicle-equipped DF-17 may be dual- 
+capable have not been substantiated. The Pentagon’s 
+2022 China report had noted that “[w]hile the DF-17 
+is primarily a conventional platform, it may be equipped 
+with nuclear warheads” (US Department of Defense 
+2022b , 65). However, this language was not included 
+in the 2023 and 2024 reports, which only described the 
+DF-17 as a conventional weapon (US Department of
+Defense 2023 ; 2024 ). Consequently, we do include the 
+DF-17 in our estimate of Chinese nuclear forces.
+The former mainstay of China’s regional nuclear 
+missile capability, the DF-21A (CSS-5 Mod 2/6) med -
+ium-range ballistic missile (MRBM), has not been listed 
+as operational in the last two Pentagon reports of 
+Chinese military developments and may have been 
+replaced by the DF-26 in the nuclear mission.
+Submarines and sea-based ballistic missiles
+China currently fields a submarine force of 
+six second-generation Jin-class (Type 094) nuclear- 
+powered ballistic missile submarines (SSBNs), which 
+are based at the Yalong naval base near Longposan on 
+Hainan Island. The two newest SSBNs are believed to 
+be improved variants of the original Type 094 design. 
+Some Chinese journals refer to it as the Type 094A 
+but this has not been confirmed by either the 
+Pentagon or the Chinese government. These SSBNs 
+include a more prominent hump, which initially trig -
+gered some speculation as to whether they could carry 
+up to 16 submarine-launched ballistic missiles 
+(SLBMs), instead of the usual 12 (Suciu 2020 ; Sutton 
+2016 ). However, satellite images subsequently con -
+firmed that the new subs are equipped with 12 launch
+Figure 4. Expansion of 611 Brigade near Chizhou, China. 611 Brigade is undergoing significant expansion as part of incorporating the 
+DF-26 intermediate-range ballistic missile. This includes a unique circle-shaped garrison not seen at other PLARF brigades. (Image: 
+Planet Labs LLC. Annotations: Federation of American Scientists).
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 151
+
+tubes each (Kristensen and Korda 2020 ). The 
+upgrades were later assessed to be related to sound 
+silencing (Carlson and Wang 2023 , 18).
+Per the Pentagon’s most recent China Military Power 
+Report, China has equipped its Jin-class SSBNs to carry 
+either the 7,200-kilometer range JL-2 (CSS-N-14) SLBM 
+or the longer-range JL-3 (CSS-N-20) SLBMs, and China 
+has likely begun replacing the JL-2s with JL-3s on 
+a rotational basis as each submarine returns to port for 
+routine maintenance and overhaul (US Department of 
+Defense 2023 , 55). The range of the JL-2 is sufficient to 
+target Alaska, Guam, Hawaii, Russia, and India from 
+waters near China, but not the continental United States 
+—unless the submarine sails deep into the Pacific Ocean 
+to launch its missiles. With the JL-3’s longer range of 
+roughly 10,000 kilometers, a submarine will be able to 
+target the northwestern parts of the continental United 
+States from northern Chinese waters, but not from the 
+South China Sea. And it would still not be able to target 
+Washington, DC without sailing past northeast Japan 
+(National Air and Space Intelligence Center 2020 , 33). 
+Unlike the JL-2, the JL-3 allegedly can deliver “multiple” 
+warheads per missile (National Air and Space 
+Intelligence Center 2020 , 33). It is unknown if the JL-3 
+is indeed equipped with multiple warheads; US intelli -
+gence has not explicitly stated that it is. The People’s 
+Liberation Army Navy reportedly conducted its first test 
+of the JL-3 in November 2018 (Gertz 2018 ) and appears 
+to have conducted at least two—possibly three—addi -
+tional tests since then (M. Chan 2020 ; Guo and Liu 
+2019 ).
+Although the Jin-class is more advanced than China’s 
+first experimental SSBN—the single and now inoperable 
+Xia (Type 092)—it is a noisy design compared with 
+current US and Russian missile submarines. It is esti -
+mated that the initial Type 094s was two orders of 
+magnitude louder than the stealthiest Russian or 
+American SSBNs (Coates 2016 ). However, the enhanced 
+Type 094A SSBN is probably less noisy (Lin and Singer 
+2017 ). This may explain why China has decided to 
+continue construction of additional Type 094A SSBNs, 
+rather than transitioning entirely to the next-generation 
+Type 096. Another reason may be due to production 
+delays: The new Type 096 was scheduled to begin con -
+struction in the early 2020s, but after apparent delays, 
+the Pentagon’s 2024 CMPR states that China will likely 
+begin construction of the Type 096 “soon” (US
+Department of Defense 2024 , 53).
+Figure 5. Satellite imagery showing DF-26 launchers and DF-31AG missile infrastructure in 64 base area. In March 2022, many DF-26 
+launchers conducted an exercise at the 64 Equipment Inspection Brigade in Changwu near Xining in Qinghai province. (Image: Maxar 
+Technologies. Annotations: Federation of American Scientists).
+152
+ H. M. KRISTENSEN ET AL.
+
+In 2022, China completed a new construction hall at 
+Huludao shipyard, where the People’s Liberation Army 
+Navy’s submarines are built, which could be for the pro -
+duction of the Type 096 SSBN (Sutton 2020 ). Satellite 
+images show wider hull sections at Huludao, which 
+would make sense for the new SSBN that is expected to 
+be larger and heavier than the Type 094 (Sutton 2021 ). 
+However, we could not confirm whether the new facilities 
+at Huludao correspond to the larger Type 096 SSBN or 
+a new unknown attack submarine (see Figure 6 ).
+As with all new designs, the Type 096 is expected to 
+be quieter than its predecessor. Some experts even 
+believe it could be as quiet as Russia’s new Borei-class 
+SSBNs (Carlson and Wang 2023 , 30). Although that 
+would be a significant technological leap for China, 
+The Financial Times reported in September 2024 that, 
+according to US naval researchers, Russia was providing 
+technological assistance to China to achieve a quieter 
+propulsion system for its Type 096 submarines (Foy 
+et al. 2024 ). Some anonymous defense sources have 
+speculated the Type 096 will carry 24 missiles (M. 
+Chan 2020 ), but no public official sources have con -
+firmed this. Current and projected missile inventories 
+seem to indicate that the new SSBN will more likely 
+carry 12 to 16 missiles. The Pentagon’s 2024 report 
+stated that the Type 096 SSBNs “will reportedly be 
+armed with a follow-on longer range SLBM,” and that 
+these SLBMs can be MIRVed (US Department of 
+Defense 2024 , 53, 88).
+Given that China’s SSBNs are assumed to have 
+a service life of approximately 30 to 40 years, the US 
+Department of Defense expects that the Type 094 and
+Type 096 boats will operate concurrently (US 
+Department of Defense 2024 , 56). If confirmed, this 
+could potentially result in a future fleet of eight to 10 
+SSBNs. All of China’s six SSBNs—and several attack 
+submarines—are based at the Yalong naval base on 
+Hainan Island where China appears to have completed 
+construction of two additional piers to accommodate 
+more submarines.
+The Pentagon’s 2022 report indicated that China had 
+begun “near-continuous at-sea deterrence patrols with 
+its six JIN class SSBNs” in 2021 (US Department of 
+Defense 2022b , 96), and the 2024 report asserted that 
+China “probably continued to conduct” these patrols 
+(US Department of Defense 2024 , 104). The term “near- 
+continuous” implies that the SSBN fleet is not on patrol 
+all the time but that at least one boat is deployed inter -
+mittently. The term “deterrence patrol” could imply that 
+the submarine at sea has nuclear weapons onboard, 
+although US officials have not explicitly stated so. 
+Giving custody of nuclear warheads to deployed sub -
+marines during peacetime would constitute a significant 
+departure from Chinese declaratory policy and
+Figure 6. Satellite imagery showing new construction (in yellow) at the Bohai Shipyard at Huludao for potential Type 096 SSBN 
+production. (Images: Maxar Technologies & Google Earth. Annotations: Federation of American Scientists).
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 153
+
+a significant change for China’s Central Military 
+Commission, which has historically been reluctant to 
+hand out nuclear warheads to the armed services.
+To fully develop a survivable sea-based nuclear deter -
+rent posture, China is presumably improving its com -
+mand-and-control system to ensure reliable 
+communication with the SSBNs when needed and prevent 
+the crew from launching nuclear weapons without author -
+ization. Moreover, the SSBN fleet will have to operate 
+safely in patrol areas from where its missiles can reach 
+intended targets. Western military officials have privately 
+stated that the United States, Japan, Australia, and the 
+United Kingdom “are already attempting to track the 
+movements of China’s missile submarines as if they are 
+fully armed and on deterrence patrols” (Torode and Lague 
+2019 ). Whenever they are in the South China Sea, China’s 
+SSBNs typically appear to be accompanied by a protection 
+detail, including surface warships and aircraft (and possi -
+bly attack submarines) capable of tracking adversarial 
+submarines (Torode and Lague 2019 ).
+Given the noise level of the SSBNs, it seems likely that 
+China during conflict would keep the submarines inside 
+a protected “bastion” in the South China Sea or the 
+Bohai Sea (US Department of Defense 2024 , 104). 
+Even with the JL-3 SLBM, the SSBNs would not be 
+able to target the continental United States from the 
+South China Sea. To target the northwestern parts of 
+the continental United States, they would have to sail far 
+north, likely to the Bohai Sea.
+Bombers
+China developed several types of nuclear bombs and used 
+aircraft to deliver at least 12 of the nuclear weapons
+that it detonated in its nuclear testing program between 
+1965 and 1979. Later, however, the People’s Liberation 
+Army Air Force (PLAAF) nuclear mission became dor -
+mant as the rocket force improved and older intermediate- 
+range bombers were unlikely to be useful or effective in the 
+event of a nuclear conflict. While we previously estimated 
+that China maintained a small inventory of gravity bombs 
+for potential contingency use by aircraft, we assess that this 
+mission no longer exists and that China no longer retains 
+gravity bombs in its nuclear arsenal.
+The PLAAF’s nuclear mission remained dormant 
+until approximately 2017–2018, when, coinciding with 
+a renewed emphasis on nuclear aircraft modernization, 
+the US Department of Defense reported in 2018 that the 
+PLAAF “has been newly re-assigned a nuclear mission” 
+(US Department of Defense 2018a , 75, 34). This new 
+mission appears to be currently centered around 
+China’s current H-6 “Badger” bomber. China has hun -
+dreds of these aircraft in more than eight distinct 
+variants; however, only one of these variants was 
+assessed to be nuclear-capable: the H-6N.
+The H-6N is distinct from other variants of the H-6 in 
+that it incorporates a nose-mounted in-flight refueling 
+probe, allowing it to travel much further (Rupprecht 
+2019 ). Notably, however, the H-6N airframe modification 
+includes the removal of the bomb bay, supporting the 
+conclusion that China’s legacy gravity bomb mission has 
+indeed ended. In November 2024, China and Russia con -
+ducted joint air drills that, for the first time, included the 
+participation of the H-6N (Global Times 2024 ).
+The modified fuselage of the H-6N can accommodate 
+air-launched ballistic missiles (ALBMs). China is develop -
+ing at least two types of ALBMs, both of which appear to be 
+variants of land- or sea-based ballistic missiles. The 2PZD– 
+21 (also sometimes called the KD-21) ALBM appears to be 
+a wing-mounted air-launched version of the YJ-21 sea- 
+launched anti-ship ballistic missile, indicating it likely has 
+a conventional strike role (Panda 2019 ; Rupprecht 2024 ).
+China’s other ALBM, referred to by the US Department 
+of Defense as “nuclear-capable,” was previously designated 
+by the United States as CH-AS-X-13. (It is possible, but 
+unconfirmed, that the X has since been removed from the 
+designation, given the system is now deployed.) The missile 
+was spotted in video footage from 2020 and 2022, in which 
+the aircraft appeared to carry a hypersonic glide vehicle 
+very similar to the one carried by the DF-17 medium-range 
+ballistic missile (OedoSoldier 2020 ; Rupprecht 2022 ). 
+However, the Pentagon’s 2024 China Military Power report 
+specifically noted that the ALBM “appears to be armed with 
+a maneuvering reentry vehicle,” suggesting that the two 
+payloads are distinct (US Department of Defense 
+2024 , 105).
+Following at least five developmental and user tests, 
+the Defense Intelligence Agency assessed in August 2024 
+that the CH-AS-X-13 has now been deployed (Defense 
+Intelligence Agency 2024 , vi). The Pentagon assessed that 
+the deployment of the nuclear ALBM provides China 
+“with a viable nuclear ‘triad’ of delivery systems dispersed 
+across land, sea, and air forces” (US Department of 
+Defense 2019 , 67). Yet the Chinese “triad” is much less 
+complete or capable than the U.S. and Russian triads.
+Currently, only one PLAAF unit is publicly known to 
+have a nuclear mission: the 106
+th 
+Brigade at Neixiang Air 
+Base in the southwestern part of Henan province. Over the 
+past five years, the base has been modified extensively, 
+including the addition of large tunnel entrances into 
+a nearby mountain wide enough to comfortably accom -
+modate the H-6N bomber (see Figure 7 ). Civilian video 
+footage from October 2020 appears to show an H-6N 
+bomber flying with the possible new ALBM just outside 
+of Neixiang Air Base, one of China’s only airfields with an 
+adjacent air defense site (Lee 2020a , 2020b ; Rupprecht and
+154
+ H. M. KRISTENSEN ET AL.
+
+Dominguez 2020 ). The numbers of H-6N bombers and 
+their assigned nuclear weapons are unknown, but we cau -
+tiously estimate that 20 aircraft are assigned up to 20 mis -
+siles. It is unknown how many nuclear bomber brigades 
+China plans to establish, but satellite imagery shows sig -
+nificant construction as well as some H-6 bomber opera -
+tions at Lu’an Air Base in the eastern part of the Anhui 
+province.
+To eventually replace the H-6, China is developing 
+a stealth bomber with a longer range and improved cap -
+abilities. The Pentagon estimates that the new bomber, 
+known as H-20, will have both nuclear and conventional 
+capability and a range of more than 10,000 kilometers. If 
+equipped with an aerial refueling capability, the Pentagon 
+assesses that the bomber could potentially have an inter -
+continental range (US Department of Defense ( 2023 , 92). 
+In early January 2025, a video surfaced on the Chinese 
+social media platform Weibo allegedly showing the maiden 
+flight of the H-20 stealth bomber; however, the video has 
+not yet been authenticated and may be AI-generated, nor 
+has the flight been confirmed by official sources ( 前 HR 本 
+人 2025 ; Tirpak 2025 ).
+Cruise missiles
+From time to time, various US military publications 
+have asserted somewhat vaguely that one or more of 
+China’s cruise missiles might have nuclear capability. 
+For example, a nuclear modernization fact sheet pub -
+lished by the Pentagon in connection with the release of 
+the 2018 Nuclear Posture Review claimed, without iden -
+tifying them, that China had both air-launched and sea-
+launched nuclear cruise missiles (US Department of 
+Defense 2018b ). The Pentagon has not substantiated 
+this claim since. The 2023 Japanese Defense Paper, 
+however, stated that the H-6 bombers “are believed to 
+be capable of carrying long-range attack cruise missiles 
+with nuclear capability” (Japanese Ministry of Defense 
+2023 , 67).
+It is still unclear what this missile could be—if it 
+exists at all. Therefore, we continue to assess that, 
+although China might have developed warhead 
+designs for potential use in cruise missiles, it cur -
+rently has no nuclear cruise missiles in its active 
+stockpile. It is possible, but unconfirmed, that the 
+future H-20 could be equipped with a nuclear cruise 
+missile.
+Notes
+1. Nuclear weapons are stored in central facilities 
+under the control of the Central Military 
+Commission. Should China come under nuclear 
+threat, the weapons would be released to the
+Figure 7. Likely Nuclear Mission at Neixiang Air Base, China. The Chinese Air Force is establishing a H-6N bomber with a nuclear 
+mission at Neixiang Air Base. The base has been modified extensively with large tunnels into the mountain that are wide enough to 
+accommodate the H-6N. (Images: Maxar Technologies & Airbus via Google Earth. Annotations: Federation of American Scientists).
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 155
+
+Second Artillery Corps to enable missile brigades to 
+go on alert and prepare to retaliate. For 
+a description of the Chinese alerting concept, see 
+Kristensen ( 2009 ). For more on warhead storage in 
+China, see Stokes ( 2010 ). For an overview of the 
+People’s Liberation Army Rocket Force structure 
+and organization, see Stokes ( 2018 ) and Xiu 
+( 2022 ). For an insightful overview of Chinese think -
+ing about nuclear weapons and policies, see Santoro 
+and Gromoll ( 2020 ).
+2. The “continental United States” as used here includes 
+only the lower, contiguous 48 states. US states and 
+territories outside of the continental United States 
+include Alaska, Hawaii, Guam, American Samoa, 
+Puerto Rico, the US Virgin Islands, and many tiny 
+Pacific islands.
+Acknowledgment
+The authors wish to thank Allie Maloney, the Herbert Scoville 
+Jr. Peace Fellow at the Federation of American Scientists, for 
+her help with generating critical research and graphics for this 
+production.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Funding
+This research was carried out with generous contributions 
+from the Carnegie Corporation of New York, the Jubitz 
+Family Foundation, the New-Land Foundation, 
+Ploughshares, the Prospect Hill Foundation, and individual 
+donors.
+Notes on contributors
+Hans M. Kristensen is the director of the Nuclear Information 
+Project with the Federation of American Scientists in 
+Washington, DC. His work focuses on researching and writing 
+about the status of nuclear weapons and the policies that direct 
+them. Kristensen is a coauthor of the world nuclear forces over -
+view in the SIPRI Yearbook (Oxford University Press) and 
+a frequent adviser to the news media on nuclear weapons policy 
+and operations. He has coauthored the Nuclear Notebook since 
+2001. Inquiries should be directed to FAS, 1150 18th St NW, Suite 
+1000, Washington, DC, 20036 USA; email: fas@fas.org.
+Matt Korda is the associate director of the Nuclear 
+Information Project at the Federation of American 
+Scientists, and an associate senior researcher with the 
+Nuclear Disarmament, Arms Control and Non- proliferation 
+Programme at the Stockholm International Peace Research 
+Institute (SIPRI). Previously, he worked for the Arms Control, 
+Disarmament, and WMD Non-Proliferation Centre at NATO 
+headquarters in Brussels. Korda’s research and open-source 
+discoveries about nuclear weapons have made headlines 
+across the globe, and his work is regularly used by govern -
+ments, policymakers, academics, journalists, and the broader 
+public in order to challenge assumptions and improve 
+accountability about nuclear arsenals and trends. He received 
+his MA in International Peace and Security from the 
+Department of War Studies at King’s College London.
+Eliana Johns is a senior research associate for the Nuclear 
+Information Project at the Federation of American Scientists, 
+where she researches the status and trends of global nuclear forces 
+and the role of nuclear weapons. Johns is also a master’s student at 
+Georgetown University’s Center for Security Studies, where she 
+will focus on the intersection of technology and security. 
+Previously, Johns worked as a project associate for DPRK 
+Counterproliferation at CRDF Global, focusing on WMD non -
+proliferation initiatives to curb North Korea’s ability to gain 
+revenue to build its weapons programs. Johns graduated with 
+her bachelor’s in political science with minors in Music and 
+Korean from the University of Maryland, Baltimore County 
+(UMBC).
+Mackenzie Knight is a senior research associate for the Nuclear 
+Information Project at the Federation of American Scientists 
+where her work focuses on the status and trends of global 
+nuclear forces and the role of nuclear weapons. Before this, 
+Knight was a Herbert Scoville Jr. Peace Fellow on the Project. 
+Previously, Knight worked as a policy and communications 
+intern at the Arms Control Association, as a summer fellow 
+with the James Martin Center for Nonproliferation Studies 
+(CNS), as an analyst intern with Shephard Media in London, 
+and most recently as a graduate research assistant at CNS while 
+obtaining her master’s degree in Nonproliferation and 
+Terrorism Studies from the Middlebury Institute of 
+International Studies at Monterey. She received bachelor’s 
+degrees in Middle Eastern Languages and Cultures and Policy 
+and Intelligence Analysis from Indiana University.
+References
+Babiarz, R. 2023 . “Probable Nuclear Test-Related Preparations 
+at Lop Nur Nuclear Weapons Test Site: 2020-2023.” The 
+New York Times , December 20. https://static01.nyt.com/ 
+newsgraphics/documenttools/4d7eec7ced934f70/ 
+7001f160-full.pdf .
+Baughman, J. 2022 . “An Assessment of People’s Liberation 
+Army Rocket Force Survivability Training.” China 
+Aerospace Studies Institute . Accessed August 15. 
+https://www.airuniversity.af.edu/Portals/10/CASI/docu 
+ments/Research/CASI%20Articles/2022-08-15%20An% 
+20Assessment%20of%20Peoples%20Liberation%20Army 
+%20Rocket%20Force%20Survivability%20Training.pdf .
+Billingslea, M. 2020 . “Transcript: Special Presidential Envoy 
+Marshall Billingslea on the Future of Nuclear Arms 
+Control.” Hudson Institute . Accessed May 21. https:// 
+www.hudson.org/research/16062-transcript-special- 
+presidential-envoy-marshall-billingslea-on-the-future-of- 
+nuclear-arms-control .
+Brumfiel, G. 2021a . “A New Tunnel is Spotted at a Chinese 
+Nuclear Test Site.” National Public Radio , July 30. https:// 
+www.npr.org/2021/07/30/1022209337/a-new-tunnel-is- 
+spotted-at-a-chinese-nuclear-test-site .
+Brumfiel, G. 2021b . “Satellite Photos Show China Expanding 
+Its Mysterious Desert Airfield.” National Public Radio , July
+1. https://www.npr.org/2021/07/01/1011806020/satellite- 
+156
+ H. M. KRISTENSEN ET AL.
+
+photos-show-china-expanding-its-mysterious-desert- 
+airfield .
+Bussiere, T. 2021 . “Nuclear Deterrence Forum.” Mitchell 
+Institute . Accessed August 27. https://mitchellaerospace 
+power.org/event/nuclear-deterrence-forum-lt-gen-thomas 
+-a-bussiere-august-27-1130-am/ .
+Carlson, C. P., and H. Wang. 2023 . “China Maritime Report 
+No. 30: A Brief Technical History of PLAN Nuclear 
+Submarines.” U.S. Naval War College, CMSI China 
+Maritime Reports: 30 . Accessed August 17. https://digital- 
+commons.usnwc.edu/cgi/viewcontent.cgi?article= 
+1029&context=cmsi-maritime-reports/ .
+Chan, M. 2020 . “China Nuclear Missile Development Steps 
+Up a Gear with Test of Weapon Capable of Hitting US 
+Mainland.” South China Morning Post , January 4. https:// 
+www.scmp.com/news/china/military/article/3044674/ 
+china-nuclear-missile-development-steps-gear-test- 
+weapon .
+Chan, R., (@ryankakiuchan). 2023 . “According to Classified 
+Pentagon Documents Leaked Online, China Conducted 
+a Flight Test of a Developmental DF-27 IRBM-Class 
+Hypersonic Glide Vehicle (HGV) on Feb. 25. The HGV 
+Flew for ~12 minutes and Traveled ~2,100km.” Tweet. 
+https://twitter.com/ryankakiuchan/status/ 
+1645657427315142656 .
+China Aerospace Studies Institute. 2022 . “In Their Own 
+Words: Science of Military Strategy.” Accessed January. 
+https://www.airuniversity.af.edu/Portals/10/CASI/docu 
+ments/Translations/2022-01-26%202020%20Science%20of 
+%20Military%20Strategy.pdf .
+Chinese State Council. 2024 . “Xi Urges Strategic Missile 
+Troops to Enhance Deterrence, Combat Capabilities.” 
+Accessed October 19. https://english.www.gov.cn/news/ 
+202410/19/content_WS67136968c6d0868f4e8ec184.html .
+Coates, P. 2016 . “Submarine Noise.” Submarine Matters , 
+October 6. https://gentleseas.blogspot.com/2016/10/sub 
+marine-noise.html .
+Cotton, A. 2023 . “Statement of Anthony J. Cotton 
+Commander US STRATCOM Before the Senate 
+Committee on Armed Services.” Senate Committee on 
+Armed Services . Accessed March 9. https://www.armed- 
+services.senate.gov/imo/media/doc/2023% 
+20USSTRATCOM%20Congressional%20Posture% 
+20Statement%20-%20SASC.pdf .
+Defense Intelligence Agency. 2024 . “Nuclear Challenges: The 
+Growing Capabilities of Strategic Competitors and 
+Regional Rivals.” Accessed October 23. https://www.dia. 
+mil/Portals/110/Images/News/Military_Powers_ 
+Publications/Nuclear-Challenges-2024.pdf/ .
+Eveleth, D. 2020 . “China’s Mobile ICBM Brigades: The DF- 31 
+and DF-41.” Aboyandhis Blog (blog). July 2. https://www. 
+aboyandhis.blog/post/china-s-mobile-icbm-brigades-the- 
+df-31-and-df-41 .
+Eveleth, D. 2023 . “People’s Liberation Army Rocket Force 
+Order of Battle 2023.” James Martin Center for 
+Nonproliferation Studies . Accessed March 29. https://non 
+proliferation.org/wp-content/uploads/2023/07/web_peo 
+ples_liberation_army_rocket_force_order_of_battle_ 
+07102023.pdf .
+Foy, H., P. Ivanova, K. Hille, and D. Sevastopulo. 2024 . “US 
+Accuses China of Directly Supporting Russia’s ‘War 
+machine’.” The Financial Times , September 10. https:// 
+www.ft.com/content/017e210b-8551-403f-8e8d- 
+e7fa9dc72905 .
+Fravel, T., H. S. Hiim, and M. L. Trøan. 2023 . “China’s 
+Misunderstood Nuclear Expansion: How U.S. Strategy is 
+Fueling Beijing’s Growing Arsenal.” Foreign Affairs , 
+November 10. https://www.foreignaffairs.com/china/chi 
+nas-misunderstood-nuclear-expansion .
+Gertz, B. 2018 . “China Flight Tests New Submarine-Launched 
+Missile.” Washington Free Beacon , December 18. https:// 
+freebeacon.com/national-security/china-flight-tests-new- 
+submarine-launched-missile/ .
+Global Times. 2020 . “Chinese Rocket Force Exercise Ensures 
+Nuclear Counterattack Capability.” Via China Military . 
+Accessed January. http://eng.chinamil.com.cn/ 
+ARMEDFORCES/RocketForce/News_209156/15927860. 
+html .
+Global Times (@globaltimesnews). 2024 . “WATCH: A Chinese 
+J-16 Fighter Jet Escorted Two Chinese H-6N Bombers and 
+a Russian Tu-95 Bomber During the 9th China-Russia Joint 
+Strategic Air Patrol Over the Sea of Japan on Friday.” (Video: 
+CCTV) X. November 29. https://x.com/globaltimesnews/sta 
+tus/1862421626375348677 .
+Gordon, M. 2023 . “China, U.S. to Meet for Rare Nuclear 
+Arms-Control Talks.” The Wall Street Journal , November 
+1. https://www.wsj.com/politics/national-security/china- 
+agrees-to-arms-control-talks-with-u-s-87a44b38 .
+Guo, Y., and X. Liu. 2019 . “Submarine-Launched Missile 
+Meets National Security Needs: Defense Ministry.” Global 
+Times , June 27. https://www.globaltimes.cn/content/ 
+1156030.shtml .
+Japanese Ministry of Defense. 2023 . “Defense of Japan 2023.” 
+Accessed November 67. https://www.mod.go.jp/en/publ/ 
+w_paper/wp2023/DOJ2023_EN_Full.pdf .
+Johns, E. 2024 . “Geolocating China’s Unprecedented Missile 
+Launch: The Potential What, Where, How, and Why.” FAS 
+Strategic Security Blog . October 16. https://fas.org/publica 
+tion/geolocating-chinas-unprecedented-missile-launch/ .
+Jones, G. 2021 . “China’s Current Stocks of Separated 
+Plutonium.” In China’s Civil Nuclear Sector: Plowshares to 
+Swords? , edited by Henry D. Sokolski, 54–64. Arlington, 
+VA: Occasional Paper 2102 . March. http://npolicy.org/arti 
+cle_file/2102_Chinas_Civil_NuclearSector.pdf .
+Kaufman, A., and B. Waidelich. 2023 . “PRC Writings on 
+Strategic Deterrence: Technological Disruption and the 
+Search for Strategic Stability.” Center for Naval Analysis. 
+Accessed February 16. https://www.cna.org/reports/2023/ 
+04/PRC-Writings-on-Strategic-Deterrence.pdf .
+Kobayashi, Y. 2023 . “Is China’s Fast Breeder Reactor 
+Operational? There is a Risk of Accelerating Nuclear 
+Arms Expansion.” SPF China Observer. Accessed October 
+31. https://www.spf.org/spf-china-observer/eisei/eisei- 
+detail006.html .
+Korda, M., and H. M. Kristensen. 2021 . “China is Building 
+a Second Nuclear Missile Silo Field.” FAS Strategic Security 
+Blog (blog). July 26. https://fas.org/blogs/security/2021/07/ 
+china-is-building-a-second-nuclear-missile-silo-field/ .
+Kristensen, H. M. 2006 . “DIA Assessment of Chinese Nuclear 
+Forces.” The Nuclear Information Project , http://www. 
+nukestrat.com/china/diachina.html .
+Kristensen, H. M. 2009. “China’s Noisy Nuclear Submarines.”
+FAS Strategic Security Blog (blog). November 21. www.fas. 
+org/blog/ssp/2009/11/subnoise.php .
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 157
+
+Kristensen, H. M., and M. Korda. 2020 . “The Pentagon’s 2020 
+China Report.” FAS Strategic Security Blog (blog). 
+September 1. https://fas.org/blogs/security/2020/09/the- 
+pentagons-2020-china-report/ .
+Kristensen, H. M., M. Korda, and E. Reynolds. 2023 . Russian 
+Nuclear Weapons, 2023. Nuclear Notebook Bulletin of the 
+Atomic Scientists 79 (3): 174–199. https://doi.org/10.1080/ 
+00963402.2023.2202542  .
+Kütt, M., Z. Mian, and P. Podvig. 2023 . “Global Stocks and 
+Production of Fissile Materials, 2022.” In SIPRI Yearbook 
+2023: Armaments Disarmament and International Security , 
+Stockholm International Peace Research Institute . https:// 
+www.sipri.org/yearbook/2023 .
+Lee, R. 2020a . “China’s Air Force Might Be Back in the 
+Nuclear Business.” The Diplomat , September 9. https://the 
+diplomat.com/2020/09/chinas-air-force-might-be-back-in- 
+the-nuclear-business/ .
+Lee, R., (@roderick_s_lee). 2020b . “The Video Footage of an 
+H-6N with a Possible Air-Launched Ballistic Missile 
+Appears to Be Taken at This Location Just Outside 
+Neixiang Afld. This Corroborates My Theory That the 
+106th Bde Operates H-6N’s And, per the CMPR 
+Suggesting Nuclear-Capable ALBMs, is a Nuclear Unit.” 
+Tweet. October 17. https://twitter.com/roderick_s_lee/sta 
+tus/1317319284230705152 .
+Lee, R. 2021 . “PLA Likely Begins Construction of an 
+Intercontinental Ballistic Missile Silo Site Near Hanggin 
+Banner.” China Aerospace Studies Institute. Accessed 
+August 12. https://www.airuniversity.af.edu/CASI/ 
+Display/Article/2729781/pla-likely-begins-construction-of 
+-an-intercontinental-ballistic-missile-silo-si/ .
+Lendon, B., S. McCarthy, and W. Chang. 2023 . “China 
+Replaces Elite Nuclear Leadership in Surprise Military 
+Shake-Up.” CNN. Accessed August 2. https://www.cnn. 
+com/2023/08/02/china/china-pla-rocket-force-shakeup- 
+new-leaders-intl-hnk-ml-mic/index.html .
+Lewis, J. 2023 . “Nuclear Test Sites are Too Damn Busy.” Arms 
+Control Wonk , September 23. https://www.armscontrol 
+wonk.com/archive/1218750/nuclear-test-sites-are-too- 
+damn-busy/ .
+Lewis, J., and D. Eveleth. 2021 . “Chinese ICBM Silos.” Arms 
+Control Wonk , July 2. https://www.armscontrolwonk.com/ 
+archive/1212340/chinese-icbm-silos/ .
+Lewis, J. W., and L. Xue. 2012 . “Making China’s Nuclear War 
+Plan.” The Bulletin of the Atomic Scientists 68 (5): 45–65.  
+https://doi.org/10.1177/0096340212459155  .
+Li, S. 2022a . “Amb. Li Song’s Speech at UNGA Thematic 
+Discussion on Nuclear Weapons.” China Military. 
+Accessed October 19. http://eng.chinamil.com.cn/view/ 
+2022-10/19/content_10193473.htm .
+Li, S. 2022b . “Statement by H.E. Amb. LI Song on Nuclear 
+Disarmament at the Tenth NPT Review Conference.” 
+Permanent Mission of the People’s Republic of China to 
+the UN. Accessed August 8. http://un.china-mission.gov. 
+cn/eng/chinaandun/disarmament_armscontrol/npt/ 
+202208/t20220810_10738603.htm .
+Lin, J., and P. W. Singer. 2017 . “China’s New Ballistic Missile 
+Submarine Could Change Its Prospects in Nuclear War.” 
+Popular Science , January 10. https://www.popsci.com/ 
+china-ballistic-missile-submarine-type-094a-ssbn/ .
+Lu, Z., and X. Liu. 2021 . “The Missile was Successfully 
+Launched, but All the Personnel Were “Killed”. Is it 
+a Victory?” PLA Daily , December 7. http://www.81.cn/hjj/ 
+2021-12/07/content_10113210.htm .
+Martin, P., and J. Jacobs. 2024 . “US Intelligence Shows Flawed 
+China Missiles Led Xi to Purge Army.” Bloomberg , January 
+6. https://www.bloomberg.com/news/articles/2024-01-06/ 
+us-intelligence-shows-flawed-china-missiles-led-xi-jinping 
+-to-purge-military .
+Ministry of Foreign Affairs of the People’s Republic of China. 
+2019 . “Implementation of the Treaty on the Non- 
+Proliferation of Nuclear Weapons in the People’s 
+Republic of China.” Report Submitted by China to the 
+Preparatory Committee for the 2020 Review Conference 
+of the Parties to the Treaty on the Non-Proliferation of 
+Nuclear Weapons, Third Session, New York. May 10–29. 
+https://webcache.googleusercontent.com/search?q=cache: 
+QR2PA1IGZW4J:https://papersmart.unmeetings.org/ 
+media2/21492272/npt_conf2020_pciii_8-8-final- 
+e-national-report-submitted-by-china_c.pdf+&cd=1&hl= 
+en&ct=clnk&gl=us .
+Ministry of National Defense of the People’s Republic of 
+China. 2023a . “China Slams US Report on Its Military for 
+Ignoring Facts, Fabricating Falsehoods.” Accessed October 
+25. http://eng.mod.gov.cn/xb/News_213114/NewsRelease/ 
+16261856.html .
+Ministry of National Defense of the People’s Republic of 
+China. 2023b . “Defense Policy.” [Not Dated but Archive. 
+Org Indicates the Document was Published in 
+February 2023]. http://eng.mod.gov.cn/xb/DefensePolicy/ 
+index.html .
+National Air and Space Intelligence Center. 2020 . “Ballistic 
+and Cruise Missile Threat.” US Air Force . Accessed January. 
+https://media.defense.gov/2021/Jan/11/2002563190/-1/-1/ 
+1/2020/20BALLISTIC/20AND/20CRUISE/20MISSILE// 
+2020THREAT_FINAL_2OCT_REDUCEDFILE.PDF .
+New China, T. V. 2019 . “China Holds Grand Gathering, 
+Parade on 70th National Day.” Xinhua , October 1. https:// 
+www.youtube.com/watch?v=dit7zmnzAh0 .
+OedoSoldier (@OedoSoldier). 2020 . X, October 17. https://x. 
+com/OedoSoldier/status/1317316788594438144 .
+Panda, A. 2019 . “Pentagon: Air-Launched Ballistic Missile Will 
+Realize China’s Nuclear Triad.” The Diplomat , May 7. 
+https://thediplomat.com/2019/05/pentagon-air-launched- 
+ballistic-missile-will-realize-chinas-nuclear-triad/ .
+Park, S. 2024 . “Is Russia Helping China Expand Its Nuclear 
+Weapons Program?” The Equation , September 19. https:// 
+blog.ucsusa.org/sulgiye-park/is-russia-helping-china- 
+expand-its-nuclear-weapons-program/ .
+Pollack, J., and S. LaFoy. 2020 . “China’s DF-26: A Hot- 
+Swappable Missile?” Arms Control Wonk , May 17. https:// 
+www.armscontrolwonk.com/archive/1209405/chinas-df 
+-26-a-hot-swappable-missile/ .
+Reuter, B. 2023 . “Private Communication.”
+Richard, C. 2021 . “Statement Before the Senate Committee on 
+Armed Services.” April 20. https://www.armed-services.sen 
+ate.gov/imo/media/doc/Richard04.20.2021.pdf .
+Rosatom. 2022 . “ROSATOM Ships Fuel for China’s CFR-600 
+Fast Reactor Launch.” Accessed December 28. https://www. 
+rosatom-asia.com/press-centre/news/rosatom-ships-fuel- 
+for-china-s-cfr-600-fast-reactor-launch/ .
+Rupprecht, A. 2019 . “Images Confirm H-6N Bomber Variant 
+is in PLAAF Service.” Janes. Accessed September 10.
+https://janes.ihs.com/Janes/Display/FG_2394418-JDW .
+158
+ H. M. KRISTENSEN ET AL.
+
+Rupprecht, A., (@RupprechtDeino). 2022 . “Wow and as if the 
+New Eagle Strike 21 (YJ-21) AshBM was Not Enough, Also 
+the so Far Clearest Image of a PLAAF H-6N Carrying the 
+Huge Ballistic Missile! (Via a Video via @lqy99021608).” X, 
+April 19. https://x.com/RupprechtDeino/status/ 
+1516442650689298444 .
+Rupprecht, A., (@RupprechtDeino). 2024 . “Great Surprise! 
+For the First Time a PLAAF H-6K was Seen Carrying for 
+2PZD-21 (KD-21) ALBMs. (Images via @ 南部空军 from 
+Weibo).” X, June 29. https://x.com/RupprechtDeino/sta 
+tus/1807059239602442680 .
+Rupprecht, A., and G. Dominguez. 2020 . “PLAAF’s New H-6N 
+Bomber Seen Carrying Large Missile.” Janes. Accessed 
+October 19. https://www.janes.com/defence-news/news- 
+detail/plaafs-new-h-6n-bomber-seen-carrying-large-missile .
+Santoro, D., and R. Gromoll. 2020 . “On the Value of Nuclear 
+Dialogue with China.” Pacific Forum. Accessed November. 
+https://pacforum.org/wp-content/uploads/2020/11/issue 
+sinsights_Vol20No1.pdf .
+Sevastopulo, D. 2021 . “Chinese Hypersonic Weapon Fired 
+a Missile Over South China Sea.” Financial Times , 
+November 21. https://www.ft.com/content/a127f6de-f7b1 
+-459e-b7ae-c14ed6a9198c .
+Stokes, M. A. 2010 . “China’s Nuclear Warhead Storage and 
+Handling System.” Project 2049 Institute. Accessed March 
+12. http://project2049.net/documents/chinas_nuclear_war 
+head_storage_and_handling_system.pdf .
+Stokes, M. A. 2018. PLA Rocket Force Leadership and Unit 
+Reference . McLean, VA: Project 2049 Institute . April 9.
+Suciu, P. 2020 . “China Now Has Six Type 094A Jin-Class 
+Nuclear Powered Missile Submarines.” The National 
+Interest. Accessed May 6. https://nationalinterest.org/ 
+blog/buzz/china-now-has-six-type-094a-jin-class-nuclear- 
+powered-missile-submarines-151186 .
+Sutton, H. I. 2016 . “New Chinese Type-094A SSBN.” Covert 
+Shores , July 19. http://www.hisutton.com/New%20Chinese 
+%20Type-094A%20SSBN.html .
+Sutton, H. I. 2020 . “Chinese Navy Steps Closer to New 
+Generation of Nuclear Submarines.” Forbes. Accessed 
+June 1. https://www.forbes.com/sites/hisutton/2020/06/19/ 
+chinese-navy-gets-closer-to-new-generation-of-nuclear- 
+submarines/#f93ffed229e5 .
+Sutton, H. I. 2021 . “First Image of China’s New Nuclear 
+Submarine Under Construction.” Naval News , February 1. 
+https://www.navalnews.com/naval-news/2021/02/first- 
+image-of-chinas-new-nuclear-submarine-under- 
+construction/ .
+Tellis, A. 2022 . “Striking Asymmetries: Nuclear Transitions in 
+Southern Asia.” Carnegie Endowment for International 
+Peace. https://carnegieendowment.org/files/202207- 
+Tellis_Striking_Asymmetries-final.pdf .
+Tiandao. 2022 . “CCTV News Disclosed the Improved Version 
+of Dongfeng-26, or the Dongfeng-27 Superb 
+Intercontinental Missile Mentioned by the US Military.” 
+Zhihu. Accessed June 14. https://zhuanlan.zhihu.com/p/ 
+528839196 .
+Tirpak, J. A. 2025 . “Has China’s Secret H-20 Stealth Bomber 
+Broken Cover?” Air & Space Forces Magazine , January 6. 
+https://www.airandspaceforces.com/chinas-secret-h-20- 
+stealth-bomber/ .
+Torode, G., and D. Lague. 2019 . “Special Report: China’s 
+Furtive Underwater Nukes Test the Pentagon.” Reuters. 
+Accessed May 2. https://www.reuters.com/article/us-china- 
+army-nuclear-specialreport-idUSKCN1S80YB/ .
+US Defense Intelligence Agency. 1999 . ““The Decades Ahead: 
+1999–2020.” Classified Document Reproduced.” In 2004. 
+Rumsfeld’s War: The Untold Story of America’s Anti- 
+Terrorist Commander , edited by R. Scarborough, 197. 
+Washington, D. C: Regnery Publishing . July 38.
+US Department of Defense. 2018a . “Annual Report to 
+Congress: Military and Security Developments Involving 
+the People’s Republic of China 2018.” Office of the 
+Secretary of Defense. Accessed May 16. https://media.defen 
+se.gov/2018/Aug/16/2001955282/-1/-1/1/2018-CHINA- 
+MILITARY-POWER-REPORT.PDF .
+US Department of Defense. 2018b . “Global Nuclear Capability 
+Modernization: Global Nuclear-Capable Delivery Vehicles, 
+Fact Sheet.” Office of the Secretary of Defense. https:// 
+media.defense.gov/2018/Feb/02/2001872878/-1/-1/1/ 
+GLOBAL-NUCLEAR-MODERNIZATION.PDF .
+US Department of Defense. 2019 . “Annual Report to 
+Congress: Military and Security Developments Involving 
+the People’s Republic of China 2019.” Office of the 
+Secretary of Defense. Accessed May 3. https://media.defen 
+se.gov/2019/May/02/2002127082/-1/-1/1/2019_CHINA_ 
+MILITARY_POWER_REPORT.pdf .
+US Department of Defense. 2020 . “Annual Report to 
+Congress: Military and Security Developments Involving 
+the People’s Republic of China 2019.” Office of the 
+Secretary of Defense. Accessed September 1. https:// 
+media.defense.gov/2020/Sep/01/2002488689/-1/-1/1/2020- 
+DOD-CHINA-MILITARY-POWER-REPORT-FINAL. 
+PDF .
+US Department of Defense. 2021 . “Annual Report to 
+Congress: Military and Security Development Involving 
+the People’s Republic of China 2021.” Office of the 
+Secretary of Defense. Accessed November 3. https:// 
+media.defense.gov/2021/Nov/03/2002885874/-1/-1/0/ 
+2021-CMPR-FINAL.PDF .
+US Department of Defense. 2022a . “2022 National Defense 
+Strategy of the United States of America: Nuclear Posture 
+Review.” Office of the Secretary of Defense. Accessed 
+October 27. https://media.defense.gov/2022/Oct/27/ 
+2003103845/-1/-1/1/2022-NATIONAL-DEFENSE- 
+STRATEGY-NPR-MDR.PDF .
+US Department of Defense. 2022b . “Annual Report to 
+Congress: Military and Security Developments Involving 
+the People’s Republic of China 2022.” Office of the 
+Secretary of Defense. Accessed November 29. https:// 
+media.defense.gov/2021/Nov/29/2002885874/-1/-1/0/ 
+2021-CMPR-FINAL.PDF .
+US Department of Defense. 2023 . “Annual Report to 
+Congress: Military and Security Developments Involving 
+the People’s Republic of China 2023.” Office of the 
+Secretary of Defense. Accessed October 19. https://media. 
+defense.gov/2023/Oct/19/2003323409/-1/-1/1/2023- 
+MILITARY-AND-SECURITY-DEVELOPMENTS- 
+INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA. 
+PDF .
+US Department of Defense. 2024 . “Annual Report to 
+Congress: Military and Security Developments Involving 
+the People’s Republic of China 2024.” Office of the
+Secretary of Defense. Accessed December 18. https:// 
+media.defense.gov/2024/Dec/18/2003615520/-1/-1/0/ 
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 159
+
+MILITARY-AND-SECURITY-DEVELOPMENTS- 
+INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA 
+-2024.PDF .
+US Department of State. 2022 . “2022 Adherence to and 
+Compliance with Arms Control, Nonproliferation, and 
+Disarmament Agreements and Commitments.” Bureau of 
+Arms Control, Verification and Compliance. Accessed 
+April. https://www.state.gov/wp-content/uploads/2022/04/ 
+2022-Adherence-to-and-Compliance-with-Arms-Control- 
+Nonproliferation-and-Disarmament-Agreements-and- 
+Commitments-1.pdf .
+US Department of State. 2023 . “2023 Adherence to and 
+Compliance with Arms Control, Nonproliferation, and 
+Disarmament Agreements and Commitments.” Bureau of 
+Arms Control, Verification and Compliance. Accessed 
+April. https://www.state.gov/wp-content/uploads/2023/04/ 
+13APR23-FINAL-2023-Treaty-Compliance-Report- 
+UNCLASSIFIED-UNSOURCED.pdf .
+US Department of State. 2024 . “2024 Adherence to and 
+Compliance with Arms Control, Nonproliferation, and 
+Disarmament Agreements and Commitments.” Bureau of 
+Arms Control, Verification and Compliance. Accessed 
+April. https://www.state.gov/wp-content/uploads/2024/04/ 
+2024-Arms-Control-Treaty-Compliance-Report.pdf .
+US Strategic Command. 2022 . “2022 Space and Missile 
+Defense Symposium.” US Strategic Command. Accessed 
+August 11. https://www.stratcom.mil/Media/Speeches/ 
+Article/3126694/2022-space-and-missile-defense- 
+symposium/ .
+von Hippel, F. 2021 . “Projecting Plutonium Stocks to 2040.” 
+In China’s Civil Nuclear Sector: Plowshares to Swords? , 
+edited by Henry D. Sokolski. Occasional Paper 2102. 
+March. http://npolicy.org/articlefile/2102_Chinas_Civil_ 
+Nuclear_Sector.pdf .
+Wood, P., A. Stone, and T. Corbett. 2024 . “Chinese Nuclear 
+Command, Control, and Communications.” China 
+Aerospace Studies Institute. Accessed March 11. https:// 
+www.airuniversity.af.edu/Portals/10/CASI/documents/ 
+Research/PLARF/2024-03-11%20Chinese%20Nuclear% 
+20Command%20and%20Control.pdf .
+Xiu, M. 2022 . “PLA Rocket Force Organization.” China 
+Aerospace Studies Institute. Accessed October 24. 
+https://www.airuniversity.af.edu/Portals/10/CASI/docu 
+ments/Research/PLARF/2022-1024%20PLARF% 
+20Organization.pdf .
+Zhang, H. 2018 . “China’s Fissile Material Production and 
+Stockpile.” International Panel on Fissile Materials. 
+Accessed January 12. https://fissilematerials.org/library/ 
+rr17.pdf .
+Zhang, H. 2021a . “China Starts Construction of a Second 200 
+MT/Year Reprocessing Plant.” International Panel on 
+Fissile Materials. Accessed March 21. https://fissilemater 
+ials.org/blog/2021/03/china_starts_construction.html .
+Zhang, H. 2021b . “China’s Uranium Enrichment and 
+Plutonium Recycling 2020-2040: Current Practices and 
+Projected Capacities.” In China’s Civil Nuclear Sector: 
+Plowshares to Swords? , edited by Henry D Sokolski. 
+Occasional Paper 2102 . March. http://npolicy.org/article_ 
+file/2102_China_Civil_Nuclear_Sector.pdf .
+Zhang, H. 2023a . “China Started Operation of Its First 
+CFR-600 Breeder Reactor.” International Panel on Fissile 
+Materials. Accessed December 15. https://fissilematerials. 
+org/blog/2023/12/china_started_operation_o.html .
+Zhang, H. 2023b . “China Started Operation of Two New 
+Enrichment Plants in 2023.” International Panel on Fissile 
+Materials. Accessed December 15. https://fissilematerials. 
+org/blog/2023/12/china_started_operation_o_1.html .
+Zhang, H. 2024 . “China Starts Construction of a Third 
+Demonstration Reprocessing Plant.” International Panel 
+on Fissile Materials. Accessed December 24. https://fissile 
+materials.org/blog/2024/12/china_starts_construction_2. 
+html .
+Zhang, H. 2025 . China’s Nuclear Weapon Development and 
+Testing . Cambridge, MA: MIT Press. (Forthcoming).
+Zhao, T. 2024 . “Political Drivers of China’s Changing Nuclear 
+Policy.” Carnegie Endowment for International Peace. 
+Accessed July 17. https://carnegie-production-assets.s3. 
+amazonaws.com/static/files/Zhao_Political%20Drivers_ 
+final-2024.pdf .
+前 HR 本人 . 2025 . Post on Weibo. January 3. https://m.weibo. 
+cn/detail/5118830860828992 .
+160
+ H. M. KRISTENSEN ET AL.

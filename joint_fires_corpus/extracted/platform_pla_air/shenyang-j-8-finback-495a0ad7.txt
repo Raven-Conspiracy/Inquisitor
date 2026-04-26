@@ -1,0 +1,134 @@
+The Shenyang J-8 (Chinese: 歼-8; NATO reporting name: Finback) is a family of interceptor aircraft developed by the 601 Institute (Shenyang) in the People's Republic of China (PRC). It was conceived in the early 1960s as a low-risk program based on enlarging the Mikoyan-Gurevich MiG-21F, a version of which the PRC was producing as the Chengdu J-7. The original J-8 experienced protracted development due to disruption from the Cultural Revolution; the prototypes first flew in 1969 but the design was not finalized until 1979 with the aircraft entering service in 1980.
+The J-8II/J-8B (NATO reporting name: Finback-B) was a major development of the J-8 and was essentially a new aircraft. The J-8II replaced the distinctive nose air intake with a conventional radome and side air intakes to create room for a modern fire-control radar, and used more powerful engines. The aircraft started development in 1982, and was cleared for production and service in 1988. The J-8II was the basis for all later major additions to the J-8 family.
+
+
+== Development ==
+
+
+=== J-8 ===
+
+By 1964, the Chengdu J-7 was inadequate to perform long-range, high-altitude interceptions. The Chinese Aeronautical Establishment held a conference on 25 October to discuss future fighter programs. The 601 Institute had two proposals; a twin-engined "scaled-up" J-7 which became the J-8, and a higher-performing single-engined option that became the Chengdu J-9. Both options were pursued. The J-8 offered lower technical risk and received higher priority and political support; the J-9 was later cancelled in 1980. The People's Liberation Army (PLA) approved the operational requirements on 17 May 1965. Huang Zhiqian and Gu Songfen became, respectively, the chief and vice chief designers.
+The J-8 shared some features with the J-7, including the front-hinged single-piece canopy, landing gear design, and positioning of the ventral air brakes. The tail had two ventral fins similar in shape to the J-7's single ventral fin. The aircraft was powered by two Liyang WP-7B afterburning turbojets. The nose intake had a small inlet cone enclosing a radar rangefinder. Two Type 30-1 (Nudelman-Rikhter NR-30) cannons were mounted under the cockpit. There were three hardpoints, one under each wing and one on the centerline under the fuselage, with a total carrying capacity of 2.5 tonnes.
+The programme suffered disruptions into the 1970s. Huang was killed in an air crash in May 1965 and replaced by Wang Nanshou. Design work was completed in September and a full-size mock-up completed and reviewed by December. The Shenyang Aircraft Factory was expected to complete a prototype by the end of 1966, but Gao Fangqi – its chief engineer – died and his successor, Liu Hongzhi, was dismissed in November 1966 during the Cultural Revolution. Development was transferred to the "Joint J-8 Development Command" led by Wang Xin. The construction of two prototypes was slow due to being done "almost clandestinely"; the first, "001 Red" was built from August 1967 to June 1968. 001 Red was damaged during high-speed taxiing tests on 19 December 1968, and made its first successful flight on 5 July 1969 piloted by Yin Yuhuan. Shortly afterward, the programme stalled due to the disbanding of Flight Test Command and Shenyang's Chief Design Office. The Chief Design Office was only reformed in 1979 with Gu being promoted to chief designer.
+From 1969 to 1979, 001 Red and 002 Red logged a total of only 1025 flights and 663 flight hours. Flight and static testing revealed several problems, including severe buffeting at transonic and supersonic speeds, overheating of the rear fuselage at supersonic speeds, engine unreliability, and airframe weaknesses. All were eventually resolved, although it continued to suffer poor directional stability. The design was finalized on 31 December 1979.
+
+
+=== J-8A ===
+
+The J-8 was already recognized as obsolescent when it formally entered service on 2 March 1980. Development of the improved J-8 I (later the J-8A) began at Shenyang in February 1978. The J-8 I replaced the radar rangefinder with the SR-4 radar and the capability to fire the PL-4 air-to-air missile (AAM); both radar and missile were still in development when the aircraft's specifications were approved by State Certification Commission on 2 March 1980. Ultimately, the PL-4 failed and the PL-2B and PL-5 were used instead. The cockpit used a two-piece canopy – as on the J-7 II – and a newer ejection seat. Each Type 30-1 cannon was replaced with a Type 23-III (Gryazev-Shipunov GSh-23L).
+The first prototype was completed on in May 1980 and destroyed on 25 June during its first engine run when a ruptured hydraulic line caused a fire in the engine bay; the J-8's hydraulic system was subsequently reworked. The second prototype first flew on 24 April 1981. Testing was completed in November 1984, and the aircraft was cleared for production on 27 June 1985. The J-8 I also fell short of contemporary requirements and only about 100 were built before production ended in 1987.
+Some were converted into the J-8 IE with the JL-7 radar from the J-7C and various avionics from the J-8 II.
+
+
+=== J-8B ===
+
+In 1980, Shenyang began investigating improving the J-8 by using ideas embodied by contemporary aircraft like the McDonnell Douglas F-4 Phantom II and the Mikoyan-Gurevich MiG-23. Gu and He Wenzhi began design work on what became the J-8 II (later the J-8B) in 1982.
+70% of the J-8's airframe structure and systems were reworked. The nose air intake and its shock cone were replaced with an ogival radome and lateral air intakes to create room for the larger Type 208 pulse-Doppler radar. The number of external hardpoints increased to seven; a single Type 23-III cannon was carried. The aircraft was area ruled and the powerplants replaced by the more powerful WP-13A-II turbojets. The two ventral fins under the tail were replaced by a single larger fin copied from the MiG-23; the fin folded to starboard on the ground for ground clearance. Performance was greatly improved with the higher thrust-to-weight ratio, as was handling. Improvements to manoeuvrability were limited due to the 6.9 g limit. The prototype was completed in March 1984 and made its first flight on 12 June. Production and entry into service was approved in October 1988. The greatest problems were with the avionics, particularly the radar.
+The improved J-8 IIB (or J-8B Block 02), fitted with the KLJ-1 (Type 208A) radar and avionics from the J-7C, flew in November 1989 and entered production in 1996.
+
+
+=== J-8C and J-8F ===
+
+The J-8 III (later the J-8C) was an attempt to upgrade the J-8 II in the early 1990s. Israeli avionics company Elta Systems was contracted to adapt the EL/M-2034 radar for the aircraft, although ultimately the domestic Type 1471 radar was used. The prototypes flew with WP-13B engines as the intended Liyang WP-14 Kunlun turbojets were under development. The wing had four, rather than two, fences, and a detachable aerial refueling probe was fitted on the starboard side. The J-8 III was certified in 1995 but production was cancelled because the WP-14 remained unavailable.
+The J-8C led to the J-8F, which started development in 1999 and first flew in 2000. The latter was equipped with the JL-10 (Type 1473) radar and WP-13B-II turbojets.
+
+
+=== J-8D and J-8H ===
+The J-8 IV (also known as the J-8 IIA, and later as the J-8D) was a J-8 II with similar avionics to the J-8 IIB and the same detachable IFR probe as the J-8 III; the IFR probe was later modified because it generated noise in the cockpit. It first flew on 21 November 1990 and entered service in 1996; it was China's first IFR-capable fighter. The J-8 IV was used primarily by the People's Liberation Army Naval Air Force and armed with the PL-9 AAM.
+The J-8D was developed into the J-8H fighter/strike aircraft. The J-8H was equipped with the KLJ-1 (Type 1492) radar; armament was the PL-11 AAM and possibly the YJ-91 anti-radiation missile. It also had four wing fences like the J-8C. Development started in 1995 and it entered service in 2002.
+
+
+=== Peace Pearl ===
+The 1986 "Peace Pearl" program with the United States included upgrading 50-55 J-8 IIs with US avionics, Martin-Baker ejection seats, and possible US engines for US$502 million. Two aircraft were flown to the US for prototyping, and work was underway by the time of the 1989 Tiananmen Square protests and massacre. Peace Pearl was cancelled by China in 1990 after the projected cost increased by 35-40%; the US had permitted it to continue despite the post-Tiananmen Western arms embargo. Afterwards, China bought Sukhoi Su-27s from the Soviet Union in 1991; the first were delivered in 1992.
+
+
+== Operational history ==
+
+On 1 April 2001, a J-8B collided with a United States Navy Lockheed EP-3E ARIES II signals intelligence aircraft 70 miles southeast of Hainan Island. The J-8B crashed and its pilot, Wang Wei, was killed after his parachute failed to open. The EP-3E was severely damaged and made an emergency landing on Hainan; all 24 crew members survived.
+
+
+== Variants ==
+
+J-8: Original version. NATO reporting name Finback-A.
+J-8A: Improved J-8 equipped with SR-4 radar and air-to-air missiles. Originally designated J-8 I.
+J-8 IE: Improved J-8A with upgraded avionics, including JL-7 radar. Converted from J-8A after the development of the J-8B.
+JZ-8: Reconnaissance version carrying a camera pod on the center hardpoint. Converted from J-8 in the mid-1980s after the development of the J-8B.
+J-8 ACT: "Active Control Technology" testbed for domestic analog and, later, digital fly-by-wire control system. One J-8 converted in the late-1980s and crashed on 23 April 1991.
+J-8B: Radically redesigned J-8 with Type 208 pulse-Doppler radar, WP-13A-II turbojets, and increased payload. Originally designated J-8 II, with NATO reporting name Finback-B.
+J-8B Block 02: Improved J-8B with KLJ-1 (Type 208A) radar and improved avionics. Originally designated J-8 IIB.
+"Peace Pearl" upgrade: Improved J-8B with American avionics and engines. Cancelled following the 1989 Tiananmen Square protests and massacre.
+J-8C: Improved J-8B with IFR probe, Elta EL/M-2034 and then Type 1471 radar, and WP-13B turbojets. Cancelled due to unavailability of the intended powerplant, the WP-14 turbojet.
+J-8D: Improved J-8B with IFR probe and avionics similar to the J-8B Block 02. NATO reporting name Finback-B Mod.
+J-8F: Development of the J-8C with JL-10 (Type 1473) radar and PL-11 missiles.
+J-8H: Development of the J-8D for the fighter/strike role. Equipped with the KLJ-1 (Type 1492) radar, PL-11 and YJ-91 anti-radiation missiles.
+JZ-8F: Reconnaissance version of the J-8F with the cannon replaced by an internal camera.
+J-8 II ACT: Testbed for digital fly-by-wire control system. Small canards were fitted to the air intake trunks to cause instability. Flew 49 times from 1996 to 1999.
+F-8B: Export version of the J-8B.
+F-8 IIM: Improved J-8B for export with Russian avionics and weapons.
+
+
+== Operators ==
+ China
+People's Liberation Army Air Force: 50 J-8F/H, 24 JZ-8, 24 JZ-8F
+People's Liberation Army Navy Air Force: 24 J-8F
+
+
+== Specifications (F-8 IIM) ==
+Data from General characteristics
+Crew: 1
+Length: 21.39 m (70 ft 2 in) (20.53 m (67.4 ft) excluding nose pitot probe)
+Wingspan: 9.344 m (30 ft 8 in)
+Height: 5.41 m (17 ft 9 in)
+Wing area: 42.2 m2 (454 sq ft)
+Airfoil: root: TsAGI S-12 (4.2%); tip: TsAGI S-12 (5%)
+Empty weight: 10,371 kg (22,864 lb)
+Gross weight: 15,288 kg (33,704 lb)
+Max takeoff weight: 18,879 kg (41,621 lb)
+Powerplant: 2 × Guizhou WP-13B afterburning turbojet engines, 47.1 kN (10,580 lbf) thrust  each dry, 68.6 kN (15,430 lbf) with afterburner
+Performance
+
+Maximum speed: Mach 2.2
+Combat range: 1,000 km (620 mi, 540 nmi) radius with 3x drop tanks
+Combat radius with one AAR: 900 km (560 mi; 490 nmi)
+Service ceiling: 18,000 m (59,000 ft)
+g limits: +4.7 sustained at 5,000 m (16,000 ft)
+Rate of climb: 224 m/s (44,100 ft/min) at sea level
+Thrust/weight: 0.74
+Unstick speed: 330 km/h (210 mph; 180 kn)
+Take-offrun: 630 m (2,070 ft)
+Touchdown speed: 224 km/h (139 mph; 121 kn)
+Landing run: 900 m (3,000 ft)
+Armament
+
+Guns: 1 x 23mm Type 23-III cannon
+Hardpoints: 1 centerline and 6 under-wing hardpoints with a capacity of 3 x drop tanks
+Rockets: 4 x Type 90-1 FFAR pod (57-mm or 90-mm)
+Missiles: 6 x PL-5 AAM or PL-9 AAM or 2 x R-27R1 SARH AAM or 2 x PL-11 SARH AAM or 2 x Kh-31 anti-ship missiles
+Bombs: 5 x low drag 500 kg (1,100 lb) or 10 x 250 kg (550 lb) (4 under-wing, 6 on centerline)
+Avionics
+
+Radar
+Zhuk-8 II or
+JL-10A (Type 1492)
+
+
+== See also ==
+
+Related development
+
+Chengdu J-7
+Project Sabre II
+Guizhou JL-9
+Aircraft of comparable role, configuration, and era
+
+Aeritalia F-104S Starfighter  – (United States)
+Mikoyan-Gurevich Ye-150 family  – (Soviet Union)
+Mikoyan-Gurevich MiG-23  – (Soviet Union)
+McDonnell Douglas F-4E Phantom II  – (United States)
+Sukhoi Su-15  – (Soviet Union)
+
+
+== References ==
+
+
+=== Citations ===

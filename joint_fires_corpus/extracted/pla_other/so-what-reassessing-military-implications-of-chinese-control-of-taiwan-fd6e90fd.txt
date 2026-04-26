@@ -1,0 +1,1295 @@
+So What? Reassessing the Military Implications of Chinese Control of Taiwan - Texas National Security Review
+SCHOLAR
+PDF Download
+Vol 8, Iss 3
+Summer 2025
+| 28-53
+Stable URL:
+https://doi.org/10.26153/tsw/60742
+Geopolitics
+|
+Indo-Pacific
+Asia
+|
+China
+-
+China and the United States (along with, to some extent, US regional allies) are locked in an intensifying security competition in the Western Pacific—one that remains centered on, while increasingly transcending, the continued autonomy of Taiwan.
+1
+Even as the local balance of military power appears to be shifting unfavorably for Taiwan and the United States, calls for the US to intensify its commitment to defending Taiwan have strengthened—whether by increasing arms transfers, congressional pre-delegation of authorization to use force, or renouncing “strategic ambiguity” for a more explicit US commitment to defend a Taiwan under attack—have strengthened.
+2
+Many potential reasons exist to defend Taiwan: its significant economy, its prowess in microelectronics, its mature democracy, and its potential signal of US credibility against Chinese aggression. A growing number of voices, however, have emphasized its operational value, arguing that Chinese control of the island would gravely threaten vital US interests in the region. This article analyzes this claim and what it means for the United States’ long-term military position in the region.
+Taiwan’s operational value largely rests on its effect on the size and shape of the “theaterwide contested zone” where US and allied forces will struggle to operate without challenge.
+3
+Currently, to defend Taiwan, or its allies Japan and the Philippines for that matter, US forces face a well-established and growing Chinese system built for “counter-intervention”—what the United States military calls “anti-access/area denial.” The system, while untested in combat, presents an array of space-, land-, air-, sea-, and cyber-based sensors and weapons designed to keep US forces sufficiently distant from both the Chinese mainland and the island of Taiwan to prevent American interference.
+4
+Claims that a China-controlled Taiwan increases the military threat to the United States requires a comparison to the current baseline threat. To allow such a comparison, this article proposes a simple, three-part model of a “kill chain” of finding, fixing, and finishing US targets, particularly carrier strike groups. The article uses this model to compare the current Chinese military regional threat to the plausible additional capabilities provided by its possession of Taiwan. Three conclusions stem from this analysis.
+“The relatively small military advantage provided by control of Taiwan is not the only reason for the United States to seek to deter China from invading;”
+First, Taiwan becoming a fully pacified and militarized province of the People’s Republic of China makes little difference to the broader military balance in the region, because China already poses a significant military threat to US sea control and allied territory. China regards a robust counter-intervention capability as a prerequisite for conquering Taiwan, not vice versa. A China-controlled Taiwan provides China with the ability to saturate more of the Philippine Sea with short-range munitions rather than with more expensive and less numerous long-range missiles. But at 395 kilometers from north to south, the additional range ring provided by Taiwan is a minor bump along the Chinese mainland’s 14,500 km of coastline. Moreover, current US efforts to deny China’s projection of power against Taiwan or any other territory would perform equally well, if not better, if these forces were based in Taiwan rather than on the mainland.
+Second, Chinese space capabilities largely drive the differences between the kill chains. China’s large and growing fleet of satellites simultaneously makes its network harder to destroy and Taiwan less militarily important. Whether the United States and China can or will target each other’s satellites remains an open question. In a war against the United States, China would have to lose large amounts of its space capability before Taiwan-based sensors would have any operational effect, and even this would only modestly extend the “saturated” contested zone an additional 400 kilometers from the Chinese mainland into the Philippine Sea.
+Finally, logic suggests that improved Chinese targeting of US naval ships is operationally relevant only if there are ships left to be targeted. If, following an invasion attempt, Taiwan remains free but much of the US Seventh Fleet is at the bottom of the ocean, the United States would conceivably be in worse operational shape, compared to Chinese possession of Taiwan and an intact US Navy. If the goal is for US forces to maintain a favorable long-term Sino-American operational balance, the wrong kind of defense of Taiwan could be a cure worse than the disease.
+The relatively small military advantage provided by control of Taiwan is not the only reason for the United States to seek to deter China from invading; American policy has, for decades, emphasized a commitment to a peaceful
+process
+of resolving Taiwan’s status over a commitment to any particular outcome.
+5
+This article does not assess unification’s symbolic, economic, or technological effects, or the impact on credibility for Taiwan. But to the extent these reasons make Taiwan’s continued autonomy strategically important, understanding the current and future operational balance is essential for deciding not just whether to deter China, but
+how
+. When it comes to the long-term operational balance, the analysis presented below suggests that the US military should focus less on optimizing for Taiwan’s defense as its “pacing scenario”—the benchmark for military planning and resource allocation. Instead, Taiwan and the United States can still force the People’s Liberation Army (PLA)—through US military assistance to Taiwan and the potential provision of key enabling assets in wartime—to devote much of its resources to the difficult military problem of a cross-strait invasion. As it does so, the United States can then simultaneously concentrate on a wider and longer Sino-American conflict, to include counterblockade tactics, defense of Japanese and Philippine territorial integrity, and competition over the “global commons.”
+6
+Such a policy would not only optimize forces for a broader conflict, but would also strengthen the US ability to deter unification by force even if China continues to reshape the cross-strait balance of power in its favor.
+The remainder of this article proceeds in five sections. After reviewing the debate over Taiwan’s operational value, the second section introduces a simple kill chain model for comparative campaign analysis. The third section focuses on Chinese denial kill chains, beginning with the current baseline Chinese capability’s long-range precision missiles and space-based sensing. This section then explores the difference from this baseline of three alternative kill chains:
+baseline with space denied to China;
+with PLA airborne sensors and munitions on a unified Taiwan; and
+with PLA undersea sensors and munitions on a unified Taiwan.
+The fourth section inverts the previous one, focusing on kill chains in which the United States and its allies deny China’s power projection with and without Taiwan’s absorption. The article concludes with operational implications, and recommends means for the United States to maintain an autonomous Taiwan while competing with the PLA outside of the Taiwan Strait.
+Aircraft Carrier, Submarine Tender, and . . . Cork
+The last time Communist military forces posed a serious threat to Taiwan’s autonomy—following the Republic of China’s retreat to the island in 1949—no clear consensus emerged within the United States regarding the island’s operational value. Relieved of command in Korea and courting a presidential nomination, Douglas MacArthur famously predicted in his 1951 Congressional address that Taiwan’s loss “would at once threaten the freedom of the Philippines and the loss of Japan and might well force our western frontier back to the coast of California, Oregon and Washington.”
+7
+Speaking as Chairman of the Joint Chiefs to Congress, Omar Bradley gave a more measured assessment that “the Joint Chiefs of Staff do not believe that the mere loss of Formosa would jeopardize our whole Pacific position and force us back to the coast of California,” but “would be a threat to our communications between the Philippines and Okinawa and make it necessary to bypass or go a considerable distance out to avoid being hit from Formosa.”
+8
+US policy on Taiwan, recently confirmed by current Secretary of State Marco Rubio, does not take a stance against unification, but only against the “violent and/or extortion-based change to the status quo.” But as Sino-American tensions rise, and a peaceful resolution appears increasingly remote, a number of US policymakers have again drawn attention to the operational implications of control of Taiwan. During the Biden administration, Assistant Secretary of Defense Ely Ratner described Taiwan’s value as “a critical node within the first island chain, anchoring a network of US allies and partners—stretching from the Japanese archipelago down to the Philippines and into the South China Sea—that is critical to the region’s security and critical to the defense of vital US interests in the Indo-Pacific.” Ratner also noted Taiwan’s location along “the sea lines of communication for much of the world’s commerce and energy shipping.”
+9
+Mike Gallagher, as chair of the House Select Committee on Competition with the Chinese Communist Party, made a more expansive claim: “Like a World War I trench, this geography forms a critical defense perimeter that in the event of war could help prevent Chinese forces from attempting a more expansive campaign that could threaten Hawaii, Guam, and Australia. . . . If Taiwan were to fall, US defense obligations to Japan and the Philippines would continue, but their execution would become far more difficult.”
+10
+Randall Schriver, Ratner’s counterpart from the first Trump Administration, labeled Taiwan “today’s Indo-Pacific Fulda Gap,” referring to the West German geographic center for Cold War military planning. Schriver continued: “American and allied military weapon systems and strategies were built around this potential battlefield. . . . As such, successful planning and adaptation toward the flashpoint led to broad strategic stability.”
+11
+Contemporary scholarly work focused on American military operations and strategy in the Pacific largely concurs with this operational assessment.
+12
+Toshi Yoshihara and James R. Holmes note that “if the island is a guard tower in an offshore Great Wall, then its offensive value [for China] is unmatched.”
+13
+With a Chinese-controlled Taiwan equipped with “sensors, aircraft, missiles, and submarines,” Friedberg claims that “Beijing would be well positioned to impose a blockade of its own on Japan or South Korea.”
+14
+Sidharth Kaushal writes that “a People’s Liberation Army (PLA) Navy based out of Taiwan, which would be able to control routes of egress from the South China Sea and project its submarines beyond the first island chain, would have an effective veto over Japan’s supplies of vital resources.”
+15
+Brendan Rittenhouse Green and Caitlin Talmadge state bluntly: “Indo-Pacific power hinges on Taiwan.”
+16
+According to John J. Mearsheimer, unification with Taiwan would allow China to “project great military power.”
+17
+One recent collection concludes that Taiwan’s fall to China would be “earth shattering,” allowing China to “eclipse US power and influence in the region once and for all.”
+18
+Even scholars more sanguine about the Sino-American military balance observe that “in Chinese hands, Taiwan could become a launching pad for Chinese aggression.”
+19
+Barry R. Posen predicts that the United States would need “expensive adaptation” should China control Taiwan.
+20
+Readers of Chinese strategic writing describe the belief in Taiwan’s military value as “geostrategic orthodoxy.”
+21
+Taiwan’s operational value rests on three venerable logics.
+22
+The first two rest on China’s sea denial capability—its ability to prevent US forces from operating safely in the region–and are captured by MacArthur’s frequently cited 1950 description of Taiwan as an “unsinkable aircraft carrier and submarine tender.”
+23
+Gabriel B. Collins, Andrew S. Erickson, and Matt Pottinger recently argued that MacArthur’s “dynamics” are “still relevant today, some more than ever.”
+24
+The third logic examines Taiwan’s potential for enabling Chinese power projection into the larger region and indeed the world. Taiwan serves as a “cork in the bottle,” a phrase Ernest King (US naval forces commander in World War II) used to describe Formosa’s strategic importance in World War II.
+25
+An autonomous Taiwan prevents Chinese naval, air, and amphibious assault forces from surging past the “first island chain” of territories ranging along China’s littoral. Unification would, according to one Chinese analyst, “shatter the semi-sealed predicament of China’s sea areas” and make Taiwan a “portal” rather than a barrier to the Pacific.
+26
+In addition to aiding China’s denial strategy against US forces, the “loss” of Taiwan makes US and allies’ own sea denial efforts more challenging.
+27
+This article does not deny these logics’ plausibility, but plausibility is an insufficient standard for establishing the island’s operational importance. It therefore compares the change in the overall operational balance provided by Taiwan against the current baseline and finds that the marginal utility of Taiwan is modest compared to China’s existing capabilities. This finding implies that the military stakes of control over Taiwan are lower than often implied, for both Washington and Beijing. Contrary to Green and Talmadge’s claims that “the costs of accommodation over a militarily valuable Taiwan will rise rapidly if Chinese regional ambitions extend beyond peaceful reunification,” the analysis below suggests that in military terms Taiwan represents neither a significant increase in advantage for a revisionist China nor a significant loss for a status quo United States.
+28
+Find, Fix, and Finish: Comparatively Assessing Kill Chains
+Adjudicating the military value of Taiwan requires comparative campaign analysis.
+29
+This approach proposes a clear set of tasks to organize these operational logics as well as the current baseline threat, which allows the clear comparisons needed to assess Taiwan’s marginal operational effect.
+30
+Beyond this particular analytical task, this article’s approach to categorizing and comparing military options can be applied more broadly to competing “reconnaissance strike complexes” or “precision-strike regimes,” be they in the Western Pacific or Eastern Ukraine.
+31
+Defining the Kill Chain
+A successful military campaign requires executing a sequence of necessary tasks. Stephen Biddle and Ivan Oelrich list these tasks as “starting with target detection and including munition delivery, weapon guidance, damage assessment, and potential restrike.”
+32
+US defense publications use phrases of varying length and complexity: “Sensor-to-Shooter”; “Observe, Orient, Decide, Act”; and “Find, Fix, Track, Target, Engage, and Assess.”
+This article distills these complexes’ components into stylized
+kill chains
+—an intuitive, widely used concept—consisting of three sequential actions, or
+links
+. For China to successfully attack a meaningful target, say a US aircraft carrier in the Philippine Sea, it must first
+find
+it by acquiring a sense that it is out there and a coarse idea of its location. With this information, the Chinese military can then cue other assets to
+fix
+the target with sufficient precision to bring a weapon to bear. This targeting information can be used to guide a weapon to
+finish
+the target, kinetically or otherwise (such as cyberattacks or jamming). Each link is necessary but not sufficient on its own.
+Each link requires at least one capability, or
+node
+. A link’s robustness can be improved by incorporating multiple nodes. One could plausibly finish a surface ship with a torpedo, ballistic missile, or cyberattack. Often, while a given node may be sufficient for a given link, it may not be necessary if substitutes exist.
+“While finding and fixing a moving target at sea is a challenging operational task, successful finishing is no mean feat even with a high-quality track.”
+The same node can also serve in multiple links, albeit not necessarily efficiently. A quiet submarine with a sophisticated sonar suite and well-trained crew could potentially find, fix, and finish a surface ship. Some sensors can plausibly both find and fix but most are primed for one at the expense of the other. For example, over-the-horizon radars can search large areas with their long wavelengths but may not provide sufficient resolution for targeting. A short-range sensor on a plane, or small uncrewed systems, or a fishing boat might get lucky and stumble on a target, instantly acquiring a fire-control-quality track. Unless one can marshal large numbers of these platforms, however, their range limitations make it more likely that two different sensor types must work together to find and then fix a target.
+While finding and fixing a moving target at sea is a challenging operational task, successful finishing is no mean feat even with a high-quality track. A weapon must possess sufficient range; must have the speed and precision to strike while the fix on its moving target remains sufficiently accurate; and must penetrate any defenses through stealth, speed, or mass. Finally, it must be sufficiently capable of, if not destroying, at least eliminating the target’s combat relevance—a “mission kill” in US military parlance.
+As the metaphor suggests, a failure in one link breaks the entire chain. Maintaining a high-quality track on a fast-moving ship is a remarkable technical achievement, but in war fixing a target is less useful absent an appropriate and available weapon to finish it. And an exquisite weapon is of no utility if its operator does not know where to point it.
+Key Assumptions and Data Sources
+The simplicity of the kill chain model belies the difficulty of its execution under fire. As the war in Ukraine demonstrates, military performance is hard to predict prior to a conflict’s outbreak. China and the United States obviously take great pains to keep secret their capabilities, which leads to uncertainty for any analysis. To avoid biased data selection or the revealing of sensitive information, this article sets the following evidentiary rules.
+First, it primarily relies on assumptions, evidence, and sources used by Brendan Rittenhouse Green and Caitlin Talmadge, who provide the most comprehensive public analysis of Taiwan’s military value to date. Like their study, this article only assesses current Chinese and US capabilities. Like Green and Talmadge, this article uses Biddle and Oelrich’s air campaign models and Heginbotham et al.’s modelling of submarine sortie rates.
+33
+The article derives additional capability information not cited by Green and Talmadge from US government sources and translated Chinese official statements. When relevant information is not directly provided by a US government source, the article relies on its cited database, specifically Janes and the Union of Concerned Scientists. Finally, where referees and editors have recommended additional citations or data sources, I have included them and acknowledge this in the footnotes.
+Because this is a comparative analysis, the article does not address capabilities, no matter how crucial, common to all the kill chains. According to the US Defense Department in 2020: “It is . . . unclear whether China has the capability to collect accurate targeting information and pass it to launch platforms in time for successful [anti-ship missile] strikes in sea areas beyond the first island chain.”
+34
+Nonetheless I assume that China’s command-and-control network seamlessly joins the links. Likewise, each kill chain requires missiles, and so the effectiveness of missile defense is assumed to be equal across all the kill chains. I assume both forces operate from equally hardened bases, and thus ships and aircraft are vulnerable only at sea or in the air.
+The Role of Space
+MacArthur’s, Marshall’s, and King’s assessments of Formosa predate the advent of China’s primary counter-intervention weapon: the long-range, precision-guided, conventionally armed missile. China possesses an extensive array of these weapons and their associated systems designed to deny enough sea- and airspace to US forces to prevent their coming to Taiwan’s defense. This weapons engagement zone covers much of the Western Pacific and obviously does not require Taiwan as a prerequisite.
+Arguments for Taiwan’s operational importance question China’s ability to successfully employ this long-range capability, which would force China to rely on shorter-range munitions launched from planes and submarines. These arguments rarely rest on the missiles’ inadequacies themselves, but rather on those of the largely space-based sensing and targeting systems these weapons require. Biddle and Oelrich assume successful unrestricted anti-satellite warfare (making existing Chinese space capability moot). Green and Talmadge assume both US restraint in anti-space warfare and only a modest Chinese satellite surveillance capability. In both cases, these highly consequential assumptions return us to a world where MacArthur’s aircraft carrier and submarine tender are again relevant.
+Because of its increasing centrality to modern warfare, space has accordingly grown contested. It is simply unclear, given the proliferation of both satellites and weapons designed to counter them, what the balance will be in an actual conflict.
+35
+It is thus prudent to treat space as a variable. In analyzing the Chinese kill chains, this article first summarizes China’s considerable existing space capability. It then considers the alternative nodes currently available to China should it not have access to space. The article then analyzes each Taiwan-based kill chain’s effectiveness with or without this baseline space capability, to determine its robustness to US anti-satellite warfare.
+Assessing Taiwan’s Operational Role in China’s Kill Chains
+Like Green and Talmadge’s study, this analysis concentrates on China’s denial of the “ability of the United States to operate [surface] naval and air forces in the Philippine Sea.”
+36
+Other missions—such as threatening civilian shipping in a blockade or attacking the bases and infrastructure of US and allied territory—are plausible but easier. A force that can kill a carrier can probably sink a commercial tanker or destroy an Okinawan airbase.
+To enable comparison, this section first lays out China’s current
+baseline
+. Alternative kill chains incorporating Taiwan must improve upon this baseline performance to establish the island’s operational importance. The second kill chain—
+baseline without space—
+explores the effect relative to the baseline if the United States is not deterred from space warfare and successfully eliminates all of China’s capability in a regional conflict (as assumed by Biddle and Oelrich). The difference between the two captures the effect of space for current Chinese capabilities.
+This section then presents the two primary military logics for how the control of Taiwan enhances China’s ability to deny the Philippine Sea to carrier strike groups relative to the above baseline. It starts with the most frequently invoked Taiwan-centric kill chain, MacArthur’s
+Taiwan as aircraft carrier
+.
+37
+Although Biddle and Oelrich do not consider an occupied Taiwan, their comprehensive analysis can be straightforwardly extended to include the island. The third kill chain explores
+Taiwan as submarine tender,
+the main focus of Green and Talmadge. As discussed earlier, in order for Taiwan to have relevance, both Biddle and Oelrich and Green and Talmadge assume the massive if not total degradation to China’s space capability. While each subsection briefly discusses Taiwan with the Chinese satellite network intact, they primarily focus on the island’s role in its absence. Table 1 summarizes the four kill chains, as well as the most important capabilities for each link.
+Table 1. Four PLA denial kill chains against US carrier strike groups
+Find
+Fix
+Finish
+Kill-chain version
+Baseline with space
+Satellite
+Satellite
+Ground-launched ballistic missiles
+Baseline without space
+Surface ships or aerial drones
+Surface ships or aerial drones
+Air-launched cruise missiles
+Taiwan as aircraft carrier
+Satellite or
+airborne radar
+Satellite or airborne radar
+Ground-, air-, and ship-launched
+ballistic and cruise missiles
+Taiwan as submarine tender
+Fixed sonar arrays
+Satellite
+Submarine-launched cruise missiles
+Chinese Kill Chain 1: Current Baseline
+This baseline analysis answers the question posed by Green and Talmadge: “What are US naval forces currently capable of doing in the Philippine Sea in a world where Taiwan is friendly?”
+38
+The current primary threat to US carrier strike groups and other military and civilian targets is clear and formidable, succinctly summed up by the US Chief of Space Operations: “coupling space-based ISR [intelligence, surveillance, and reconnaissance] with satellite-aided, precision-guided munitions that can receive SATCOM [satellite communication]-updated targeting.”
+39
+This capability not only covers the Philippine Sea, but the US Department of Defense also assesses that significant portions of China’s missile portfolio range well past Guam, the northern Indian Ocean, the Persian Gulf, and even the Eastern Mediterranean.
+40
+Find and fix: satellites
+.
+Aircraft carriers exhibit multiple vulnerabilities susceptible to space detection: “large radar cross-section, significant amount of electromagnetic radiation from communications and radars, significant emission of infrared energy relative to the background ocean.”
+41
+China likely possesses sufficient sensing capability in space for both finding and fixing a large surface combatant if, as Green and Talmadge assume, the United States eschews attacking Chinese satellites.
+According to Stephen N. Whiting, the US Space Command commander: “As of January 2024, China’s Intelligence, Surveillance, and Reconnaissance (ISR) satellite fleet contained more than 359 systems, more than tripling its on-orbit collection presence since 2018. China has also dramatically increased its ability to monitor, track, and target US and Allied forces, both terrestrially and on orbit.”
+42
+Six months later, the US Space Force credited the PLA with “490+ ISR capable satellites.”
+43
+Figure 1 gives a sense of the scale of and upward trend in Chinese satellite launches, as well as the portion of those satellites with some surveillance capability.
+44
+Green and Talmadge divide Chinese space surveillance into two categories, assigning to each a role akin to the find and fix links of this article’s model. Electronic signal intercept satellites (ELINT) can both find and fix targets by detecting active electromagnetic emissions—radar and high-frequency communication—from potential targets on the earth’s surface. Imaging satellites, which observe different parts of the electromagnetic spectrum (such as visible or infrared light) to identify distinct patterns associated with targets. While nightfall and cloud cover can obscure targets from electro-optical systems that passively detect radiation, synthetic aperture radar satellites actively emit their own electromagnetic energy to identify and locate targets, piercing clouds and covering a relatively wide search area. Unlike ELINT satellites, Green and Talmadge claim that optical satellites can fix, but not find, carrier strike groups.
+Figure 1. Chinese satellites currently in orbit by launch date and user category. Data from the Union of Concerned Scientists (accessed June 3, 2022).
+Carrier strike groups can avoid ELINT detection through emissions control (EMCON) at the cost of sustained combat operations. US long-range missiles require over-the-horizon targeting solutions provided from other sources.
+45
+Flight operations generally require the carrier’s use of radar and other emitters. Persistent ELINT coverage would thus lead to what Green and Talmadge call “EMCON suicide.”
+46
+In short, the ability of a carrier strike group to operate effectively inversely varies with the amount of time it is under ELINT satellite coverage.
+The orbits of each of the Yaogan-30 signal intelligence (SIGINT) satellites, China’s most obvious ELINT system, are evenly spaced to provide rolling but near-constant coverage of East Asia and the Western Pacific.
+47
+A 2020 analysis based on 6 Yaogan triplets reports that “over a 24h window, the coverage is almost constant.”
+48
+As of early 2024, 15 Yaogan triplets were in orbit.
+49
+China has other Chinese military satellite programs capable of collecting electronic emissions, such as the 3 Qianshao SIGINT satellites in geosynchronous orbit over the Pacific and Indian Oceans, which provide another source of constant surveillance for a carrier’s electronic energy.
+50
+No amount of emission control will protect against infrared sensors detecting the carrier’s heat signature or satellite-based radar identifying a moving carrier’s wake. Green and Talmadge claim that China possesses sufficient imaging satellite capacity to fix a carrier strike group, but not to provide the continuous coverage to find it. While open sources suggest that this claim has not been true for a long time, China currently boasts a dense and robust optical satellite network. In addition to 52 Yaogan electronic/signals intelligence satellites as of February 2022, Janes notes that the series contains 27 imaging satellites.
+51
+Of particular note are the recently launched Yaogan-41, which likely contains an extremely high-resolution optical system, and the Ludi Tance-4 01 synthetic aperture radar satellite.
+52
+Crucially, their geosynchronous orbits allow each to continuously survey a third of the earth’s surface.
+53
+AI satellite-image processing enhancing “the ability to identify and track US and allied assets and bases” boost these satellites’ effectiveness.
+54
+Other government-owned imaging satellite series reportedly used by the PLA include the Yunhai meteorological series, Tianhui Earth observation satellites, Gaofen series, and Tongxin Jishu Shiyan series.”
+55
+Space is also a major focus of China’s “Civil-Military Fusion” policy.
+56
+The lion’s share of recent commercial satellite launches in figure 1 possess an earth observation function. The Chang Guang Satellite Technology Company’s Jilin-1 constellation has over 100 satellites in orbit, with plans for 300 in 2025. A company spokesperson claims the ability to image any place on earth within 10 minutes, with a resolution that allows AI-enabled detection of planes in flight with 95 percent accuracy.
+57
+The China Aerospace Studies Institute assesses that Jilin-1 provides remote sensing capabilities to the PLA.
+58
+China possesses the capability for, “in urgent situations, rapid assembly and launch of space reconnaissance platforms.”
+59
+The Kuaizhou rocket system can quickly put small satellites into low Earth orbit (LEO) using portable launchers, which provides a “space rapid-reaction” capability. According to US Air Force analysis, these “systems could give the PLA the ability to either conduct contingency reconnaissance ahead of conflict or replace satellite ISR and communication assets lost in conflict.”
+60
+Given the scale and sophistication of this satellite program, it seems likely that short of successful large-scale anti-satellite warfare, China enjoys a persistent ability to find and fix moving targets in the Western Pacific.
+Finish: anti-ship ballistic missiles.
+China continues to build and develop its existing missile capability to engage land- and sea-based targets up to 3,000 kilometers from launch. While the PLA has shrunk in size after the 2015 reforms, the People’s Liberation Army Rocket Force (PLARF) has grown from 29 to 40 brigades in recent years.
+61
+China is also expanding the production facilities for these weapons.
+62
+In 2021, the PLARF launched approximately 135 ballistic missiles for testing and training, more than the rest of the world combined.
+63
+China possesses hundreds of solid-fuel, land-based, mobile missiles with the range and capability to strike ships at sea: the Medium Range Ballistic Missile (MRBM) DF-21D with a range “exceeding 1,500 kilometers” which are being phased out for the Intermediate Range Ballistic Missile (IRBM) DF-26, with a range of 3,000-4,000 kilometers.
+64
+Since 2020, China has operationally deployed an IRBM armed with a hypersonic glide vehicle, the DF-17, that “is intended to strike foreign military bases and fleets in the Western Pacific.”
+65
+All three are equipped with maneuverable reentry vehicles. Provided adequate find and fix data, these mainland-based weapons can threaten carriers as far as “Second Island Chain” territories such as Guam. According to the US Defense Department, China possesses more than 500 IRBMs and 250 launchers, as well as over 1,300 MRBMs and 300 launchers (a quadrupling over five years).
+66
+It is unclear how many of these can target ships, but the Defense Department reported that China test-launched 6 DF-21D anti-ship ballistic missiles in 2019 alone, suggesting that the number is not small.
+67
+For simplicity, this analysis assumes that China possesses hundreds of anti-ship missiles with a range of 3,000 km, and thousands of intermediate range anti-ship missiles with a range of 1,000 km.
+68
+“While China’s surface ships would likely be at risk if they operate too far from China’s mainland, its significant submarine fleet could supplement this arsenal.”
+These ground-launched weapons are supplemented by air-launched land-attack and anti-ship cruise missiles, carried by mainland-based H-6H and H-6K bombers. These aircraft can range targets out to Guam while remaining “feet dry,” operating within the safety of mainland China’s integrated air defense network.
+69
+While China’s surface ships would likely be at risk if they operate too far from China’s mainland, its significant submarine fleet could supplement this arsenal. Transit from Hainan Island or other mainland naval bases to outside of the first island chain would be slow, with multiple chances of detection and prosecution before getting in position to attack a US target. Green and Talmadge’s study uses Eric Heginbotham et al.’s model of a seven-day, attrition-free submarine campaign against a US carrier. With cuing the campaign resulted in 4.7 “engagement opportunities.”
+70
+Assigning the maximum salvo from a Yuan submarine’s six tubes results in 28 additional missiles launched in the first week of a conflict. Green and Talmadge estimate that two-thirds of all Chinese submarines will be detected and destroyed, which further reduces the baseline threat to less than 10 additional missiles per week.
+Conclusion.
+The US Department of Defense openly considers the baseline kill chain a severe threat to its ability to operate in the theater. This belief should surprise no one; China has focused its military efforts for more than a generation on denying the ability of US maritime power-projection forces to come to Taiwan’s aid. A robust counter-intervention capability is a prerequisite for conquering Taiwan, not vice versa.
+Chinese Kill Chain 2: Baseline Without Space
+Given the threat of this space-enabled kill chain, the United States has worked to develop its anti-satellite capability.
+71
+Completely cut off from space and relying only on its most dependable and defensible platforms—China’s ability to find and fix targets dramatically shrinks to the sensing ranges of airborne radars operating within mainland China’s integrated air defense system, 400–600 kilometers according to Biddle and Oelrich.
+72
+China does have several alternate sensing means available to it, however. This subsection therefore presents additional find and fix nodes possessed by China. While these nodes are relatively more vulnerable and less efficient than satellites, their quantities will require vast number of munitions even if an opposing force finds and fixes each one.
+Find: over-the-horizon radar.
+China maintains in its heartland a suite of radars whose long wavelengths sacrifice resolution for distance.
+73
+While their “persistent surveillance capabilities give it a unique role in contesting US surface forces in the Philippine Sea,” this capability is more effective for the find rather than the fix link.
+74
+Whereas Biddle and Oelrich claim that land-based radars can be defended effectively by Chinese integrated air defenses, Green and Talmadge assume that US forces can locate and kill fixed over-the-horizon radars (and are willing to do so).
+75
+Find and fix: surface ships.
+China’s first salvo against US surface ships in the Philippine Sea would likely have exquisite fixing data. Even without ISR satellites China could employ the Soviet tactic of “tattletales,” which involves sending a warship to shadow a carrier to provide tracking data and launch a first salvo with little expectation of surviving. In addition to warships, the Soviet Union routinely used auxiliary intelligence-gathering vessels (AGIs) and equipped its merchant fleet with direction-finding gear.
+76
+There is little reason to assume that China would not employ such a similar strategy.
+77
+Even well into the conflict, surface ships can still play a role. Even if “the US Navy is unlikely to hold back from sinking Chinese hulls of whatever size,” the scale of this effort would be enormous.
+78
+The 370-ship People’s Liberation Army Navy (PLAN) is the largest navy in the world by hull numbers and the US Defense Department estimates that it will expand to 435 ships by 2030.
+79
+It is possible China would happily expend many of these in exchange for a US carrier. We should also expect China to use its maritime militia (at least 235 large vessels in 2023), coast guard (200 vessels larger than 500 tons in early 2023), and fishing fleet (187,200 “marine fishing vessels” in 2018).
+80
+Allowing only half of China’s Navy and paramilitary fleet (185 and 218 ships, respectively) and a tenth of its maritime fleet (20,000 vessels) to operate in the Philippine Sea provides radar coverage well over 27 million square kilometers.
+81
+While vulnerable, the scale presents a difficult targeting problem that will use up munitions quickly.
+82
+The US therefore cannot expect to destroy all Chinese surface vessels, which means that China will retain some ability to find and fix US vessels through any conflict.
+Find and fix: uncrewed aerial systems.
+China has a large fleet of uncrewed surveillance aircraft. These include two rough analogues to the American high-altitude, long-endurance Global Hawk (which can survey roughly 100,000 square kilometers a day)—the Divine Eagle and the Soar Dragon (WZ-7). China’s medium-altitude, long-endurance platforms akin to the MQ-9 Reaper include the Wing Loong II, TB-001 Scorpion, and the BZK-005.
+83
+The WZ-8 can travel at an altitude of 100,000 feet and a speed of Mach 3, which makes its surveillance coverage extensive and its probability of interception low. China also operates Morning Star “high-altitude pseudo satellites” (HAPS), solar-powered uncrewed systems that can fly in mid-space for months and whose tracks are more operationally flexible than orbiting satellites.
+84
+Fix and finish: crewed aircraft and air-launched cruise missiles (ALCMs).
+China may not be able to operate its long-range ballistic missiles without space, but it does have other options. The preferred Soviet method for targeting and attacking US carriers employed close-in bombers using radar for a target quality track to guide standoff cruise missiles fired by bombers at a safer distance. People’s Liberation Army Air Force (PLAAF) bombers armed with YJ-12 cruise missiles (with a range of 400 kilometers) can remain outside the combat range of the aircraft carrier and still reach much of the Philippine Sea.
+85
+Bombers flying closer to the carrier strike group to secure targeting information for their colleagues may be short lived, but again this seems a tradeoff in China’s favor. At the very least these aircraft will supplement gaps in China’s space capability.
+Conclusion.
+In terms of speed and persistence, not to mention Chinese effort, a robust satellite network greatly assists China’s ability to deny US operations in the Western Pacific, especially at long ranges. However, alternate find and fix nodes can guide PLARF’s long-range missile force. If these missiles are somehow still unavailable, China can bring other munitions to bear, albeit at shorter range. Nonetheless, because China’s overall sensing capability without space is uncertain, this article conservatively does not consider it in the Taiwan kill chains.
+Chinese Kill Chain 3: Taiwan as Aircraft Carrier
+Shifting to the two kill chains that allow us to compare the operational consequence of Taiwan unification to the baseline kill chains, this section starts with the most commonly cited “aircraft carrier” logic. Locating sensors and aircraft on Taiwan would push China’s “weapons engagement zone” an additional 300 kilometers into a small portion of the Western Pacific relative to what it can do now from the mainland. This scenario still leaves plenty of sea and airspace for US and allied forces to maneuver.
+Open-source Chinese military thinking has largely taken the approach of “using the land to control the sea,” which involves pushing out sensor and weapon ranges from the mainland.
+86
+A Chinese-controlled Taiwan could host ground- and air-based sensors and munitions to further extend the range at which China could threaten the United States and its allies. Toshi Yoshihara paraphrases one Chinese analyst’s description of Taiwan as a “valuable launch pad” on which “Chinese aircraft with combat radii of 2,000 kilometers would be able to cover the Yellow and East China Seas, the various straits from Bohai to the north to Bashi to the south, and the Ryukyus, Kyushu, Shikoku, and much of the Philippine archipelago.”
+87
+The role of space.
+If China possesses the space capability described in the baseline above, sensors placed on or above Taiwan add little to the find and fix links of the kill chain.
+Find and fix: airborne sensors.
+Assuming that space is denied to China, and the alternate sensors of kill chain 2 are ineffective, shorter-range sensors likely to be employed in aircraft operating within an effective Taiwan-based integrated air defense system would supply both the find and fix links in a bubble around the island.
+88
+Using Biddle and Oerlich’s calculations, the anti-access/area denial bubble provided by airborne radars can be pushed out to 400–600 kilometers beyond Taiwan, extending China’s sensing range by at most 300 kilometers relative to the baseline without space.
+Finish: multiplatform, multirange missiles.
+If China possesses the baseline satellite coverage, it will be able to extend by 300km the range it can hit ships with numerous and inexpensive short-range missiles launched from both the ground and the air, rather than relying on its more expensive and less numerous IRBMs and MRBMs.
+In addition to launchers on the island with missile ranges up to 1,000 km, China could also deploy Renhai-class cruisers and Luyang-class destroyers (and perhaps its developing aircraft carrier capability) within a Taiwan integrated air defense bubble. A plausible fleet could launch 500–600 YJ-18 anti-ship cruise missiles with a range of 537 kilometers.
+89
+Well-protected H-6J bombers could attack US carrier strike groups at a maximum range of 400 kilometers from Taiwan.
+90
+With Taiwan, China can saturate with short-range missiles an engagement zone out to 1,300 kilometers from the mainland. It is not clear that this additional range of 300 extra kilometers qualitatively changes the Chinese threat to the carrier strike group.
+Conclusion.
+Given its current space capability, the main new improvement over the baseline delivered by Chinese control of Taiwan is to saturate the area within 1,000 kilometers of Taiwan’s east coast with thousands rather than hundreds of satellite-guided munitions.
+Loss of space drastically shortens these ranges (as it does in the baseline case). In this case, given the ranges of airborne radars flying from Taiwan this saturated zone shrinks to 400–600 kilometers from Taiwan’s coast. Compared to the same force operating from the Chinese mainland in a space-denied environment, this amounts to a 100–300-kilometer gain of a previously “unsaturated” swath of ocean.
+“If Taiwan is an unsinkable aircraft carrier, it is also an immovable one.”
+These numbers require highly conservative assumptions favorable to China. If Taiwan is an unsinkable aircraft carrier, it is also an immovable one.
+91
+Airborne sensors must take off from somewhere, and Taiwanese facilities are no less prone than Japan-, Philippine-, and Guam-based ones to “the increasing vulnerability of land-based aircraft and their associated regional bases” for long-range missile attack from US and allied stealth aircraft and submarines.
+92
+The Philippines and Japan presumably remain “unsinkable” as well; forces stationed in either country would have the ability to attack PLA assets and defend US ones. In general, the military implications of operating airborne surveillance and launching shorter-range munitions from Taiwan in the absence of space, while not zero, are modest.
+Chinese Kill Chain 4: Taiwan as Submarine Tender
+In their alternative Taiwan-centric kill chain, Green and Talmadge posit two undersea capabilities that China could employ from the island’s east coast: underwater hydrophones and submarines, particularly diesel/air-independent propulsion ones.
+93
+If hydrophones can help find US ships, ballistic missiles rather than submarines may be the more robust means of finishing them. A submarine can quickly receive cuing from satellites. Neither capability significantly increases the threat relative to the baseline, regardless of satellite availability. Taiwan simply does not enhance China’s undersea threat to US forces.
+The role of space.
+As with Taiwan-as-aircraft-carrier, the current Chinese space capability of the baseline makes any Taiwan-based undersea sensor redundant. There is a twist, however; unlike the aircraft-centric Taiwan kill chain, without some space capability for the fix link, this kill chain does not work at all.
+94
+Find: hydrophones.
+Green and Talmadge argue that “placing hydrophone arrays off of Taiwan’s coasts would forge a critical missing link in China’s kill chain for long-range attacks against US surface forces.”
+95
+Taiwan’s east coast, near the edge of the continental shelf, could host hydrophones in deep water facing the Pacific, akin to the United States’ Cold War Sound Surveillance System (SOSUS). These hydrophones would have the ability to detect distinct, low-frequency noise propagating over long distances through deep water convergence zones.
+96
+China could use these to identify the acoustic signature of US ships with sufficient accuracy to cue optical satellites to fix the target.
+At least four reasons make the hydrophone threat implausible. First, China does not clearly possess this technology. Second, even if China did, using it to find distant enemy surface ships is essentially unprecedented. Third, US ships can and have spoofed acoustic arrays. Finally, Taiwan-based hydrophones are no more survivable than other fixed ISR sites such as the mainland’s over-the-horizon radars or satellites, and destroying them likely carries lower escalation risks.
+China has revealed many of its undersea sensing capabilities, but to date no public source reports the PLA employing this technology. While there is some evidence that China has attempted to install an underwater surveillance system in the South China Sea, reports suggest that it is most likely designed “to detect underwater intrusions rather than wider area surveillance.”
+97
+One explanation may be simply that China does not have a place to put these sensors, lacking a coastline facing deep water, which is where Taiwan comes in. But the technology is not trivial to develop and would likely take time once China possesses the island. The Soviet Union did try to install an open-ocean surveillance system (US codename “Cluster Lance”) of planar acoustic arrays near its Pacific coastline beginning in the early 1970s, but it was apparently not employed until 1996.
+98
+The manufacturers’ 2014 brochure for an updated system reports a search range of 55 kilometers for surface ships, a sliver of the 1,000-plus kilometer range credited by Green and Talmadge to a hypothetical Chinese analogue.
+99
+Second, analysis of US and Soviet undersea sensing makes little mention of tracking surface ships.
+100
+The United States, unbothered by Soviet carriers, understandably concentrated its SOSUS efforts on locating submarines. The Soviets, while obsessed with locating aircraft carriers, seemed to incorporate everything
+but
+sonar into its Soviet Ocean Surveillance System (SOSS). A comprehensive 1983 National Intelligence Estimate on Soviet naval capabilities makes no mention of it.
+101
+Analyst Norman Friedman’s lengthy catalog of Soviet efforts to track US aircraft carriers does not mention hydrophones.
+102
+Norman Polmar writes in 1983 that “the principal intelligence-collection components of SOSS are: aircraft, radio intercept, satellites, surface ships, and ‘spies.’”
+103
+The Soviet Union instead employed its low-capability fixed arrays for point defense against submarines, a task quite different from long-distance surveillance of surface ships.
+104
+For example, Polmar noted that “the final component of the Soviet ocean surveillance systems is a fixed acoustical system that may be similar to the US SOSUS submarine-detection system.”
+105
+Martin Streetly described “a seabed hydrophone system for detecting hostile submarines” as a “supplemental system . . . in order to protect the Northern Fleet’s SSBN [nuclear-missile–armed submarines] force from NATO’s hunter-killer forces.
+106
+Because China also cares about locating carriers, Janes unsurprisingly reports that both US and Russian ocean surveillance “have been discussed extensively in [Chinese] technical literature,” which recommends developing “the fusion of data from multiple sources” to include signals intelligence, over-the-horizon radar, manned platforms, and space-based assets, without mentioning sonar.
+107
+Third, the United States successfully employed acoustic deception alongside emissions control and electronic decoys in its Cold War operations.
+108
+The US Navy’s UPTIDE exercises and subsequent real-world operations using acoustic decoys demonstrated repeatedly the carrier’s ability to operate undetected by sonar.
+109
+Unlike EMCON, spoofing sonar arrays does not affect carrier operations.
+Finally, fixed hydrophones are vulnerable to outright destruction, especially if located on Taiwan’s east coast. Open-source academic analysis on US arrays in the region suggest that these arrays are easily located.
+110
+Repairing damaged undersea cables takes “several days” in peacetime.
+111
+If the threat of these sensors to US aircraft carriers is as great as Green and Talmadge suggest, cable-repair ships could become priority targets for wartime US submarines.
+Fix: satellites.
+Hydrophones are not sufficiently accurate to fix targets. For the subsurface kill chain to work, space capability is therefore
+necessary
+.
+112
+Indeed, Taiwan’s operational value requires a very specific set of conditions. If Chinese satellites can find carriers on their own, hydrophones provide little advantage. If Chinese satellites cannot fix carriers, hydrophones again do not close the kill chain. Green and Talmadge argue that China does not have enough ELINT capability to continuously surveil the Western Pacific, nor does it possess sufficient optical satellites for sufficient coverage and resolution to find a carrier, but it does have enough to reliably track a carrier once cued by hydrophones. The baseline analysis suggests that current Chinese satellite capacity surpasses this Goldilocks space capability. And even if it did not, this kill chain requires China and the United States to avoid anti-satellite warfare. Current analysis of both sides suggests this is implausible.
+113
+Finish: submarine-launched cruise missiles.
+Given cuing from the find and fix links, submarines deployed from Taiwan’s east coast could employ cruise missiles (SLCMs) to threaten carrier strike groups far into the Philippine Sea. This subsection first quantifies the relatively modest threat posed by submarines using Green and Talmadge’s own model relative to the baseline. It then suggests how even this threat is likely to be an overestimate.
+China’s quiet, modern Yuan-class diesel submarines equipped with air-independent propulsion (AIP) and YJ-18 SLCMs pose a threat to surface combatants, assuming they get good targeting information.
+114
+These submarines must currently transit from bases on Hainan Island and the mainland. To threaten carriers outside the first island chain these boats must currently cross five sensor barriers posited by Green and Talmadge: reliable acoustic path (RAP) sonar arrays at choke points between the Philippines, Taiwan, and Japan; long-distance detection using SOSUS arrays; and the screening of helicopters and ships surrounding a carrier.
+115
+If intact, these sensors would lead to two-thirds of the fleet being detected and destroyed. As noted in the baseline, taking Heginbotham et al.’s weekly engagement opportunity estimate, the Yuan’s maximum salvo size, and Green and Talmadge’s attrition rates, the baseline SLCM threat is 10 missiles every seven days.
+116
+Instantaneously transforming the small, undeveloped ports of Taiwan’s east coast into hardened submarine pens would increase the PLAN undersea fleet’s lethality in two ways. First, reduced transit times, especially for relatively slow-moving diesel submarines, “would increase Chinese [submarine] attack opportunities by roughly 50 percent.” Second, these submarines would avoid detection by some or even all of the anti-submarine sensors; Green and Talmadge argue that “at least three ASW [anti-submarine warfare] barriers, and perhaps all five, would disappear.”
+117
+Granting Green and Talmadge best cases for China of no detections, combined with the reduced transit times, increases weekly engagements to 7.
+118
+Weekly SLCM launches following PLA control over Taiwan would rise from the baseline’s 10 to 42.
+This weekly increase of 32 missiles is the extreme upper limit for many reasons. First, it assumes that China has eliminated the detection capability of the entire US surface fleet. On top of this hypothetical, many submarines will not make the round trip assumed by the models. While a Yuan might stealthily approach to a firing position, upon launch its presence may be detected acoustically and will almost certainly be detected by US space-based surveillance, which would make it vulnerable to (much faster) US submarines, let alone surface ships.
+119
+As China’s undersea fleet numbers decline over the conflict’s course, missile launches will fall accordingly.
+While a RAP array deployed between the Philippines and Taiwan or Japan and Taiwan would obviously not detect a Taiwan-based sub, this condition is also irrelevant. Whether from Hainan Island, Qingdao, or Taiwan, even “truly quiet nuclear submarines” are still “vulnerable to detection while exiting and entering their bases,” whether by sonar, satellites, or a person with a cell phone.
+120
+Submarines leaving current PLAN submarine bases are likely to acoustically disappear in the noisy, shallow waters of the South and East China seas, which is why the first island chain chokepoints are essential for picking up their trails. Whether a boat moving into the deeper, quieter waters of the Philippine Sea is detected at the chokepoint or upon leaving Taiwan’s east coast, the United States’ open-ocean ASW problem begins at a similar starting point.
+121
+Third, it is not clear that losing Taiwan would eliminate reliable acoustic path arrays, as a “new barrier stretching from the southern Ryukyus to Luzon” would allow “US ASW advantages [to] persist even if Taiwan changed hands.”
+122
+Indeed, Green and Talmadge’s only source on fixed array locations explicitly draws the “undersea defense line” from Yonaguni, Japan, to Luzon, Philippines, completely bypassing (and thus covering) Taiwan’s east coast.
+123
+Arrays are vulnerable, “in the shallow waters where their cables come ashore; in deep waters with highly specialized submarines or UUVs; or at their processing stations.”
+124
+By this logic, the length of an array has little to do with its vulnerability. This capability can be reconstituted following unification if it does not exist already.
+Finally, Taiwanese ports are more vulnerable to offensive mining.
+125
+The United States retains the ability to insert submarine-launched mobile mines (SLMMs) at low risk, and has publicly demonstrated the precise deployment of Quickstrike mines by B-52, B-1B, and F/A-18 aircraft “from altitude and at speed from outside a presumed enemy’s anti-aircraft range.”
+126
+Japan’s offensive mine capability is “world class,” according to one Chinese assessment.
+127
+A small number of mines deployed at any Chinese port would be a relatively inexpensive and persistent threat to submarine sorties, and Japanese and American submarines and aircraft will find it far easier to access Taiwan’s east coast relative to the South China, East China, and Yellow Seas.
+128
+Thirty-two additional missiles launched at US carriers over a week is a rounding error compared to the existing baseline. The baseline’s ballistic missiles also deliver a heavier punch. At 300 kilograms of explosive per missile, the salvo size of the theoretical submarine campaign is 10,000 kilograms of explosives across seven days. At a rough throw weight of 600 kilograms each, 18 DF-26s deliver the same payload within minutes. Ground-based missiles have an advantage over sub-launched in almost every way: They are cheaper, faster, more numerous, deliver heavier payloads, and have a much simpler, near-instantaneous, and more reliable command and control network.
+Table 2. Missile numbers and range from Taiwan coast based on Taiwan status and Chinese space capability
+No Chinese Space Capability
+Modest Chinese Space Capability
+Baseline Chinese Space Capability
+Autonomous Taiwan
+1000s of missiles at 300 km
+1000s of missiles at 300 km
+Fewer than 10 missiles a week at 1500 km
+1000s of missiles at 700 km
+100s of missiles at 2700 km
+Chinese-controlled Taiwan
+1000s of missiles at 600 km
+1000s of missiles at 600 km
+Fewer than 42 missiles a week
+at 1500 km
+1000s of missiles at 1000 km
+100s of missiles at 3000 km
+Note: These calculations assume no Chinese over-the-horizon sensing capability without space.
+Conclusion.
+China appears not to have developed the hydrophone technology needed to find carriers at sea. Even if it has, this capability is either poorly suited for wide-area surveillance, proveably defeatable by non-kinetic means, or likely to be destroyed during a war. Moreover, this kill chain does not work without some Chinese space-based surveillance, while too much of it makes the kill chain irrelevant. Finally, while submarine pens on the east coast of Taiwan would increase the on-station time and lower the detection rate of AIP-equipped submarines, even in China’s best-case scenario the resulting salvo size increase is small.
+Summary of Taiwan’s Operational Importance for Chinese Denial Kill Chains
+Incorporating the Department of Defense’s open-source reporting of the number and range of munitions faced by American targets in the Philippine Sea, table 2 summarizes the differences in Chinese denial capability as a function both of Taiwan’s status and China’s space capability.
+129
+Table 2 makes three things apparent. First, the undersea kill chain adds little additional threat to carrier strike groups. Second, possessing Taiwan does allow China to saturate a band of sea 700–1000 kilometers with a volume of short-range missiles unavailable without Taiwan. However, China can easily range much of the Philippine Sea with medium- and long-range ballistic missiles regardless of whether it controls the island. Finally, all three kill chains depend heavily on Chinese space capability. If space is denied to the Chinese, deploying sensors on Taiwan would allow the PLA to project a limited additional distance into a potential carrier strike group operating area, albeit still just outside the F-35C’s unrefueled combat radius.
+While Table 2 presents the comparative campaign analysis results as ranges from Taiwan, the overall effect of Taiwan on the operational balance is best presented graphically. Figures 2a and 2b depict the weapons engagement zone as range rings measured from any Chinese territory with and without Taiwan. Because China already has significant capability and because Taiwan is both very small and very close to the mainland, the amount of additional space denied to US and allied forces by unification is modest at best.
+Figure 2a: Weapons engagement zone measured from Chinese territory without Taiwan.
+Figure 2b: Weapons engagement zone measured from Chinese territory with Taiwan.
+Assessing Taiwan’s Operational Role in US Kill Chains
+This article has, so far, examined Chinese kill chains’ threat to US power-projection forces. Many assessments of Taiwan’s military value rest on China, after taking control of the island, surging its own power-projection forces—bombers, naval ships, and amphibious assault—into the wider theater: the “cork in the bottle” argument. This section therefore reverses the kill chain analysis to examine the United States and its allies’ denial capability against Chinese naval and air forces operating outside the first island chain.
+Taiwan’s status will likely have little effect on the US ability to overcome China’s existing power-projecting capability, and no amount of Taiwan-based airborne sensors, hydrophones, or quiet submarines will stymie these efforts. Indeed, US countermeasures will likely become
+more
+effective against Chinese assets based on Taiwan. These continuing efforts, supplementing existing US and allied capabilities, undermine the “cork in the bottle” argument for Taiwan’s military importance.
+US Kill Chain 1: Baseline
+It is worth noting that Taiwan and the United States have a very limited military relationship. No indication exists, for example, that Taiwanese and US sensing and communications are linked in any way. This is not surprising. Not only does the United States not recognize Taiwan’s sovereignty, but the US military still struggles to integrate even its closest allies into its battle network.
+130
+Taiwan therefore contributes very little to US operational capability beyond not being controlled by China.
+The United States expends considerable resources on two related missions: the defense of Taiwan from an amphibious assault (that is, local PLAN power projection) and, more broadly, overcoming the Chinese threat to US power projection discussed above. Beyond a cross-strait invasion, the US does not focus on fighting China’s power-projection forces, because there are few power projection forces to fight at this point. To establish a baseline, this section reviews how some of these capabilities, while built for other missions, can be turned against China’s air, surface, amphibious, and subsurface forces outside of the first island chain.
+Find and fix: space-, air-, and ground-based sensors.
+We can assume that the United States also has a similar ability to China in using space to find and fix potential targets in the Western Pacific.
+131
+Should space be denied to the United States it can turn to similar alternative platforms available to China. Chinese power-projection forces currently face dense and overlapping integrated sensing networks in Japan and the Philippines. Airborne sensors operating in this airspace can surveil the entire region.
+Fix and finish: submarines.
+The United States Navy clearly regards its submarine force as its key asymmetric advantage; Australia appears to agree.
+132
+Japan also operates a formidable fleet of 22 large, open-ocean submarines. The ability to detect any of these submarines is far away for the Chinese.
+133
+Submarines are the best means of hunting other submarines, and pose an even greater threat to surface ships. This favorable undersea balance will apply regardless of where China bases its own undersea fleet.
+Finish: distributed surface fleet.
+The US naval services are pursuing “distributed fleet operations and mobile, expeditionary formations with sea control and sea denial capabilities” to mass both “sea-based and land-based fires” inside an adversary’s missile threat envelope.
+134
+The Navy seeks to build a larger number of smaller, missile-armed surface ships that will complicate China’s targeting picture while delivering US fires.
+135
+If coordinated well to mass fires, salvos from this distributed fleet will pose a threat to any ship on either side of the first island chain.
+Find, fix, and finish: Marine Littoral Regiments.
+For their part, the US Marine Corps is radically (and controversially) changing its force structure.
+136
+The plans for these stark, forward-deployed Marine Littoral Regiments (MLRs) incorporate High-Mobility Artillery Rocket System (HIMARS), the Navy/Marine Corps Expeditionary Ship Interdiction System missile system, and more than 100 new long-range unmanned surface vessels to host sensors and unmanned aerial systems.
+137
+The United States also has an Air Force that can operate at long-ranges from the continental United States
+138
+and an Army that fields its own anti-access capability via intermediate-range missiles previously prohibited by the Intermediate-Range Nuclear Forces (INF) treaty.
+139
+US Kill Chain 2: Chinese-Controlled Taiwan
+It is unclear how the possession of Taiwan has any adverse impact on the US baseline denial capability. For example, the capabilities and vulnerabilities of available regional sensor arrays are constant. Similarly, efforts to distribute US and allied surface fleets are as effective against Taiwan-based capability as the currently existing non-Taiwan kill chain. Marine positions may be vulnerable to short-range mainland-based ballistic missiles, but Taiwan-based radars, aircraft, hydrophones, and submarines in the Philippine Sea will not make this threat any greater. In fact, China operating power projecting forces from an occupied Taiwan would make several denial tasks easier for the United States.
+Submarines will be just as effective, if not more so, against a Chinese fleet operating outside the first island chain. Indeed, one silver lining of a Chinese-controlled Taiwan would be that the undersea battle would take place in US submarines’ natural environment: the quiet, deep water outside the first island chain (rather than the noisy, shallow, heavily surveilled waters inside). The monitoring, tracking, and prosecution of Chinese submarines by the United States begins at the same starting point regardless of what port they sortie from. Chinese submarines of any class or any noise level are simply safer inside the first island chain. When it comes to the American undersea advantage, Taiwan has little relevance.
+As with any new concept, it is not clear whether distributing the surface fleet and the Marine littoral regiments will have the desired effect, but they will complicate the kill chain for Taiwan-based aircraft and slow-moving diesel submarines relative to faster, cheaper, and more numerous ground-launched ballistic missiles. While a Chinese integrated air-defense system on the island would deny a small amount of airspace to incoming bombers, Taiwan will have even less impact on Army fires.
+Finally, the US treaty allies that make up the rest of the first island chain are building their own denial capabilities. These allies may not participate actively in a US defense of Taiwan but are more likely to defend themselves from attack and coercion from a PRC-controlled Taiwan.
+140
+Japan is purchasing Maritime Strike Tomahawks and developing an indigenous anti-ship cruise missile. The Philippines recently took delivery of Indian-made Brahmos supersonic cruise missiles and plans to purchase the American HIMARS system. Combined, these two states can range the entire Taiwanese littoral.
+141
+Not coincidentally, two of the four bases included in the 2023 expansion of the US-Philippines Enhanced Defense Cooperation Agreement essentially face Taiwan.
+142
+“Taiwan is no cork, because in the current missile age no bottle is required.”
+Some have suggested that the key power-projection role enabled by unification is not basing for Chinese air- and seapower, but staging for amphibious staging assault. Japan’s Yonaguni island is considerably closer (110 kilometers) to Taiwan than the mainland.
+143
+But 110 kilometers is still an enormously costly length given the fields of fire, described above, an assault force would need to traverse. Moreover, from an operational standpoint, invading Yonaguni and its neighboring islands from Taiwan or anywhere else provides China almost no additional military value.
+144
+Okinawa, which does hold a key geographic position off Japan and South Korea at the mouth of the Yellow Sea, is as distant from Taiwan as it is from the mainland. World War II–style island-hopping is a completely different prospect given the available surveillance and missile capabilities described above.
+145
+Summary of Taiwan’s Operational Importance for US Denial Kill Chains
+While possibly struggling to project power against Chinese counter-intervention forces, recalibrating these US forces will reinforce their effectiveness against China’s own power-projection capability. Citing a RAND finding that power-projection forces are fifty times more expensive on average than anti-access/area denial forces, Michael Beckley makes the reasonable point that “China cannot afford” the power-projection capabilities required to overcome a concerted defensive effort by states in the region.
+146
+Owen Coté emphasizes the relative unimportance of
+any
+territory for United States military capability: “The power of the US submarine/bomber synergies . . . apply everywhere, not just in the Taiwan Strait, nor the Western Pacific, but anywhere US submarines and bombers operate—i.e. on a completely global basis.”
+147
+Chinese ability to practice sea denial in a theater—preventing the safe wartime operation of US carrier groups—does not provide it the sea control needed to safely operate its own air and surface fleet in war.
+148
+The United States and its allies have significant arsenals of precision-guided missiles that can reach into the Western Pacific, none of which require Taiwan’s autonomy. With or without Taiwan, a surging PLA Air Force and Navy will immediately be caught in no-man’s sea and air.
+149
+Taiwan is no cork, because in the current missile age no bottle is required.
+Conclusion: China’s Pacing Threat Should Not Be the United States’
+Should an immaculate concession cause Taiwan to fall into China’s lap, the operational effect on the United States and its allies would be relatively modest, given that China already poses a robust threat to US allies and forces well outside the first island chain. Using Taiwan as MacArthur’s “aircraft carrier” bumps the short-range missile weapons engagement zone an additional 300 kilometers away from Taiwan, which would supplement China’s existing medium- and long-range missile threat in that swath of ocean. Taiwan as MacArthur’s “submarine tender” has almost no additional operational effect. Should China lose its space capability, possessing Taiwan would create a sensor bubble extending up to 600 kilometers into the Philippine Sea from its coast. Even then, US carrier strike groups would retain large amounts of operational space to defend treaty allies and conduct other missions. And none of these kill chains would prevent US forces from denying the free employment of Chinese air- and seapower east (and even west) of Taiwan. In the age of precision-guided missiles, Taiwan is simply not a significant link in any chain, or cork in any bottle.
+At most, therefore, China’s possession of Taiwan exacerbates a daunting existing problem. This does not mean that Taiwan’s continued autonomy is not in the United States’ national interest, nor does it touch on the political and economic arguments that have typically formed the foundation of American policy toward Taiwan. But an acceptance that Taiwan is strategically but not operationally important suggests the need for alternative approaches to its defense.
+A Sino-American conflict might begin with Taiwan but is unlikely to end there.
+150
+The biggest operational effect of Taiwan’s loss might be large portions of the Seventh Fleet at the bottom of the ocean.
+151
+Most public assessments of a Taiwan invasion assign massive losses to both sides; a set of twenty-four Center for Strategic & International Studies (CSIS) games suggest that in the defense of Taiwan, the United States will lose an average of 200–500 combat aircraft and between 9 and 20 major surface ships, including 2 carriers. That report estimates timelines for rebuilding at 3-4 years, decades for surface ships, and essentially never for carriers. While China loses 90 percent of its amphibious fleet and 52 other major warships on average in these games, it has a vastly more productive shipbuilding program, which would enable faster recovery.
+152
+Going to war because of Taiwan’s perceived military value could destroy the operational balance to save it.
+153
+“Chinese ability to practice sea denial in a theater—preventing the safe wartime operation of US carrier groups—does not provide it the sea control needed to safely operate its own air and surface fleet in war.”
+One reason for this conflict’s costliness is the apparent US deterrence strategy. The CSIS report points out that in the simulated conflicts, large losses were “partly an artifact of US forward deployment aimed at deterring China.”
+154
+The United States currently conflates two separate but related missions—defending Taiwan and overcoming Chinese kill chains—thereby undermining both. Multiple US officials have testified that the “Taiwan contingency” is the US military’s “pacing scenario”—the planning assumption that determines “modernizing our capabilities, updating US force posture, and developing new operational concepts.”
+155
+A US military optimized to repel a Chinese amphibious or airborne assault will not perform as well in other essential missions both in the Western Pacific and elsewhere, both in peacetime and in conflict.
+156
+Alliances (formal or tacit) are like trade deals—they work when each party focuses on its comparative advantage to provide the joint good of security more efficiently.
+157
+A large body of analysis has suggested that Taiwan can become an undigestible “porcupine” by investing in its own anti-access capability, such as short-range anti-ship missiles on mobile launchers.
+158
+The US Indo-Pacific commander, Admiral Samuel Paparo, has described his intention “to turn the Taiwan Strait into an unmanned hellscape using a number of classified capabilities so that I can make [the PLA’s] lives utterly miserable for a month.”
+159
+Taiwan can further deter China by convincing it that rather than an immaculate concession, post-unification Taiwan would almost certainly be an operational
+liability
+requiring enormous, long-term efforts to secure the island against internal and external threats (especially if US forces in the region remain largely intact).
+Regional states’ focus on developing indigenous counter-intervention capability will allow the US to specialize in power projection.
+160
+China remains far off from being able to generate power-projection capability as effectively as the United States.
+161
+With or without a conquered Taiwan, competing against the United States in the larger Indo-Pacific, much less around the world, will be a daunting task for China. China should understand that a successful invasion would not come with the happy bonus of significantly attriting US combat power but would instead guarantee a wider and longer Sino-American conflict on terms decidedly less favorable for China.
+162
+As analyst Thomas Shugart testified recently, protracted conflict “seems likely to favor US and allied forces due to their greater flexibility and operational experience,” but these forces first need to survive the “battle of the first salvos.”
+163
+By introducing risk and uncertainty into the attacker’s cost-benefit analysis, the ability to credibly fight effectively over the longer term is a key element of classic theories of conventional deterrence.
+164
+“Regional states’ focus on developing indigenous counter-intervention capability will allow the US to specialize in power projection.”
+This point has particular relevance for the US Navy, traditionally the service most involved in the defense of Taiwan scenario and the Indo-Pacific more generally. Deemphasizing its forward-deployed role in the region to counter an invasion would free it to conduct its traditional tasks of naval diplomacy, protecting sea lines of communication, addressing contingencies in other theaters, and threatening Chinese interests elsewhere.
+165
+The United States could significantly retool its military and nonmilitary capabilities for missions such as counterblockade and distant blockade—tasks for which it is currently far from optimized.
+166
+While horizontal escalation—targeting the opponent’s interest outside the main theater—was controversial in the late Cold War, China has much broader global interests compared to the Soviet Union.
+167
+Research suggests that navies are more effective than air forces at compellence, which suggests airpower could play the key kinetic role in the defense of Taiwan while the naval fleet operates globally to advance worldwide diplomatic goals.
+168
+This was, after all, the Navy’s primary Cold War contribution.
+169
+The very existence of these forces off the main axis of conflict would still play a role in the defense of Taiwan, which would present China’s forces with “multiple dilemmas” and thereby stress a highly centralized command-and-control system.
+170
+This logic of comparative advantage also applies to China, whose focus on the demanding and specialized task of a cross-strait conquest requires it to devote fewer resources toward power projection. With Taiwan safely in hand, according to Robert Kaplan, China’s “national energies” could be “dramatically freed up to look outward in terms of power projection, to a degree that has so far been impossible.”
+171
+This plausible, “psychological” version of “cork in the bottle” logic should be taken seriously.
+172
+The US military can plan, build, and operate to maintain a Taiwan invasion as the pacing scenario for China, but not for the United States.
+To date the United States has struggled to convince Taiwan to “focus overwhelmingly on the invasion threat.”
+173
+This struggle is in part because “purely defensive strategies can leave the defender more vulnerable, rather than less, to other forms of military attack or coercion, such as blockade.”
+174
+Taiwan may also fear that the United States may not go to war in its defense, but would happily fight China to the last Taiwanese soldier. This is a classic, unavoidable dilemma in asymmetric international alliances, and cannot be assumed away.
+175
+Taiwan might optimize further to withstand the first onslaught if it knew the United States military would remain largely intact for the longer conflict, but it also might plausibly bandwagon with China instead. Patient diplomacy and reassurances will be required, and even then may not work. But any scenario would start with the observation that even if the United States successfully defended Taiwan with its current force and operating concepts, Taiwan would then face the same unpleasant strategic situation as would Japan and the Philippines: a heavily damaged US military facing off against a blooded and rapidly reconstituting People’s Liberation Army.
+Done incorrectly, the defense of Taiwan could lead to a worsened operational position for the United States and its allies. Chinese hydrophones, diesel submarines, and aircraft based on the island will be less threatening if many of the targets are already in Davy Jones’s Locker. While the biggest operational impact of cross-strait unification might be US losses in its defense, the biggest operational impact of Taiwan’s continued autonomy is that the PLA must focus relentlessly on the extremely challenging mission of unification by military force, rather than devoting more resources to the coercion of Japan and the Philippines or contesting the global commons. Washington should invest in military tools that can defend Taiwan, but only if they also enable the United States to continue the fight elsewhere. Indeed, as the Chinese ability to conquer Taiwan militarily continues to grow, this may be the most effective way for the United States to deter such a move, and keep a fragile peace across the Taiwan Strait.
+Jonathan D. Caverley
+is professor of strategic and operational research and interim Press director at the United States Naval War College. The analysis is his and does not represent that of the United States Naval War College, Navy, or government.
+Acknowledgments:
+The author would like to thank Dave Blagden, Matt Cancian, Charlie Glaser, Rachel Tecott Metz, John Mearsheimer, Evan Montgomery, Bill Murray, Erik Sand, Paul Schmidt, Thomas Shugart, and Sam Tangredi. The late Owen Coté provided expert feedback as the world’s foremost open-source expert on undersea warfare. The intellectual and personal loss is greatly felt by his many friends and colleagues.
+Image:
+xiangyang17, CC BY-SA 2.0,
+via Wikimedia Commons
+Maps:
+Jordan Morning.
+Listen to a discussion with Jon Caverley on the topic of this article.
+Endnotes
+1
+Taiwan’s disputed international status makes terminology both important and controversial. This article uses “China” and “Taiwan” as shorthand for the People’s Republic of China and the Republic of China. Because geography matters for military operations, “mainland” is used when referring to the large continental landmass under China’s control, while “island,” unless otherwise noted, refers to Taiwan’s main island (also known as Formosa). “Unification” is used to refer to the shifting of political control of Taiwan’s territory to the People’s Republic of China, whether peacefully or by force.
+2
+Bob Menendez, “This Is How the US Will Stand with Taiwan,”
+The New York Times
+, August 3, 2022; Elaine Luria, “Congress Must Untie Biden’s Hands on Taiwan,”
+The Washington Post,
+October 11, 2021; Alyssa Chen, Richard Haas, and David Sacks, “American Support for Taiwan Must Be Unambiguous: To Keep the Peace, Make Clear to China that Force Won’t Stand,”
+Foreign Affairs
+, September 20, 2020; Phelim Kine, “Biden Leaves No Doubt: ‘Strategic Ambiguity’ Toward Taiwan Is Dead,”
+Politico,
+September 19, 2002. At the start of his second term, Donald Trump has publicly endorsed the policy of ambiguity; see Trevor Hunnicut, “Trump Declines to Answer Question About China and Taiwan,”
+Reuters,
+February 26, 2025. For a recent assessment of the cross-strait and larger Sino-American military balance, see Samuel J. Paparo, “Statement on US Indo-Pacific Posture,” House of Representatives, April 2025. https://armedservices.house.gov/uploadedfiles/indopacom_posture_statement_2025.pdf.
+3
+Stephen Biddle and Ivan Oelrich, “Future Warfare in the Western Pacific: Chinese Anti-Access/Area Denial, US AirSea Battle, and Command of the Commons in East Asia,”
+International Security
+41, no. 1 (Summer 2016): 7–48; Sam J. Tangredi,
+Anti-Access Warfare: Countering A2/AD Strategies
+(Naval Institute Press, 2013); Evan Braden Montgomery, “Contested Primacy in the Western Pacific: China’s Rise and the Future of US Power Projection,”
+International Security
+38, no. 4 (Spring 2014): 130; Michael Beckley, “The Emerging Military Balance in East Asia: How China’s Neighbors Can Check Chinese Naval Expansion,”
+International Security
+42, no. 2 (Fall 2017): 78–119; Jonathan D. Caverley and Peter Dombrowksi, “Cruising for a Bruising: Maritime Competition in an Anti-Access Age,”
+Security Studies
+29, no. 4 (Summer 2020). On a potential Japanese response to the Chinese threat, see Eric Heginbotham and Richard J. Samuels, “Active Denial: Redesigning Japan's Response to China's Military Challenge,”
+International Security
+42, no. 4 (2018): 128–69.
+4
+James A. Siebens and Melanie Sisson, “China's Multi-Domain Deterrence of the United States,”
+China’s Use of Armed Coercion
+, ed. James A. Siebens (Routledge, 2024), 202–16.
+5
+On the history of this policy, see Alan Romberg,
+Rein in at the Brink of the Precipice: American Policy Toward Taiwan and US-PRC Relations
+(Stimson Center, 2003).
+6
+Barry Posen, “Command of the Commons: The Military Foundation of US Hegemony,”
+International Security
+28, no. 1 (2003): 5–46; Sam J. Tangredi, “The Maritime Commons and Military Power,” in
+Conflict and Cooperation in the Global Commons: A Comprehensive Approach for International Security,
+ed. Scott Jasper  (Georgetown University Press, 2012), 71–87.
+7
+US Congress, Senate,
+Address of General of the Army Douglas MacArthur at a Joint Meeting of the Two Houses in the Hall of the House of Representatives,
+April 19, 1951, 82nd Cong., 1st sess., document 82-36, https://www.govinfo.gov/app/details/SERIALSET-11511_00_00-019-0036-0000.
+8
+George Marshall cited in Glenn D. Paige,
+The Korean Decision
+(MacMillan, 1968), 125.
+9
+Ely Ratner, “Statement by Dr. Ely Ratner Assistant Secretary of Defense for Indo-Pacific Security Affairs Office of the Secretary of Defense,” Senate Committee on Foreign Relations, 117th Cong., December 8, 2021, https://www.foreign.senate.gov/imo/media/doc/120821_Ratner_Testimony1.pdf.
+10
+Mike Gallagher, “Taiwan Can’t Wait: What America Must Do to Prevent a Successful Chinese Invasion.”
+Foreign Affairs,
+February 1, 2022. See also Elbridge Colby and Oriana Skylar Mastro, “Ukraine Is a Distraction from Taiwan,”
+The Wall Street Journal,
+February 13, 2022.
+11
+Randall Schriver, “Memo to the Next US President: The Inheritance in the Indo-Pacific and the Challenges and Opportunities for Your Presidency,” Project 2049 Institute, December 1, 2020, https://project2049.net/wp-content/uploads/2020/12/Memo-to-the-Next-President_Schriver_P2049_201201.pdf.
+12
+Exceptions include Charles L. Glaser, “A US-China Grand Bargain? The Hard Choice Between Military Competition and Accommodation,”
+International Security
+39, no. 4 (Spring 2015): 32; James Steinberg and Michael O’Hanlon,
+Strategic Reassurance and Resolve
+,
+and Resolve: US-China Relations in the Twenty-First Century
+(Princeton University Press, 2014), 120–49; Hu Bo,
+Chinese Maritime Power in the 21st Century: Strategic Planning, Policy and Predictions
+(Routledge, 2019), 150.
+13
+Toshi Yoshihara and James R. Holmes,
+Red Star over the Pacific: China’s Rise and the Challenge to US Maritime Strategy
+, 2nd ed. (Naval Institute Press, 2018), 20–21.
+14
+Aaron Friedberg,
+A Contest for Supremacy: China, America, and the Struggle for Mastery in Asia
+(WW Norton, 2011), 231.
+15
+Sidharth Kaushal, “Japan’s Evolving Policy on Taiwan and the US–Japan Alliance: Towards a Nixon Doctrine for Northeast Asia?,”
+Royal United Services Institute Commentary
+, July 30, 2021.
+16
+Brendan Rittenhouse Green and Caitlin Talmadge, “The Consequences of Conquest: Why Indo-Pacific Power Hinges on Taiwan,”
+Foreign Affairs,
+July/August 2022.
+17
+John J. Mearsheimer, “Taiwan’s Dire Straits,”
+National Interest
+130 (April 2014): 33.
+18
+David Santoro and Ralph Cossa, “Introduction,” in
+The World After Taiwan’s Fall
+, David Santoro and Ralph Cossa, eds.,
+Pacific Forum International Issues and Insights
+23, no. 2 (January 2023): 2, https://pacforum.org/publications/issues-insights-vol-23-sr2-the-world-after-taiwans-fall/.
+19
+Michael Beckley, “The Emerging Military Balance in East Asia,” 83.
+20
+Barry R. Posen,
+Restraint: A New Foundation for US Grand Strategy
+(Cornell University Press, 2014), 102.
+21
+Toshi Yoshihara, “China’s View of Taiwan’s Geostrategic Value,”
+SPF China Observer
+45 (December 04, 2023): 1. I thank an anonymous reviewer for suggesting this reference. See also Gabriel B. Collins, Andrew S. Erickson, and Matt Pottinger, “Taiwan: The Stakes,”
+The Boiling Moat: Urgent Steps to Defense Taiwan
+, ed. Matt Pottinger (Hoover Institution Press, 2024), 28–31.
+22
+One could argue that the loss of access to Taiwan’s world-leading microelectronics would shape the military balance. I bracket this for reasons of scope. Additionally, it is not clear how much of the physical and human capital essential for this industry would be left in Taiwan after unification, and Taiwan is also highly dependent on sophisticated inputs from the United States, Netherlands, Japan, and other American allies to maintain its global place in this industry. Economic damage notwithstanding, the impact these factors make on relative, long-term military capability is unclear.
+23
+Douglas MacArthur, “Memorandum on Formosa,”
+Foreign Relations of the United States
+,
+1950, Korea
+VII (June 14, 1950): 162.
+24
+Collins, Erickson, and Pottinger, “Taiwan,” 24.
+25
+It is difficult to find a citation directly linking King to this quote. See Samuel Eliot Morison,
+The Two-Ocean War: A Short History of the United States Navy in World War II
+(Naval Institute Press, 1963), 476. King advocated for Formosa to be taken as part of the campaign against Japan. Ironically, it was MacArthur who argued that Formosa was not strategically useful so long as the US controlled the Philippines. MacArthur of course won the debate.
+26
+Zhu Tinchang, “The History and Reality of Taiwan’s Geostrategic Standing for China,” in
+The Road to Great Power: Volume of Geostrategy
+, ed. Liu Xiaobao (Liberation Army Press, 2015), 313, cited in Yoshihara, “China’s View.” Chinese power projection is the primary means by which Taiwan’s fall would affect Australian interests. See Malcolm Davis, “Chinese Victory over Taiwan—An Australian Perspective," in
+The World After Taiwan’s Fall
+, eds. David Santoro and Ralph Cossa,
+Pacific Forum International Issues and Insights
+23, no. 2 (January 2023): 19–28; Anthony Bergin, “To Prevent a China War, We Must Bind Ourselves to Taiwan”
+Sydney Morning Herald,
+June 7, 2023. While most American writing does not dwell on this, significant amounts of Chinese analysis regard an ununited island as a strategic threat to the mainland given its proximity to China’s economic heartland of the Yangtze River Delta and Pearl River Delta Economic Zones; its position close to the littorals of the Yellow, East, and South China Seas; and its history of serving as a “springboard” for attacking the mainland. See Yoshihara, “China’s View of Taiwan’s Geostrategic Value.” The central English-language reference on Chinese strategic understanding of Taiwan is Alan M. Wachman,
+Why Taiwan?
+(Stanford UP, 2007), particularly chapter 7.
+27
+Andrew Erickson, on the other hand, observes that because of its proximity to the mainland, Taiwan “is not placed to expand China’s power-projection capability significantly”; see Andrew S. Erickson and Joel Wuthnow, “Why Islands Still Matter in Asia: The Enduring Significance of the Pacific ‘Island Chains,’”
+The National Interest
+, February 5, 2016.
+28
+Brendan Rittenhouse Green and Caitlin Talmadge, “Then What? Assessing the Military Implications of Chinese Control of Taiwan.”
+International Security
+47, no. 1 (2022): 7–45.
+29
+Some analysts argue that Chinese strategists view the military balance differently than this article’s capabilities-based campaign analysis, focusing on systems and more ineffable qualities, as laid out in Mark Cozad et al.,
+Gaining Victory in Systems Warfare: China’s Perspective on the US-China Military Balance
+(RAND Corporation, 2023). This article is less concerned if or why China considers Taiwan to be militarily valuable compared to its actual operational effect in a post-unification campaign.
+30
+Rachel Tecott and Andrew Halterman, “The Case for Campaign Analysis: A Method for Studying Military Operations,”
+International Security
+45, no. 4 (Spring 2021): 44–83.
+31
+Andrew F. Krepinevich, “Maritime Competition in a Mature Precision Strike Regime,” Center for Strategic and Budgetary Assessments, April 13, 2015, 45, https://csbaonline.org/uploads/documents/MMPSR-Web.pdf.
+32
+Biddle and Oelrich, “Future Warfare in the Western Pacific,” 22.
+33
+Biddle and Oelrich, “Future Warfare in the Western Pacific”; Eric Heginbotham et al.,
+The US-China Military Scorecard: Forces, Geography, and the Evolving Balance of Power, 1996–2017
+(RAND, 2015), 193.
+34
+Office of the Secretary of Defense,
+Annual Report to Congress: Military and Security Developments Involving the People’s Republic of China
+(Department of Defense, 2020), 73. This annual publication is colloquially known as the
+China Military Power Report
+and is henceforth cited as such.
+35
+Ivan Oelrich, Paul van Hooft, and Stephen Biddle, “Anti-Satellite Warfare, Proliferated Satellites, and the Future of Space-Based Military Surveillance,”
+Journal of Strategic
+Studies
+47, nos. 6–7 (2024): 916–39.
+36
+Green and Talmadge, “Then What?”
+37
+Biddle and Oelrich, “Future Warfare in the Western Pacific.”
+38
+Green and Talmadge, “Then What?,” 15.
+39
+Greg Hadley, “Advancing in Space, China Poses Growing Threat, USSF Leaders Warn,”
+Air & Space Forces Magazine
+, March 28, 2024.
+40
+See the frequently reproduced chart in
+China Military Power Report
+2024, 67.
+41
+William Howard, “Future of the Aircraft Carrier” (Defense Science Board, October 2002), 52.
+42
+Stephen N. Whiting, “Fiscal Year 2025 Priorities and Posture of United States Space Command,” testimony to the United States Senate Armed Services Committee, February 29, 2024.
+43
+United States Space Force, “Space Threat Fact Sheet,” July 16, 2024, https://www.andrewerickson.com/2025/04/latest-space-threat-fact-sheet-annex-from-headquarters-space-force-intelligence/.
+44
+For one recent US government–sponsored overview, see Tate Nurkin et al., “China’s Remote Sensing,” US-China Economic Security Commission, December 2024, https://www.uscc.gov/sites/default/files/2024-12/Chinas_Remote_Sensing.pdf.
+45
+Biddle and Oelrich, “Future Warfare in the Western Pacific.”
+46
+Green and Talmadge, “Then What?,” 36.
+47
+Michael Dahm, “China C4ISR and Counter-Intervention,” testimony before the US-China Economic and Security Review Commission, March 21, 2024.
+48
+Gosnold, “China Completes the Yaogan-30 Constellation,”
+SatelliteObservation.net
+, November 25, 2020, https://satelliteobservation.net/2020/11/25/china-completes-the-yaogan-30-constellation/.
+49
+Speech by Ron Lerch, of the Space Systems Command’s intelligence directorate, https://spacenews.com/u-s-space-force-wary-of-chinas-expanding-spy-satellite-fleet/.
+50
+J. Michael Dahm, “China C4ISR and Counter-Intervention”; Samuel Cranny-Evans, “China's Maritime Surveillance Network: Bold Moves for Ocean Dominance,”
+Jane's International Defence Review
+, February 17, 2022.
+51
+“Yaogan Series,”
+Jane’s Space Systems and Industry,
+February 3, 2022, https://customer-janes-com.usnwc.idm.oclc.org/display/JSD_A201-JSD (paywall).
+52
+Dahm, “China C4ISR and Counter-Intervention.”
+53
+Lerch; Dahm, “China C4ISR and Counter-Intervention.”
+54
+Nurkin et al., “China’s Remote Sensing,” 13. Artificial intelligence and machine learning excel at pattern recognition. These trends combine to make it unlikely that distinctly shaped ships will be able to hide in the future, and few ships have a more distinct look than an aircraft carrier. I thank Tom Shugart for this important point. See also Thomas R. McCabe, “Chinese Intelligence, Surveillance, and Reconnaissance Systems,”
+Journal of Indo-Pacific Affairs
+(Spring 2021): 3; Saadia M. Pekkanen, Setsuko Aoki, and John Mittleman, "Small Satellites, Big Data: Uncovering the Invisible in Maritime Security,"
+International Security
+47, no. 2 (2022): 177–216.
+55
+Andrew Tate, “China Closing the Satellite Imagery Capability Gap,”
+Jane’s Defence Weekly,
+August 14, 2018; McCabe, “Chinese Intelligence,” 1; Jeff Foust, “The Long March of New Space in China,”
+Space Review
+, September 28, 2020, cited by Nurkin et al., “China’s Remote Sensing.”
+56
+Lorand Laskai, “Building China’s SpaceX: Military-Civil Fusion and the Future of China’s Space Industry,” testimony before the US China Economic and Security Review Commission, April 25, 2019. On civil-military fusion more broadly, see Richard A. Bitzinger, “China's Shift from Civil-Military Integration to Military-Civil Fusion,”
+Asia Policy
+16, no. 1 (January 2021).
+57
+Ling Xin, “China Sends Record 41 Satellites to Join Jilin-1 Hi-Res Constellation,”
+South China Morning Post
+, June 19, 2023, cited in Dahm, “China C4ISR and Counter-Intervention.” See also Nurkin et al., “China’s Remote Sensing, 51.
+58
+China Aerospace Research Institute, Air University, “Chang Guang Satellite Technology Company overview,” April 1, 2024, https://www.airuniversity.af.edu/CASI/Display/Article/3727764/chang-guang-satellite-technology-company-overview/.
+59
+Peter Wood,
+Chinese Airborne C4ISR
+(Air University, 2020), 31.
+60
+Wood,
+Chinese Airborne C4ISR,
+31; Joshua Rovner, “A Long War in the East: Doctrine, Diplomacy, and the Prospects for a Protracted Sino-American Conflict,”
+Diplomacy & Statecraft
+29, no. 1 (2018): 129–42.
+61
+Ma Xiu, “PLA Rocket Force Organization,”
+China Aerospace Studies Institute,
+2022, https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/PLARF/2022-01-05%20PLARF%20Organization%20ExecSum.pdf.
+62
+Peter Wood and Alex Stone, “China’s Ballistic Missile Industry,”
+China Aerospace Institute,
+2021, https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/PLARF/2021-05-11%20Ballistic%20Missile%20Industry.pdf.
+63
+China Military Power Report
+2022, 62.
+64
+For the sake of conservatism, this article assumes a maximum IRBM range of 3,000 km, which makes the relative impact of Taiwan significantly higher.
+65
+China Military Power Report
+2024, 63-64. According to this publication, “The PLA may have deployed a “long-range” DF-27 ballistic missile to the PLARF with a HGV
+payload option as well as conventional land-attack, conventional antiship, and nuclear capabilities. Official PRC military writings indicate this range class spans 5,000 km–8,000 km.” On the potential effect of hypersonic missiles on the operational balance and strategic stability, see Carrie A. Lee, “Technological Acquisition and Arms Control: Thinking Through the Hypersonic Weapons Debate,”
+Texas National Security Review
+5, no. 4 (Fall 2022): 29–48.
+66
+China Military Power Report
+2024, 66;
+China Military Power Report
+2018.
+67
+China Military Power Report
+2021, 71.
+68
+See the figure in
+China Military Power Report
+2024, 67.
+69
+China Military Power Report
+2023, 63.
+70
+Eric Heginbotham et al., “The US-China Military Scorecard,” 193. Compared to 2015, China has fewer attack submarines in 2024, but they are more capable.
+71
+United States Space Force, “Space Warfighting: A Framework for Planners,” March 2025, https://www.spaceforce.mil/Portals/2/Documents/SAF_2025/Space_Warfighting_-_A_Framework_for_Planners_BLK2_(final_20250410).pdf.
+72
+Biddle and Oelrich, “Future Warfare.”
+73
+Biddle and Oelrich, “Future Warfare,” 23.
+74
+Green and Talmadge, “Then What?,” 28.
+75
+Talmadge suggests elsewhere that such an attack risks escalation. See Caitlin Talmadge, “Would China Go Nuclear? Assessing the Risk of Chinese Nuclear Escalation in a Conventional War with the United States,”
+International Security
+41, no. 4 (Spring 2017): 44–51. See also Thomas J. Christensen, “The Meaning of the Nuclear Evolution: China’s Strategic Modernization and US-China Security Relations,”
+Journal of Strategic Studies
+35, no. 4 (August 2012); Fiona S. Cunningham and M. Taylor Fravel, “Assuring Assured Retaliation: China’s Nuclear Posture and US-China Strategic Stability,”
+International Security
+40, no. 2 (Fall 2015).
+76
+Wesselhoff, “Soviet Electronic Warfare and Ocean Surveillance Capabilities,” 156.
+77
+James M. Landreth, “The Strategic Significance of the Chinese Fishing Fleet,”
+Military Review
+101, no. 3 (May/June 2021): 35.
+78
+Green and Talmadge, “Then What?,” 25.
+79
+China Military Power Report
+2024, 51.
+80
+Andrew S. Erickson and Conor M. Kennedy, “China’s Maritime Militia: An Important Force Multiplier,” in Michael A. McDevitt,
+China as a Twenty First Century Naval Power: Theory, Practice, and Implications
+, (Naval Institute Press, 2020), 221–23; Peter Wood with Roger Cliff, “Chinese Airborne C4ISR,” China Aerospace Studies Institute, November 2020, https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Infrastructure/2020-12-17%20PRC%20Airborne%20C4ISR_eBook.pdf.
+81
+Assume military and paramilitary ships have a 50-kilometer detection range and fishing vessels 20 kilometers. For the formula, see Green and Talmadge, “Then What?,” appendix, 2.
+82
+Indeed, by equipping at least some maritime militia vessels with radar reflectors and other tools to mimic larger vessels, China appears to be counting on this. See McDevitt,
+China as a Twenty-First Century Naval Power,
+215. On the shortage and cost of US precision munitions, see Stacie Pettyjohn and Hannah Dennis, “Precision and Posture: Defense Spending Trends and the FY23 Budget Request,”
+Center for a New American Security
+, November 2022.
+83
+McCabe, “Chinese Intelligence,” 2; Greg Waldron, “China’s TB-001 UAV May Have Support Role for Ballistic Missile Attacks,”
+Flight Global
+, January 10, 2023, cited in Nurkin et al., “China’s Remote Sensing.”
+84
+Amit Kalra, “Solar Sentinels: The Growth of HAPS in Asia,”
+Jane's Defence Weekly
+, January 2024.
+85
+China Military Power Report
+2023, 63.
+86
+Andrew S. Erickson and David D. Yang, “Using the Land to Control the Sea? Chinese Analysts Consider the Antiship Ballistic Missile,”
+Naval War College
+Review 62, no. 4 (2009): 53–86; M. Taylor Fravel and Alexander Liebman, “Beyond the Moat: The PLAN’s Evolving Interests and Potential Influence,” in
+The Chinese Navy: Expanding Capabilities, Evolving Roles
+, eds. Phillip C. Saunders et al. (NDU Press, 2011), 55–56; Hu Bo, “China in a Multipolar World,”
+Navies in Multipolar Worlds
+(Routledge, 2019).
+87
+Yoshihara, “China’s View of Taiwan’s Geostrategic Value.”
+88
+Biddle and Oelrich, “Future Warfare in the Western Pacific,” 74.
+89
+Assume that half the fleet of 25 Luyangs and 6 Renhais is deployed, and that half of the VLS tubes (64 and 112 respectively) contain anti-ship missiles (a generous assumption). See
+China Military Power Report
+2023, 56. That said, US attack submarines would likely inflict serious losses to these ships and so this salvo size is likely an overestimate.
+90
+China Aerospace Studies Institute,
+PLA Aerospace Power: A Primer on Trends in China’s Military Air, Space, and Missile Forces
+(Air University, 2019), 41.
+91
+I thank Dave Blagden for this crucial observation.
+92
+Green and Talmadge, “Then What?,” 14–15.
+93
+Green and Talmadge briefly discuss the effects of stationing nuclear-missile–armed submarines (SSBNs) on the east coast of Taiwan. This situation is outside of this article’s scope. Given that the current generation of China’s submarine-launched ballistic missiles can hit the continental United States from the safer waters inside the first island chain and that the seaborne leg is the less important component of China’s nuclear deterrent, this will not change the nuclear balance much. See Anthony Capaccio, “China Has Put Longer-Range ICBMs on Its Nuclear Subs, US Says,”
+Bloomberg,
+November 18, 2022;
+China Military Power Report
+2023, 67.
+94
+Green and Talmadge also assume that the United States is willing and able to destroy China’s mainland-based over-the-horizon radars, which would also make undersea sensors redundant. For simplicity, I set this aside.
+95
+Green and Talmadge, “Then What?,” 10.
+96
+Much of their analysis is derived from Owen Coté, “Assessing the Undersea Balance Between the US and China,” Strategic Studies Program Working Paper, Massachusetts Institute of Technology, February 2011, https://www.usni.org/sites/default/files/inline-files/Undersea%20Balance%20WP11-1.pdf.
+97
+Andrew Tate, “China Expands Short-Range Maritime ISR Capabilities,”
+Jane’s Intelligence Review,
+December 29, 2017. For a review of Chinese-language discussions, see Tong Zhao,
+Tides of Change: China’s Nuclear Ballistic Missile Submarines and Strategic Stability
+(Carnegie Endowment for International Peace, 2018), 56.
+98
+“Fixed Sonar Systems,”
+Jane’s C4ISR & Mission Systems: Maritime,
+Oct 3, 2018; “Fixed Sonar—MG-607 Dnestr,”
+Jane’s C4ISR & Mission Systems
+:
+Maritime
+, January 21, 2022.
+99
+“Fixed Sonar—MGK-608E SEVER-E,”
+Jane’s C4ISR & Mission Systems: Maritime,
+June 11, 2019.
+100
+Norman Friedman,
+Network-Centric Warfare: How Navies Learned to Fight Smarter Through Three World Wars
+(Naval Institute Press, 2009), 194.
+101
+Director, Central Intelligence, “Soviet Naval Strategy and Programs Through the 1990s” NIE 11-15-82/D in John B. Hattendorf,
+The Evolution of the US Navy’s Maritime Strategy, 1977–1986
+(Naval War College Press, 2002), 144–45.
+102
+Friedman,
+Network-Centric Warfare.
+Coté does not mention hydrophones either.
+103
+Norman Polmar,
+Guide to the Soviet Navy,
+3rd ed. (Naval Institute Press, 1983), 45.
+104
+The seabed geography around the Soviet Northern Fleet headquarters is not conducive to very long acoustic detection using convergence zones. Nonetheless, the Barents Sea conditions were excellent for other types of sound propagation. See Owen R. Coté, Jr., "The Third Battle,"
+The Newport Papers
+16 (2003): 73. The Soviets focused their modest Cluster Lance efforts in the Pacific for this reason. Nonetheless, there is not evidence of much USSR progress on that front.
+105
+Stephen T. Wesselhoff, “Soviet Electronic Warfare and Ocean Surveillance Capabilities,” in
+The Soviet Navy: Strengths and Liabilities,
+eds. Bruce W. Watson, Susan M Watson, Calland Carnes, and Brian Larson (Routledge, 1986).
+106
+Martin Streetly, “Ocean Surveillance Systems,” in
+The Soviet Naval Threat to Europe: Military and Political Dimensions,
+eds. Bruce W. Watson and Susan M. Watson (Routledge, 1989), 164, 169.
+107
+“Enter the Dragon: Inside China's New Model Navy,”
+Jane’s Navy International,
+April 20, 2011.
+108
+Friedman,
+Network Centric Warfare
+, 237.
+109
+Robert G. Angevine, "Hiding in Plain Sight—The US Navy and Dispersed Operations Under EMCON, 1956–1972,"
+Naval War College Review
+64, no. 2 (2011); Andrew F. Krepinevich, “Maritime Competition in a Mature Precision Strike Regime,” Center for Strategic and Budgetary Assessments, April 13, 2015, 44.
+110
+Desmond Ball and Richard Tanter,
+The Tools of Owatatsumi: Japan’s Ocean Surveillance and Coastal Defence Capabilities
+(Australian National University Press, 2015), 51–54.
+111
+Bryan Clark, “Undersea Cables and the Future of Submarine Competition,”
+Bulletin of the Atomic Scientists
+72, no. 4 (July 3, 2016): 235.
+112
+Green and Talmadge, “Then What?”
+113
+China has developed, fielded, and publicized an extensive range of anti-satellite capability that includes kinetic, jamming, and cyber tools
+.
+See Defense Intelligence Agency,
+Challenges to Security in Space: Space Reliance in an Era of Competition and Expansion
+, 2022; Kevin Pollpeter, “Space, the New Domain: Space Operations and Chinese Military Reforms,”
+Journal of Strategic Studies
+39, nos. 5–6 (August 2016): 712. The US Office of the Director of National Intelligence assesses that counterspace operations are “integral to potential military campaigns by the PLA.” See
+Annual Threat Assessment of the US Intelligence Community
+, February 2022 (Office of the Director of National Intelligence [ODNI]). It is hard to imagine a scenario where the United States refrains from attacking Chinese space assets if its own are being destroyed.
+114
+PLAN nuclear-powered submarines are currently faster but much more detectable. Taiwan’s advantages are therefore more relevant for diesel submarines, which are very quiet but have to move slowly, making transit times crucial. Green and Talmadge ("Then What?," 37–39) relax their policy of only considering current Chinese capability by arguing that while the “utility and probability of China building a large fleet of quiet [nuclear attacked submarines] is therefore an open question,” locating them on the east coast of Taiwan would make them “undetectable” and would “threaten maritime traffic as it approached northeast Asian ports.” It is not clear how this would change their model (which assumes no detection for diesel subs), as any submarine can threaten these ports from within the first island chain, and China can already saturate these same ports with short-range missiles.
+115
+Ian Easton, “If Taiwan Falls: Future Scenarios and Implications for the United States,” in
+The World After Taiwan’s Fall
+, eds. David Santoro and Ralph Cossa,
+Pacific Forum International Issues and Insights
+23, no. 2 (January 2023): 10. For a similar assessment based on interviews with Japanese officials, see Matake Kamiya, “China’s Takeover of Taiwan Would Have a Negative Impact on Japan,”
+Pacific Forum International Issues and Insights
+23, no. 2, 33.
+116
+Heginbotham et al., “The US-China Military Scorecard,” 193, observes that “Chinese submarine commanders would not necessarily take all of the engagement opportunities presented, and not all of the engagements that occurred would result in a hit, much less critical damage to or the sinking of a US aircraft carrier.”
+117
+Green and Talmadge, “Then What?,” 21.
+118
+Green and Talmadge, “Then What?,” 21.
+119
+Space Operations Command Public Affairs,
+Space-Based Infrared System (SBIRS)
+, October 2021 (Space Operations Command).
+120
+Coté, “Assessing the Undersea Balance,” 27.
+121
+Assuming it is equally likely to detect a sub leaving Taiwan or crossing a chokepoint, using Green and Talmadge’s calculation, this cuts the maximum salvo by a third.
+122
+Green and Talmadge, “Then What?,” 22.
+123
+Ball and Tanter,
+The Tools of Owatatsumi
+, 54.
+124
+Green and Talmadge, “Then What?,” appendix, 1.
+125
+Coté, “Assessing the Undersea Balance,” 10.
+126
+Danielle George,
+US Navy Mine Warfare Programs, January 16, 2020
+(Mine Warfare Program Office). The Navy is developing a new Clandestine Delivered Mine (CDM) that both submarines and future large unmanned undersea vehicles can deploy. See Ben Werner, “Navy, Air Force Test Deploys 2,000-Pound Mine at Stand-off Range,”
+USNI News
+, September 14, 2018.
+127
+Chinese analysis of open-source data suggests that Japan has a large stockpile of fourteen different types of mines. See Toshi Yoshihara,
+Dragon Against the Sun: Chinese Views of Japanese Seapower
+, May 19, 2020, Center for Strategic and Budgetary Assessment, 68.
+128
+Scott Savitz and Scott C. Truver, “Invisible Blockades and Strategic Coercion,”
+War on the Rocks
+, November 23, 2022. In general the article’s analysis, like its predecessors, does not discuss munitions inventories. That said, Quickstrike mines are simply general-purpose bombs with a kit added to it, and are thus relatively numerous and affordable.
+129
+China Military Power Report
+2024, 186.
+130
+Angelo Mejia, “Bridging Communication Gaps: Mission Partner Environment Redefines Indo-Pacific Collaboration,”
+AUSA
+, May 24, 2024; Tyler Rogoway, “Blind, See, Kill: The Grand Networking Plan To Take On China,”
+TWZ
+, August 29, 2023.
+131
+For an overview of US space capability, see United States Space Force, “Space Warfighting.”
+132
+Office of the Chief of Naval Operations, “Report to Congress on the Annual Long-Range Plan for Construction of Naval Vessels for Fiscal Year 2023,” (Department of the Navy, April 2022), 4.
+133
+China Maritime Studies Institute, “Quick Look Report: Chinese Undersea Warfare: Development, Capabilities, Trends,” (Naval War College, May 5, 2023).
+134
+“Advantage at Sea Prevailing with Integrated All-Domain Naval Power” (Department of the Navy, December 2020), 7.
+135
+Congressional Research Service, “Defense Primer: Navy Distributed Maritime Operations (DMO) Concept,” February 27, 2024, https://www.congress.gov/crs-product/IF12599.
+136
+Robert Work, “Marine Force Design: Changes Overdue Despite Critics’ Claims,”
+Texas National Security Review
+6, no. 3 (Summer 2022): 81–98.
+137
+United States Marine Corps, “Force Design 2030” (Headquarters Marine Corps, August 2, 2021). For a thorough review of the debate, see Scott Cuomo, “On-The-Ground Truth and Force Design 2030 Reconciliation: A Way Forward,”
+War on the Rocks,
+July 12, 2022.
+138
+David A. Deptula, “Bombers for Maritime Strike: An Asymmetric Counter to China’s Navy,” Mitchell Institute Policy Paper 18 (February 27, 2019).
+139
+Ankit Panda,
+Indo-Pacific Missile Arsenals: Avoiding Spirals and Managing Escalation Risks
+(Carnegie Endowment, 2023), 47–62.
+140
+Michael Beckley, “The Emerging Military Balance in East Asia: How China’s Neighbors Can Check Chinese Naval Expansion,”
+International Security
+42, no. 2 (2017): 78–119; Sheena Chestnut Greitens, “Pathways to Protraction: Rethinking US-China Conflict,”
+The Washington Quarterly
+48, no. 1, 125–42. This assumes they have the capability to do so in the aftermath of whatever events lead to Beijing assuming control of the island.
+141
+Christopher Woody, “Philippines, Japan Near Long-Range Missile Milestones as They Arm Up for China,”
+Breaking Defense
+, March 15, 2024.
+142
+David Vergun, “New EDCA Sites Named in the Philippines,”
+DOD News
+, April 3, 2023.
+143
+Ian Easton, “If Taiwan Falls,” 10.
+144
+Todd Hall, “More Significance than Value: Explaining Developments in the Sino-Japanese Contest over the Senkaku/Diaoyu Islands,”
+Texas National Security Review
+2, no. 4 (2019): 11–37.
+145
+Steven A. Yeadon, “The Problems Facing United States Marine Corps Amphibious Assaults,”
+Journal of Advanced Military Studies
+11, no. 2 (Fall 2020).
+146
+Michael Beckley, “The Emerging Military Balance in East Asia: How China’s Neighbors Can Check Chinese Naval Expansion,”
+International Security
+42, no. 2 (2017): 78–119; Terrence K. Kelly, David C. Gompert, and Dunca Long,
+Smarter Power, Stronger Partners,
+vol. 1 (RAND, 2016), 88–93.
+147
+Owen R. Coté Jr., "One If by Invasion, Two If by Coercion: US Military Capacity to Protect Taiwan from China,"
+Bulletin of the Atomic Scientists
+78, no. 2 (2022): 65–72.
+148
+Beckley, “The Emerging Military Balance in East Asia.”
+149
+Eugene Gholz, Benjamin Friedman, and Enea Gjoza, “Defensive Defense: A Better Way to Protect US Allies in Asia,”
+Washington Quarterly
+42, no. 4 (2019): 171–89.
+150
+Joshua Rovner, “A Long War in the East: Doctrine, Diplomacy, and the Prospects for a Protracted Sino-American Conflict,”
+Diplomacy & Statecraft
+29, no. 1 (2018): 129–42; Greitens, “Pathways for Protraction.”
+151
+At the suggestion of an anonymous reviewer, I have reviewed prominent open-source war games for a Taiwan invasion. The Center for a New American Security finds that within the first week, “both Red and Blue had expended large portions of their inventories of precision long-range missiles, lost many fighter aircraft, and needed to resupply and rearm forces under attack.” A game conducted by the Saskakawa Peace Foundation tallied US losses at 19 ships and 400 warplanes, the Japan Self-Defense Forces losses at 15 ships and 144 warplanes, and China at 156 warships and 168 warplanes; see https://www.taipeitimes.com/News/taiwan/archives/2023/02/25/2003795010.
+152
+Mark F. Cancian, Matthew Cancian, and Eric Heginbotham, “The First Battle of the Next War: Wargaming a Chinese Invasion of Taiwan,” Center for Strategic & International Studies, January 2023. For a review of the results of other publicly available wargame results, see Robert Kitchen, “Red Dragon Rising? Insights from a Decade of China Conflict Studies and Wargames,” Center for International Maritime Security, February 28, 2024. The Secretary of the Navy recently noted that China has thirteen naval shipyards (and the world’s largest commercial shipbuilding capacity), at least one of which has more capacity than all of the United States’ combined. See https://www.cnn.com/2023/02/22/asia/us-navy-chief-china-pla-advantages-intl-hnk-ml/index.html.
+153
+Rachel Metz and Erik Sand, “Defending Taiwan: But . . . What Are the Costs?,”
+The Washington Quarterly
+46, no. 4 (2023): 65–81. This must be factored into justifying the defense of Taiwan by the effect it has on regional allies because capability is the most important part of credibility. See Brian Blankenship and Erik Lin-Greenberg. “Trivial Tripwires?: Military Capabilities and Alliance Reassurance,”
+Security Studies
+31, no. 1 (2022): 92–117.
+154
+Cancian et al., “The First Battle of the Next War.”
+155
+Ely Ratner, “Testimony on The US Partnership with Taiwan,” Senate Foreign Relations Committee, 117th Cong., December 8, 2021, 1; John C. Aquilino, “Testimony,” Senate Armed Services Committee, 117th Cong., March 10, 2022.
+156
+Rachel Esplin Odell et al., “Active Denial: A Roadmap to a More Effective, Stabilizing, and Sustainable US Defense Strategy in Asia,”
+Quincy Paper
+8 (June 2022).
+157
+James D. Morrow, “Alliances and Asymmetry: An Alternative to the Capability Aggregation Model of Alliances,”
+American Journal of Political Science
+35, no. 4 (1991): 904–33; J. D. Caverley, "AUKUS: When Naval Procurement Sets Grand Strategy;"
+International Journal
+78, no. 3 (2023): 327–34.
+158
+William S. Murray, “Revisiting Taiwan’s Defense Strategy,”
+Naval War College Review
+61, no. 3 (Summer 2008); James Timble and James O. Ellis Jr., “A Large Number of Small Things: A Porcupine Strategy for Taiwan,”
+Texas National Security Review
+5, no. 1 (Winter 2021/2022): 84–93.
+159
+https://www.washingtonpost.com/opinions/2024/06/10/taiwan-china-hellscape-military-plan/.
+160
+Odell et al.,
+Active Denial,
+61–62
+.
+161
+Mike Sweeney, “Challenges to Chinese Blue Water Operations,”
+Defense Priorities,
+April 30, 2024.
+162
+Iskander Rehman, “Planning for Protraction: A Historically Informed Approach to Great-Power War and Sino-US Competition,”
+Adelphi Book Series,
+November 2023.
+163
+Thomas H. Shugart III, “
+Trends, Timelines, and Uncertainty: An Assessment of the State of Cross-Strait Deterrence
+,” Hearing on Deterring PRC Aggression Toward Taiwan, US-China Economic and Security Review Committee, February 18, 2021. Caverley and Dombrowksi, “Cruising.”
+164
+Odell et al.,
+Active Denial,
+70, citing John J. Mearsheimer,
+Conventional Deterrence
+(Cornell University Press, 1983); Karl P. Mueller, “Conventional Deterrence Redux: And Avoiding Great Power Conflict in the 21st Century,”
+Strategic Studies Quarterly
+12, no. 4 (Winter 2018).
+165
+Evan Braden Montgomery, “Primacy and Punishment: US Grand Strategy, Maritime Power, and Military Options to Manage Decline,”
+Security Studies
+29, no. 4 (2020): 769–96.
+166
+Fiona S. Cunningham, “The Maritime Rung on the Escalation Ladder: Naval Blockades in a US-China Conflict,”
+Security Studies
+29, no. 4 (2020): 730–68.
+167
+Joshua M. Epstein, “Horizontal Escalation: Sour Notes of a Recurrent Theme,”
+International Security
+8, no. 3 (Winter 1983–1984): 19–31; Beckley, “The Emerging Military Balance in East Asia,” 118.
+168
+Abigail Post, “Flying to Fail: Costly Signals and Air Power in Crisis Bargaining.”
+Journal of Conflict Resolution
+63, no. 4 (2019): 869–95.
+169
+James Cable,
+Gunboat Diplomacy 1919–1991: Political Applications of Limited Naval Force
+, Studies in International Security (IISS, 1994). For post–Cold War analysis, see Kevin Rowlands,
+Naval Diplomacy in 21st Century: A Model for the Post-Cold War Global Order
+(Routledge, 2019).
+170
+Joel Wuthnow, “System Overload: Can China’s Military Be Distracted in a War over Taiwan?”
+China Strategic Perspectives
+15 (National Defense University Press, June 2020).
+171
+Robert Kaplan,
+The Revenge of Geography: What the Map Tells Us About Coming Conflicts and the Battle Against Fate
+(Random House, 2013), 218.
+172
+Iskander Rehman, “Why Taiwan Matters: A Small Island of Great Importance,”
+The National Interest,
+February 28, 2014.
+173
+Ivan Kanapathy, “Countering China’s Use of Force,” in
+The Boiling Moat: Urgent Steps to Defend Taiwan,
+ed. Matt Pottinger (Hoover Institution Press, 2024).
+174
+Odell et al.,
+Active Denial
+, 61.
+175
+Mancur Olson and Richard Zeckhauser, “An Economic Theory of Alliances,”
+The Review of Economics and Statistics
+48, no. 3 (1966): 266–79, https://doi.org/10.2307/1927082; Brian Blankenship, “The Price of Protection: Explaining Success and Failure of US Alliance Burden-Sharing Pressure,”
+Security Studies
+30, no. 5 (2021): 691–724, https://doi.org/10.1080/09636412.2021.2018624; Yukari Iwanami, "Asymmetric Burden-Sharing and the Restraining and Deterrence Effects of Alliances,"
+Journal of Peace Research
+61, no. 5 (2023), https://doi.org/10.1177/00223433231158146.
+Jonathan D. Caverley
+Jonathan D. Caverley
+Read more about author Jonathan D. Caverley
+Read More
+Related Articles
+Psychological Biases in the Era of Nuclear Weapons and AI
+Psychological Biases in the Era of Nuclear Weapons and AI
+horns of a dilemma
+Podcast
+Spring 2026
+Rose McDermott
+,
+Sheena Chestnut Greitens
+,
+Ryan Vest
+Rose McDermott explains how common judgment biases can undermine nuclear deterrence and strategic stability, especially under time pressure and with emerging technologies like AI, using Kahneman’s Type 1 (fast, intuitive) and Type 2 (slow, analytic) thinking…
+Understanding Schelling’s Nuclear Paradigms with Francis J. Gavin
+Understanding Schelling’s Nuclear Paradigms with Francis J. Gavin
+horns of a dilemma
+Podcast
+Spring 2026
+Francis J. Gavin
+,
+Sheena Chestnut Greitens
+,
+Ryan Vest
+Francis J. Gavin explains why Thomas Schelling remains foundational to nuclear strategy despite being an economist, and argues that “strategic stability” is often invoked without clear definition. He highlights tensions between mutual vulnerability and US…
+Strategic Stability in a Rapidly Changing World
+Strategic Stability in a Rapidly Changing World
+horns of a dilemma
+Podcast
+Spring 2026
+Harold Trinkunas
+,
+Sheena Chestnut Greitens
+,
+Ryan Vest
+Harold Trinkunas previews our special issue on strategic stability by explaining how Cold War deterrence assumptions rooted in a bilateral US–Soviet relationship no longer hold amid more nuclear-armed actors, wider access to AI, cyber, hypersonics, and the…
+Top
+×
+Stay in the know
+Sign up to the TNSR newsletter:
+Join

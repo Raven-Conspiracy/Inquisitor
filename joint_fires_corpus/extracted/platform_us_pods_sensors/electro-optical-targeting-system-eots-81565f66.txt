@@ -1,0 +1,17 @@
+An electro-optical targeting system (EOTS), is a system employed to track and locate targets in aerial warfare. It can use charge-coupled device, TV cameras, laser rangefinders and laser designators.
+EOTS technology is designed for day and night operations, features stabilized lines of sight and automatic target tracking allowing operators to engage targets with high accuracy. They can be deployed on platforms such as aircraft, armored vehicles, or naval systems, providing extended-range detection of ground and aerial threats.
+
+
+== See also ==
+Forward-looking infrared
+Infrared search and track
+AGGÖZ Gimbal 275
+
+
+== References ==
+
+
+== External links ==
+ 
+Oem Electro Optic System
+F-35 Electro Optical Targeting System

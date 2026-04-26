@@ -1,0 +1,1658 @@
+Jan 2022 
+ 
+ 
+ 
+ 
+In Their Own Words: 
+ 
+Science of Military Strategy 
+2020
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Printed in the United States of America 
+by the China Aerospace Studies Institute 
+ 
+ISBN 9798405077628 
+ 
+To request additional copies, please direct inquiries to  
+Director, China Aerospace Studies Institute,  
+Air University, 55 Lemay Plaza, Montgomery, AL 36112 
+ 
+All photos licensed under the Creative Commons Attribution-Share Alike 4.0 
+International license, or under the Fair Use Doctrine under Section 107 of the Copyright 
+Act for nonprofit educational and noncommercial use.  
+All other graphics created by or for China Aerospace Studies Institute 
+ 
+E-mail: Director@CASI-Research.ORG 
+Web: http://www.airuniversity.af.mil/CASI  
+https://twitter.com/CASI_Research  @CASI_Research 
+https://www.facebook.com/CASI.Research.Org  
+https://www.linkedin.com/company/11049011  
+ 
+Disclaimer 
+The views expressed in this academic research paper are those of the authors and do not 
+necessarily reflect the official policy or position of the U.S. Government or the 
+Department of Defense. In accordance with Air Force Instruction 51-303, Intellectual 
+Property, Patents, Patent Related Matters, Trademarks and Copyrights; this work is the 
+property of the US Government. 
+ 
+Limited Print and Electronic Distribution Rights 
+Reproduction and printing is subject to the Copyright Act of 1976 and applicable treaties 
+of the United States.  This document and trademark(s) contained herein are protected by 
+law. This publication is provided for noncommercial use only. Unauthorized posting of 
+this publication online is prohibited. Permission is given to duplicate this document for 
+personal, academic, or governmental use only, as long as it is unaltered and complete 
+however, it is requested that reproductions credit the author and China Aerospace Studies 
+Institute (CASI). Permission is required from the China Aerospace Studies Institute to 
+reproduce, or reuse in another form, any of its research documents for commercial use. 
+For information on reprint and linking permissions, please contact the China Aerospace 
+Studies Institute. 
+ 
+Cleared for Public Release, Distribution unlimited.
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+China Aerospace Studies Institute 
+ 
+ 
+CASI's mission is to advance understanding of the capabilities, development, 
+operating concepts, strategy, doctrine, personnel, organization, and limitations of China's 
+aerospace forces, which include: the PLA Air Force (PLAAF); PLA Naval Aviation 
+(PLAN Aviation); PLA Rocket Force (PLARF); PLA Army (PLAA) Aviation; the PLA 
+Strategic Support Force (PLASSF), and the civilian and commercial infrastructure that 
+supports the above. 
+CASI supports the Secretary, Chief of Staff of the Air Force, the Chief of Space 
+Operations, and other senior Air and Space leaders.  CASI provides expert research and 
+analysis supporting decision and policy makers in the Department of Defense and across 
+the U.S. government.  CASI can support the full range of units and organizations across 
+the USAF, USSF, and the DoD. CASI accomplishes its mission through conducting the 
+following activities:   
+▪ 
+CASI primarily conducts open-source native-language research supporting its five 
+main topic areas.  
+▪ 
+CASI conducts conferences, workshops, roundtables, subject matter expert panels, and 
+senior leader discussions to further its mission.  CASI personnel attend such events, 
+government, academic, and public, in support of its research and outreach efforts. 
+▪ 
+CASI publishes research findings and papers, journal articles, monographs, and edited 
+volumes for both public and government-only distribution as appropriate.  
+▪ 
+CASI establishes and maintains institutional relationships with organizations and 
+institutions in the PLA, the PRC writ large, and with partners and allies involved in the 
+region. 
+▪ 
+CASI maintains the ability to support senior leaders and policy decision makers across 
+the full spectrum of topics and projects at all levels, related to Chinese aerospace. 
+ 
+CASI supports the U.S. Defense Department and the China research community writ-
+large by providing high quality, unclassified research on Chinese aerospace 
+developments in the context of U.S. strategic imperatives in the Asia-Pacific region. 
+Primarily focused on China’s Military Air, Space, and Missile Forces, CASI capitalizes 
+on publicly available native language resources to gain insights as to how the Chinese 
+speak to and among one another on these topics.
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+In Their Own Words 
+ 
+The “In Their Own Words” series is dedicated to translations of Chinese 
+documents in order to help non-Mandarin speaking audiences access and understand 
+Chinese thinking. CASI would like to thank all of those involved in this effort.  
+In the “In Their Own Words” series, CASI and its collaborators aim to provide 
+Chinese texts that illustrate thoughtful, clearly articulated, authoritative foreign 
+perspectives on approaches to warfare at the strategic, operational, and tactical levels.  
+ 
+ 
+ 
+ 
+ 
+ 
+This particular translation was done through the automated CASI translation 
+engine.  While we tried to ensure that this is an accurate and readable translation, we expect 
+there to be inconsistencies and errors. We welcome any feedback as we work to improve 
+the machine assisted translation process. 
+ 
+ 
+We would also like to thank Samantha Payne, Josh Baughman, and the team at 
+BluePath Labs for their work cleaning up the translation to make sure it was as smooth as 
+possible.  Their hard work paid off. 
+ 
+ 
+ 
+ 
+The translation and publication of the Science of Military Strategy 2020 does not constitute 
+approval by any U.S. Government organization of the contents, inferences, findings and 
+conclusions contained therein. Publication is solely for the exchange and stimulation of 
+ideas.
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+National Key Discipline Theory Works of National Defense University 
+GUOFANGDAXUE 
+GUOJIAZHONGDIANXUEKE LILUNZHUZUO 
+ZHANLUEXUE 
+ 
+ 
+The Science of 
+Military Strategy 
+(Revised in 2020) 
+Zkey positionIAN 
+Xiao Tianliang 
+FUZkey positionIAN 
+Lou Yaoliang 
+Kang Wuchao 
+Cai Renzhao 
+Guofangdaxue Ckey positionanshe  
+ 
+Editor-in-Chief Xiao Tianliang  
+Associate Editor Lou Yaoliang Wuchao Cai Renzhao 
+Guofangdaxue 
+Guojiazhongdianxueke Lilunzhuzuo 
+Zhanluexue 
+ 
+ 
+ 
+ 
+National Defense University Press
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Editor-in-Chief Introduction 
+Xiao Tianliang, vice president of National Defense University, rank of lieutenant general, doctor of military 
+science, professor, doctoral tutor, academic leader of military strategy discipline, collective study guide of 
+the Political Bureau of the CPC Central Committee. Graduated from Zhengzhou Antiaircraft Artillery 
+Academy and National Defense University successively, served as acting platoon commander and company 
+commander of a certain army group army, director of the Military Strategy Teaching and Research Office of 
+the Strategic Teaching and Research Department of the National Defense University, acting deputy 
+commander of a destroyer detachment of the Navy, acting deputy chief of staff of the South China Sea 
+Fleet, National Defense Deputy Director and Director of University Strategy Teaching and Research 
+Department. He has been engaged in the teaching and research of China's military strategy for a long time, 
+and has successively published monographs such as "Science Technology and Future Military Strategy,” 
+"Research on War Control Issues,” "Non-War Use of Military Forces,” and participated in the editor-in-chief 
+of "Contemporary China's Military Strategy" and "Military Strategy Theory" "New China's Military Diplomacy,” 
+"Strategy" and other works. He was invited to study at Georgetown University in Washington, USA, and 
+gave lectures in Japan, Zambia, Tunisia, and other countries. He has successively won the Second Prize of 
+National Teaching Achievement Award, First Prize of Military Teaching Achievement Award, Military Talent 
+Education Award, Military Science and Technology Progress Award, PLA Book Award, National Defense 
+University Quality Class Award, National Defense University Liu Bocheng Research Achievement Award, 
+and was selected for the Ministry of Education’s New Century Excellent Talent Support Program.
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+ 
+Science of 
+Military  
+Strategy 
+(Revised in 2020) 
+Xiao Tianliang 
+Deputy Editor, Lou Yaoliang 
+Kang Wuchao 
+Cai Renzhao 
+ 
+ 
+National Defense University Press 
+Beijing
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+ 
+Book Cataloging in Publication (CIP) Data Strategy; edited by Xiao Tianliang. Beijing: National 
+Defense University Press. 
+2015.4 
+ISBN978-7-5626-2253-6 
+I. (1) War...II.(1) Xiao...III.(1) Military strategy--Strategy 
+Ⅳ. (1) E8l 
+Chinese Version Library CIP Data Core Word (2014) No. 232227 
+Strategic Science Xiao Tianliang Editor-in-Chief 
+Publishing and distribution; National Defense University Press  
+Address: No. 3, Hongshankou, Haidian District, Beijing Postcode: 100091  
+Tel: Distribution Department 010-55479710  
+Chief Editor Room 010-55479705  
+Responsible Editor: Huang Jianguo  
+Responsible proofreading: Deng Yanfang  
+Cover design; Zheng Chunlong 
+Typographic open printing plate 
+Sales: Xinhua Bookstore  
+Edition: Beijing Lianzhong Hengchuang Culture Co., Ltd.  
+Brush: Beijing Futai Printing Co., Ltd.  
+Original: 787 mm x 1092 mm 1/16  
+Sheets: 28.75  
+Number: 372  
+Print Number: 20001-23000  
+Volume: April 2015 First edition May 2017 revision 
+Revised in August 2020 2nd printing in September 2020 
+Price: 60.00 Yuan
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+ 
+ 
+ 
+Contents 
+ 
+ 
+Part I 
+Introduction 
+1 
+ 
+Chapter 1 Introduction to Strategy 
+12 
+Section 1 The Meaning and Constituent Elements of the Strategy  
+12 
+Section 2 The Classification and System of the Strategy 
+18 
+Section 3 The Basic Characteristics of the Strategy 
+21 
+Section 4 The Influencing Factors of the Strategy 
+24 
+Section 5 Strategic Thinking of Contemporary China 
+28 
+Chapter 2 Strategic Judgment 
+39 
+Section 1 Strategic Judgment Introduction 
+40 
+Section 2 Requirements for Strategic Judgment 
+47 
+ 
+Chapter 3 Strategic Decision 
+53 
+Section 1 The Main Features of Strategic Decision-making 
+53 
+Section 2 The Main Content of Strategic Decision-making 
+57 
+Section 3 Basic Requirements of Strategic Decision-making 
+62 
+ 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+Chapter 4 Strategic Planning 
+66 
+Section 1 The Meaning, Types and Functions of Strategic Planning 
+66 
+Section 2 Contents, Procedures and Requirements of Strategic Planning 
+70 
+ 
+Chapter 5 Strategy Implementation 
+76 
+Section 1 Strategic Implementation Introduction 
+76 
+Section 2 Principles of Strategy Implementation 
+89 
+ 
+Chapter 6 Strategic Evaluation 
+95 
+Section 1 The Meaning and Role of Strategic Assessment 
+95 
+Section 2 The Content of Strategic Assessment 
+97 
+Section 3 Procedures and Methods of Strategic Assessment 
+100 
+ 
+ 
+Part II 
+ 
+Chapter 7 Prevention and Handling of Military Crisis 
+111 
+Section 1 The Connotation and Characteristics of Military crises 
+111 
+Section 2 The Prevention of Military Crises 
+115 
+Section 3 Handling of Military Crisis 
+118 
+ 
+Chapter 8 Strategic Deterrence 
+126 
+Section 1 Basic Concepts of Strategic Deterrence 
+126 
+Section 2 China’s Strategic Deterrence Thought 
+132 
+Section 3 Methods of Strategic Deterrence 
+135 
+Section 4 Guidance of Strategic Deterrence 
+138 
+ 
+Chapter 9 Military conflict in New Domains 
+142 
+Section 1 Military Conflict in Space  
+142 
+Section 2 Military Conflict in Cyberspace 
+148 
+Section 3 Military Conflict in the Deep-Sea Domain 
+155 
+Section 4 Military Conflict in the Polar Domain 
+162 
+ 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+ 
+Contents 
+Section 5 Military Conflict in the Biological Domain 
+167 
+Section 6 Military Conflict in the Intelligent Domain 
+174 
+ 
+Chapter 10 War Planning 
+181 
+Section 1 Characteristics of War 
+181 
+Section 2 War Determination 
+188 
+Section 3 War Operation Design 
+193 
+Section 4 Constructing Strategic Deployment 
+195 
+Section 5 Organization Strategic Coordination 
+199 
+Section 6 Making Overall Strategic Guarantees 
+203 
+Section 7 Implementing War Mobilization 
+208 
+Section 8 Planning for Political Work 
+212 
+ 
+Chapter 11 War Operation 
+217 
+Section 1 Strategic Reconnaissance and Strategic Early Warning 
+217 
+Section 2 Strategic Projection and Strategic Deployment 
+219 
+Section 3 Strategic Assault Section 
+224 
+Section 4 Strategic Counter Air Attack 
+226 
+Section 5 Strategic Blockade Section 
+228 
+Section 6 Border Defense 
+230 
+Section 7 Island Operations 
+231 
+Section 8 Sea Mobile Operations 
+233 
+Section 9 Cyber Electromagnetic Space Warfare 
+234 
+Section 10 Public Opinion Jurisprudence Struggle and Psychological 
+Offense and Defense 
+240 
+ 
+Chapter 12 Battle Situation Control 
+245 
+Section 1 Definitions and Characteristics of Battle Situation Control 
+245 
+Section 2 Principles of Battle Situation Control 
+248 
+Section 3 Controlling the Opening of the War 
+250 
+Section 4 Controlling the Development of Battle Situations 
+254 
+ 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+Section 5 Controlling the End of War 
+257 
+ 
+Chapter 13 Operational Guidance 
+262 
+Section 1 Basic Operational Thoughts 
+262 
+Section 2 Operational Guiding Principles 
+274 
+Section 3 Art of Operational Guidance 
+281 
+ 
+Chapter 14 Non-War Military Operations 
+289 
+Section 1 Main styles of Non-war Military Operations 
+290 
+Section 2 Basic Characteristics of Non-war Military Operations 
+297 
+Section 3 Strategic Guidance for Non-war Military Operations 
+302 
+ 
+Chapter 15 Overseas Use of Military Forces 
+312 
+Section 1 The Strategic Significance of the Overseas use of Military 
+Power 
+312 
+Section 2 The Main Features of the Overseas Use of Military Power 
+316 
+Section 3 The Strategic Guidance for the Overseas Use of Military 
+Power 
+320 
+ 
+Part III 
+Chapter 16 Strategic Guidance for Military Force Construction and 
+Development 
+328 
+Section 1 Basic Law of Military Power Construction and Development 
+328 
+Section 2 Military Force Construction and Development under New Era 
+Conditions 
+335 
+Section 3 Building a New Military Power System 
+344 
+ 
+Chapter 17 Army Construction and Development 
+349 
+Section 1 Army Construction and Development Trend 
+349 
+Section 2 Army Capability Requirements under New Era Conditions 
+353 
+Section 3 Main Measures for Army Construction and Development 
+355 
+ 
+Chapter 18 Navy Construction and Development 
+358 
+Section 1 Naval Construction and Development Trend 
+358 
+ 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Contents 
+ 
+Section 2 Naval Capability Requirements Under New Era Conditions 
+362 
+Section 3 Main Measures for Naval Construction and Development 
+365 
+ 
+Chapter 19 Air Force Construction and Development 
+370 
+Section 1 Air Force Construction and Development Trends 
+370 
+Section 2 Air Force Capability Requirements under New Era Conditions 
+374 
+Section 3 Main Measures for Air Force Construction and Development 
+378 
+ 
+Chapter 20 Rocket Force Construction and Development 
+381 
+Section 1 Rocket Force Construction and Development Trend 
+381 
+Section 2 Rocket Force Capability Requirements under New Era Conditions 
+384 
+Section 3 Main Measures for Rocket Force Construction and Development 
+386 
+ 
+Chapter 21: Military Space Force Construction and Development 
+391 
+Section 1 Military Space Force Construction and Development Trend 
+391 
+Section 2 Military Space Capability Requirements Under New Era Conditions 
+397 
+Section 3 Main Measures for the Construction and Development of Military 
+Space Forces 
+399 
+ 
+Chapter 22: Construction and Development of Cyberspace Forces 
+402 
+Section 1 Cyberspace Power Construction and Development Trends 
+402 
+Section 2 Cyberspace Capability Requirements Under the New Era Conditions 
+405 
+Section 3 Main Measures for the Construction and Development of 
+Cyberspace Forces 
+407 
+ 
+Chapter 23: Construction and Development of Joint Logistics Support 
+Forces 
+413 
+Section 1 Joint Logistics Support Force Construction and Development Trend 
+413 
+Section 2 Joint Logistics Support Force Capability Requirements Under the 
+New Era Conditions 
+415 
+Section 3 Major Measures for the Construction and Development of Joint 
+Logistics Support Forces 
+419 
+ 
+Chapter 24 Construction and Development of Armed Police Forces 
+423 
+Section 1 The Construction and Development Trend of the Armed Police 
+Forces 
+423 
+Section 2 The Capability Requirements of the Armed Police Forces under the 
+New Era Conditions 
+437 
+Section 3 Main Measures for the Construction and Development of the 
+Armed Police Forces 
+432
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Chapter 25 Construction and Development of Reserve Forces 
+436 
+Section 1 Reserve Force Construction and Development Trends  
+436 
+Section 2 Reserve Force Capability Requirements under New Era 
+Conditions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+440 
+Section 3 Main Measures for Reserve Force Construction and Development 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+445 
+Postscript  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+451 
+ 
+ 
+Strategy ZHANLUEXUE 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+ 
+Introduction 
+The science of strategy is a theoretical system about strategy and a discipline that studies the overall 
+guiding laws for the use and construction of military forces. Its main task is to reveal the essence, 
+characteristics, and basic principles of strategy, to study the guiding laws of military conflict and army 
+building as a whole, and to provide systematic and scientific theoretical guidance for the formulation and 
+implementation of strategy. Strategy has developed with the development of military practice, especially 
+strategic practice, and is closely related to the development of disciplines in various fields such as politics, 
+economy, diplomacy, science and technology, culture, and geography. Different countries and armies have 
+different strategic theoretical systems under different historical conditions. 
+1. The emergence and development of strategy 
+The science of strategy originated from the practice of military conflicts in human society, especially the 
+guidance of war, and developed with the deepening of human understanding of the rules governing the use 
+and construction of military forces. In the long historical process, both the East and the West have produced 
+a large number of military theories containing rich strategic thoughts, and they have mutually influenced 
+each other on the basis of relatively independent development, and gradually formed a relatively complete 
+and distinctive strategic theory system. 
+(1) The emergence and development of strategy in China 
+In ancient China, there were frequent wars. War directors continued to summarize the practical experience 
+of war and rose to a rational understanding, resulting in a large number of military writings, some of which 
+involved strategic content, and some directly discussed strategic issues. The more famous ones are "The 
+Art of War of Sun Tzu,” "The Art of War of Wu Zi,” "The Art of War of Sun Bin,” "The Art of Sima,” "Wei Liao 
+Zi,” "Six Taoism,” "The Three Strategies of Huangshi Gong,” "Tang Li Wen Dui" and "Wu Jing Zong Yao,” 
+and many more. 
+page 1 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+Among them, "The Art of War by Sun Tzu" is an outstanding representative and the earliest and most 
+influential strategic theory work in the world. Its strategic ideas such as the "security army,” "scheming 
+against diplomats,” "bearing soldiers without fighting,” "knowing the enemy and confidant, and never dying in 
+a hundred battles,” have maintained their immortal vitality to this day. Therefore, "The Art of War by Sun 
+Tzu" is called the originator of military science, and Sun Tzu is also called the master of strategy. The 
+leading position of ancient China in strategic research is recognized by the world. After entering modern 
+times, the development of China's strategic theories has been relatively slow and there are few theoretical 
+works. At the beginning of the 20th century, Clausewitz's "On War,” Jomini's "Introduction to the Art of War" 
+and other Western strategic masterpieces gradually spread to China, which had a greater impact on China's 
+modern strategic theories. 
+In the process of establishing the theory of proletarian revolution, the classic Marxist writers made scientific 
+expositions on a series of fundamental issues such as war and revolution, strategic guidance, and army 
+building. They created the Marxist strategic theory and promoted the epoch-making development of the 
+world strategic theory. It also laid a solid foundation for the creation and development of the strategic theory 
+of China's revolutionary war. The Chinese Communists represented by Mao Zedong, in leading the Chinese 
+people to carry out the magnificent revolutionary war practice, guided by Marxist military theory, closely 
+integrated the reality of the Chinese revolutionary war, absorbed the essence of useful strategic theories 
+from ancient and modern China and foreign countries, and formed unique characteristics. The strategic 
+theory of the Chinese Revolutionary War. His representative works include Mao Zedong's "Strategic Issues 
+in the Chinese Revolutionary War,” "Strategic Issues in the Guerrilla War against Japan,” "On Protracted 
+Warfare,” "War and Strategic Issues" and other military treatises. These works solved the major strategic 
+issues in the Chinese Revolutionary War and the War of Resistance against Aggression, systematically 
+expounded the strategic guiding principles of the Chinese Revolutionary War and the War of Resistance 
+against Japan, formed a complete strategic theory system, and advanced China's strategic research to a 
+new stage. This strategic theoretical system has been further enriched and developed in the practice of 
+military conflict after the founding of the People’s Republic of China. 
+After the founding of the People’s Republic of China, with the continuous development of national defense 
+construction and military conflict practice, our military has paid close attention to the development of world 
+strategic theories. Starting from the actual military conflicts of defending national security, defending 
+territorial sovereignty, and safeguarding the unity of the motherland, it has actively studied and explored new 
+ideas. Under the historical conditions, the characteristics and laws of national defense construction and 
+military conflicts, strategic theories continue to innovate and develop, and the strategic theoretical system is 
+improving day by day. 
+page 2 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Introduction 
+After the Third Plenary Session of the Eleventh Central Committee of the Communist Party of China, guided 
+by the ideological line of emancipating the mind and seeking truth from facts, China's strategic theory 
+research has seen unprecedented prosperity. Especially after the strategic transformation of the guiding 
+ideology for national defense and army building in the mid-1980s, many strategic monographs have been 
+published, mainly including the "Strategy Course" of the Military Academy, the "Strategy" of the Academy of 
+Military Sciences, and the National Defense University. "Introduction to Military Strategy" etc. After the end 
+of the Cold War, the international strategic situation has undergone profound changes. New military changes 
+in the world have flourished, and the form of warfare has accelerated. Our military adjusted its military 
+strategy in a timely manner, established a military strategic policy for the new period, and strengthened its 
+response to local wars and military forces under high-tech conditions. A number of new strategic theoretical 
+results have been achieved in the study of modernization issues. Marked by "Strategy" published by the 
+National Defense University in 1999 and "Strategy" published by the Academy of Military Sciences in 2001, 
+China's strategic research has developed to a new historical stage. 
+After entering the 21st century, in the face of new strategic situations, new forms of war, and new historical 
+missions, the Central Military Commission has enriched and improved the military strategic guidelines for the 
+new period. Our military has won the local war under the new era conditions as the core, focusing on the 
+new situation and new characteristics, and systematically studied the overall issue of the use and 
+construction of military forces. After the 18th National Congress of the Communist Party of China, with the 
+in-depth development of reform and opening-up and economic globalization, national interests continue to 
+expand overseas and new spaces, and security issues in the ocean, space, network, electromagnetic and 
+other fields have become increasingly prominent. The country is still both facing severe traditional security 
+threats and the increasing non-traditional security threats, especially the threats from the maritime direction 
+have increased significantly, which has become the focus of military strategic guidance. Our army has 
+formulated a military strategic policy under the new situation at the right time, and provided strong guidance 
+for the construction and use of military forces under the new situation. Our military theorists have made new 
+explorations and summaries on a series of major military strategic issues. The Academy of Military Sciences 
+and the National Defense University have successively compiled new editions of "Strategy." The 19th 
+National Congress of the Communist Party of China clearly put forward Xi Jinping's thought of strengthening 
+the army. Subsequently, the Central Military Commission established the military strategy for the new era, 
+and clearly regarded Xi Jinping's military strategy as the fundamental guiding ideology of military strategy in 
+the new era, in order to achieve the party's goal of strengthening the army in the new era. Building a world-
+class army and winning informatized wars provide scientific guidelines and fundamental follow-ups. 
+page 3 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+(2) The emergence and development of strategy in the West 
+The development of ancient Western strategic theories is relatively lagging behind China. There is no classic 
+military theory writing like Sun Tzu's Art of War. The main strategic ideas are scattered in some military 
+historical works. For example, in the 5th century BC, the Greek historian Herodotus's History of the Greek-
+Persian War, Thucydides's History of the Peloponnesian War, and the Athens historian Xenophon's The 
+History of Greece and Anabasis,” Ancient Roman commander and military strategist Caesar's "Gaul Wars,” 
+"Civil Wars" and so on. Entering the Middle Ages, the development of Western military science was slower. 
+As Engels pointed out, "the entire Middle Ages was a fruitless era in terms of tactical development, as in 
+other scientific aspects."[1] Strategy is no exception. 
+After the 16th century, with the rise of capitalism, Western strategic research has been greatly developed. In 
+the first half of the 19th century, Clausewitz of Prussia and Jomini of Switzerland summed up the experience 
+of the Napoleonic Wars and other wars in Europe at that time, and respectively published the classic 
+strategic works ”War Theory'' and ”Introduction to the Art of War'', which became modern an important 
+milestone in the development of strategic theory. From the beginning of the 19th century to the Second 
+World War, with the widespread use of warships, tanks, aircraft, missiles and other weapons and equipment, 
+the form of war has undergone major changes. Western strategic thinking is very active, and some typical 
+characteristics of mechanized warfare have appeared one after another. Its strategic works mainly include 
+Mahan's "The Impact of Sea Power on History (1660-1783),” Douhet of Italy's "Air Domination,” and Fuller's 
+"Mechanized Warfare" by Fuller, Germany, and Ludendorff's "Total Warfare,” etc, which have had a 
+significant impact on the development of modern Western strategic theories. 
+In the two world wars, the scale of the war was huge, the battlefield space was vast, the combat styles were 
+various, and the strategic influence was far-reaching. The summary and reflection on the practice of the two 
+wars further promoted the development of Western strategic theory. After the Second World War, with the 
+rapid development of nuclear technology, aerospace technology, precision guidance technology, and 
+information technology and its wide application in the military field, historical breakthroughs have been made 
+in the level and effectiveness of weaponry and military combat methods and styles. Significant changes 
+have taken place, which has greatly promoted the innovation and development of strategic theories. Some 
+new strategic theories, such as limited war theory, nuclear war and nuclear deterrence theory, high frontier 
+theory, air-to-ground integrated warfare theory, arms control theory, low-intensity conflict theory, high-tech 
+war theory, etc. continue to emerge. 
+Footnotes: 
+1. "Marx and Engels Military Collection" Vol. 1, Warrior Press, 1981 edition, p. 363. 
+page 4 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Introduction 
+During this period, the most representative strategic theories in the West mainly included: Liddell Hart's 
+"Strategy,” Beaufort's "Introduction to Strategy,” and "Grand Strategy" by Collins of the United States. While 
+the military is strengthening strategic research, local scholars and non-governmental organizations have 
+begun to enter the field of strategic research and strategic consulting, such as the RAND Corporation in the 
+United States, the London Institute for International Strategic Studies in the United Kingdom, and the 
+Stockholm International Peace Research Institute in Sweden, which have become important strategies. 
+Think tanks and consulting agencies continue to put forward innovative strategic thoughts and theoretical 
+viewpoints to enrich and improve the strategic theoretical system. 
+Since the 1990s, with the further development of information technology and its extensive use in the military 
+field, the world's military reforms have advanced in depth, and the form of warfare has accelerated, and 
+information-based warfare has gradually become the basic form of warfare. Western countries led by the 
+United States have emerged in succession with a large number of new strategic theories and operational 
+concepts reflecting the characteristics of the information age, mainly including "five-ring target strikes,” "rapid 
+decisive operations,” "preemptive strikes,” "network-centric warfare,” "air-sea integrated warfare,” the third 
+offset strategy, "global rapid strike,” "global integrated operations,” "multi-domain operations,” "distributed 
+killing,” "operational clouds,” "mosaic warfare,” "strategic air and space campaigns," "hybrid warfare,” etc., 
+marking that Western strategic theory has gradually realized the transformation from mechanized war 
+strategy theory to informationized war strategy theory, and is developing to intelligent war strategy theory. 
+2. The main content of strategic research 
+As the science of studying the overall guiding law of military force utilization and construction. The main 
+content of strategic research includes the basic principles of strategy, the strategic guidance theory of 
+military force application and the strategic guidance theory of military force construction. 
+The basic principle of strategy is the basic theory that reveals the essential characteristics and operating 
+rules of strategy, which has relative stability and general guiding significance. It mainly studies the meaning, 
+composition and characteristics of strategy, the influencing factors of strategy, the main strategic thinking, 
+the basic content, requirements and methods of strategic judgment, decision-making, planning, 
+implementation, and evaluation. 
+page 5 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+The strategic guidance theory for the use of military power is an applied theory that studies the methods and 
+methods of the use of military power and reveals the overall guiding law of military conflicts. It has distinct 
+characteristics of the times. In the current and future period, information-based local war is the main form of 
+war that our country will face in the future. At the same time, non-war military operations are increasing, and 
+they have also become an important way of using military power. Therefore, military forces use strategic 
+guidance theory to mainly study the guiding laws of war and the guiding laws of non-war military operations. 
+The main research of war guidance theory: the characteristics of informatized local wars and the design and 
+planning of wars, the influence of military intelligence on the guidance of modern military warfare, the style 
+and organization of strategic operations, the thinking, principles and art of combat guidance, and the control 
+of war principles and guidance, as well as strategic guidance for military conflicts in new areas. The main 
+research on the strategic guidance theory of non-war military operations: the main styles, basic 
+characteristics and strategic guidance of non-war military operations, and the main characteristics and 
+strategic guidance of the use of military forces overseas. 
+The strategic guiding theory of military power building is an applied theory that studies the macro-design, 
+guidelines and principles of military power building and reveals the overall guiding law of military power 
+building and development. It is necessary to study the general laws of military force construction and 
+development as well as the special laws of different historical stages. In the new era, the main research is 
+the guiding principles of military force construction and development under the development of 
+mechanization, informatization and intelligent integration; army, navy, air force, rocket force, military space 
+force, cyberspace force, joint logistics support force, armed police force and reserve strength building and 
+development trends, capacity requirements and main measures, etc. 
+3. The basic trend of the development of strategy 
+Strategy is an open theoretical system, which develops with the development of social changes and military 
+practice. Under the conditions of the new era, extensive and profound changes are taking place in politics, 
+economy, military, science and technology, culture, etc. The development of strategy will present the 
+following main trends. 
+(1) The space and field of strategic research continue to expand 
+In order to provide scientific guidance for military practice, strategic research must pay close attention to the 
+development and trend of military practice. Wherever the space and field of military conflict develop, the 
+tentacles of strategic research need to be extended. In the new era, the space and field of military conflict 
+continue to expand, so the space and field of strategic research attention are also expanding. 
+page 6 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Introduction 
+One is to expand overseas. With the deepening of reform and opening-up and the enhancement of 
+comprehensive national strength, China's national interests have expanded to vast areas overseas, and 
+security issues in overseas personnel and property, overseas trade, strategic resource acquisition, and 
+strategic channels have become increasingly prominent. Strategic research must pay attention to the 
+expanding national interests, answer and solve the problems of how to safeguard the country's overseas 
+interests and how to implement correct strategic guidance for overseas military operations. The second is to 
+expand into new spaces and fields. While national interests are extending overseas, they are also rapidly 
+expanding into three-dimensional and multi-dimensional space. Not only is the maritime struggle very fierce, 
+the security issues of space and network are also becoming increasingly complex, and they have become 
+the new commanding heights of military conflicts. Space strategy, cyberspace strategy and other new space 
+strategies have emerged one after another, opening up new development directions for strategic theoretical 
+research. The third is to expand into non-traditional security fields. The threats to national security are 
+becoming more and more complex and diversified. Strategic research should not only pay attention to 
+traditional political and military security issues, but also pay attention to and research information security, 
+financial security, energy security, cultural security, biosecurity, international terrorist activities, and 
+transnational issues. For non-traditional security issues such as crime, dealing with non-traditional security 
+threats has become an important subject of strategic research. The continuous expansion of the strategic 
+research space field will greatly promote the development of strategic science. 
+(2) Issues that need attention in strategic research are increasing 
+The development of military practice has continuously promoted the innovation of strategic theory. While the 
+research space and field of strategy are constantly expanding, the content of research is also constantly 
+enriched. It mainly includes the following aspects: first, the strategic issues in space, network, deep sea, 
+polar regions, biology, intelligence, and other space fields. It is necessary to continuously strengthen 
+strategic research in these new areas and formulate corresponding strategies to provide correct theoretical 
+guidance for military conflict and force building, and to expand and enrich China's military strategic system. 
+The second is the strategic planning and guidance of information warfare. China lacks the practice of 
+informatized warfare, and the strategic planning and guidance of informatized warfare is still in the 
+exploratory stage. What are the characteristics and laws of informatized local wars that China may face, how 
+to contain crises and control the war situation, and what strategic guiding ideology and operational principles 
+should be established all need to be studied in depth. The third is the strategic issues related to intelligent 
+warfare. With the further development of the military revolution, information-based warfare has become 
+increasingly mature, and has begun to show distinctive features of intelligence. It is necessary to study the 
+characteristics and laws of intelligent warfare, winning mechanisms, development trends and other major 
+issues. 
+page 7 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+The fourth is the strategic issue of non-war military operations. Non-war military operations, as an important 
+way of using military forces in peacetime, have an increasingly prominent role. However, our country’s 
+previous strategic theories paid more attention to war issues. Non-war military operations, especially 
+overseas non-war military operations, are the weak link in strategic research and must be strengthened. 
+Fifth, other new major strategic issues. Issues such as theater strategy, strategic planning, and strategic 
+evaluation are all major issues that need to be paid attention to in strategic research in the new era. 
+(3) The methods and means of strategic research continue to innovate 
+In the past strategic research, methods such as the combination of theory and practice, the combination of 
+history and reality, systematic analysis, and comparative analysis were usually used to closely link the 
+factors and various factors of strategic practice. Conditions and the whole process, comprehensively and 
+systematically analyze and study the internal relations of the emergence and development of strategic 
+theory, and reveal its basic laws. In the new era, these methods must be adhered to. At the same time, with 
+the development of high and new technology, especially computer technology, network technology, 
+simulation technology, big data, cloud computing, etc., and its wide application in the military field, the 
+methods of strategic research have undergone profound changes. New research methods and methods 
+such as virtual reality, online confrontation, and war games. They analyze and compare the various 
+elements of the strategy and the main conditions of influence through a digital system composed of 
+information technologies such as computers, networks, and databases, and conduct simulation operations, 
+"calculations" and inspections for the formulation and implementation of strategies. These new methods and 
+means not only adapt to the large amount of information, scientific and timeliness requirements of modern 
+strategic research, but also make up for the shortcomings of traditional methods of more qualitative analysis, 
+less quantitative analysis, more subjective judgments, and less testing methods. The mode of strategic 
+research has undergone a historic transformation from rational speculation to systematic argumentation. 
+With the continuous enrichment of strategic practice and the application of new concepts and new 
+technologies in the military field, the methods and means of strategic research will continue to be innovated 
+and developed. 
+(4) Strategic studies are more closely related to other disciplines 
+Strategy is the highest field of military academic research, and it is in a leading position in the entire military 
+academic research. It is closely related to military disciplines such as combat science and tactics. Under the 
+new historical conditions, the political nature of war has further increased, and tactical actions often have a 
+strategic impact. The boundaries between strategy, campaign and tactics have become blurred. The areas 
+where strategy and campaign science and even tactics meet have expanded and the relationship has. 
+page 8 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Introduction 
+become closer. The increase in the styles of military conflict and the expansion of the fields have made 
+strategic studies closely related to other disciplines of military science. Strategy has a universal guiding role 
+for these disciplines, and at the same time it constantly absorbs and utilizes the research results of these 
+disciplines. As the influence of politics, economy, science and technology, diplomacy, law, and other factors 
+on military activities has further increased, the relationship between strategy and social sciences, natural 
+sciences, and technical sciences has become increasingly close. 
+page 9 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Part I 
+To strengthen the country and the army, strategy is first. To study and research strategy, we must first clarify 
+the basic concepts, study the basic theories, and master the basic principles. This Part is the basic theory of 
+strategy, which aims to reveal the basic connotation, basic principles, and operating laws of strategy. On the 
+basis of explaining the basic issues of strategy, the five links of strategic operation are discussed in detail, 
+namely, strategic judgment, strategic decision-making, strategic planning, strategic implementation, and 
+strategic evaluation. Among them, making correct strategic judgments on the security situation facing the 
+country is the starting point for strategic operations. On the basis of strategic analysis and judgment, 
+strategic directors make strategic decisions, identify threats, distinguish between enemies and friends, clarify 
+goals and tasks, and make strategic deployments. In order to implement the various contents of the strategic 
+decision, it is necessary to formulate a strategic plan, and then pay for the implementation of the strategy, 
+and implement the content of the strategic decision and plan into all links and stages of military conflict and 
+army building. Finally, there is an evaluation of the strategic operation process. This is the complete process 
+and basic principle of strategic operation. By revealing this basic principle, this part provides theoretical 
+support for the strategic guidance on the use and construction of military forces in later chapters. 
+page 10
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+ 
+Chapter 1 Introduction to Strategy 
+The science of strategy uses strategy as a research target. The concepts, constituent elements, system 
+structure, main characteristics and influencing factors of strategy are the basic issues of strategy. 
+Section One: The Meaning and Constituent Elements of Strategy 
+What is a strategy? What are the elements of a strategy? These two basic questions are the starting point 
+for the study of strategy. 
+1. The meaning of strategy 
+Strategy is the overall planning and guidance for the use and construction of military forces. With regard to 
+the use of military power, it is necessary to plan and direct war as well as non-war military operations; it is 
+necessary to plan and guide military confrontation as well as to plan and guide military cooperation. In terms 
+of military power building, it is necessary to plan and guide the overall construction of military power, as well 
+as to plan and guide the construction of various elements and parts of military power; it is necessary to plan 
+and guide the building of the ability to win wars, but also to plan and guide the implementation of non-
+compliance. The capacity building of war and military operations must not only plan and guide the current 
+construction, but also plan and guide the long-term construction. 
+Strategy emerges in the practice of military conflict and develops with the development of the practice of 
+military conflict. As early as in ancient times, people had simple strategic awareness and strategic thinking, 
+and many military books containing rich strategic thinking appeared, with many concepts similar to "strategy” 
+such as "stratagem,” "military strategy,” "logistics,” "imperial court war plans" and "warfare plans,” but the 
+term "strategy" came into being later. 
+page 12 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Chapter One Introduction to Strategy 
+At the end of the third century AD, Sima Biao, a historian, and military strategist in the Western Jin Dynasty, 
+published a book titled "Strategy,” which was the earliest use of the term "strategy.” In the 6th century (580), 
+the Eastern Roman Emperor Maures wrote a textbook strategikon (meaning "general") for training senior 
+generals, and the English word "strategy" evolved from this. 
+After the word "strategy" appeared, its meaning was not defined for a long period of time. It was not until the 
+18th century that clear strategic definitions began to appear. The earliest definition of strategy was Prussia's 
+[Friedrich Wilhelm Freiherr von] Bülow. In the book "The Newest Tactics,” he made a clear distinction 
+between strategy and tactics for the first time. He believed: "Strategy is the science of conducting military 
+operations beyond the horizon and artillery range, and tactics are the science of conducting military 
+operations within the above-mentioned range."[1] After that, a large number of definitions of strategy 
+appeared. However, because the connotation of strategy develops along with the development of military 
+conflicts, especially the practice of warfare, coupled with the differences in subjective understanding, the 
+understanding of the connotation of strategy is not exactly the same in different periods, different countries, 
+and different scholars. Jomini believes: "Strategy is the art of conducting war on the map and the art of 
+studying the entire war zone. Tactics is the art of fighting on the spot where a conflict occurs and deploying 
+forces according to local conditions. It is the art of the use of forces at various points on the battlefield"[2] 
+Clausewitz put forward: "Tactics is the use of the army's knowledge in combat, and strategy is the use of 
+combat knowledge for the purpose of war."[3] Helmuth von Moltke the Elder believes that strategy is "the 
+actual use of the tools in one’s hands by a commander in order to achieve the purpose given to him." ".[4] 
+Liddell Hart pointed out: "Strategy is the art of allocating and using military tools to achieve political goals."[5] 
+The "American Military Dictionary" states that "Military strategy is the use of a country's armed forces, an art 
+and science of, through the use  
+Footnotes: 
+1. The Strategic Research Department of the Academy of Military Sciences: "Summary of War and Strategic 
+Theories,” Military Science Press, 1989 edition, p. 466. 
+2. [Switzerland] Jomini: "An Introduction to the Art of War,” People's Liberation Army Publishing House, 
+1986 edition, p. 87. 
+3. [Germany] Clausewitz: "On War,” Commercial Press, 1978 edition, p. 103. 
+4. [UK] Liddell Hart: "Strategy,” Warrior Press, 1981 edition, p. 46. 
+5. [UK] Liddell Hart: "Strategy,” Warrior Press, 1981 edition, p. 448. 
+page 13 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+of force or threat of force, achieving the goals of national policies. [1] “The Soviet Military Encyclopedia" 
+states that strategy is "a component and the highest field of military academics, which includes the theory 
+and practice of the state and armed forces preparing for war, planning, and conducting wars, and strategic 
+battles." [2] The Japanese Defense Research Institute states: " Military strategy is about the use and 
+planning of military power." [3] 
+China’s modern definition of strategy originated from Mao Zedong’s interpretation of strategic issues. In 
+1936, Mao Zedong pointed out in the "Strategic Issues of the Chinese Revolutionary War" that "strategic 
+issues are a thing of studying the laws of the overall situation of war." “Studying the laws governing the 
+guidance of war with an overall perspective is the task of strategy.”[4] According to this, the 1972 edition of 
+the Military Language of the Chinese People’s Liberation Army defined strategy as “planning and guiding the 
+overall situation of the war.” In 1978, the Commercial Press published “Modern Chinese Dictionary" which 
+states that strategy is "the plan and strategy that guides the overall situation of the war." The "Chinese 
+Military Encyclopedia" and "Chinese People's Liberation Army Military Language" published in 1997 state 
+that strategy is also called military strategy, which means "the overall strategy of planning and guiding war."  
+The "Strategy" published by the Academy of Military Sciences in 2001 also states that strategy is "the overall 
+planning and guidance of the overall process of war preparation and war implementation."[5] 
+China's modern strategic theories are mainly based on the long-term practice of the Chinese Revolutionary 
+War. After the founding of New China, it also faced the threat of a full-scale war for a long time. How to deal 
+with a possible large-scale war is the focus of strategic guidance. Therefore, defining strategy as the 
+planning and guidance of the overall war is in line with the objective reality at the time. However, since the 
+1980s, especially after the end of the Cold War, the international strategic situation has undergone profound 
+changes, and peace and development have become the theme of the times. Although war is still the focus of 
+strategic guidance, the need and practice to achieve political goals through non-war military operations has 
+greatly increased. Anti-terrorism, stability maintenance, security police,  
+Footnotes: 
+1. [United States] Russell F. Wegley: "US Military Strategy and Policy History,” People's Liberation Army 
+Press, 1986 edition, p. 3. 
+2. "Soviet Military Encyclopedia" Volume 1, People's Liberation Army Publishing House, 1986 edition, p. 
+342. 
+3. Strategic Research Department of the Academy of Military Sciences: "Summary of War and Strategic 
+Theories,” People's Liberation Army Press, 1989 edition, p .459. 
+4. "Selected Works of Mao Zedong" Volume 1, People's Publishing House, 1991 edition, p. 175. 
+5. Strategic Research Department of the Academy of Military Sciences: "Strategy,” Military Science Press, 
+2001 edition, p. 15. 
+page 14 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Chapter One Introduction to Strategy 
+border containment, escort protection, international peacekeeping, and overseas evacuation have become 
+important methods for the use of military forces. These non-war military operations also need to be planned 
+and guided by military strategy. Therefore, in the context of the era of peace and development, military 
+strategy should not only focus on guiding and winning possible wars, but also on guiding non-war military 
+operations. For this reason, the "Introduction to Military Strategy" published by the National Defense 
+University in 1991 and the "Science of Strategy" published in 1999 have redefined strategy. They state that 
+"strategy is the planning and guidance of the overall situation of military conflicts."[1] Military conflicts here 
+include wars and non-war military operations. Expanding the target of strategic guidance from the overall 
+situation of war to the overall situation of military conflict is the enrichment and development of strategic 
+connotation. 
+In the 21st century, the complexity and uncertainty of security threats facing our country have further 
+increased. Traditional security threats and non-traditional security threats are intertwined, and external and 
+internal threats are intertwined, requiring our military to have the capability to respond to multiple security 
+threats and complete diversified military missions. The military's non-war military operations have become 
+more frequent, with great political influence and large numbers of participants. This has increasingly become 
+a major issue of strategic guidance. Practice has further proved that expanding the target of strategic 
+guidance from the overall situation of war to the overall situation of military conflict is in line with the 
+characteristics and requirements of the times. 
+However, the definition of strategy as "planning and guiding the overall situation of military conflict" is not 
+very clear in the expression, and it has not directly expressed the content of guiding the construction of 
+military power. It is easy to be understood as only referring to the use of military power. As the general 
+strategy of the country's military field, military strategy takes charge of all military work, not only guiding the 
+use of military power, but also guiding the construction of military power. Especially in peacetime, military 
+power building is an important part of military strategic guidance. Therefore, under the conditions of the new 
+era, strategy should be defined as "planning and guiding the overall use and construction of military forces." 
+2. The elements of strategy 
+The constituent elements of a strategy are the basic components of a strategy and the concrete embodiment 
+of the content and form of the strategy. The content of strategy is rich and varied, and its constituent 
+elements can be studied from different angles. Various strategic writings have different discussions on the 
+constituent elements of strategy. 
+Footnotes 
+1. Wang Wenrong: "Strategy,” National Defense University Press, 1999 edition, p. 18. 
+page 15 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+But as far as the essential characteristics and functions of strategy are concerned, the three elements of 
+strategic goal, strategic policy and strategic means are indispensable and should become the basic 
+components of strategy. 
+The strategic goal is the basic requirement that the country puts forward to the military conflict in order to 
+achieve the overall political goal. It is the basic orientation of the military conflict in a certain period and the 
+final result to be achieved in the overall situation. It is mainly to solve the problem of "what to do.” It is not 
+only the starting point of strategy formulation, but also the end point of strategy implementation. It 
+fundamentally stipulates the content, scope, scale, process, and limits of military conflicts, and determines 
+the direction and objectives of military force utilization and construction. Strategic goals also directly 
+determine and influence strategic tasks. Because the strategic task is to realize the strategic goal, and it is a 
+major problem that must be solved to achieve the strategic goal. As an important part of strategy, strategic 
+goals must be scientific and clear. The so-called science means that the strategic goal cannot be set too 
+high or too low; it must be able to meet the needs and be realistic. If the goal is set too high, it exceeds the 
+limit of national interest requirements, and it exceeds the permission of objective conditions, it will be difficult 
+to achieve, and even lead to failure; if the goal is set too low, the function and role of the strategy will not be 
+fully utilized, and national security will also have no reliable guarantee. The so-called clearness means that 
+the strategic objectives must have both qualitative stipulations and quantitative restrictions; they are neither 
+too abstract nor trivial; they are both easy to grasp and easy to implement. 
+The strategic policy is the general program and principle that guides the overall situation of military conflict 
+and military force building. It stipulates the basic ways to achieve strategic goals and accomplish strategic 
+tasks, stipulates the focus, main strategic directions, main combat styles and operational principles of 
+military conflicts and military force building within a certain period of time, stipulates the main forces to be 
+used, the process and duration of military conflicts, etc., mainly to solve the "how to" problem. The strategic 
+policy is an important part of the national policy, is the reflection of the national policy in the military, is the 
+action norm that guides the construction of military forces and the practice of military conflict within a certain 
+period of time, and is the main body and core of the strategy. Whether the strategic policy is correct has a 
+decisive influence on the process and outcome of military conflicts. In the military field, strategic policies are 
+highly prescriptive and authoritative. They play a macro-directional role. They are the "leader" in command 
+and traction of various tasks, and are the basis for the use and construction of military forces, and the 
+preparation and implementation of military conflicts. At the same time, the strategic side also has a  
+page 16 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Chapter One Introduction to Strategy 
+major influence on the country's political, diplomatic, and national economic planning and layout. The 
+strategic policy is the product of the combination of subjective and objective. It must be based on the 
+strategic instructor's scientific understanding and accurate judgment of the subjective and objective factors, 
+conditions, and development trends of both sides in the military conflict. Scientific analysis and judgment of 
+the strategic environment is the basic prerequisite for formulating strategic policies. At the same time, the 
+establishment of the correct strategic policy is a reflection of the subjective ability of the strategic instructor. 
+The victory or defeat of a military conflict mainly depends on the balance of the military forces of the two 
+sides, as well as political, economic, and natural conditions, as well as the ability of both sides to 
+subjectively guide. Strategic instructors cannot go beyond the limits permitted by objective conditions to 
+seek victory, but they should give full play to their subjective initiative and actively strive for victory within the 
+scope permitted by conditions. The correct strategic policy is the correct understanding of the objective 
+conditions by the strategic instructor and the basic guarantee for victory in the military conflict. 
+Strategic means are the power and mode of action to achieve strategic goals. Any strategy is built on a 
+certain strategic force and needs to be realized in a certain way. Strategic means mainly solve the problem 
+of "what to do,” that is, what to use to conduct military conflicts and how to conduct military conflicts. It is the 
+specific action of the strategic instructor to use military forces to carry out military conflicts in accordance 
+with the requirements of strategic goals and strategic policies. Strategic goals and strategic guidelines 
+stipulate the goals, directions, programs, and guidelines of strategic actions, as well as the basic ways to 
+achieve the goals, but they are not the actions themselves. Only through strategic means can they be 
+implemented and implemented. To a large extent, strategy is the unity of goals and means. A strategy 
+without strategic means does not exist and is meaningless. Strategic means take military power as the core, 
+and also include comprehensive power including political, economic, diplomatic, scientific and technological, 
+cultural, geographic and other related forces. It can be real power or potential power; it can be hard power or 
+soft power. Its mode of action can be either a war action or a non-war military action; it can be through 
+deterrence or actual combat. The essence of military strategy is to comprehensively use strategic forces, 
+especially military forces, to achieve established strategic goals through various methods and methods. 
+Strategic goals, strategic policies, and strategic means are an organically connected whole, which together 
+constitute a complete strategic framework. They rely on each other and are closely related. They are 
+inseparable under any time, space, and environmental conditions. Only through the best match between 
+each other can the best effect be achieved. 
+page 17 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+ 
+Section Two: Strategy Classification and System 
+In different historical periods, different countries have different strategic interests, different security threats, 
+different environmental conditions, and different strategies. Therefore, the manifestation of strategy is 
+complex and diverse. 
+1. Strategic classification 
+The scientific classification of strategies can reveal and grasp the characteristics and essence of various 
+strategies while further understanding the common laws of strategies, so that people can have a more 
+comprehensive understanding of strategies, and provide basis and reference for decision-makers to choose, 
+formulate and implement strategies correctly. From different perspectives, strategies can be classified into 
+different categories. 
+According to the basic style of military operations, there are offensive strategies and defensive strategies. 
+Offensive strategy is an offensive strategy on the whole, usually implemented by the party with the 
+advantage in strength. In terms of strategic guidance, they often take preemptive actions and launch 
+surprise attacks, striving for quick decisions. Defensive strategy is a defensive strategy on the whole, usually 
+adopted by the weaker party, and mostly for self-defense in nature. The real defensive strategy is the unity 
+of defensiveness and enthusiasm. It is an organic whole that closely combines strategic defense and 
+offensive in battle. The offensive actions and defensive actions under the conditions of informatization and 
+intelligence are more closely related, the conversion is more rapid, and the development trend of integration 
+is present. 
+According to the duration of military operations, there are quick-decision strategies and lasting strategies. 
+Quick-decision strategy strives to achieve the strategic goal in the shortest time. It is usually adopted by the 
+stronger and is connected with the offensive strategy. Persistent strategy is based on long-term combat, 
+consumes the enemy in protracted contests, accumulates small victories to make great victories, gradually 
+changes the balance of power, and finally defeats the enemy. It is usually adopted by weaker parties, and is 
+connected with the defensive strategy. The strategy adopted by our country during the War of Resistance 
+Against Japan is a typical lasting strategy. 
+page 18 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Chapter One Introduction to Strategy 
+Under modern conditions, there are more and more restrictive factors in war, and the consumption and cost 
+are getting bigger and bigger. Quick fight and quick decision are usually the first choice of strategic 
+instructors. 
+According to the scale and scope of military operations, there are comprehensive war strategies and local 
+war strategies. A total war strategy is a strategy that implements comprehensive mobilization, the whole 
+country meets the enemy, and a comprehensive contest. It involves a wide range, large scale, high intensity, 
+and determination, and it is related to the survival of the country. A local war strategy is a strategy with 
+relatively limited war objectives, scope, and scale. 
+According to the nature of the weapons used, there are nuclear war strategies and conventional war 
+strategies. The emergence of nuclear weapons and their immense destructive power have had a significant 
+impact on all aspects of warfare and strategy, and nuclear war strategy has emerged as the times require. 
+Different from nuclear war strategy, the strategy that guides the use of conventional weapons in warfare is 
+called conventional war strategy. Due to the increasing number of countries possessing nuclear weapons, 
+conventional wars are often conducted under nuclear deterrence, and their strategy is also a conventional 
+war strategy under nuclear deterrence conditions. According to the content of military activities, there are 
+military force utilization strategies and military force building strategies. The strategy for the use of military 
+power is the planning and guidance for the use of military power, including the style of use, methods and 
+means, guiding ideology, and principles. Military force building strategy, also known as military force 
+development strategy, is divided into the overall military force development strategy and the development 
+strategy of various services and arms. Its content includes development goals, development steps, 
+construction priorities, and strategic measures. 
+In addition to the above-mentioned strategic classifications, there are other classification methods. For 
+example, according to the use of military forces, there are actual combat strategies and deterrence 
+strategies; according to the space domain of military operations, there are land strategies, air strategies, 
+maritime strategies, space strategies, network strategies, etc.; according to the level and scope of military 
+operations, there are alliance strategies, national military strategies, and theater strategies. 
+Among the above divisions, the division according to the basic pattern of military operations is the basic 
+division method. Offense and defense are two basic modes of action, and offensive strategy and defensive 
+strategy are the basic types of strategies. 
+2. Strategic system  
+A strategic system is an organizational structure composed of strategies at different levels. Different 
+countries have different strategic systems due to their national and military conditions. 
+page 19 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+The US strategic system has a four-level structure, namely, national security strategy, national defense 
+strategy, military strategy, and theater strategy (service strategy). The national security strategy is 
+promulgated by the President of the United States, which is mainly reflected in the "National Security 
+Strategy" report issued by the president from time to time. The defense strategy is issued by the Secretary 
+of Defense, which is reflected in the "National Defense Strategy" issued from time to time by the U.S. 
+Department of Defense and the "Four-year Defense Evaluation Report" published every four years. The 
+military strategy is issued by the chairman of the Joint Chiefs of Staff, which is mainly reflected in the 
+"National Military Strategy" report. Theater strategies and service strategies are formulated by theaters and 
+services, and are reflected in the working documents, reports, and combat plans of each theater, as well as 
+various documents and transformation roadmaps promulgated by the various U.S. services. 
+The Russian strategic system is inherited from the Soviet Union and is divided into four levels: national 
+security concept, national defense policy, military doctrine, and military strategy. The national security 
+concept is a formally adopted by the state regarding the use of existing resources and potential to ensure 
+that individual, social, and national security are protected from internal and external threats in various 
+activities such as politics, economy, military, spiritual life, culture and science, ecology, and information. The 
+whole set of viewpoints is the highest program and basic basis for the Russian Federation to resolve 
+security issues. National defense policy is the policy and viewpoint of a country, political party or other social 
+and political organization that involves the establishment of military organizations, preparation and use of 
+force to defend the country and strategic interests, and is an organic part of the country's general policy. 
+Military doctrine is the basic thoughts and viewpoints of a country on the nature, purpose, and nature of 
+future wars, as well as the preparation and implementation of wars by the country and the military in a 
+certain period of time. Military strategy mainly studies the nature of future wars, the country's preparations 
+for war, and the organization and combat methods of the army. 
+Before the 1980s, our country had not clearly put forward the concept of strategy at other levels except 
+military strategy. With the continuous development of strategic guidance practice and strategic theory, 
+various levels of strategic concepts have emerged one after another. At present, the more consistent view is 
+to divide China's strategic system into three levels: the first level is national strategy, including national 
+security strategy and national development strategy; the second level is military strategy, which is planning 
+and guidance for the overall use and construction of military forces, obeying and serving the national 
+security strategy and national development strategy; the third level is theater strategy, service development 
+strategy and military strategy in major security fields, which is the concrete development of military strategy. 
+The theater strategy is the overall planning and guidance for the use of military forces in each theater. The 
+service and arms development strategy is the overall planning and guidance for the construction of the 
+service and arms. Military strategies in major security fields include military strategies such as nuclear, 
+marine, space, and cyberspace. It is the overall planning and guidance for the use and construction of 
+military forces in all major security fields. 
+page 20 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Chapter One Introduction to Strategy 
+ 
+Section Three: The Basic Characteristics of Strategy 
+Everything has its inherent essential attributes, and strategy is no exception. The essential attribute of 
+strategy, namely the basic characteristics, is expressed through its specific content and form. 
+1. The political nature 
+The political nature of strategy is determined by the subordination of military to politics. Strategy is the 
+embodiment of political strategy. It is the country's major policies. It has a profound political background in 
+the military field. Politics has a dominant and decisive role in strategy. The ways and methods of force 
+application and construction have a decisive influence. Strategic obedience to governance is a basic rule. 
+The formulation and implementation of the strategy must stand at a political height, proceed from the overall 
+situation of national interests, and make macro-planning to ensure the realization of the political goals of the 
+party and the country. When making strategic decisions and strategic guidance, strategic instructors must 
+recognize the political background, analyze political conditions, clarify political goals, and consider political 
+consequences. Under any circumstance, the strategy cannot go beyond the political goals of the country, 
+nor can it exist independently from politics. Strategy is also counterproductive to politics. The correct 
+strategy can create conditions for the realization of political goals, while the wrong strategy can lead to 
+military conflicts and even war failures, which will cause serious political consequences. 
+2. Overall nature 
+The overall situation is the most basic characteristic of a strategy. Strategy is at the highest level of the 
+military field and is the highest decision-making on military issues. We must always grasp the overall 
+situation of the entire military conflict and take care of all aspects, parts, and stages of the use and 
+construction of military forces. Of course, the overall situation can be divided into levels. 
+page 21 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+Anything that is relatively independent and has the nature of taking care of all aspects, parts, and stages can 
+be called the overall situation. For example, the world can be an overall situation, a country can become an 
+overall situation, and an independent theater can also become an overall situation. However, as a country's 
+military strategy, its overall situation has its specific objects and scope. Specifically, it regards the entire 
+country as the overall situation, and various theaters and various directions as its part; it regards the entire 
+military conflict as the overall situation, and various styles of struggle as its part; it regards the entire war as 
+the overall situation, and campaigns and battles as its parts; it regards the entire military power as the 
+overall situation, and the parts that make up the military power are its parts; it regards army building as the 
+overall situation, and the construction of various armies (arms) and units is its part. In the military field, 
+strategy has the highest level, the broadest scope of guidance, has a commanding role, and is the basis and 
+they follow various military activities. 
+Strategy guides the entire process of military force utilization and construction. This process is not only 
+relatively independent, but also a link between the past and the future, and it can include several stages of 
+development. The strategy under certain historical conditions should be planned as a whole for the entire 
+process of military force utilization and construction during that period. Based on the overall situation, based 
+on reality, and focusing on the future, predict the development trend of military conflict and army building, 
+appropriately distinguish the strategic stages, clarify the specific strategic policies and strategic tasks of 
+each stage, and according to the development and changes of objective conditions, make adjustments in a 
+timely manner so that strategic guidance always conforms to the objective reality of development. The 
+guidance of strategy on the use and construction of military forces is often achieved through the planning 
+and resolution of key issues that have a decisive impact on the overall situation. This key is the focus of the 
+overall situation. The most important thing for a strategic instructor is to pay attention to the overall situation 
+and handle various relationships in the overall situation. Therefore, when establishing and implementing a 
+strategy, we must be good at analyzing various factors and contradictions that affect the overall situation, 
+grasp the main contradictions that play a decisive role in the overall change, and find effective methods and 
+countermeasures to solve this contradiction to ensure the strategic purpose.  
+3. Confrontational 
+Military conflicts, especially wars, are confrontations and contests between hostile parties with military forces 
+as the main body. The process of strategic guidance is a process in which the opposing parties use their 
+respective strengths to game and fight. Confrontation is a distinctive feature of strategy. The political nature 
+of the strategy determines that it must be confrontational. 
+page 22 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Chapter One Introduction to Strategy 
+Any strategy serves the interests of a certain nation, country, and political group, and this service is often 
+realized in a struggle full of contradictions and conflicts. Any strategy is proposed in response to specific 
+threats and challenges. Strategic opponents are the target of confrontation, and military power is the 
+material basis of confrontation. Giving full play to subjective initiative and flexible use of various forces and 
+fighting methods are important conditions for seizing the initiative in confrontation. Therefore, the 
+antagonism of strategy requires that a country must build a military force that can effectively safeguard 
+national interests based on the characteristics of the targets of military conflict; it requires strategic 
+instructors not only to have superior strategies and excellent organizational command skills, but also there 
+must be an unyielding spirit of struggle. Only in this way can we flexibly use and give full play to the 
+maximum effectiveness of military forces in the fierce confrontation between the two opposing parties and 
+win the victory in the military conflict. 
+The antagonism of strategy has the characteristics of integrity. Compared with the antagonism of campaigns 
+and tactics, the antagonism of strategy is mainly embodied in the overall planning of the use and 
+construction of national military forces, which has a broader space and time range. The antagonism of 
+strategy also has the characteristics of continuity. Whether it is in peacetime or wartime, whether it is a war 
+method or a non-war method, the antagonism of strategy always exists.  
+4. Strategic nature 
+Strategem are tactics and schemes proposed by strategic guides based on objective conditions. In a certain 
+sense, strategic guidance is a contest of wisdom and strategy between the opposing parties on the basis of 
+certain material strength. Since ancient times, any strategy has embodied certain strategic thinking. "The Art 
+of War" is a strategic masterpiece full of strategic thoughts, which clearly advocates "scheming in the army.” 
+Practice has proved that strategically superior strategies can often produce results that are difficult to 
+achieve by pure material power, or become a "multiplier" of material power, allowing material power to exert 
+extraordinary effects, and even achieve the goal of "winning war without fighting." In the history of world 
+wars, there are countless examples of using strategy to get out of trouble, turn weak to strong, and finally 
+defeat the enemy. Military strategists in Chinese history have paid great attention to winning by wisdom. 
+This is an excellent tradition of Chinese military strategic culture. The strategic guidance is mainly 
+manifested in judging the situation, weighing the pros and cons, strategizing, foresight, overall planning, 
+tactics, and flexible response, winning surprisingly and other aspects. 
+page 23 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+strategy ZHANLUEXUE  
+ 
+ 
+ 
+5. Relative stability 
+The development and changes of the military conflict and army building situation will inevitably require 
+corresponding adjustments and changes in strategy. In other words, strategy must develop along with the 
+development of military conflict and army building, and there is no immutable strategy. However, strategy is 
+the overall planning and guidance for the use and construction of military forces. It is at the highest level in 
+the military field. It has a wide range of guidance and a significant and far-reaching impact. As long as the 
+overall strategic situation and objectives and tasks have not undergone fundamental changes, strategy must 
+maintain basic stability. Therefore, strategy has relative stability. This relative stability is mainly reflected in 
+the following aspects: First, the target of strategic guidance is relatively stable. The object of strategic 
+guidance is the overall situation of military force utilization and construction. Since the nature and extent of 
+threats to national security within a certain period of time are relatively stable, the main opponents, strategic 
+directions and methods of military conflict must also be relatively stable. At the same time, the strategic 
+goals and overall thinking of army building must remain relatively stable at a certain stage of development. 
+Therefore, as long as the overall situation has not undergone fundamental changes, the strategy needs to 
+remain stable. Second, the basic guiding principles of the strategy are relatively stable. Strategy is the 
+country's fundamental military policy, and its basic guiding principles are governed and restricted by the 
+theories and policies followed by the country, so it is basically stable for a certain period of time. Third, the 
+basic content of the strategy is relatively stable. The strategy is mainly expressed through the stipulation of 
+strategic objectives and tasks, strategic guidelines, and strategic means. These contents have a wide range 
+of guidance, are comprehensive, forward-looking, and oriented. Once determined, they will become the 
+norms and basis for action, and they must be basically stable. 
+Section Four: Strategy Influencing Factors 
+Although the strategy is manifested as the subjective guiding activity of the strategic instructor, it is based on 
+objective material conditions and is affected and restricted by various factors. 
+page 24 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Chapter One Introduction to Strategy 
+1. National interests 
+National interest is the sum of the material and spiritual needs for the survival and development of a 
+sovereign country. It is the starting point and end point of formulating and implementing military strategy, 
+and the primary factor in determining military strategy. National interests include two major aspects, survival 
+interests and development interests, and their specific content and manifestations are diverse. From the 
+perspective of its importance to the country, it can be divided into core interests, important interests, and 
+general interests; from the perspective of the fields involved, it can be divided into political interests, 
+economic interests, military interests, etc.; from the perspective of time span, it can be divided into current 
+interests and long-term benefits; etc. Generally speaking, a country's territory, sovereignty, security, unity, 
+stability and development are the core interests of the country, but their importance and status in the overall 
+situation develop and change with different historical conditions. For example, when a country faces the 
+threat of war, security interests are particularly prominent; when national security is guaranteed to a certain 
+extent, development interests will become prominent. National interest is the highest criterion for considering 
+national strategic relations and the basic focus of strategic guidance. The strategic instructor must take the 
+national interest as the supreme criterion to solve and deal with various strategic issues. Different interests 
+have different influences on the strategy. The first concern of the strategy is the core and important interests 
+of the country. Under the conditions of the new era, while focusing on national territorial sovereignty security 
+and unity, the strategy should also attach great importance to safeguarding the country’s security interests in 
+politics, economy, science and technology, culture, biology, information, and energy. Effective measures 
+must also be taken to safeguard the country’s overseas channels and the safety of overseas personnel and 
+property, as well as safety in various fields such as space, networks, and electromagnetics, so as to provide 
+strong strategic support for the expansion of national interests. 
+2. National policies 
+The military strategy of any country is directly controlled by its national policy. In essence, military strategy is 
+a part of the national policy and a concentrated expression of the national military policy. National policies 
+collectively reflect the country’s political and economic interests and the will of the ruling group. The nature 
+of a country is different, its policies are bound to be different, and military strategies also have essential 
+differences. Peace-loving countries are committed to peace and development, seeking peace and stability in 
+the international and regional situations, and usually pursue self-defensive and defensive national defense 
+page 25 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+policy and military strategy. Countries with expansion and aggressiveness tend to seek dominance in 
+international affairs and even promote power politics and hegemonism, usually pursuing an offensive 
+national defense policy and military strategy of external expansion. 
+3. Safe environment 
+The security environment refers to the objective conditions and conditions that affect security faced by a 
+country in a certain period of time. A correct understanding of the security environment is the prerequisite 
+and basis for scientifically formulating military strategies. The process of formulating a strategy is, in a 
+sense, a process of analyzing the security environment, judging security threats, and proposing strategic 
+countermeasures. The security environment includes the international security environment, the surrounding 
+security environment, the domestic security environment, and the security environment of a certain direction 
+and a certain region. The security environment at each level contains multiple elements, such as political 
+security, military security, and economic security. They all have an important influence on the formulation 
+and implementation of military strategies. Among them, the environment formed by political and military 
+factors has a decisive influence on military strategy. Security issues formed by factors such as economy, 
+geography, technology, and culture have a long-term impact on military strategy. Changes in the security 
+environment will inevitably require corresponding adjustments in military strategy. Under the conditions of 
+the new era, the complexity, diversity, and uncertainty of security threats continue to increase. Military 
+strategic guidance must firmly establish a comprehensive security concept and comprehensively safeguard 
+national security. 
+4. Comprehensive national strength 
+Comprehensive national power is the sum of all material and spiritual power of a country, that is, the sum of 
+political, economic, military, technological, and spiritual power that can be used immediately or mobilized for 
+military conflicts, especially wars. Military conflict is not just a contest of military strength between the two 
+opposing parties, but also a contest of overall national strength. Therefore, comprehensive national power is 
+the objective material basis for formulating and implementing strategies. It is not only the basic support of 
+strategic means, but also has a direct impact on the determination of strategic objectives. The 
+comprehensive national strength of a country mainly includes the following elements: First, natural 
+conditions and humanistic conditions. This includes the territory's area, geographic location, topography, 
+energy, minerals, forests, water conservancy and other resources, population quantity, quality, structure, 
+regional distribution, ethnic composition, and religious beliefs, etc. 
+page 26 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Chapter One Introduction to Strategy 
+The second is the political situation. This includes the country’s political nature, regime system, government 
+agency effectiveness, organizational control capabilities, and diplomatic capabilities. The third is the 
+economic level. This includes industrial and agricultural production capacity, as well as finance and foreign 
+trade. The fourth is military capabilities. This includes the quantity and quality of armed forces, weapons and 
+equipment, system establishment, military theory, etc. The fifth is science and technology. This includes 
+technological level, innovation ability and achievement transformation ability, etc. Among them, military 
+capability is the backbone of war strength and potential, which has a direct influence and restriction on 
+strategy. The strategic director must coordinate the relationship between military forces and other various 
+forces, give full play to the overall advantages of comprehensive national power, and effectively maintain 
+national security. 
+5. Strategic Cultural Tradition  
+Strategic cultural tradition is a relatively stable cultural characteristic of a country in its strategic behavior. It 
+is a concentrated reflection of the country's or nation’s historical experience, national characteristics, values 
+and cultural accumulation in the strategic field. The strategic cultural tradition has a profound and lasting 
+influence on strategy: First, it influences the understanding of the role of force. In the western mainstream 
+strategic cultural traditions, the role of force in international politics is very emphasized and even blindly 
+trusted. Therefore, the use of violence has been praised in the modern West, and some big countries still 
+believe in the use of force or the threat of force at every turn of the ‘powerist’ policy. Different from the West, 
+in China's strategic cultural traditions, the idea of wary warfare is very prominent. It has always emphasized 
+good-neighborly friendship, peace, and defense. Practice has shown that the different understandings of the 
+role of force in China and the West have completely different influences on strategy. The second is to 
+influence the understanding and judgment of the strategic environment. Different strategic cultural traditions 
+provide strategic decision-makers with different concepts and models for understanding and judging the 
+strategic environment. In the western mainstream strategic cultural traditions, "survival competition" and "the 
+weak eating the weak" are the basic concepts for understanding the world. It is believed that competition 
+and conflict are human nature, and the "survival of the fittest" of social Darwinism is regarded as the basic 
+law of the international society. The Chinese strategic cultural tradition recognizes the unity and dependence 
+of the world more and emphasizes peaceful coexistence and harmonious coexistence. The third is to 
+influence the determination of strategic objectives. Affected by the strategic cultural traditions, the strategic 
+goals formulated by some western countries in history have obvious expansion, and grabbing benefits and 
+establishing hegemony have become the main goals of military strategy. In China's strategic cultural 
+tradition, the expansion policy of "following ethics and diligence" does not have legitimacy. Therefore, 
+China's strategic goal has always been to resist aggression, achieve reunification, defend peace, maintain 
+stability, etc., which is obviously defensive. 
+page 27 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+Since the founding of New China, it has always adhered to the military strategy of active defense, which fully 
+reflects the essential characteristics of China's strategic cultural traditions. 
+The above are some of the basic factors that influence and restrict the strategy. They are not only different 
+from each other, but also closely related, and they work together in the formulation and implementation of 
+military strategies. 
+Section Five: Strategic Thinking of Contemporary China 
+Strategic thinking is a rational understanding of the overall issues of military strategy. It is a scientific 
+revelation of the objective and guiding laws of the use and construction of military forces. It has distinctive 
+features such as politics, times, innovation, guidance, and inheritance. Strategic thinking embodies the 
+fundamental position, viewpoints and guiding principles of the party and the country in understanding military 
+issues, especially war issues, and is the theoretical basis for establishing military strategies. 
+Contemporary China's strategic thinking was formed and developed in the long-term revolutionary war of our 
+party and our army and the practice of military conflict and national defense and army building after the 
+founding of New China. It is concentratedly embodied in the representatives of Mao Zedong, Deng Xiaoping, 
+Jiang Zemin, Hu Jintao, and Xi Jinping. In the party’s military guidance theory established by the party’s 
+central leadership collective. The party’s military guiding theories include Mao Zedong’s military thoughts, 
+Deng Xiaoping’s thoughts on army building in the new era, Jiang Zemin’s thoughts on national defense and 
+army building, Hu Jintao’s thoughts on national defense and army building, and Xi Jinping’s thoughts on 
+strengthening the army. These ideas formed and developed under different historical conditions, answering, 
+and solving different major historical issues. Mao Zedong's military thought mainly answered the question of 
+how to build a new proletarian people's army and win the armed struggle under the historical conditions of a 
+semi-colonial and semi-feudal society, and how to build a modern national defense after gaining national 
+power. Deng Xiaoping's thinking on army building in the new period mainly answers the question of how to 
+create a path of a better army with Chinese characteristics and build a powerful modernized and regularized 
+revolutionary army under the historical conditions of peace and development as the theme of the times and 
+the country's reform and opening up. Jiang Zemin's thinking on national defense and army building mainly 
+answers the question of how to actively promote military reforms with Chinese characteristics under the 
+historical conditions of the vigorous new military revolution in the world and the in-depth development of 
+China's socialist market economy to ensure that the people's army wins the battle and does not degenerate. 
+page 28 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+ 
+ 
+Chapter One Introduction to Strategy 
+Hu Jintao's thoughts on national defense and army building mainly answered the question of how to 
+advance the scientific development of national defense and army building and fully fulfill the historical 
+mission of the military in the new century and new stage under the historical conditions of major 
+development, major changes and adjustments in the world, and China's comprehensive construction of a 
+well-off society. Xi Jinping’s Thought on Strengthening the Army provides a clear answer to the historical 
+background of profound changes in the world situation, profound changes in war patterns and combat 
+styles, and the entry of socialism with Chinese characteristics into a new era. Basic issues such as how to 
+strengthen the army, what to fight, and how to win the war. Contemporary Chinese strategic thinking is an 
+important part of the party's military guidance theory, and it is the development and application of the party's 
+military guidance theory in the field of military strategy. 
+1. People's War Strategic Thinking  
+People's war is a war organized and armed by the broad masses of the people to resist class oppression or 
+resist foreign invasion. The conduct of a people's war is in the fundamental interests of the oppressed 
+classes and nations, and is the driving force for the development of human history. The strategic thinking of 
+the people's war is a reflection of the Marxist historical materialism on the issue of war. Its core is: believe in 
+and rely on the people, mobilize, organize, and arm the people, fight for the fundamental interests of the 
+people, and the broad masses of people actively support and participate in it. Wars, the fruits of victory in 
+wars belong entirely to the people. The revolutionary war led by the Communist Party of China, with the 
+people's army as the backbone, unswervingly rely on, mobilize, and organize the broad masses of the 
+people, establish a solid revolutionary base area, focus on armed struggle, closely coordinate with other 
+forms of struggle, and implement the main corps and the local corps. Combining the regular army with the 
+guerrillas and militias, and the armed masses with the unarmed masses, is a thorough people's war. The 
+strategic thinking of the people's war is an important content of Mao Zedong's military thinking and a magic 
+weapon for our army to defeat the enemy. The strategic thinking of the people's war is an open theoretical 
+system. Whether it is war style or strategy and tactics, it is created by the people. The strategic thinking of 
+people's war has a penetrating power that transcends time and space, and the power of truth contained in it 
+is permanent.  
+Under the conditions of the new era, the composition of forces in both the form of war and the form of 
+society has undergone great changes. Significant changes have taken place in the military structure. 
+People's war is facing a series of new situations, new problems, and new challenges. 
+page 29 
+Theoretical Works of National Key Subjects
+
+China Aerospace Studies Institute 
+ 
+Jan 2022 
+Strategy ZHANLUEXUE   
+ 
+First, the mass base has changed. The adjustment and optimization of the basic social economic system, 
+the establishment and development of the market economy system, and the optimization and adjustment of 
+the industrial structure have broadened the scope of the mass basis of people’s war. The increasing 
+demand for the protection of interests of various social classes has increased the support of the masses in 
+the war. The second is the change in the form of participation in the war. The scope of the battlefield is 
+wider, the mobilization of war is quick, and the means for various forces to participate in the war are 
+becoming more abundant. The main way the people participated in the war changed from direct participation 
+to indirect participation, and from human participation to technology, especially information. The forces 
+involved in the war mainly came from trained reserve forces. The third is the change in countermeasures. 
+Modern people's war is a systematic confrontation, with increasing dependence on economic power, and 
+more complicated political struggles. Only by making full use of the country's comprehensive national power 
+to contend with the enemy and coordinating various forces to carry out a comprehensive attack can the 
+overall victory be achieved. 
+Under the conditions of informatization and intelligence, to innovate and develop the strategic thinking of 
+people's warfare, we must expand our horizons, broaden the field, study new characteristics, and grasp new 
+laws from a new starting point. No matter how the situation develops, the magic weapon of the People's War 
+can never be lost, but we must grasp the new characteristics and requirements of the People's War under 
+new historical conditions, innovate content and methods, and give full play to the overall power of the 
+People's War. The first is to optimize the new force structure of the People's War. On the basis of 
+comprehensively strengthening modernization, we will continue to develop and improve China's "three-in-
+one" armed force system, attach great importance to the people's use of technical means, strengthen 
+technical support and technical participation, maximize military resources, and give full play to overall 
+advantages. The second is to innovate the strategies and tactics of the People's War. Grasp the 
+development trend of the world political and economic situation, coordinate th

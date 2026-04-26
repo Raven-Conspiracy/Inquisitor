@@ -1,0 +1,36 @@
+The 600 mm multiple rocket launcher (Korean: 600㎜방사포), widely known outside North Korea by its United States's designation KN-25, is a weapon system that is referred to by North Korean state media as multiple rocket launcher, and by South Korea and the United States as short-range ballistic missile.
+
+
+== Description ==
+
+The KN-25 is developed as a hybrid weapon system between short-range ballistic missile (SRBM) and traditional multiple rocket launcher (MRL). Officially described as a "super-large" MRL; however, KN-25 has characteristics of a ballistic missile. Because of its larger size and greater range compared to traditional rocket artillery, the United States Forces Korea (USFK) categorizes it as a SRBM. It flies on a controlled ballistic trajectory. Missiles are estimated to be 600 mm (24 in) in diameter, 8.2 m (27 ft) long, and weigh 3,000 kg (6,600 lb). They have an unspecified guidance system and have six rotating rear fins, with four moving forward fins, which likely provide the attitude control of the rocket. 
+They are mounted on multiple types of launcher, including a six-tube, tracked transporter-erector-launcher (TEL) with 10 road wheels on each side, a four-tube Tatra 813 8×8 wheeled launcher, a four-axle, road-mobile launcher carrying five tubes, or a wheeled TEL with six launch tubes.
+It is a battlefield weapon, suitable for deployment at battalion-level, to attack enemy rear-echelon targets and infrastructures, such as airfield and command center, out to 380 km (240 mi) with a conventional blast-fragmentation warhead, weighing 300–500 kg (660–1,100 lb). In October 2022, the KN-25 was included in a statement among other missiles that North Korea claimed were part of its capability to deliver tactical nuclear weapons. At a military parade in February 2023, the KN-25 was included among other missiles which the North Korean press collectively referred to these as "tactical nuclear weapons operation units." In March 2023, North Korea confirmed that KN-25 can be equipped with the Hwasan-31 nuclear warhead.
+The six rotating rear fins are an unusual feature for rocket artillery, a considerable innovation of North Korea. Their purpose is to provide stabilisation of the rocket while in flight, compared to other rocket artillery rounds, which are usually spin stabilised by rotating the entire body. This method of stabilisation creates a more favourable environment for the guidance systems, as the rest of the missile does not rotate. There are additional four fins at the nose cone for direction control. It is possible that the missile will be stabilised through rolling the missile when it enters the upper atmosphere, where the smaller control fins are unable to function optimally, and then stopping the spin as it re-enters into denser air. It has a circular error probable accuracy of 80–90 m (260–300 ft).
+The missile possibly derives from the OTR-21 Tochka/Hwasong-11 (KN-02), which has a similarly sized motor, at 62 cm diameter. Connecting three such motor segments would result in a length similar to the KN-25 rocket. The KN-25 is likely an indigenous project, as media coverage of this missile emphasises its research, using words such as "Juche projectiles" to describe it, unlike the Hwasong-11A (KN-23).
+According to North Korean leader Kim Jong Un, KN-25 incorporates artificial intelligence (AI) technology. However, it is possible that the AI incorporation mentioned by North Korea may refer to production, rather than guidance.
+
+
+=== Mass production of KN-25 and its launcher ===
+KN-25 launchers are manufactured at the March 16 Factory in Pyongsong, while the 600 mm-diameter rockets are assembled in Kanggye Tractor Factory.
+On 1 January 2023, 30 TELs were presented as a gift to the plenary meeting of the Worker's Party of Korea, with Kim Jong Un attending and making a speech. The system was described as "unprecedented", in both the munitions industry as having no equal and its presentation, being on the lawn of the party central committee. 30 six-tube tracked launchers plus at least 9 four-tube wheeled launchers publicly showcased in North Korea's possession, would give them the ability to fire up to 216 rockets, requiring many fewer launch vehicles than would be needed to fire a similar number of traditional ballistic missiles, to saturate South Korean ballistic missile defenses.
+In May 2025, it was revealed that KN-25's tracked launcher has undergone mass production.
+A batch of 50 five-tube launchers of KN-25 was transferred to the Korean People's Army during a ceremony held on 18 February 2026, with Kim Jong Un attending.
+
+
+=== Cruise missile launcher ===
+On 13 September 2021, North Korea announced they had conducted successful flight tests of a land-attack cruise missile (LACM) over the past two days. The mobile launcher appears to be the same vehicle used to carry KN-25 "oversized" rockets, both weapons likely being similar in diameter. The cruise missile could carry a conventional or nuclear warhead. It is claimed to have a range of 1,500 km (930 mi). It was later revealed that the cruise missile is officially named Hwasal-1.
+
+
+== List of tests ==
+
+
+== See also ==
+KN-02
+KN-09
+
+
+== Notes ==
+
+
+== References ==

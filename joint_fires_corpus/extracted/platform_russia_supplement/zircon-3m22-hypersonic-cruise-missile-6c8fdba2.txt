@@ -1,0 +1,57 @@
+The 3M22 Zircon, also spelled Tsirkon (Russian: Циркон, NATO reporting name: SS-N-33), is a Russian scramjet-powered, nuclear-capable hypersonic cruise missile. Produced by NPO Mashinostroyeniya for the Russian Navy, the missile utilizes the 3S-14 launch platforms on frigates and submarines. The missile has a reported top speed of Mach 9. The weapon was first used during Russo-Ukrainian war.
+
+
+== Development ==
+
+Tsirkon is reported to represent a further development of the Hypersonic Experimental Flying Vehicle (ru. GELA / HELA) developed by NPO Mashinostroyeniya.
+Zircon was again test-fired on June 3, 2017, almost a year earlier than had been announced by Russian officials. Another flight test reportedly occurred on December 10, 2018 during which the missile demonstrated that it could attain a speed of Mach 8.
+On February 20, 2019, Russian President Vladimir Putin said that the missile can accelerate up to Mach 9 and destroy both sea and land targets within 1,000 km (540 nmi; 620 mi). By the year's end, on December 24, 2019, Putin stated that Zircon's land-based version was in development.
+According to the commander in chief of the Russian Navy Nikolai Yevmenov, as of January 2020, 3M22 was still in testing phase and despite the overall positive evaluation of the test program, still suffered from teething problems. Modernized frigates are expected to be the first platform to receive the hypersonic missile, and the tests are to be continued in parallel with the Navy's armament with the Kalibr cruise missile. Yevmenov further stated Zircon is expected to enter service "in the coming years". In early January 2020, Zircon was first test-launched from the frigate Admiral Gorshkov in the Barents Sea, and reportedely hit a ground target in the Northern Urals, exceeding the distance of 500 km.
+On October 7, 2020, the Russian Chief of General Staff, Valery Gerasimov, stated a Tsirkon was launched from Admiral Gorshkov in the White Sea and successfully hit a sea target in the Barents Sea 450 km (280 mi) away, reportedly reaching a speed of "more than Mach 8" and altitude of 28 km (17 mi).
+On November 26, 2020, the Russian Defense Ministry announced the successful test of a missile launched from Admiral Gorshkov in the White Sea, hitting a naval target 450 km away in the Barents Sea.
+On December 11, 2020, the Ministry of Defense of the Russian Federation announced the successful test of a missile launched from Admiral Gorshkov in the White Sea, hitting a ground target 350 km away in the Arkhangelsk Region.
+On July 19, 2021, the Russian Defense Ministry announced the successful test of a missile launched from Admiral Gorshkov in the White Sea, hitting a ground target 350 km away on the coast of the Barents Sea. The flight speed reached nearly Mach 7.
+The flight tests of the missile from a coastal mount and a surface ship carrier were reportedly completed as of late September 2021 with over 10 launches performed.
+On October 4, 2021, the Ministry of Defence of Russia announced the successful test of a missile launched from a nuclear submarine for the first time from a surfaced position. The Defense Ministry, which tested firing the Zircon missile from a warship in July, said that the nuclear submarine Severodvinsk fired the missile while deployed in the Barents Sea and had hit its chosen target.
+Low-quality video footage released by the ministry showed the missile shooting upwards from a submarine, its glare lighting up the night sky and illuminating the water's surface. A second submerged launch from a depth of 40 m was reported later the same day.The next day it was reported that the missile's trials from the submarine have been completed.
+A Tsirkon hypersonic missile test-launched from the Northern Fleet's frigate Admiral Flota Sovetskogo Soyuza Gorshkov struck a naval target in the White Sea with a direct hit, Russia's Defense Ministry reported on November 18, 2021.
+The crew of the Northern Fleet frigate Admiral Gorshkov, as part of the completion of the cycle of tests of hypersonic missile weapons, fired another Zircon missile at a sea target on November 29 and another one at a coastal target on December 16. The Tsirkon hypersonic system was salvo-launched on December 24, 2021, and again launched on February 19, 2022. On May 28, 2022, the Russian Ministry of Defense released a video and news of a new test-launch where a Zircon missile hit a sea target at a distance of 1,000 km (620 mi) in the White Sea. The program of state trials was reportedly completed with that launch.
+On July 31, 2022, speaking in St Petersburg on Russia's Naval Day, President Vladimir Putin announced that the Black Sea Fleet would be equipped with Zircon anti-ship hypersonic cruise missiles "in the coming months".
+On December 23, 2022, Defense Minister Sergey Shoigu announced the reception by the Admiral Gorshkov frigate of a batch of Zircon missiles.
+According to classified documents, Russia ordered 80 missiles annually for 2024-2026.
+
+
+== Design ==
+3M22 was believed in 2017 to be a maneuvering, winged hypersonic cruise missile with a lift-generating center body. A booster stage with solid-fuel engines accelerates it to supersonic speeds, after which a scramjet motor with liquid-fuel (Detsilin) (JP-10 jet fuel equivalent) in the second stage accelerates it to hypersonic speeds.
+The missile's range is estimated to be 135 to 270 nautical miles (155 to 311 mi; 250 to 500 km) at low level, and up to 400 nmi (460 mi; 740 km) in a semi-ballistic trajectory; average range is around 400–450 km (250–280 mi; 220–240 nmi). According to Russian media (2017), the longest possible range is 540 nmi (620 mi; 1,000 km) and for this purpose a new fuel was created. Some internet sources even claim the range of missile can reach 1,000 - 2,000 km, depending on the type of target. Russian media sources claim that its speed and precision would make it more lethal to large targets such as aircraft carriers.
+Tsirkon can travel at a speed of Mach 8 (6,100 mph; 9,800 km/h; 2.7 km/s). This has led to concerns that it could stand a higher chance at penetrating existing naval defence systems. Because it flies at hypersonic speeds within the atmosphere, air pressure in front of it forms a plasma cloud as it moves, absorbing radio waves and making it more difficult to detect by radar systems (plasma stealth) during its hypersonic cruise phase. However, this also blinds any radar or IR seeker on the missile, meaning it has likely slowed to a speed short of Mach 5-6 in its terminal phase to strike a moving target (such as a warship); as well as generates an enormous IR signature, making it extremely easy to detect and track by EO/IR sensors.  According to the Royal United Services Institute, kinetic energy is the single best predictor of lethality against large targets (more so than warhead size), and thus the high speed of missile would seem to make it an optimal vector of attack against larger vessels.
+A ground-launched version of Zircon, based on a wheeled carrier similar to the SS-C-5, was developed after the naval version.
+
+
+== Deployment ==
+In January 2023 3M22 was first deployed on the Admiral Gorshkov-class frigates.
+As of 2023, Admiral Nakhimov is being modernised in order to start sea trials. The ship's P-700 Granit anti-ship missiles are being replaced with the ZS14 universal vertical launch system (VLS) tubes capable of carrying the Oniks, Kalibr and Zircon anti-ship cruise missiles; the vessel is to be equipped with 72 such missiles. The other active Kirov-class ship, Pyotr Velikiy, will undergo a similar procedure. After completion of their refit, the ships could carry 40–80 anti-ship cruise missiles of different types.
+Other platforms which will receive Tsirkons are Gremyashchiy-class corvettes (fitted with UKSK VLS tubes during their construction), Yasen-class submarines, modernised Udaloy-class destroyers, and modernised Oscar-class submarines (Project 949AM).
+Zircon appears to have been used in a land-attack role during the Russian invasion of Ukraine. In particular it was used in the attack on Ukraine on 7 February 2024. During his 29 February 2024 address to the Federal Assembly, Vladimir Putin confirmed that Zircon hypersonic missile has been used during the conflict.
+On 25 March 2024, Russia used two Zircon hypersonic missiles to strike decision making centres in the centre of Kyiv. The launches were land-based, from one of two sites in Crimea: the Object 100 missile base or a Crimea-based K-300P Bastion-P Transporter erector launcher. According to Russian state media sources, both missiles hit their intended targets which were reported to be a SBU quarter and Zhuliany airport. Ukrainian sources claim both missiles were successfully intercepted by air defense systems and photographic evidence of the purported remains of a Zircon missile was later released by Ukrainian media. Major Illia Yevlash, a spokesman for the Armed Forces of Ukraine, claimed that Patriot and SAMP/T systems are capable of destroying the Zircon in the terminal phase when the missile is expected to slow to speeds around Mach 4.5; which Western defense analysts such as former Royal Navy Commander Tom Sharpe  agree is likely correct based on analysis of similar behavior from the Kinzhal missile.
+On 24 March 2026, HUR destroyed one Bastion missile launcher and damaged another in a strike on Crimea. HUR claimed two Zircon missiles were "eliminated" due to this strike.
+
+
+== Export ==
+The CEO of the joint Indo-Russian BrahMos programme, Atul Rane, stated in 2022 that a future BrahMos-II missile for India will likely have similar characteristics to the Zircon. According to a report published on 1 April 2023, India has requested Russia to transfer the technology of 3M22.
+
+
+== Operators ==
+Russian Navy
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+Hypersonic missile "Zircon" why NATO is afraid of new Russian weapons (Russian)
+Hunting in Russian "Zircon" (Russian)
+Russia's Invincible Weapons: Today, Tomorrow, Sometime, Never? (English)

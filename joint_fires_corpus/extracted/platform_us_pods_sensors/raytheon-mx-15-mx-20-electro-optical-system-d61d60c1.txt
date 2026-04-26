@@ -1,0 +1,69 @@
+David's Sling (Hebrew: קלע דוד, romanized: Kela David), also formerly known as Magic Wand (Hebrew: שרביט קסמים, romanized: Sharvit Ksamim), is an Israel Defense Forces military system jointly developed by the Israeli defense contractor Rafael Advanced Defense Systems and the American defense contractor Raytheon, that became operational in 2017. It is designed to intercept enemy planes, drones, tactical ballistic missiles, medium to long-range rockets and cruise missiles, fired at ranges from 40 to 300 km (25 to 190 mi). David's Sling is intended to replace the MIM-23 Hawk and MIM-104 Patriot in the Israeli arsenal.
+The system's Stunner missile is designed to intercept the newest generation of tactical ballistic missiles at low altitude, such as the Russian Iskander and the Chinese DF-15, using on-board dual CCD/IR seekers to distinguish between decoys and the actual warhead of the missile, in addition to tracking by Elta EL/M-2084 active electronically scanned array multi-mode radar. The multi-stage interceptor consists of a solid-fuel rocket motor booster, followed by an asymmetrical kill vehicle with advanced steering for super-maneuverability during the kill-stage. A three-pulse motor provides additional acceleration and maneuverability during the terminal phase. David's Sling became operational in April 2017.
+David's Sling serves as part of the second tier of Israel's theater missile defense system. The name David's Sling comes from the biblical account of David and Goliath. It forms one level of Israel's future multi-tiered missile defense system, which also includes Arrow 2, Arrow 3, Iron Dome, and Iron Beam.
+
+
+== Development ==
+
+The interceptor is a two-stage missile, with two targeting and guidance systems installed in its nose-tip, a radar and an electro-optical sensor. In 2006 Rafael was awarded a contract to develop a defense system to counter the threat of medium- to long-range rockets with ranges between 70 and 250 km (43 and 155 mi). In order to enable Israel to make use of the financial aid provided by the United States to further develop the system and to produce it, a partnership was established with Raytheon which developed the missile firing unit and overall logistic system and assisted Rafael with developing the interceptor. In some of Raytheon's publications, the interceptor is referred to as "Stunner". In November 2012, David's Sling was expected to enter operational service in 2013 or 2014. David's Sling stunner missile owes much to the SPYDER programme's modified Python 5 and DERBY seeker technology.
+In addition to the David's Sling system, which is designed to intercept medium- and long-range rockets, the Iron Dome system, a separate system with which it will be used in conjunction, designed to intercept short-range rockets (4–70 km), and the Arrow missile, a separate system designed to intercept ballistic missiles, are already in use.
+On 25 November 2012, Israel successfully tested the Stunner interceptor missile. The David's Sling battery, stationed at an undisclosed desert location in Southern Israel, fired and destroyed the incoming missile with a two-stage interceptor.
+In late November 2014, the IDF revealed that the David's Sling system would soon be deployed in various areas around Israel for a trial period before becoming operational.  Initial trials would focus on its ability to intercept short and medium-range rockets and missiles at a range  three times that of Iron Dome. The system then needed to undergo two further trials, testing its ability to intercept aircraft and longer-range missiles and then cruise missiles.  David's Sling  links up to the Home Front Command's command and control systems, and also has  its own independent interception management center.
+In February 2015, Israel asked the US Congress for US$250M in additional assistance in producing David's Sling. US companies involved include Raytheon Co.; Arlington, Virginia-based Orbital ATK Inc.; and Falls Church, Virginia-based Northrop Grumman Corp. Other defense websites reported in 2015 that Israel had requested US$150M in funding for the procurement phase, to include two systems controlling multiple fire units, covering the entire area of Israel. Other sources the same year said development costs for David's Sling were capped to around $250M; the $150M request is for initial procurement of one or two batteries. Since two batteries can cover the whole territory of Israel it is clear that Israeli initial procurement will start with two batteries.
+David's Sling was planned to be deployed in 2015, but budget shortfalls for infrastructure for deployable missile batteries delayed its operational date to 2017.
+On 21 December 2015, the David's Sling Weapon System (DSWS) demonstrated its ability to destroy salvos of heavy long-range rockets and short-range ballistic missiles, completing the first block of developmental tests.  With the testing regimen completed, the system was planned for delivery to the Israeli Air Force in the first quarter of 2016.  David's Sling protects areas above the short-range Iron Dome and below the upper-atmospheric Arrow-2, particularly against threats such as Russian 9K720 Iskander tactical ballistic missiles, Syrian Khaibar-1 302 mm rockets, the Iranian Fateh-110 used by Hezbollah, and the Scud-B.
+On 2 April 2017, at a ceremony held at Hatzor Airbase attended by Israeli and United States dignitaries, two batteries of the David's Sling Weapon System were officially declared operational, activating the final component of the Israeli multi-tiered anti-missile defense array.
+Work was underway in 2009 on an air launched variant.
+
+
+== Operational history ==
+
+On 23 July 2018, David's Sling was used for the first time in a combat situation. According to Israeli sources, Israeli authorities said they initially feared that two Syrian OTR-21 Tochka short-range ballistic missiles (SRBMs) were headed for Israel. Ultimately the two Syrian SRBMs—fired as part of the country's internal fighting and not deliberately aimed at Israel—did not clear the border and landed one kilometer inside Syria. One of the interceptors was detonated over Israel. In November 2019, Chinese media reports claimed that Syria transferred the other missile to Russia; it had been found intact by Syrian military forces as it did not explode on contact after being fired in July 2018. On 10 May 2023 David's Sling successfully shot down a Badr-3 rocket from the Gaza Strip aimed at Tel-Aviv. Two rockets fired from Gaza toward Jerusalem were intercepted, one by the Iron Dome, and the second by David's Sling. It was the second David's Sling interception, after a rocket fired at Tel Aviv was downed by the system on the same day. The system was used to destroy a long-range Ayyash-250 rocket launched by Hamas during the Gaza war in Kiryat Ata. In February 2024 the Israeli Air Force announced that David's Sling's Aerial Defense System intercepted a surface-to-air missile that was fired toward an IDF UAV operating in Lebanon.
+David's Sling was used during the October 2024 Iranian strikes against Israel.
+David's Sling shot down a ballistic missile for the first time in June 2025, during the Twelve-Day War.
+
+
+== Foreign interest ==
+
+On 17 November 2010 Rafael's Vice President Mr. Lova Drori confirmed in an interview that the David's Sling system has been offered to the Indian Armed Forces.
+In October 2015, it became publicized that all six countries of the Gulf Cooperation Council (GCC) were interested in procuring the Israeli David's Sling missile defense system as a response to the Iranian missile threat.  This comes after U.S. urging for GCC members to more closely cooperate on missile defense through joint procurement and information sharing.  Any deal however would occur between Raytheon and other American companies, partly because of their involvement in the development of the system, and partly because of continuing local attitudes towards Israel.
+In September 2018, the Swiss armaments procurement agency Armasuisse announced its interest to receive proposals regarding the David's Sling system for the renewal of Switzerland's air defence capacities.
+On 5 April 2023, the Finnish Defence Forces selected Rafael's David's Sling rather than Israel Aerospace Industries' Barak-MX for a future high-altitude air-defence system.
+
+
+== PAAC-4 ==
+In July 2013, Raytheon revealed it was working with international partners to develop a new air-defense missile system, based on the AN/MPQ-53 radar from the MIM-104 Patriot, a Kongsberg/Raytheon Fire Direction Center, and the Rafael Stunner surface-to-air missile. According to Lt. Gen. Henry Obering, former director of the U.S. Missile Defense Agency, "We wanted a truly co-managed program because the United States will be very interested in this for our own purposes."
+
+
+== Operators ==
+
+
+=== Current operators ===
+ Israel
+
+
+=== Future operators ===
+ Finland Full operational capability is expected in 2030 with initial deliveries begun in 2025.
+
+
+=== Potential operators ===
+ Australia
+ Estonia
+
+
+== See also ==
+Arrow (missile family)
+Arrow 3
+Comparison of anti-ballistic missile systems
+Iron Dome
+
+
+== References ==
+
+
+== External links ==
+
+Stunner // Terminal Missile Defense Interceptor—Rafael
+Information about the David's Sling System from the Raytheon Website
+David's Sling—Missile Defense Agency (MDA)
+New Air Defense System: David's Sling, Israel Defense Forces YouTube channel, 20 March 2017

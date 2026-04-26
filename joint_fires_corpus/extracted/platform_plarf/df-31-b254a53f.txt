@@ -1,0 +1,35 @@
+The Dong Feng 31 (simplified Chinese: 东风-31; traditional Chinese: 東風-31; lit. 'East Wind-31'; NATO reporting name CSS-10) is a third-generation, long-range, road-mobile, intercontinental ballistic missile (ICBM). Developed by the People's Republic of China (PRC) and operated by the People's Liberation Army Rocket Force (PLARF), this three-stage, solid-fuel missile in the Dongfeng missile series is designed to carry a single 425-kiloton thermonuclear weapon. It is a land-based variant of the JL-2, a submarine-launched ballistic missile. 
+In 2009, the Chinese inventory was estimated at fewer than 15 DF-31 missiles and fewer than 15 DF-31A missiles. The National Air and Space Intelligence Center (NASIC) estimated that, as of June 2017, five to ten Mod 1 and over fifteen Mod 2 launchers were operationally deployed.
+
+
+== History ==
+The PRC began developing the DF-31 ICBM in January 1985. The Academy of Rocket Motor Technology (ARMT), then known as the 4th Aerospace Academy, was the main contractor, supported by the research arm of the Second Artillery Corps (SAC). This land-based variant of the JL-2 was originally called the DF-23 but was renamed the DF-31 following a change in operational requirements.
+The DF-31 was first displayed publicly at the 1999 National Day Parade. On August 2 of that same year, Chinese state media reported the missile's first successful test flight. Subsequent tests occurred in 2000, with the second flight taking place early in the year and the third on November 4. Operational deployment reportedly began in 2006. In 2009, US Air Force Intelligence reported that fewer than 15 DF-31 missiles had been deployed.
+
+
+== Description ==
+The DF-31 is a three-stage, solid-fuel rocket equipped with an inertial navigation system. The missile is mounted on a transporter erector launcher. It is capable of reaching targets throughout Europe and Asia, as well as parts of Canada and the northwestern United States.
+
+
+== DF-31A ==
+The PRC has developed an improved variant of the DF-31 called the DF-31A.  This upgraded missile has a reported range of 13,200 km, will allow targeting of most of the continental United States and was designed with MIRV capability to hold 3 to 5 warheads, each capable of a 90 kt yield, but is thought to be armed with only one warhead with penetration and decoy aids to complicate missile defense efforts. The missile was shown to the public during the parade in Beijing celebrating 70 years since the end of World War II on September 3, 2015. It can carry maneuverable reentry vehicles.
+
+
+== DF-31AG/DF-31B ==
+The PRC has developed an improved variant of the DF-31A called the DF-31AG (G stands for 改 (Gaï), "modified)  or DF-31B with an off-road 8 axle TEL and MIRVs. China has successfully tested it from a mobile launcher. The missile's TEL features an extra pair of elevators near the aft of the missile unlike the TELs of the DF-31 or DF-31A, suggesting a heavier missile second and third stage than earlier variants. On the military parade marking the 90th Anniversary of the founding of the People’s Liberation Army in 2017, DF-31AG ICBM was first unveiled.
+
+
+== DF-31BJ ==
+The DF-31BJ is estimated to be an improved DF-31AG for silo-based launch operations.
+
+
+== References ==
+
+
+== Further reading ==
+Giacometti, Nicolas (10 April 2014). "China's Nuclear Modernization and the End of Nuclear Opacity". thediplomat.com. Retrieved 12 April 2014.
+
+
+== External links ==
+CSIS Missile Threat – Dong Feng-31
+Encyclopedia Astronautica

@@ -1,0 +1,753 @@
+ 
+The American Enterprise Institute (AEI) is a nonpartisan, nonprofit, 501(c)(3) educational organization and does 
+not take institutional positions on any issues. The views expressed in this testimony are those of the author. 
+ 
+ 
+ 
+ 
+Statement before the Select Committee on the Chinese Communist Party 
+ 
+ 
+The Challenges of Deterrence in the 
+Taiwan Strait  
+Recommendations for U.S. Policy 
+ 
+ 
+Oriana Skylar Mastro1 
+Center Fellow, Freeman Spogli Institute for International Studies and 
+Courtesy Assistant Professor of Political Science, Stanford University 
+Non-Resident Senior Fellow, American Enterprise Institute 
+ 
+ 
+ 
+April 26, 2023 
+ 
+ 
+ 
+ 
+
+   
+ 
+2 
+Chairman Gallagher, Ranking Member Krishnamoorthi, and members of the Select Committee: 
+Thank you for the opportunity to present my views on how to enhance near-term deterrence and 
+our our own resilience against the PRC’s attempts to take Taiwan by force. The growth in 
+Chinese military capabilities is well-documented, so I will not take time to summarize it in this 
+testimony. Moreover, this committee has demonstrated an understanding that there is a 
+possibility that China will attempt to take Taiwan by force. My article, “The Taiwan 
+Temptation,” provides more concrete evidence to that fact if it is of interest.2 Instead, in this 
+testimony, I want to focus on the challenges we face in countering (and thus deterring) China, 
+including some fallacies; my recommendations for how to mitigate US defense challenges in 
+deterring China from attempting a fait accompli; and my four rules for deterrence. 
+U.S. Operational Challenges in Preventing a Chinese Fait Accompli 
+China does not want to fight a protracted war against the United States at this stage of 
+development. The only situation in which it will initiate a war over Taiwan is if the leadership 
+believes it can move quickly and take the island before the United States has time to respond (I’ll 
+address some caveats to this later on). 
+ 
+The main vulnerabilities the United States experiences in its military power in Asia stem from 
+the fact that it is not a resident power in Asia and thus is attempting to project power across vast 
+distances.3 The emerging U.S. way of war exhibits several dependencies that China’s A2AD 
+strategy targets. First and foremost, the United States relies on other countries for base access, 
+while China can rely on home bases. This is problematic for several reasons. The number of 
+bases the United States has access to in the first island chain has atrophied since the end of the 
+Cold War, while China has infinite possibilities for basing options on its massive soil. In 
+practice, the result is that the United States has one air base, Kadena Air Base in Okinawa, within 
+combat range of Taiwan, while China has thirty-nine.4 Each air base can only support so many 
+aircraft (Kadena can house about eighty aircraft, only fifty-four of which are fighters. And even 
+here, the U.S. Air Force has also started to pull many of these aging aircraft out of the base, 
+replacing them only with a temporary unit of more modern F-22s), which translates into China 
+being able to generate far more sorties than the United States.5  
+ 
+But the biggest issue is that the United States may not be able to get any aircraft into the sky; all 
+U.S. forward bases in Korea and Japan, including Okinawa, are highly vulnerable to Chinese 
+attack, most likely with ballistic missiles and ground- or air-launched land attack cruise missiles. 
+China’s missile-launch capabilities in the region are staggering. A 2015 RAND report estimated 
+that air force bases in Japan and South Korea, including Kadena, could see thousands of Chinese 
+missiles launched at them. Even Andersen Air Force Base on Guam is within striking range of 
+hundreds of Chinese missiles launched from bombers and fighters. Specifically, the J-20, 
+deployed in 2017, greatly increased China’s ability to strike regional air bases, logistical 
+facilities, and other ground-based infrastructure.6 Similarly, Chinese H-6 bombers have 
+undergone several refits enabling them to strike targets as far as Guam.7  
+
+   
+ 
+3 
+ 
+China has long been aware of the vulnerability of the U.S. bases in the Asia-Pacific region and 
+Washington’s potential efforts to strengthen its bases.8 Media cite the 2008 RAND simulation, 
+which shows that thirty-four Chinese missiles could damage 75 percent of the aircraft in Kadena, 
+and call attention to Washington’s efforts to build up forces beyond the range of Chinese 
+missiles.9 The People’s Daily Online and China News republished the Global Times report on a 
+2014 National Interest article that argued Washington’s Asian military bases were the U.S. 
+Army’s greatest weakness, due to China’s increasing missile capabilities.10 The articles 
+specifically mentioned that the Yokosuka and Sasebo naval bases in Japan would become targets 
+for Chinese missiles, leaving U.S. maritime strike forces in the region isolated. 
+ 
+While the degree of damage depends on China’s strategy, the impact on the United States’ ability 
+to operate in the region after an attack would be severely limited. U.S. bases could be closed for 
+more than six weeks, with almost all aircraft damaged or destroyed.11 The range of China’s 
+destructive capability is only increasing. Indeed, China’s cruise and ballistic missile programs, 
+the heart of its long-range precision strike capability, are the most advanced and active in the 
+world; China has deployed thousands of cruise missiles, 600 short-range ballistic missiles 
+(SRBMs), and more than 500 medium-range ballistic missiles (MRBMs) capable of conducting 
+precision strikes against land targets and naval vessels out to the first island chain.12 China’s 
+MRBMs can extend PLA’s range to 1,000–2,000 kilometers, and new intermediate-range 
+ballistic missiles (IRBMs), including the DF-26, of which China has approximately 250, extend 
+operational ranges to 3,000 km. These are capable of precision attacks on Guam and U.S. carrier 
+battle groups operating beyond the first island chain, in the Indian Ocean, or in the South China 
+Sea.13  
+ 
+According to the Pentagon’s annual reports to Congress, China’s ICBM count grew from 45 to 
+300 missiles between 2010 and 2022; IRBMs grew from 20 to 250; MRBMs grew from 115 to 
+500. Land-attack cruise missiles and SRBMs actually decreased during this time; however, this 
+might be due to China’s replacing aging systems with newer, more sophisticated variants.14 
+China’s missiles have improved dramatically in terms of quality as well as quantity. For instance, 
+the DF-16, which only entered service in 2015, is nearly six times more accurate than the DF-
+15.15  
+ 
+In addition to its forward bases, the United States also projects power into the region from out-
+of-area locations. A classic example is the aircraft carrier—five of which are assigned to the 
+Indo-Pacific region, with two home-ported in San Diego, two home-ported in Washington State, 
+and only one ported in the region, in Yokosuka, Japan. Aircraft carriers work to project power by 
+geographically unlocking air superiority, allowing air forces to operate even without nearby 
+airbases. The spillover effects of air superiority, or even competitiveness in the air, are many. For 
+instance, during World War II, American aircraft carriers enabled success in critical naval 
+battles, provided air support to make possible amphibious landings, and were able to protect 
+shipping lanes despite the vastness of the Pacific Ocean and incidents being far away from 
+American airbases. The 2022 film Top Gun: Maverick shows how the carrier can be used for 
+deep-strike operations. In the movie, the pilots take off and return to a carrier off the coast of an 
+
+   
+ 
+4 
+unnamed hostile country without any concern for the carrier’s safety. This makes sense, as most 
+countries lack the ability to target a moving ship at sea from their shores, especially one as 
+heavily defended as a carrier. 
+ 
+But this is not the case with China. The PLA has terminally guided antiship ballistic missile 
+systems, most notably the DF-21D, that reportedly can engage adversary surface ships up to 
+1,000 nautical miles from the PRC coas, cued by increasingly sophisticated surveillance and 
+attack networks, holding at risk Tokyo, Manila, Pusan, and targets throughout the South China 
+Sea. With a combination of ballistic missiles, supersonic cruise missiles, rocket torpedoes, and 
+rocket-propelled sea mines laid by submarines, China can destroy or render operationally 
+ineffective all the aircraft carrier strike groups that the United States has in the Indo-Pacific 
+region without levying comparable forces. U.S. commanders are now reluctant to send carriers 
+into a conflict, making it difficult for the United States to establish air superiority.16 
+ 
+Even if U.S. aircraft manage to get in the air despite the threat to aircraft carriers and regional 
+bases, they are still threatened by a robust Chinese air defense system. Any air defense system 
+encompasses two main functions: first, warning systems, including radar networks and other 
+scanner, and second, air defense capabilities, including surface-to-air missiles (SAMs) and 
+fighter deployments. Chinese radar systems are strategically placed to overlap and are on the 
+artificial islands it built in the South China Sea, extending early-warning range further into the 
+Pacific.17 In terms of SAMs, China has continuously increased its deployments of long-range 
+advanced missiles, deploying the HQ-9, the HQ-9B, and the Russian-built SA-10 and SA-20 
+missiles. All Chinese SAM missiles currently in use can intercept aircraft and also cruise 
+missiles. The overlapping defenses increase the chance of kill and make their system more 
+robust.18 
+ 
+Indeed, such capabilities will make it difficult for the United States to surmount Chinese air 
+defenses with its usual set of tools (e.g., jamming, standoff, and stealth weapons) in the case of a 
+Taiwan contingency. China’s Integrated Air Defense System (IADS) is sophisticated enough to 
+prevent the United States’ fourth-generation, nonstealth aircraft from operating over and near the 
+Chinese mainland. As former senior intelligence officer Lonnie Henley told Congress, by 
+denying the United States the ability to conduct air operations over the Taiwan Strait, largely 
+thanks to its IADS, China could maintain a blockade of the island and continue launching its 
+planes to strike targets on Taiwan or U.S. Navy ships indefinitely.19 Although the United States 
+would do better in conflicts surrounding more remote areas such as the Spratly Islands, Chinese 
+capabilities such as advanced SAM systems and defensive combat air patrols could still stave off 
+an easy defeat.20 In both scenarios, the U.S. would have to rely on fifth-generation stealth 
+technology and standoff weapons to strike Chinese targets on the mainland, but China is also 
+making progress with the HQ-19.21 Although it is unclear whether Chinese air defense could 
+maintain a constant track on advanced U.S. stealth aircraft, the United States would be forced to 
+operate at higher altitudes and disable or destroy antiaircraft capabilities with long-range missiles 
+before being able to establish regional air superiority.22 
+ 
+
+   
+ 
+5 
+Because the United States would largely be projecting power from outside the first island 
+chain—from places like Guam, Hawaii, or even the continental United States—its military also 
+relies on many “enablers,” or augmented capabilities that directly impact mission 
+accomplishment. These are assets that main platforms or units need to engage in operations. 
+These enablers also create vulnerabilities that China can exploit to hurt the U.S. ability to project 
+power. For example, bombers and fighters need aerial refueling to engage in long-range 
+operations, and thus they need tankers to carry and provide the fuel. But tankers are vulnerable to 
+being shot down by Chinese surface-based defenses and fighters. Thus, China would compel the 
+United States to refuel farther away from the conflict zone, reducing the amount of combat time 
+fighters and bombers have (since they are flying farther and farther to get more fuel).23  
+ 
+Chinese analysts quickly became aware of the U.S. dependence on space-based assets and 
+services for commanding deployed troops, passing ISR data and enabling precision targeting and 
+engagement.24 Conducting network attacks, blinding, dazzling, or even destroying satellites with 
+a kinetic kill vehicle like an antisatellite could delay the deployment of U.S. military forces by 
+disrupting communications and denying information vital for determining the location and the 
+movement of forces.25 To paraphrase an authoritative Chinese military source, cyber operations 
+can be used to disseminate false information, simulate various combat operations of the troops to 
+mislead the enemy into wrong decisions, disrupt the enemy’s information obtainment, paralyze 
+the enemy’s command-and-control systems, or access the enemy’s internet system and cause 
+information destruction.26 Indeed, Chinese sources describe deterrence in outer space as “the first 
+choice of future deterrence” since space is not limited by politics or geography and could 
+“project the power of deterrence to every corner on the surface of the earth.”27 
+ 
+Given these realities, Chinese experts have advised that the PLA should emphasize military-civil 
+fusion and develop offensive and defensive cyber capabilities that target enemy vulnerabilities.28 
+As a result of this top leadership focus, China evolved from “a position of relative backwardness 
+in electronics in the 1990s” to “conducting large-scale cyber operations abroad, aiming to 
+acquire intellectual property, achieve political influence, carry out state-on-state espionage and 
+position capabilities for disruptive effect in case of future conflict.”29 China is now among the 
+top five leading source countries for denial-of-service and web application–based global 
+cyberattacks.30 
+ 
+China has also proactively exploited the absence of established norms in space to put forth its 
+own that would constrain the United States and cater to its strengths. For example, China’s 
+Prevention of the Placement of Weapons in Outer Space and the Threat or Use of Force Against 
+Outer Space Objects (PPWT) proposal would limit offensive weapons in space but does little to 
+restrain antisatellite weaponry.31 The United States, which sees little to gain in an agreement that 
+would limit its offensive capabilities while leaving China and Russia’s antisatellite missiles 
+untouched, continues to oppose the PPWT.32 China has also pushed for incorporating concepts 
+such as “cyber sovereignty” through the United Nations and its Digital Silk Road initiative. The 
+term means that states are free to regulate their information technology industries in ways they 
+see fit, justifying China’s stringent censorship of its internet.33 
+
+   
+ 
+6 
+Recommendations 
+The following recommendations are based on three main assessments about how to deter a war 
+across the Taiwan Strait. First, cost imposition is less impactful than deterrence by denial.34 
+Second, there is no indication that Xi Jinping needs to take Taiwan by 2027 to secure a new 
+term. I see 2027 as a no earlier than date, not a deadline. Third, Chinese power is not in for a 
+hard fall, making it now or never.35 In other words, China can be deterred. Below are some 
+options for achieving this—none of which are easy, and all of which are far from guaranteed.  
+ 
+More Access, Basing, and Overflight 
+The U.S. military force’s posture needs to be completely overhauled. There is no way to 
+adequately defend our bases from Chinese attack. Let me say that again: there is no way to 
+ensure our bases are adequately defended. If China wants to render them inoperable, it can 
+(operationally speaking). 
+ 
+Given the difficulty of adequately defending its bases and assets against Chinese attack, the best 
+strategy is dispersal, redundancy, and resilience. The best means of convincing China not to give 
+that a try is to show them that even after absorbing Chinese attacks, the United States can still 
+operate and achieve mission objectives. In other words, the focus is showing China that its 
+attacks will not have the operational benefits it hopes for. This is what I consider resilience. One 
+way of achieving this goal is redundancy—if we are fully reliant on any asset or location to 
+succeed, it becomes too juicy of a target. In space, we need smaller, distributed and redundant 
+space infrastructure. In terms of basing, we need to operate from more locations. Congress 
+should call upon the Department of Defense to do a real global posture review—one in 
+which we start with the threats and goals the U.S. military is hoping to achieve, and wiping 
+the map clean, we evaluate where would be the ideal places to base what types of assets. 
+Political feasibility is important, but an analysis of what is operationally ideal is important 
+before this factor is considered. 
+ 
+Negotiating access agreements and signaling to China that countries will support U.S. 
+military operations in case of a contingency should be a top priority for the State 
+Department. It is my sense that it is currently not, and there is insufficient coordination between 
+DoD and State on this. Countries in the region are reluctant to get involved, but in practice they 
+are choosing China when they choose neutrality, because that is all China needs to win. Access, 
+basing, and overflight (ABO) will be most forthcoming if it is clear that China is the aggressor 
+and Beijing is unable to take Taiwan quickly. U.S. leaders should avoid political maneuvering 
+that does not improve the operational situation and must ensure the country can respond quickly 
+and with minimal warning if China launches an attack on Taiwan.36 In other words, members 
+of Congress needs to make fewer trips to Taiwan and more to other countries in the region 
+to consolidate support for U.S. Taiwan policy. 
+ 
+Two final points on basing. In a recent trip to Japan, where I met with high level officials, I was 
+reassured that the Japanese would consider an attack on Kadena to be an attack on Japan. 
+
+   
+ 
+7 
+However, two points are still concerning. First, before Japan would allow the United States to 
+use its bases in a Taiwan contingency, there would be a domestic consultation process. It is not 
+clear what this process is and how long this takes. While there are reasons not to discuss this 
+issue in the public domain, U.S. officials need to make it a priority to clarify the process with 
+Japanese counterparts and ensure the process of permission to use U.S. bases to defend 
+Taiwan would take no more than 2-3 days.  
+ 
+On the new bases in the Philippines, this is one of the most positive developments in deterrence 
+to date. Only 500 kilometers from Kaohsiung, Taiwan and sitting on key sea lines of 
+communication in the South China Sea, the bases are a step towards regional readiness in the 
+event of a confrontation.37 However, how successful it is depends on what the United States puts 
+at the bases. I suspect that they might be Army-run; this is important for logistics but not 
+sufficient for the types of firepower we need to get in the theater quickly. Ideally, there would be 
+more airbases as well as submarines positioned in the northern Philippines. Congress should 
+ensure that they are consulted throughout the process to make sure the right posture is put at 
+these new Philippines locations 
+ 
+More Mass on Targets 
+ 
+Having more locations from which to operate will mitigate the problem of Chinese attacks but 
+will be insufficient to deny China the capability to take Taiwan. Doing so would require the 
+United States to hit Chinese ships as they make the one hundred mile voyage to Taiwan’s shores.  
+ 
+Even if by some miracle the United States’ power projection system survived an initial Chinese 
+attack and the majority of its forces were within targeting range of the Taiwan Strait, the United 
+States does not have the type and number of precision-guided munitions necessary to enfeeble 
+enough Chinese ships to put the operation’s success at risk. A 2021 report, written before the 
+Russia-Ukraine war, warned Congress that the services were buying low quantities of these 
+weapons despite the high demand that any conflict would place on U.S. stockpiles.38 For 
+instance, in its April 2022 procurement request, the U.S. Air Force requested fewer than two 
+hundred long-range anti-ship missiles (LRASMs), while the navy requested fewer than 450.39 
+When asked by reporters why the air force prioritized long-range standoff weapons designed to 
+hit fixed, rather than surface, targets, an official replied that the service was not focused on 
+hitting naval targets.40 The United States also fields the Harpoon anti-ship missile, the Maritime 
+Strike Tomahawk, the Naval Strike Missile, and the ground-based High Mobility Artillery 
+Rockets System (HIMARS, capable of firing antiship missiles). But here too, the United States is 
+not buying enough. The lone exception might be the HIMARS, of which the U.S. Army hopes to 
+procure five hundred by 2028, just barely in time for when the risk of invasion may begin to rise 
+dramatically.41  
+ 
+Consider the LRASM a useful example of the deficiency in U.S. procurement plans. Capable of 
+being launched from air or ship and with a range of over three hundred kilometers, the LRASM 
+represents one of the best options for striking Chinese naval and logistics vessels in a cross-strait 
+invasion. PLA analyses estimate that China would need between 550 and 700 logistics ships to 
+
+   
+ 
+8 
+transport men and materiel across the Taiwan Strait.42 Open-source reports suggest that China 
+could pull from nearly two thousand civilian ships currently suited for mobilization.43 Under a 
+best-case scenario—in which all of the US Air Force’s LRASMs and bomber fleets survive an 
+initial Chinese missile strike, each LRASM evades China’s impressive antiair defenses, and each 
+missile scores a killing blow against its target—the air force’s paltry 179 LRASMs would barely 
+put a dent in this logistics fleet (not to mention its navy’s surface combatants). This is likewise 
+for the navy, which would only bring another 450 missiles to the fight. Adjust these overly 
+optimistic conditions by assuming that half of the LRASMs survive a first strike and that only 
+half of those missiles find a home, and you are left with 157 missiles on target. As one report 
+notes, with only 179 missiles, the air force could only fly nine B-52 sorties or seven B-1 sorties.44 
+With each LRASM costing around $4 million, buying five times as many missiles over the next 
+five years would cost the United States about $13 billion, representing just 1.5 percent of the 
+amount Congress granted the military for 2023 alone.45  
+ 
+The U.S. defense industry cannot support the type, amount, and pace of production needed. The 
+United States also faces a backlog of nearly $19 billion in weapons meant for Taiwan, including 
+hundreds of Stingers, Javelins, and Paladin guided artillery. The COVID-19 pandemic and 
+related staffing shortages have led to much of this sclerosis.46 The crisis in Ukraine and tensions 
+over the Taiwan Strait highlight the long-standing problem that the United States does not have 
+the surge production needed. Part of the problem is that the Department of Defense (DoD) does 
+not provide the demand to justify these companies keeping their production lines online or at 
+least ready to be scaled quickly. For instance, because the Pentagon has not ordered Stingers 
+since 2003, only a few foreign buyers kept Raytheon’s Stinger production lines operational.47  
+ 
+Some experts view the U.S. Navy’s fleet of fifty-three fast-attack submarines, consisting of 
+submarines in the Seawolf, Los Angeles, and Virginia classes, as a comparative advantage over 
+China. PLA antisubmarine warfare capabilities are considered poor, while U.S. submarines are 
+world class.48 But however poor China’s antisubmarine warfare capabilities are, American boats 
+would be operating in a very tight environment in the Taiwan Strait and would have to face the 
+combined might of China’s surface fleet, submarines, and airborne antisubmarine warfare assets. 
+Procurement and maintenance problems exist here, too. According to the navy, less than one-
+third of U.S. attack submarines have completed maintenance on time over the past decade, and 
+navy officials have expressed concern over how stressed U.S. submarine shipyards have 
+become.49 
+ 
+The United States needs to develop frameworks for better coordination and cooperation 
+between the defense industry and the government. Operation Warp Speed (OWS), the 
+interagency initiative that led to the rapid development, approval, and distribution of COVID-19 
+vaccines, could serve as an example. Defense procurement experts should study this program 
+and determine how DoD might apply OWS’s successes to its research, development, and 
+procurement efforts.50 Governments must often step in as providers of public goods when the 
+market does not have the incentives necessary to motivate private companies to produce or 
+provide a good or service. It might not make economic sense to train personnel and build 
+production lines that are ultimately underutilized, but the need for a surge capacity in times of 
+
+   
+ 
+9 
+war makes sense strategically. The U.S. government should explore options for a reserve 
+force to produce defense equipment. 
+ 
+Moreover, the civil-military partnership needs to be revitalized. In the 1960s, the DoD 
+funded about half of the country’s entire research and development budget; today, that number is 
+just 10 percent. While this may allow the Pentagon to piggyback off technology funded and 
+developed by private corporations, it does lessen the military’s ability to guide the nation’s 
+overall research and development effort.51  
+ 
+Leveraging Partners 
+Most U.S. efforts in foreign military sales, joint training, and exercises are designed to build 
+partner capacity. The United States, the principal weapons supplier for Taiwan, has been busy 
+helping Taipei adopt its “Overall Defense Concept” (ODC), or what some experts call the 
+“Porcupine Strategy.” The ODC sees Taiwan relying on high numbers of low-cost weapons such 
+as mines, missiles, and mobile artillery systems, rather than expensive, flashy platforms such as 
+fighter jets and submarines.52  
+ 
+Apart from Taiwan, the United States is helping countries across the region prepare for conflict 
+with China. The AUKUS deal will provide Australia with nuclear fast-attack submarines, while 
+Japan plans to buy Tomahawk missiles from the United States to bolster its long-range 
+counterstrike capability.53 The Biden administration recently sold Indonesia $14 billion in F-15 
+fighter jets, which would certainly help Indonesia contest Chinese air supremacy over the South 
+China Sea. And the Pentagon has made clear that the Philippines’ human rights issues will not 
+impede arms sales in the future, which should become more relevant considering the new 
+president, Ferdinand Marcos Jr., is seen as much more hawkish on China than his predecessor.54 
+ 
+Nowhere is building partnership capacity more important than in Taiwan’s building its own self-
+defense. Over the past two administrations, the United States has sold Taiwan over $20 billion in 
+arms. These include deals for cutting-edge F-16V fighter jets, radar arrays, Harpoon antiship 
+missiles, and Patriot missile defense systems.55 The United States has also quietly deployed 
+special operations units to Taiwan to train its troops.56  
+ 
+But these actions alone do not present enough of a credible threat to Beijing. The mechanism 
+through which this deters China is that Taiwan needs to show it can hold off long enough to 
+allow the United States to come to its aid; then, other countries need to show the willingness to 
+directly support U.S. military operations.  
+ 
+In prioritizing U.S. allyship, Japan is positioned to play the most pivotal role. It boasts the third-
+largest economy in the world and the second-largest population in Northeast Asia. And despite 
+the limitations imposed by its constitution, the Japanese Maritime Self-Defense Force (MSDF) is 
+one of the best navies in Asia. It boasts over fifty surface combatants, including eight Aegis-
+equipped guided missile destroyers and four helicopter carriers, two of which were converted 
+into aircraft carriers capable of fielding advanced F-35B fighters.57 The MSDF also fields 
+
+   
+ 
+10 
+twenty-one diesel-electric attack submarines and has commissioned two of a planned twenty-two 
+Magami-class multi-role frigates.58 The MSDF’s five major bases at Yokosuka, Sasebo, Kure, 
+Maizuru, and Ominato also provide MSDF and U.S. Navy ships with in-theater ports for repair 
+and replenishment.59 The U.S. Navy’s only permanently forward-deployed aircraft carrier, the 
+USS Ronald Reagan, is home-ported at Yokosuka. In short, Japan’s size, geography, and naval 
+might could prove decisive in a U.S.-China conflict.  
+ 
+But the role of allies and partners is not relegated only to military roles. Much ink has been 
+spilled about how Beijing would not attack Taiwan if the result were complete diplomatic and 
+economic isolation.60 However, the bottom line is that there are few indications that this would 
+be the countries’ response, especially if China took Taiwan quickly with limited casualties.61 
+The United States needs to work now to brainstorm potential sanctions packages that 
+would be enough to set back Chinese economic growth by a significant margin. Much like 
+we do joint contingency planning for war fighting, we need to coordinate in peacetime with 
+U.S. allies on the steps, stages and nature of the economic sanctions we would levy together.  
+U.S. and allied sanctions on Russia have brought that country’s GDP down by about 3.5 percent, 
+so any sanctions package would need to far exceed that figure—and Washington must also 
+convince countries to communicate their willingness to implement such measures if there is a 
+Chinese use of force.62  
+ 
+Taiwan’s Self-Defense 
+ 
+We need to get it right on Taiwan’s self-defense. This is the most important thing that will 
+convince Beijing it cannot achieve a fait accompli. Within this mission, it is essential that we 
+keep China from establishing a significant beachhead on the island of Taiwan. We may think that 
+they should be concerned about the costs of occupation—but they are not (see my Foreign 
+Affairs response in “Strait of Emergency” for more evidence to this fact).63 Therefore, the most 
+important thing to deter a war is to convince Beijing that Taiwan will be able to keep them at bay 
+long enough for the United States to arrive in force. 
+ 
+This is an exceptionally important point. We discuss Taiwan's ‘self-defense,’ but there is no 
+situation in which Taiwan can defend itself. It is important for the domestic discourse in 
+the United States for Americans to understand that there is no parallel with Ukraine. There 
+is no option in which China invades Taiwan and then United States sits back it just sells Taiwan 
+weapons to defend itself. First and foremost, there is no way to supply Taiwan once the war 
+starts given that it's an island, the geography is just different than Ukraine. But they are up 
+against a much more sophisticated foe. The only option to ensure that Taiwan does not fall if 
+Beijing attacks is direct military intervention on behalf of the United States. Both Taiwan and 
+United States need to understand this and plan accordingly. All command-and-control, training, 
+equipment needs to take into account the fact that the United States and Taiwan will be fighting 
+together. This means that Taiwan has to have a greater reliance on the United States. It is this 
+reliance that will signal to Beijing that the United States is actually coming. 
+ 
+
+   
+ 
+11 
+Let me address some fallacies in understanding about escalation and deterrence of the Taiwan 
+Strait. Some people might be concerned that as United States enhances training, arms sales to 
+Taiwan, this could start the war that we were hoping to avoid. In other words, U.S. policy is 
+leading to a self-fulfilling prophecy. It is true that if Taiwan declares independence Beijing is 
+going to war. Though less explicitly stated, I think that if United States tried to put nuclear 
+weapons in Taiwan or establish an official military alliance with U.S. bases in Taiwan, this 
+would also spark a war. But anything short of this, I don't think Beijing feels compelled to 
+start a war before they feel like they're ready. If United States is engaging in more military 
+operations in the vicinity of Taiwan and if Taiwan is improving in their training, this is not 
+enough to convince Beijing that it is now or never. 
+ 
+Even if the United States makes the changes that I lay out, these are only temporary solutions. As 
+we get closer to Japan, China will get closer to Russia. As we build more munitions and put them 
+in more places, China will build more munitions with the ranges to reach those places. All of the 
+recommendations I lay out only buy us more time; there is no way to resolve the issue forever. In 
+Beijing's mind, even if there are these improvements in U.S. position, I think it's more likely that 
+they go back to the drawing board and decide how to defeat United States again before we are in 
+another threat window. China will not risk a war before it is ready and before its leadership think 
+victory is assured (as long as there is no declaration of independence or formal alliance). This 
+means we have a lot more leeway to enhance Taiwan’s self-defense. That being said, we should 
+do this as quietly as possible. Once Taiwan is ready, we can start signaling these new 
+capabilities. But there's no reason to talk publicly about our hopes of improving Taiwan's defense 
+if that defense has not been improved, at least from a deterrence perspective. 
+ 
+General Principles for Implementing Recommendations: The Four Rules of Deterrence 
+ 
+Congress is likely to get many more recommendations on enhancing deterrence across the 
+Taiwan Strait besides the ones I have provided today. Executing my recommendations or 
+assessing others should be done against the consideration of four basic rules of deterrence. The 
+following rules may seem simple, but in my experience, many recommendations do not meet 
+these basic standards.  
+1) To deter by denial, whatever we do in peacetime has to have some positive 
+operational impact. What this means is that not every military activity has deterrent 
+value in the case of China over Taiwan. Sailing aircraft carriers around Taiwan does not 
+have deterrent value if the Chinese know those carriers are getting as far away from the 
+strait as possible if it looks like conflict is on the horizon. So the question is: does that 
+capability impact China’s ability to take Taiwan? If the answer is no, you cannot use it in 
+peacetime in a signaling capacity to enhance deterrence. This rule should be strictly used 
+when assessing the future of U.S. posture in the Philippines.  
+2) Whatever we do to deter the war has to happen before the war. Allies and partners 
+will come around, the U.S. will jumpstart the defense industry—it’s a common refrain 
+that problems will be solved once the war starts. Maybe. But then we have failed to deter 
+the war. So if we want our actions to serve as a deterrent, we have to do it now. This is 
+
+   
+ 
+12 
+why I argue for peacetime coordination of economic sanctions, clarification of the 
+Japanese consultation process, and fixing our broken defense industry now, not after 
+China attacks. 
+3) In many cases, to impact deterrence, actions have to meet a certain threshold. In the 
+operational environment, sometimes it’s all or nothing. In other words, while 
+improvement is great, if we still do not get the total force, or Taiwan’s defense, to where 
+it needs to be, it does not deter. If it takes the U.S. x number of days to mobilize what we 
+need for a fight, that is how long Taiwan needs to hold out. If we need x number of 
+munitions to sink enough Chinese ships such that they cannot continue with an 
+amphibious assault, then anything less is not enough. Even if we improve, China will still 
+think they can accomplish a fait accompli. 
+4) How do we signal to China that taking Taiwan will be too costly or too difficult? 
+Step one, make it true. Then talk to me about messaging.  
+ 
+ 
+Conclusion 
+The issue is not that China has surpassed the United States in military power; it has not. The 
+issue is that, given current trends, China will meet or outmatch U.S. regional capabilities in the 
+next five to ten years. China will soon have a modern military capable of conducting joint 
+operations, such as those necessary to deny access to the South China Sea, retake islands, or 
+force reunification with Taiwan. If, in the meantime, the U.S. military does not improve and 
+strengthen its force posture in Asia, improve its resiliency, and increase its ability to deny China 
+these objectives forcibly, then Chinese leaders may decide it is worth the risk to use force. This 
+is how we end up in a war with China—not because we are overly provocative or push back too 
+much, but because we do not do enough to maintain deterrence in the region and China gains the 
+confidence to jettison a cautious approach.  
+ 
+Military capabilities are not the best answer, but they are the easiest for the U.S. government to 
+control. Upgrading political relationships can be even more challenging, especially given the 
+latent threat of China lurking in the background. We need to ask Indo-Pacific countries what 
+would be necessary to get their support and a closer military relationship—and be open-minded 
+about what such relationships may require.  
+ 
+To balance against the Soviet Union during the Cold War, we had the strategic mindset and 
+political will to look beyond China’s political system, normalize relations, and move that 
+relationship forward. We need that degree of strategic thinking and political will; adhering to the 
+same policies but expecting different outcomes will not change current trends in East Asia. We 
+need to think differently, whether in creating a reserve force for the defense industry, 
+coordinating economic sanctions ahead of time, or managing capability gaps with strategic 
+agility. For example, since the United States might receive an unambiguous warning of an 
+invasion, we should communicate to China (and the world) that the amassing of a certain 
+quantity of troops and ships will be taken as a sign of an impending assault. None of these 
+
+   
+ 
+13 
+recommendations is easy, but deterring a war is always less painful than fighting one. For the 
+sake of peace and security in Asia, experimentation is worth the risk.  
+ 
+1 The author would like to thank Thomas Causey for his expert research assistance. 
+2 Oriana Skylar Mastro, “The Taiwan Temptation:Why Beijing Might Resort to Force,” Foreign Affairs, 
+June 3, 2021, https://www.foreignaffairs.com/articles/china/2021-06-03/china-taiwan-war-temptation. 
+3 Parts of this testimony are adapted from Oriana Skylar Mastro, “The Military Challenge of the People’s 
+Republic of China,” in M. Boskin, J.N. Rader and K. Sridhar. Defense Budgeting for a Safer World: The 
+Experts Speak, Hoover Institution Press, forthcoming Fall 2023. 
+4 Eric Heginbotham, Michael Nixon, Forrest E. Morgan, Jacob L. Heim, Jeff Hagen, Sheng Tao Li, 
+Jeffrey Engstrom, et al., The US-China Military Scorecard: Forces, Geography, and the Evolving 
+Balance of Power, 1996–2017 (Santa Monica, CA: RAND, 2015).  
+5 “18th Wing,” United States Fifth Air Force, undated, accessed December 5, 2022, 
+https://www.5af.pacaf.af.mil/About-Us/Fact-Sheets/Display/Article/1483830/18th-wing; Stephen Losey, 
+“F-22s Arrive at Kadena, as Aging F-15s Prepare to Depart,” DefenseNews, November 7, 2022.  
+6 Timothy R. Heath, Kristen Gunness, and Cortez A. Cooper III, “The PLA and China's Rejuvenation: 
+National Security and Military Strategies, Deterrence Concepts, and Combat Capabilities,” (Washington, 
+DC: RAND Corporation, 2016), 38-39. Cited in China Power Team, “Does China’s J-20 Rival Other 
+Stealth Fighters?” ChinaPower, February 23, 2018,  https://chinapower.csis.org/china-chengdu-j-20.  
+7 US Department of Defense (DoD), Military and Security Developments Involving the People’s Republic 
+of China 2022: Annual Report to Congress, November 29, 2022, 81–82. 
+8 “The Five Chinese Weapons that the US Army Is Most Afraid Of: DF-21D Is the First [美军最害怕的 5
+款中国武器 DF-21D 导弹居首],” China Military Website [中国军网], May 8, 2014, 
+http://www.81.cn/bqtd/2014-05/08/content_5895795.htm. 
+9 “Hong Kong media hypothetical Sino-US conflict: Asia-Pacific bases will be the Achilles heel of the 
+United States[港媒假想中美冲突：亚太基地将是美国致命弱点],” ChinaNews [中新网], March 4, 
+2016, https://www.chinanews.com.cn/m/mil/2016/03-04/7783387.shtml.  .............................................  
+10 “American Media: Chinese Missiles Make America’s Asia-Pacific Military Bases into the Fatal Fall of 
+the US Army [美媒：中国导弹令美亚太军事基地太为美军致命伤],” People’s Daily Online [人民网], 
+May 20, 2014, http://military.people.com.cn/n/2014/0520/c1011-25039554.html. 
+11 In a RAND simulation of an attack on Kadena, 36 Chinese missiles closed the runways for four days, 
+scaling up to 43 days of closure if 274 missiles were to be used. The study also noted that the DF-21C-
+class missile could carry hundreds of submunitions, blanketing hundreds of square feet so that every 
+aircraft parked in the area would have a high probability of being damaged. With just 108 missiles, China 
+could shut down the airfield for a week and, with high probability of success, destroy every single fighter 
+on the base. See Heginbotham et al., US-China Military Scorecard, 60.)  
+12 US Department of Defense (DoD), Military and Security Developments Involving the People’s 
+Republic of China 2021: Annual Report to Congress , November 3, 2021, 167; Jin Yu, ed. The Science of 
+Second Artillery Campaigns [第二炮兵战役学] (Beijing: People’s Liberation Army Press, 2004), 82–86.  
+13 DoD, Military and Security Developments 2022, 167.  
+14 US Department of Defense (DoD), Military and Security Developments Involving the People’s 
+Republic of China 2010: Annual Report to Congress, April 29, 2011, 66, 
+http://www.andrewerickson.com/wp-content/uploads/2015/11/DoD_China-Report_2010.pdf; Military 
+and Security Developments Involving the People’s Republic of China 2022, 167.  
+ 
+
+   
+ 
+14 
+ 
+15 David Webb, “Dong Feng-16 (CSS-11),” Missile Defense Advocacy Online, February 2017; “DF-15,” 
+Missile Threat CSIS, August 5, 2021. 
+16 In 2013 the PLA tested the DF-21D against a stationary, ground-based target about the size of a US 
+aircraft carrier. In 2020, China fired the DF-21D and its intermediate-range counterpart, the DF-26, at a 
+moving target in the South China Sea; however it remains unclear whether the test was successful. See 
+DoD, Military and Security Developments 2022, 65. 
+17 “A Constructive Year for Chinese Base Building,” Asia Maritime Transparency Initiative, December 
+14, 2017; DoD, Military and Security Developments 2022, vii.  
+18 DoD, Military and Security Developments 2022, viii; Heginbotham et al., US-China Military 
+Scorecard, 170.  
+19 US-China Economic and Security Review Commission, Hearing on Cross-Strait Deterrence, February 
+18, 2021, (Testimony by Lonnie Henley, “PLA Operational Concepts and Centers of Gravity in a Taiwan 
+Conflict”).  
+20 Heginbotham et al., US-China Military Scorecard, 130–31. 
+21 Heginbotham et al., US-China Military Scorecard, 130. 
+22 Kris Osborn, “Could the US Military Gain Air Supremacy in a War with China,” The National Interest, 
+November 8, 2021.  
+23 Timothy A. Walton and Bryan Clark, “Resilient Aerial Refueling: Safeguarding the US Military’s 
+Global Reach,” Hudson Institute, November 2021, 29. 
+24 Wei Chengxi [魏晨曦], “Space War and Its Operational Environment [太空战及其作战环境],” 
+Aerospace China [中国航天], no. 10 (2001): 40; Zhang Yuliang [张玉良] et al., eds., The Science of 
+Campaigns [战役学] (Beijing: Guofang Daxue Chubanshe [国防大学出版社], 2006), 87. 
+25 Interestingly, these acknowledgments often come in the form of translating and publishing Western 
+analysts’ perspectives on Chinese capabilities, see Xin Lian [信莲], “American Media: PLA Space 
+Capabilities Might Overtake the US Military [美媒: 解放军空天战力或“逆袭”美军],” China Daily [中
+国日报网], April 23, 2014, http://world.chinadaily.com.cn/2014-04/23/content_17456442.htm; 
+“American Media: The Contest in Space Is the Next “Great-Power Competition” [美媒: 太空之争，下一
+场中美“大国竞赛”],” Xinhuanet [新华网], January 31, 2021, http://www.xinhuanet.com/mil/2021-
+01/31/c_1211004592.htm. 
+26 Yu, Second Artillery Campaigns, 341. 
+27 Zhang Yan [张岩], Theory of Strategic Deterrence [战略威慑论] (Beijing: Social Sciences Literature 
+Press [社会科学文献出版社], 2018), 97–98. 
+28 Long Kun [龙坤] and Zhu Qichao [朱启超], “Algorithmic Warfare: Concept, Characteristics and 
+Implications [算法战争” 的概念、特点与影响],” National Defense Science & Technology [国防科技] 
+38, no. 6 (2017): 41. 
+29 Brad D. Williams, “US ‘Retains Clear Superiority’ in Cyber; China Rising: IISS Study,” Breaking 
+Defense, June 28, 2021; International Institute for Strategic Studies, “Cyber Capabilities and National 
+Power: A Net Assessment,” June 28, 2021.  
+30 Omer Yoacimik and Vivek Ganti, “DDoS Attack Trends for Q4 2021,” Cloudflare Blog, January 10, 
+2022. In its 2021 annual report, cybersecurity firm CrowdStrike found that Chinese state-affiliated hacker 
+ 
+
+   
+ 
+15 
+ 
+groups were responsible for 67 percent of intrusions in the year leading up to June 2021; see “Nowhere to 
+Hide: 2021 Threat Hunting Report,” CrowdStrike, June 2021. As further evidence that its cyber strategy 
+is about exploiting US vulnerabilities, China has not invested the same into its own cyber defenses, which 
+remain weak, and its cyber-resilience policies for its critical national infrastructure are only in the initial 
+stages; see Williams, “US ‘Retains Clear Superiority.’”  
+31 Ministry of Foreign Affairs of the People’s Republic of China, “China and Russia Jointly Submitted the 
+Draft Treaty on PPWT to the Conference on Disarmament,” February 2, 2008; Bradley Bowman and 
+Jared Thompson, “Russia and China Seek to Tie America’s Hands in Space,” Foreign Policy, March 31, 
+2021.  
+32 Todd Harrison, “International Perspectives on Space Weapons,” Center for Strategic and International 
+Studies, Aerospace Security Project, May 2020; Almudena Azcárate Ortega, “Placement of Weapons in 
+Outer Space: The Dichotomy Between Word and Deed,” Lawfare, January 28, 2021.  
+33 Ministry of Foreign Affairs of the People’s Republic of China, “Remarks at the Opening Ceremony of 
+the Second World Internet Conference,” (by Xi Jinping), December 16, 2015, 
+https://www.fmprc.gov.cn/eng/wjdt_665385/zyjh_665391/201512/t20151224_678467.html.  
+34 Oriana Skylar Mastro, “Deterrence in the Indo-Pacific,” National Bureau of Asian Research, Asia 
+Policy 17, no. 4 (October 2022), 8–18.  
+35 For the evidence on Xi’s political motivation see: Mattathias Schwartz, “Why China Doesn’t Actually 
+Want to Invade Taiwan,” Insider, November 12, 2022; and Derek Grossman, “Xi Jinping Is Not Looking 
+to Go to War over Taiwan Anytime Soon,” NIKKEI Asia, November 16, 2022. For a counter to the 
+peaking China argument, see Oriana Skylar Mastro and Derek Scissors, “China Hasn’t Reached the Peak 
+of Its Power: Why Beijing Can Afford to Bide Its Time,” Foreign Affairs, August 22, 2022.  
+36 Oriana Skylar Mastro, “Biden Says We’ve Got Taiwan’s Back, But Do We?” New York Times, May 27, 
+2022.  
+37 Brad Lendon, “US Gains Military Access to Philippine Bases Close to Taiwan and South China Sea,” 
+CNN, April 4, 2023, https://www.cnn.com/2023/04/04/asia/us-philippines-military-base-access-intl-hnk-
+ml/index.html. 
+38 John Hoehn, “Precision-Guided Munitions: Background and Issues for Congress,” Congressional 
+Research Service, June 11, 2021.  
+39 US Department of Defense, “Department of Defense Fiscal Year (FY) 2023 Budget Estimates – Air 
+Force, Missile Procurement,” (Department of the Air Force), April 2022, Volume 1 – 31 & 43, 
+https://www.saffm.hq.af.mil/Portals/84/documents/FY23/PROCUREMENT_/FY23%20Air%20Force%2
+0Missile%20Procurement.pdf?ver=QeRLpOSY7vcLmsKbr3C-Qw%3d%3d; US Department of Defense, 
+“Department of Defense Fiscal Year (FY) 2023 Budget Estimates – Navy, Weapons Procurement,” 
+(Department of the Navy), April 2022, Volume 1 – 121 & 227, 
+https://www.secnav.navy.mil/fmc/fmb/Documents/23pres/WPN_Book.pdf.  
+40 John A. Tirpak, “As Air Force Ramps Up JASSM, Work Begins on Its Replacement,” Air and Space 
+Forces Magazine, August 5, 2021 (also cited in Robert Haddick, “Defeat China’s Navy, Defeat China’s 
+War Plan,” War on the Rocks, September 21, 2022).  
+41 For HIMARS, see Joe Saballa, “US Army Seeking 500 New HIMARS by 2028,” Defense Post, 
+September 14, 2022, https://www.thedefensepost.com/2022/09/14/us-army-himars-2028/.  
+42 Li Peng [李鹏]，Sun Hao [孙浩]，and Liu Enyang [刘思阳] “Study on Joint Projection Command for 
+Theater Command [战区联合投送指挥研究], Journal of Military Transportation University [军事交通
+学院学报] 21, no. 5 (May 2019), 1-5, quoted in McCauley, “Logistics Support for a Cross-Strait 
+Invasion,” 6.  
+ 
+
+   
+ 
+16 
+ 
+43 “Hu Xiubin: ‘Four Insufficients’ Present in the Construction of China’s Maritime Strategic Projection 
+Reserve Forces” [胡修斌: 我国海上战略投送后备力量建设存在 “四个不足”], China National Radio [
+央广网], March 9, 2017, quoted in Conor M. Kennedy, “Getting There: Chinese Military and Civilian 
+Sealift in a Cross-Strait Invasion,” in Crossing the Strait: China’s Military Prepares for War with 
+Taiwan, ed. Joel Wuthnow, Derek Grossman, Phillip C. Saunders, Andrew Scobell, and Andrew N.D. 
+Yang (Washington, DC: National Defense University Press, 2022), 223–52. 
+44 Stacie Pettyjohn and Hannah Dennis, “Precision and Posture: Defense Spending Trends and the FY23 
+Budget Request,” Center for a New American Security, November 2022, 10.  
+45 US Defense Department, “Program Acquisition Cost by Weapon System (FY 2021),” Department of 
+Defense Comptroller, May 2021, 5–11, https://assets1.cbsnewsstatic.com/i/cbslocal/wp-
+content/uploads/sites/15909806/2021/08/fy2021_Weapons.pdf; Patricia Zengerle, “US Senate Passes 
+Record $858 Billion Defense Act, Sending Bill to Biden,” Reuters, December 15, 2022.  
+46 Doug Cameron, “Defense Companies Hurt by Staffing Shortages amid Growing Weapons Demand,” 
+Wall Street Journal, July 30, 2022.  
+47 Joe Gould and Bryant Harris, “As Raytheon Struggles to Replenish Stinger Missiles, Lawmaker Pushes 
+Defense Production Act,” DefenseNews, April 26, 2022.  
+48 Lyle Goldstein, “China Is Improving Its Anti-Submarine Warfare Capabilities,” National Interest, 
+November 28, 2021.  
+49 Sam LaGrone, “NAVSEA: Navy ‘Struggling’ to Get Attack Subs out of Repairs on Time as Demand 
+Increases,” USNI News, September 21, 2022; Andrew Greene, “US Admiral Issues Blunt Warning on 
+Building Australian Submarines in Overstretched Shipyards,” ABC Australia, September 1, 2022. 
+50 David Adler, “Inside Operation Warp Speed: A New Model for Industrial Policy,” American Affairs 5, 
+no. 2 (Summer 2021): 3–32.  
+51 Paul Scharre and Ainikki Riikonen, “Defense Technology Strategy,” Center for a New American 
+Security, November 17, 2020.  
+52 Lee Hsi-min and Eric Lee, “Taiwan’s Overall Defense Concept, Explained,” The Diplomat, November 
+3, 2020.  
+53 “AUKUS Reshapes the Strategic Landscape of the Indo-Pacific,” The Economist, September 25, 2021; 
+Michelle Ye Hee Lee and Ellen Nakashima, “Japan to Buy Tomahawk Missiles in Defense Buildup amid 
+Fears of War,” Washington Post, December 12, 2022.  
+54 Nick Aspinwall, “US to Sell Philippines Arms Despite No Human Rights Reforms,” Nikkei Asia, 
+February 24, 2021.  
+55 “US Arms Sales to Taiwan,” Forum on the Arms Trade, accessed December 21, 2022, 
+https://www.forumarmstrade.org/ustaiwan.html.  
+56 Gordon Lubold, “US Troops Have Been Deployed in Taiwan for at Least a Year,” Wall Street Journal, 
+October 8, 2021.  
+57 International Institute for Strategic Studies, The Military Balance: The Annual Assessment Of Global 
+Military Capabilities and Defence Economics (London: International Institute for Strategic Studies, 
+February 2020), 279–83, cited in Toshi Yoshihara, Dragon Against the Sun: Chinese Views of Japanese 
+Seapower, Center for Strategic and Budgetary Assessments, 2020.  
+58 Tim Fish, “Japan Countering China’s Naval Build-up with Modern Fleet,” USNI News, April 11, 2022; 
+“Japan Adds Two Ships to Its Fleet of Aegis-equipped Destroyers,” Japan Times, November 21, 2022.  
+59 International Institute for Strategic Studies, The Military Balance: The Annual Assessment Of Global 
+Military Capabilities and Defence Economics (London: International Institute for Strategic Studies, 
+February 2020), 277.  
+ 
+
+   
+ 
+17 
+ 
+60 Jude Blanchette and Gerard DiPippo, “‘Reunification’ with Taiwan through Force Would Be a Pyrrhic 
+Victory for China,” Center for Strategic and International Studies, November 2022.  
+61 Oriana Skylar Mastro and Derek Scissors, “Beijing Is Used to Learning from Russian Failures,” 
+Foreign Policy, April 18, 2022.  
+62 Boris Grozovski, “Russia’s Economy at the End of 2022: Deeper Troubles,” Wilson Center, November 
+23, 2022.  
+63 Oriana Skylar Mastro, “Strait of Emergency? Debating Beijing’s Threat to Taiwan,” Foreign Affairs, 
+September/October 2021: 225-229. 
+ 

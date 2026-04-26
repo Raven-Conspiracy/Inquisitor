@@ -1,0 +1,38 @@
+The Type 022 (NATO designation: Houbei class) is a class of Chinese catamaran missile boat. It entered service with the People's Liberation Army Navy (PLAN) in 2004.
+It is sometimes called the "Type 22".
+
+
+== Development ==
+In the 1980s, Chinese naval strategy shifted from coastal to offshore operations ("near-seas active defense"). By the late-1990s, the PLAN wanted fast attack craft with greater range and seakeeping.  The Type 022 was likely a response to the requirement. In the early-2000s, China made an abortive attempt to purchase Tarantul-class corvettes from Russia.
+The Type 022 is based on AMD Marine Consulting's AMD 350 catamaran hull and developed further by Seabus International in Guangzhou; Seabus was a joint venture between AMD and China State Shipbuilding Corporation's Guangzhou Marine Engineering Corporation.
+The prototype launched from Qiuxin Shipyard in Shanghai in April 2004. Production occurred from at least six shipyards before ending in 2009.
+In October 2025, Janes reported that Indonesia planned to acquire the Type 022.
+
+
+== Design ==
+
+The Type 022 has a wave-piercing catamaran hull made of aluminium. The hull is reportedly manufactured using friction stir welding. Radar cross section-reduction features are incorporated, including a stealthy turret for the AK-630.
+The boat only has line of sight sensors. Longer-range fire in coordination with other units is enabled by tactical data links.
+According to a 2014 report from the U.S. Naval War College's China Maritime Studies Institute, the boat's speed and aluminium hull makes it difficult to attack with torpedoes with magnetic detonators.
+Later boats received a FLS-1 launcher on bridge for QW man-portable surface-to-air missile.
+
+
+== Operational history ==
+Type 022s in the PLAN typically deploy in squadrons of eight. During exercises, they have fired coordinated missile salvoes using third-party targeting data. Their missions may include coastal defense, ISR, and supporting offensive operations outside territorial waters.
+
+
+== See also ==
+Hamina-class missile boat
+Kuang Hua VI-class missile boat
+Skjold-class corvette
+
+
+== References ==
+
+
+== Sources ==
+International Institute for Strategic Studies (2025). The Military Balance 2025. London: Routledge. ISBN 978-1-041-04967-8.
+Murray, William S. (2014). "Underwater TELs and China's Antisubmarine Warfare". China's Near Seas Combat Capabilities. CMSI Red Book. Vol. 11. China Maritime Studies Institute. ISBN 978-1-935352-16-7.
+Patch, John (2014). "Chinese Houbei Fast Attack Craft". China's Near Seas Combat Capabilities. CMSI Red Book. Vol. 11. China Maritime Studies Institute. ISBN 978-1-935352-16-7.
+Walton, Timothy A.; McGrath, Bryan (2014). "China's Surface Fleet Trajectory". China's Near Seas Combat Capabilities. CMSI Red Book. Vol. 11. China Maritime Studies Institute. ISBN 978-1-935352-16-7.
+Saunders, Stephan, ed. (2015). Jane's Fighting Ships 2015-2016. Jane's Information Group. ISBN 978-0710631435.

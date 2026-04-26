@@ -1,0 +1,80 @@
+The Dongfeng 21 (DF-21; NATO reporting name CSS-5 - Dong-Feng (simplified Chinese: 东风; traditional Chinese: 東風; lit. 'East Wind') is a two-stage, solid-fuel, single-warhead medium-range ballistic missile (MRBM) developed by China's Changfeng Mechanics and Electronics Technology Academy. A part of the Dongfeng missile family, the DF-21's development started in the late 1960s, and it was completed around 1985–86, but not deployed until 1991. It was developed from the JL-1 submarine-launched missile, and is China's first solid-fuel land-based missile. The U.S. Department of Defense in 2008 estimated that China had 60-80 missiles and 60 launchers; approximately 10-11 missiles can be built annually.
+Originally developed as a strategic weapon, the DF-21's later variants were designed for both nuclear and conventional missions. It is thought to be able to carry a high explosive, submunition for tactical/theater-level missions, or a 300 kt nuclear warhead for strategic strikes. The latest variant, the DF-21D, was said to be the world's first anti-ship ballistic missile (ASBM). The DF-21 has also been developed into the SC-19, an anti-ballistic missile and anti-satellite missile. As of 2025, its KF-21 air-launched ballistic missile variant represents China's only air capability within its nuclear triad.
+Though the launcher vehicle itself is mobile to reduce vulnerability, an actual launch unit requires support vehicles that can cover a 300×300-meter area, making it hard to move quickly and easier to detect.  Also, the wheeled launcher is not made to travel off-road and requires firm ground when firing to prevent backblast and debris damage due to the hard launch, restricting its firing locations to roads and pre-made launch pads.
+
+
+== DF-21/A/C (CSS-5 Mod-1/2/3) ==
+As director of the National Defense Science and Technology Commission (NDSTC) Zhang Aiping contended that JL-1 weapons  must also "go ashore" and be adapted to a solid fuel land-based missile, the DF-21. This development effort was delayed  when Zhang stepped down from the NDSTC, following Deng Xiaoping's removal from office in early 1976.
+The basic variant DF-21 had a range of 1,770+ km, and a payload of 600 kg (1,300 lb) consisting of a single 500 kt nuclear warhead, with an estimated circular error probable (CEP) of 300~400 m; this version did not enter operational service. The DF-21A was operational by 1996 and has improved accuracy with an estimated CEP of 100~300 m. This version is reported to have a similar 1,770+ km range, with a potential extended range of 2,150 km (1,340 mi).
+Revealed in 2006, the DF-21C is a terminally guided version that has a maximum range believed to be about 1,700 km (1,100 mi) and accuracy estimated to be 50~100m. The missile was the first dual-capable version, able to be armed with either a nuclear or conventional warhead. In 2010, the DF-21C was being deployed in central Western China.
+
+
+== DF-21D (CSS-5 Mod-4) Anti-ship ballistic missile ==
+
+
+=== Development ===
+This is an anti-ship ballistic missile that has a maximum range exceeding 1,450 kilometres (900 mi; 780 nmi), according to the U.S. National Air and Space Intelligence Center. The Intelligence Center did not believe it was deployed in 2009. As of 2009, the guidance system was thought to be still in an evolutionary process as more UAVs and satellites are added.
+The US Department of Defense stated in 2010 that China has developed and reached initial operating capability (IOC) of a conventionally armed high hypersonic land-based anti-ship ballistic missile based on the DF-21. This is the first ASBM and weapon system capable of targeting a moving aircraft carrier strike group from long-range, land-based mobile launchers. The DF-21D is thought to employ maneuverable reentry vehicles (MaRVs) with a terminal guidance system. Such a missile may have been tested in 2005–6, and the launch of the Jianbing/Yaogan satellites would give the Chinese targeting information from SAR (synthetic-aperture radar) and visual imaging respectively. The upgrades enhance China's ability to prevent US carriers from operating in the Taiwan Strait. Some have also suggested China could develop a DF-21D with multiple reentry vehicles.
+To support this, a test range in the Taklamakan Desert has been seen on satellite, possibly used to test the DF-21 (and sister missiles). This facility, which features high-fidelity mock-ups of U.S. warships, is used to analyze the missile's reentry vehicle, guidance systems, and impact. The targets are part of the People's Liberation Army's efforts to develop its anti-access/area denial (A2/AD) capabilities.
+
+
+==== Guidance and navigation ====
+Between 2009 and 2012, China launched a series of satellites to support its ASBM efforts:
+
+Yaogan-VII electro-optical satellite - 9 December 2009
+Yaogan-VIII synthetic aperture radar satellite - 14 December 2009
+Yaogan-IX Naval Ocean Surveillance System (NOSS) constellation (3 satellites in formation) - 5 March 2010.
+Yaogan-XVI Naval Ocean Surveillance System (NOSS) constellation  - 25 November 2012
+China was reported to be working on an over-the-horizon radar in 2013 to locate the targets for the ASBM. An apparent test of the missile was made against a target in the Gobi Desert in January 2013.
+
+
+==== Re-entry vehicle ====
+In 2014, the U.S. Navy reported that images that have appeared on the internet showed similarities of a DF-21D re-entry vehicle to the American Pershing II missile's RV, which was withdrawn from service in 1988. The Pershing II's RV weighed 1,400 lb (640 kg) and was fitted with four control fins to perform a 25-G pull-up after reentering the atmosphere, traveling at Mach 8 and then gliding 30 nmi (35 mi; 56 km) to the target to pitch into a terminal dive. Army training manuals about the missile are available on the internet and public open-source literature extensively describes it; the DF-21 has a comparable range and payload. Though much is made of the DF-21D's damage infliction ability based solely on velocity and kinetic energy, the Australian Strategic Policy Institute has calculated that the energy of an inert 500 kg (1,100 lb) RV impacting at Mach 6 had similar energy to the combined kinetic and explosive power of the American subsonic Harpoon anti-ship missile, which is one-quarter the energy of the Russian supersonic 12,800 lb (5,800 kg) Kh-22 missile traveling at Mach 4 with a 2,200 lb (1,000 kg) warhead.
+
+
+=== Impact on naval warfare ===
+In 2009, the United States Naval Institute stated that there was "currently ... no defense against [a warhead able to destroy an aircraft carrier in one hit]" if it worked as theorized. It was reported in 2010 that China was finalizing development of a MaRV warhead for the DF-21. The United States Navy has responded by switching its focus from a close blockade force of shallow water vessels to return to building deep water ballistic missile defense (BMD) destroyers. The United States has also assigned most of its ballistic missile defense capable ships to the Pacific, extended the BMD program to all Aegis destroyers and increased procurement of SM-3 BMD missiles. The United States also has a large network optimized for tracking ballistic missile launches which may give carrier groups sufficient warning in order to move away from the target area while the missile is in flight. Kinetic defenses against the DF-21D would be difficult. The Navy's primary ballistic missile interceptor, the SM-3, would not be effective since it is designed to intercept missiles in the mid-course phase in space, so it would have to be launched almost immediately to hit before reentry or from an Aegis ship positioned under its flight path. The SM-2 Block 4 can intercept missiles reentering the atmosphere, but the warhead will be performing high-G maneuvers that may complicate interception. By 2016, the US Navy was testing the vastly more capable SM-6, which is designed to intercept ballistic missiles in the terminal phase. The SM-6 began deployment in 2013.
+Use of such a missile has been said by some experts to potentially lead to nuclear exchange, regional arms races with India and Japan, and the end of the INF Treaty between the United States and the Soviet Union, to which the People's Republic of China is not a party.
+
+
+=== Skepticism ===
+The emergence of the DF-21D has some analysts claiming that the "carrier killer" missiles have rendered the American use of aircraft carriers obsolete, as they are too vulnerable in the face of the new weapon and not worth the expense. Military leaders in the U.S. Navy and Air Force, however, do not see it as a "game changer" to completely count carriers out.
+First, the missile may not be able to single-handedly destroy its target, as the warhead is believed to only be enough to inflict a "mission kill" that makes a carrier unable to conduct flight operations.
+Secondly, there is the problem of finding its target. The DF-21D has a range estimated between 1,035 to 1,726 mi (899 to 1,500 nmi; 1,666 to 2,778 km), so a carrier battle group would need to be located through other means before launching. Over-the-horizon radars cannot pinpoint a carrier's exact location, and would have to be used in conjunction with Chinese recon satellites. Though recon aircraft and submarines could also be used to look for the carrier, they are vulnerable to the carrier battle group's defenses.
+Finally, although the DF-21D has radar and optical sensors for tracking, it has not yet been tested against a ship target moving at-sea at up to 55 km/h (30 kn; 34 mph), let alone ones using clutter and countermeasures. The missile's "kill chain" requires processing and constantly updating a carrier's location details, preparing the launch, programming information and firing. The U.S. military's AirSea Battle concept involves disrupting such kill chains. Some U.S. analysts believe that the DF-21D does not fly any faster than Mach 5.
+The DF-21D may also not be as fast as theorized. While ballistic missiles reenter the atmosphere at speeds between Mach 8–15 at an altitude of 50 km (160,000 ft), increasing air resistance in the denser low-atmosphere region reduces terminal speed to around Mach 2 at 3–5 km (9,800–16,400 ft). It cannot acquire its target until this point due to ionization blockage, leaving a relatively short time to actually search for a ship. This could enable the target to leave the area if the missile is detected soon enough before it engages its terminal sensors, and the slower speed upon reentry leaves it vulnerable to missile interceptors.
+
+
+=== Appearances and deployments ===
+The missile was shown to the public during the 2025 China Victory Day Parade.
+On 26 August 2020, along with a DF-26B, a DF-21D was launched into an area of the South China Sea between Hainan and the Paracel Islands, one day after China said that an American U-2 spy plane entered a no-fly zone without its permission during a Chinese live-fire naval drill in Bohai Sea off its north coast and came as Washington blacklisted 24 Chinese companies and targeted individuals it said were part of construction and military activities in the South China Sea. US officials subsequently assessed that the People's Liberation Army Rocket Force (PLARF) had fired four medium-range ballistic missiles in total. The missile tests drew criticism from Japan, the Pentagon and Taiwan.
+
+
+== DF-26 ==
+
+The DF-26 is an enhancement of the DF-21 with range increased to more than 5,000 km (3,100 mi). Its existence was officially confirmed by the Chinese state in the mid-2010s, but it had already been in service for several years.
+On 26 August 2020, a DF-26B was fired from Qinghai province into an area between Hainan and the Paracel Islands as a response to a U.S. U-2 spy plane entering into a no-fly zone during a Chinese live-fire naval drill the day earlier.
+
+
+== SC-19 ==
+The SC-19 is the anti-satellite and anti-ballistic missile version of the DF-21. Multiple tests of the missile have been conducted. It is capable of targeting ballistic missiles and satellites outside of the Earth's atmosphere.
+
+
+== KF-21 ==
+
+The "KF-21" (possible Chinese designation, NATO designation: CH-AS-X-13) is reported to be an air-launched variant of the DF-21 with a nuclear or anti-ship role. It is a two-stage missile, with its weight may be reduced by using composite materials. The War Zone reported two possible warhead configurations; a DF-21D-style "double-cone" tip, and a hypersonic glide vehicle (HGV) similar to the DF-ZF on the DF-17 missile.
+It was in development by 2018. In 2018, the United States projected it would be ready for deployment by 2025.
+The missile is carried by the Xian H-6N bomber; the aircraft has a recessed underside to carry the missile externally.
+In September 2025, the JL-1 air-launched ballistic missile was revealed to the public on the 2025 China Victory Day Parade. Analysts believed the JL-1 is identical to the CH-AS-X-13.
+
+
+== Saudi Arabian purchase ==
+
+The DF-21 may have been exported to Saudi Arabia. In January 2014, Newsweek reported that the missiles were purchased in 2007. Conventionally-armed DF-3 missiles were bought by Saudi Arabia in 1988, but were not used during the 1990-1991 Gulf War due to their poor accuracy and the potential for collateral damage. Saudi Arabia wanted the shorter-ranged but much more accurate DF-21 as an upgrade. The United States approved of the purchase on the condition that the missiles were conventionally-armed. The Central Intelligence Agency (CIA) examined the modified nosecones and concluded that nuclear warheads that might be purchased from China or Pakistan could not be fitted.
+
+
+== See also ==
+Dong Neng-3
+
+
+== References ==

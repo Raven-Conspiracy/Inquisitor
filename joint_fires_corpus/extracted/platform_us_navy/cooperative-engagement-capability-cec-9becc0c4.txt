@@ -1,0 +1,50 @@
+Cooperative Engagement Capability (CEC) is a sensor network with integrated fire control capability that is intended to significantly improve battle force air and missile defense capabilities by combining data from multiple battle force air search sensors on CEC-equipped units into a single, real-time, composite track picture (network-centric warfare).  This will greatly enhance fleet air defense by making jamming more difficult and allocating defensive missiles on a battle group basis.
+
+
+== Development ==
+
+
+=== Origins of the US Navy program ===
+The CEC concept was conceived by Johns Hopkins University Applied Physics Laboratory in the early 1970s. The concept was  originally called Battle Group Anti-Air Warfare (AAW) Coordination. The first critical at-sea experiment with a system prototype occurred in 1990. The CEC became a Navy acquisition program in 1992.
+
+
+== United States ==
+
+
+=== NIFC-CA ===
+In the future, CEC will form a key pillar of the Naval Integrated Fire Control-Counter Air (NIFC-CA) capability, which will allow stealthy sensor platforms such as the F-35C Lightning II to act as forward observers with their observations channeled through the E-2D Advanced Hawkeye to less stealthy platforms such as the UCLASS or Boeing F/A-18E/F Super Hornet.
+In a combat situation where the United States Navy would need to penetrate an anti-access/area denial (A2/AD) environment, a carrier air wing would launch all of its aircraft.  The F-35C would use its stealth to fly deep into enemy airspace and use its sensors to gather intelligence, surveillance, and reconnaissance (ISR) data.  The EA-18G Growler would use the Next Generation Jammer to provide stand-off jamming or at least degradation of early warning radars.  When targets are detected by the F-35C, they would transmit weapons-quality track to the E-2D and pass that information on to Super Hornets or other F-35Cs.  The F/A-18E/F fighters would penetrate as far as they could into heavily contested airspace, which is still further than an ordinary fourth-generation jet fighter, then launch stand-off weapons.  The UCLASS would use aerial refueling capabilities to extend the range of the strike force and use its own ISR sensors.
+NIFC-CA relies on the use of data-links to provide every aircraft and ship with a picture of the entire battlespace.  Aircraft deploying weapons may not need to control missiles after releasing them, as an E-2D would guide them by a data-stream to the target.  Other aircraft are also capable of guiding missiles from other aircraft to any target that is identified as long as they are in range; work on weapons that are more survivable and longer-ranged is underway to increase their effectiveness in the data-link-centric battle strategy.  This can allow forward-deployed Super Hornets or Lightning IIs to receive data and launch weapons without needing to even have their own radars active.  E-2Ds act as the central node of NIFC-CA to connect the strike group with the carrier, but every aircraft is connected to all others through their own links.  Two Advanced Hawkeyes would move data using the tactical targeting network technology (TTNT) waveform to share vast amounts of data over long distances with very low latency.  Other aircraft would be connected to the E-2D through Link 16 or concurrent multi-netting-4 (CMN-4), a variant of four Link 16 radio receivers "stacked up" on top of each other.  Growlers would coordinate with each other using data-links to locate hostile radar emitters on land or on the ocean surface.  Having several sensors widely dispersed also hardens the system to electronic warfare; all cannot be jammed, so the parts that are not can home in on the jamming energy and target it for destruction.  The network is built with redundancy to make it difficult to jam over a broad geographic area.  If an enemy tries to disrupt it by targeting space-based communications, a line-of-sight network can be created.
+Cooperative engagement also applies to ship-based protective features where Aegis radars of guided missile cruisers and destroyers are linked together into a single network to share data as a whole.  This allows targets detected by one ship, as well as those seen by aircraft, to be identified by another ship and fired upon with long-range missiles like the Standard Missile 6 (SM-6) without that vessel having to actually detect it themselves.  Not needing to fire on targets only once a ship's own sensors see them allows for shorter time needed to shoot, increased standoff distance to begin firing, and enables a whole fleet to intercept threats, like high-speed cruise missiles, once only a single ship sees them.
+On September 12, 2016 Lockheed used a separate ground station to relay the F-35's Multi-Function Advanced Data Link (MADL) targeting data to an Aegis system for a SM-6 launch.
+
+
+== France ==
+France has developed its own CEC system tenue de situation multi plateformes (TSMPF)
+
+
+== India ==
+On 15 May 2019, the Indian Navy conducted the maiden cooperative engagement firing of the Barak 8. The firing was undertaken on the Western Seaboard by 2 Kolkata-class destroyers, INS Kochi and INS Chennai wherein the missiles of both ships were controlled by one ship to intercept different aerial targets at extended ranges. The trial was carried out by the Indian Navy, DRDO and Israel Aerospace Industries. The capability would be rolled out on all future major warships of the Indian Navy.
+The test employed the full Joint Taskforce Coordination (JTC) mode which implements the Barak 8 ‘Cooperative Engagement’ operating mode. The trial comprised two complex scenarios involving multiple platforms and several simultaneous targets.
+The destroyers detected multiple targets using their EL/M-2248 MF-STAR radars and launched several missiles at those targets. What was different was that only one of the ships controlled the engagement, intercepting different aerial targets at extended ranges by the missiles fired from both ships using the systems’ JTC mode. The test demonstrated the ability of MRSAM to operate wide area air defense, distributing assets and control over different platforms and locations. Previous MRSAM firing trials were conducted on a single platform, in the stand-alone mode.
+
+
+== Japan ==
+In a Joint test, Japan's Cooperative Engagement Capability  allowed JS Maya to detect and track a ballistic missile; JS Haguro shot it down.
+
+
+== Australia ==
+CEC forms apart of the Australian Joint Integrated Fires Capability (AJIFC), and is present on the RAN's AWDs, and in the future on Wedgetails of the RAAF, Army command stations and NASAMS batteries, and the Hunter-class frigate.
+The capability was proven twice. The first was between Air Warfare Destroyer HMAS Hobart and NUSHIP Brisbane, or HMAS Brisbane, before official delivery to the Royal Australian Navy. The second was between Australia (HMAS Hobart) and the United States (USS John Finn), where each vessel's CEC interoperability with the other was demonstrated.
+
+
+== See also ==
+Global Information Grid
+Ship Self-Defense System
+
+
+== References ==
+
+
+== External links ==
+ Media related to Cooperative Engagement Capability at Wikimedia Commons

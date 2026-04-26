@@ -1,0 +1,90 @@
+The Astute class is the latest class of nuclear-powered fleet submarines (SSNs) in service with the Royal Navy. The boats are constructed by BAE Systems Submarines at Barrow-in-Furness. Seven boats will be constructed: the first of class, Astute, was launched by Camilla, Duchess of Cornwall, in 2007, commissioned in 2010, and declared fully operational in May 2014. The Astute class is the replacement for the Trafalgar-class fleet submarines in Royal Navy service.
+
+
+== Development ==
+
+
+=== Batch 2 Trafalgar class ===
+The Astute-class programme began in February 1986 when the Ministry of Defence (MOD) launched a number of studies intended to determine the capabilities and requirements for the replacement of its Swiftsure and Trafalgar-class fleet submarines. These studies, called project SSN20, were conducted during the Cold War, when the Royal Navy maintained a strong emphasis on anti-submarine warfare to counter increasingly capable Soviet submarines. To match this growing threat, the studies concluded that project SSN20 should be a revolutionary design, with significantly enhanced nuclear propulsion and firepower, and a more sophisticated "integrated sonar suite" and combat systems. Similarly, the United States Navy, which was facing the same threats, went on to design and build the Seawolf class. The estimated costs of project SSN20, although great, were not considered a "constraint".
+However, by 1990 the Berlin Wall had fallen and the Cold War came to an end. Project SSN20 was promptly cancelled and a new set of design studies were started, this time, with "cost control" as a key objective. The Trafalgar class had been an evolved derivative of the preceding Swiftsure class, and in order to reduce cost and technical risk it was concluded that this new class of fleet submarine should "build upon" the Trafalgar design. This became known as the Batch 2 Trafalgar class (B2TC), with approval for the studies phase given in June 1991. While the philosophy behind B2TC was that of a modern and improved Trafalgar, early design concepts of B2TC were also heavily influenced by the then under construction Vanguard class, in particular its nuclear steam raising plant (NSRP).
+
+
+=== Astute programme ===
+Following two years of a studies phase on B2TC, the MOD issued a draft invitation to tender in October 1993 and a final invitation to tender in July 1994. The final invitation to tender involved a formal competition between GEC-Marconi/BMT Limited and VSEL/Rolls-Royce, with bids to be submitted in June 1995. GEC-Marconi and BMT had little experience with British submarine designs, whereas VSEL and Rolls-Royce were heavily involved in both British nuclear submarine design and construction.
+During the assessment phase of the bids put forward by both teams, the MOD favoured the GEC-Marconi/BMT design on both cost and capability grounds. The bid put forward by VSEL/Rolls-Royce was less attractive and considered "an expensive and dull design." In June 1995, VSEL was subject to a takeover by GEC-Marconi, and with it, the Barrow shipyard. In December of the same year, the MOD announced that GEC-Marconi was the preferred bidder. The bid put forward by GEC-Marconi included the innovative use of 3D CAD software and modular construction techniques. Although the MOD had awarded the contract to GEC-Marconi, partly due to its competitive cost, it was still considered too high for the MOD to sign off on. The MOD and GEC-Marconi negotiated on a new price for the contract, amounting to £2.4 billion for the first three Astute submarines, plus in-service support. The contract was signed on 14 March 1997, for what was now called the Astute programme, with a fixed maximum price, and any cost overruns being assumed by GEC-Marconi, the contractor.
+Although B2TC was intended to be a modest improvement over the Trafalgar class, it was not to be the case for Astute. With the signing of the contract in March 1997, GEC-Marconi started work on developing a complete and comprehensive design for the Astute programme. Initial realisation was that the size of the Rolls-Royce PWR2 required a much larger boat (beam and length) and significantly improved acoustic quieting. A new understanding was reached between the MOD and GEC-Marconi that this would be an entirely new class, and far more complex than originally envisioned.
+
+
+=== Construction, cost overruns and delays ===
+
+In November 1999, British Aerospace purchased GEC-Marconi and created BAE Systems. At the time of the takeover, it had been approximately 20 years since the Vanguard class was designed, and the last of the boats had already been launched. The workforce at the Barrow shipyard had fallen from around 13,000 to 3,000. Key skills in design and engineering had been lost, predominantly through retirement or movement into other careers. This created significant delays and challenges in getting the Astute programme from design phase and into construction phase. Further delays and cost increases were also caused by the 3D CAD software, despite originally being touted as an innovative cost saving measure, by greatly reducing man-hours. However, one of the reasons for this was a lack of experienced designers able to use the software and its expanded tools.
+
+Despite numerous difficulties, including incomplete design drawings, the first boat, Astute, was laid down on 31 January 2001. As planned, modular construction methods were used, with the boat being built in several ring-like modules, each up to several metres in length. These were welded together using specially designed high-strength steel, and then fitted out. From boat 2 onward however, vertical outfitting has been used, whereby the ring-like sections are "stood up on their ends." This has better enabled the fitting of large and heavy equipment, and has also proved to be more efficient, with reportedly "thousands of man-hours saved". The class is the first nuclear submarine to be designed entirely using 3D computer software.
+By 2002 both BAE and the MOD recognised they had underestimated the technical challenges and costs of the programme. In August 2002 the programme was estimated to be over three years late and hundreds of millions of pounds over budget. BAE Systems issued a profit warning on 11 December 2002 as a result of the cost overruns and delays. BAE Systems and the MOD subsequently renegotiated the contract, with an understanding that the MOD had to share some of the financial risks. In December 2003 the contract modifications were signed, with the MOD agreeing to add another £430 million to the programme and BAE Systems assuming £250 million of the cost overruns. The MOD also enlisted the advice and expertise of General Dynamics Electric Boat for shipyard management and construction workflow planning through a U.S. Navy contract. Eventually, a General Dynamics Electric Boat employee became the Astute Project Director at Barrow.
+
+Input from General Dynamics helped resolve many of the software issues associated with 3D CAD; General Dynamics was also responsible for the introduction of vertical outfitting and other construction techniques. Consequently, much rework was needed on Astute now that detailed designs were complete. On 8 June 2007 Astute was launched and boats 2 and 3 (Ambush and Artful) were at various stages of construction. A month previously, procurement for boat 4 (Audacious) had been agreed. Boats 5 and 6 (Anson and Agamemnon) were approved in March 2010. In June 2012 the order was placed for the manufacture of the nuclear reactor for boat 7 (Achilles), as well as production of the first nuclear reactor for the Dreadnought-class submarine. A £1.4 billion order to construct Agamemnon was issued by the MOD to BAE Systems on 19 April 2017
+In November 2009, a House of Commons Defence Select Committee found that delays due to technical and programme issues brought the Astute class to a position of being 57 months late and 53 per cent (or £1.35 billion) over-budget, with a forecast cost of £3.9 billion for the first three boats. The handover of boat 4, HMS Audacious, was delayed from 2019 to 2021 due to "emergent technical issues". In February 2020, James Heappey, parliamentary under secretary of state for defence, confirmed that the in-service date for the final SSN, HMS Achilles, had slipped to 2026. It was later reported that this had in fact been pushed back into 2028 or early 2029.
+As part of the AUKUS partnership from "as early as" 2027, one Astute-class submarine and up to 4 United States submarines will forward operate on rotation from HMAS Stirling in Western Australia. This UK and US presence is known as Submarine Rotational Force - West.
+
+
+=== Programme cost summary ===
+In 2015, the National Audit Office (NAO) gave per submarine forecasts:
+
+In March 2024, the Cabinet Office Infrastructure and Projects Authority (IPA)  reported  the total cost of the Astute programme had risen to £11.26 billion, explained by "inflation and delivery cadence within the shipyard". In May 2025, the MOD reported that the "Astute Programme is valued at £12.2 billion" without explaining the change.
+Over the years the total forecasts were:
+
+
+=== Replacement ===
+
+In September 2021, the Ministry of Defence announced a £170 million investment into design work for the successor to the Astute-class. This funding included two £85 million contracts, which were awarded to BAE Systems and Rolls-Royce. In March 2023, it was announced that the submarine would be a joint project between the United Kingdom, Australia and the United States and would start to replace the Astute-class in the Royal Navy in the late 2030s.
+
+
+== Characteristics ==
+
+
+=== Weapons and systems ===
+
+The Astute class has stowage for 38 weapons and would typically carry a mix of Spearfish heavy torpedoes and Tomahawk Block IV cruise missiles, the latter costing £870,000 each. The Tomahawk missiles are capable of hitting a target to within a few metres, to a range of 1,000 miles (1,600 kilometres). In May 2022, the MOD announced that it would be upgrading these missiles to Block V standard from 2024, which boasts an extended range and modernised in-flight communication and target selection. The Astute Combat Management System is a new version of the Submarine Command System used on other classes of British submarine. The system receives data from the boat's sensors and displays the results on command consoles. The submarines also have Atlas Hydrographic DESO 25 high-precision echosounders, two CM010 non-hull-penetrating optronic masts—in place of conventional periscopes—which carry thermal imaging and low-light TV and colour CCD TV sensors. The class also mounts a Successor IFF system.
+For detecting enemy ships and submarines, the Astute class is equipped with the sophisticated Sonar 2076, an integrated passive/active search and attack sonar suite with bow, intercept, flank and towed arrays. BAE claims that the 2076 is the world's best sonar system. All of the Astute-class submarines will be fitted with the advanced Common Combat System.
+
+
+=== Propulsion and general specifications ===
+The boats of the Astute class are powered by a Rolls-Royce PWR2 (Core H) (a pressurised water reactor) and fitted with a pump-jet propulsor. The PWR2 reactor, which was developed for the Vanguard-class ballistic missile submarines, has a 25-year lifespan without the need for refuelling. As a result, the new submarines are about 30 per cent larger than previous British fleet submarines, which were powered by smaller-diameter reactors. Like all Royal Navy submarines, the bridge fin of the Astute-class boats is specially reinforced to allow surfacing through ice caps. These submarines can also be fitted with a dry deck shelter, which allows special forces (e.g. SBS) to deploy whilst the submarine is submerged. More than 39,000 acoustic tiles mask the vessel's sonar signature, part of the acoustic qualities that the Astute class has over any other submarine previously operated by the Royal Navy.
+A 2009 safety assessment by the Defence Nuclear Safety Regulator concluded that PWR2 reactor safety was significantly short of good practice in two important areas: loss-of-coolant accident and control of submarine depth following emergency reactor shutdown. The regulator concluded that PWR2 was "potentially vulnerable to a structural failure of the primary circuit", which is a failure mode with significant safety hazards to crew and the public. Operational procedures have been amended to minimise these risks.
+Astute is the second Royal Navy submarine class, after the Vanguard class, to have a bunk for each member of the ship's company, ending the practice of 'hot bunking', whereby two sailors on opposite watches shared the same bunk at different times. However, they have less mess-deck space than the Valiant-class submarines built 45 years earlier and a Defence Board audit recognised mistakes had been made on accommodation standards and quality of life issues. Since it is nuclear powered, the boat has theoretically unlimited endurance, though in practice it is limited to 90 days at sea based on food carried (including 18,000 sausages and 4,200 Weetabix) and crew endurance.
+In 2012, during the joint exercise Fellowship, Astute performed simulated battles with the latest United States Navy Virginia-class submarine, USS New Mexico. Royal Navy Commander Iain Breckenridge was quoted, "Our sonar is fantastic and I have never before experienced holding a submarine at the range we were holding USS New Mexico. The Americans were utterly taken aback, blown away with what they were seeing".
+The Astute class are designed to achieve a top speed of 29–30 knots (54–56 km/h), but it was reported in 2012 that this speed could not be reached in trials due to a mismatch between the reactor and the turbine. However, in January 2015, the National Audit Office confirmed that demonstration of the top speed requirement (or Key Performance Measure (KPM)) for the Astute class was successful.
+
+
+== Incidents ==
+On 22 October 2010, the Ministry of Defence confirmed that Astute had "run into difficulties" off the Isle of Skye while on trials, after eyewitnesses reported the submarine had run aground a few miles from the Skye Bridge. There were no reports of injuries.
+On 8 April 2011, whilst the submarine was docked at Southampton, Able Seaman Ryan Samuel Donavan, using an SA 80 rifle, shot and murdered Lt Cdr Ian Molyneux in the control room of Astute. He also attempted to murder Lt Cdr Christopher Hodge (who was shot through the body), PO Christopher Brown and CPO David McCoy. He fired six shots before being wrestled to the deck by visiting City Council Leader Royston Smith and Chief Executive Alistair Neill.
+On 20 July 2016, Ambush sustained damage to the top of her conning tower during a collision with a merchant ship while surfacing on an exercise in Gibraltarian waters. It was reported that no crew members were injured during the collision and that the submarine's nuclear reactor section remained undamaged.
+
+
+== Boats in the class ==
+
+The names Astute, Ambush and Artful were last given to Amphion-class submarines that entered service towards the end of World War II. Audacious, Anson and Agamemnon were all names used by battleships that served in the First or Second World Wars.
+
+
+== See also ==
+
+List of submarines of the Royal Navy
+List of submarine classes of the Royal Navy
+List of submarine classes in service
+Royal Navy Submarine Service
+Future of the Royal Navy
+Cruise missile submarine
+Attack submarine
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Royal Navy Astute Class
+BAE Systems Astute Class

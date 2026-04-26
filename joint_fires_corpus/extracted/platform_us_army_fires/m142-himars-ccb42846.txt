@@ -1,0 +1,291 @@
+The M142 High Mobility Artillery Rocket System (HIMARS ) is a light multiple rocket launcher developed in the late 1990s for the United States Army and mounted on a standard U.S. Army Family of Medium Tactical Vehicles (FMTV) M1140 truck frame.
+The HIMARS carries one pod with either six Guided Multiple Launch Rocket System rockets or one ATACMS missile. It is based on the U.S. Army's FMTV five-ton truck, and is capable of launching all rockets in the Multiple Launch Rocket System Family of Munitions. HIMARS ammunition pods are interchangeable with the M270 MLRS. It has a single pod, as opposed to the standard two for the M270 and its variants.
+The launcher can be transported by C-17 Globemaster, C-5 Galaxy, and Lockheed C-130 Hercules aircraft. The FMTV truck that transports the HIMARS was initially produced by Armor Holdings Aerospace and Defense Group Tactical Vehicle Systems Division, the original equipment manufacturer of the FMTV. It was produced by the Oshkosh Corporation from 2010 to 2017. with all units since then being manufactured by Lockheed Martin's Missiles and Fire Control division.
+
+
+== Development ==
+The requirement for HIMARS came about in 1982, when the 9th Infantry Division (Motorized) saw the need to acquire a light multiple rocket launcher as a counterfire asset. The requirement failed to gather support from the Field Artillery School and languished for a number of years. The institutional bias at the time was oriented towards heavy forces. With the waning of the Cold War and the growing interest in low-intensity operations, both the Field Artillery School and Missile Command realized that the M270 MLRS was too heavy for rapid deployment and pushed for the funding of HIMARS.
+The Gulf War gave new impetus towards fielding a lightweight MLRS, when the M270 proved too costly in airlift assets to deploy in theater and the launchers did not arrive with the initial wave of U.S. troops. In April 1991, the HIMARS concept was tested at White Sands Missile Range, using a modified Honest John launcher.
+
+HIMARS was then developed as a private venture by Loral Vought Systems, later Lockheed Martin Missiles and Fire Control, to meet this requirement. The system first appeared publicly in 1993. In 1996, the U.S. Army Missile Command awarded Lockheed Martin a $23.2 million contract to build four prototypes. In April 1998, the vehicles were delivered to the XVIII Airborne Corps for a two-year evaluation with 3rd Battalion, 27th Field Artillery Regiment.
+In July 1998, the Army conducted a test firing of the ATACMS. In December 1999, the Aviation and Missile Command awarded Lockheed Martin a $65 million contract for engineering and manufacturing development. Under this contract, Lockheed Martin delivered six HIMARS in late 2001 for Army evaluation. In April 2003, the Army awarded Lockheed Martin a $96 million contract to begin low rate initial production. Around this time, the Marine Corps placed an order for two units for evaluation purposes.
+The launcher system and chassis are produced by Lockheed Martin Missiles & Fire Control in Camden, Arkansas as of 2019.
+
+
+== Design ==
+The HIMARS is similar in design to the M270 Multiple Launch Rocket System (MLRS), with the main exception being that it is a wheeled vehicle as opposed to a tracked vehicle. The HIMARS can carry the same type of pods as the M270, but carries one pod while the M270 carries two pods. The HIMARS windows are made of sheets of sapphire laminated with glass and polycarbonate.
+The HIMARS was also tested as a unified launch system for both artillery rockets and the SLAMRAAM surface-launched variant of the AMRAAM anti-aircraft missile.
+In October 2017, a Marine Corps HIMARS fired a rocket while at sea against a land target for the first time from the deck of the amphibious transport dock USS Anchorage, demonstrating the system's ability to operate while on ships to deliver precision fire from a standoff range against shore defenses. The vehicle's targeting software was reworked so it can better fire while on a launch platform in motion.
+By early 2022, Lockheed Martin was producing HIMARS at a rate of 48 launchers annually, but following the start of the 2022 Russian invasion of Ukraine that rate was increased to 60. In October 2022 the company announced it would boost production to 96 systems annually in response to increased demand caused by the war. Limitations in building new industrial capacity means it will be several months before production can be ramped up from five to eight vehicles monthly.
+
+
+== Operational history ==
+HIMARS first entered service in June 2005 with the 27th Field Artillery, 18th Airborne Corps at Fort Bragg, in North Carolina.
+
+
+=== Afghanistan and the Middle East ===
+Three prototype HIMARS launchers were successfully used during the Iraq War. The first US Marine Corps battalion equipped with HIMARS, the 2nd Battalion, 14th Marine Regiment, was deployed to Iraq in July 2007.
+
+In February 2010, the International Security Assistance Force (ISAF) for Afghanistan indicated in a press release that two rockets fired from a HIMARS were believed to have fallen 300 metres short of their intended target, killing 12 civilians during Operation Moshtarak. ISAF suspended the use of the HIMARS until a full review of the incident was completed. A British officer later said that the rockets were on target, that the target was in use by the Taliban, and that use of the system had been reinstated. Reports indicated that the civilian deaths were due to the Taliban's use of human shields. The presence of civilians at that location had not been known to the ISAF forces. A report in the New York Times in October 2010 credited the HIMARS with aiding the NATO offensive in Kandahar by targeting Taliban commanders' hideouts, forcing many to flee to Pakistan, at least temporarily.
+In November 2015, the U.S. Army revealed that it had deployed the HIMARS to Iraq, firing at least 400 rockets at Islamic State (ISIL) targets since the beginning of that summer. HIMARS detachments were sent to Al Asad Airbase and Al-Taqaddum Air Base in Al Anbar Governorate. In March 2016, a U.S. Army HIMARS fired rockets into Syria for the first time in support of Syrian rebels fighting ISIL, from launchers based in neighboring Jordan.
+In January 2016, Lockheed announced that the HIMARS had reached 1 million operational hours with U.S. forces, achieving a 99 percent operational readiness rate.
+In April 2016, it was announced that the U.S. would be deploying the HIMARS in Turkey near the border with Syria as part of the battle with ISIL. In early September, international media and the U.S. State Department reported a newly deployed HIMARS had engaged ISIL targets in Syria near the Turkish border.
+In October 2016, HIMARS were stationed at Qayyarah Airfield West, some 65 kilometres (40 mi) south of Mosul, taking part in the Battle of Mosul.
+In June 2017, a HIMARS was deployed at Al-Tanf, Syria, to support U.S.-backed rebels in the area.
+On 24 May 2018, a HIMARS strike killed 50 Taliban fighters and leaders in Musa Qala, Afghanistan. Three rockets struck the building within a 14-second timespan.
+In September 2018, US support forces coordinated with Syrian Democratic Forces fighting to defeat ISIS in east Syria in the Deir ez-Zor campaign, sometimes striking ISIS positions with GMLRS rockets 30 times per day. The HIMARS used in this support operation were located in the Omar oilfields, some 25 km (16 mi) north of the ISIS-controlled targets.
+In March 2026, a pair of HIMARS launchers were observed in Bahrain launching missiles towards Iran during the Iran war. This was the first instance of attacks against Iran originating from other Gulf countries being observed. It is unclear who was operating the weapons systems, as HIMARS are used by both the United States and Bahrain (having acquired the launchers in 2025).
+
+
+=== Ukraine ===
+
+On 1 June 2022, the US announced that it would be supplying four HIMARS to Ukraine with M31 GMLRS unitary rockets. On 23 June, the first HIMARS arrived in Ukraine, according to Ukrainian Defense Minister Oleksii Reznikov. On 25 June 2022, Ukraine started deploying the system against Russian forces during the 2022 Russian invasion of Ukraine. According to the Commander-in-Chief of the Armed Forces of Ukraine, Valeriy Zaluzhnyi, "Artillerymen of the Armed Forces of Ukraine hit ... military targets of the enemy on our, Ukrainian, territory". The Ukrainian military stated that this first strike, on a Russian base in Izyum, killed over 40 soldiers. The day before, a second batch of four was announced to be delivered in mid-July.
+On 1 July, a US defense official told reporters that Ukraine had been using the system to destroy Russian command posts: "selecting targets and then accurately hitting them ... degrading Russian capability". On 18 July, Zaluzhnyi said: "An important factor contributing to our retention of defensive lines and positions is the timely arrival of M142 HIMARS, which deliver surgical strikes on enemy control posts, ammunition and fuel storage depots."
+Another four HIMARS were announced for delivery on 8 July, the delivery spacing driven by the weeks-long process to train Ukrainian troops on how to use the platform. To avoid escalating the conflict, the US restricted Ukraine from using HIMARS to attack targets on Russian territory. For the same reason, the US had not provided Ukraine with the longer-range ATACMS missile, which could easily engage targets inside of Russia.
+A fourth batch of four was announced on 20 July, bringing the total number of HIMARS committed to Ukraine to 16. Ukrainian Defense Minister Reznikov stated that the country needed "at least 100" of the system and that by that point, eight systems had destroyed 30 command stations and ammunition storage facilities, decreasing the intensity of Russian shelling and slowing their advance. In that announcement, it was revealed that the number delivered had reached 12 launchers. That number had increased to 16 by 1 August.
+On 30 August 2022, The Washington Post reported on Ukrainian claims to have successfully used decoy HIMARS units made out of wood to draw at least 10 Russian 3M-54 Kalibr cruise missiles. One US diplomat stated that Russian sources had claimed more HIMARS destroyed than the US had sent. A Pentagon official had earlier in the month asserted that no HIMARS had been destroyed at that time. On 8 September, US General Mark Milley, chairman of the Joint Chiefs of Staff, told reporters: "We are seeing real and measurable gains from Ukraine in the use of these systems. For example, the Ukrainians have struck over 400 targets with the HIMARS and they've had devastating effect".
+A further 18 HIMARS were announced on 28 September, as part of an aid package aimed at meeting Ukraine's mid- and long-term needs, so deliveries are to begin in six months at the earliest. Ukraine had previously been provided with only M31 Unitary Warhead missiles, which are "not ideal against targets spread over large areas, as the deadly chunks are not designed to fly far." As of early October they have been granted the M30A1 which uses the Alternative Warhead that can cover up to "half a square mile of land in a single salvo" with 180,000 tungsten steel BB sized balls. The US announced on 4 October that four more HIMARS launchers would be provided from US military stockpiles, to increase the total to 20 HIMARS in Ukrainian service.
+HIMARS attacks by Ukraine have been credited with "destroy[ing] Russian command nodes, tens of thousands of howitzer artillery rounds and a staggering 20 million small-arms rounds." As of 11 November 2022, a senior U.S. official stated no HIMARS systems have been destroyed after five months in operational use. As of February 2023, CNN reported that Ukraine had expended approximately 9,500 GMLRS rockets. In response to the effects of HIMARS, Russian Defense Minister Sergei Shoigu declared the HIMARS system as a high priority target for Russian troops. Ukrainian officials identified Russia's loitering munitions as the biggest threat to the HIMARS.
+HIMARS has been used to strike Russian troop concentrations with GMLRS. Groups of Russian troops out in the open have been killed in these strikes, with a strike in February 2024 killing up to 65 Russian soldiers. HIMARS has also been used to strike Russian troop concentrations in hard cover, with a HIMARS strike on a Russian base in Makiivka killing 89 Russian soldiers on the admission of the Russian government, although BBC News Russian claimed at least 139 dead Russian soldiers.
+On 5 May 2023, it was reported that Russia was able to jam GMLRS rockets' GPS guidance system, making strikes less precise. In addition to GPS guidance, GMLRS rockets have an inertial navigation system which, by definition, cannot be jammed, but it is less precise alone than when it is coupled with GPS guidance.
+On 10 February 2024, two Ukrainian HIMARS systems were seen arriving onboard an Antonov Airlines An-124-100M at Harrisburg International Airport in Pennsylvania. Both systems appeared damaged, with one having cracked windows in the crew compartment, and the other missing its front right wheel.
+On 5 March 2024, a Ukrainian HIMARS system was destroyed for the first confirmed time, after being tracked by a Russian drone and targeted with a missile near Nykanorivka, Donetsk Oblast. On 15 August 2024, the second confirmed loss of a HIMARS system occurred in the Sumy region, making the total loss to two destroyed and two damaged.
+In June 2024, after Ukraine was given permission to use GMLRS on internationally recognized Russian territory, HIMARS strikes destroyed and damaged launchers along with other components of the Russian long-range S-300/S-400 surface-to-air missile system in Belgorod region of Russia. On 9 August 2024, HIMARS destroyed a convoy of Russian troops in the Kursk Oblast of Russia, with Russian milbloggers acknowledging the attack and calling for punishment of Russian commanders. Drone video of the HIMARS strike subsequently emerged, showing the Russian convoy being struck with GMLRS, numerous Russian vehicles being destroyed, and Russian troops fleeing the convoy.
+In May 2025, a HIMARS system was destroyed by an Unmanned Aerial Vehicle (UAV) attack. The Polish publication notes that unlike the other confirmed cases of the HIMARS system being hit by missiles, this is the first documented case of destruction by a first-person view (FPV) drone.
+On 21 May 2025, it was reported that a Ukrainian HIMARS rocket launcher had recently been destroyed just 10 kilometers from the frontline near Chasiv Yar in Donetsk Oblast by a Russian drone operated by Rubicon—an elite unmanned aerial unit.
+On 28 September 2025, Ukraine's HIMARS struck the Belgorod thermal power plant, causing a "complete power outage" in Belgorod and surrounding areas.
+As of March 2026, four HIMARS system have been destroyed and another four damaged.
+
+
+=== Exercises ===
+HIMARS is regularly deployed within Australia during Exercise Talisman Sabre, and in 2025, a U.S. Army system was deployed to Christmas Island.
+
+
+== Armament ==
+
+The HIMARS can fire the following rockets and missiles:
+
+
+=== MLRS ===
+MLRS is a series of 227 mm rockets.
+See section § MLRS in main article M270 Multiple Launch Rocket System for more details on the M26
+
+M26 rockets carrying 644 DPICM M77 submunitions. Range: 15–32 km (9.3–19.9 mi).
+M26A1 ER rockets carrying 518 M85 submunitions. Range: 15–45 km (9.3–28.0 mi).
+M26A2 ER rockets carrying 518 M77 submunitions. Range: 15–45 km (9.3–28.0 mi).
+AT2 German M26 variant carrying 28 AT2 anti-tank mines. Range: 15–38 km (9.3–23.6 mi)
+GLSDB - Swedish M26 rocket based flying bomb carrying SDB.
+The M28 rockets are a variant of the unguided M26 rockets of the M270 system. Each rocket pod contains 6 identical rockets.
+
+M28 practice rockets. An M26 variant with three ballast containers and three smoke-marking containers in place of the submunition payload.
+M28A1 Reduced-Range Practice Rocket (RRPR) with blunt nose. Range reduced to 9 km (5.6 mi).
+M28A2 Low-Cost Reduced-Range Practice Rocket (LCRRPR) with blunt nose. Range reduced to 9 km (5.6 mi).
+
+
+==== GMLRS ====
+Guided Multiple Launch Rocket System (GMLRS) 227 mm rockets have an extended range and add GPS-aided guidance to their Inertial Navigation System. GMLRS rockets were introduced in 2005 and the M30 and M31 rockets are, except for their warheads, identical. As of 1 December 2021 50,000 GMLRS rockets have been produced, with yearly production now exceeding 9,000 rockets. Each rocket pod contains 6 identical rockets. Both Lockheed Martin and the U.S. Army report that the GMLRS has a maximum range of 70+ km (43+ mi).  According to a U.S. Department of Defense document the maximum demonstrated performance of a GMLRS is 84 km (52 mi), a figure also reported elsewhere. Another source reports a maximum range of about 90 km (56 mi). In 2009 Lockheed Martin announced that a GMLRS had been successfully test fired 92 km (57 mi).
+
+M30 rockets carrying 404 DPICM M101 submunitions. Range: 15–92 km (9.3–57.2 mi). 3,936 produced between 2004 and 2009, production ceased in favor of the M30A1. The remaining M30 rockets are being updated with either the M30A1 or M31A1 warhead.
+M30A1 rockets with Alternative Warhead (AW). Range: 15–92 km (9.3–57.2 mi). GMLRS rocket that replaces the M30's submunitions with approximately 182,000 pre-formed tungsten fragments for area effects without unexploded ordnance. Entered production in 2015. This warhead is superior not just because it does not use cluster munitions but is also superior to a normal high explosive round: "A high explosive round is very impressive because it produces a big bomb and large pieces of shrapnel, but this round is small pellets and covers a much larger area." The M30A1 uses a proximity sensor fuze mode with a 10 meter burst height.
+M30A2 rockets with Alternative Warhead (AW). Range: 15–92 km (9.3–57.2 mi). Improved M30A1 with Insensitive Munition Propulsion System (IMPS). Only M30 variant in production since 2019.
+M31 rockets with 200 lb (91 kg) high-explosive unitary warhead. Range: 15–92 km (9.3–57.2 mi). Entered production in 2005. The warhead is produced by General Dynamics and contains 51 pounds (23 kg) of PBX-109 high explosive in a steel blast-fragmentation case.
+M31A1 rockets with 200 lb (91 kg) high-explosive unitary warhead. Range: 15–92 km (9.3–57.2 mi). Improved M31 with new multi-mode fuze that added airburst to the M31's fuze point detonation and delay.
+M31A2 rockets with 200 lb (91 kg) high-explosive unitary warhead. Range: 15–92 km (9.3–57.2 mi). Improved M31A1 with Insensitive Munition Propulsion System (IMPS). Only M31 variant in production since 2019.
+ER GMLRS rockets with extended range beyond 150 km (93 mi). Rockets use a slightly increased rocket motor size, a newly designed hull, and tail-driven guidance while still containing six per pod. It will come in unitary and AW variants. The first successful test flight of an ER GMLRS occurred in March 2021. Lockheed Martin anticipates adding the ER to its production line in the fiscal year 2023 contract award, and is planning to produce the new rockets at its Camden facility. Full operational capability is planned for 2025. In 2022 Finland became the first foreign customer to order ER GMLRS. In November 2022 Lithuania announced that it will obtain GMLRS-ER. In February 2023, Poland ordered GMLRS-ER AW missiles.
+
+
+=== GLSDB ===
+
+The Ground Launched Small Diameter Bomb (GLSDB) is an M26-rocket based weapon made by Boeing and the Saab Group, who modified Boeing's GBU-39 Small Diameter Bomb (SDB) with the addition of an obsolete M26 rocket motor. It has a range of up to 150 km (93 mi).
+
+
+=== ATACMS ===
+
+The Army Tactical Missile System (ATACMS) is a series of 610 mm surface-to-surface missile (SSM) with a range of up to 300 km (190 mi). Each rocket pod contains one ATACMS missile. As of 2022, only the M48, M57, and M57E1 remain in the US military's arsenal.
+
+M39 (ATACMS BLOCK I) missile with inertial guidance. The missile carries 950 M74 Anti-personnel and Anti‑materiel (APAM) bomblets. Range: 25–165 km (16–103 mi). 1,650 M39 were produced between 1990 and 1997, when production ceased in favor of the M39A1. During Desert Storm 32 M39 were fired at Iraqi targets, and during Operation Iraqi Freedom a further 379 M39 were fired. The remaining M39 missiles are being updated to M57E1 missiles. The M39 is the only ATACMS variant, which can be fired by all MLRS and HIMARS variants.
+M39A1 (ATACMS BLOCK IA) missile with GPS-aided guidance. The missile carries 300 M74 APAM bomblets. Range: 20–300 km (12–186 mi). 610 M39A1 were produced between 1997 and 2003. During Operation Iraqi Freedom 74 M39A1 were fired at Iraqi targets. The remaining M39A1 missiles are being updated to M57E1 missiles. The M39A1 and all subsequently introduced ATACMS missiles can be used only with the M270A1 (or variants thereof) and the HIMARS.
+M48 (ATACMS Quick Reaction Unitary; QRU) missile with GPS-aided guidance. The missile carries the 500-pound (230 kg) WDU-18/B penetrating high explosive blast fragmentation warhead of the US Navy's Harpoon anti-ship missile, which was packaged into the newly designed WAU-23/B warhead section. Range: 70–300 km (43–186 mi). 176 M48 were produced between 2001 and 2004, when production ceased in favor of the M57. During Operation Iraqi Freedom 16 M48 were fired at Iraqi targets; a further 42 M48 were fired during Operation Enduring Freedom. The remaining M48 missiles remain in the U.S. Army and US Marine Corps' arsenal.
+M57 (ATACMS TACMS 2000) missile with GPS-aided guidance. The missile carries the same WAU-23/B warhead section as the M48. Range: 70–300 km (43–186 mi). 513 M57 were produced between 2004 and 2013.
+M57E1 (ATACMS Modification; MOD) missile with GPS-aided guidance. The M57E1 is the designation for upgraded M39 and M39A1 with re-grained motor, updated navigation and guidance software and hardware, and a WAU-23/B warhead section instead of the M74 APAM bomblets. The M57E1 ATACMS MOD also includes a proximity sensor for airburst detonation. Production commenced in 2017 with an initial order for 220 upgraded M57E1. The program is slated to end in 2024 with the introduction of the Precision Strike Missile (PrSM), which will replace the ATACMS missiles in the US arsenal.
+
+
+=== PrSM ===
+
+The Precision Strike Missile (PrSM) is a new series of GPS-guided missiles, which will begin to replace ATACMS missiles in 2024. PrSM carries a newly designed area-effects warhead and has a range of 60–499 km (37–310 mi). PrSM missiles can be launched from the M270A2 and the HIMARS, with rockets pods containing 2 missiles. As of 2022, the PrSM is in low-rate initial production, with 110 missiles being delivered to the US military over the year. PrSM will enter operational service in 2023.
+
+
+== Related developments ==
+Lockheed Martin UK and INSYS had jointly developed a demonstrator rocket artillery system similar to HIMARS for the British Army's "Lightweight Mobile Artillery Weapon System/Rocket" (LIMAWS(R)) program. The system consisted of a single MLRS pod, mounted on a Supacat SPV600 chassis. The LIMAWS(R) program was canceled in September 2007.
+
+Lockheed Martin and Thales Australia are discussing with the Australian government, manufacturing GMLRS rockets in Australia, due in part to concerns of resupply during conflict. Australia has the ability to manufacture the rockets but it depends on the technology, specifically the guidance components, being authorized by the US government. In November 2022, the publication The Strategist, published by the Australian Strategic Policy Institute, warned that "acquiring the missile-delivery system without a dedicated surveillance and target acquisition capability means that Australia's long-range fires will have no eyes."
+
+
+=== Autonomous Multi-domain Launcher ===
+The Autonomous Multi-domain Launcher (AML) is an unmanned variant of the HIMARS. The AML is equipped with remote controlled launcher and fire-control system that ensures compatibility with current munitions used onboard both M270 MLRS and HIMARS. The concept video shows the AML can carry two pods compared to one on HIMARS and is expected to be compatible with munitions from other services or in development.
+
+
+=== Homar-A ===
+Homar-A (English: Lobster, A for American) is a program by Polish Ministry of National Defense to acquire the M142 HIMARS, and, via technology transfers, integrate the launcher with the domestically produced Jelcz 663.45 6x6 truck chassis, Topaz battle management system and communication system. The Armaments Agency of the Polish Ministry of National Defense has signed a framework agreement with Lockheed Martin on 11 September 2023. Under the terms of this agreement, 486 Homar-A vehicles will be assembled in Poland, with first deliveries starting in 2026.
+
+
+=== GMARS ===
+
+In 2023, Rheinmetall and Lockheed Martin signed a collaboration agreement for the development of the Global Mobility Artillery System (GMARS) to address the need for future long-range artillery. The GMARS launcher consists of two pods as opposed to HIMARS' single pod. Current munition options include the MFOM family of munitions such as GMLRS, ER-GMLRS, MGM-140 ATACMS and Precision Strike Missile. Surfaced launched version of AGM-158 JASSM and 122 mm unguided rockets are expected to be integrated later. It was unveiled during the Eurosatrory 2024 and mounted on Rheinmetall's HX 8x8 chassis. Both Rheinmetall and Lockheed Martin are actively engaging with European customers for potential sales.
+
+
+== Operators ==
+
+ Australia
+
+Australian Army
+10th Brigade
+14th Regiment, Royal Australian Artillery: 8 delivered from an order of 42 as of September 2025. In September 2025, the US approved a Foreign Military Sale of a further 48 HIMARS to Australia.
+ Estonia
+
+Estonian Land Forces (6 delivered and 3 on order)
+Estonian Division
+Artillery Regiment
+ Jordan
+
+Royal Jordanian Army (12)
+29th HIMARS Battalion, Jordan Royal Artillery Command
+ Poland
+
+Polish Land Forces (20)
+16th Mechanised Division
+
+ Romania
+
+Romanian Land Forces (54)
+8th Tactical Operational Missile Brigade
+ Singapore
+
+Singapore Army (24)
+23rd Battalion Singapore Artillery (23 SA)
+ Taiwan
+
+Republic of China Army 11 in service, 100 more planned
+10th Army Corps
+58th Artillery Command
+ Ukraine
+
+Ukrainian Ground Forces (36) as of 2025, with four destroyed.
+15th Artillery Reconnaissance Brigade
+27th Rocket Artillery Brigade
+ United Arab Emirates
+
+United Arab Emirates Army (32)
+ United States
+
+United States Army - 368 M142 HIMARS as of January 2025
+210th Field Artillery Brigade (210th FAB)
+6th Battalion 37th Field Artillery Regiment (6-37 FAR)
+1st Battalion 13th Field Artillery Regiment (1-13 FAR)
+17th Field Artillery Brigade (17th FAB)
+5th Battalion 3rd Field Artillery Regiment (5-3rd FAR)
+1st Battalion 3rd Field Artillery Regiment (1-3 FAR)
+1st Battalion 94th Field Artillery Regiment (1-94th FAR)
+18th Field Artillery Brigade (18th FAB)
+3rd Battalion 27th Field Artillery Regiment (3-27th FAR)
+3rd Battalion 321st Field Artillery Regiment (3-321st FAR)
+41st Field Artillery Brigade (41st FAB)
+1st Battalion 77th Field Artillery Regiment (1-77th FAR)
+1st Battalion 6th Field Artillery Regiment (1-6th FAR)
+75th Field Artillery Brigade (75th FAB)
+1st Battalion 14th Field Artillery Regiment
+Army National Guard
+45th Field Artillery Brigade (Oklahoma Army National Guard)
+1st Battalion, 158th Field Artillery Regiment (Oklahoma Army National Guard)
+4th Battalion, 133rd Field Artillery Regiment (Texas Army National Guard)
+65th Field Artillery Brigade (Utah Army National Guard)
+5th Battalion 113th Field Artillery Regiment (North Carolina Army National Guard)
+115th Field Artillery Brigade (Wyoming Army National Guard)
+1st Battalion 121st Field Artillery Regiment (Wisconsin Army National Guard)
+2nd Battalion 300th Field Artillery Regiment (Wyoming Army National Guard)
+130th Field Artillery Brigade (Kansas Army National Guard)
+2nd Battalion 130th Field Artillery Regiment (Kansas Army National Guard)
+138th Field Artillery Brigade (Kentucky Army National Guard)
+3rd Battalion 116th Field Artillery Regiment (Florida Army National Guard)
+1st Battalion 623rd Field Artillery Regiment (Kentucky Army National Guard)
+142nd Field Artillery Brigade (Arkansas Army National Guard)
+1st Battalion 181st Field Artillery Regiment (Tennessee National Guard)
+169th Field Artillery Brigade (Colorado Army National Guard)
+3rd Battalion 157th Field Artillery Regiment (Colorado Army National Guard)
+197th Field Artillery Brigade (New Hampshire Army National Guard)
+3rd Battalion 197th Field Artillery Regiment (New Hampshire Army National Guard)
+1st Battalion 182nd Field Artillery Regiment (Michigan Army National Guard)
+United States Marine Corps
+1st Battalion 10th Marine Regiment
+2nd Battalion 10th Marine Regiment
+5th Battalion 11th Marine Regiment
+3rd Battalion 12th Marine Regiment
+2nd Battalion 14th Marine Regiment
+
+
+=== Future operators ===
+ Croatia
+
+Croatian Army: On 30 August 2024, the U.S. State Department approved the sale of eight systems to Croatia worth $390 million. Delivery is expected in 2028.
+ Italy
+
+Italian Army: In December 2023, the US State Department approved the possible sale of 21 HIMARS launchers and related equipment for an estimated cost of $400 million.
+7 ordered in February 2024
+14 ordered in January 2025
+ Latvia
+
+Latvian Land Forces: In October 2022, Latvian Ministry of Defense announced that Latvia plans to acquire six systems for an estimated cost of $220 million. The contract was signed in December 2023 with delivery planned to begin in 2027.
+ Lithuania
+
+Lithuanian Land Forces: In November 2022, the US State Department approved the sale of 8 systems and over 800 missiles, including the ATACMS and PrSM. The $495 million contract was signed in December 2022. The first deliveries expected in 2026.
+
+
+=== Potential operators ===
+ Bahrain
+
+Royal Bahraini Army: In August 2025, the US State Department approved the possible sale of four M142 HIMARS and three International Field Artillery Tactical Data Systems, among other equipment, for an estimated cost of $500 million.
+ Bulgaria
+
+Bulgarian Land Forces: The M142 HIMARS is a part of Bulgaria's Modernization program and is one of the top priorities for the Bulgarian Land Forces.
+ Canada
+
+Canadian Army: The Long Range Precision Fires Project identified the M142 HIMARS as the most suitable choice, in an acquisition worth an estimated C$5 billion. It would most likely be handled through a Foreign Military Sale from the US Government. A total of 26 launchers would be ordered per an April briefing to industry by the Canadian Army. On 1 October 2025 the US State Department approved the C$2.6 billion acquisition of 26 HIMARS launchers.
+ Hungary
+
+Hungarian Ground Forces: Hungary requested the sale of HIMARS from the US in a letter with a deadline of March 2022. As there was no response from the US, Hungary "considered the matter closed". In June 2023, U.S. Senator Jim Risch, seated on the United States Senate Foreign Relations Committee, revealed however that continued attempts had been made, but he had blocked the sale of up to 24 HIMARS systems to Hungary on grounds that Hungary was refusing to approve Sweden's bid to join NATO. The Hungarian Defence Ministry in response stated that it did not intend to procure HIMARS systems.
+On April 8, 2026 Vice President J.D. Vance during a visit in Hungary signed a contract, that Hungary procures HIMARS $700 million worth.
+ Morocco
+
+Royal Moroccan Army: In April 2023, the US State Department approved the possible sale of 18 HIMARS launchers and related equipment for an estimated cost of $524.2 million.
+ Philippines
+
+Philippine Army: The Philippines expressed interest in acquiring the M142 HIMARS for coastal defense, alongside the Indian BrahMos missile. Other options such as the K239 Chunmoo and the Elbit PULS are also being considered.
+ Sweden
+
+Swedish Army: Sweden has previously shown interest in buying and it is also on the Swedish Army's wish list.
+
+
+=== Failed bids ===
+ Netherlands
+
+Royal Netherlands Army: In February 2023, the US State Department approved the potential sale of 20 systems to Netherlands at a cost of $650 million. In March 2023, the Netherlands purchased 20 Elbit Systems PULS launchers instead of HIMARS. The value of the contract is $133 million. PULS advantage according to the Ministry of Defence is that it can carry more missiles, better price, means more missiles can be purchased and last but not least Elbit delivers them faster than Lockheed Martin, whose production capacity is booked many years ahead.
+ Norway
+
+Norwegian Army: In August 2024, the US State Department approved the sale of 16 HIMARS launchers, related equipment and munitions for a cost of approximately $580 million. In January 2026, the Norwegian government signed a contract for procuring K239 Chunmoo systems.
+
+
+== See also ==
+List of U.S. Army rocket launchers
+
+
+== References ==
+
+
+== External links ==
+
+Official website 
+M142 HIMARS Lockheed Martin High Mobility Artillery Rocket System (Army recognition)
+High Mobility Artillery Rocket System (HIMARS)
+Information about M26/M30/M31 MLRS rockets on designation-systems.net
+Use of HIMARS system suspended in Afghanistan after 12 civilians killed by 300m targeting error
+HIMARS Technical Manuals

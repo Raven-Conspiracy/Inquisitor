@@ -1,0 +1,261 @@
+The Meteor is a European active radar guided beyond-visual-range air-to-air missile (BVRAAM) developed and manufactured by MBDA.  It offers a multi-shot capability (multiple launches against multiple targets), and has the ability to engage highly maneuverable targets such as jet aircraft, and small targets such as UAVs and cruise missiles in a heavy electronic countermeasures (ECM) environment with a range in excess of 200 kilometres (110 nmi).
+A solid-fueled ramjet motor allows the missile to cruise at a speed of over Mach 4 and provides the missile with thrust and mid-course acceleration. A two-way data link enables the launch aircraft to provide mid-course target updates or retargeting if required, including data from other parties. The data link can transmit missile information such as functional and kinematic status, information about multiple targets, and notification of target acquisition by the seeker. According to MBDA, Meteor has three to six times the kinetic performance of current air-to-air missiles of its type. The missile is equipped with both proximity and impact fuses to maximise destructive effects and reliability.
+The fruit of a joint European project, Meteor missiles first entered service on the Swedish Air Force's JAS 39 Gripens in April 2016 and officially achieved initial operating capability (IOC) in July 2016. They also equip the French Air and Space Force and the Navy's Dassault Rafale, and the Eurofighter Typhoons of the Royal Air Force, German Air Force, Italian Air Force and Spanish Air Force. The Meteor is also intended to equip British and Italian F-35 Lightning IIs, and has been exported to various customers of the Rafale, Typhoon and Gripen.
+
+
+== History ==
+
+
+=== Requirement ===
+Meteor was developed in response to the UK's Staff Requirement (Air) 1239 (SR(A)1239), for a Future Medium Range Air-to-Air Missile (FMRAAM) to replace the RAF's Skyflash missiles. As the primary air-to-air armament of Eurofighter, the missile would be used against a range of fixed- and rotary-wing targets including unmanned aerial vehicles and cruise missiles.
+Although no detailed performance requirements have been publicly released, they were understood to demand launch success and no-escape zones approaching twice that of the then "state-of-the-art" medium-range missile, AMRAAM.  The missile external geometry would be constrained by the need for compatibility with Eurofighter's semi-recessed underfuselage launchers which had been designed for the AMRAAM. Key features of the requirement included "stealthy launch, enhanced kinematics, which will provide the missile with sufficient energy to chase and destroy a highly agile manoeuvring target, robust performance in countermeasures and the ability for the launch aircraft to fire and disengage at the earliest opportunity thus enhancing aircraft survivability".  These requirements were largely shaped by the perceived threat posed by advanced versions of the Russian Sukhoi Su-27 "Flanker" armed with extended range ramjet-powered versions of the R-77 missile.
+
+
+=== Competition ===
+In February 1994 the UK MoD issued a Request for Information (RFI) for the development of an advanced medium range air-to-air missile. Four concepts were produced in response, all using integrated rocket/ramjet propulsion:
+
+S225XR from British Aerospace (BAe), Alenia Difesa, GEC-Marconi, and Saab Dynamics.
+A MICA derivative from Matra.
+Advanced Air-to-Air Missile (A3M) from Daimler-Benz Aerospace and Bayern-Chemie.
+An AMRAAM derivative from Hughes.
+The formal competition commenced in June 1995 amid efforts by the UK, France, and Germany to align requirements and establish an industrial consortium. Even at this early stage the procurement was developing into a European versus a US contest.
+The US Government agreed to transfer development of the advanced propulsion system to the UK in support of the Hughes bid. Hughes' initial offering was powered by a variable-flow ducted rocket (VFDR) which had been under development by an Atlantic Research Corporation (ARC)/Alliant Techsystems team, but the USAF had no plans at that time to develop an extended range AMRAAM since this could endanger support for the stealthy F-22 Raptor. The team had also provided information to BAe which was considering the VFDR as a powerplant for the S225XR, along with systems from Bayern Chemie and Volvo. ARC had discussions with Royal Ordnance, the only UK company with the necessary capability following Rolls-Royce's decision to stop work on ramjets.
+The UK MoD issued an Invitation to Tender (ITT) in December 1995.  Responses were due in June 1996 for a UK contract valued at £800m. By February 1996, the US team was in place whereas the European effort remained fragmented. 
+
+
+==== European proposal ====
+Matra and DASA's missile division (LFK), were on the brink of a joint bid, which BAe and Alenia were also considering. The Matra/LFK proposal was based on Matra's MICA-Rustique project using self-regulating solid fuel ramjet. Matra and BAE's missile businesses were merged in 1996 with the formation of Matra BAe Dynamics (MBD). The European team, consisting of BAe Dynamics, Matra Defense, Alenia Difesa, GEC-Marconi, Saab Dynamics, LFK, and Bayern-Chemie was finally assembled just six weeks ahead of 11 June 1996 deadline for bids. BAe brokered an agreement whereby it would lead the team. This tie-up avoided a division in the European attempts to provide a credible alternative to the US bid. 
+BAe Dynamics' original S225XR proposal was a wingless design. However, during the international discussions the evolving UK and German proposals were found to be nearly identical in concept apart from the latter's wings. The trade-off between winged and wingless configurations was very closely balanced but the wings offered increased roll damping which was believed to be useful given the asymmetric intake configuration so the German A3M configuration was adopted for the European proposal, called Meteor.
+
+
+==== Hughes proposal ====
+Hughes had assembled a team including Aérospatiale (propulsion), Shorts (integration and final assembly), Thomson-Thorn Missile Electronics (TTME), Fokker Special Projects (fin actuation), and Diehl BGT Defence (warhead). Incidentally, the adoption of FMRAAM as the name of Hughes' proposal forced the UK MoD to change the title of SR(A)1239 to BVRAAM. Hughes would provide the seeker, with electronics from its Scottish subsidiary, Hughes Micro Electronics Europa. The upgraded guidance electronics would be compressed compared to the existing AMRAAM. Other changes included: a new electronic (as opposed to the usual mechanical) safe and arm device, based on Diehl BGT Defence's IRIS-T system; a two-way conformal microwave proximity fuze unit; and a shortened control and actuation system. The seeker and warhead were basically unchanged from AMRAAM's.
+The European content of Hughes' bid had been bolstered by the replacement of the ARC/ATK VFDR by an Aérospatiale-Celerg liquid-fuel ramjet with an ARC integrated nozzleless booster. This was based on studies conducted during the Simple Regulation Ramjet programme, which began in 1994. The direct-injection design used an inflatable elastomer bladder within the fuel tank to control the fuel flow and was believed to offer a lower cost approach compared to a regulated liquid ramjet requiring a turbopump and associated fuel supply hardware. Eighty percent of FMRAAM production and development would be carried out in Europe, 72% in the UK.
+
+
+=== Risk reduction ===
+When bids were submitted, it was anticipated that a contract would be awarded by late 1997 with first deliveries by 2005. Following several rounds of bid clarification it was concluded in early 1997 that the risks were too high to proceed directly to development. The UK's Defence Procurement Agency (DPA) and Sweden's Defence Materiel Administration (FMV) therefore launched a Project Definition and Risk Reduction (PDRR) programme. This gave the two teams twelve months to refine their designs, identify risks and develop mitigation. PDRR contracts were placed in August 1997 with a second ITT issued in October. By 1998 the in-service date (ISD), defined as the first unit equipped with 72 missiles, had slipped to 2007.
+The UK MoD hosted a government level briefing on 14 and 15 July 1997 with Italy, Germany, and Sweden to discuss the BVRAAM programme, with the aim of pursuing a collaborative procurement.  Funding of the risk-reduction contracts was unresolved, and some nations were proposed financial contributions to the studies in return for data access.
+The European team hoped that, if chosen by the UK, Meteor would also be adopted by Germany, Italy, Sweden, and France. Germany however, introduced an even more demanding requirement. In response, DASA/LFK proposed a modified A3M, named Euraam, using a DASA Ulm K-band active seeker and a passive receiver for stealthy engagements, plus a redesigned Bayern Chemie propulsion system. The high energy of the high frequency radar (compared to the I-band used on AMRAAM) was claimed to provide an ability to "burn-through" most ECM and the shorter wavelength would allow the target's position to be determined more precisely allowing the use of directional warheads. At one stage DASA was pushing its government for a two-year demonstration programme which would culminate in four unguided flight tests. This was presented as a fallback position in case the UK chose Raytheon's proposal.
+Revised BVRAAM bids were submitted on 28 May 1998. The US Secretary of Defense, William Cohen, wrote to his UK counterpart, George Robertson, with assurances that procurement of the Raytheon missile would not leave the UK vulnerable to US export restrictions, which could potentially handicap Eurofighter exports. The letter assured "open and complete technology transfer", adding that FMRAAM would be cleared for countries already cleared for AMRAAM and that a joint commission could be set up to consider release to other "sensitive countries".
+In July 1998, the governments of the UK, Germany, Italy, Sweden, and Spain signed a statement of intent agreeing to pursue joint missile procurement, contingent on the UK selecting Meteor.
+In September 1998, Raytheon provided cost estimates for AIM-120B AMRAAMs to be fielded on Tornado aircraft and as an interim weapon on Eurofighter during BVRAAM development. The US declined to sell the improved AIM-120C.  This was the first stage in Raytheon's incremental approach to fielding FMRAAM; The MoD had allowed both teams to propose alternative strategies involving interim systems that would evolve into full capability weapons.
+Raytheon's staged approach included the Extended Range Air-to-Air Missile (ERAAM) which had the FMRAAM seeker and guidance section mated to a dual-pulse solid propellant rocket motor. Raytheon estimated that ERAAM could be ready by the then Eurofighter ISD of 2004 and offered 80% of the FMRAAM capability at half the price. This approach appealed to MoD budget concerns and the diminishing urgency of the R-77 threat. Incremental upgrades would allow inclusion of tech like thrust vectoring, hybrid fuels, and ductless ramjets.
+The Meteor team had considered an interim design, also powered by a dual-pulse solid rocket motor, but decided to offer a fully compliant solution, believing that the staged approach was not cost-effective due to concerns that upgrading from one version to the next would be more complicated than Raytheon claimed.
+In February 1999 Raytheon added another interim option: the AIM-120B+ combining the FMRAAM seeker and guidance section attached to the AIM-120B solid rocket motor. This would be ready for Eurofighter's 2004 ISD and could be updated to the ERAAM or FMRAAM configurations in 2005 and 2007 by swapping the propulsion system and updating the software.
+At the 1999 Paris Air Show, France expressed interest in joining the Meteor project, putting further pressure on the UK to use BVRAAM as a focus for the consolidation of the European guided weapons industry. France offered to fund up to 20% of the development if Meteor won the UK contest. Inter-governmental letters were exchanged, followed by France's formal entry into the programme in September 1999.
+In July 1999 the Swedish Air Force announced that it would not be funding development of Meteor due to budget constraints, though participation continued with funding being found from other sources.
+Political and diplomatic pressure increased on 4 August 1999, when US President Bill Clinton wrote to the UK Prime Minister, Tony Blair. Clinton said that "I believe transatlantic defence industry cooperation is essential to ensuring the continued interoperability of Allied armed forces". Blair also faced lobbying from the French, German, and Spanish leaders. Clinton sent a second letter on 7 February 2000 to make the case for Raytheon's bid, underlining the phrase "I feel strongly" about the matter. 
+In late 1999, Raytheon offered the ERAAM+, a proposal which would have merged the US AMRAAM and UK BVRAAM programmes, under joint control. ERAAM+ would be adopted by both countries, equipping Eurofighter, JSF, and the F-22, allowing economies of scale from large US procurement. ERAAM+ would retain the ERAAM dual-pulse motor but fitted to a front end incorporating all the features of Phase 3 of the US Department of Defense's (DoD) AMRAAM Pre-Planned Product Improvement (P3I) programme. As equal partners, the US and UK would jointly specify and develop the new missile. It was estimated that ERAAM+ could be delivered for less than half the budget allocated for BVRAAM with a 2007 ISD. According to Raytheon, the programme would have initially provided the UK with 62% of development, production, and jobs for the MoD BVRAAM procurement and would give the UK 50% of the significantly larger US air-to-air market. The UK would have participated in the production of every AMRAAM-derivative sold around the world, projected at that time to be about 15000 over the following 15 years.
+The ARC dual-pulse motor would not fully comply with the SR(A)1239 requirement, however it was believed to be adequate to counter the threats expected until 2012-15 when improvements to the warhead, datalink, and propulsion would be available. The slow pace of Russia’s ramjet R-77 variant, which remained largely conceptual, was cited as justification for delaying a full-spec missile. 
+Countering Raytheon's proposed transatlantic team, Boeing was added to the European team, to provide expertise on aircraft integration, risk management, lean manufacturing technology and marketing. Boeing also brought experience of dealing with the US DoD, essential in any future attempts to get Meteor on US aircraft. Although initially interested in developing a suppression of enemy air defence variant of Meteor as a successor to HARM, Boeing became less and less of an active partner as development progressed.
+In late 1999 Sweden rejoined the programme. By early 2000 both teams had final bids. The Government was expected to announce a decision in March, following a meeting of the MoD's Equipment Approvals Committee (EAC) on 21 February. Last minute intervention by the UK Treasury delayed the decision, after concerns about the cost of Meteor, believed to be the preferred solution, compared to the cheaper incremental approach offered by Raytheon.
+
+
+=== Decision ===
+In May 2000 the UK Secretary of State for Defence, Geoff Hoon, announced that Meteor had been selected to meet SR(A)1239. Fabrice Bregier, then chief executive officer of MBD, said "This decision marks a historic milestone in the establishment of a European defence capability. For the first time, Europe will equip its fighter aircraft with a European air-to-air missile, creating interoperability and independence to export". By this stage the In Service Date was 2008.
+The British House of Commons Defence Select Committee summarised the reasons behind the decision in its Tenth Report:
+
+The Meteor missile has some clear advantages over its Raytheon competitor—it appears to offer the more militarily effective solution; it should help rationalise and consolidate the European missile industry, and provide future competitions with a counterweight to US dominance in this field; and it entails a lower risk of constraints on Eurofighter exports. Although the programme is in its early days, it also offers the prospect of avoiding some of the problems that have plagued other European procurement collaborations, without arbitrary workshare divisions and with a clear project leadership role to be provided by the UK. The MoD needs to take advantage of that leadership role to keep momentum behind the project, including an early contract which will lock-in not just the contractor but also the commitments of our international partners. The cautious definition of the missile's target in-service date may be realistic, particularly in view of the technological challenges that will have to be overcome, but in BVRAAM's case it is a date that must be met if Eurofighter is to fulfil its potential.
+The selection of Meteor was not a total loss for Raytheon, as the UK ordered a number of AIM-120s to arm Eurofighter on entry into service which was expected before Meteor development was complete.
+
+
+=== Pre-contract ===
+In 2001 Matra BAe Dynamics, EADS' Aerospatiale Matra Missiles and the missile business of Alenia Marconi Systems merged to form MBDA, the second largest missile company after Raytheon.
+Negotiations to conclude a smart procurement contract continued. At the Paris Air Show 2001 defence ministers from France, Sweden, and the UK signed a Memorandum of Understanding committing their nations to the Meteor programme. The nations of the other industrial partners, Germany, Italy, and Spain, only signalled an intention to sign within a few weeks, claiming procedural delays within their national procurement systems. Italy signed the Memorandum on 26 September 2001 and Spain followed on 11 December 2001.
+Germany's financial contribution to the programme was considered essential but for more than two years development was hamstrung by the repeated failure of the German defence budget committee to approve funding. Without the German propulsion system, MBDA deemed that Meteor could not realistically proceed. During this gap in the programme MBDA was funding Meteor from its own resources and, by June 2002, had spent around £70m - most of which had gone to Bayern-Chemie to reduce technical risk in the propulsion system. Germany had set two conditions for participation in the project: that the UK should place a contract for the weapon; and that MBDA give a guaranteed level of performance, both of which were achieved by April 2002. Germany would not approve funding for the project until December 2002, at the same time cutting its planned acquisition from 1,488 to 600 missiles.
+
+
+== Description ==
+
+
+=== Seeker ===
+Terminal guidance is provided by an active radar homing seeker which is a joint development between MBDA's Seeker Division and Thales Airborne Systems and builds on their co-operation on the AD4A (Active Anti-Air Seeker) family of seekers that equip the MICA and Aster missiles.
+
+
+=== Forebody ===
+The active radar proximity fuze subsystem (PFS) is manufactured by Saab Bofors Dynamics (SBD) which received a contract for the system in August 2003. The PFS detects the target and calculates the optimum time to detonate the warhead in order to achieve the maximum lethal effect. The PFS has four antennae, arranged symmetrically around the forebody. The Impact Sensor is fitted inside the PFS.  Behind the PFS is a section containing thermal batteries, provided by ASB, the AC Power Supply Unit, and the Power and Signal Distribution Unit. 
+
+
+=== Warhead ===
+The blast-fragmentation warhead is produced by TDW. The warhead is a structural component of the missile. 
+
+
+=== Propulsion ===
+The propulsion sub-system (PSS) is a throttleable ducted rocket (TDR) with an integrated nozzleless booster, designed and manufactured by Bayern-Chemie. TDR propulsion provides a long range, a high average speed, a wide operational envelope from sea level to high altitude, a flexible mission envelope via active variable thrust control, relatively simple design, and logistics similar to those of conventional solid-fuel rocket motors. The PSS forms a structural component of the missile, the gas generator and ramcombustor having steel cases. The propulsion control unit electronics are mounted in the port intake fairing, ahead of the fin actuation subsystem.
+The PSS consists of four main components: 
+
+A ramcombustor with integrated nozzleless booster. The solid propellant booster is integrated within the ramcombustor and accelerates the missile to a velocity where the TDR can take over. The reduced smoke propellant complies with STANAG 6016
+The air intakes. The air intakes and the port covers which seal the intake diffusors from the ramcombustor remain closed during the boost phase. The intakes are manufactured from titanium.
+The interstage which is mounted between the gas-generator and the ramcombustor and contains the Motor Safety Ignition Unit (MSIU), the booster igniter, and the gas generator control valve.
+The gas generator. The gas generator is ignited by the hot gases from the booster combustion which flow through the open control valve. The gas generator contains an oxygen deficient composite solid propellant which produces a hot, fuel-rich gas which auto-ignites in the air which has been decelerated and compressed by the intakes. The high energy boron-loaded propellant provides a roughly threefold increase in specific impulse compared to conventional solid rocket motors.  The result yields a no-escape zone more than three times greater than that of the AIM-120 AMRAAM.
+Thrust is controlled by a valve which varies the throat area of the gas generator nozzle. Reducing the throat area increases the pressure in the gas generator which increases the propellant burn rate, increasing the fuel mass flow into the ramcombustor. The mass flow can be varied continuously over a ratio greater than 10:1.
+
+
+=== Control ===
+
+The missile trajectory is controlled aerodynamically using four rear-mounted fins. Meteor's control principles are intended to allow high turn rates while maintaining intake and propulsion performance. The fin actuation subsystem (FAS) is mounted at the rear of the intake fairings. The design of the FAS is complicated by the linkages required between the actuator in the fairing and the body-mounted fins.
+The FAS was originally designed and manufactured by the Claverham Group, however development was transferred to MBDA UK and then Spanish company SENER at an early stage. SENER completed the development and certification of the FAS including the production and qualification of the prototypes.
+
+
+=== Datalink ===
+Meteor will be "network-enabled". A datalink will allow the launch aircraft to provide mid-course target updates or retargeting if required, including data from offboard third parties. The datalink electronics are mounted in the starboard intake fairing, ahead of the FAS. The antenna is mounted in the rear of the fairing.The Eurofighter and Gripen, with two-way datalinks, allow the launch platform to provide updates on targets or re-targeting when the missile is in flight. The datalink is capable of transmitting information such as kinematic status. It also notifies target acquisition by the seeker.
+On 19 November 1996 Bayern-Chemie completed the latest in a series of tests designed to assess the attenuation of signals by the boron rich exhaust plume of the TDR, a concern highlighted by opponents of this form of ramjet propulsion. Tests were conducted with signals transmitted through the plume at various angles. The initial results suggested that the attenuation was much less than expected.
+
+
+=== Support ===
+The Integrated Logistics Support concept proposed for Meteor does away with line maintenance. The missiles will be stored in dedicated containers when not in use. If the Built-In Test equipment detects a fault the missile will be returned to MBDA for repair.  The Meteor is intended to have an airborne carriage life of 1,000 hours before any maintenance is required.
+
+
+== Orders ==
+
+Full-scale development and production of Meteor began in 2003 with the signature of a £1.2 billion contract by the UK on behalf of France, Germany, Italy, Spain, Sweden and the UK.
+The percentage share of the programme allocated to each partner nation has changed several times. Germany's decision to reduce its intended acquisition resulted in the UK taking 5% of the programme from Germany, giving the UK 39.6% and Germany 16%. France is funding 12.4%, Italy 12%, and Sweden and Spain 10% each.
+An Integrated Project Team (IPT) was established at MoD Abbey Wood with representatives from all partner nations seconded to the team.  The programme will be managed by the UK MoD through the IPT on behalf of the partner nations.  The IJPO report to the UK Chief of Defence Procurement, the executive board of the DPA, and to an International Steering Committee comprising a one or two star representative from each partner nation's air force.
+The prime-contractor, MBDA, will manage and execute the programme through its operating companies in France, Italy, and the UK, working with Bayern-Chemie/Protac in Germany, Inmize Sistemas SL in Spain, and Saab Bofors Dynamics in Sweden.  It is estimated that over 250 companies across Europe will be involved.  Work will be allocated by MBDA to its risk-sharing partners on an "earned value basis" under which work is placed according to best commercial value, taking into account technical excellence, but with a view to aligning "broadly" with the share of development funding provided by each nation.
+The development programme will make large use of computer simulation and so should require a relatively small number of firings, some of which will cover activities more traditionally associated with aircraft-integration trials.  The first firing, from Gripen, was expected in 2005 with an in service date of August 2012.
+In December 2009 the Spanish government authorized the procurement of 100 Meteor missiles and their corresponding support equipment.
+In September 2010 the Swedish Defence Materiel Administration, signed a production order contract with the MoD for the Meteor missile; the system is expected to be operational with the Swedish Air Force in 2015.
+In May 2015, Qatar ordered 160 Meteor missiles to equip the Dassault Rafales of the Qatar Emiri Air Force.
+Greek Air Force is expected to equip its Rafale fighters with Meteor missiles. The missile officially entered service in March 2023.
+Egypt's 2021 Rafale order excluded the long-range Meteor missile, even though the United States had lifted their objection to such a purchase in 2019. Reports conflict as to whether Egypt later purchased Meteors.
+India enquired whether the Meteor could be integrated with their Sukhoi Su-30MKI and HAL Tejas fleets, however this was refused. A proposal for an additional batch of Meteor missiles worth ₹1,500 crore (US$180 million) for the Indian Air Force's Rafale fleet is expected to be cleared in a high-level meeting of the Indian Ministry of Defence. India's Defence Acquisition Council (DAC), chaired by Minister of Defence, cleared the procurement of the 36 such missiles for the Indian Air Force during its meet on 29 December 2025.
+
+
+=== Key milestones ===
+The UK MoD stipulated four "tightly defined" contractual milestones that had to be met otherwise the programme would be cancelled with MBDA expected to repay the development funding:
+
+To demonstrate successful transition from boost to sustain propulsion.
+To demonstrate control of the asymmetric airframe. There was concern that the intake air flow would be disrupted during manoeuvres resulting in a loss of propulsion performance or even control. The asymmetric configuration also poses unique control problems. Achievement of this milestone was to be demonstrated using computer models validated from the Air Launched Demonstrator (ALD) trials results.
+To demonstrate transfer alignment of the missile's inertial measurement system. This process ensures that the missile knows where it is at launch. Good knowledge of initial position is essential to accurate navigation, particularly for long range engagements.
+This milestone relates to Meteor's electronic counter-countermeasures (ECCM) capability. This is highly classified work to be conducted in MBDA's hardware-in-the-loop laboratory in Rome.
+Achievement of these milestones will be evaluated by QinetiQ acting as an independent auditor.
+
+
+=== Development ===
+At the 2003 Paris Air Show MBDA signed a contract with Bayern-Chemie/Protac worth in excess of EUR250m, for development, first lot production, and integrated logistics for the Meteor PSS. Also at the show, MBDA and Thales formalised their agreement of June 2002 by signing a contract for EUR46m covering development and initial production of seekers for the RAF's missiles.
+Over the eight months following contract signature, MBDA had determined the definitive external shape of Meteor. By the summer of 2003 manufacture had commenced of a full-scale model for aircraft fit checks as well as sub-scale models for wind tunnel tests scheduled for the autumn. The mid-mounted wings which had featured in the originally proposed configuration were removed. Following extensive pre-contract wind tunnel testing and MBDA's growing experience with guidance and control technologies for wingless configurations, such as ASRAAM, a wingless design was believed to offer the best solution to meeting the performance requirements. The control fins were also redesigned so that all four fins were now identical.
+In October 2003 the first trial fit of a geometrically representative model was carried out on Eurofighter.  Checks were successfully carried out on the underfuselage semi-recessed, long-stroke Missile Eject Launchers and the underwing pylon-mounted rail-launchers. In November 2003 Saab Aerosystems received an order worth 435m Swedish Kronor from the FMV for the integration of Meteor onto Gripen. As prime contractor for the integration task Saab Aerosystems will be supported by Ericsson Microwave Systems, Saab Bofors Dynamics, and MBDA (UK).
+In December 2003 MBDA and Saab Bofors Dynamics signed an enabling contract worth 485m kronor covering programme management, system level participation, participation in the development of seeker, guidance, and autopilot algorithms, development of missile software, development of test equipment, system proving activities, and the TBUS.
+In April 2004 MBDA carried out fit checks on a Gripen at Saab's Linköping facility. This demonstrated the mechanical interfaces between the missile, the Multi-Missile Launcher (MML) and the aircraft. Wind tunnel tests had recently been completed at BAE Systems' facility at Warton, UK, and at ONERA in Modane, France. These tests successfully demonstrated the air intake operation and validated the modelled aerodynamic characteristics, confirming the configuration for the first flight trials.
+In August 2004 Bayern-Chemie delivered the first inert PSS, to be used for structural testing, amongst other things.
+By the summer of 2005 two inert missiles had been delivered to Modane to recommission the facility following major modifications intended to prepare it for the free-jet trials. These were planned to begin with a 'part-firing' before the French summer holidays to be followed by two full-scale firings later in the year.  These would comprise a full end-to-end demonstration of the complete propulsion system at representative supersonic free flight conditions as a risk reduction exercise for the ALD firings, scheduled for the last quarter of 2005. During these tests a full-scale missile model fitted with a live PSS would be mounted on a moveable strut in the wind tunnel, allowing a series of incidence and sideslip manoeuvres to be conducted over the full duration of the PSS operation. The tests would demonstrate operation of the air intakes, the transition from boost to sustain propulsion, control of the sustain motor thrust, and provide data on the aerodynamic characteristics.
+On 9 September 2005 the first flight of Meteor on board a French Navy F2 standard Rafale M was successfully carried out from Istres, France. This was in preparation for a week-long series of trials from the nuclear-powered aircraft carrier Charles de Gaulle which commenced on 11 December 2005. Tests were carried out with two Ground Handling Training Missiles (GHTM) and an Environmental Data Gathering (EDG) missile fitted alternatively on an underwing rail-launcher or underfuselage eject launchers. The EDG is an instrumented missile representing all the dynamic properties of an operational missile in terms of size, weight, and aerodynamic shape. The trials were designed to measure the shock and vibration levels associated with the severe carrier operational environment. Around twenty catapult launches and full deck arrests were undertaken, along with a number of touch and go landings on the fightdeck to provide a fully comprehensive handling test of the aircraft while fitted with Meteor. The trials went so well that they were concluded a day earlier than planned.
+On 13 December a separate campaign commenced in Sweden with flights of the Meteor avionics missile (GMA5) carried on the port wing outboard station of Gripen aircraft 39.101, which had been modified with Meteor-unique software. As with the EDG missile GMA5 represents all the dynamic properties of an operational missile but also interfaces electrically with the launch aircraft. These trials successfully verified mechanical, electrical, and functional interfaces between the missile and aircraft. This was the first in-flight trial of two-way communication between the missile and aircraft and was an important step in clearing the aircraft and missile for the ALD firings which had slipped into Spring 2006, due to the lack of winter daylight hours at the Vidsel Test Range in northern Sweden.
+In a separate air-carry trial a Eurofighter of No. 17 (R) squadron RAF flew with two GHTMs on the forward underfuselage stations to assess how the aircraft handled during a series of manoeuvres.
+On 21 January 2006 a range work-up was conducted at Vidsel, again with GMA5 mounted on 39.101. This successfully verified system communications and set-up between the aircraft and the test range in advance of the first firing.
+The first ALD firing took place on 9 May 2006 from a JAS 39 Gripen flying at an altitude of 7,000 m. The missile was launched from the port underwing MML, separating safely from the launch aircraft as the integrated booster accelerated the missile to over Mach 2.0 in around two seconds. However, after a successful boost the missile failed to transition to the sustain phase of flight. The missile continued under boost impulse, gradually decelerating until broken up, on command from the ground. Despite this problem telemetry was gathered throughout the full duration of the flight. The missile debris was recovered and the air intakes were found to be still closed.
+The problem was traced to a timing issue in the gas generator valve control unit software, which was developed by a Bayern-Chemie subcontractor. Following modification a repeat of the first trial took place on 20 May 2006 and was a complete success. During the sustain phase the missile carried out a series of pre-programmed manoeuvres, under autopilot control, representative of the mid-course and endgame phases of an engagement. The flight lasted just under a minute and ended again with the successful operation of the break-up system which destroyed the missile within the range boundary.
+The first trial of a flight standard functional seeker was carried out on 30 June 2006. The Seeker Data Gathering (SDG) missile was carried under the wing of Gripen. The SDG missile has no propulsion system or warhead but contains operational missile subsystems and telemetry systems. The flight lasted approximately 1.5 hours, allowing data to be gathered over a variety of different flight conditions. These data will be used in support of the third Key Milestone. This marked the start of a two-year seeker development programme which will conclude with the first guided firing, currently scheduled for 2008 from Gripen. This programme will gather clutter data and demonstrate capabilities such as transfer alignment and target tracking in clear air and in the presence of ECM.
+On 5 September 2006 the third and final ALD firing was successfully conducted. The launch conditions were the same as the first two firings but the missile flew a different flight profile.
+The UK NAO Major Projects Report 2006 reported a 12-month delay in the Meteor programme, pushing the expected in service date back to August 2013. The Chief of Defence Procurement was reported as saying that this was nothing to do with the missile itself, "Meteor is actually going very well." and the lack of Eurofighter aircraft for the integration work was the main reason for the slip. The Minister of Defence Procurement, Lord Drayson, said "I regard this as a Eurofighter Gmbh problem." It was reported that this delay could lead to the RAF operating AMRAAM to a point where stocks of airworthy missiles become low.
+On 28 April 2015, French Ministry Of Defense, Dassault Aviation and MBDA proceeded with the first guided launch of a Meteor from the Dassault Rafale against an aerial target. The test, performed by a Rafale flying from the DGA Essais en Vol site at Cazaux, was successfully completed in a zone of the DGA Essais de Missiles site of Biscarrosse.
+On 21 April 2017, the UK government signed a £41 million contract with MBDA to integrate Meteor on Royal Air Force Eurofighter Typhoons and the F-35B Lightning IIs. On 10 December 2018, RAF Typhoons flew their first active mission with Meteor missiles.
+On 2 July 2018, MBDA opened a new facility in Bolton, England to carry out final assembly for all six European partner nations.
+On 30 August 2022, Saab announced its first firing of the MBDA Meteor with an Gripen E, at an altitude of 16,500 ft over the Vidsel Test Range in northern Sweden “in late May/early June”.
+In February 2025, it was announced that the Meteor successfully completed its first flight test on the F-35B, the test was conducted out of Naval Air Station Patuxent River. The test used an inert version of the missile to collect environmental data as part of the testing program.
+On 27 November 2025, the Brazilian Air Force announced its first firing of the MBDA Meteor with an Gripen E, as part of the exercise EXTEC BVR-X (Beyond Visual Range Technical Exercise) over the Natal AFB, located in the Northeast Region of Brazil. The exercise included the participation of four Saab Gripen F-39Es belonging to the 1st Air Defense Group based at Anápolis AFB.
+
+
+=== Future ===
+MBDA is planning integration of Meteor on the F-35 by 2027 for the UK and Italian Air Forces. The Meteor has already been checked for fit in the internal weapons bays of the JSF. It is compatible with the aircraft's internal air-to-ground stations, but requires a different fin shape to be compatible with the air-to-air stations that will be fitted as a "role change kit".
+
+
+==== Joint New Air-to-Air Missile ====
+On 17 July 2014, MBDA UK agreed to jointly research a Meteor-derived missile with Japan.
+A spokesman from the Ministry of Defense (Japan) confirmed on 14 January 2016 that Japan and the United Kingdom will develop a Joint New Air-to-Air Missile (JNAAM) by "combining the UK's missile-related technologies and Japanese seeker technologies". The active electronically scanned array seeker of the Mitsubishi Electric AAM-4B would be mounted on the Meteor, because the AAM-4B missile itself is too large to be carried in the Japanese F-35 weapons bay.
+According to the Japanese Ministry of Defense, the seeker will be made of gallium nitride modules to reconcile both miniaturization and performance enhancement and planned to carry out the first launch test with a British fighter jet by 2023. A Janes report Japan's Ministry of Defense (MoD) has asked its Ministry of Finance in Tokyo for JPY1.2 billion (US$11.4 million) to push ahead with the co-development of the JNAAM with the United Kingdom.
+
+
+== Operators ==
+
+
+=== Current operators ===
+ Brazil (100)
+100 Meteor contracted for €200 million with MBDA in 2019 to be used with the Gripen E/F
+ Croatia
+Used by the Rafale of the Croatian Air Force.
+ Egypt
+Used by the Rafale of the Egyptian Air Force Purchased with the second order for 30 Rafales.
+ France (160)
+The French Air and Space Force and the French Navy operate the Meteor with the Rafale.
+160 Meteor ordered and delivered as of March 2023  (initially, 200 Meteor ordered in 2011, later decreased to 100, and finally increased again to 160 in 2021)
+ Germany (unknown)
+The German Air Force operates the Meteor with the Eurofighter.
+Batch 1: 150 Meteor ordered in 2013, delivered between 2016 and 2018.
+Batch 2: 100 Meteor ordered in 2019 for €185 million
+Batch 3: budget approved in November 2024 for additional missiles (€521 million)
+Batch 4: budget approved in December 2025 for additional missiles, order in January 2026
+ Greece (36)
+Used by the Rafale of the Hellenic Air Force.
+ India (250)
+Used by the Rafale of the Indian Air Force, with 250 Meteor ordered.
+ Italy (400)
+Used by the Italian Air Force with the Eurofighter.
+Italy planned an initial contract of 400 missiles.
+ Qatar (330)
+Used by the Qatar Emiri Air Force with the Rafale and the Eurofighter.
+160 Meteor ordered in 2015 when ordering the Rafale.
+170 ordered in 2017 when signing the contract for the Eurofighter.
+ Spain (100)
+The Spanish Air Force operates the Meteor with the Eurofighter, 100 were approved for order in 2009.
+ Sweden
+The Swedish Air Force operates the Meteor with the Gripen C/D, and will continue to operate it with the Gripen E/F.
+The production order contract was signed in September 2010. 
+An additional order was signed in March 2025.
+ United Kingdom
+Operated by the Royal Air Force with the Eurofighter.
+ Saudi Arabia
+Used by the Royal Saudi Air Force with the  Eurofighter.
+
+
+=== Future operators ===
+ South Korea (100)
+The Republic of Korea Air Force decided to integrate the Meteor missile to the KAI KF-21 Boramae jet fighter in 2019.
+First trials of the missile on the prototype aircraft took place in May 2024.
+The supply contract was signed in November 2024. With this contract, 100 missiles are planned for the first batch of 20 KF-21 being produced.
+ Greece,  Italy and  United Kingdom
+The Italian Navy and the Royal Navy are planning to integrate the Meteor to the F-35B, and it should take place by the end of the 2020s.
+The Hellenic Air Force and the Italian Air Force are also integrating the Meteor missiles to the F-35A.
+ Turkey
+Turkish Air Force ordered undisclosed number of missiles along with the Eurofighters.
+ UAE (300)
+The United Arab Emirates has finalised details of a significant arms package accompanying its acquisition of French Rafale F4 fighter jets , the missile package includes 300 long-range Meteor missiles.
+
+
+=== Potential orders ===
+ Germany
+MBDA Deutschland is pressing the German Air Force to integrate the Meteor to the F-35A.
+ Hungary
+The Gripen C/D of the Hungarian Air Force has been modified to a standard enabling it to use the Meteor missiles. Discussions were ongoing in 2022 for the purchase of the missiles, but no confirmation of the purchase exists at the moment.
+ Thailand
+The Royal Thai Air Force has ordered the JAS 39E/F Gripen to replace the F-16A/B Bk 15 ADFs of No. 102 Squadron, with the procurement potentially including the Meteor beyond-visual-range air-to-air missile.
+
+
+== See also ==
+List of missiles
+Similar missiles
+AIM-120 AMRAAM  – (United States)
+AIM-152 AAAM  – (United States)
+AIM-260 JATM  – (United States)
+MICA  – (France)
+Astra  – (India)
+Derby  – (Israel)
+FMRAAM  – (United States)
+Novator KS-172  – (Russia)
+Long-Range Engagement Weapon  – (United States)
+Peregrine  – (Turkey)
+PL-12D  – (China)
+PL-15  – (China)
+PL-21  – (China)
+R-37  – (Russia)
+R-77M  – (Russia)
+Sky Sting
+
+
+== References ==
+
+
+== External links ==
+
+MBDA: Meteor (MBDA)

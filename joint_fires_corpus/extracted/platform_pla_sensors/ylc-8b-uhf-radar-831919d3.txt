@@ -1,0 +1,1222 @@
+A radar is an electronic system used to determine and detect the range of target and maps various types of targets. This is a list of radars.
+
+
+== Argentina ==
+
+
+== Australia ==
+
+
+== Brazil ==
+
+
+== China ==
+
+
+=== Military ===
+
+
+==== Naval ====
+Type 341 Radar 'RICE LAMP' fire control radar
+Type 342 Radar 'FOG LAMP' fire control radar
+Type 343 Radar 'WASPHEAD/SUN VISOR' fire control radar
+Type 344 Radar fire control radar
+Type 345 Radar fire control radar
+Type 346 radar surveillance radar
+Type 347 Radar 'RICE BOWL' fire control radar
+Type 348 Radar fire control radar
+Type 349 radar fire control radar
+Type 351 Radar 'POT HEAD' surface search radar
+Type 352 Radar 'SQUARE TIE' naval surface search radar
+Type 354 Radar 'EYE SHIELD' air/surface search
+Type 360 radar air/surface search radar
+Type 364 Radar air/surface search radar
+Type 366 radar over-the-horizon air/surface search radar
+Type 381 Radar 'RICE SCREEN' air/surface search radar
+Type 382 Radar air/surface search radar
+Type 512 Radar navigational/surface search radar
+Type 514 Radar air search radar
+Type 515 Radar 'BEAN/PEA STICK'air/surface search radar
+Type 517 Radar 'KNIFE REST' air/surface search
+Type 518 Radar air search radar
+Type 751 Radar navigation radar
+Type 752 Radar navigation radar
+Type 753 Radar navigation radar
+Type 756 Radar navigation radar
+Type 757 Radar navigation radar
+
+
+==== Land-based ====
+CLC-1 Radar short range surveillance radar
+JY-8 Radar 'WALL RUST' mobile tactical 3D radar
+JY-9 Radar 'WALL EYE' low altitude surveillance radar
+JY-14 Radar 'GREAT WALL' medium/long range 3D radar
+JLG-43 Radar height finding radar
+REL-6B Radar long range air surveillance radar
+RES-1 Radar low to medium altitude surveillance radar
+SLC-2 Radar counter battery radar
+Type 514 Radar surveillance
+Type 704 Radar counter battery radar
+YLC-2 Radar 3D surveillance radar
+YLC-4 Radar long range surveillance radar
+YLC-6 Radar medium and low altitude surveillance radar
+YLC-15 Radar light air defense radar
+
+
+==== Airborne ====
+HAL-3
+JL-10A
+KLJ-7
+
+
+== Egypt ==
+
+
+== Europe ==
+
+
+== India ==
+
+
+=== Military ===
+
+
+==== Airborne ====
+LCA MMR - 3D advanced, lightweight multimode fire control radar for HAL Tejas Mk1 aircraft derived from EL/M-2032.
+Netra AEW&CS - 3D AESA AEW&C radar installed on an ERJ 145 aircraft.
+
+
+==== Naval ====
+XV-2000 3D airborne naval surveillance radar for Dornier 228 maritime patrol aircraft.
+Revathi 3D Naval Medium range surveillance radar derived from the 3D CAR for Shivalik-class frigates.
+
+
+==== Land-based ====
+Swordfish LRTR - AESA long-range tracking radar for Ballistic missile defence surveillance and fire control.
+Arudhra MPR - Static 4D AESA Medium power radar for airspace surveillance for ranges exceeding 300 km.
+ADTCR - Mobile 4D AESA Medium power radar for airspace surveillance
+Ashwini LLTR - Mobile 4D AESA radar for Low level air targets up to ranges of 200 km.
+INDRA series of 2D Pulse-doppler medium range airspace surveillance radars
+Rajendra 3D medium range PESA fire control radar for Akash SAM.
+Central Acquisition Radar (3D-CAR) PESA tracking radar for battlefield surveillance as part of the Akash SAM system.
+BMFR - Mobile Quad panel AESA multifunction radar for battery level fire control in QRSAM missile system.
+BSR - Mobile Quad panel AESA multifunction radar for battery level surveillance in QRSAM missile system.
+Atulya ADFCR - AESA fire-control radar for upgraded L70 air defence gun.
+BFSR-SR 2D short range battlefield surveillance radar for the Indian Army.
+Bharani Low Level Lightweight Radar(LLLR) - portable 2D low level aircraft tracking radar.
+Swathi Weapon Locating Radar - Mobile 3D PESA Counter-battery radar.
+
+
+=== Under development ===
+Uttam AESA multifunction radar for fighter aircraft.
+LR-MFR - Dual panel multifunction radar for naval application.
+HPR - Static Quad panel AESA High power radar for airspace surveillance
+
+
+== Iran ==
+Matla-ul-fajr VHF radar system
+Kashef 1 & Kashef 2
+Alvand
+BSR-1
+Meraj-4
+Asr
+Alim
+Najm-802
+Ghadir
+Thamen
+
+
+== Israel ==
+
+
+=== Airborne ===
+Elta Systems EL/W-2085 Airborne Early Warning & Control radar
+Elta Systems ELW 2090 PHALCON AWACS
+Elta Systems ELW-2096 AEW&C for Midsize Jets (P600)
+Elta Systems ELM-2052 Airborne AESA FCR
+Elta Systems ELM-2032 Multi-mode FCR
+Elta Systems ELM-20600 Radar Targeting Pod
+Elta Systems ELM-2060PES SAR/GMTI Radar Pod
+Elta Systems ELM-2022 Maritime Patrol Radar
+Elta Systems ELM-2022ML Lightweight MPR
+Elta Systems ELM-2025 C-Catcher
+Elta Systems ELM-2055DX SAR/GMTI
+Elta Systems ELM-2054 Lightweight SAR/GMTI Payload
+Elta Systems ELI-2058 Tactical ISR System
+Elta Systems ELM-2161 Detect & Avoid system
+
+
+=== Military – Naval ===
+Elta Systems ELM-2248 MF-STAR Multi-Panel Digital AESA
+Elta Systems ELM-2258 ALPHA Rotating Digital AES
+Elta Systems ELM-2238X STAR-X 3D radar Surveillance and Alert radar
+
+
+=== Military – Early Warning & Air defense ===
+Elta Systems ELM-2090 TERRA UHF+S-Band Phased Array EW Radar
+Elta Systems ELM-2080 Green Pine Missile Detection EW Radar
+Elta Systems ELM-2084 MMR Multi-Mission Radar
+Elta Systems ELM-2084MS MS-MMR Multi-Sensor MMR
+Elta Systems ELM-2288 AD-STAR Air Defense & Traffic Control Radar
+Elta Systems ELK-7080 PCL Passive Coherent Location System
+Elta Systems ELK-7080 PCL Passive Coherent Location System
+Elta Systems ELM-2070 OTH
+Elta Systems ELM-2040 OTH-B
+Elta Systems ELM-2106 ATAR Tactical 3D Air Defense Radar
+Elta Systems ELM-2026B VSHORAD Radar
+Elta Systems ELM-2097 Space Guard, Space Surveillance & Tracking (SST) Radar
+Elta Systems ELM-2138M Green Rock Tactical C-RAM Radar
+Magos Systems AR-300 Drone Detection Radar
+
+
+=== Military – Ground Surveillance ===
+Elta Systems ELM-2112 Persistent Ground Surveillance Radar
+Elta Systems ELI-3310 Coastal Surveillance System
+Elta Systems ELM-2226 ACSR Coastal Surveillance Radar
+Elta Systems ELM-2070 OTH Over the Horizon HF Coastal Surveillance Radar
+Elta Systems ELM-2040 OTH-B Early Warning OTH Backscatter Radar
+Elbit Systems DAiR Simultaneous Multi-mission Tactical Radar
+Elbit Systems Multibeam Radar MBR 16-1
+DRS RADA NMHR Next-Gen Multi-mission Hemispheric Radar
+DRS RADA EXMHR Extended Multi-mission Hemispheric Radar
+Magos Systems High-Resolution Security Radar
+
+
+=== Military - Ground Mobile Radars ===
+Elta Systems ELM-2135 StormGuard Multimission Radar for Ground Combat Vehicles
+Elta Systems ELM-2133 WindGuard APS Radar
+DRS RADA MHR Multimission Hemispheric Radar
+DRS RADA ACHR/ECHR Enhanced Compact Hemispheric Radar
+
+
+=== Radar Sensors for Autonomous Vehicles ===
+Arbe HiRain Imaging Radar Chipset
+
+
+=== Test Range Radars ===
+Elta Systems ELM-2086C CINBAD - AESA multi-target tracking radar
+
+
+== Italy ==
+
+
+=== Airborne ===
+Leonardo S.p.A. Grifo radar
+Leonardo S.p.A. SeaSpray radar
+
+
+=== Surface based ===
+Selex RAT-31DL - 3D long range L-Band Air-Search radar
+
+
+=== Military – Naval ===
+EMPAR – European Multifunction Phased Array Radar, AN/SPY-790
+KRONOS – 3D multi-mode C-Band radar with a fully solid state active phased array antenna
+Selex RAN-40L – 3D multibeam long range L-Band radar with a fully solid state active phased array antenna
+
+
+== Japan ==
+
+
+=== Surface-based ===
+J/FPS-1
+J/FPS-2
+J/FPS-3
+J/FPS-4
+J/FPS-5
+J/FPS-7
+J/TPS-100
+J/TPS-101
+J/TPS-102
+
+
+=== Naval ===
+FCS-1 fire control radar
+FCS-2 fire control radar
+FCS-3 fire control radar
+OPS-1
+OPS-2
+OPS-3
+OPS-4
+OPS-5
+OPS-9
+OPS-10
+OPS-11
+OPS-12
+OPS-13
+OPS-14
+OPS-16
+OPS-17
+OPS-18
+OPS-19
+OPS-20
+OPS-22
+OPS-24
+OPS-28
+OPS-29
+OPS-39
+OPS-50
+ZPS-1 Submarine radar
+ZPS-2 Submarine radar
+ZPS-3 Submarine radar
+ZPS-4 Submarine radar
+ZPS-5 Submarine radar
+ZPS-6 Submarine radar
+
+
+=== Airborne ===
+J/AWG-11
+J/AWG-12
+J/APG-1 the first series production AESA to be introduced on a military aircraft in service
+J/APG-2
+Multi-Function RF Sensor
+
+
+== Serbia ==
+P-12 Modernize version with digital function, new carbon antenna in Yagi shape, and higher range up to 350 km.
+P-18 Modernize version with new antennas, bigger range, digitalised.
+P-40 Medium-range surveillance and target acquisition
+AN/TPS-70 long range 3D radar.
+Giraffe radar modernize version, and digital with PASARS anti-aircraft system.
+H-22 Long-range surveillance and target acquisition.
+Marconi S-605/654 Medium-range surveillance
+Marconi S-613 Altitude measurement
+PRV-16B Altitude measurement
+
+
+== Soviet Union/Russia ==
+
+
+=== Military ===
+
+
+==== Naval ====
+5P-27 "Furke", 3D Air/Surface search radar.
+Angara MR-300 "Head Net", 2D air surveillance and surface search radar.
+Angara-A MR-310 "Head Net A", 3D air survrillance and surface search radar. Sometimes used in pair with Top Steer.
+Topaz-V MR-320M "Strut Pair", Air/Surface search radar.
+Fregat MR-710 "Top Steer", 3D search radar
+Fregat MR-750 "Top Plate", 3D search radar replacement for Top Steer on Sovremenny-class destroyers.
+Fregat-MA MR-760MA "Top Plate", 3-D air search radar.
+Voskhod MR-600 "Top Sail", somewhat similar to "Top Steer" but larger and operating at lower frequency.
+Voskhod MR-800 "Top Pair", 3D search radar.
+Volna 3R41 "Top Dome", Fire control/Target acquisition radar.
+
+
+==== Land-based ====
+RUS-1 "Rhubarb", Early warning radar
+A-100 "Kama", Early warning ground control radar
+P-3 "Dumbo", Early warning ground control radar.
+P-8 "Knife Rest A", Early warning ground control radar.
+P-10 "Knife Rest B", Early warning ground control radar.
+P-12 "Spoon Rest", Early warning ground control radar.
+P-14 "Tall King", Early warning radar.
+P-15 "Flat Face A", Surveillance/Target acquisition radar.
+P-18 "Spoon Rest D", Early warning radar.
+P-19 "Flat Face B", Surveillance/Target acquisition radar.
+P-20 "Bar Lock", Early warning ground control radar.
+P-30 "Big Mesh", Early warning ground control radar.
+P-35 "Bar Lock", Early warning ground control radar.
+P-37 "Bar Lock"
+P-40 "Long Track", Early warning/Target acquisition radar.
+P-70, Early warning radar.
+P-80 "Back Net", E-band Early Warning Radar
+P-100
+Kasta 2E "Flat Face E" Surveillance radars.
+PRV-11 "Side Net", Height finding radar
+PRV-13 "Odd Pair, Height finding radar
+SNR-75 "Fan Song", Fire control/Target acquisition radar
+SNR-125 "Low Blow", Fire control/Target acquisition radar
+1S91 "Straight Flush", Fire control/Target acquisition radar
+30N6 "Flap Lid", Fire control/Target acquisition radar
+36D6 "Tin Shield", Surveillance radar
+64N6 "Big Bird", Surveillance radar
+76N6 "Clam Shell", Low-altitude detection radar
+91N6E, Surveillance radar
+92N6E, Fire control/Target acquisition radar
+96L6E "Cheese Board", All altitude surveillance radar
+9S15 "Bill Board A", Surveillance radar
+9S19 "High Screen", Sector surveillance radar
+9S32 "Grill Pan", Fire control/Target acquisition radar
+Azov radar "Flat Twin", ABM radar
+Duga "Steel Yard" or "Russian Woodpecker", Over the horizon radar
+Dnestr "Hen House", ABM radar
+Dnepr "Hen House", ABM radar
+Daryal "Pechora", ABM radar
+Dunay "Dog House"/"Cat House", ABM radar
+Volga, ABM radar
+Don-2N "Pill Box", ABM radar
+Voronezh, ABM radar
+29B6 Container, ABM radar
+
+
+==== Airborne ====
+N001 Myech
+N002 Ametist
+N006 Ametist
+N008 Ametist
+N005 Smerch
+N007 Zaslon
+N010 Zhuk
+N011 Bars
+N012
+N014
+N019 Rubin
+N025 Almaz
+N035 Irbis
+N036 Byelka
+Kopyo
+FH-01
+Osa
+RP-21 Sapfir
+Sapfir-23P
+Taifun-M
+
+
+== Taiwan ==
+
+
+== United Kingdom ==
+
+
+=== Ground ===
+
+Radar, GL, No. 1, Mk I – Anti-aircraft gun laying radar
+Radar, GL, No. 1, Mk I E/F – Anti-aircraft gun laying radar with elevation finder
+Radar, GL, No. 1, Mk II – Anti-aircraft gun laying radar
+Radar, AA, No. 2, Marks I through VII were a 1.5 metre wavelength Searchlight Control (SLC) radar known as 'Elsie'. The only difference between these Marks was the mounting arrangement. Marks VIII and IX were centimetric versions that did not see service.
+
+Radar, AA, No 3, Mk 1 – new name for GL Mk. III(C)
+Radar, AA, No 3, Mk 2 - new name for GL Mk. III(B)
+Radar, AA, No 3, Mk 2 (F) - Anti-aircraft fire control modified for mortar locating.
+Radar, AA, No 3, Mk 3  - "Emergency" anti-aircraft fire control known as 'Baby Maggie' adapted from SLC. Also used for mortar locating.
+Radar, AA, No 3, Mk 5 – US-made SCR-584 radar Anti-aircraft fire control
+
+Radar, AA, No 3, Mk 7 - Post-war anti-aircraft fire control.
+Radar, AA, No 3, Mk 8 - Designation for US-made SCR-545 radar, but not used in service.
+Radar, AA, No 4, Mk I - Anti-aircraft local warning, known as 'Zippy'.
+Radar, AA, No 4, Mk II - Anti-aircraft local warning.
+Radar, AA, No 4, Mk III - Anti-aircraft local warning.
+Radar, AA, No 4, Mk V - AMES Type 14 Anti-aircraft local warning, known as 'Gorgonzola'.
+Radar, AA, No 4, Mk VI - Canadian-made Anti-aircraft local warning.
+Radar, AA, No 4, Mk VII - Anti-aircraft local warning.
+Radar, AA, No 5, Mk Ii - AMES Type 11 Anti-aircraft local warning.
+Radar, FA, No 1, Mk 1 - Control of artillery fire against ground targets.
+Radar, FA, No 1, Mk 2 - Control of artillery fire against ground targets.
+Radar, FA, No 2, Mk 1 - Doppler radar used to detect moving ground targets.
+Radar, FA, No 3, Mk 1 - Mortar locating.
+Radar, FA, No 3, Mk 2 - Mortar locating derived from AN/APS-3.
+Radar, FA, No 3, Mk 1- Mortar locating .
+Radar, FA No 8 - "Green Archer" mortar locating .
+Radar, FA, No 9 - "Robert" long range ground surveillance mounted in Saracen.
+Radar, CA, No 1, Mk 3 - Coast Artillery. Transmitter & receiver based on NT271, with displays from CA No 1 Mk1.
+Radar, CA, No 1, Mk 4 (F) - Coast artillery fire control modified for use against ground targets.
+Radar, CD, No 1, Mk 1 - Coast warning radar, also used as CHL.
+Radar, FCE, No 7 - Fire control equipment with 2 radars in a single trailer for aiming a L1A1 40/70 AA gun.
+Radar, AD, No 10 - "Yellow River" AMES Type 83 target illuminating used with Thunderbird SAGW
+Radar, AD, No 11 - Tactical control used with Thunderbird SAGW
+Radar, AD, No 12 - Height finder used with Thunderbird SAGW
+Radar, FA, No 13 - Tracking and control used with SD 1 drone
+Radar, FA, No 14 - ZB298 short range manportable ground surveillance.
+Radar, FA, No 15 - Cymbeline mortar locating.
+Radar, FA, No 17 - Marconi marine radar mounted in Land Rover for coastal surveillance
+Radar, FA, No 19 - Militarised WF3 meteorological radar used by AMETS
+Radar, FA, No 22 - MSTAR
+Blindfire - Fire control used with Rapier missile system.
+Dagger - Surveillance used with Rapier missile system.
+Orange Yeoman – Projected central surveillance system
+Type 86 - "Indigo Corkscrew" Bristol Bloodhound air defence missile system.
+Type 901 - Naval fire-control for Sea Slug missile.
+Type 98 - Long Range Search.
+Type 93 - Long Range Search.
+Type 101 - Long Range Search.
+Type 102 - Long Range Search.
+MAMBA - derivative of Ericson ARTHUR artillery locating radar
+COBRA (Radar) - trinational high performance full phased array artillery locating radar
+Blighter B202 Mk 2 - Man-portable electronic-scanning ground surveillance radar
+Blighter B303 - Vehicle-mountable electronic-scanning ground surveillance radar
+Blighter Revolution 360 - Vehicle-mountable electronic-scanning ground surveillance radar
+Blighter B400 Series - Fixed installation, modular electronic-scanning ground surveillance radar
+AWS II - Fixed installation (and naval installation), surface warning and air and surface target indication
+
+
+=== Naval ===
+
+Type 79 radar
+Type 86 radar
+Type 262 radar
+Type 267 radar
+Type 268 radar
+Type 271 radar
+Type 272 radar
+Type 273 radar
+Type 274 radar
+Type 275 radar
+Type 276 radar
+Type 277 radar, height finding
+Type 279 radar
+Type 280 radar
+Type 281 radar
+Type 282 radar
+Type 283 radar
+Type 284 radar
+Type 285 radar
+Type 286 radar
+Type 290 radar
+Type 291 radar
+Type 293 radar
+Type 901 radar, Seaslug missile tracking and guidance
+Type 909 radar, tracking and guidance for GWS 30 Sea Dart missile
+Type 965 radar, naval search
+Type 984 radar
+Type 997 Artisan radar
+Type 1007 radar
+Type 1022 radar
+Type 2007 radar
+SharpEye™ solid state radar
+SCV radar
+AWS II
+
+
+=== Airborne ===
+AI Mark I - prototype air interception radar, produced as Mk. IV
+AI Mk. II - prototype used on the Boulton Paul Defiant
+AI Mk. III - pre-production type used on the Bristol Blenheim
+AI Mk IV - first widely produced air-to-air radar, used on Douglas Havoc and Bristol Beaufighter
+AI Mk. VII - prototype centimetric scanning dish AI radar
+AI Mk VIII - production centimetric AI radar made by EKCO
+AI Mk. IX - centimetric with "lock and follow". problems with production
+AI Mk. X - modified American SCR 720 adopted instead of AI Mk IX
+AI.17 Post war British Air Interception radar, by Decca codename "Yellow Lemon" used on Gloster Javelin
+AI.18 As above but by GEC used on De Havilland Sea Vixen
+AI.20 - a.k.a. Green Willow, prototype airborne interception radar
+AI.23 Airpass Built by Ferranti
+AI.24 Foxhunter for the Panavia Tornado Air Defence Variant.
+AIRPASS I - AI.23 combined with gun sight (from "Airborne Interception Radar and Pilot Attack Sight System") as used on English Electric Lightning
+AIRPASS II  project name "Blue Parrot", strike radar on Blackburn Buccaneer
+EKCO ARI 5820 for the Hawker Hunter
+ASV Mk. II - Wartime air to surface vessel radar
+ASV Mk. III - Wartime air to surface vessel radar
+ASV Mk. XI - Wartime air to surface vessel radar
+ASV Mk. 19 - used on the Fairey Gannet
+Blue Fox for the British Aerospace Sea Harrier FRS1
+Blue Vixen for the British Aerospace Sea Harrier FA.2
+Blue Kestrel - Search Radar
+H2S radar - British navigation radar
+H2X radar X band bombing and navigational radar nicknamed as Mickey (equivalent to British H2S) by Philco for Boeing B-29 Superfortress Martin PBM-3C/5/5E/5S Mariner, Boeing B-17 Flying Fortress, Consolidated B-24 Liberator PB4Y-2 and Lockheed PV-2 Harpoon
+Monica tail warning radar - British WWII
+Orange Putter - tail Warning radar fitted to English Electric Canberra and Vickers Valiant.
+Red Drover - sideways-looking radar for reconnaissance
+Red Steer -  tail warning radar for the Avro Vulcan
+Searchwater - maritime surveillance radar
+Village Inn - cover name for radar-based Automatic Gun-Laying Turret
+
+
+== United States ==
+
+
+=== Military ===
+
+
+==== Naval ====
+
+Early S-band RADAR Designations
+
+From February 1943 the US used a universal system to identify radar variants, consisting of three letters and a number, respectively designating platform, type of equipment, function, and version. This system was continued after WWII with multiservice designations being prefixed by 'AN/' for Army-Navy.
+BuShips 1943 classifications
+
+Multi-service classifications
+Multi-service classification codes according to the Joint Electronics Type Designation System.
+Specific radar systems
+
+AN/BPS-11 Surface search radar, for submarines.
+AN/BPS-15 Surface search radar, for submarines.
+AN/BPS-16 Surface search radar, for submarines.
+AN/SPG-34 Tracking radar for Mark 63 Gun Fire Control System.
+AN/SPG-35 Tracking radar for Mark 56 Gun Fire Control System.
+AN/SPG-49 Illumination and tracking radar associated with RIM-8 Talos fire control system.
+AN/SPG-51 Illumination and tracking radar for Mk74 "Tartar" Guided Missile Fire Control System
+AN/SPG-53 Gunfire control radar.
+AN/SPG-55 Illumination and tracking radar for Terrier Guided Missile Fire Control System.
+AN/SPG-59 Multifunction radar for Typhon combat system. Canceled 1963.
+AN/SPG-60 Illumination and tracking radar.
+AN/SPG-62 Illumination radar for Aegis combat system.
+AN/SPN-35 Precision Approach Radar (PAR), derived from AN/TPN-8
+AN/SPN-41
+AN/SPN-42
+AN/SPN-43
+AN/SPN-44
+AN/SPN-45
+AN/SPN-46
+AN/SPN-50.  Replacement for the AN/SPN-43.  Based on the SPS-77 (Sea Giraffe AMB)
+AN/SPQ-5 Early beam emitting radar for early model Terrier missiles
+AN/SPQ-9 2D surface search radar
+AN/SPQ-10
+AN/SPQ-11 Cobra Judy phased array radar
+AN/SPS-2 Long range height finding radar by General Electric.
+AN/SPS-3 Also known as XDK, 3D target designator/rapid volume search radar jointly developed by MIT Radiation Laboratory and Naval Research Laboratory.
+AN/SPS-4 Surface and low altitude air search radar by Raytheon.
+AN/SPS-6 2D air search radar
+AN/SPS-8 2D height finding radar
+AN/SPS-10 2D surface search radar
+AN/SPS-12 2D air/surface search radar
+AN/SPS-17 2D air search radar
+AN/SPS-29 2D air search radar
+AN/SPS-30 3D air search radar
+AN/SPS-32 Part of SCANFAR system.
+AN/SPS-33 Part of SCANFAR system.
+AN/SPS-37 2D air search radar
+AN/SPS-39 3D air search radar
+AN/SPS-40 2D air search radar
+AN/SPS-41 Navigational radar for small boats.
+AN/SPS-43 2D air search radar
+AN/SPS-46 Navigational radar for small boats by Lavoie Laboratories.
+AN/SPS-48 3D air search radar
+AN/SPS-49 2D air search radar (long ranged)
+AN/APS-51 Successor of AN/APS-46.
+AN/SPS-52 3D air search radar
+AN/SPS-53 Navigational radar by Sperry Corporation.
+AN/SPS-54 Surface search radar by Sperry Corp.
+AN/SPS-55 2D surface search radar
+AN/APS-57 Small boats navigational radar by Ridge Electronics.
+AN/SPS-58 Low altitude 2D air search radar
+AN/SPS-59 Military designation for the LN-66 short-range navigation radar manufactured by Marconi of Canada. In service in many US Navy ships as well as in the SH-2F LAMPS I ASW helicopter.
+AN/SPS-60 Solid state version of AN/APS-53.
+AN/SPS-61 Teledyne-Ryan's entrant into the 1967 emergency missile-detection radar program won by Westinghouse's AN/SPS-58, never went to production.
+AN/SPS-62 Westinghouse's improvement of AN/SPS-58 with nine examples were ordered in 1973 but quickly cancelled, it appears that Westinghouse simply rolled some of AN/SPS-62's features into AN/SPS-58D.
+AN/SPS-63 US designation for Italian 3RM-20H surface search radars by Dynell Electronics.
+AN/SPS-64 Navigation radar, a surface navigation and search radar, made by Raytheon and used both commercially (brand name Mariner's Pathfinder) and by navies worldwide.
+AN/SPS-65 Development of AN/SPS-58 by Westinghouse as a low altitude radar that is part of the Mark 91 Fire Control System for the Sea Sparrow air defense missiles.
+AN/SPS-66 Small boat navigational radar by Raytheon.
+AN/SPS-67 2D surface search radar
+AN/APS-69 Military designation for Raytheon R41X, with a simple slotted-waveguide bar-type antenna, and a 7" colour CRT display.
+AN/ASB-12 Airborne search radar/autonav/bomb director set used by the Navy RA5C Recon. aircraft
+AN/SPS-71 Improved AN/APS-69 with a dielectric dome protector for the antenna and a 10" color CRT control console with more features.
+AN/SPS-72 Raster-scan collision avoidance radar (RASCAR) by Sperry.
+AN/SPS-73(V)18 Next Generation Surface Search Radar (NGSSR) by Ultra Electronics Ocean Systems
+AN/SPS-74 Anti-submarine surface radar by Ultra Electronics 3 Phoenix.
+AN/SPS-75 US designation of TRS-3D radar.
+AN/SPS-76 Long range 3D air/maritime/surface search/surveillance radar by ITT Excelis.
+AN/SPS-77 US designation of Sea Giraffe AMB (Agile Multi-Beam) radar.
+AN/SPS-80 US designation of Hensoldt TRS-4D radar 
+AN/SPW-2 RIM-8 Talos guidance radar
+AN/SPY-1 3D phased array air search radar part of Aegis Combat System
+AN/SPY-2
+AN/SPY-3 3D phased array air search, tracking, and target illumination radar; part of Dual Band Radar
+AN/SPY-4 Volume search element of Dual Band Radar
+AN/SPY-6 Modular phased array search and tracking radar
+AN/SPY-7 Version of Long Range Discrimination Radar adapted for the Aegis system
+
+
+==== Land-based ====
+AN/CPS-1 - Microwave Early Warning (MEW) radar. World's first microwave phased-array antenna.
+AN/FPN-16 Precision Approach Radar (PAR)
+AN/FPN-47 Airport Surveillance Radar (ASR)
+AN/FPQ-16 Perimeter Acquisition Radar at Cavalier AFS, North Dakota (an engineering development model was tested at Syracuse)
+AN/FPS-3 search radar
+AN/FPS-4 Height-Finder
+AN/FPS-5 long Range Search Radar
+AN/FPS-6 height finder
+AN/FPS-7 Long Range Search Radar
+AN/FPS-8 Medium Range Search Radar
+AN/FPS-10 medium-range search/height finder Radar (stripped-down version of the AN/CPS-6B)
+AN/FPS-14 Medium-range search Radar
+AN/FPS-16 tracking radar
+AN/FPS-17 detection radar
+AN/FPS-18 Medium-range search Radar
+AN/FPS-19 long-range search radar
+AN/FPS-20  20A, 20B
+AN/FPS-23 fluttar radar
+AN/FPS-24 long range search radar
+AN/FPS-26 height finder radar
+AN/FPS-27 Long Range search radar
+AN/FPS-30 long-range search radar
+AN/FPS-35 long range search radar
+AN/FPS-41 meteorological radar
+AN/FPS-49 Ballistic Missile Early Warning System (BMEWS) tracking radar
+AN/FPS-49A variant of FPS-49 with different radome for Thule Site J
+AN/FPS-92 variant of FPS-49 with improvements for Clear AFS, Alaska
+AN/FPS-50 BMEWS scanning radar
+AN/FPS-65 General Surveillance Radar
+AN/FPS-71 fixed High Power Acquisition Radar (HIPAR) for Nike ADM
+AN/FPS-77 Storm Detection Radar
+AN/FPS-85 Spacetrack radar
+AN/FPS-95 Cobra Mist radar
+AN/FPS-100
+AN/FPS-106 Storm Detection Radar
+AN/FPS-107 Long Range Search Radar
+AN/FPS-108 Cobra Dane radar
+AN/FPS-113
+AN/FPS-115 PAVE PAWS early warning radar system
+AN/FPS-117 Long Range Solid-State radar
+AN/FPS-118 Over-The-Horizon-Backscatter (OTH-B) radar
+AN/FPS-120, part of the Solid State Phased Array Radar System (replaced BMEWS radars)
+AN/FPS-123(V3), part of the SSPARS (upgraded PAVE PAWS)
+AN/FPS-123(V7), part of the SSPARS (modified PAVE PAWS at Clear AFS)
+AN/FPS-124 unattended Radar (UAR), short range, doppler radar
+AN/FPS-126, part of the SSPARS
+AN/FPS-129, also called HAVE STARE
+AN/FPS-132 Upgraded Early Warning Radar (UEWR) to upgrade SSPARS
+AN/MPN-1 ground control radar
+AN/MPN-2 ground control radar
+AN/MPN-3 ground control radar
+AN/MPN-5 ground control radar
+AN/MPN-11 ground control radar
+AN/MPN-13/14 ground control radar
+AN/MPN-26 ground control radar
+AN/MPQ-4 Counter-mortar (Firefinder) Radar (replaced by AN/TPQ-36 & AN/TPQ-37)
+AN/MPQ-14
+AN/MPQ-35 PAR (Pulse Acquisition Radar) high/medium-altitude threat detection radar for MIM-23 Hawk surface-to-air missile system.
+AN/MPQ-43 mobile High Power Acquisition Radar (HIPAR) for Nike ADM.
+AN/MPQ-64 Sentinel
+AN/MSQ-1 Close Support Control Set for Radar Bomb Scoring (RBS)
+AN/MSQ-1A used for Matador Automatic Radar Control
+AN/MSQ-2 Close Support Control Set for Korean War RBS
+AN/MSQ-13 Interim air defense system
+AN/MSQ-35 Radar Bomb Scoring (RBS) Central
+AN/MSQ-39
+AN/MSQ-46 descendant of AN/MSQ-39
+AN/MSQ-77 Bomb Directing Central for Vietnam War ground directed bombing (Combat Skyspot)
+AN/PPS-5A Ground Surveillance Radar
+AN/PPS-15 Ground Surveillance Radar
+AN/TPQ-10 Radar Course Directing Central
+AN/TPQ-36 Firefinder radar
+AN/TPQ-37 Firefinder radar
+AN/TPQ-43 Seek Score
+AN/TPQ-48 Lightweight Counter Mortar Radar
+AN/TPQ-50 Lightweight Counter Mortar Radar
+AN/TPQ-53 Quick Reaction Capability Radar
+AN/TPS-1 Long range search radar
+AN/TPS-22 Long range search radar
+AN/TPS-25 Ground Surveillance Radar (replaced by AN/TPS-58)
+AN/TPS-32 Long range search radar
+AN/TPS-34 Long range search radar
+AN/TPS-37 height-finder radar
+AN/TPS-39 Intrusion Detection, missile sites
+AN/TPS-43 Mobile Tactical 3D Radar
+AN/TPS-43E Mobile Tactical 3D Radar
+AN/TPS-58 Ground Surveillance Radar
+AN/TPS-59 transportable air search radar
+AN/TPS-63 mobile tactical 2D radar
+AN/TPS-72
+AN/TPS-75 transportable 3-dimensional air search radar
+AN/TPS-77 transportable version of the AN/FPS-117 solid state phased array radar
+AN/TPS-80 Ground/Air Task Oriented Radar
+AN/TPY-2 Forward Based X-Band Transportable (FBX-T)
+AN/UPS-1 Short range search radar
+SCR-268 Fire-control radar
+SCR-270 Early warning radar
+SCR-527 Early warning radar
+SCR-547 Height finding radar
+SCR-602 Lightweight early warning radar
+SCR-658 Weather balloon tracking radar
+SCR-584 Fire-control radar
+SCR-784 Fire-control radar
+AN/TSQ-81 Bomb Directing Central (transportable version of AN/MSQ-77)
+AN/TSQ-96 Bomb Directing Central (version of AN/TSQ-81 with digital computer)
+Missile Site Radar at the Missile Launch Area of the Stanley R. Mickelsen Safeguard Complex
+Multi-function Array Radar at White Sands Missile Range for Nike Zeus testing
+ZEUS Acquisition Radar also at WSMR
+
+
+==== Airborne ====
+
+
+===== AN/APB Series =====
+AN/APB-2, bombing radar for Convair B-58 Hustler
+
+
+===== AN/APD Series =====
+AN/APD-1 homing radar for Grumman TBF Avenger
+AN/APD-5  reconnaissance radar
+AN/APD-7  surveillance radar by Westinghouse Electric (1886) for North American RA-5C Vigilante and Grumman OV-1D Mohawk
+AN/APD-8  podded version of side-looking reconnaissance radar for General Dynamics F-111
+AN/APD-10  side-looking mapping radar for McDonnell-Douglas RF-4B/C Phantom II and Lockheed C-130 Hercules
+AN/APD-11  side-looking radar for McDonnell-Douglas RF-4E Phantom II
+AN/APD-12 I band/J band side-looking reconnaissance radar for Israeli McDonnell-Douglas RF-4B Phantom II
+AN/APD-13  reconnaissance radar that is part of Quick Look SIGINT for Beechcraft RC-12 Guardrail
+AN/APD-14  SAROS (Synthetic Aperture Radar for Open Skies) by Sandia National Laboratories for Boeing OC-135
+
+
+===== AN/APG Series =====
+AN/APG-1 S band interception radar for Northrop P-61 Black Widow
+AN/APG-2 S band interception radar for Northrop P-61B Black Widow
+AN/APG-3 General Electric tail gun aiming radar for Boeing B-29 Superfortress and Convair B-36B
+AN/APG-4 L band low altitude torpedo release / aiming radar for Grumman TBM Avenger  with nickname of  Sniffer.
+AN/APG-5 S band ranging / gun aiming radar for Boeing B-17 Flying Fortress, Consolidated B-24 Liberator and North American F-86A Sabre
+AN/APG-6 L band low altitude bombing radar nicknamed Super Sniffer. Improved AN/APG-4.
+AN/APG-7  Bombing radar to control glide bombs
+AN/APG-8 S band turret gun aiming radar for Boeing B-29B Superfortress
+AN/APG-9 L band low altitude bombing radar. Improved AN/APG-6
+AN/APG-11 L band bombing radar
+AN/APG-12 L band low altitude bombing radar. Improved AN/APG-9
+AN/APG-13 General Electric 75 mm nose gun aiming radar for North American B-25H Mitchell.
+AN/APG-14 S band gun aiming radar for Boeing B-29 Superfortress
+AN/APG-15 S band tail gun aiming radar for Boeing B-29B Superfortress and Consolidated PB4Y Privateer
+AN/APG-16  improved AN/APG-2 gun aiming radar for B-32.
+AN/APG-17  improved AN/APG-4 L band low altitude torpedo release / aiming radar and bombing radar
+AN/APG-18 X band gun aiming radar by Glenn L. Martin Company for turret guns, improved AN/APG-5
+AN/APG-19 X band gun aiming radar by Glenn L. Martin Company  improved AN/APG-8 and AN/APG-18.
+AN/APG-20 L band low altitude bombing radar. Improved AN/APG-12
+AN/APG-21  ranging radar for ground attack
+AN/APG-22 X band gun aiming radar by Raytheon
+AN/APG-23  Fire control radar for Convair B-36A
+AN/APG-24  Fire control radar for Convair B-36B
+AN/APG-25 X band gun aiming radar for North American F-100 Super Sabre
+AN/APG-26 Westinghouse Electric (1886) fire control radar for Douglas F3D Skyknight
+AN/APG-27  Gun aiming radar for tail guns of Convair XB-46 and Martin XB-48
+AN/APG-28  Interception radar for North American F-82 Twin Mustang
+AN/APG-30 Sperry Corporation X band fire control radar for North American B-45 Tornado, Boeing B-47, North American F-86E/F Sabre, North American F-100 Super Sabre, Republic F-84E Thunderjet, Vought F-8A Crusader, McDonnell-Douglas F-4E Phantom II & others
+AN/APG-31 Raytheon gun aiming radar for Martin B-57 Canberra
+AN/APG-32 General Electric X band tail gun aiming radar for Convair B-36D/F and Boeing B-47E Stratojet
+AN/APG-33 Hughes Aircraft X band fire control radar for Northrop F-89A Scorpion Lockheed F-94A/B Starfire and Avro Canada CF-100 Canuck
+AN/APG-34  gun aiming radar for Lockheed F-104C Starfighter
+AN/APG-35  fire control radar for Douglas F3D Skyknight
+AN/APG-36  fire control radar for McDonnell F2H-2N Banshee and North American F-86D Sabre
+AN/APG-37 Hughes Aircraft fire control radar for McDonnell F2H-4 Banshee and North American F-86D/K/L Sabre
+AN/APG-39  gun aiming radar for Boeing B-47E Stratojet
+AN/APG-40 Hughes Aircraft fire control radar for Northrop F-89D Scorpion, Lockheed F-94C Starfire and Avro Canada CF-100
+AN/APG-41 General Electric tail gun aiming radar for Convair B-36H
+AN/APG-43 Raytheon continuous wave interception radar
+AN/APG-45 General Electric miniaturized AN/APG-30 for maritime patrol aircraft
+AN/APG-46  original fire control radar of Grumman A-6A Intruder.
+AN/APG-50 F-4 Phantom II fire control radar
+AN/APG-51 Hughes Aircraft interception radar for McDonnell F3H-2 Demon & Douglas F3D Skyknight
+AN/APG-53 Stewart-Warner fire control radar for Douglas A-4 Skyhawk
+AN/APG-55 Westinghouse Electric (1886) pulse Doppler interception radar
+AN/APG-56  improved AN/APG-30 for North American F-86 Sabre
+AN/APG-57 Gould Electronics fire control radar
+AN/APG-59 Westinghouse Electric (1886) pulse-Doppler radar for F-4J  part of AN/AWG-10
+AN/APG-60  Doppler radar that is part of AN/AWG-11 for F-4K
+AN/APG-61  fire control radar for F-4M  part of AN/AWG-12
+AN/APG-63  for F-15 Eagle
+AN/APG-64  development of AN/APG-63  never went into production
+AN/APG-65  for F/A-18 Hornet
+AN/APG-66  for F-16 Fighting Falcon
+AN/APG-67 General Electric X band multimode pulse-Doppler radar for F-20 Tigershark, AIDC F-CK-1 Ching-kuo and T-50 Golden Eagle
+AN/APG-68  for F-16 Fighting Falcon
+AN/APG-69  improved AN/APQ-159 fire control radar by Emerson Electric Company for Northrop F-5 upgrade
+AN/APG-70  for F-15 Eagle
+AN/APG-71  for F-14D Tomcat
+AN/APG-73  for F/A-18 Hornet
+AN/APG-74  Norden Systems pod-mounted airborne radar
+AN/APG-76  Norden Systems multimode Ku band pulse-Doppler radar for F-4 Phantom II upgrade
+AN/APG-77  Texas Instruments/Westinghouse (now Northrop Grumman) AESA radar for F-22 Raptor
+AN/APG-78  millimetre wave Long Bow fire control radar for AH-64D Apache Longbow
+AN/APG-79  for F/A-18E/F Super Hornet
+AN/APG-80  for F-16E/F Block 60 Desert Falcon
+AN/APG-81  Northrop Grumman AESA radar for F-35 Lightning II
+AN/APG-82 for F-15E Strike Eagle upgrades, originally proposed as AN/APG-63(V)4
+AN/APG-83 SABR Northrop Grumman AESA radar for F-16V Block 70/72 Viper standard new production and upgrades
+AN/APG-84 RACR Raytheon AESA radar for F-16 Fighting Falcon upgrades
+AN/APG-85 upgraded Northrop Grumman AESA radar for F-35 Lightning II
+
+
+===== AN/APN Series =====
+AN/APN-12  rendezvous radar for B-47 and C-97
+AN/APN-24  navigational radar set
+AN/APN-34  ranging radar used in C-97C R6D-1
+AN/APN-50  navigational radar by Sperry Corporation
+AN/APN-52  navigational radar set
+AN/APN-56  navigational radar by Gould Electronics
+AN/APN-58  improved AN/APN-50 navigational radar by Sperry Corporation
+AN/APN-59  improved AN/APN-58 navigational radar by Sperry Corporation for the C-130 C-135 B-57 C-133 C-141 KC-97
+AN/APN-66  Doppler navigational radar on SM-62 missile and B-47
+AN/APN-67 Doppler navigational radar set for P6M-1 NC-121 "Project Magnet" and USN helicopters
+AN/APN-75 rendezvous radar for B-47
+AN/APN-76 rendezvous radar; manufactured by Olympic; used in KC-97 B-47B/E
+AN/APN-77 Doppler radar set in SZ-1B, USN helicopters
+AN/APN-78 Doppler radar set for helicopters
+AN/APN-79 Doppler radar set by Teledyne for helicopters
+AN/APN-81 Doppler radar set for RB/WB-66 WB-50 C-130 and KC-135
+AN/APN-82 improved AN/APN-81 (with integration of AN/ASN-6); for EB/RB/WB-66 and KC-135
+AN/APN-85 navigation radar by Hazeltine Corporation
+AN/APN-89 Doppler radar set for B-52E/G/H  part of AN/ASQ-38
+AN/APN-90 Doppler radar set
+AN/APN-92 navigational radar
+AN/APN-96 Doppler radar set
+AN/APN-97 improved AN/APN-79 Doppler radar set by Teledyne for UH-2A SH-3 SH-34J
+AN/APN-99 improved AN/APN-82 Doppler navigational radar set (with AN/ASN-6 replaced by AN/ASN-7) for B-52 AC-130A and KC-135
+AN/APN-101 airborne radar for RF-4C/F-4E
+AN/APN-102 Doppler radar set by Gould Electronics for RB-47/WB-47E RB-57F/WB-57F F-100C/F RF-101
+AN/APN-105 all-weather Doppler navigational radar system by LFE for F-105B/D and T-39B
+AN/APN-107 navigational radar for RB-57D
+AN/APN-108 improved AN/APN-89 Doppler radar set (with gyro components from AN/APN-81 for B-52E)
+AN/APN-110 Doppler navigational radar set for B-58 F-100D/F RF-101
+AN/APN-113 Doppler radar for B-58  part of AN/ASQ-42
+AN/APN-115 Navigational radar by General Electric
+AN/APN-116 Doppler radar set
+AN/APN-118 Doppler navigational radar set
+AN/APN-119 Doppler navigational radar set
+AN/APN-122 Doppler navigation radar set for S-2 A-2 A-3 A-4 RA-5C A-6 C-47 C-54 EC-121 E-2  TF-8, P-2 P-3 P5M
+AN/APN-126 Doppler radar set
+AN/APN-127 collision warning radar
+AN/APN-128 development of AN/APN-97 navigational radar by Teledyne for C-130
+AN/APN-129 improved AN/APN-128 Doppler navigational radar system by Teledyne for OV-1A/B
+AN/APN-130 improved AN/APN-129 Doppler radar by Teledyne for UH-2A SH-3 SH-34J and CH-53D
+AN/APN-131 Doppler navigational radar for F-105 T-39B  TF-8A
+AN/APN-141 Low altitude radar altimeter manufactured by Bendix; used in A-4/TA-4, A-6, A-7, C-2, C-130, C-141, E-2C, F-4, F-8, F-104, F-105, P-3, S-2, T-39, SH-3
+AN/APN-142 Navigational radar for F-4C
+AN/APN-144 Doppler navigational radar for EC-121 and VC-137
+AN/APN-147 Doppler navigational radar system Canadian Marconi Company for AC-119 C-124C C-130, WC-130B/E RC-135A WC-135B/C-135F and C-141
+AN/APN-148 Doppler navigational radar for F-105D/F
+AN/APN-149 terrain avoidance radar developed by Texas Instruments for TF-8
+AN/APN-153 Doppler navigational radar for A-6 A-4 EA-6 A-7 C-130G E-2 P-3A S-2E
+AN/APN-158 Weather radar Rockwell Collins for HC-123B  U-8F, U-21A and CV-2
+AN/APN-161 improved AN/APN-59 navigational radar with high-resolution mapping capability incorporated by Sperry Corporation for C-130
+AN/APN-162 navigational radar manufactured by Marconi Electronic Systems
+AN/APN-163 Doppler navigational radar system
+AN/APN-165 Terrain-following/ground-mapping radar by Texas Instruments for OV-1 Mohawk
+AN/APN-168 Doppler radar by Marconi Electronic Systems used with AN/AYA-3; used in CH-53A and OV-1 Mohawk
+AN/APN-169 station-keeping radar by Sierra, for the C-130 and C-141
+AN/APN-170 terrain following radar by General Dynamics for A-4C B-52 and B-58
+AN/APN-172 improved AN/APN-168 Doppler radar set by Marconi Electronic Systems; used with AN/ASN-73 for HH-53C, CH-53G
+AN/APN-174 station-keeping subsystem radar set by Teledyne for CH-46 and CH-53
+AN/APN-175 Doppler radar set by Canadian Marconi Company for C-130 CH-3B, HH-3E and MH-53
+AN/APN-178 navigational radar by Sierra for C-130
+AN/APN-179 Doppler navigational radar by Bendix Corporation for EC-47
+AN/APN-182 Doppler navigational radar system by Teledyne used with AN/AYK-2 for SH-3H CH-46, HH-46A/D SH-2D, UH-2C  and RH-53
+AN/APN-185 Doppler navigational radar by Singer Corporation for FB-111A A-7D and B-1A
+AN/APN-186 Doppler radar system for A-6  part of ILAAS (AN/ASQ-116)
+AN/APN-187 improved AN/APN-185 Doppler navigational radar by Singer Corporation for P-3 Orion
+AN/APN-189 development of AN/APN-172 Doppler navigation radar by Canadian Marconi Company for F-111D
+AN/APN-190 improved AN/APN-185 Doppler radar by Singer Corporation for A-7 AC-130E F-111
+AN/APN-195 nose-mounted radar by Rockwell Collins for SH-3D, HH-3E
+AN/APN-196 Doppler radar for F-105
+AN/APN-202 airborne carrier landing radar system for C-2 Greyhound S-3 Viking F/A-18 AV-8  and used in conjunction with AN/SPN-46 on board aircraft carrier
+AN/APN-205 improved AN/APN-182 Doppler radar by Teledyne for SH-2 SH-60B
+AN/APN-206 Doppler radar set for B-1A
+AN/APN-208 development of AN/AON-189 Doppler navigational radar by Canadian Marconi Company for HH-53H  and Bell 412
+AN/APN-210 development of AN/APN-190 Doppler radar set by Singer Corporation for CH-53G
+AN/APN-211 improved AN/APN-205 navigational radar by Teledyne for helicopters
+AN/APN-215 improved AN/APN-179 weather and navigational radar by Bendix Corporation used in RU-38A, U-21 and C-130
+AN/APN-217 improved AN/APN-211 Doppler navigational radar system by Teledyne for AH-1W, UH-1N, SH-2G, SH-3D, HH-3F CH-46 CH-53E, MH-53E, RH-53D HH-60H/J SH-60B/F/J V-22
+AN/APN-218 development of AN/APN-218 Doppler radar navigation system by Teledyne for B-1B B-52G/H KC-135 C-130 and F-111G 
+AN/APN-220 development of AN/APN-218 Doppler radar by Teledyne
+AN/APN-221 development of AN/APN-208 Doppler radar by Canadian Marconi Company for C-141 and HH-53H, MH-53J
+AN/APN-227 Doppler radar sensor by Canadian Marconi Company for P-3C
+AN/APN-230  improved AN/APN-220 Doppler navigational radar by Teledyne for B-1B
+AN/APN-231  derivative AN/APN-230 Doppler navigation radar system by Teledyne for EA-6A
+AN/APN-233 improved AN/APN-230 Doppler navigational radar by Teledyne for C-2 Greyhound OV-10D CH-47 S-2 Alpha Jet and DHC-5
+AN/APN-234 improved AN/APN-215 weather and navigational radar (Model RDR-1400C) by Bendix Corporation for P-3 Orion and C-2 Greyhound
+AN/APN-235 improved AN/APN-221 Doppler navigational radar set by Marconi Electronic Systems for HH-60A
+AN/APN-236 development of AN/APN-233 Doppler radar system by Teledyne
+AN/APN-237 Ku band terrain-following radar by Texas Instruments  part of AN/AAQ-13
+AN/APN-239 improvement of AN/APN-234 weather and navigational radar (Model RDR-1400C) Bendix Corporation for HH-60G, MH-60G
+AN/APN-240 improved AN/APN-169 station keeping radar system by Sierra Research
+AN/APN-241 weather and navigational radar by Westinghouse Electric (1886) for C-130H/J C-27J  and HS-748 (Australia)
+AN/APN-242 improved AN/APN-59 weather and navigational radar by Sperry Corporation
+AN/APN-243 improved AN/APN-243 station-keeping radar by Sierra Technologies; for C-17 and C-130J
+AN/APN-244 E-TCAS (Enhanced Traffic Alert Collision Avoidance System) by Bendix Corporation radar for C-130E/H/J
+AN/APN-245 improved AN/APN-202 ACLS (Automatic Carrier Landing System) radar for F/A-18  used in conjunction with AN/SPN-46 on board aircraft carrier
+
+
+===== AN/APQ Series =====
+AN/APQ-5  low altitude bombing radar by Western Electric for B-24 Liberator B-25 Mitchell PBJ PBM Mariner and B-32 Dominator
+AN/APQ-7 X band bombing radar by Western Electric for B-17 Flying Fortress B-24 Liberator B-25J B-29 Superfortress and B-32 Dominator  nicknamed Eagle Mk 1
+AN/APQ-10 X band high altitude bombing radar by Western Electric for B-29 Superfortress  nicknamed Eagle Mk 2
+AN/APQ-11  torpedo aiming radar, previously known as SCR-626
+AN/APQ-12  bombing and torpedo aiming radar, previously known as SCR-631
+AN/APQ-13 X band bombing radar by Western Electric for B-29 Superfortress and B-32 Dominator  nicknamed Mickey
+AN/APQ-14  airborne radar nicknamed as Moth-1
+AN/APQ-16  airborne bombing radar
+AN/APQ-19 S band search and navigational radar
+AN/APQ-23 X band high altitude bombing radar for B-29 Superfortress
+AN/APQ-24  bombing and navigational radar for B-36B B-45A B-50 Superfortress  and B-66B  designated as K-1 System
+AN/APQ-31  bombing and navigational radar
+AN/APQ-34 K band bombing radar by Western Electric
+AN/APQ-35 X band search and attack radar by Westinghouse Electric (1886) for F3D Skyknight F3H Demon and F2H Banshee
+AN/APQ-36  improved AN/APQ-35 radar by Westinghouse Electric (1886) for F3D-2M and F7U Cutlass
+AN/APQ-39  Weather and navigational radar on board B-52 Stratofortress
+AN/APQ-41  improved AN/APQ-36 by Westinghouse Electric (1886) for F3D-2 and F2H-3
+AN/APQ-43  airborne radar exported to UK with British designation AI-22 for Javelin FAW.2 to FAW.6
+AN/APQ-46  cancelled airborne radar for the proposed F3D-3
+AN/APQ-50  improved AN/APQ-41 radar by Westinghouse Electric (1886) for F-4 Phantom II F3H Demon and F4D Skyray
+AN/APQ-51 X band missile control radar by Sperry Corporation for F3H Demon and F7U Cutlass
+AN/APQ-54  airborne projectile velocity measuring radar
+AN/APQ-55 K band side looking radar for RF-4C
+AN/APQ-56  side looking aperture radar by Westinghouse Electric (1886) for RB-57 and RB-47
+AN/APQ-57  millimetre wave navigational radar
+AN/APQ-58  millimetre wave navigational radar
+AN/APQ-59  improved AN/APQ-56 side looking radar by Westinghouse Electric (1886)
+AN/APQ-60  missile illumination radar by Raytheon for semi-active radar homing missiles
+AN/APQ-62  side looking radar
+AN/APQ-64 Sparrow II missile control radar for F5D Skylancer
+AN/APQ-65  interception radar exported to France for French built de Havilland Vampire
+AN/APQ-67  interception radar by Raytheon
+AN/APQ-69  podded version of side-looking aperture radar by Hughes Aircraft for B-58 Hustler
+AN/APQ-70  millimetre wave navigational radar
+AN/APQ-72  improved AN/APQ-50 by Westinghouse Electric (1886) for F-4 Phantom II
+AN/APQ-73  side-looking radar for RS-70
+AN/APQ-74 X band missile control radar
+AN/APQ-81  Doppler navigational radar by Northrop Corporation for F6D Missileer and A-3 Skywarrior
+AN/APQ-83  airborne radar by Magnavox for F-8D
+AN/APQ-84  improved AN/APQ-83 radar by Magnavox for F-8 Crusader
+AN/APQ-86 K band side-looking radar by Texas Instruments for RU-8D
+AN/APQ-88  airborne radar by Naval Avionics for YA-6A
+AN/APQ-89 terrain-following radar tested on T-2 Buckeye by Texas Instruments
+AN/APQ-92 Ku band search and attack radar by Norden for A-6A
+AN/APQ-93  synthetic aperture mapping radar
+AN/APQ-94  improved AN/APQ-84 fire control radar by Magnavox for F-8D/E
+AN/APQ-95  collision avoidance radar for helicopters
+AN/APQ-96  airborne radar for OV-10A
+AN/APQ-97 K band side-looking radar by Westinghouse Electric (1886) for OV-1A
+AN/APQ-99 J band multi-mode radar by Texas Instruments for A-7A RF-4B/C and RF-101
+AN/APQ-100  improved AN/APQ-72 radar by Westinghouse Electric (1886) for F-4C
+AN/APQ-101 terrain-following radar by Texas Instruments
+AN/APQ-102  side-looking mapping radar by Goodyear Tire and Rubber Company for RB-57 and RF-4C
+AN/APQ-103  improved AN/APQ-92 radar by Norden for A-6B
+AN/APQ-104  derivative of AN/APQ-94 radar by Magnavox for F-8E(FN)
+AN/APQ-108  reconnaissance radar by Conductron Corporation for SR-71 Blackbird
+AN/APQ-109  fire control radar by Westinghouse Electric for F-4D
+AN/APQ-110 Ku band terrain-following radar by Texas Instruments for General Dynamics F-111 and RF4-C
+AN/APQ-112  improved AN/APQ-103 radar by Norden A-6C
+AN/APQ-113 Ku band search and attack radar by General Electric for General Dynamics F-111
+AN/APQ-114  improved AN/APQ-113 Ku band search and attack radar by General Electric for General Dynamics F-111 and F-4 Phantom II
+AN/APQ-115  improved AN/APQ-110 terrain-following radar by Texas Instruments for A-7A General Dynamics F-111 RF-4C and C-130E
+AN/APQ-116  improved AN/APQ-115 terrain-following radar by Texas Instruments for A-7A/B/C and C-130 Hercules
+AN/APQ-117  improved AN/APQ-109 by Westinghouse Electric (1886) for F-4D/E
+AN/APQ-118 terrain-following radar by Norden for HH-53 and AH-56 Cheyenne
+AN/APQ-119  improved AN/APQ-114 by General Electric for F-111A/D
+AN/APQ-120  solid state fire control radar by Westinghouse Electric (1886) for F-4E/F/G
+AN/APQ-122 X band multi-mode radar by Texas Instruments for C-130 Hercules Boeing RC-135 Boeing T-43  and Boeing E-4
+AN/APQ-123  airborne radar for F-111D
+AN/APQ-124  improved AN/APQ-94 fire control and ranging radar by Magnavox for F-8J
+AN/APQ-125  improved AN/APQ-124 Doppler ranging and fire control radar by Magnavox for F-8K
+AN/APQ-126  improved AN/APQ-116 J band terrain-following radar by Texas Instruments for A-7D/E AC-130 and CH-53 Sea Stallion
+AN/APQ-127  airborne radar by Sperry Corporation for A-6 Intruder
+AN/APQ-128 J band terrain-following radar by Sperry Corporation for F-111C/D and A-7D/E
+AN/APQ-129  derivative of AN/APQ-112 radar for EA-6A
+AN/APQ-130  attack radar by Rockwell International for F-111D
+AN/APQ-131  targeting radar by Texas Instruments for OP-2E
+AN/APQ-133  side-looking radar by Motorola for AC-119K and AC/C-130
+AN/APQ-134 Ku band terrain-following radar by Texas Instruments for F-111A/FB-111A
+AN/APQ-135  sink-rate radar on board A-4 Skyhawk F-4 Phantom II F-8 Crusader  and C-130 Hercules
+AN/APQ-136  attack radar by Texas Instruments for AC-119K and AC-130A
+AN/APQ-139 Ku band multi-mode radar by Texas Instruments for B-57G
+AN/APQ-140 J band multi-mode radar by Raytheon Intelligence and Information Systems for Boeing RC-135
+AN/APQ-141 terrain-following radar by Texas Instruments for HH-53 and AH-56 Cheyenne
+AN/APQ-142  Quick Look 1 airborne surveillance radar for RV-1C
+AN/APQ-144  improved AN/APQ-119 by Texas Instruments for F-111F/FB-111A
+AN/APQ-145 Stewart-Warner ranging and mapping radar for A-4E/F/N/S/SU
+AN/APQ-146  improved AN/APQ-134 Ku band terrain-following radar by Texas Instruments for F-111C/F
+AN/APQ-147 terrain-following radar by Texas Instruments for initial batch of MH-60K
+AN/APQ-148  improved AN/APQ-112 J band attack and navigational radar by Norden for A-6E
+AN/APQ-149  fire control and navigational radar for F-8 Crusader
+AN/APQ-150  beacon tracking radar for AC-130E/H
+AN/APQ-152  mapping radar by Goodyear Tire and Rubber Company for RC-130
+AN/APQ-153 Emerson Electric Company fire control radar for Northrop F-5
+AN/APQ-154  improved AN/APQ-141 terrain-following radar by Texas Instruments for HH-53
+AN/APQ-155  attack radar by Norden for B-52H
+AN/APQ-156  improved AN/APQ-148 J band attack radar by Norden for A-6E
+AN/APQ-157  AN/APQ-153 radar with dual line-replaceable units (with the exception of the radar antenna) for the twin seater versions of Northrop F-5
+AN/APQ-158  for the MH-53 Pave Low helicopter
+AN/APQ-159  improved AN/APQ-153 fire control radar by Emerson Electric Company for Northrop F-5
+AN/APQ-160  attack radar for EF-111A Raven
+AN/APQ-161 General Electric attack radar for F-111F
+AN/APQ-162  improved AN/APQ-99 terrain-following radar for RF-4C
+AN/APQ-163  attack radar by General Electric for B-1A
+AN/APQ-164 I band pulse-Doppler multimode radar by Westinghouse Electric (1986) for the B-1 Lancer bomber
+AN/APQ-165  attack radar by Texas Instruments for F-111C
+AN/APQ-166  attack radar for B-52G/H
+AN/APQ-167  improved AN/APG-157 by Emerson Electric Company to upgrade Northrop F-5 twin seater versions, but instead used on Cessna T-47A Citation for radar operator training
+AN/APQ-168  multi-mode radar by Texas Instruments for HH-60D & MH-60K
+AN/APQ-169  improved AN/APG-165 J band attack radar by General Electric for F-111C
+AN/APQ-170 terrain-following radar by Emerson Electric Company for MC-130H
+AN/APQ-171  improved AN/APG-146 terrain-following radar by Texas Instruments for F-111C/F
+AN/APQ-172  improved AN/APQ-162 terrain-following radar for RF-4C
+AN/APQ-173  derivative of AN/APQ-148 radar for the proposed A-6F/G
+AN/APQ-174  for the MH-60K and MH-47E helicopters
+AN/APQ-175 X band / Ku band multimode radar by Emerson Electric Company for C-130E
+AN/APQ-180  derivative of AN/APG-70 radar for the AC-130U gunship
+AN/APQ-181 J band synthetic aperture radar for the B-2 Spirit bomber
+AN/APQ-183  multi-mode radar for RQ-3A.
+AN/APQ-186, improved AN/APQ-174 by Raytheon for CV-22
+AN/APQ-187 Silent Knight Ka-band terrain following/terrain avoidance radar for the MH-60M, MH-47G, CV-22, and MC-130J, replacing the AN/APQ-170, AN/APQ-174 and AN/APQ-186
+
+
+===== AN/APS Series =====
+AN/APS-1 X band radar tail warning radar
+AN/APS-2 S band search radar used with AN/APQ-5 for North American PBJ-1 PBM-5S Consolidated PB4Y-2 Privateer
+AN/APS-3 X band search and bombing radar for PBJ-1 Consolidated PBY-6A Catalina Grumman TBM-1D/3E Lockheed PV-1 Ventura Lockheed PV-2 Harpoon and North American P-82F Twin Mustang
+AN/APS-4 X band intercept radar by Western Electric for Douglas C-47 Skytrain Douglas C-117 North American P-82D/F/H Twin Mustang Vought F4U-4E Corsair Grumman F6F-3E/5E Hellcat Curtiss SB2C-5 Helldiver and Grumman TBF-3 and TBM-3S Avenger
+AN/APS-5 improved AN/APS-4 intercept radar by Western Electric Vought F4U-4N Corsair
+AN/APS-6 intercept radar by Sperry Corporation for McDonnell F2H-2N Banshee North American F-82D Twin Mustang Grumman F6F-3N/5N Hellcat Grumman F7F-4N Tigercat Grumman F8F-1N/2N Bearcat and Vought F4U-4N/5N Corsair
+AN/APS-7 tail warning radar by Westinghouse Electric (1886)
+AN/APS-8 maritime search radar in wingtip pod for Lockheed P-2E Neptune
+AN/APS-9 search radar for Ryan FR-1N Fireball
+AN/APS-10 X band search radar
+AN/APS-11 tail warning radar
+AN/APS-12 fire control radar
+AN/APS-13 tail warning radar for Northrop P-61 Black Widow North American P-82D Twin Mustang and North American PBJ-1
+AN/APS-14 gun aiming radar for Boeing B-17 Flying Fortress and Consolidated B-24 Liberator
+AN/APS-15 H2X 10 GHz/X band bombing and navigational radar nicknamed as Mickey (equivalent to 3 GHz frequency British H2S) by Philco for Boeing B-29 Superfortress Martin PBM-3C/5/5E/5S Mariner Boeing B-17 Flying Fortress Consolidated B-24 Liberator Consolidated PB4Y-2 Privateer and Lockheed PV-1 Ventura, unlike the British H2S radar; H2X could not be detected by Germany's FuG 350 Naxos night fighter receiver
+AN/APS-16 L band tail warning radar
+AN/APS-17 S band tail warning radar
+AN/APS-18 early warning radar
+AN/APS-19 X band search and intercept radar by Sperry Corporation for McDonnell F2H-2N Banshee Vought F4U-5N Corsair Grumman F7F-4N Tigercat and Grumman F8F-1N Bearcat
+AN/APS-20 S band search and early warning radar by Hazeltine Corporation and General Electric for Grumman TBM-3W Avenger, Boeing PB-1W, Lockheed EC-121, ZPG-2W(EZ-1), Grumman AF-2W Guardian, HR2S-1W, Lockheed P-2 Neptune, Boeing WB-29 Superfortress, Lockheed RC-121C, Fairey Gannet AEW.3, Canadair CP-107 Argus, Lockheed WP-3A Orion, and Avro Shackleton
+AN/APS-21 search radar by Westinghouse Electric (1886) for part of AN/APQ-35 for Douglas F3D Skynight and Gloster Meteor NF
+AN/APS-23 search radar by Western Electric for Convair B-36 North American B-45C Tornado Boeing B-47E Stratojet B-50 Superfortress B-52 Stratofortress Lockheed C-130 Hercules and Boeing C-135 Stratolifter  part of AN/ASB-3
+AN/APS-24 radar set used with System 416L
+AN/APS-25 search radar for Grumman XF10F Jaguar
+AN/APS-27 search radar for Boeing B-52 Stratofortress Douglas RB-66 Destroyer Lockheed C-130 Hercules and Boeing C-135 Stratolifter
+AN/APS-28 tail warning radar for Douglas F3D Skyknight
+AN/APS-29 search radar
+AN/APS-30 search radar for Grumman AF-2SGuardian
+AN/APS-31 search radar Westinghouse Electric (1886) for Martin P5M Marlin Martin PBM-3 Mariner Douglas A-1 Skyraider Lockheed P-2 Neptune  and Grumman AF-2S Guardian
+AN/APS-32 search radar for Guardian TBM-3 Avenger
+AN/APS-33 X band search radar for Grumman S-2F Tracker Martin P4M Mercator Lockheed P2V-6Neptune  ZPG-1W and ZPK
+AN/APS-34 improved AN/APS-33
+AN/APS-35 search radar with IFF integrated, by Philco
+AN/APS-37 search radar
+AN/APS-38 search radar for Grumman S-2 Tracker
+AN/APS-42 weather radar by Bendix Corporation for Douglas C-54 Skymaster Boeing C-97 Stratofreighter Douglas C-118 Fairchild C-119 Flying Boxcar Lockheed C-121 Constellation Douglas C-124 Globemaster II Lockheed C-130 Hercules and Convair C-131 Samaritan
+AN/APS-44 search radar for Consolidated PB4Y-2 Privateer and Martin P5M Marlin
+AN/APS-45 height-finding radar by Texas Instruments for Lockheed EC-121 Warning Star
+AN/APS-46 interception radar for McDonnell F2H-2N Banshee
+AN/APS-48 experimental unattended (automatic) airborne radar
+AN/APS-49 rapid scan search radar by Hazeltine Corporation for ASW
+AN/APS-50 search radar; planned for Grumman F11F-1 Tiger
+AN/APS-54  tail warning radar by ITT Corporation for B-47 B-52 B-57 EB-66B
+AN/APS-57 X band interception radar by Western Electric for Venom NF.3 with British designation as AI-21
+AN/APS-59  search radar for Canadian CP-109
+AN/APS-60  high altitude mapping radar for RB-57
+AN/APS-61  airborne monopulse radar
+AN/APS-62  height finding radar for ZPG-2/3W
+AN/APS-63  airborne radar for B-66 and T-29
+AN/APS-64  search radar for RB-47 B-52 RB-66B/C
+AN/APS-67  search radar by Magnavox for F-8B
+AN/APS-69  height finding radar for P-2V-6
+AN/APS-70  early warning radar by General Electric for EC-121 Warning Star and P-2V-6
+AN/APS-73  podded version of the X band synthetic aperture radar by Goodyear Tire and Rubber Company for B-58 Hustler
+AN/APS-75  SABRE X band high resolution radar side-looking radar by General Electric for XB-70 Valkyrie
+AN/APS-76  search radar by Hazeltine Corporation for EC-121 Warning Star
+AN/APS-80  maritime surveillance radar by Texas Instruments for P5M Marlin and P-3A/B
+AN/APS-81  search radar for B-52 Stratofortress
+AN/APS-82  improved AN/APS-76 search radar with moving target indication by Hazeltine Corporation for EC-121 Warning Star and E-1 Tracer.
+AN/APS-84 QB-47 tracking radar
+AN/APS-85  side-looking radar by Motorola for RU-8D
+AN/APS-87  improved AN/APS-82 early warning radar
+AN/APS-88  maritime surveillance radar by Texas Instruments for P-2 Neptune and HU-16 Albatross
+AN/APS-91  early warning radar for E-2 Hawkeye
+AN/APS-94  improved AN/APS-85 side-looking radar by Motorola for P-2 Neptune P-3 Orion  and B-26 Marauder
+AN/APS-95  improved AN/APS-82 search radar by Hazeltine Corporation for EC-121 Warning Star
+AN/APS-96  improved AN/APS-91 by General Electric for E-2 Hawkeye
+AN/APS-103  height finding radar for EC-121 Warning Star
+AN/APS-104  bombing and navigational radar for B-52C/D
+AN/APS-107 AGM-78 Standard ARM missile control radar by Bendix Corporation for Wild Weasel
+AN/APS-108  airborne radar for B-52D
+AN/APS-111  improved AN/APS-96 ultra high frequency surveillance radar by General Electric for E-2 Hawkeye
+AN/APS-112  improved AN/APS-59 AWACS radar
+AN/APS-113  weather radar by Bendix Corporation for UH-1 and EC-47
+AN/APS-115  maritime surveillance radar with two radar antennas by Texas Instruments for P-3 Orion
+AN/APS-116  derivative of AN/APS-115 maritime surveillance radar with only one radar antenna by Texas Instruments for S-3A
+AN/APS-117 AGM-45 Shrike missile control radar for Wild Weasel
+AN/APS-118 AGM-78 Standard ARM missile control radar by IBM for Wild Weasel to replace AN/APS-107
+AN/APS-119  Weather radar for HC-130B
+AN/APS-120  improved AN/APS-111 ultra high frequency surveillance radar by General Electric for E-2 Hawkeye
+AN/APS-122  maritime surveillance radar for SH-2E
+AN/APS-123  maritime surveillance radar for S-2D
+AN/APS-124  maritime surveillance radar by Texas Instruments for SH-60 Seahawk
+AN/APS-125  improved AN/APS-120 pulse-Doppler ultra high frequency surveillance radar by General Electric for E-2 Hawkeye
+AN/APS-126  surface search radar for the patrol version of P-3 Orion
+AN/APS-127  derivative of AN/APS-124 maritime surveillance radar by Texas Instruments for fix wing aircraft HU-25A/B
+AN/APS-128  Multi-Mode X-Band Maritime Surveillance Radar by Telephonics for various fixed and rotary-winged aircraft
+AN/APS-130  modified AN/APQ-156 for EA-6B Prowler
+AN/APS-131  improved AN/APS-94 side-looking radar by Motorola for HC-130 and HU-25
+AN/APS-133  color weather radar, for the EA-6A C-5 KC-10 C-17 EC-24A VC-25 C-130 C-141 E-3 E-4 E-6 E-8
+AN/APS-134  improved AN/APS-115 maritime surveillance radar Texas Instruments for P-3C
+AN/APS-135  improved AN/APS-131 side-looking radar by Motorola for HC-130
+AN/APS-136 I band MTI (Moving Targets Indication) radar for EH-60C
+AN/APS-137  improved AN/APS-116 maritime surveillance radar Texas Instruments for P-3 Orion, HC-130 and S-3B
+AN/APS-138  improved AN/APS-125 pulse-Doppler ultra high frequency surveillance radar by General Electric for E-2 Hawkeye
+AN/APS-139  improved AN/APS-138 pulse-Doppler ultra high frequency surveillance radar by General Electric for E-2 Hawkeye
+AN/APS-140  USA designation for AN/APS-504 maritime surveillance radar by Litton Canada
+AN/APS-141  USA designation for AN/APS-504(V)3 maritime surveillance radar by Litton Canada
+AN/APS-143  improved AN/APS-128 Multi-Mode X-Band Ocean Eye Maritime Surveillance Radar by Telephonics for S-70B Seahawk HU-25 HC-144A
+AN/APS-144 Ku band surveillance radar by AIL for RQ-5 Hunter and EO-5
+AN/APS-145  improved AN/APS-139 pulse-Doppler ultra high frequency surveillance radar by General Electric for E-2 Hawkeye
+AN/APS-146  Derivative of AN/APS-130 for the cancelled EA-6B Prowler upgrade
+AN/APS-147  improved AN/APS-143 Multi-Mode X-Band Maritime Surveillance Radar with Integrated IFF Interrogator by Telephonics for MH-60R Seahawk
+AN/APS-148  Sea Vue light weight maritime / land surveillance radar by Raytheon
+AN/APS-149  Littoral Surveillance Radar System (LSRS) developed by Raytheon for P-3C to replace earlier AN/APS-135/137.
+AN/APS-150  Military designation for Honeywell RDR-4000M weather radar, used on C-17
+AN/APS-153  improved AN/APS-147 Multi-Mode Radar with Automatic Radar Periscope Detection and Discrimination (ARPDD) & Integrated Mode 5 IFF Interrogator by Telephonics for MH-60R Seahawk
+
+
+===== AN/APY Series =====
+AN/APY-1  for the E-3A, B AWACS surveillance aircraft, developed by Westinghouse
+AN/APY-2  for the E-3C (Maritime Receiver) AWACS surveillance aircraft, developed by Westinghouse
+AN/APY-3  for the E-8C aircraft, developed by Norden Systems division of Northrop Grumman
+AN/APY-6  multi-mode high resolution surveillance radar by Northrop Grumman for United States Naval Research Laboratory NP-3C
+AN/APY-7  solid state version of AN/APY-3 under development for E-8C
+AN/APY-8 synthetic aperture radar by Sandia National Laboratories for General Atomics MQ-9 Reaper  nicknamed as lynx
+AN/APY-9 ultra high frequency surveillance radar under development by Lockheed Martin for E-2D
+AN/APY-10  A much-modernized evolutionary development of the Raytheon APS-149 maritime surveillance radar by Raytheon for P-8 Poseidon
+AN/APY-11 US designation for Elta EL/M-2022 maritime, littoral and surveillance radar jointly produced by ITT Exelis to support the United States Coast Guard's Long Range Surveillance HC-130J aircraft.
+AN/APY-12  Phoenix Eye synthetic aperture radar surveillance radar developed by Lockheed Martin
+
+
+===== AN/AWG Series =====
+AN/AWG-3  for the F8U-2
+AN/AWG-4  for the F8U-2N
+AN/AWG-6  used in conjunction with AN/APG-30
+AN/AWG-7  for F8U-3
+AN/AWG-9  for the F-14 Tomcat
+AN/AWG-10  for F-4J
+AN/AWG-11  for F-4K
+AN/AWG-12  for F-4M
+AN/AWG-13  for AC-119, used in conjunction with AN/APN-147, AN/APQ-133 and AN/APQ-136 radars
+AN/AWG-14  for F-4 Phantom II upgrade
+AN/AWG-15  developed by Fairchild for F-14B
+AN/AWG-16  two way data link for AGM-62 Walleye
+AN/AWG-19 Harpoon Aircraft Command and Launch fire control set
+AN/AWG-20  for F-15 Eagle
+AN/AWG-21  fire control system for AGM-78
+AN/AWG-24  Development of AN/AWG-6 for T-2
+AN/AWG-25  fire control system for AGM-78
+AN/AWG-27  for F-15 Eagle
+AN/AWG-30  fire control system for AC-130 used in conjunction AN/APQ-180
+AN/AWG-31  fire control system for A-10
+AN/AWG-32  fire control system for Maverick Plus System S-3
+
+
+===== Other =====
+SCR-584 radar
+ASARS-2  for the U-2R reconnaissance aircraft
+Multi-Platform Radar Technology Insertion Program  or MP-RTIP, under development for the E-10 MC2A and RQ-4 Global Hawk
+ALTAIR  (ARPA Long-range Tracking And Instrumentation Radar)
+Multi-role Electronically Scanned Array (E-7 Wedgetail main air search and track radar, co-developed with Australian companies)
+
+
+=== Commercial/scientific ===
+Arecibo Observatory
+Millstone Hill
+HAARP
+WSR-57 weather radar
+WSR-74 weather radars
+WSR-88D NEXRAD weather radar
+
+
+== See also ==
+Signal Corps Radio  (SCR) radars
+Joint Electronics Type Designation System
+List of military electronics of the United States
+List of World War II electronic warfare equipment
+List of World War II British naval radar
+Electronics Technician
+
+
+== Notes ==
+
+
+== References ==
+Polmar, Norman (December 1978). "The U.S.Navy: Shipboard Radars". United States Naval Institute Proceedings. {{cite journal}}: Cite journal requires |journal= (help)
+Polmar, Norman (July 1981). "The U.S.Navy: Sonars, Part 1". United States Naval Institute Proceedings. {{cite journal}}: Cite journal requires |journal= (help)
+Routledge, Brig N. W.,  History of the Royal Regiment of Artillery: Anti-Aircraft Artillery 1914–55, London: Royal Artillery Institution/Brassey's, 1994, ISBN 1-85753-099-3
+Sayer, Brig A. P.,  Army Radar, London: War Office, 1950.
+
+
+== External links ==
+"Operational Characteristics of Radar, Classified by Tactical Application", Naval Historical Center, 1 August 1943, Retrieved 26 March 2010

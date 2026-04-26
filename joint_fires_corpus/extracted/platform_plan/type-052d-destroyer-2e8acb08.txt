@@ -1,0 +1,57 @@
+The Type 052D destroyer (NATO/OSD reporting name: Luyang III-class destroyer) is a class of guided-missile destroyers in the Chinese People's Liberation Army Navy (PLAN), and currently one of the most numerous principal surface combatant classes in service of the PLAN Surface Force.
+The Type 052D is a larger variant of the Type 052C, and has flat-paneled active electronically scanned array (AESA) radar, The Type 052D uses a canister-type (instead of 052C's revolver-type) vertical launching system (VLS), which is not limited to surface-to-air missiles, making it China's first dedicated multi-role destroyer.
+
+
+== Etymology ==
+The Type 052Ds are fitted with the four-panel Type 346A (NATO reporting name: Dragon Eye) active electronically scanned array (AESA) radar system. Chinese media informally calls the Type 052D the Chinese Aegis (Chinese: 中华神盾; pinyin: Zhōnghuá Shéndùn), portraying it as a peer of contemporary United States Navy ships equipped with the Aegis Combat System. The appearance of the Type 052D, with flat-panelled radar and canister-based vertical launch system, has encouraged this informal use.
+
+
+== Design ==
+
+
+=== Sensors ===
+The Type 052D is equipped with Type 346A AESA and Type 518 L-band radar.
+The Type 052D is also equipped with both variable depth (VDS) and linear towed array sonar. The VDS is deployed through a hinged opening in the transom by a hydraulic lifting mechanism. The VDS body is a streamlined fairing fitted with Y-shaped hydrodynamic vanes for towing stability.
+
+
+=== Armament ===
+The Type 052D is the first Chinese surface combatant to use canister-based universal VLS, as opposed to the concentric type VLS carried aboard earlier vessels. 64 cells are carried, 32 forward and 32 aft. The VLS is reportedly an implementation of the GJB 5860-2006 standard. The VLS may fire the extended-range variant of the HHQ-9 surface-to-air missile, YJ-18 anti-ship cruise missiles, CJ-10 land-attack cruise missiles, and CY-5 anti-submarine missiles.
+The Type 052D has a 130 mm (5.1 in) H/PJ-45 main gun, and a 7-barrelled Type 730 close-in weapon system (CIWS).
+
+
+=== Data links ===
+The Type 052D may be using the joint service integrated datalink system (JSIDLS) and naval common tactical data link (NCTDL). JSIDLS is equivalent to Link 16 and was certified in June 2012. NCTDL is a next-generation two-way encrypted data link with support for electro-optic and laser pod UAVs; it replaces the older HN-900.
+
+
+=== Propulsion ===
+The powerplant is a combined diesel or gas (CODOG) system with two QC-280 gas turbines and two diesel engines.
+The machinery drives two shafts for a maximum speed of 30 knots (56 km/h; 35 mph).
+
+
+=== Aviation ===
+The Type 052D is equipped with a hanger and landing pad and normally carries a Harbin Z-9 helicopter.
+A stretched variant, unofficially referred to as Type 052DL, has a flight deck extended by four metres (13 ft 1 in). The extended flight deck is likely intended for the Harbin Z-20 helicopter. The variant was under construction by 2016, with the first unit (Zibo) launched in 2018 and commissioned in 2020. Construction of further units to this design are continuing at the rate of three or four vessels per year.
+
+
+== Ships of class ==
+As of March 2026, the total quantity of the Type 052D class is 35 ships. 
+
+
+== Gallery ==
+
+
+== See also ==
+List of destroyer classes in service
+Equivalent destroyers of the same era
+
+Hobart class
+Visakhapatnam class
+Asahi class
+Type 45
+Choe Hyon class
+
+
+== References ==
+
+
+== Bibliography ==

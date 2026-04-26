@@ -1,0 +1,27 @@
+The Type 346 radar (NATO/OSD: Dragon Eye) is a naval C/S band active electronically scanned array (AESA) radar developed in the People's Republic of China by the Nanjing Research Institute of Electronics Technology. It has been an integral component of Chinese naval air defense systems since entering service in 2004 with the Type 052C destroyer, the first Chinese warships with area air defence capability.
+
+
+== Development ==
+The Type 346 was developed by the Nanjing Research Institute of Electronics Technology; it became part of China Electronics Technology Group Corporation Glarun Group which continues to manufacture the radar. Further development may have been assisted by the examination of foreign technology; the Type 051C destroyers used 30N6EI Tombstone phased-array Flap Lid antennae from Russia, and in 2004 a prototype C band active phased-array radar and its design package were purchased from the Kvant Design Bureau of Ukraine. It is manufactured by China Electronics Technology Group Corporation.
+
+
+== Variants ==
+Type 346
+Initial version. The arrays are covered by convex panels. It entered service with the Type 052C destroyer.
+Type 346A
+This version has a reported range of 400 km. and is covered by flat panels because of an improved liquid-cooling system. It entered service with the Type 052D destroyer.
+Type 346B
+This version uses panels that are 40% larger than the Type 346A for a reported 60% increase in range. It entered service with the Type 055 destroyer.
+
+
+== See also ==
+List of radars § China
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Sources ===

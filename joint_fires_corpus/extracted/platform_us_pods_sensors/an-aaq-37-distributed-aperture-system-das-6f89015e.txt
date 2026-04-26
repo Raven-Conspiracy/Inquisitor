@@ -1,0 +1,17 @@
+The AN/AAQ-37 Distributed Aperture System (DAS) is the first of a new generation of sensor systems being fielded on the Lockheed Martin F-35 Lightning II. DAS consists of six high-resolution infrared sensors mounted around the F-35's airframe in such a way as to provide unobstructed spherical (4π steradian) coverage and functions around the aircraft without any pilot input or aiming required.
+The DAS provides three basic categories of functions in every direction simultaneously:
+
+Missile detection and tracking (including launch point detection and countermeasure cueing)
+Aircraft detection and tracking (situational awareness, infrared search and track (IRST) and air-to-air missile cueing)
+Imagery for cockpit displays and pilot night vision (imagery displayed onto the helmet mounted display)
+The F-35's DAS was flown in military operational exercises in 2011, has demonstrated the ability to detect and track ballistic missiles to ranges exceeding 800 miles (1,300 km), and has also demonstrated the ability to detect and track multiple small suborbital rockets simultaneously in flight. 
+The AN/AAQ-37 DAS was designed and produced by Northrop Grumman. The current sensors used in the system may have insufficient night acuity for pilots used to flying with night vision goggles (NVG), and are therefore augmented by an embedded NVG camera in the helmet. A DAS test system has also been used to track tank gun firing, but this is "not an F-35 requirement". The DAS has been produced by Raytheon since 2023 for Lot 15 aircraft onwards after Northrop Grumman decided not to participate in a follow on competition.
+In accordance with the Joint Electronics Type Designation System (JETDS), the "AN/AAQ-37" designation represents the 37th design of an Army-Navy airborne electronic device for infrared special equipment. The JETDS system also now is used to name all Department of Defense electronic systems.
+
+
+== References ==
+
+
+== See also ==
+
+List of military electronics of the United States

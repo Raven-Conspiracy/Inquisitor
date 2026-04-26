@@ -1,0 +1,46 @@
+Typhon, also commonly referred to as the "Strategic Mid-range Fires System" (SMRF), is a United States Army transporter erector launcher for Standard SM-6 and Tomahawk missiles. Each system contains four strike-length cells from the Mark 41 Vertical Launching System mounted in the footprint of a 40-foot (12 m) ISO container. Formerly known as the Midrange Capabilities System (MCS), it has since been renamed to the Strategic Mid-range Fires System (SMRF) and given the designation "Typhon".
+
+
+== History ==
+
+Typhon was developed by the Army as part of the service's Long Range Precision Fires program. Typhon was designed to strike targets beyond the range of the Army's Precision Strike Missile (but shorter than the Long-Range Hypersonic Weapon system) using modified Navy SM-6 and Tomahawk missiles. The Army originally planned for the first SMRF battery to be fielded in Q4 FY2023, with three additional batteries to follow in the subsequent year. In 2023, the Army successfully launched an SM-6 missile from a Typhon launcher; followed by the successful launch of a Tomahawk missile from a Typhon launcher assigned to 1st MDTF on June 27, 2023.
+In April 2024, the Army operationally deployed Typhon batteries from the 1st MDTF to the Philippines, making its first deployment overseas. The battery deployed from Joint Base Lewis–McChord via a US Air Force C-17 Globemaster to an unidentified airfield in Northern Luzon for the Salaknib 2024 joint military exercises. According to US Army officials, from that position in Luzon, Typhon's missiles could cover not only the entire Luzon Strait but also reach the Chinese coast and various People's Liberation Army bases in the South China Sea. According to Philippines defense officials, the system was not used in live-fire exercises, but Philippine troops were trained on how to handle and maintain the missile system. The system was also employed during the Balikatan 24 exercises. On July 4, 2024 reports citing statements by military officials indicated that the system could be withdrawn from the country "in the next several months". A spokesperson for the Philippine Army stated that the deployment of the Typhon missile system in the Philippines could be extended beyond September 2024, pending evaluation on whether the objectives of training exercises were met. Military experts say that deployment of Typhon in the Philippines is part of the American military's strategic repositioning to counter China's buildup of missile capabilities in the Pacific.
+
+A second battery was activated in January 2024 and designated as D Battery, 5th Battalion, 3rd Field Artillery Regiment, part of the 1st MDTF out of JBLM.
+On July 10, 2024, the White House published a joint statement from the United States and Germany which announced that in 2026 the US will begin episodic deployments in Germany of long-range fires. It states that these units will "have significantly longer range than current land-based fires in Europe" and will include the SM-6 and the Tomahawk, indicating that the deployment will include the MRC.
+On September 4, 2024, Christine Wormuth, the secretary of the US Army, said that the deployment of a Multi-Domain Task Force to Japan, which includes Typhon missile system, had been discussed during her visit.
+On December 23, 2024, the Philippine Military announced that they plan on acquiring the Typhon missile system.
+On July 15, 2025, the German Minister of Defense announced that Germany had submitted a purchase request to the U.S. government for an undisclosed number of systems. A purchase decision will be made as soon as this is confirmed.
+On July 24, 2025, the US Army announced that the Typhon missile system had successfully sunk a maritime target on July 15 during Exercise Talisman Sabre 25 in Australia's Northern Territory using an SM-6 missile.
+On August 28, 2025, The U.S. Marine Corps announced it will conduct Typhon operational training without missile launches at Japan's Iwakuni Air Station and briefed relevant government agencies.
+
+
+== Organization ==
+
+SMRF batteries consist of four Typhon launchers and a battery operations center, supported by a number of prime mover trucks, trailers, generators, and other support vehicles. An SMRF battery forms part of the Strategic Fires Battalion of the Army's regionally aligned MDTF structure.
+The FY 2025 budget allocated funds to procure thirty-two Tactical Tomahawks (TACTOMs) and Mk 14 canisters, an additional Typhon battery, and ground support equipment to include one Battery Operations Center (BOC), four launcher Payload Deployment Systems (PDS), one Reload Capability, and one BOC Support Vehicle, [and] associated Government Furnished Equipment, and program management costs. Total FY 2025 funding for the system reached $183 million for RDT&E, and $233 million for procurement, with an undisclosed number of units ordered.
+While the Army originally planned to only develop four SMRF batteries, with one battery allocated to each MDTF, it appears to have deviated from this plan with two batteries currently assigned to 1st MDTF as of July 2024. The Army has noted that combatant commanders may adjust the allocation of batteries between MDTFs to be more than one each, if required.
+
+
+== Mk 70 Mod 1 Payload Delivery System ==
+The US Army's Typhon launcher is a variant of the Mk 70 PDS with some Army-specific modifications. It is compatible with the Patriot PAC-3 missile. The Mk 70 Mod 1 has been tested aboard ship on the USS Savannah.
+
+
+== Operators ==
+
+
+=== Current operators ===
+ United States: United States Army
+
+
+=== Potential operators ===
+ Germany
+ Philippines
+ Ukraine
+
+
+== See also ==
+BGM-109G Gryphon
+
+
+== References ==

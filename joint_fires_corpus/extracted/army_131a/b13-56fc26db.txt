@@ -1,0 +1,186 @@
+MAINTAINING THE PURPOSE OF TARGETING PRODUCTS FOR EFFECTIVE EXECUTION IN THE JAGIC - United States Field Artillery Association
+Skip to content
+MAINTAINING THE PURPOSE OF TARGETING PRODUCTS FOR EFFECTIVE EXECUTION IN THE JAGIC
+Date posted
+August 13, 2025
+Posted By:
+Benhur Rodriguez
+in
+Professional Content
+,
+DIVISION TARGETING
+MAINTAINING THE PURPOSE OF TARGETING PRODUCTS FOR EFFECTIVE EXECUTION IN THE JAGIC
+CW2 Benhur Rodriguez
+Warrant Officer Advance Course
+Class 003-24
+December 3, 2024
+Introduction
+The division is the Army's unit of action because it optimizes combat power through detailed and collaborative planning, enabling the integration of joint capabilities. Unfortunately, leaders can sometimes misconstrue the targeting process, a method of achieving detailed and collaborative planning, as strictly dynamic in nature. Commanders and staff cannot allow this mentality to make products like the Targeting Synchronization Matrix (TSM) lose their purpose. Such mentality leads to longer coordination times in the Joint Air-Ground Integration Center (JAGIC), resulting in the forfeiture of High Payoff Targets (HPTs) due to target decay. In Large Scale Combat Operations (LSCO), a well-developed TSM is crucial for synchronizing joint fires, enabling timely engagement of HPTs facilitated through planned airspace, and optimizing combat power through Targeting Working Groups (TWGs), Airspace Working Groups (AsWGs), and the Joint Air Ground Integration Center (JAGIC).
+Unity of Effort in LSCO
+Examining the division's role and capacity in LSCO is critical to understand the need for deliberate targeting. LSCO is sustained operations involving multiple
+divisions, making the division the principal tactical warfighting formation in executing campaign plans because of its ability to integrate multi-domain effects into operations.
+[1]
+The division's robust Command and Control (C2) capabilities enable divisions to manage subordinate brigades and coordinate internal assets, including artillery, aviation, and sustainment. Additionally, the division synchronizes and leverages air, naval, and Special Operations Forces (SOF) in the Current Operations (CUOPs') fight. However, to efficiently integrate this level of complexity, divisions require flexible and adaptable processes to lead and execute complex Multi-Domain Operations (MDO) in the Operational Environment (OE).
+Army targeting, D3A (Decide, Detect, Deliver, and Assess), is a systematic and interdisciplinary process that provides division staff with an iterative methodology that is responsive to ever-changing battlefield conditions.
+[2]
+The agility of D3A allows the formation to synchronize effects and maintain operational tempo. Achieving convergence of effects is a challenge noted during FY23 Warfighter observations that involve addressing the synchronization between organic and joint assets. While synchronizing organic and joint capabilities can be complex, the targeting process and the JAGIC facilitate the communication needed to converge effects and create windows of opportunity.
+[3]
+Targeting Working Group
+The TWG is an event within the division's battle rhythm that allows the staff to synchronize targeting efforts to achieve the commander's targeting objectives on a specific Air Tasking Order (ATO) day. During the TWG, the G35 (Operations) paints the picture of how the scheme of maneuver will achieve the division mission, and the G2 (Intelligence) provides an educated forecast of how the adversary will execute its mission in time and space. Given this information, the staff determines how organic, attached and joint capabilities can be applied to achieve the commander's guidance for that day. Concurrently, planners consisting of the division Fire Support Element (FSE), Division Artillery (DIVARTY), and Combat Aviation Brigade (CAB) begin to develop a plan that enables the seamless integration of the varying supporting elements that require airspace consideration.
+Division TSMs vary based on Standard Operating Procedures (SOPs), with some failing to identify critical details such as triggers, shooter location, and approximate enemy location that would drive execution. Target, Trigger, Location, Observer, Delivery system, Attack guidance, Communications (TTLODAC), a rudimentary product used at the platoon level, can associate a shooter with a target better than some
+"Division Specials."
+Per FM 3-60, the TSM lists HPTs with locations and specific detect, deliver, and assess assets for each target.
+[4]
+Such level of detail drives the airspace planning needed for expeditious engagement upon detecting HPTs, i.e., deliberate.
+[5]
+While TWG leads attempt to avoid a drawn-out meeting amongst individuals with other competing requirements, the additional coordination for developing an appropriate TSM can be done immediately after the TWG with airspace-using planners. The TWG is a deliberate meeting to synchronize kinetic and non-kinetic effects to support the division's operations, thus creating an effective TSM; it is not a rehearsal for the Targeting Coordination Board (TCB).
+Airspace Working Group (AsWG)
+The generation of the TSM in the TWG carries forward into the AsWG to formally develop a Unit Airspace Plan (UAP) for approval in the Airspace Control Order (ACO). The ACO implements approved control procedures for a specific time, including Airspace Coordinating Measures (ACMs) and Fire Support Coordination Measures (FSCMs), and is approved alongside an ATO in the ATC (Air Tasking Cycle).
+[6]
+While ACMs can be managed dynamically for unplanned and unanticipated targets, targets approved for execution within an ATC in the Targeting Coordination Board (TCB) need a seamless transition from planning to execution.
+As airspace users compete to maintain air superiority due to the increasing use of UAVs (Unmanned Arial Vehicles) in combat, UAPs are one method that can help disassociate friend from foe in the heat of battle. UAS (Unmanned Arial Systems) use creates an
+air littoral
+subdomain of warfare as they generally operate below the Coordination Level (CL) airspace typically used by attack aviation.
+[7]
+The TSM, through the AsWGs, enhances situational awareness of friendly airspace use while facilitating fast engagement of threats to the friendly ground force.
+The JAGIC provides the division airspace control over its assigned area of operations that primarily relies on procedural aircraft control generated through approved ACMs and FSCMs in the ACO. The output of the AsWG, the UAP, creates the air picture needed to synchronize and coordinate the seamless application of air-ground assets while increasing awareness of enemy drone activity. A well-planned and rehearsed UAP allows for the timely integration of capabilities in the execution of HPTs before they can affect subordinate unit operations.
+[8]
+The loss of an HPT due to target decay will be costly in LSCO as it can have compounding effects on the current operations floor, like desynchronizing the collection plan and even losing operational tempo. Upon conclusion of the AsWG, the organization has a synchronized and coordinated plan for integrating air and ground capabilities to achieve timely effects on HPTs.
+The JAGIC
+The approved TSM, ATO, and ACO arrive at the JAGIC for execution, providing a comprehensive and logical plan with minimal coordination to reduce the time constraints of full-scale operations. The JAGIC provides commanders with a technique for coordinating, integrating, and controlling operations in the division's assigned airspace while collaborating with external airspace elements.
+[9]
+Deliberate targeting that includes a detailed plan alleviates the complexity of operations within the division AO and airspace. Having integrated competing airspace use requirements in the AsWG, the JAGIC can then focus on conducting technical rehearsals for other complex fire support operations like Suppression of Enemy Air Defense (SEAD) during an Air Assault Operation or Out-of-Contact Attack (OOCA).
+Understanding the level of coordination that occurs across joint services in the JAGIC; TWG, AsWG, and TCB outputs must arrive at the Current Operations Integration Cell (COIC) triad (JAGIC/Analysis and Control Element/Chief of Operations) ready for execution and require little additional planning. The TSM provides clear, planned, and easy-to-understand sensor-to-shooter linkage. Preferably, the plan is published to the JAGIC and Analysis and Control Element (ACE) using the Joint Automated Deep Operations Coordination System (JADOCS) and the Tactical Air Integration System (TAIS) and not on PowerPoint briefing slides that do not translate to Army operations systems. This level of planning for scheduled and on-call targets facilitates the timely execution of deliberate and dynamic targets in the JAGIC.
+Conclusion
+Deliberate targeting prosecutes planned targets, scheduled or on-call, known to exist in the area of operations and have actions planned against them.
+[10]
+The argument is that while "
+Division specials"
+brief well to the commander, the TSM must remain the deliberate product carried forward from the TWG, through the AsWG, to the JAGIC,
+[1]
+I
+ADP 3-0
+Operations
+, pg. 1-6 (2019).
+[2]
+FM 3-60
+Army Targeting,
+pg. 1-1 (2023).
+[3]
+Mission Command Training Center.
+FY 23 Mission Command Training in Large-Scale Combat Operations, Key Observations
+(2024).
+[4]
+FM 3-60
+Army Targeting,
+pg. 2-5(2023).
+[5]
+Odom, Mark. Deliberate versus Dynamic Targeting (2023).
+[6]
+JP 3-52
+Joint Airspace Control
+, pg. X (2022).
+[7]
+Barno, David & Bensahel, Nora. Drones, The Air Littoral, and The Looming Irrelevance of the U.S. Air Force (2024).
+[8]
+Cronen, Christopher & Rich, Michael. Army Airspace Management During LSCO (2022).
+[9]
+ATP 3-91.1
+The Joint Air Ground Integration Center
+pg. 1-1 (2019).
+[10]
+JP 3-60
+Joint Targeting
+, pg. III-1 (2024).
+Bibliography
+Barno, David & Bensahel, Nora. War On the Rocks.
+Drones, The Air Littoral, and The Looming Irrelevance of the U.S. Air Force
+(2024).
+https://warontherocks.com/2024/03/drones-the-air-littoral-and-the-looming-irrelevance-of-the-u-s-air-force/
+Cronen, Christopher & Rich, Michael. Air Land Sea Space Application (ALSSA) Center.
+Army Airspace Management During LSCO
+(2022).
+https://www.alsa.mil/News/Article/2989031/army-airspace-management-during-large-scale-combat-operations/
+Headquarters, Department of the Army. Army Doctrine Publication 3-0
+Operations
+(2019).
+Headquarters, Department of the Army. Army Techniques Publication 3-91.1
+The Joint Air Ground Integration Center
+(2019).
+Headquarters, Department of the Army. Field Manual 3-60
+Army Targeting
+(2023).
+Joint Chiefs of Staff. Joint Publication 3-30
+Joint Air Operations
+(2021).
+Joint Chiefs of Staff. Joint Publication 3-52
+Joint Airspace Control
+(2022).
+Joint Chiefs of Staff. Joint Publication 3-60
+Joint Targeting
+(2024).
+Mission Command Training Center.
+FY 23 Mission Command Training in Large-Scale Combat Operations, Key Observations
+(2024).
+https://www.army.mil/article/274300/fy_23_mission_command_training_in_large_scale_combat_operation_key_observations
+Odom, Mark. United States Field Artillery Association.
+Deliberate versus Dynamic Targeting
+(2023).
+https://www.fieldartillery.org/news/deliberate-versus-dynamic-targeting
+enabling success in targeting execution. Additionally, the TSM depicts a sensor-to-shooter linkage that synchronizes effects with timely delivery while facilitating the development of a clear airspace picture. Therefore, in LSCO, a well-developed TSM is crucial for synchronizing joint fires, enabling timely engagement of HPTs, and optimizing combat power through TWGs, AsWGs, and the JAGIC.
+Counterfire at the Corps and Division
+Date posted
+August 8, 2025
+Marine Artillery in Transition: Between Legacy and Force Design
+Date posted
+September 10, 2025
+Categories
+Industry
+Professional Content
+Most Recent Posts
+Developing Leaders For Today and Better Citizens for Tomorrow
+Date posted
+January 7, 2026
+Posted
+by Mark Chapman
+Vernon Lewis
+Date posted
+November 29, 2025
+Posted
+The Way Forward
+Date posted
+October 28, 2025
+Posted
+by Benjamin Betts
+Marine Artillery in Transition: Between Legacy and Force Design
+Date posted
+September 10, 2025
+Posted
+by Col (R) Christopher A Tavuchis
+Counterfire at the Corps and Division
+Date posted
+August 8, 2025
+Posted
+×
+Membership & Account Access
+Are you a current Member?
+If you previously had a login to the USFAA site, please
+click here
+to set a new password for the new website. If you need to create a new login, please click Create an Account below.
+With your member login you will be able to:
+Update your contact information and chapter affiliation
+Renew membership
+Access the Field Artillery Journal issues from 1911-current
+Receive member 15% discount on all store items
+Please note:
+Only members can create user accounts. If you're new or returning to USFAA, please
+join here
+. If your company is a member, please
+contact USFAA
+to get access to your member benefits.
+Create an Account
+Applying for Membership?
+The members of USFAA invite and encourage you to join! Our mission remains the same since we were founded in 1910 - Support, preserve and perpetuate the esprit, traditions, and standards of the Field Artillery.
+Please join us and our 6,000 members world-wide.
+Annual and Lifetime Membership options are available.
+View Membership Information

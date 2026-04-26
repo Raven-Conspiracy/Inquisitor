@@ -1,0 +1,272 @@
+The Sikorsky SH-60/MH-60 Seahawk (or Sea Hawk) is a twin turboshaft engine, multi-mission United States Navy helicopter based on the United States Army UH-60 Black Hawk and a member of the Sikorsky S-70 family. The most significant modifications are the folding main rotor blades and a hinged tail to reduce its footprint aboard ships.
+The U.S. Navy acquired H-60 helicopters under the model designations SH-60B, SH-60F, HH-60H, MH-60R, and MH-60S. Able to deploy aboard any air-capable frigate, destroyer, cruiser, fast combat support ship, expeditionary transfer dock, amphibious assault ship, littoral combat ship or aircraft carrier, the Seahawk can handle anti-submarine warfare (ASW), anti-surface warfare (ASUW), naval special warfare (NSW) insertion, search and rescue (SAR), combat search and rescue (CSAR), vertical replenishment (VERTREP), and medical evacuation (MEDEVAC). When entering service, the SH-60B was too large to operate from some of the smaller vessels in service, so it served along with the Kaman SH-2F and SH-2G models until 2001.
+Early model Seahawks began to be retired in the 2010s and 2020s, with the last B model leaving U.S. Navy service in 2015, after over three decades, then the F and H models followed in 2016. These were replaced by the upgraded MH-60R and S models.
+
+
+== Design and development ==
+
+
+=== Origins ===
+In the 1970s, the U.S. Navy began looking for a new helicopter to replace the Kaman SH-2 Seasprite. The SH-2 Seasprite was used by the Navy as its platform for the Light Airborne Multi-Purpose System (LAMPS) Mark I avionics suite for maritime warfare and a secondary search and rescue capability. Advances in sensor and avionic technology lead to the LAMPS Mk II suite being developed by the Naval Air Development Center.  In 1974, the Navy conducted a competition to develop the Lamps MK III concept, which would integrate both the aircraft and shipboard systems.  The Navy selected IBM Federal Systems as the Prime systems integrator for the Lamps MK III concept.
+Since the SH-2 was not large enough to carry the Navy's required equipment, a new airframe was required. In the mid-1970s, the Army evaluated the Sikorsky YUH-60 and Boeing Vertol YUH-61 for its Utility Tactical Transport Aircraft System (UTTAS) competition.  The Navy based its requirements on the Army's UTTAS specification, to decrease costs from commonality as the new airframe to carry the Lamps MK III avionics. In April 1977, Sikorsky and Boeing-Vertol submitted proposals for Navy variants of their Army UTTAS helicopters for review. The Navy also looked at helicopters being produced by Bell, Kaman, Westland and MBB, but these were too small for the mission. In early 1978, the Navy selected Sikorsky's S-70B design, which was designated "SH-60B Seahawk".
+
+
+=== SH-60B Seahawk ===
+IBM was the prime systems integrator for the Lamps MK III with Sikorsky as the airframe manufacturer.  The SH-60B maintained 83% commonality with the UH-60A. The main changes were corrosion protection, more powerful T700 engines, single-stage oleo main landing gear, removal of the left side door, adding two weapon pylons, and shifting the tail landing gear 13 feet (3.96 m) forward to reduce the footprint for shipboard landing. Other changes included larger fuel cells, an electric blade folding system, folding horizontal stabilators for storage, and adding a 25-tube pneumatic sonobuoy launcher on the left side.
+An emergency flotation system was originally installed in the stub wing fairings of the main landing gear. It was found to be impractical and possibly impeded emergency egress, and was removed. Five YSH-60B Seahawk LAMPS III prototypes were ordered. The first YSH-60B flight occurred on 12 December 1979. The first production SH-60B made its first flight on 11 February 1983. The SH-60B entered operational service in 1984, with its first operational deployment in 1985.
+The SH-60B is deployed primarily aboard frigates, destroyers, and cruisers. The primary missions of the SH-60B are surface warfare and anti-submarine warfare. It carries a complex system of sensors, including a towed magnetic anomaly detector (MAD) and air-launched sonobuoys. Other sensors include the APS-124 search radar, ALQ-142 ESM system and optional nose-mounted forward looking infrared (FLIR) turret. Munitions carried include the Mk 46, Mk 50, or Mark 54 Lightweight Torpedo, AGM-114 Hellfire missile, and a single cabin-door-mounted M60D/M240 7.62 mm (0.30 in) machine gun, or GAU-16 .50 in (12.7 mm) machine gun.
+A standard crew for a SH-60B is one pilot, one ATO/Co-Pilot (Airborne Tactical Officer), and an enlisted aviation warfare systems operator (sensor operator). The U.S. Navy operated the SH-60B in Helicopter Anti-Submarine Squadron, Light (HSL) squadrons.  All HSL squadrons were redesignated Helicopter Maritime Strike (HSM) squadrons, and transitioned to the MH-60R between 2006 and 2015.
+The SH-60J is based on the SH-60B airframe for the Japan Maritime Self-Defense Force without IBM avionics. The SH-60K is a modified variant of the SH-60J. The SH-60J and SH-60K are built under license by Mitsubishi in Japan.
+
+
+=== SH-60F ===
+
+After the SH-60B entered service, the Navy conducted a competition to replace the Sikorsky SH-3 Sea King.  The competitors were Sikorsky, Kaman and IBM (avionics only). Sikorsky began development of this variant in March 1985. In January 1986, seven SH-60Fs were ordered including two prototypes (BuNos 163282/3). The first example flew on 19 March 1987. The SH-60F was based on the SH-60B airframe, but with upgraded SH-3H avionics.
+The SH-60F primarily served as the carrier battle group's primary anti-submarine warfare (ASW) aircraft. The helicopter hunted submarines with its AQS-13F dipping sonar, and carried a six-tube sonobuoy launcher. The SH-60F is unofficially named "Oceanhawk". The SH-60F can carry Mk 46, Mk 50, or Mk 54 torpedoes for its offensive weapons, and it has a choice of fuselage-mounted machine guns, including the M60D, M240D, and GAU-16 (.50 caliber or 12.7 mm) for self-defense. The standard aircrew is one pilot, one co-pilot, one tactical sensor operator (TSO), and one acoustic sensor operator (ASO). The SH-60F was operated by the U.S. Navy's Helicopter Antisubmarine (HS) squadrons, until they were redesignated Helicopter Sea Combat (HSC) squadrons and transitioned to the MH-60S. The last HS squadron completed its transition in 2016.
+
+
+=== HH-60H ===
+
+The HH-60H was developed in conjunction with the US Coast Guard's HH-60J, beginning in September 1986 with a contract for the first five helicopters with Sikorsky as the prime contractor.  The variant's first flight occurred on 17 August 1988. Deliveries of the HH-60H began in 1989. The variant earned initial operating capability in April 1990 and was deployed to Desert Storm with HCS-4 and HCS-5 in 1991. The HH-60H's official DoD and Sikorsky name is Seahawk, though it has been called "Rescue Hawk".
+Based on the SH-60F, the HH-60H is the primary combat search and rescue (CSAR), naval special warfare (NSW) and anti-surface warfare (ASUW) helicopter. It carries various defensive and offensive sensors. These include a FLIR turret with laser designator, and the Aircraft Survival Equipment (ASE) package including the ALQ-144 Infrared Jammer, AVR-2 Laser Detectors, APR-39(V)2 Radar Detectors, AAR-47 Missile Launch Detectors and ALE-47 chaff/flare dispensers. Engine exhaust deflectors provide infrared thermal reduction, reducing the threat of heat-seeking missiles. The HH-60H can carry up to four AGM-114 Hellfire missiles on an extended wing using the M299 launcher, and a variety of mountable guns including M60D, M240, GAU-16 and GAU-17/A machine guns.
+The HH-60H's standard crew is a pilot, a copilot, an enlisted crew chief, and two door gunners or one rescue swimmer. Originally operated by HCS-5 and HCS-4 (later HSC-84), these two special USNR squadrons were established with the primary mission of Naval Special Warfare and Combat Search and Rescue (CSAR).  Due to SOCOM budget issues, the squadrons were deactivated in 2006 and 2016 respectively. The HH-60H was also operated by Helicopter Antisubmarine (HS) squadrons, with a standard dispersal of six F-models and two or three H-models, before the transition of HS squadrons to HSC squadrons equipped with the MH-60S, the last of which completed its transition in 2016.  The only squadron equipped with the HH-60H as of 2016 is HSC-85, one of only two remaining USNR helicopter squadrons, the other being HSM-60 equipped with the MH-60R.  In Iraq, HH-60Hs were used by the Navy, assisting the Army, for MEDEVAC purposes and special operations missions.
+
+
+=== MH-60R ===
+
+The MH-60R "Romeo" was originally known as "LAMPS Mark III Block II Upgrade" when development began in 1993 with Lockheed Martin, formerly IBM/Loral. Two SH-60Bs were converted by Sikorsky, the first of which made its maiden flight on 22 December 1999. Designated YSH-60R, they were delivered to NAS Patuxent River in 2001 for flight testing. The production variant was redesignated MH-60R to match its multi-mission capability.  The MH-60R was deployed by the US Navy in 2006.
+The MH-60R is designed to combine the features of the SH-60B and SH-60F. Its avionics includes dual controls and instead of the complex array of dials and gauges in Bravo and Foxtrot aircraft, 4 fully integrated 8" x 10" night vision goggle-compatible and sunlight-readable color multi-function displays, all part of the glass cockpit produced by Owego Helo Systems division of Lockheed Martin. Onboard sensors include: AAR-47 Missile Approach Warning System by ATK, Raytheon AAS-44 electro-optical system that integrates FLIR and laser rangefinder, ALE-39 decoy dispenser and ALQ-144 infrared jammer by BAE Systems, ALQ-210 electronic support measures system by Lockheed Martin, APS-147 multi-mode radar/IFF interrogator, which during a mid-life technology insertion project is replaced by APS-153 Multi-Mode Radar with Automatic Radar Periscope Detection and Discrimination (ARPDD) capability.
+
+Both radars were developed by Telephonics, a more advanced AN/AQS-22 advanced airborne low-frequency sonar (ALFS) jointly developed by Raytheon & Thales, an ARC-210 voice radio by Rockwell Collins, an advanced airborne fleet data link SRQ-4 Hawklink with radio terminal set ARQ-59 radio terminal, both by L3Harris, and LN-100G dual-embedded global positioning system and inertial navigation system by Northrop Grumman Litton division. Beginning in 2020, CAE's MAD-XR were fielded on MH-60Rs, providing it with a magnetic anomaly detector.
+Offensive capabilities are improved by the addition of new Mk-54 air-launched torpedoes and Hellfire missiles. All Helicopter Anti-Submarine Light (HSL) squadrons that receive the MH-60R are redesignated Helicopter Maritime Strike (HSM) squadrons.
+
+
+=== MH-60S ===
+
+In 1997, the Navy decided to replace its venerable CH-46 Sea Knight helicopters. In 1998, the Navy awarded a production contract to Sikorsky for the CH-60S, after sea demonstrations with a converted UH-60. The variant first flew on 27 January 2000 and it began flight testing later that year. The CH-60S was redesignated MH-60S in February 2001 to reflect its planned multi-mission use. The MH-60S is based on the UH-60L and has many naval SH-60 features. Unlike all other Navy H-60s, the MH-60S is not based on the original S-70B/SH-60B platform, with its forward-mounted twin tail-gear and single starboard sliding cabin door. Instead, the S-model is a hybrid, featuring the main fuselage of the S-70A/UH-60, with large sliding doors on both sides of the cabin and a single aft-mounted tail wheel, and the folding tail pylon, engines, drivetrain and rotors of the S-70B/SH-60.  It includes the integrated glass cockpit developed by Lockheed Martin for the MH-60R and shares some of the same avionics/weapons systems.
+It is deployed aboard aircraft carriers, amphibious assault ships, Maritime Sealift Command ships, and fast combat support ships. Its missions include vertical replenishment, medical evacuation, combat search and rescue, anti-surface warfare, maritime interdiction, close air support, intelligence, surveillance and reconnaissance, and special warfare support. The MH-60S is to deploy with the AQS-20A Mine Detection System and an Airborne Laser Mine Detection System (ALMDS) for identifying submerged objects in coastal waters.
+
+It is the first US Navy helicopter to field a glass cockpit, relaying flight information via four digital monitors. The primary means of defense is door-mounted machine guns such as the M60D, M240D, or GAU-17/A. A "batwing" Armed Helo Kit based on the Army's UH-60L was developed to accommodate Hellfire missiles, Hydra 70 mm (2.75 inch) rockets, or larger guns. The MH-60S can be equipped with a nose-mounted forward looking infrared (FLIR) turret to be used in conjunction with Hellfire missiles. It carries the ALQ-144 Infrared Jammer.
+The MH-60S is unofficially known as the "Knighthawk", referring to the preceding Sea Knight, though "Seahawk" is its official DoD name. A standard crew for the MH-60S is one pilot, one copilot and two tactical aircrewmen, depending on the mission. With the retirement of the Sea Knight, the squadron designation of Helicopter Combat Support Squadron (HC) was retired from the Navy. Operating MH-60S squadrons were re-designated Helicopter Sea Combat Squadron (HSC). The MH-60S was to be used for mine clearing from littoral combat ships, but testing found it lacks the power to safely tow the detection equipment.
+In August 2014, the U.S. Navy forward deployed the Airborne Laser Mine Detection System (ALMDS) to the U.S. 5th Fleet.  The ALMDS is a sensor system designed to detect, classify, and localize floating and near-surface moored mines in littoral zones, straits, and choke points.  The system is operated from an MH-60S, which gives it a countermine role traditionally handled by the MH-53E Sea Dragon, allowing smaller ships that the MH-53E cannot operate from, to be used in the role.  The ALMDS beams a laser into the water to pick up reflections from things it bounces off of, then uses that data to produce a video image for ground personnel to determine if the object is a mine.
+The MH-60S will utilize the BAE Systems Archerfish remotely operated vehicle (ROV) to seek out and destroy naval mines from the air.  Selected as a concept in 2003 by the Navy as part of the Airborne Mine Neutralization System (AMNS) program and developed since 2007, the Archerfish is dropped into the water from its launch cradle, where its human operator remotely guides it down towards the mine using a fiber optics communications cable that leads back up to the helicopter. Using sonar and low-light video, it locates the mine, and is then instructed to shoot a shaped charge explosive to detonate it.  In April 2016, BAE was awarded a contract to build and deliver the ROVs.
+
+
+== Operational history ==
+
+
+=== U.S. Navy ===
+
+The Navy received the first production SH-60B in February 1983 and assigned it to squadron HSL-41. The helicopter entered service in 1984, and began its first deployment in 1985.
+
+The SH-60F entered operational service on 22 June 1989 with Helicopter Antisubmarine Squadron 10 (HS-10) at NAS North Island.  SH-60F squadrons planned to shift from the SH-60F to the MH-60S from 2005 to 2011 and were to be redesignated Helicopter Sea Combat (HSC).
+As one of the two squadrons in the US Navy dedicated to Naval Special Warfare support and combat search and rescue, the HCS-5 Firehawks squadron deployed to Iraq for Operation Iraqi Freedom in March 2003. The squadron completed 900 combat air missions and over 1,700 combat flight hours. The majority of their flights in the Iraqi theater supported special operations ground forces missions.
+
+A west coast Fleet Replacement Squadron (FRS), Helicopter Maritime Strike Squadron (HSM) 41, received the MH-60R aircraft in December 2005 and began training the first set of pilots. In 2007, the R-model successfully underwent final testing for incorporation into the fleet. In August 2008, the first 11 combat-ready Romeos arrived at HSM-71, a squadron assigned to the carrier John C. Stennis. The primary missions of the MH-60R are anti-surface and anti-submarine warfare. According to Lockheed Martin, "secondary missions include search and rescue, vertical replenishment, naval surface fire support, logistics support, personnel transport, medical evacuation and communications and data relay."
+HSL squadrons in the US have been incrementally transitioning to the MH-60R and have nearly completed the transition. The first MH-60Rs in Japan arrived in October 2012. The recipient was HSM-51, the Navy's forward–deployed LAMPS squadron, home based in Atsugi, Japan. The Warlords transitioned from the SH-60B throughout 2013, and shifted each detachment to the new aircraft as they returned from deployments. HSM-51 will have all MH-60R aircraft at the end of 2013. The Warlords are joined by the Saberhawks of HSM-77.
+
+On 23 July 2013, Sikorsky delivered the 400th MH-60, an MH-60R, to the U.S. Navy. This included 166 MH-60R variants and 234 MH-60S variants. The MH-60S is in production until 2015 and will total a fleet of 275 aircraft, and the MH-60R is in production until 2017 and will total a fleet of 291 aircraft. The two models have flown 660,000 flight hours. Seahawk helicopters are to remain in Navy service into the 2030s.
+The SH-60B Seahawk completed its last active-duty deployment for the U.S. Navy in late April 2015 after a seven-month deployment aboard USS Gary. After 32 years and over 3.6 million hours of service, the SH-60B was formally retired from U.S. Navy service during a ceremony on 11 May 2015 at Naval Air Station North Island. In late November 2015 USS Theodore Roosevelt returned from its deployment, ending the last active-duty operational deployment of both the SH-60F and HH-60H. The models are to be transferred to other squadrons or placed in storage.
+
+
+=== Indian Navy ===
+
+On 17 February 2011, the Indian Defence Ministry rejected a US offer for the direct acquisition of 16 MH-60R Romeo helicopters through the Foreign Military Sales (FMS) route. Instead, the Indian Navy continued with competitive bidding for its 16 Multi Role Helicopter (MRH) tender. This left behind only two contenders — Sikorsky S-70B Seahawk and NHIndustries NH90 — for the MRH tender launched in September 2008 which intended to replace the Sea King Mk 42B/C fleet. This required the helicopter for both anti-submarine and anti-surface warfare missions. This was the second attempt for the MRH programme after the 2006 tender was cancelled. Following trials that lasted until late 2011, the S-70B was selected in the commercial bidding stage. However, in June 2017, India's Ministry of Defence terminated the procurement programme, since the Cost Negotiation Committee (CNC) had been in a deadlock with Sikorsky since 2014 and even after Lockheed Martin took over the firm.
+Thereafter, in August 2018, India's Defence Ministry approved the purchase of 24 multirole helicopters. As of November 2018, The Indian Express reported that India has sought the multirole MH-60R from the US and has sent a letter of request in that case. The procurement is expected to cost $2 billion. In April 2019, the US Defense Security Cooperation Agency (DSCA) approved the sale of 24 MH-60R anti-submarine helicopters through the FMS route to India for US$2.6 billion and notified Congress of the proposed sale.
+The Cabinet Committee on Security (CCS), chaired by the Prime Minister of India, cleared the deal for 26 MH-60R Romeo helicopters on 19 February 2020. This was a week ahead of the visit of Donald Trump, the then POTUS, to India. The programme will act as a stopgap measure until the Navy's requirement of 123 helicopters under the Naval Multi Role Helicopter (NMRH) is fulfilled. India signed a $2.12 billion (₹15,157 crore) deal with the US on 26 February. Six of the aircraft will be delivered in 2021 with the rest delivered within two years. These helicopters are to aid in detecting and destroying enemy submarines prowling in the Indian Ocean Region (IOR).
+On 16 July 2021, the U.S. Navy transferred the first two MH-60Rs to the Indian Navy at Naval Air Station North Island, San Diego. The US Navy will be responsible for capability upgrades and sustainment during Indian Navy operations. In December 2023, it has reported that the 6th helicopter was delivered to the Navy.
+The MH-60Rs have been integrated with the Navy's aircraft carrier INS Vikrant. The new helicopters can be used for rescue operations, especially in night search and rescue missions, as they have night vision goggles and forward-looking infrared facilities. They participated in the Exercise Milan-2024 held by the Navy.
+On 6 March 2024, the Indian Defence Minister Rajnath Singh commissioned the INAS 334 Naval Squadron at INS Garuda, Kochi under commanding officer Captain M Abhishek Ram.
+On 24 August 2024, DSCA approved a possible order worth $52.8 million for sonobuoys and related equipment. The deal includes the sale of 3 types of High Altitude Anti-Submarine Warfare (HAASW) sonobuoys including AN/SSQ-53G/O, AN/SSQ-62F, and AN/SSQ-36 sonobuoys may be a part of the deal. The sonobuoys are to be integrated onboard MH-60R for ASW operations. The Indian Navy is planning to acquire over 500 anti-submarine sonobuoys for the MH-60 fleet. On 6 October 2024, DSCA further cleared the possible sale of 53 aircraft-launched MK 54 MOD 0 Lightweight Torpedo all up rounds for its MH-60R fleet and associated equipment and support, including “in-country torpedo training”.
+As per Ministry of Defence reports on 26 December 2024, the first nine helicopters were delivered and put into service on the fleet ships. The helicopters took part in exercises like MALABAR, SIMBEX and MILAN 24 in the year.
+On 28 November 2025, India and the US signed the Letters of Order and Acceptance (LOA), worth ₹7,995 crore (US$950 million), for the sustainment support the Indian Navy's MH-60R fleet for five years. Over 20 of the helicopters were expected to be in service as of then. The rest would be delivered by the end of 2026. The Indian Navy's second squadron of MH-60R, INAS 335, was commissioned on 17 December 2025.
+Three delivered in 2021. 6th delivered in December 2023. 10 delivered as of March 2025. Rest to be delivered by 2026-end. 13 and 19 had been delivered as of June and July 2025. Over 20 MH-60 delivered by November 2025.
+
+
+=== Other and potential users ===
+
+Spain ordered 12 S-70B Seahawks for its Navy.  Spain requested six refurbished SH-60Fs through a Foreign Military Sale in September 2010.
+The Royal Australian Navy (RAN) ordered 16 S-70B-2s which were delivered in 1988 and 1989. In December 2017, the S-70B-2s were retired from service. The S-70B-2 served extensively in the Middle East, embarked on the Adelaide-class and the Anzac-class frigates. 11 S-70B-2 were sold to Skyline Aviation Group. Under Project AIR 9000 Phase 8, the MH-60R competed with the NHIndustries NH90 to replace the S-70B-2. In June 2011, the MH-60R was selected to replace the S-70B-2. 24 MH-60Rs were ordered to be equipped with the Mark 54 and the Hellfire with deliveries commencing in mid-2014. The US approved a Foreign Military Sale of 24 MH-60Rs in July 2010. The first MH-60R was delivered to the RAN in 2013 and the last was delivered in 2016. In 2018, Australia signed a 10-year agreement with the US Navy to support the MH-60R. The Department of Defence in the 2020 Force Structure Plan reported it planned to expand and rationalise the RAN's MRH-90 Taipan fleet used for support and logistics. In October 2021, the US approved a Foreign Military Sale to Australia of 12 MH-60Rs. In May 2022, the Australian government announced that it would purchase 12 MH-60Rs to replace the MRH-90 fleet. The government placed the order in September 2022.
+The Royal Danish Navy (RDN) put the MH-60R on a short list for a requirement of around 12 new naval helicopters, together with the NH90/NFH, H-92, AW159 and AW101. The Request For Proposal was issued in September 2010.  In November 2010, Denmark requested approval for a possible purchase of 12 MH-60Rs through a Foreign Military Sale. In November 2012, Denmark selected 9 MH-60Rs to replace its 7 aging Lynx helicopters. In October 2015, the US Navy accepted two mission ready MH-60R helicopters for Denmark. In October 2018, Lockheed Martin was in the process of delivering the ninth and final MH-60R to Denmark.
+In July 2009, the Republic of Korea requested eight MH-60S helicopters, 16 GE T700-401C engines, and related sensor systems to be sold in a Foreign Military Sale. South Korea instead chose the AW159 in January 2013. In December 2020, the South Korean government purchased 12 MH-60Rs.
+In July 2010 Tunisia requested 12 refurbished SH-60Fs through a Foreign Military Sale.  But the change in government there in January 2011 may interfere with an order.
+In 2011, Qatar requested a potential Foreign Military Sale of up to 6 MH-60R helicopters, engines and other associated equipment. In late June 2012, Qatar requested another 22 Seahawks, 12 fitted with the armed helicopter modification kit and T700-401C engines with an option to purchase an additional six Seahawks and more engines.
+In 2011, Singapore bought six S-70Bs. In 2013, they ordered an additional two.
+In early 2015, Israel ordered eight ex-Navy SH-60Fs to support the expansion of the Israeli Navy surface fleet for ASW, ASuW and SAR roles.
+In 2015, Saudi Arabia requested the sale of ten MH-60R helicopters and associated equipment and support for the Royal Saudi Navy.
+In 2016, Malaysia considered purchasing new helicopters for its Royal Malaysian Navy, with the MH-60R Seahawk, AgustaWestland AW159 Wildcat, or the Airbus Helicopters H225M under evaluation for the role.
+In April 2018, the Defense Security Cooperation Agency received U.S. State Department approval and notified Congress of a possible sale to Mexican Navy of eight MH-60Rs, spare engines, and associated systems.  In July 2018, Mexico's president planned to cancel the MH-60 sale to cut government spending.
+In 2022, the Royal Norwegian Air Force considered the UH-60 as a replacement for the NHIndustries NH90. In March 2023, Norway decided to procure MH-60R Sea Hawks for the Norwegian Coast Guard. Training is to start immediately in cooperation with the Royal Danish Air Force. The U.S. government decided to reallocate three MH-60Rs originally destined for the U.S. Navy to the Norwegian Coast Guard, with an estimated delivery in the summer of 2025. Norway will procure six MH-60Rs, with the remaining three delivered by 2027. Norway is considering procuring additional helicopters for the anti-submarine warfare role for the Royal Norwegian Navy Fridtjof Nansen-class frigate, pending review into how to best satisfy the navy's ASW needs.
+In October 2023, Lockheed Martin was awarded a contract to deliver eight MH-60Rs to the Spanish Navy.
+On 21 August 2025, New Zealand's Defence Minister Judith Collins and Foreign Minister Winston Peters announced the intention to purchase five MH-60R Seahawks.
+
+
+== Variants ==
+
+
+=== U.S. variants ===
+
+YSH-60B Seahawk: Developmental variant, led to SH-60B; five built.
+SH-60B Seahawk: Anti-submarine warfare helicopter, equipped with an APS-124 search radar and an ALQ-142 ESM system under the nose, also fitted with a 25-tube sonobuoy launcher on the left side and modified landing gear; 181 built for the US Navy.
+NSH-60B Seahawk: Permanently configured for flight testing.
+CH-60E: Proposed troop transport variant for the U.S. Marine Corps. Not built.
+SH-60F "Oceanhawk": Carrier-borne anti-submarine warfare helicopter, equipped with AQS-13F dipping sonar; 76 built for the U.S. Navy.
+NSH-60F Seahawk: Modified SH-60F to support the VH-60N Cockpit Upgrade Program.
+HH-60H "Rescue Hawk": Search-and-rescue helicopter for the U.S. Navy; 45 built.
+XSH-60J: Two U.S.-built pattern aircraft for Japan.
+SH-60J: Anti-submarine warfare helicopter for the Japanese Maritime Self-Defense Force.
+YSH-60R Seahawk:
+MH-60R Seahawk: Anti-submarine warfare helicopter with capability for vertical resupply missions and search & rescue operations.
+YCH-60S "Knighthawk": Prototype; converted to MH-60S in 2001.
+MH-60S "Knighthawk": Used for vertical resupply missions, search & rescue operations, special warfare support, and airborne mine countermeasures. Entered service in February 2002.
+HH-60J/MH-60T Jayhawk: U.S. Coast Guard variant. The HH-60J was developed with the HH-60H, the MH-60T is an upgrade to the HH-60J. 42 of the HH-60H were built, all of which were eventually upgraded to MH-60T.
+
+
+=== Export variants ===
+
+S-70B Seahawk: Sikorsky's designation for Seahawk. Designation is often used for exports.
+S-70B-1 Seahawk: Anti-submarine variant for the Spanish Navy. The Seahawk is configured with the LAMPS (Light Airborne Multipurpose System)
+S-70B-2 Seahawk: Anti-submarine variant for the Royal Australian Navy, similar to the SH-60B Seahawk in U.S. Navy operation.
+S-70B-3 Seahawk: Anti-submarine variant for the Japanese Maritime Self-Defense Force. Also known as the SH-60J. The JMSDF ordered 101 units, with deliveries starting in 1991.
+S-70-4 Seahawk: Sikorsky's designation for the SH-60F Oceanhawk.
+S-70-5: Sikorsky's designation for the HH-60H Rescue Hawk and HH-60J Jayhawk.
+S-70B-6 Aegean Hawk: the Greek military variant which is a blend of the SH-60B and F models, based on Republic of China (Taiwan) Navy's S-70C(M)1/2.
+S-70B-7 Seahawk: Export variant for the Royal Thai Navy.
+S-70B-28 Seahawk: Export variant for Turkey.
+
+S-70C: Designation for civil variants of the H-60.
+S-70C(M)-1/2 Thunderhawk: Export variant for the Republic of China (Taiwan) Navy, equipped with an undernose radar and a dipping sonar.  The S-70C(M)-1 has the CT7-2D1 engines whereas S-70C(M)-2 is uprated with the T700-GE-401C turboshafts.
+S-70C-2: 24 radar-equipped UH-60 Black Hawks for China, the delivery of the helicopters was halted by an embargo.
+S-70C-6 Super Blue Hawk: Search-and-rescue helicopter for Taiwan, equipped with undernose radar, plus provision for four external fuel tanks on two sub wings.
+S-70C-14: VIP transport variant for Brunei; two built.
+S-70A (N) Naval Hawk: Maritime variant that blends the S-70A Black Hawk and S-70B Seahawk designs.
+S-70L: Sikorsky's original designation for the SH-60B Seahawk.
+SH-16: Brazilian Navy designation of the SH-60.
+
+
+== Operators ==
+
+ Australia
+Royal Australian Navy – 23 MH-60R Seahawks in service as of October 2021 (originally 24). In September 2022, Australia ordered 12 additional MH-60Rs and a replacement aircraft for the one lost, with delivery by the end of 2026.
+ Brazil
+Brazilian Navy – 6 S-70B Seahawks in use.
+ Denmark
+Royal Danish Air Force – 9 MH-60R Seahawks in operation as of 2023
+ Greece
+Hellenic Navy – 11 S-70B6 Aegean Hawks in use as of December 2018. 7 MH-60Rs on order with three delivered as of March 2024.
+ India
+Indian Navy – 24 ordered in 2020. Three delivered in 2021. 6th delivered in December 2023. 10 delivered as of March 2025. Rest to be delivered by 2026-end. 13 and 19 had been delivered as of June and July 2025. Over 20 MH-60 delivered by November 2025.
+INS Garuda, Kochi
+INAS 334
+INS Hansa, Goa
+INAS 335
+ Israel
+Israeli Navy – 8 ex-USN SH-60F on order
+ Japan
+See SH-60J/K
+ New Zealand
+New Zealand Military – 5 MH-60R in negotiation for purchase as of August 2025
+ Norway
+Norwegian Coast Guard – 6 MH-60R on order
+ South Korea
+Republic of Korea Navy – 8 S-70/UH-60P in service as of December 2018 with 12 MH-60R on order as of Dec. 2020.
+ Saudi Arabia
+Royal Saudi Navy – 1 MH-60R in use with 9 more on order as of December 2018
+ Singapore
+Republic of Singapore Air Force – 8 S-70 Seahawks in service as of December 2018
+ Spain
+Spanish Navy – 20 SH-60B/Fs in service with 8 MH-60Rs remaining on order
+ Taiwan (Republic of China)
+Republic of China Navy – 9 S-70C(M)-1 and 10 S-70C(M)-2 Thunderhawks in use as of December 2018
+ Thailand
+Royal Thai Navy – 6 S-70B and 2 MH-60S Seahawks
+ Turkey
+Turkish Naval Forces – 24 S-70 Seahawks in use as of December 2018
+ United States
+United States Navy – 526 HH/MH/SH-60 Seahawks in service as of December 2018
+
+
+== Specifications (SH-60B) ==
+
+Data from Brassey's World Aircraft & Systems Directory, Navy fact file, Sikorsky S-70B brochure Sikorsky MH-60R brochure, NATOPS Flight ManualGeneral characteristics
+Crew: 3–4
+Capacity: 5 passengers in cabin, slung load of 6,000 lb (2,700 kg) or internal load of 4,100 lb (1,900 kg) for B, F, and H models / 6,684 lb (3,032 kg) payload
+Length: 64 ft 8 in (19.71 m)
+Height: 17 ft 2 in (5.23 m)
+Empty weight: 15,200 lb (6,895 kg)
+Gross weight: 17,758 lb (8,055 kg) for ASW mission
+Max takeoff weight: 21,884 lb (9,926 kg)
+Powerplant: 2 × General Electric T700-GE-401C turboshaft engines, 1,890 shp (1,410 kW)  each for take-off
+Main rotor diameter:  53 ft 8 in (16.36 m)
+Main rotor area: 2,262.3 sq ft (210.17 m2) * Blade section: root: SC1095/SC1095R8; tip: Sikorsky SC1095
+Performance
+
+Maximum speed: 146 kn (168 mph, 270 km/h)
+Never exceed speed: 180 kn (210 mph, 330 km/h)
+Range: 450 nmi (520 mi, 830 km)
+Service ceiling: 12,000 ft (3,700 m)
+Rate of climb: 1,650 ft/min (8.4 m/s)
+Armament
+
+Up to two Mark 46 torpedoes or Mk 50 or Mk-54s or two 120 U.S. gal (454 L) fuel tanks for SH-60B and HH-60R and MH-60R
+AGM-114 Hellfire missile, 4 Hellfire missiles for SH-60B and HH-60H and MH-60R, 8 Hellfire missiles for MH-60S Block III.
+AGM-119 Penguin missile (being phased out),
+APKWS Advanced Precision Kill Weapon System,
+M60 machine gun or, M240 machine gun or GAU-16/A machine gun or GAU-17/A Minigun
+Rapid Airborne Mine Clearance System (RAMICS) using Mk 44 Mod 0 30 mm Cannon
+
+
+== See also ==
+
+List of United States Navy aircraft squadrons
+Related development
+
+Sikorsky S-70
+Sikorsky UH-60 Black Hawk
+Sikorsky HH-60 Pave Hawk
+Sikorsky HH-60 Jayhawk
+Mitsubishi H-60
+Piasecki X-49
+Sikorsky S-92/CH-148 Cyclone
+Aircraft of comparable role, configuration, and era
+
+Boeing-Vertol YUH-61
+Eurocopter AS565 Panther
+HAL Dhruv#Military variants
+Kaman SH-2G Super Seasprite
+Kamov Ka-27
+Harbin Z-20
+NHI NH90
+Westland Lynx
+Harbin Z-9
+AgustaWestland AW159 Wildcat
+MH-53E Sea Dragon
+
+Related lists
+
+List of Sikorsky S-70 Models
+List of helicopters
+List of active United States military aircraft
+List of military electronics of the United States
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Bibliography ===
+A1-H60CA-NFM-000 NATOPS Flight Manual Navy Model H-60F/H Aircraft
+Donald, David ed. "Sikorsky HH/MH/SH-60 Seahawk". Warplanes of the Fleet. AIRtime, 2004. ISBN 1-880588-81-1.
+Leoni, Ray D. Black Hawk, The Story of a World Class Helicopter. American Institute of Aeronautics and Astronautics, 2007. ISBN 978-1-56347-918-2.
+Tomajczyk, Stephen F. Black Hawk. MBI, 2003. ISBN 0-7603-1591-4.
+
+
+== External links ==
+
+MH-60R Seahawk page on LockheedMartin.com
+SH-60 fact file and SH-60 history page on US Navy site Archived 10 October 2008 at the Wayback Machine

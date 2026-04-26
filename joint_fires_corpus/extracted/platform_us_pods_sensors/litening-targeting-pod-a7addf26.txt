@@ -1,0 +1,204 @@
+The AN/AAQ-28 Litening is an advanced precision targeting pod operational with a wide variety of aircraft worldwide. Research and development of the Litening was first undertaken by Rafael Advanced Defense Systems' Missiles Division in Israel, with subsequent completion of Litening I for use in the Israeli Air Force (IAF).
+Litening significantly increases the combat effectiveness of the aircraft during day, night and under-the-weather conditions in the attack of ground and air targets with a variety of standoff weapons (i.e., laser-guided bombs, conventional bombs and GPS-guided weapons). The thousandth pod was sold in October 2010.
+In accordance with the Joint Electronics Type Designation System (JETDS), the "AN/AAQ-28" designation represents the 28th design of an Army-Navy airborne electronic device for infrared special equipment. The JETDS system also now is used to name all Department of Defense and some NATO electronic systems.
+
+
+== Features ==
+
+Litening is an integrated targeting pod that mounts externally to the aircraft. The pod contains a high-resolution, forward-looking infrared (FLIR) sensor that displays an infrared image of the target to the aircrew; it has a wide field of view search capability and a narrow field of view acquisition/targeting capability of battlefield-sized targets. The pod also contains a CCD camera used to obtain target imagery in the visible portion of the electromagnetic spectrum. An on-gimbal inertial navigation sensor establishes line-of-sight and automatic boresighting capability.
+The pod is equipped with a laser designator for precise delivery of laser guided munitions. A laser rangefinder provides information for various avionics systems, for example, navigation updates, weapon deliveries and target updates. The targeting pod includes an automatic target tracker providing fully automatic stabilized target tracking at altitudes, airspeeds and slant ranges consistent with tactical weapon delivery maneuvers. These features simplify the functions of target detection and recognition, and permit attack of targets with precision-guided weapons on a single pass.
+
+
+== Background ==
+The research and development program began at Rafael Advanced Defense Systems' Missiles Division in Israel, with subsequent completion of Litening I for use in the Israeli Air Force. In 1995 Northrop Grumman teamed with Rafael for further development and sales of the Litening pod, reaching Initial Operating Capability (IOC) the same year.
+
+
+=== Litening II/ER/AT ===
+Northrop Grumman and Rafael completed product improvements on the "Basic Pod" including a third generation FLIR, laser marker and software upgrades (Litening II) which was fielded beginning in 1999. The two companies subsequently replaced the "320x256" FLIR with a latest technology "640x512" FLIR. This pod, known as Litening ER, extended the target detection range and was fielded in 2001. The newest version, Litening AT, is in production and was fielded in 2003. It further extends target detection and recognition ranges, improves the target coordinate generation accuracy, and provides multi-target cueing.
+Litening AT features a plug-and-play bay configured to accept a wide variety of data-links and recorders. Plug and Play II data-link capability offers increased range, digital data recording and an option to incorporate secure, two-way communications over ultra-high frequency (UHF) radios. Litening's Plug and Play I, introduced in 2003, was the first data-link to be incorporated in a third generation targeting pod.
+
+
+=== Litening G4 ===
+Litening G4, which began to be delivered to U.S. forces in 2008, added new sensors for improved target identification and other advanced target recognition and identification features. The Litening G4 provides significant enhancements in terms of both recognition range and image quality due to Rafaels' AVP imaging capability. The G4's technologies include a full 1Kx1K FLIR and charge-coupled device, as well as short-wave infrared laser imaging sensors, color symbology, tracker improvement and enhanced zoom. The Litening Gen 4 technology and capability is also available in a kit form that allows users to upgrade their currently fielded Litening pods. The Royal Danish Air Force is the first international partner to take delivery of G4 pods. Rafael announced on the eve of DefExpo 2014 a large order for 150+ Litening targeting pods for the Indian Air Force’s combat aircraft fleet. Litening G4 pods have been chosen by the Indian Air Force for its frontline fighter aircraft, including the Su-30 MKI, MiG-29 and others.
+
+
+=== Litening SE ===
+Litening SE provides laser ranging and designation in support of weapon delivery, navigational functions, and recording and data-linking of generated imagery and data. This version includes a Plug-N-Play (PnP) III™ digital two-way, data link line-replaceable unit (LRU). As of October 2010, the pods were being delivered as part of the US Air Force’s Sniper Advanced Targeting Pod – Sensor Enhancement (ATP-SE) program.
+
+
+=== Litening III ===
+The Litening III, used on the IAF Tejas, Italian Air Force AMX, and RAF Typhoon aircraft, also provides still image capture for reconnaissance missions in addition to the targeting capabilities found on other models.
+
+
+=== RecceLite / RecceLite XR ===
+The RecceLite and RecceLite XR are gimballed versions of the Litening pod for use on drones such as the MQ-9 Reaper or directly integrated into a crewed aircraft. It incorporates multi-spectral cameras and C/X-band communication channels to transmit reconnaissance feeds. RecceLite XR incorporates the improvements from the Litening 5 pod.
+
+
+=== Litening 5 ===
+Litening 5 is the latest version of the pod introduced in 2019. It improves the resolution of the short and medium-wave infrared cameras and introduces a synthetic aperture radar with a 100 km (62 mi) range. In 2021, FlightGlobal reported the Litening 5 was being introduced to service on Saab JAS 39 Gripen and Eurofighter Typhoon aircraft.
+
+
+=== Future developments ===
+Rafael sees an increased market in the future because of the move to stealth platforms which must have targeting systems built in. In 2013 the company was developing a new model to compete for an F-35 Lightning II requirement. At that time, F-35's had the equivalent of a Lockheed Martin Sniper XR called the AN/AAQ-40 EOTS (Electro-Optical Targeting System) built in, and the Advanced EOTS with improved cameras. However, in 2020 the delivery to the Israeli Air Force of a prototype F-35I with the EOTS's apertures covered over fueled speculation that the F-35I would incorporate a version of the Litening 5 over the Advanced EOTS upgrade.
+
+
+== General characteristics ==
+Primary function: Navigation and infrared/electro-optical targeting
+Prime contractor: Rafael Corporation/Northrop Grumman.
+Length: 2.20 m (7.2 ft)
+Diameter: 40.6 cm (16.0 in)
+Weight: 208 kg (459 lb)
+Sensors: Infrared detector, CCD-TV camera, eye safe laser rangefinder and laser designator
+Sensor resolution: (Litening III)
+CCD-TV: 1K×1K
+FLIR: 640×480
+Introduction date: February 2000
+Unit cost: $1.4 million
+
+
+== Platforms ==
+
+A-10 Thunderbolt II
+AV-8B Harrier II
+B-52H Stratofortress
+F-14A/B/D Tomcat
+F-15D/E Eagle
+F-16 Fighting Falcon - Blocks 15/25/30/40/50
+F/A-18A/B/C/D Hornet
+F/A-18E/F Super Hornet
+F-4E AUP
+Su-30MKI Flanker-H
+Aero L-159 ALCA
+Tornado GR4
+HAL Tejas
+SEPECAT Jaguar
+Eurofighter Typhoon
+Saab JAS 39 Gripen
+AMX International AMX
+Northrop F-5
+MiG-21 LanceR
+Mirage 2000
+
+
+== Operators ==
+
+
+=== Current operators ===
+ Argentine Air Force
+
+F-16 Fighting Falcon (Northrop Grumman AN/AAQ-28(V)8 Litening G4)
+ Brazilian Air Force
+
+AMX (Rafael Litening III)
+KC-390 Millenium
+ Chilean Air Force
+
+F-16 Fighting Falcon (Rafael Litening III)
+ Colombian Aerospace Force
+
+IAI Kfir C10/C12
+ Czech Air Force
+
+JAS 39 Gripen (Rafael/Zeiss Optronics Litening III)
+ Royal Danish Air Force
+
+F-16 Fighting Falcon (Northrop Grumman AN/AAQ-28(V)8 Litening G4)
+ Finnish Air Force
+
+F/A-18 Hornet (Northrop Grumman Litening AT, as part of the MLU 2 upgrade program)
+ German Air Force
+Litening II pods supplied by Rafael/Zeiss Optronik joint venture
+Tornado (Rafael/Zeiss Optronics Litening probably upgraded to Litening III)
+Typhoon (Rafael/Zeiss Optronics Litening III)
+ Hellenic Air Force
+
+F-4E AUP
+ Hungarian Air Force
+
+JAS 39 Gripen (Rafael/Zeiss Optronics Litening III)
+ Indian Air Force
+
+Su-30MKI Flanker-H (Rafael Litening III)
+Tejas (Rafael Litening III, Rafael Litening 4I)
+Mirage 2000 (Rafael Litening III)
+MiG-29 Fulcrum (Rafael Litening III)
+ Israeli Air Force
+
+F-15I (Rafael Litening III)
+F-16C/D Fighting Falcon (Rafael Litening probably upgraded to Litening III)
+F-16I Sufa (Litening C4)
+ Italy
+
+ Italian Air Force
+AMX (Rafael Litening III)
+ Italian Navy
+AV-8B+ Harrier (Northrop Grumman AN/AAQ-28(V)2 Litening II upgraded to Northrop Grumman AN/AAQ-28(V)4 Litening AT Block 0)
+ Kazakh Air Defense Forces
+
+Su-27 Flanker (Rafael Litening III)
+ Royal Netherlands Air and Space Force
+
+F-16 Fighting Falcon (Northrop Grumman AN/AAQ-28(V)6 Litening AT Block 2)
+ Portuguese Air Force
+
+F-16 Fighting Falcon (Northrop Grumman AN/AAQ-28(V)6 Litening AT Block 2 upgraded to Northrop Grumman AN/AAQ-28(V)4 Litening AT Block 0)
+KC-390 Millenium (Northrop Grumman AN/AAQ-28(V)6 Litening AT Block 2 upgraded to Northrop Grumman AN/AAQ-28(V)4 Litening AT Block 02)
+ Romanian Air Force
+
+MiG-21 LanceR A (Rafael Litening)
+MiG-21 LanceR C (Rafael Litening)
+ Republic of Singapore Air Force
+
+F-16 Fighting Falcon (Rafael Litening III)
+ South African Air Force
+
+JAS 39 Gripen (Rafael/Zeiss Optronics Litening III)
+ Spanish Air and Space Force / Navy
+
+AV-8B+ Harrier(Northrop Grumman AN/AAQ-28(V)2 Litening II upgraded to Northrop Grumman AN/AAQ-28(V)4 Litening AT Block 0)
+EF-18 Hornet (Rafael/Tecnobit Litening III)
+Typhoon (tranche 3) (Litening III and V)
+ Swedish Air Force
+
+JAS 39 Gripen (Rafael/Zeiss Optronics Litening III)
+ Royal Thai Air Force
+
+JAS 39 Gripen (Rafael/Zeiss Optronics Litening III)
+ Royal Air Force
+Litening III RD & EF pods supplied by Ultra Electronics
+Typhoon (Rafael/Ultra Electronics Litening III EF)
+ United States
+
+ United States Air Force
+A-10C Thunderbolt II (Northrop Grumman AN/AAQ-28(V)3 Litening ER upgraded to Northrop Grumman AN/AAQ-28(V)4 Litening AT Block 0)
+B-52H Stratofortress (Northrop Grumman AN/AAQ-28(V)3 Litening ER upgraded to Northrop Grumman AN/AAQ-28(V)4 Litening AT Block 0)
+F-15E Strike Eagle (Northrop Grumman AN/AAQ-28(V)3 Litening ER upgraded to Northrop Grumman AN/AAQ-28(V)4 Litening AT Block 0)
+F-16 Fighting Falcon (Northrop Grumman AN/AAQ-28(V)1 Litening II, AN/AAQ-28(V)2 Litening II, AN/AAQ-28(V)2 Litening II+ upgraded to Northrop Grumman AN/AAQ-28(V)4 Litening AT Block 0)
+ United States Navy /  United States Marine Corps
+AV-8B+ Harrier (Northrop Grumman AN/AAQ-28(V)1 Litening II/AN/AAQ-28(V)2 Litening II/AN/AAQ-28(V)2 Litening II+ upgraded to Northrop Grumman AN/AAQ-28(V)4 Litening AT Block 0)
+F/A-18 Hornet (Northrop Grumman AN/AAQ-28(V)4 Litening AT Block 0)
+EA-6B Prowler (Northrop Grumman AN/AAQ-28(V)4 Litening AT Block 0)
+ Venezuelan Air Force
+
+F-16 Fighting Falcon (Rafael Litening)
+
+
+=== Former operators ===
+ Australia
+Royal Australian Air Force
+F/A-18A/B Hornet (Northrop Grumman AN/AAQ-28 Litening)
+
+
+== See also ==
+
+
+=== Comparable Systems ===
+Lockheed Martin Sniper XR targeting pod
+Thales Damocles
+
+
+=== Lists ===
+List of military electronics of the United States
+
+
+== References ==

@@ -1,0 +1,424 @@
+The Saab JAS 39 Gripen (Swedish: [ˈɡrǐːpɛn] ; lit. 'Griffin') is a light single-engine supersonic multirole fighter aircraft manufactured by the Swedish aerospace and defence company Saab AB.  The Gripen has a delta wing and canard configuration with relaxed stability design and fly-by-wire flight controls. Later aircraft are fully NATO interoperable. As of 2025, more than 280 Gripens of all models, A–F, have been delivered.
+In 1979, the Swedish government began development studies for "an aircraft for fighter, attack, and reconnaissance" (Swedish: ett jakt-, attack- och spaningsflygplan, hence "JAS") to replace the Saab 35 Draken and 37 Viggen in the Swedish Air Force. A new design from Saab was selected and developed as the JAS 39. The first flight took place in 1988, with delivery of the first serial-production airplane in 1993. It entered service with the Swedish Air Force in 1996. Upgraded variants, featuring more advanced avionics and adaptations for longer mission times, began entering service in 2003.
+To market the aircraft internationally, Saab formed partnerships and collaborative efforts with overseas aerospace companies. On the export market, early models of the Gripen achieved moderate success, with sales to nations in Central Europe, South Africa, and Southeast Asia. Bribery was suspected in some of these procurements, but Swedish authorities closed the investigation in 2009.
+A major redesign of the Gripen series, previously referred to as Gripen NG (Next Generation) or Super JAS, now designated JAS 39E/F Gripen began deliveries to the Swedish Air Force and Brazilian Air Force in 2019. Changes from the JAS C to JAS E include a larger fuselage, a more powerful engine, increased weapons payload capability, and new cockpit, avionics architecture, electronic warfare system and other improvements.
+
+
+== Development ==
+
+
+=== Origins ===
+In the late 1970s, Sweden sought to replace its aging Saab 35 Draken and Saab 37 Viggen. The Swedish Air Force required an affordable Mach 2 aircraft with good short-field performance for a defensive dispersed basing plan in the event of invasion; the plan included 800 m long by 17 m wide rudimentary runways that were part of the Bas 90 system. One goal was for the aircraft to be smaller than the Viggen while equalling or improving on its payload-range characteristics. Early proposals included the Saab 38, also called B3LA, intended as an attack aircraft and trainer, and the A 20, a development of the Viggen that would have capabilities as a fighter, attack and sea reconnaissance aircraft. Several foreign designs were also studied, including the General Dynamics F-16 Fighting Falcon, the McDonnell Douglas F/A-18 Hornet, the Northrop F-20 Tigershark and the Dassault Mirage 2000. Ultimately, the Swedish government opted for a new fighter to be developed by Saab.
+In 1979, the government began a study calling for a versatile platform capable of "JAS", standing for Jakt (air-to-air), Attack (air-to-surface), and Spaning (reconnaissance), indicating a multirole, or swingrole, fighter aircraft that could fulfill multiple roles during the same mission. Several Saab designs were reviewed, the most promising being "Project 2105" (redesignated "Project 2108" and, later, "Project 2110"), recommended to the government by the Defence Materiel Administration (Försvarets Materielverk, or FMV). In 1980, Industrigruppen JAS (IG JAS, "JAS Industry Group") was established as a joint venture by Saab-Scania, LM Ericsson, Svenska Radioaktiebolaget, Volvo Flygmotor and Försvarets Fabriksverk, the industrial arm of the Swedish armed forces.
+The preferred aircraft was a single-engine, lightweight single-seater, embracing fly-by-wire technology, canards, and an aerodynamically unstable design. The powerplant selected was the Volvo-Flygmotor RM12, a licence-built derivative of the General Electric F404−400; engine development priorities were weight reduction and lowering component count. On 30 June 1982, with approval from the Riksdag, the FMV issued contracts worth SEK 25.7 billion to Saab, covering five prototypes and an initial batch of 30 production aircraft. By January 1983, a Viggen was converted to a flying test aircraft for the JAS 39's intended avionics, such as the fly-by-wire controls. The JAS 39 received the name Gripen (griffin) via a public competition, which is the heraldry on Saab's logo.
+
+
+=== Testing, production, and improvements ===
+
+Saab rolled out the first Gripen on 26 April 1987, marking the company's 50th anniversary. Originally planned to fly in 1987, the first flight was delayed by 18 months due to issues with the flight control system. On 9 December 1988, the first prototype (serial number 39-1) took its 51-minute maiden flight with pilot Stig Holmström at the controls. During the test programme, concern surfaced about the aircraft's avionics, specifically the fly-by-wire flight control system (FCS), and the relaxed stability design. On 2 February 1989, this issue led to the crash of the prototype during an attempted landing at Linköping; the test pilot Lars Rådeström walked away with a broken elbow. The cause of the crash was identified as pilot-induced oscillation, caused by problems with the FCS's pitch-control routine.
+In response to the crash, Saab and US firm Calspan introduced software modifications to the aircraft. A modified Lockheed NT-33A was used to test these improvements, which allowed flight testing to resume 15 months after the accident. On 8 August 1993, production aircraft 39102 was destroyed in an accident at an aerial display for the Stockholm Water Festival. Test pilot Lars Rådeström lost control of the aircraft during a roll at low altitude when the aircraft stalled, forcing him to eject. Saab later found the problem was high amplification of the pilot's quick and significant stick command inputs. The ensuing investigation and flaw correction further delayed test flying by several months, resuming in December 1993.
+The first order included an option for another 110, which was exercised in June 1992. Batch II consisted of 96 one-seat JAS 39As and 14 two-seat JAS 39Bs. The JAS 39B variant is 66 cm (26 in) longer than the JAS 39A to accommodate a second seat, which also necessitated the deletion of the cannon and a reduced internal fuel capacity. By April 1994, five prototypes and two series-production Gripens had been completed; but a beyond-visual-range missile (BVR) had not yet been selected. A third batch was ordered in June 1997, composed of 50 upgraded single-seat JAS 39Cs and 14 JAS 39D two-seaters, known as 'Turbo Gripen', with NATO compatibility for exports. Batch III aircraft, delivered between 2002 and 2008, possess more powerful and updated avionics, in-flight refuelling capability via retractable probes on the aircraft's starboard side, and an on-board oxygen-generating system (OBOGS) for longer duration missions. In-flight refuelling was tested via a specially equipped prototype (39‐4) used in successful trials with a VC10 from the Royal Air Force in 1998.
+
+
+=== Teaming agreements ===
+
+During the 1995 Paris Air Show, Saab Military Aircraft and British Aerospace (BAe, now BAE Systems) announced the formation of the joint-venture company Saab-BAe Gripen AB with the goal of adapting, manufacturing, marketing and supporting Gripen worldwide. The deal involved the conversion of the A and B series aircraft to the "export" C and D series, which developed the Gripen for compatibility with NATO standards. This co-operation was extended in 2001 with the formation of Gripen International to promote export sales. In December 2004, Saab and BAE Systems announced that BAE was to sell a large portion of its stake in Saab, and that Saab would take full responsibility for marketing and export orders of the Gripen. In June 2011, Saab announced that an internal investigation revealed evidence of acts of corruption by BAE Systems, including money laundering in South Africa, one of the Gripen's customers.
+On 26 April 2007, Norway signed a NOK150 million joint-development agreement with Saab to co-operate in the development programme of the Gripen, including the integration of Norwegian industries in the development of future versions of the aircraft. In June of the same year, Saab also entered an agreement with Thales Norway A/S concerning the development of communications systems for the Gripen fighter. This order was the first awarded under the provisions of the Letter of Agreement signed by the Norwegian Ministry of Defence and Gripen International in April 2007. As a result of the United States diplomatic cables leak in 2010, it was revealed that US diplomats had become concerned with co-operation between Norway and Sweden on the topic of the Gripen, and had sought to exert pressure against a Norwegian purchase of the aircraft.
+In December 2007, as part of Gripen International's marketing efforts in Denmark, a deal was signed with Danish technology supplier Terma A/S that let them participate in an Industrial Co-operation programme over the next 10–15 years. The total value of the programme was estimated at over DKK10 billion, and was partly dependent on a procurement of the Gripen by Denmark. Subsequently, Denmark elected to procure the F-35 Joint Strike Fighter.
+
+
+=== Controversies and scandals ===
+Developing an advanced multi-role fighter was a major undertaking for Sweden. The predecessor 37 Viggen had been criticized for occupying too much of Sweden's military budget and was branded "a cuckoo in the military nest" by critics as early as 1971. At the 1972 party congress of the Socialdemokraterna, the dominant party in Swedish politics since the 1950s, a motion was passed to stop any future projects to develop advanced military aircraft. In 1982, the Gripen project passed in the Riksdag by a margin of 176 for and 167 against, with the entire Social Democratic party voting against the proposal due to demands for more studies. A new bill was introduced in 1983 and a final approval was given in April 1983 with the condition that the project was to have a predetermined fixed-price contract, a decision that would later be criticized as unrealistic due to later cost overruns.
+According to Annika Brändström, in the aftermath of the 1989 and 1993 crashes, the Gripen risked a loss of credibility and the weakening of its public image. There was public speculation that failures to address technical problems exposed in the first crash had directly contributed to the second crash, which thus had been avoidable. Brändström observed that media elements had called for greater public accountability and explanation of the project; ill-informed media analysis had also distorted public knowledge of the Gripen. The sitting Conservative government quickly endorsed and supported the Gripen – Minister of Defense Anders Björck issued a public reassurance that the project was very positive for Sweden. In connection to the Gripen's marketing efforts to multiple countries, including South Africa, Austria, the Czech Republic and Hungary, there were reports of widespread bribery and corruption by BAE Systems and Saab. In 2007, Swedish journalists reported that BAE had paid bribes equivalent to millions of dollars. Following criminal investigations in eight countries, only one individual in Austria, Alfons Mensdorf-Pouilly, was prosecuted for bribery. The scandal tarnished the international reputation of the Gripen, BAE Systems, Saab, and Sweden.
+
+
+=== Operational costs ===
+The Gripen's cost has been subject to frequent attention and speculation. Price of purchase is what receives most attention during the procurement process, but over the lifetime of an aircraft system the operating costs will take the larger part of the total budget. It is not uncommon that pilots and aircraft remain on the ground because the allocated funds for training have run out. Without sufficient practice, pilots cannot use the abilities of the aircraft to their full potential, which means a state of the art aircraft with poorly trained pilots can be expected to perform worse than trained pilots in slightly less capable aircraft.
+In 2008, Saab announced reduced earnings for that year, partly attributing this to increased marketing costs for the aircraft. In 2008, after Norway said its evaluation found the F-35A would cost them less than the Gripen NG, Saab disputed their cost calculations as overestimates and in excess of real world performance with existing operators. A 2007 report by the European Union Institute for Security Studies stated the total research and development costs of Gripen were €1.84 billion. According to a study by Jane's Information Group in 2012, the Gripen's operational cost was the lowest among several modern fighters; it was estimated at $4700 per flight hour. The Swedish Ministry of Defense estimated the cost of the full system, comprising 60 Gripen E/F, at SEK 90 billion distributed over the period 2013–42. The Swedish Armed Forces estimated that maintaining 100 C/D-model aircraft until 2042 would cost SEK 60 billion (€6.6 billion in 2013), while buying aircraft from a foreign supplier would cost SEK 110 billion (€12.1 billion). In 2023 Aviation Week on Behalf of SAAB conducted a study that found the Gripen C/D costs $20643 ($10815 maintenance and $9828 operations) per hour and the E/F $22174 per hour ($12200 maintenance and $9974 operations).
+
+
+=== JAS 39E/F and other developments ===
+
+A two-seat aircraft, designated "Gripen Demo", was ordered in 2007 as a testbed for various upgrades. It was powered by the General Electric F414G, a development of the Boeing F/A-18E/F Super Hornet's engine. The Gripen NG's maximum takeoff weight was increased from 14000 to 16000 kg (30900–35300 lb), internal fuel capacity was increased by 40 per cent by relocating the undercarriage, which also allowed for two additional hardpoints be added on the fuselage underside. Its combat radius was 1300 kilometres (810 mi) when carrying 6 air-to-air missiles (4 RR + 2 IR) and external tanks. The PS-05/A radar is replaced by the new Raven ES-05 active electronically scanned array (AESA) radar, which is based on the Vixen AESA radar family from Selex ES (since 2016 Finmeccanica, then Leonardo S.p.A.). The Gripen Demo's maiden flight was conducted on 27 May 2008. On 21 January 2009, the Gripen Demo flew at Mach 1.2+ at 28000 ft (8540 m) without reheat to test its supercruise capability. The Gripen Demo served as a basis for the Gripen E/F, also referred to as the Gripen NG (Next Generation) and MS (Mission System) 21.
+Saab studied a variant of the Gripen capable of operating from aircraft carriers in the 1990s. In 2009, it launched the Sea Gripen project in response to India's request for information on a carrier-based aircraft. Brazil may also require new carrier aircraft. Following a meeting with Ministry of Defence (MoD) officials in May 2011, Saab agreed to establish a development center in the UK to expand on the Sea Gripen concept. In 2013, Saab's Lennart Sindahl stated that development of an optionally manned Gripen E capable of flying unmanned operations was being explored by the firm; further development of optionally manned and carrier versions would require customer commitment. On 6 November 2014, the Brazilian Navy expressed interest in a carrier-based Gripen.
+In 2010, Sweden awarded Saab a four-year contract to improve the Gripen's radar and other equipment, integrate new weapons, and lower its operating costs. In June 2010, Saab stated that Sweden planned to order the Gripen NG, designated JAS 39E/F, and was to enter service in 2017 or earlier dependent on export orders. On 25 August 2012, following Switzerland's intention to buy 22 of the E/F variants, Sweden announced it planned to buy 40–60 Gripen E/Fs. On 17 January 2013, the Swedish government decided to purchase 60 Gripen Es. Subsequent to a national referendum in 2014 Switzerland decided not to procure replacement fighters and postponed their procurement process.
+In July 2013, assembly began on the first pre-production Gripen E. Originally 60 JAS 39Cs were to be retrofitted as JAS 39Es by 2023, but this was revised to Gripen Es having new-built airframes and some reused parts from JAS 39Cs. In March 2014, Saab revealed the detailed design and indicated plans to receive military type certification in 2018. The first Gripen E was rolled out on 18 May 2016. Saab delayed the first flight from 2016 to 2017 to focus on civilian-grade software certification; high speed taxi tests began in December 2016. In September 2015, Saab Aeronautics head Lennart Sindahl stated that an Electronic Warfare version of the Gripen F two-seater could be developed. On 15 June 2017, Saab completed the Gripen E's first flight. By May 2018, the Gripen E had attained supersonic flight and was to commence load tests. On 24 November 2021, Saab announced that the first six Gripen Es were ready to be delivered to the Swedish and Brazilian air forces. The flight test programme with pre-production Gripen Es continued even after initial deliveries to both the Swedish and Brazilian Air Forces.
+
+
+== Design ==
+
+
+=== Overview ===
+
+The Gripen is a multirole fighter aircraft, intended as a light-weight and agile aerial platform with advanced, highly adaptable avionics. It has canard control surfaces that contribute a positive lift force at all speeds, while the generous lift from the delta wing compensates for the rear stabiliser producing negative lift at high speeds, increasing induced drag. Being intentionally unstable and employing digital fly-by-wire flight controls to maintain stability removes many flight restrictions, improves manoeuvrability, and reduces drag. The Gripen also has good short takeoff performance, being able to maintain a high sink rate and strengthened to withstand the stresses of short landings. The aircraft is fitted with retractable tricycle landing gear, with a double-wheeled nose gear and single main wheels. A pair of air brakes are located on the sides of the rear fuselage; the canards also angle downward to act as air brakes and decrease landing distance. It is capable of flying at a 70–80 degrees angle of attack.
+To enable the Gripen to have a long service life, roughly 50 years, Saab designed it to have low maintenance requirements. Major systems such as the RM12 engine and PS-05/A radar are modular to reduce operating cost and increase reliability. The Gripen was designed to be flexible, so that newly developed sensors, computers, and armaments could be integrated as technology advances. The aircraft was estimated to be roughly 67% sourced from Swedish or European suppliers and 33% from the US.
+One key aspect of the Gripen programme that Saab have been keen to emphasize has been technology-transfer agreements and industrial partnerships with export customers. The Gripen is typically customized to customer requirements, enabling the routine inclusion of local suppliers in the manufacturing and support processes. A number of South African firms provide components and systems – including the communications suite and electronic warfare systems – for the Gripens operated by the South African Air Force. Operators also have access to the Gripen's source code and technical documentation, allowing for upgrades and new equipment to be independently integrated. Some export customers intend to domestically assemble the Gripen; it has been proposed that Brazilian aerospace manufacturer Embraer may produce Gripens for other export customers as well.
+
+
+=== Avionics and sensors ===
+All of the Gripen's avionics are fully integrated using five MIL-STD-1553B digital data buses, in what is described as "sensor fusion". The total integration of the avionics makes the Gripen a "programmable" aircraft, allowing software updates to be introduced over time to increase performance and allow for additional operational roles and equipment. The Ada programming language was adopted for the Gripen, and is used for the primary flight controls on the final prototypes from 1996 onwards and all subsequent production aircraft. The Gripen's software is continuously being improved to add new capabilities, as compared to the preceding Viggen, which was updated only in an 18-month schedule.
+Much of the data generated from the onboard sensors and by cockpit activity is digitally recorded throughout the length of an entire mission. This information can be replayed in the cockpit or easily extracted for detailed post-mission analysis using a data transfer unit that can also be used to insert mission data to the aircraft. The Gripen, like the Viggen, was designed to operate as one component of a networked national defence system, which allows for automatic exchange of information in real-time between Gripen aircraft and ground facilities. According to Saab, the Gripen features "the world's most highly developed data link". The Gripen's Ternav tactical navigation system combines information from multiple onboard systems such as the air data computer, radar altimeter, and GPS to continuously calculate the Gripen's location.
+The Gripen entered service using the PS-05/A pulse-Doppler multi-mode X band radar, developed by Ericsson and GEC-Marconi, which is based on the latter's advanced Blue Vixen radar for the Sea Harrier that also served as the basis for the Eurofighter's CAPTOR radar. The all-weather radar is capable of locating and identifying targets 120 km (74 mi) away, and automatically tracking multiple targets in the upper and lower spheres, on the ground and sea or in the air. It can guide several beyond visual range air-to-air missiles to multiple targets simultaneously. Saab stated the PS-05/A is able to handle all types of air defence, air-to-surface, and reconnaissance missions, and is developing a Mark 4 upgrade to it. The Mark 4 version has a 150% increase in high-altitude air-to-air detection ranges, detection and tracking of smaller targets at current ranges, 140% improvement in air-to-air mode at low altitude, and full integration of modern weapons such as the AIM-120C-7 AMRAAM, AIM-9X Sidewinder, and MBDA Meteor missiles.
+
+The future Gripen E/F will use a new AESA radar, Raven ES-05, based on the Vixen AESA radar family from Selex ES. Among other improvements, the new radar is to be capable of scanning over a greatly increased field of view and improved range. In addition, the new Gripen integrates the Skyward-G Infra-red search and track (IRST) sensor, which is capable of passively detecting thermal emissions from air and ground targets in the aircraft's vicinity. The sensors of the Gripen E are claimed to be able to detect low radar cross-section (RCS) targets at beyond visual range. Targets are tracked by a "best sensor dominates" system, either by onboard sensors or through the Transmitter Auxiliary Unit (TAU) data link function of the radar.
+
+
+=== Cockpit ===
+
+The primary flight controls are compatible with the Hands On Throttle-And-Stick (HOTAS) control principle – the centrally mounted stick, in addition to flying the aircraft, also controls the cockpit displays and weapon systems. A triplex, digital fly-by-wire system is employed on the Gripen's flight controls, with a mechanical backup for the throttle. Additional functions, such as communications, navigational and decision support data, can be accessed via the Up Front Control Panel, directly above the central cockpit display. The Gripen includes the EP-17 cockpit display system, developed by Saab to provide pilots with a high level of situational awareness and reduces pilot workload through intelligent information management. The Gripen features a sensor fusion capability, information from onboard sensors and databases is combined, automatically analysed, and useful data is presented to the pilot via a wide field-of-view Head-Up Display, three large multi-function colour displays, and optionally a Helmet Mounted Display System (HMDS).
+
+Of the three multi-function displays (MFD), the central display is for navigational and mission data, the display to the left of the center shows aircraft status and electronic warfare information, and the display to the right of the center has sensory and fire control information. In two-seat variants, the rear seat's displays can be operated independently of the pilot's own display arrangement in the forward seat. Saab has promoted this capability as being useful during electronic warfare and reconnaissance missions, and while carrying out command and control activities. In May 2010, Sweden began equipping their Gripens with additional onboard computer systems and new displays. The MFDs are interchangeable and designed for redundancy in the event of failure, flight information can be presented on any of the displays.
+Saab and BAE developed the Cobra HMDS for use in the Gripen, based on the Striker HMDS used on the Eurofighter. By 2008, the Cobra HMDS was fully integrated on operational aircraft, and is available as an option for export customers; it has been retrofitted into older Swedish and South African Gripens. The HMDS provides control and information on target cueing, sensor data, and flight parameters, and is optionally equipped for night time operations and with chemical/biological filtration. All connections between the HMDS and the cockpit were designed for rapid detachment, for safe use of the ejection system.
+
+
+=== Engine ===
+
+All in-service Gripens as of January 2014 are powered by a Volvo RM12 turbofan engine (now GKN Aerospace Engine Systems), a licence-manufactured derivative of General Electric F404, fed by a Y-duct with splitter plates; changes include increased performance and improved reliability to meet single engine use safety criteria, as well as a greater resistance to bird strike incidents. Several subsystems and components were also redesigned to reduce maintenance demands. By November 2010, the Gripen had accumulated over 143000 flight hours without a single engine-related failure or incident; Rune Hyrefeldt, head of Military Program management at Volvo Aero, stated: "I think this must be a hard record to beat for a single-engine application".
+Like the Gripen, test models of the Dassault Rafale used F404 engines until replaced by the Snecma M88-2 engine on production aircraft.  A JAS 39C variant powered by a new 80–93 kN (8,200–9,500 kgf; 18,000–21,000 lbf) thrust SNECMA M88-3 engine was proposed. The M88-3 variant would have a new low pressure compressor (LPC) with a new variable stator vane stage and an increased mass flow of 73.4 kg/s (9710 lb/min).
+The JAS 39E and F variants under development are to adopt the F414G powerplant, a variant of the General Electric F414. The F414G can produce 20% greater thrust than the current RM12 engine, enabling the Gripen to supercruise at a speed of Mach 1.1 while carrying an air-to-air combat payload. In 2010, Volvo Aero stated it was capable of further developing its RM12 engine to better match the performance of the F414G, and claimed that developing the RM12 would be a less expensive option. Prior to Saab's selection of the F414G, the Eurojet EJ200 had also been under consideration for the Gripen; proposed implementations included the use of thrust vectoring.
+
+
+=== Equipment and armaments ===
+The Gripen is compatible with a number of different armaments, beyond the aircraft's single 27 mm Mauser BK-27 cannon (omitted on the two-seat variants), including air-to-air missiles such as the AIM-9 Sidewinder, air-to-ground missiles such as the AGM-65 Maverick, and anti-ship missiles such as the RBS-15. In 2010, the Swedish Air Force's Gripen fleet completed the MS19 upgrade process, enabling compatibility with a range of weapons, including the long-range MBDA Meteor missile, the short-range IRIS-T missile and the GBU-49 laser-guided bomb. Speaking on the Gripen's selection of armaments, Saab's campaign director for India, Edvard de la Motte stated that: "If you buy Gripen, select where you want your weapons from: Israel, Sweden, Europe, US ... South America. It's up to the customer".
+In flight, the Gripen is typically capable of carrying up to 6500 kg (14330 lb) of assorted armaments and equipment. Equipment includes external sensor pods for reconnaissance and target designation, such as Rafael's LITENING targeting pod, Saab's Modular Reconnaissance Pod System, or Thales' Digital Joint Reconnaissance Pod. The Gripen has an advanced and integrated electronic warfare suite, capable of operating in an undetectable passive mode or to actively jam hostile radar; a missile approach warning system passively detects and tracks incoming missiles. In November 2013, it was announced that Saab will be the first to offer the BriteCloud expendable Active jammer developed by Selex ES. In June 2014, the Enhanced Survivability Technology Modular Self Protection Pod, a defensive missile countermeasure pod, performed its first flight on the Gripen.
+Saab describes the Gripen as a "swing-role aircraft", stating that it is capable of "instantly switching between roles at the push of a button". The human/machine interface changes when switching between roles, being optimized by the computer in response to new situations and threats. The Gripen is also equipped to use a number of different communications standards and systems, including SATURN secure radio, Link 16, ROVER, and satellite uplinks. Equipment for performing long range missions, such as an air-to-air refuelling probe and Onboard Oxygen Generation System (OBOGS), was integrated on the Gripen C/D.
+
+
+=== Usability and maintenance ===
+
+During the Cold War, the Swedish Armed Forces were to be ready to defend against a possible invasion. This scenario required defensive force dispersal of combat aircraft in the Bas 90 system to maintain an air defence capacity. Thus, a key design goal during the Gripen's development was the ability to operate from snow-covered landing strips of only 500 metres (1600 ft); furthermore, a short-turnaround time of just ten minutes, during which a team composed of a technician and five conscripts would be able to re-arm, refuel, and perform routine inspections and servicing inside that time window before returning to flight for air-to-air missions. For air-to-ground missions this turnaround time using the same resources is slightly longer at twenty minutes.
+During the design process, great priority was placed on facilitating and minimizing aircraft maintenance; in addition to a maintenance-friendly layout, many subsystems and components require little or no maintenance at all. Aircraft are fitted with a Health and Usage Monitoring System (HUMS) that monitors the performance of various systems, and provides information to technicians to assist in servicing it. Saab operates a continuous improvement programme; information from the HUMS and other systems can be submitted for analysis. According to Saab, the Gripen provides "50% lower operating costs than its best competitor".
+A 2012 Jane's Aerospace and Defense Consulting study compared the operational costs of a number of modern combat aircraft, concluding that Gripen had the lowest cost per flight hour (CPFH) when fuel used, pre-flight preparation and repair, and scheduled airfield-level maintenance together with associated personnel costs were combined. The Gripen had an estimated CPFH of US$4700 whereas the next lowest, the F-16 Block 40/50, had a 49% higher CPFH at $7000.
+In 2024, a study was begun to see whether a Gripen could launch a small satellite into low earth orbit, building on previous research in this area. It is more common for commercial airliners to be used for this purpose but the Eurofighter Typhoon has also been studied for this task (see also ASM-135 ASAT).
+
+
+== Operational history ==
+
+
+=== Current users ===
+
+
+==== Sweden ====
+
+The Swedish Air Force placed a total order for 204 Gripens in three batches. The first delivery occurred on 8 June 1993, when 39102 was handed over to the Flygvapnet during a ceremony at Linköping; the last of the first batch was handed over on 13 December 1996. The Air Force received its first Batch II example on 19 December 1996.  Instead of the fixed-price agreement of Batch I, Batch II aircraft were paid as a "target price" concept: any cost underruns or overruns would be split between FMV and Saab.
+The JAS 39 entered service with the Skaraborg Wing (F 7) on 1 November 1997. The final Batch III aircraft was delivered to FMV on 26 November 2008. This was accomplished at 10% less than the agreed-upon price for the batch, putting the JAS 39C flyaway cost at under US$30 million. This batch of Gripens was equipped for in-flight refuelling from specially equipped TP84s. In 2007, a programme was started to upgrade 31 of the air force's JAS 39A/B fighters to JAS 39C/Ds. The SwAF had a combined 134 JAS 39s in service in January 2013. In March 2015, the Swedish Air Force received its final JAS 39C.
+On 29 March 2011, the Swedish parliament approved the Swedish Air Force for a 3-month deployment to support the UN-mandated no-fly zone over Libya. Deployment of eight Gripens, ten pilots, and other personnel began on 2 April. On 8 June 2011, the Swedish government announced an agreement to extend the deployment for five of the Gripens. By October 2011, Gripens had flown more than 650 combat missions, almost 2000 flight hours, and delivered approximately 2000 reconnaissance reports to NATO. Journalist Tim Hepher suggested that the Libyan operations might stimulate sales of the Gripen and other aircraft.
+
+In November 2012, Lieutenant Colonel Lars Helmrich of the Swedish Air Force testified to the Riksdag regarding the Gripen E. He stated that the then-current version of the Gripen would be outdated in air-to-air combat by 2020. With 60 Gripens having been judged to be the minimum required to defend Swedish Airspace, the Swedish Air Force wanted to have 60–80 Gripens upgraded to the E/F standard by 2020.
+On 25 August 2012, the Swedish government announced that 40–60 JAS 39E/F Gripens were expected to be procured and in service by 2023. On 11 December 2012, the Riksdag approved the purchase of 40 to 60 JAS 39E/Fs with an option to cancel if at least 20 aircraft are not ordered by other customers. on 17 January 2013, the government approved the deal for 60 JAS 39Es to be delivered between 2018 and 2027. On 3 March 2014, the Swedish defence minister stated that another 10 JAS 39Es might be ordered; this was later confirmed by the government.
+There are also plans to keep some of the Gripen C/D active after 2025. This was recommended by the Swedish defence advisory committee in 2019.
+In 2006, Swedish Gripen aircraft participated in Red Flag – Alaska, a multinational air combat exercise hosted by the United States Air Force. Gripens flew simulated combat sorties against F-16 Block 50, Eurofighter Typhoon and F-15C and scored ten kills, including a Eurofighter Typhoon and five F-16 Block 50s on day one of the exercises with no losses. Three Swedish Gripen C also participated in a war game against five Royal Norwegian Air Force F-16 Block 50 fighters in Sweden. Swedish Gripen Cs and Norwegian F-16s flew three combat sorties; Gripen Cs scored five kills in each sortie against Norwegian F-16s, and on the last sortie an F-16 scored a kill against a Gripen.
+In December 2022 Sweden ordered an upgrade package from Saab for a number of their Gripen C/D fighters. The upgrade includes new engines, a new radar and a new electronic warfare system. The order value is approximately SEK 3.5 billion and the contract period is 2023–29. In September 2023 Swedish FMV and Saab signed additional orders for the Gripen E and C/D versions. The new orders enables the C/D version to continue serving after 2030 parallel with the introduction of the E.
+
+In May 2025 the Gripen E was the first fighter aircraft to be piloted by an Artificial intelligence. A model named Centaur flew three sorties to demonstrate Beyond Visual Range (BVR) combat capabilities.
+
+
+==== Brazil ====
+In October 2008, Brazil selected three finalists for its F-X2 fighter programme: the Dassault Rafale B/C, the Boeing F/A-18E/F Super Hornet, and the Gripen NG. The Brazilian Air Force (FAB) initially planned to procure at least 36 and possibly up to 120 later, to replace its Northrop F‐5EM and Dassault Mirage 2000C aircraft. In February 2009, Saab submitted a tender for 36 Gripen NGs. In early 2010, the Brazilian Air Force's final evaluation report reportedly placed the Gripen ahead, a decisive factor being lower unit cost and operational costs. After delays due to financial constraints, on 18 December 2013, President Dilma Rousseff announced the Gripen NG's selection. Key factors were domestic manufacturing opportunities, full Transfer of Technology (ToT), participation in its development, and potential exports to Africa, Asia and Latin America; Argentina and Ecuador are interested in procuring Gripens via Brazil, and Mexico is considered an export target. Another factor was the distrust of the US due to the NSA surveillance scandal. The Gripen is not immune to foreign pressure: the UK may use their 30% component percentage in the Gripen to veto an Argentinian sale over the Falkland Islands dispute; thus Argentina is considering other fighters instead.
+
+On 24 October 2014, Brazil and Sweden signed a 39.3 billion SEK (US$5.44 bn, R$13 bn) contract for 28 Gripen E (single-seat version) and eight Gripen F (dual-seat version) fighters for delivery from 2019 to 2024 and maintained until 2050; the Swedish government will provide a subsidized 25-year, 2.19% interest rate loan for the buy. At least 15 aircraft are to be assembled in Brazil, Brazilian companies shall be involved in its production; Gripen Fs are to be delivered later. An almost US$1 billion price increase since selection is due to developments requested by Brazil, such as the "Wide Area Display" (WAD), a panoramic 19 by 8 inches touchscreen display. The compensation package is set at US$9 billion, or 1.7 times the order value. The Brazilian Navy is interested in the Gripen Maritime to replace its Douglas A-4KU Skyhawk carrier-based fighters. In 2015, Brazil and Sweden finalised the deal to develop the Gripen F, designated F-39 by Brazil.
+The first Brazilian F-39E Gripen flight took place on 26 August 2019, from Saab's facility in Linköping, Sweden. It was handed over to the Brazilian Air Force on 10 September 2019 for flight testing. The fighter arrived in Brazil on 20 September 2020, and then was transported by land to Navegantes International Airport. On 24 September, it took off to the Embraer unit in Gavião Peixoto, in São Paulo state, for the test program for flight control systems, weapon integration, communication systems and others. The fighters will be part of the 1st Air Defense Group (1º GDA), based at the Anápolis Air Force Base. The deliveries of operational fighters will begin in 2021. According to Saab executive Eddy De La Motte, the first F-39F will be delivered in 2023. In 2021, Brazil started F-39E supersonic flight tests at high altitude above 16000 feet. According to Saab executive Mikael Franzén, Brazil will start receiving production aircraft with IRST from November 2021. The service has a requirement for 108 Gripens, to be delivered in three batches.
+
+On 1 February 2022, the Brazilian Air Force commander Carlos de Almeida Baptista Júnior told newspaper Folha de S. Paulo that Brazil is in initial planning phase for negotiations with Saab for a new batch of 30 Gripen E/Fs, "our capacity planning takes us today, by our employment assumptions, to 66 Gripens in operation"; this planning phase is expected to be finished by mid-2022. The negotiation and Brazilian intention was confirmed by the Saab's chief executive Håkan Buskhe in February 2019. The confirmation comes after media rumors that the service saw the Lockheed Martin F-35 as an ideal candidate to continue the modernization process in the coming years, after Gripen's recent failed bids in Finland and Switzerland, rumors that Baptista denied. On 1 April 2022, Brazil received the first two series produced F-39E. On 22 April 2022, the Brazilian Air Force announced the purchase of four more Gripens E/F for the first batch, totaling 40 aircraft, and the ongoing studies for a second batch. On 23 May 2022, Commander Baptista Júnior announced at a press conference that the second batch will consist of 26 Gripens, priced around US$85 million per unit (US$2.2 billion); these new units plus the four ordered in April 2022 will be assembled at the Embraer factory in Gavião Peixoto. On 1 August 2022, the Saab's chief executive Micael Johansson, confirmed that Brazil has initiated formal negotiations for 26 more Gripen fighters.
+
+Saab and Embraer inaugurated the production line for Gripen E in Brazil on 9 May 2023. On 23 November 2023, the newspaper Folha de S. Paulo reported ongoing negotiations between the Brazilian and Swedish governments, for a deal involving 14 more Gripens for the Brazilian Air Force, in exchange of four Embraer C-390 Millennium transport aircraft for the Swedish Air Force, according to sources, the deal will be finalized in 2024. On 9 November 2024, the Brazilian Minister of Defence José Múcio signed a letter of intent, to increase the contract with Saab by 25%, increasing to 45 Gripens for the FAB. In exchange, the Swedish Air Force announced the selection and the beginning of negotiations to procure the Embraer C-390 Millenium airlifter.
+On 16 September 2025, the FAB commander Marcelo Kanitz Damasceno and the Swedish Minister of Defence Pål Jonson announced negotiations for six more Gripen E and a batch of 12 second-hand C/Ds aircraft of the Swedish Air Force inventory.
+The 12th and first domestically produced unit for Brazil was officially presented on 25 March 2026.
+
+
+==== Czech Republic ====
+
+When the Czech Republic became a NATO member in 1999, it needed to replace its existing Soviet-built MiG-21 fleet with aircraft compatible with NATO standards. In 2000, the Czech Republic began evaluating a number of aircraft, including the F-16, F/A-18, Mirage 2000, Eurofighter Typhoon and the Gripen. One major procurement condition was the industrial offset agreement, set at 150% of the expected purchase value. In December 2001, having reportedly been swayed by Gripen International's generous financing and offset programme, the Czech government announced that the Gripen had been selected. In 2002, the deal was delayed until after parliamentary elections had taken place; alternative means of air defence were also studied, including leasing the aircraft.
+
+On 14 June 2004, it was announced that the Czech Republic was to lease 14 Gripens, modified to comply with NATO standards. The agreement also included the training of Czech pilots and technicians in Sweden. The first six were delivered on 18 April 2005. The lease was for an agreed period of 10 years at a cost of €780 million; the 14 ex-Swedish Air Force aircraft included 12 single-seaters and two JAS 39D two-seat trainers. In September 2013, the Defence and Security Export Agency announced that a follow-up agreement with the Czech Republic had been completed to extend the lease by 14 years, until 2029; leased aircraft shall also undergo extensive modernization, including the adoption of new datalinks. The lease also has an option of eventually acquiring the fighters outright. In 2014, the lease was extended to 2027 and the Saab service contract was extended to 2026.
+In November 2014, Czech Air Force commander General Libor Štefánik proposed leasing a further six Gripens due to Russia's deteriorating relationship with the West; a Ministry of Defence spokesperson stated that the notion was the commander's personal vision and fleet expansion was not on the agenda for years to come. In 2015, the service decided to upgrade its fleet to the MS20 configuration. The MS20 upgrade was completed in 2018.
+
+
+==== Hungary ====
+
+Following Hungary's membership of NATO in 1999, there were several proposals to achieve a NATO-compatible fighter force. Considerable attention went into studying second-hand aircraft options as well as modifying the nation's existing MiG-29 fleet. In 2001, Hungary received several offers of new and used aircraft from various nations, including Sweden, Belgium, Israel, Turkey, and the US. Although the Hungarian government initially intended to procure the F-16, in November 2001 it was in the process of negotiating a 10-year lease contract for 12 Gripen aircraft, with an option to purchase the aircraft at the end of the lease period.
+As part of the procurement arrangements, Saab had offered an offset deal valued at 110 per cent of the cost of the 14 fighters. Initially, Hungary had planned to lease several Batch II aircraft; however, the inability to conduct aerial refuelling and weapons compatibility limitations had generated Hungarian misgivings. The contract was renegotiated and was signed on 2 February 2003 for a total of 14 Gripens, which had originally been A/B standard and had undergone an extensive upgrade process to the NATO-compatible C/D 'Export Gripen' standard. The last aircraft deliveries took place in December 2007.
+While the Hungarian Air Force operates a total of 14 Gripen aircraft under lease, in 2011, the country reportedly intended to purchase these aircraft outright. However, in January 2012, the Hungarian and Swedish governments agreed to extend the lease period for a further 10 years; according to Hungarian Defense Minister Csaba Hende, the agreement represented considerable cost savings.
+Two Gripens were lost in crashes in May and June 2015, leaving 12 Gripens in operation. From 2017, Hungary returned to operating 14 fighters.
+In August 2021, a contract was signed with Saab to modernise the Gripen fleet of the Hungarian Air Force. The radar will be upgraded to PS-05/Mk4 and the software will be upgraded to MS 20 Block 2 level. New weapons would be added to the arsenal of the Hungarian Gripens. The IRIS-T missiles were ordered in December 2021.
+In February 2024, it was announced that a contract was signed to buy four additional Gripen C aircraft.
+
+
+==== South Africa ====
+
+In 1999, South Africa signed a contract with BAe/Saab for the procurement of 26 Gripens (C/D standard) with minor modifications to meet its requirements. Deliveries to the South African Air Force commenced in April 2008. By April 2011, 18 aircraft (nine two-seater aircraft and nine single-seaters) had been delivered. While the establishment of a Gripen Fighter Weapon School at Overberg Air Force Base in South Africa had been under consideration, in July 2013 Saab ruled out the option due to a lack of local support for the initiative; Thailand is an alternative location being considered, as well as the Čáslav Czech air base.
+Between April 2013 and December 2013, South African contractors held prime responsibility for maintenance work on the Gripen fleet as support contracts with Saab had expired; this arrangement led to fears that extended operations may not be possible due to a lack of proper maintenance and spares availability. In December 2013, Armscor awarded Saab a long-term support contract for the company to perform engineering, maintenance, and support services on all 26 Gripens through 2016. On 13 March 2013, South African Defense Minister Nosiviwe Mapisa-Nqakula stated that "almost half of the SAAF Gripens" have been stored because of an insufficient budget to keep them flying. In September 2013, the SAAF decided not to place a number of its Gripens in long-term storage; instead all 26 aircraft would be rotated between flying cycles and short-term storage. Speaking in September 2013, Brigadier-General John Bayne testified that the Gripen met the SAAF's minimum requirements, as the country faced no military threats.
+
+
+==== Thailand ====
+
+In 2007, Thailand's Parliament authorised the Royal Thai Air Force (RTAF) to spend up to 34 billion baht (US$1.1 billion) as part of an effort to replace Thailand's existing Northrop F-5 fleet. In February 2008, the RTAF ordered six Gripens (two single-seat C-models and four two-seat D-models) from Saab; deliveries began in 2011. Thailand ordered six more Gripen Cs in November 2010; deliveries began in 2013. Thailand may eventually order as many as 40 Gripens. In 2010, Surat Thani Airbase was selected as the RTAF's main Gripen operating base.
+The first of the six aircraft were delivered on 22 February 2011. Saab delivered three Gripens in April 2013, and three more in September 2013. In September 2013, RTAF Marshal Prajin Jantong stated that Thailand was interested in purchasing six more aircraft, although no second order had been placed. Thai Supreme Commander General Thanasak Patimapragorn has stated that the RTAF intends the Gripen's information systems to be integrated with army and navy systems. The armed forces were to officially inaugurate the Gripen Integrated Air Defence System during 2014.
+In August 2024, the Royal Thai Air Force announced having selected the Gripen E/F over the F-16 Block 70/72 to replace its 12 existing F-16s.
+On 26 July 2025, reports emerged that RTAF Gripens were deployed in combat for the first time to strike Cambodian positions during the 2025 Cambodia–Thailand border conflict.
+On 25 August 2025 a 5.3 billion SEK contract for the purchase of 3 Gripen E and 1 Gripen F was signed with delivery to be completed by 2030.
+
+
+==== United Kingdom ====
+
+The Empire Test Pilots' School (ETPS) in the United Kingdom has used the Gripen for advanced fast jet training of test pilots under a "wet lease" arrangement since 1999. It operates a Gripen D aircraft.
+
+
+==== Colombia ====
+Saab had offered 15 Gripen C/D or E/F to Colombia, with possible deliveries during 2018–21, depending on variant selected.  On 3 April 2025, Colombia announced it had selected the Gripen E/F to replace its IAI Kfir fleet in a deal expected to include 16 to 24 units.
+On 2 October 2025, a deal for 18 Gripen E aircraft was officially confirmed. On 15 November, Saab and Colombia signed a contract for the purchase of 17 aircraft, 15 Gripen E, 2 Gripen F. The contract is worth €3.1 billion, the deliveries will take place from 2026 to 2032.
+
+
+==== Peru ====
+On 4 July 2025, the Peruvian government announced that it is purchasing 24 JAS 39E/F aircraft from Sweden. These are to replace its ageing Mirage 2000s and MiG-29s.
+
+
+=== Potential sales ===
+
+
+==== Canada ====
+
+In 2021, Canada's Future Fighter Capability Project was launched to find an aircraft suitable for replacing the country's aging fleet of CF-18s. After Dassault and Airbus exited the competition, and Boeing's Super Hornet was disqualified, only the Lockheed Martin's F-35 and Saab's Gripen remained to compete. The FFCP evaluated both aircraft as meeting the mandatory requirements of the Royal Canadian Air Force, however the F-35 reportedly significantly outperformed the Gripen in every category. This led the Trudeau Government to ultimately select the F-35 in 2023, despite campaigning in 2015 on a promise to not purchase the F-35. However, in 2025 following repeated threats by President Donald Trump to turn Canada into the "51st State" and the onset of the US-initiated trade war, the new Canadian government under Prime Minister Mark Carney opted to re-evaluate and review the F-35 purchase. In November 2025, Saab offered to create 10000 new jobs in Canada and offered full technology transfer and domestic production of the Gripen E if Canada agreed to purchase the aircraft.In the wake of Trump's threats to annex Greenland by force and consistent rhetoric about making Canada the 51st State, government sources in Ottawa indicated that the government was now strongly considering the Gripen for at least half of its fleet due to the potential job creation, and as part of Canada's broader efforts to diversify its trade and reduce defense dependency with the United States.
+As of November 2025, Saab is in talks with the Canadian aeronautical industry to localise the production of the Gripen if Canada decides to purchase the Gripen for its air force. Canada originally planned to purchase 88 F-35A, but as of February 2026, the only firm order is for 16 F-35s along with long-lead items for another 14 aircraft. If Canada selects the Gripen, some of the Gripens for Ukraine could be manufactured in Canada.
+
+
+==== Philippines ====
+In June 2023, during the Shangri-La Dialogue in Singapore, the Philippines and Sweden signed a memorandum of understanding (MOU) for a potential acquirement to the Philippine Air Force (PAF) of 12 Gripen C/D MS20.
+
+
+==== Portugal ====
+Following Trump's radical shift in foreign policy for the United States, Portugal is considering abandoning plans to procure the F-35 and turning attention to European alternatives. As part of its bid to Portugal, on 25 September 2025 Swedish defence minister Pål Jonson visited and a memorandum was signed between Saab and Portuguese companies OGMA and Critical Software, which would allow for production of Gripen parts and for maintenance to take place in Portugal if it were to be procured.
+
+
+==== Ukraine ====
+In October 2025, Sweden and Ukraine signed a Letter of Intent for Ukraine to acquire up to 150 Gripen Es.
+On 11 February 2026, it was reported that Ukraine wanted to use part of the EU support fund to start funding the procurement of Gripen fighter jets according to Swedish defence minister Pål Jonson.
+On 17 April 2026, Ukrainian president Volodymyr Zelenskyy and King Carl XVI Gustaf of Sweden met in Lviv, and Zelenskyy said that Ukraine expects to begin training pilots on the Gripens in early 2026.
+
+
+=== Failed bids ===
+
+
+== Variants ==
+
+Gripen A, or JAS 39A: initial single seat version that entered service with the Swedish Air Force in 1996. A number have been upgraded to the C standard or been converted to 39D at a 2:1 ratio.
+Gripen B, or JAS 39B: two-seat version of the 39A for training, specialised missions and aircraft type conversion. To fit the second crew member and life support systems, the internal cannon and an internal fuel tank were removed and the airframe lengthened 0.66 m (2 ft 2 in).
+Gripen C, or JAS 39C: NATO-compatible single seat version with extended capabilities in terms of armament, electronics, etc. Can be refuelled in flight. Variant was first deliveried on 6 September 2002. The Thai designation for this variant is B.Kh.20. The Hungarian Air Force designation is JAS-39C EBS HU (Export Baseline Standard).
+
+Gripen D, or JAS 39D: two-seat version of the JAS 39C, with similar alterations as the JAS 39B. The Thai designation for this variant is B.Kh.20A. The Hungarian Air Force designation is JAS-39D EBS HU (Export Baseline Standard).
+Gripen NG: Follow-on to the Gripen Demo technology demonstrator. Changes from the JAS 39C include the more powerful F414G engine, Raven ES-05 AESA radar, increased fuel capacity and payload, and two additional hardpoints. These improvements reportedly increased operational costs to an estimated 24000 Swiss francs (US$27000) per hour, and the flyaway cost to 100 million Swiss Francs (US$113M).
+
+Gripen E, or JAS 39E: single-seat production version developed from the Gripen NG program, priced at US$85 million per unit. Sweden and Brazil have ordered the variant. Brazil's designation for this variant is F-39E.
+Gripen F, or JAS 39F: two-seat version of the JAS 39E. Eight ordered by Brazil, to be developed locally and assembled in Gavião Peixoto, Brazil; planned for pilot training and combat, being optimized for back seat air battle management, with jamming, information warfare and network attack, besides weapon system officer and electronic warfare roles. Brazil's designation for the variant is F-39F.
+
+
+=== Upgrades ===
+Gripen aircraft are continually upgraded with hardware and software. Configurations are known as MS## or Materialsystem ##. Configurations are further subdivided in blocks.
+Examples are:
+Gripen C/D
+
+MS20 Block 2.1: Introduced 2024
+MS20 Block 3: To be introduced 2025
+MS20 Block 4: To be introduced 2028 (system refresh, AIM-120C-8, Britecloud, Taurus KEPD 350, enhanced performance RM12, upgraded data link)
+Gripen E
+
+MS21 Initial air-to-air version to be introduced 2025
+MS22 Air-to-ground version
+MS23 Enhanced version (Link 16 upgrade, AIM-120C-8, Taurus KEPD 350, GPS M-Code)
+IOC (Initial Operational Capability) 2027
+FOC (Full Operational Capability) 2030
+
+
+=== Proposals ===
+Gripen Aggressor: 'red team' weaponless variant of the Gripen C and possibly D intended for the UK's Air Support to Defence Operational Training (ASDOT) requirement, and part of the US Air Force's adversary air (AdAir) opportunity.
+Gripen Maritime: proposed carrier-based version based on the Gripen E. As of 2011, its development was underway. As of 2013, Brazil and India were interested. This variant has also been named Sea Gripen. In July 2017, the Brazilian Navy began studying the Gripen Maritime for naval purposes and is looking to replace its fleet of Douglas A-4KU Skyhawk II aircraft.
+Gripen UCAV: proposed unmanned combat aerial vehicle (UCAV) variant of the Gripen E.
+Gripen EA: proposed electronic warfare (EW) or Electronic Attack variant of the Gripen F.
+
+
+== Operators ==
+
+There were 158 Gripens in service as of 2016.
+
+ Brazil
+As of June 2025, the Brazilian Air Force operates 12 F-39Es, with another 24 Gripens E/F on order to be delivered. A total fleet of 36 F39 E/Fs is planned.  There are ongoing negotiations between the Brazilian Government and Saab for the order of another 12 to 15 airframes.
+'Jaguar' Squadron of the 1st Air Defense Group
+ Czech Republic
+The Czech Air Force has 14 Gripens on lease; these include 12 single-seat C models and two two-seat D models, in operation as of 2016.
+211. taktická letka (211th Tactical Squadron)
+ Hungary
+The Hungarian Air Force operates 14 Gripens (12 C EBS HU models and 2 D EBS HU models) on a lease-and-buy arrangement as of February 2017. 4 additional Gripen C were ordered in February 2024.
+'Puma' Harcászati Repülőszázad ('Puma' Tactical Fighter Squadron at 59th Air Base)
+ South Africa
+The South African Air Force (SAAF) ordered 26 aircraft; 17 single-seat C-models and nine two-seat D-models. The first delivery, a two-seater, took place on 30 April 2008. It had 17 Cs and nine Ds in service as of 2016.
+No. 2 Squadron
+ Sweden
+The Swedish Air Force operates 74 JAS 39Cs, 24 Ds and three Es, and ordered 60 Es as of 2016 with 10 more aircraft planned to be ordered. It originally ordered 204 aircraft, including 28 two-seaters.  Sweden leases 28 to the Czech and Hungarian Air Forces.
+ Thailand
+The Royal Thai Air Force had eight JAS 39Cs and four JAS 39Ds in use as of 2016. One crashed, leaving a total of 11 Gripens in their inventory. The Thai Air Force announced on 28 August 2024 that they have selected the Gripen E/F to replace the ageing F-16A/Bs. Three Es and one F were then ordered in August 2025.
+701 Fighter Squadron, Wing 7
+ United Kingdom
+The Empire Test Pilots' School operates Gripens for training. ETPS instructor pilots and students undergo simulator training with the Swedish Air Force, and go on to fly the two-seater Gripen at Saab in Linköping, in two training campaigns per year (spring and autumn). The agreement was renewed in 2008.
+
+
+== Aircraft on display ==
+
+Second prototype JAS 39–2 is on display at the Tekniska museet, Stockholm.
+Single seat JAS 39A serial 39113 is displayed at the Skaraborg Wing.
+Single seat JAS 39A serial 39101 is displayed at Ängelholms Flygmuseum.
+The Swedish government has donated one Swedish Air Force JAS 39A to Thailand for display at the Royal Thai Air Force Museum in Don Mueang, Bangkok.
+
+
+== Accidents and incidents ==
+
+As of January 2017, Gripen aircraft have been involved in at least 10 incidents, including nine hull loss accidents, with one loss of life.
+The first two crashes, in 1989 and 1993 respectively, occurred during public displays of the Gripen and resulted in considerable negative media reports. The first crash was filmed by a Sveriges Television news crew and led to critics calling for development to be cancelled. The second crash occurred in an empty area on the island of Långholmen during the 1993 Stockholm Water Festival with tens of thousands of spectators present. The decision to display the Gripen over large crowds was publicly criticized, and was compared to the 1989 crash. Both the 1989 and 1993 crashes were related to flight control software issues and pilot-induced oscillation; the flight control system was corrected by 1995. The first and only fatal crash occurred on 14 January 2017 at Hat Yai International Airport, Thailand, during an airshow for Thai Children's Day; the pilot did not survive. The last crash occurred on 21 August 2018 at Kallinge Airport near the southern Swedish town of Ronneby; the pilot was able to successfully eject from the aircraft. The following investigation by the Swedish Accident Investigation Authority led to the conclusion by DNA analysis of the engine that it collided with Great cormorant birds at a speed of 304 kn (563 km/h) and height 1,400 ft (430 m).
+
+
+== Specifications ==
+
+
+=== JAS 39C/D ===
+
+Data from Saab Gripen, Saab, Aviation WeekGeneral characteristics
+Crew: 1 JAS 39C / 2 JAS 39D
+Length: 14.9 m (48 ft 11 in) JAS 39C
+15.6 m (51 ft) JAS 39D
+Wingspan: 8.4 m (27 ft 7 in)
+Height: 4.5 m (14 ft 9 in)
+Wing area: 30 m2 (320 sq ft)
+Empty weight: 6,800 kg (14,991 lb)
+Max takeoff weight: 14,000 kg (30,865 lb)
+Fuel capacity: 3,000 L (790 US gal) (2340 kg) (internal); 3,500 L (920 US gal) (2730 kg) (external)
+Payload: 5,300 kg (11,700 lb)
+Powerplant: 1 × Volvo RM12 afterburning turbofan engine, 54 kN (12,000 lbf) thrust dry, 80.5 kN (18,100 lbf) with afterburner
+Performance
+
+Maximum speed: Mach 2 (2,100 km/h; 1,300 mph; 1,100 kn) at 15240 m
+Mach 1.2 (1,470 km/h; 913 mph; 794 kn) at sea level
+Combat range: 800 km (500 mi, 430 nmi)
+Ferry range: 3,200 km (2,000 mi, 1,700 nmi)
+Service ceiling: 15,240 m (50,000 ft)
+g limits: +9/−3 (+12 if needed)
+Wing loading: 283 kg/m2 (58 lb/sq ft)
+Thrust/weight: 0.97
+Takeoff distance: 400 m (1,312 ft)
+Landing distance: 500 m (1,640 ft)
+Armament
+
+Guns: 1 × 27 mm Mauser BK-27 revolver cannon with 120 rounds (single-seat models only)
+Hardpoints: 8 (two hardpoints under fuselage, two under each wing, and one on each wing tip, with one of these for FLIR/ECM/LD/Recon pod) with a capacity of 5,300 kg (11,700 lb), with provisions to carry combinations of:
+Missiles: 
+6 × IRIS-T (Rb.98) or AIM-9 Sidewinder (Rb.74) or A-Darter
+4 × MBDA Meteor (Rb.101), AIM-120 AMRAAM (Rb.99)
+4 × AGM-65 Maverick
+2 × RBS-15F anti-ship missile
+Bombs: 
+4 × GBU-12 Paveway II laser-guided bomb
+8 × Mark 82 bombs
+16 × GBU-39 Small Diameter Bomb
+Other: 
+1 × ALQ-TLS electronic countermeasures (ECM) pod
+1 × Digital Joint Reconnaissance Pod
+BriteCloud expendable active decoys (EADs)
+Avionics
+
+Radar: PS-05/A pulse-Doppler
+Cobra helmet-mounted display (HMD)
+Link 16 tactical datalink
+
+
+=== JAS 39E/F ===
+Data from Saab Gripen, Saab, and Aviation WeekGeneral characteristics
+Crew: 1 JAS 39E / 2 JAS 39F
+Length: 15.2 m (49 ft 10 in) JAS 39E
+15.9 m (52 ft) JAS 39F
+Wingspan: 8.6 m (28 ft 3 in)
+Height: 4.5 m (14 ft 9 in)
+Wing area: 31 m2 (330 sq ft) 
+Empty weight: 8,000 kg (17,637 lb)
+Max takeoff weight: 16,500 kg (36,376 lb)
+Fuel capacity: Internal: 4,360 L (1,150 US gal) (3,400 kg)
+External: 4,535 L (3,537 kg) via 3 drop tanks: 2 × 1,700 L (450 US gal) + 1 × 1,135 L (300 US gal)
+Payload: 7,200 kg (15,900 lb)
+Powerplant: 1 × General Electric F414-GE-39E (RM16) afterburning turbofan engine, 64 kN (14,400 lbf) thrust    dry, 98 kN (22,000 lbf) with afterburner
+Performance
+
+Maximum speed: 2,100 km/h (1,300 mph, 1,100 kn) at 15240 m
+Maximum speed: Mach 2
+Supercruise: Mach 1.25
+Combat range: 1,500 km (930 mi, 810 nmi) air-to-ground config
+Combat endurance: >2 hours typical air-to-air config combat air patrol
+>1 hour at 926 km (500 nmi) radius of action
+0.5 hours at 1300 km combat radius carrying 6 AAMs (4 RR + 2 IR) and external tank
+Ferry range: 4,000 km (2,500 mi, 2,200 nmi)
+Service ceiling: 16,000 m (52,000 ft)
+g limits: +9/−3
+Rate of climb: 254 m/s (50,000 ft/min)
+Wing loading: 283 kg/m2 (58 lb/sq ft)
+Thrust/weight: 1.04
+Takeoff distance: 500 m (1,640 ft)
+Landing distance: 600 m (1,969 ft)
+Avionics
+
+Leonardo Raven ES-05 active electronically scanned array radar
+Finmeccanica-Selex ES Skyward G IRST (Infra-Red Search & Track) system
+Arexis Electronic Warfare (EW) suite
+Arexis Electronic Attack Jammer Pod (EAJP)
+BriteCloud expendable active decoys (EADs)
+Lightweight Air-launched Decoy Missile (LADM)
+SPEAR EW (under development)
+
+
+== See also ==
+
+Flygsystem 2020 – Air warfare branch of Sweden's militaryPages displaying short descriptions of redirect targets
+Fourth-generation jet fighter – Classification of fighter aircraft c. 1970–2000Pages displaying short descriptions of redirect targets
+
+Aircraft of comparable role, configuration, and era
+
+AIDC F-CK-1  – (Taiwan)
+CAC/PAC JF-17 Thunder  – (China)
+Chengdu J-10  – (China)
+Dassault Rafale  – (France)
+Eurofighter Typhoon  – (United Kingdom, Germany, Italy, Spain)
+General Dynamics F-16 Fighting Falcon  – (United States)
+Lockheed Martin F-16V Viper
+HAL Tejas  – (India)
+HAL Tejas Mk2  – (India)
+Mikoyan MiG-29  – (Soviet Union)
+Infoglobal I-22 Sikatan
+KAI KF-21 Boramae  – (South Korea)
+
+Related lists
+
+List of fighter aircraft
+List of military aircraft of Sweden
+
+
+== Notes ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Bibliography ===
+
+
+== Further reading ==
+Griffiths, Dave (March 2000). "AFM Evaluates the Gripen". AirForces Monthly. 13 (144). Stamford, UK: Key Publishing. ISSN 0955-7091.
+Jenkins, Dennis R (2000). F/A-18 Hornet: A Navy Success Story. New York: McGraw-Hill. ISBN 0-07-134696-1.
+Linner, Anders; Wigert, Lars; Ahlgren, Jan (2002), Gripen, The First Fourth Generation Fighter (fact book), Jonsson, Jan foreword (hardcover, transl. from 5th Swedish ed.), Swedish Air Force, FMV and Saab Aerospace, ISBN 978-91-972803-8-9.
+Städje, Jörgen (April 2000). "JAS 39 Gripen – ett datoriserat under" [JAS 39 Gripen – a computerized wonder] (PDF) (in Swedish). IDG. Archived (PDF) from the original on 23 January 2016.
+Sweetman, Bill (March 1993). "Bargain fighter". Popular Science. 242 (3). Winter Park, FL: Bonnier: 3. ISSN 0161-7370.
+
+
+== External links ==
+
+"Gripen fighter system". Air (official site). Saab.
+"Gripen". Army.cz. Czech Armed Forces.
+Fighter Jet: War Machine Heavy Maintenance on YouTube Mega Pit Stops
+Saab Gripen E Walkaround at the Saab factory at Linköping – Guided by test pilot André Brännström on YouTube Siivet – Wings

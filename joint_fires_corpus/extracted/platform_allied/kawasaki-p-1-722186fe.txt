@@ -1,0 +1,152 @@
+The Kawasaki P-1, previously P-X and XP-1, is a Japanese maritime patrol aircraft developed and manufactured by Kawasaki Aerospace Company. Unlike many maritime patrol aircraft, which are typically conversions of civilian designs, the P-1 is a purpose-built maritime aircraft with no civil counterpart and was designed from the onset for the role. It has the distinction of being the first operational aircraft in the world to make use of a fly-by-optics control system.
+The P-1 has entered service with the Japan Maritime Self-Defense Force (JMSDF) as a replacement for the P-3C Orion. In March 2013, the JMSDF took delivery of the first two operational P-1 aircraft. Export customers are also being sought for the type as part of a general loosening of Japanese military export restrictions.
+
+
+== Development ==
+
+Observing that its fleet of P-3C aircraft had been in service for some time, the JMSDF began searching for a replacement maritime patrol aircraft. Since other similar aircraft produced abroad did not meet the JMSDF's requirements, the development of a purpose-built indigenous aircraft became necessary. The Japanese Defense Agency (JDA) submitted the domestic development of a P-X maritime patrol aircraft as part of its April 2001 – March 2006 Five-Year Defense Plan. In 2001, following its earlier proposal, the Kawasaki Aerospace Company received prime contractor status for the P-X program, as well as the adjacent C-X program for a next generation cargo aircraft; this selection process occurred almost 30 years since the previous large-scale domestic development of an aircraft in Japan.
+The P-X shares some components with the C-X, later designated as the twin-engined Kawasaki C-2, another indigenously developed aircraft to replace the Kawasaki C-1 and C-130H Hercules cargo aircraft. Although the P-X and C-X designs were originally independent, it was decided that having common components to both designs would be useful. The JDA mandated that the two aircraft share identical body components. Common components include the cockpit windows, outer wings, horizontal stabilizer, and other systems. Internal shared parts include the auxiliary power unit, cockpit panel, flight control system computer, anti-collision lights, and gear control unit. Due to the different roles of the two aircraft, they remain distinctly separate. The sharing of development resources had allowed for a large reduction in overall development costs which, when including the C-2, were reported in 2007 as being ¥345 billion (equivalent to ¥391.94 billion or US$2.59 billion in 2024).
+In addition to a level of commonality with the C-2, one proposed derivative of the P-1 is a civilian airliner, the proposed project has typically been referred to as the Kawasaki YPX. If development is pursued, the YPX would make extensive use of technology and components of the P-1, such as the wingbox, empennage, and fuselage.
+An indigenously produced turbofan engine, the IHI Corporation F7, was developed to power the P-X. In April 2004, the JDA completed a successful evaluation of five XF7 research engines, by which point it was viewed as being the sole candidate powerplant for the P-X program. In May 2005, the IHI Corporation received a contract for an additional seven XF-7 test engines from the JDA, following the completion of initial tests in December 2004. Four of these engines equipped the first flight test aircraft. The Full Authority Digital Engine Control (FADEC)-equipped F7 engine had a bypass ratio of 8:1, which was reported as being substantially higher than rivals such as the General Electric CF34-8E.
+
+In April 2004, Japan and US extended discussions on potential cooperative efforts on the P-X and US Navy's Multi-mission Maritime Aircraft (MMA) programmes. Options ranged from terminating the P-X program to participate in the US-led MMA program, to incorporating some of the MMA's technology onto the P-X to reduce costs. The Japanese Defence Ministry opted to persist with the P-X program, stating that: "there was a possibility that foreign aircraft would not satisfy the required capability and there was a possibility that foreign aircraft would not meet the required period of introduction...it is necessary to domestically develop the aircraft". In addition to the P-1, studies were conducted into the use of ship-based UAVs to support maritime aviation activities.
+Since 2014, Japan has been making approaches to other nations for prospective export sales of the P-1.  New Zealand was the first country to which the P-1 had been offered, in what was referred to by a Japanese official as a "one on one fight with Boeing's P-8 patrol plane."  The P-1 was offered in conjunction with the C-2, to give New Zealand the advantage of commonality for their patrol and transport aircraft. In July 2018, New Zealand selected the P-8 Poseidon instead.
+Japanese officials have claimed that the P-1 is a more capable, albeit more expensive, aircraft than the Boeing P-8 Poseidon. In comparison to the P-8, the P-1 has a greater range, a larger bomb bay, and is purpose-built for the maritime patrol mission. Prior to 2015, the P-1 was being procured at a typical rate of one or two aircraft deliveries per year. In 2015, this changed to a bulk order for 20 P-1s, as part of a measure to cut the aircraft's unit costs. By October 2016, 10 P-1s had been delivered to the JMSDF, with 60 or more aircraft needed to replace Japan's P-3C fleet. Production will rise to about five annually.
+In September 2023, Kawasaki reported that they are making plans to start a replacement project for the P-1.
+
+
+== Design ==
+
+The Kawasaki P-1 is a purpose-built maritime patrol aircraft equipped with four engines. The P-1 is powered by four podded IHI F7-10 turbofan engines underneath the low-set wings. The four-engine low-wing loading design, results in a flight profile with better maneuverability and stability at low-speed, low-altitude flight and allows the aircraft to continue its mission in the event of a single engine failure. As well as greater operational survivability, the high-bypass engines provide for quiet, fuel-efficient operation. The P-1 has reduced transit times in comparison to turboprop-powered competitors. The turbofans are quieter, making it more difficult for submerged submarines to detect it acoustically.
+The P-1 is equipped with many newly developed technologies and features, particularly in terms of its avionics and missions systems. One such key feature is the use of a fly-by-optics flight control system, which essentially replaces standard metal wiring with optical fiber cables. This has the effect of decreasing electro-magnetic disturbances to the sensors, in comparison to more common fly-by-wire control systems. The P-1 is the first production aircraft in the world to be equipped with such a flight control system. Various onboard systems are provided by Honeywell, which is the largest non-Japanese supplier to the project, such as the auxiliary power unit, environmental and pressurization control systems, ram air turbine, sonobuoy dispensers and elements of the avionics.
+
+The P-1 is equipped with sensors to enable the aircraft to perform its primary purpose of detecting submarines and surface vessels. These include the Toshiba HPS-106 active electronically scanned array (AESA) radar, which uses three antennas to provide 240 degree coverage, and Fujitsu HAQ-2 Infrared/Light detection systems for surface detection. The P-1 is furnished with a CAE Inc.-built magnetic anomaly detector (MAD) embedded into the aircraft's tail, along with deployable sonobuoys, which is used for the detection of submerged submarines. Sophisticated acoustic systems are also used for this purpose. The P-1 has an artificial intelligence (AI) system to assist TACCO operations. Similar to the SH-60K, this advanced combat direction system directs the TACCO operator to the optimal flight course to attack a submarine.A large bomb bay housed within the main fuselage, similar in size to that of the Hawker Siddeley Nimrod's, contains the bulk of the aircraft's munitions. The bomb bay is supplemented by eight external hardpoints mounted on the wings. Weapons available on the P-1 include torpedoes, mines, depth charges, air-to-surface missiles (ASMs), such as the US-built Harpoon, or bombs. Armaments are managed by a Smith Aerospace-built stores management system, which includes a newly developed Universal Stores Control Unit (USCU), capable of accommodating hundreds of different munitions, including future ones and precision weapons. Multiple radar warning receivers provide all-round awareness of missile threats, which is combined with a defensive countermeasures suite.
+
+
+== Operational history ==
+
+In August 2007, the Japanese Ministry of Defense revealed that they would procure four production airframes. The request in the FY2008 budget was ¥67.9 billion (equivalent to ¥76.08 billion or US$502.62 million in 2024), the unit price for each aircraft at US$141.5 million. In 2013, the ministry ordered two units for ¥44.5 billion. These P-1s were reported to possess increased detection/discrimination capability, flight performance, information processing capability, and strike capabilities as a successor to the existing P-3C fixed-wing patrol aircraft.
+In June 2007, Kawasaki rolled out the XP-1, a prototype for the P-X program. The rollout had been delayed for three months due to the discovery of defective rivets provided by a US supplier which required remedial repairs to be performed. On 28 September 2007, the XP-1 conducted its maiden flight from Gifu Air Field, Kakamigahara, Gifu, Japan. This flight lasted about one hour and ended successfully. The P-X was redesignated XP-1 at this time. By March 2010, Kawasaki Heavy Industries had delivered four XP-1 maritime patrol test aircraft to Japanese Ministry of Defense. The company stated its aim for type certification to be achieved in time for the formal delivery of the first two aircraft by the end of March 2012.
+In August 2011, the Japanese Ministry of Defense announced that two aircraft used for ground testing had developed tears in various parts of the craft, including the fuel tank and central part of the fuselage. In response, modifications to reinforce the affected areas were planned. By October 2012, the problems had been reportedly resolved. On 26 March 2013, Japan's Maritime Self-Defense Force took delivery of its first pair of P-1s, ahead of a planned two years of test flights. In May 2013, these aircraft were grounded after one developed an unstable combustion condition in some of its engines during mid-flight.
+
+During efforts to sell the aircraft to the UK, a pair of P-1s, one of Air Development Squadron 51 and one of Air Patrol Squadron 3 were present for the 2015 Royal International Air Tattoo. One aircraft performed a flying display, while the other was on static display. This was the first time that any Japanese military aircraft had performed in a European flight display. After its UK appearance, the P-1s proceeded to the Japan Self-Defense Force Base Djibouti at Ambouli International Airport, Djibouti, to continue with operational trials within tropical and desert climates.
+In November 2016, two P-1s in New Zealand to celebrate the Royal New Zealand Navy's 75th anniversary took part in damage surveys, after the 2016 Kaikoura earthquake, along with P-3 Orions of the Royal New Zealand Air Force and the United States Navy.
+In June 2017, a P-1 appeared at the Paris Air Show.
+In August 2017, Air Patrol Squadron 3 became the first all P-1 operational squadron.
+In December 2018, the Japanese Ministry of Defense alleged that a Gwanggaeto the Great-class destroyer of the South Korean Navy locked its separate target illumination radar onto a P-1 belonging to Air Patrol Squadron 3. The South Korean Navy stated that it had used the radar of an optical camera system, and not a fire control system. The incident led to a diplomatic row between Japan and South Korea.
+In July 2025, the P-1s were subjected to an audit, where inspectors noted engine problems, malfunctions of onboard avionics, and a lack of spare parts, which led to a downgrade fleet status to "poor".
+
+
+== Operators ==
+ Japan
+As of March 2022, the JMSDF operated 33 P-1s.
+Japan Maritime Self-Defense Force
+Air Development Squadron 51, 2013–present
+Air Patrol Squadron 3, 2015–present
+
+
+== Procurement ==
+
+
+=== Japan procurement ===
+
+
+=== Potential clients ===
+ Italy
+On 28 March 2025, when asked Italian Air Force chief Luca Goretti told reporters that the P-1 was an option to fill the current anti-submarine operation gap in its maritime patrol capability. In May 2025, Leonardo confirmed being engaged in talks around the P-1 with Kawasaki.
+ Thailand
+In 2016, it was reported that Thailand is considering purchasing the aircraft.
+ Vietnam
+In 2016, there were reports that Vietnam is considering buying used P-3 Orions from either the JMSDF or the US Navy or the Kawasaki P-1.
+
+
+=== Failed bids ===
+ France
+In 2018, it was reported that Kawasaki was offering the P-1 to France to replace its Breguet Atlantique 2 aircraft.
+In 2025, the French government selected the A321MPA, based on the A321neo as the successor of the Atlantique 2.
+ Germany
+In 2018, the P-1 was reportedly offered to Germany as a replacement for its P-3C Orion aircraft. In September 2020, Germany was no longer considering the P-1 due to concerns the aircraft would not be able to achieve military type certification within a required five years time frame.
+Germany ended up ordering the P-8 Poseidon.
+ New Zealand
+New Zealand requested information on the P-1 and Kawasaki C-2 to meet the country's patrol and transport aircraft needs.  This request was met with unclassified information in September 2016 and a more detailed proposal including purchase price, manufacturing arrangements, and maintenance complete by mid-2017.  This put the P-1 in direct competition with the P-8. On July 9, 2018 it was announced that New Zealand had selected the P-8.
+ United Kingdom
+In January 2015, it was reported that Tokyo was holding a series of defence talks with the United Kingdom to ascertain a possible sale of P-1s to the Royal Air Force, to replace their recently retired fleet of Hawker Siddeley Nimrod patrol aircraft. The proposal was part of a wider initiative to lower restrictions on Japanese military exports. It was claimed that Britain may consider jointly manufacturing the type, and that the nation could retain rights over related radar and sensor technologies. In November 2015, the UK announced it would buy the Boeing P-8 Poseidon instead of the Kawasaki P-1.
+
+
+== Variants ==
+
+XP-1: Prototype, later reclassified as UP-1 and assigned to Air Development Squadron 51
+YPX: A cancelled two-engine airliner variant
+Electronic warfare variant: Variant under research
+
+
+== Specifications (XP-1) ==
+
+Data from flightglobal.comGeneral characteristics
+Crew: flight crew: 3 Mission crew: 8
+Length: 38 m (124 ft 8 in)
+Wingspan: 35.4 m (116 ft 2 in)
+Height: 12.1 m (39 ft 8 in)
+Max takeoff weight: 79,700 kg (175,708 lb)
+Powerplant: 4 × IHI F7-10 turbofan engines, 60 kN (13,000 lbf) thrust  each
+Performance
+
+Maximum speed: 996 km/h (619 mph, 538 kn)
+Cruise speed: 833 km/h (518 mph, 450 kn)
+Range: 8,000 km (5,000 mi, 4,300 nmi)
+Combat range: 2,500 km (1,600 mi, 1,300 nmi)
+Service ceiling: 13,520 m (44,360 ft)
+Armament
+
+Hardpoints: 8, 2x on each wing and 2x on each wing root. Eight internal bomb bay stations with a capacity of 9,000 kg (19,842 lb) +, with provisions to carry combinations of:
+Missiles: 
+AGM-84 Harpoon
+ASM-1C
+AGM-65 Maverick
+Bombs: 
+mines
+depth charges
+Other: 
+MK-46
+Type 97 torpedo
+Type 12 torpedo
+30+ pre-loaded sonobuoys, 70+ sonobuoys deployable from inside
+Avionics
+
+Radar: Toshiba, Active Electronically Scanned Array radar system
+Sonar: NEC, multi-static sound navigation system sound
+ Anti-submarine systems: SHINKO ELECTRIC CO.LTD., Advanced combat direction system
+ Data-link:  Kawasaki, data link system
+Other: Mitsubishi Electric, Electronic countermeasures (CMD, RWR, MWS, ESM), Combat Direction System
+
+
+== See also ==
+
+Related development
+
+Kawasaki C-2
+Kawasaki YPX
+Aircraft of comparable role, configuration, and era
+
+BAE Systems Nimrod MRA4
+Boeing P-8 Poseidon
+Bombardier Aerospace DHC-8-MPA-D8
+Breguet Atlantic
+EADS CASA C-295 MPA
+Ilyushin Il-38
+Lockheed P-3 Orion
+Shaanxi KQ-200
+
+Related lists
+
+List of military aircraft of Japan
+
+
+== References ==
+
+
+== External links ==
+
+Kawasaki P-1 webpage
+Technical Research and Development Institute, Ministry of Defense (Japanese)
+Pictures of Kawasaki XP-1

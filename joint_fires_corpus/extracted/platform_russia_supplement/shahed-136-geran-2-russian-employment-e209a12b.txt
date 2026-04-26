@@ -1,0 +1,177 @@
+The HESA Shahed 136 (Persian: شاهد ۱۳۶, lit. 'Witness 136'), also known by its Russian designation Geran-2 (Russian: Герань-2, lit. 'Geranium-2'), is an Iranian-designed one-way attack drone, also referred to as a kamikaze drone or suicide drone, in the form of an autonomous pusher-propelled drone. It is designed and manufactured by the Iranian state-owned corporation HESA in association with Shahed Aviation Industries.
+The munition is designed to attack ground targets from a distance. The drone is typically fired in multiples from a launch rack. The first public footage of the drone was released in December 2021. Russia has made much use of the Shahed 136/Geran-2 in the Russo-Ukrainian war, especially in strikes against Ukrainian infrastructure, and mass-produces its own version. 
+In response to the effectiveness of the drones, Ukraine developed its own Shahed-136 analogs in 2025 for long-range strikes. The Ukrainian Batyar was announced by DeepStrikeTech in May 2025 and the American-European Artemis ALM-20 was announced in October 2025. Drones with a similar shape to the ALM-20 were used in strikes in the Moscow and Rostov-on-Don regions, while a drone similar to the Batyar was seen in a strike on the Ust-Luga oil export terminal.
+In December 2025, the U.S. military announced it had developed the LUCAS drone, a clone of the Shahed 136 developed from the reverse engineering of the Iranian-designed HESA Shahed 136, and deployed a squadron in the Middle East. LUCAS's first officially confirmed use was in February 2026, against the Islamic Republic of Iran Armed Forces during the 2026 Iran war.
+
+
+== Overview ==
+
+
+=== Description ===
+
+The aircraft has a cropped delta-wing shape, with a central fuselage blending into the wings, which have vertical stabilizing rudders at the tips. The nose section contains a warhead estimated to weigh 30–50 kilograms (66–110 lb). An Iranian-made Mado MD-550 engine sits in the rear of the fuselage and drives a two-bladed pusher propeller. The MD-550 is reverse engineered from the Limbach L550E, a 550cc four-cylinder two-stroke petrol aircraft engine made in Germany. The munition is 3.5 metres (11 ft) long, with a wingspan of 2.5 metres (8.2 ft), flies at over 185 kilometres per hour (115 mph), and weighs about 200 kilograms (440 lb). The drone's appearance resembles that of the Drohne-Anti-Radar (DAR) developed by Dornier Flugzeugwerke in Germany in the 1980s, but whether there was actual copying is an open question.
+Its range has been estimated to be anywhere from between 970–1,500 km (600–930 mi) to as much as 2,000–2,500 km (1,200–1,600 mi). The U.S. Army unclassified worldwide equipment guide states that the Shahed 136 design supports an aerial reconnaissance option, although no cameras were noted in the Geran-2 in Russian service. A British report presented to the United Nations Security Council in 2023 stated that a version of the Shahed 136 was used in 2023 against moving vessels in the Gulf of Oman, which required a sensor to lock onto the moving target, and/or an operator in the loop with a real time sensor feed. An Iridium satellite phone SIM card was found in the debris, indicating possible control beyond line of sight.
+
+
+=== Electronics ===
+
+The Shahed 136 navigates by a commercial-grade inertial guidance system, corrected by civilian GPS and GLONASS. December 2023 remains from the drones were found with SIMs and 4G modems of the type used in mobile phones. Despite no markings, experts believe the munition uses a computer processor manufactured by the American company Altera, RF modules by Analog Devices and LDO chips by Microchip Technology.
+Inspection of captured drones used by Russia during the Russo-Ukrainian war revealed that some Shahed-136 electronics were manufactured from foreign made components, such as a Texas Instruments TMS320 processor, a Polish made fuel pump on behalf of UK-based company TI Fluid Systems and a voltage converter from China. In 2023 the Jewish Chronicle reported that British universities  had participated in drone development with Iran.
+
+
+=== Deployment ===
+Because of the portability of the launch frame and drone assembly, the entire unit can be mounted on the back of any military or commercial truck. The aircraft is launched on rails at a slight upward angle with initial rocket launch assistance. The rocket is jettisoned immediately after launch, whereupon the drone's conventional piston engine takes over.
+
+
+== Geran-2 ==
+
+Geran-2 is the name of the weapon in Russian service and later versions manufactured in Russia. Russia has significantly hardened and upgraded the Geran-2 from the Iranian design over many iterations, and has become independent of Iran in its development and manufacturing. In October 2022, a Times of Israel correspondent noted that the Iranian navigation system made from civilian components had been replaced with a Russian manufactured flight control unit and microprocessors, using the Russian GLONASS satellite navigation system rather than US civilian grade GPS, seemingly improving its loitering munition capability. Geran-2 has labeling and paint color matching Russian rather than Iranian munitions, some painted black for night operations. No cameras or short-range sensors were noted in 2022. In November 2022, Russia and Iran had agreed to the Russian manufacture of the munition, with Iran exporting key components. The Russian manufacturing facility is in the Alabuga Special Economic Zone, Tatarstan, with a target of building 6,000 Geran-2s by summer 2025.
+In July 2023, UK based Conflict Armament Research studied the remains of two Geran-2s used in Ukraine, concluding they were a new variant manufactured in Russia. They found "major differences in the airframe construction and in the internal units" compared to earlier examples studied, including a fuselage now made of fiberglass over woven carbon fiber rather than lightweight honeycomb. A third of the components showed manufacturing dates from 2020 to 2023, and three Russian components showed dates from January to March 2023. Twelve components showed dates after the start of the invasion in February 2022. Some internal modules were the same as in other Russian weapon systems, including the Kometa satellite navigation module. In December 2023, the Ukrainian National Agency on Corruption Prevention stated that the Russian-produced Geran-2 included 55 parts made in the United States, 15 from China, 13 from Switzerland, and 6 from Japan.
+The Russian-manufactured Geran-2 is believed to have a "state-of-art antenna interference suppression" system that suppresses jamming of the satellite navigation position signal, designed by Iran using seven transceivers for input and an FPGA and three microcontrollers to analyse and suppress any electronic warfare emissions.
+As of late September 2023, Russian forces have reportedly started packing warheads with tungsten ball shrapnel, similar to the M30A1 and M30A2 series of GMLRS warheads. According to Ukrainian officials the Russian modifications included "new warheads (tungsten shrapnel), engines, batteries, servomotors and bodies". As of October 2023, Russia had significantly hardened and upgraded the Geran-2 in several iterations, though the authors of an occasional paper in 2024 estimated this had increased the production cost from $30,000 to about $80,000. One such upgrade is for a scout Geran-2 to conduct an electromagnetic spectrum survey, transmitting back to assist in safer route planning for follow-on munitions.
+In May 2024, a version of the Geran-2 with a heavier 90 kg warhead was reported. This version has relocated internals and, as a result, a smaller fuel tank. By almost doubling the warhead weight, the amount fuel carried drops to 71 liters (16 imp gal; 19 U.S. gal), resulting in a reduced 650 kilometres (400 mi) maximum range. A 52 kg thermobaric warhead option was also reported. This version may be painted black for night operations. By May 2025, the 90 kg warhead version had been widely deployed, particularly against Ukrainian electricity infrastructure.
+In September 2024, Ukrainian sources reported that the remains of a shot down Geran 2 included a Starlink satellite communications system providing internet connectivity over Ukraine, presumably to support real time video or electromagnetic spectrum surveys. Previously communication experiments had been conducted with 4G modems on the Ukrainian mobile phone network. In May 2025, The Kyiv Independent quoted Ukrainian mobile air defense sources stating that at night the drone had started avoiding strong light sources en-route, prompting air defense units to use some night-vision devices instead of searchlights.
+In June 2025, Defence Intelligence of Ukraine was reported to have examined a new type of Geran-2, which they called the MS series, which had an infrared camera and a Nvidia Jetson based computer capable of video processing and autonomously finding targets. It also had a radio modem capable of transmitting video and telemetry. This new drone has been used to scout routes prior to other attacks, scanning for mobile air defence units.
+As of late spring 2025 Russia has been producing around 170 Geran-2 drones per day, with indication that a total of around 26,000 Gerans were produced by Yelabuga drone factory. Defense Intelligence of Ukraine estimates 40,000 Geran-2 and 24,000 cheaper Gerbera decoy drones are planned to be manufactured in 2025. In February 2026, the Ukrainian Main Directorate of Intelligence reported that the remains of a reconnaissance version of the Geran-2 was found to contain a Raspberry Pi 5 microcomputer and a Russian-branded Mini PC computer running Windows 11, made in China, believed to be part of a vision processing system.
+By early 2026 the Ukrainian military had identified several experimental subcategories of the Geran-2: A Geran-2 (series E) carrying an 18-kg 9K333 Verba MANPAD surface to air missile launcher on its back, designed to launch a single infrared homing surface-to-air missile in the direction the Geran-2 is traveling. The drone has a Chinese-made camera in its nose, allowing a remote operator to acquire a target, which is then attacked as soon as the MANPAD has locked onto it. The drone itself can afterwards continue its standard mission and strike a ground target.
+A comparable modification was found on a downed Geran-3 jet powered drone at the same time, but with an older 45-kg infrared homing R-60 air-to-air missile on a launching rail mounted on its back. These modifications were apparently done to attack helicopters, after Ukrainian commander-in-chief Oleksandr Syrskyi had stated in September 2025, that helicopters were responsible for some 40 percent of drone kills. Almost all observed Geran-2 drones in early 2026 were equipped with 2G-, 3G- and 4G- antennas. By January 2026, Russia had mastered the use of Starlink internet connections to remote control Geran-2 drones. An attack on a moving passenger train in late January 2026 near Charkiv with 3 drones hitting, was attributed to Starlink controlled Geran's.
+
+
+== Ukrainian analogs ==
+After seeing the effectiveness of Shahed-136 drones and Russian derivatives, Ukraine developed its own Shahed-136 analogs in 2025. The 800-km range Batyar was announced by DeepStrikeTech in May 2025, with a warhead of 18 kg in its long-range configuration. The Batyar drone uses optical terrain matching to reduce its dependence on GPS and radio signals. In October 2025, the joint American-European Artemis ALM-20 was announced. Using an onboard computer by the multinational company Auterion and an airframe from an unnamed Ukrainian company, the ALM-20 is capable of carrying a 45 kg warhead over 1600 km, using AI to navigate without GPS and for autonomous terminal guidance.
+
+
+== U.S. LUCAS drone ==
+
+On 3 December 2025, U.S. Central Command (CENTCOM) announced it had deployed a squadron of Shahed 136 clones operated by a new task force in the Middle East, named Task Force Scorpion Strike under Special Operations Command Central. The Low-cost Uncrewed Combat Attack System (LUCAS) drones, largely based on reverse-engineering a captured Shahed 136, has an extensive range and can operate autonomously. The one-way-attack drone can be launched using different mechanisms including catapults, rocket-assisted takeoff, and mobile ground and vehicle systems. On 16 December 2025, USS Santa Barbara (LCS-32) test launched a LUCAS drone at sea for the first time, in the Persian Gulf.
+The LUCAS drone was developed by Arizona-based SpektreWorks, in cooperation with the U.S. military. The number built was not disclosed, but CENTCOM stated they had "an amount that provides us with a significant level of capability", and that build cost was about $35,000. A U.S. official said that the existing larger and more expensive precision systems had "put our forces at a disadvantage" and that "now we're flipping the script". SpektreWorks also supply a target drone resembling the Shahed 136, named FLM 136, which was shown at a public Pentagon event on 16 July 2025 where the LUCAS development was also presented. The FLM 136 specification is mostly lower than the Shahed 136, with a range of 444 nautical miles (822 km), maximum speed of 105 knots (194 km/h), endurance of 6 hours, payload of 40 lb (18 kg) with a maximum weight of 190 lb (86 kg).
+
+
+== Combat history ==
+
+
+=== Yemeni Civil War ===
+There were some reports of its use in the 2019 attack of Saudi oil plants at Abqaiq and Khurais, however The Washington Post reported that other types of drone were used in that attack. A British report to the United Nations Security Council states that a Shahed 131 was used, not a 136.
+
+
+=== Russo-Ukrainian war (2022–present) ===
+
+During the Russo-Ukrainian war (2022–present), Russia has used loitering munitions bearing the name Geran-2 (Russian: Герань-2, literally "Geranium-2") against Ukraine. These Geran-2 drones are considered by Ukraine and its Western allies to be redesignated Iranian-made Shahed-136 drones.
+In the months prior to the confirmation of their use, US intelligence sources and Ukrainian officials have claimed that Iran had supplied Russia with several hundred drones including Shahed-136s, although Iran has repeatedly rejected the claims that it had sent drones for use in Ukraine, saying it is neutral in the war. However, on 2 September 2022 the Commander of the IRGC General Hossein Salami said at a Tehran arms show that "some major world powers" had purchased Iranian military equipment and his men were "training them to employ the gear". Russia stated it uses unmanned aerial vehicles (UAVs) of domestic manufacture. This may reflect domestic production of these drones within Russia.
+On 21 November 2022, British government minister James Heappey stated that the number of Shahed-136 loitering munitions used in Ukraine was estimated to be in the low hundreds. In May 2023, the White House National Security Council spokesman suggested roughly 400 had been used so far, saying "Iran has provided Russia with more than 400 UAVs primarily of the Shahed variety".
+
+
+==== First appearances ====
+On 13 September 2022, initial use of the Shahed 136 was indicated by photos of the remains of a drone inscribed with Russian: Герань-2, lit. 'Geranium'-2, operated by Russian forces. According to Rodion Kulahin, the Ukrainian artillery commander of the 92nd Brigade, Shahed 136 drones destroyed four howitzers and two BTRs during the Kharkiv counter-offensive.
+On 23 September, further use of the drones was recorded in Odesa, where videos of their flyover and impact were uploaded on Telegram channels. Notably, the drones were audibly engaged with small arms fire, which did not seem to have shot down any of the aircraft. On 25 September, videos posted on social media shows intensified use of the drone by the Russian forces around Odesa and Dnipro cities. This time, along with small arms, some form of anti-aircraft rotary cannon was employed, along with surface-to-air missiles, downing at least one Geran-2. A number of the drones were able to hit unknown targets, although there are claims the Ukrainian Navy Headquarters in Odesa was hit.
+On 5 October 2022, a Geran-2 struck barracks hosting soldiers from the 72nd Mechanized Brigade in Bila Tserkva. Ukrainian soldiers said they can be heard from several kilometers away and are vulnerable to small arms fire. Ukrainian sources stated they deployed MiG-29 fighter aircraft to shoot down these drones with success, and that they used a similar strategy to shoot down cruise missiles such as the Kalibr. On 13 October 2022, a Ukrainian MiG-29 crashed in Vinnytsia while attempting to shoot down a Geran-2. According to Ukrainian sources, the drone detonated near the jet and shrapnel struck the cockpit which forced the pilot to eject.
+
+
+==== October waves ====
+
+Geran-2 drones participated in the October 2022 missile strikes that disabled large sections of the Ukrainian power grid. Ukraine's military said it shot down the first Shahed 136 on September 13, and that 46 of the drones were launched on 6 on 6 October, 24 on 10 October, and 47 on 17 October 2022. In the morning of 17 October, Kyiv was attacked again. The drones were engaged by small-caliber ground fire and dedicated air-defense systems, but the drones reportedly hit several locations, including the offices of Ukrenergo. Other energy infrastructure facilities were attacked, leading to blackouts around the affected infrastructure. Ukrainian Prime Minister Denys Shmyhal said the strikes hit critical energy infrastructure in three regions, knocking out electricity to hundreds of towns and villages. At least 8 people were killed during the day's attack.
+The cost–benefit analysis of these drones compared to defending surface-to-air missile systems, is in favor of the Shahed drones. Loitering munitions downed after they have reached cities can lead to large-scale collateral damage from falling wreckage. Initially, the price of a Shahed-136 drone was estimated at between $20,000 and $50,000. Leaked Iranian documents later indicated that in 2022, Iran had sold 6,000 Shahed-136s to Russia at a unit price of $193,000. According to the documents, Russia expected the unit cost to drop to $48,000 for drones manufactured domestically. Significant upgrades and hardening of the drones increased the unit production cost to around $80,000 by April 2024.
+In October 2022, the US Department of Defense stated that a number of Iranian experts were deployed to Crimea to provide technical support for the drones used in the attacks. Ukrainian sources said that more than 220 of these drones were shot down between mid-September and mid-October 2022. In December, use of the munitions resumed after a three-week pause. Ukraine suggested the suspension was to modify them for cold weather, but the British Ministry of Defence said it was probably due to the exhaustion of previous stock followed by a resupply. On 14 December, a Shahed-136 drone that exploded in Kyiv was marked "For Ryazan" in Russian, a reference to attacks on the Dyagilevo air base in Ryazan.
+
+
+==== Ukrainian defense ====
+
+While Ukraine's ground-based air defence covers the whole country at low to high altitude, the 'extra-low' altitude flight of the drones means that Ukraine's conventional ground-based air defences are at a disadvantage. Ukraine has implemented virtual observation posts, an alert app which allows civilians to submit drone sightings, and mobile fire groups that specialise in defending against drone attacks using missiles and various guns. One pilot describes the combination as 'pretty effective'.
+Because the drones are small, slow, and fly at low altitude, they are hard to spot on MiG-29 radar. One Ukrainian MiG-29 pilot described the drone's appearance on radar as similar to a flock of birds. Ukraine's Soviet-era R-73 heat seeking missiles cannot lock on to targets inside clouds, while its R-27R semi-active radar homing missiles of similar age require a dangerously close approach when attacking drones. Ukrainian aircraft can intercept these drones using their 30mm cannon, but only in daylight and clear weather. With either guns or missiles, there are risks of severe damage to defending aircraft.
+Ukrainian forces introduced a system of networked microphones to track the acoustic signature of incoming drones. Some 10,000 microphones are believed to be a part of the wireless network. The system is networked through a computer that turns the data into flight paths for Shahed drones. The microphone system was originally developed by two engineers in their garage. The microphones cost $4-500 per unit according to U.S. Air Force General James Hecker. The United States and Romanian militaries have shown interest in the system. Called "Sky Fortress" the estimated total value of the system is cheaper than "a pair of Patriot air-defense missiles".
+Night interceptions are harder, as blackout conditions mean pilots have to rely on GPS to know whether they are over a population centre, lest a crashing drone cause collateral damage to civilian areas.  In most such cases, all the pilots can do is contact ground based air defences to intercept these drones. Ukraine's Air Force also believe that the drones are used to test the effectiveness of defences prior to missile attacks, to probe for weaknesses. Ukrainian pilot Vadym Voroshylov was credited with downing 5 Shahed drones in a week. However the explosion of the final drone downed his own MiG-29. Ukraine claims an interception rate of "65% and 85%". A Ukrainian defense attaché in the United States stated that SA-8 missiles and both the Soviet-era ZSU-23-4 and the German-supplied Flakpanzer Gepard SPAAGs have been used to "great effect" against these "relatively crude" drones.
+In early November 2022, Forbes reported on Ukrainian efforts to seek "Shahed catchers." Because legacy anti-aircraft weapons are less suited to intercepting swarms of cheap drones, dedicated counter-UAS systems are being acquired. One is the Anvil made by Anduril Industries, which uses a suite of sensors powered by the company's AI Lattice system to detect and track threats, then passes information to Anvil interceptors, which weigh 12 lb (5.4 kg) and have backwards-facing propellers to ram into a target at over 100 mph (160 km/h). Another is the NiDAR made by MARSS, which has a similar networked sensor package and uses ducted fan quadcopter interceptors that have a top speed of more than 170 mph (270 km/h). There are also domestic Ukraine options such as the Fowler. All systems are similar in that they use a large number of small interceptors to be able to counter drones launched en-masse simultaneously approaching from different directions. DShK machine guns fitted with thermal imaging or cameras are among the most cost effective weapons for shooting down these drones. Some are working with searchlights like during World War 2.
+In a May 2024 Wall Street Journal analysis of data from the Ukrainian Air Force Command, Russia had launched 2,628 Shahed drones in the previous six months, some to test Ukrainian air defenses before other missiles were launched, of which Ukraine had intercepted over 80%. The Wall Street Journal also noted "Ukraine uses such statistics for propaganda purposes". In August 2024, a Ukrainian Mi-8 used a machine gun to shoot down a Shahed drone. Earlier a Mi-24P used its twin  GSh-30K 30mm cannons to shoot down a drone. Such weapons are considered more cost effective compared using air defence missiles.
+On 8 September 2024, Russian drones entered both Romanian and Latvian airspace. Romanian scrambled two F-16s to monitor the drone's progress. It landed "in an uninhabited area" near Periprava, according to the Romanian Ministry of Defence. The drone that entered Latvian airspace from Belarus crashed near Rezekne. This comes as the ISW noted increased success in Ukrainian electronic warfare against Russian drones that resulted in "several Russian Shahed drones (that) recently failed to reach their intended targets for unknown reasons." Two Kh-58s failed to reach their targets. The ISW claimed that use of electronic warfare saved air defence resources. On 10 October 2024, a Neptune missile struck an ammunition depot in Oktyabrsky, Krasnodar. Ukrainian intelligence claimed to have destroyed over 400 Shahed UAVs. On 23 July 2025, Ekonomichna Pravda claimed 9 out of 10 Shahed drones shot down were due to interceptor drones.
+
+
+==== Reactions ====
+
+In response to the initial attacks, Ukrainian President Volodymyr Zelenskyy has denounced it as "a collaboration with evil". Diplomatic ties between Iran and Ukraine were subsequently reduced as a consequence of the attacks. On 18 October 2022 the U.S. State Department accused Iran of violating United Nations Security Council Resolution 2231 by selling drones to Russia, agreeing with similar assessments by France and the United Kingdom. On 22 October France, Britain and Germany formally called for an investigation by the UN team responsible for UNSCR 2231.
+Iran's ambassador to the UN responded that these accusations were an erroneous interpretation of paragraph 4 of annex B of the resolution, which clearly states it applies to items that "could contribute to the development of nuclear weapon delivery systems", which these drones could not. Resolution 2231 was adopted after the Joint Comprehensive Plan of Action (JCPOA) was signed. The U.S. withdrew from the agreement under the Donald Trump administration in 2018. The embargo on conventional Iranian arms ended in October 2020, but the restrictions on Iran regarding missiles and related technologies are in place until October 2023.
+An Iranian Major-General said 22 countries requested to purchase Iranian drones. Multiple critics including a senior researcher of the Center for Security Studies called the weapon tactically useless, and said that its role is as a weapon of terror against civilians. Others said it can be used to carried out devastating strikes to Ukrainian forces but are unlikely to be a game-changer for the war.
+Iran denied sending arms for use in the Ukraine war and Iranian foreign minister Hossein Amir-Abdollahian said Iran will not remain indifferent if it is proven that Russia used Iranian drones in the war against Ukraine. On 5 November 2022, Abdollahian said Iran shipped "a small number" of drones to Russia before the war. He repeated Iran will not remain indifferent if proven Russia used Iranian drones against Ukraine. He denounced Ukraine for not showing up at talks to discuss evidence of Russian use of Iranian drones. Iran foreign ministry continued to deny sending weapons for use in the war.
+
+
+=== 2022 Syria and Iraqi Kurdistan ===
+The U.S. military believes groups allied to Iran used the Shahed 136 in August 2022 against a U.S.-run military base at Al-Tanf in Syrian opposition controlled territory in the Syrian Desert.
+
+In 2022, the IRGC Ground Forces used the Shahed 136 drone in attacks on headquarters of Kurdish separatist group in the Kurdistan region of Iraq.
+
+
+=== 2023 Indian Ocean ===
+
+On 24 November, it was suspected that an Iranian Shahed 136 had been used to attack the CMA CGM bulk carrier Symi in the Indian Ocean according to a US defense official. The attack caused damage to the ship but did not injure any of the crew.
+
+
+=== 2024 Iranian strikes on Israel ===
+
+On 13 April 2024, Iran carried out a missile and drone attack against Israel, which used the Shahed 136 among other long range weapons.  The attack was largely intercepted and thwarted by missile interception systems of Israel, the United States, Jordan, the United Kingdom and France on 14 April. The direct line distance from the Iranian border to one of the targets, Nevatim Airbase, is about 1,050 kilometres (650 mi). On 18 April, the United States imposed new sanctions on sixteen Iranian individuals as well as two companies associated with Iran's drone program.
+
+
+=== 2026 Iran war ===
+
+Iran launched its Shahed 136 drones towards US allies in West Asia and towards US military bases in the Middle East.
+
+
+== Classification controversy ==
+The classification of the Shahed 136 as a loitering munition has been disputed due to an apparent lack of loitering capability.  In January 2023, the Royal United Services Institute, a British defense and security think tank, called into question the classification of the Shahed 136 as a loitering munition.  RUSI noted that the Shahed 136 had mainly been used for point-to-point attack missions similar to cruise missiles, rather than loitering around a target area before striking a target.  RUSI also stated that the Shahed 136 may have been used during the attacks on the MT Mercer Street and Pacific Zircon, hinting at the existence of a loitering munition variant even if the original Shahed 136 does not have that capability. An August 2023 Oil Companies International Marine Forum report assessing the Shahed 136 attacks on those ships stated that the wreckage of the drones used in the attacks did not produce any sensors or a laser seeking equipment found on traditional loitering munitions.  The report also noted, based on photographic evidence, that the drone that struck the Pacific Zircon was equipped with a GNSS antenna.
+
+
+== Relations with other Shahed drones ==
+
+
+=== Shahed 131 ===
+The Shahed 136 is visually similar to the smaller Shahed 131, differing mainly by its wingtip stabilisers extending up and down rather than only up on the Shahed 131. The Shahed 131 has a simple inertial navigation system (INS) and a GPS with some electronic warfare protection, which the Shahed 136 may also have.
+
+
+=== Shahed 238 ===
+In September 2023, a trailer for an Iranian state TV documentary on Iranian drone development revealed the existence of a Shahed 136 version powered by a turbojet engine. Jet propulsion would give the one-way attack UAV greater speed and altitude, making it more difficult to intercept compared to the propeller-driven version, a large percentage of which have been able to be shot down in Ukraine by anti-aircraft cannons and even small arms. It also has a nose-mounted camera which could improve navigation or enable terminal guidance. A jet version would be more expensive and complex to manufacture, have reduced range, and have a larger thermal signature making it vulnerable to infrared-guided missiles. The jet-powered strike drone was publicly unveiled in November 2023 as the Shahed 238.
+
+
+== Operators ==
+
+In September 2023, the president of Iran, Ebrahim Raisi, denied providing the drones to Russia for use in Ukraine.
+
+ Iran
+ Russia
+Islamic Resistance in Iraq
+The drones would also be foreign produced at Gomel, Belarus and they are produced in the drone factory in Yelabuga. According to leaked documents, the provenance of which are unclear, the Russian military in 2022 paid $1.75 billion in gold bullion for the import of 6,000 Shahed 136 units. These documents state that with near full Russian localization, the projected cost is $48,800 per unit. Based on these documents, Anton Gerashchenko stated the cost of each Shahed 136 was believed to be $193,000 per unit when ordering 6,000 drones and about $290,000 per unit when ordering 2,000.
+
+
+== See also ==
+
+Defense industry of Iran
+Related development
+
+HESA Ababil
+Italmas
+Shahed drones
+Shahed 121
+Shahed 129
+Shahed 131, or Geran-1
+Shahed 149 Gaza
+Shahed 171 Simorgh
+Shahed 238
+Aircraft of comparable role, configuration, and era
+
+Artemis ALM-20 - (Ukraine/United States)
+DeepStrikeTech Batyar - (Ukraine)
+Fire Point FP-1  – (Ukraine)
+Garpiya  – (Russia)
+Low-cost Uncrewed Combat Attack System  - (United States)
+NCSIST Chien Hsiang  – (Taiwan)
+PLargonia  – (Poland)
+Samad  – (Yemen)
+
+Related lists
+
+List of military equipment manufactured in Iran
+List of unmanned aerial vehicles
+
+
+== References ==
+
+
+== External links ==
+ Media related to Shahed 136 at Wikimedia Commons

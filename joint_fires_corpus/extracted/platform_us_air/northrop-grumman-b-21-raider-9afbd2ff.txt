@@ -1,0 +1,123 @@
+The Northrop Grumman B-21 Raider is an American nuclear-capable subsonic stealth strategic bomber in development for the United States Air Force (USAF) by Northrop Grumman. Part of the Long Range Strike Bomber (LRS-B) program, it is to be an intercontinental strategic bomber that can deliver conventional and thermonuclear weapons. Named "Raider" after the Doolittle Raiders of World War II, the B-21 is meant to complement the Rockwell B-1 Lancer and Northrop B-2 Spirit, replace them by 2040, and possibly replace the 1950s Boeing B-52 Stratofortress after that.
+The B-21 is a flying wing and lambda wing, similar to its B-2 predecessor, while being smaller and lighter. Unlike previous bombers, the B-21 is designed primarily for Indo-Pacific Command operations in a potential conflict with China. It is to carry the AGM-181 LRSO strategic nuclear cruise missile, the B61 Mod 12 and Mod 13 strategic/tactical nuclear bombs, and conventional ordnance including the AGM-158 JASSM-ER cruise missile.
+The B-21 emerged from the Air Force's LRS-B program, which began in 2011 and awarded Northrop Grumman the major development contract in 2015. The USAF aimed to have the aircraft in service "in the mid-2020s". By 2021, that date had slipped to 2027.
+The B-21 is part of the effort to modernize the nuclear triad of the United States, along with the LGM-35 Sentinel intercontinental ballistic missile and Columbia-class submarine. The B-21 is expected to double the US nuclear-capable bomber fleet from 60 to 120.
+As of 2025, many aspects of the B-21 special access program were still highly classified, though some information has been made public since 2015. The first B-21 aircraft was unveiled in December 2022 at Northrop Grumman's production facilities in Palmdale, California. The first flight of a B-21 took place on 10 November 2023. Two other B-21s were in ground testing by September 2024, and a second B-21 took flight a year later.
+
+
+== Design and development ==
+
+The Air Force launched the classified Long Range Strike Bomber (LRS-B) program in 2011 to create a stealthy intercontinental strategic bomber that could deliver conventional and thermonuclear weapons. The service issued a request for proposals to develop an LRS-B aircraft in July 2014 and awarded a development contract to Northrop Grumman in October 2015. The contract award was protested by Boeing and Lockheed Martin, who had submitted a joint bid, but a year later the Government Accountability Office (GAO) sustained the USAF's decision. The GAO report revealed that cost was the deciding factor in selecting Northrop Grumman over the Boeing-Lockheed Martin team.
+Management and acquisition of the B-21 program is overseen by the Air Force Rapid Capabilities Office, rather than through the traditional military-procurement process. The program remains subject to the Nunn–McCurdy reporting requirements to the US Congress.
+A 2015 media report said the Air Force wanted the bomber to also function as an intelligence collection platform, battle manager, and interceptor aircraft. In 2016, Air Force Secretary Deborah Lee James said the B-21 would be a "fifth-generation global precision attack platform" with networked sensor-shoot capability. Northrop Grumman describes the B-21 as "the world's first sixth-generation aircraft."
+
+At the 2016 Air Warfare Symposium, Air Force officials announced that the LRS-B would be designated "B-21" because it would be the 21st century's first bomber. In September 2016, Air Force officials announced that the B-21 would be named "Raider" in honor of the Doolittle Raiders. Retired Lt. Col. Richard E. Cole, the last member of the Doolittle Raiders then living, was present at the naming ceremony at the Air Force Association conference.
+In March 2016, the USAF announced seven tier-one suppliers for the program: Pratt & Whitney, BAE Systems, Spirit AeroSystems, Orbital ATK, Rockwell Collins, GKN Aerospace, and Janicki Industries.
+In 2016, the F-35 program manager Chris Bogdan said the B-21's engines would be similar enough to the F-35's Pratt & Whitney F135 engine to reduce its cost.
+
+The program completed its critical design review in December 2018. In January 2020, Air Force officials released new B-21 renderings, showing the distinctive flush and blended inlets and the two-wheel main landing gear design. The drawing appeared to show a smaller, lighter aircraft than the B-2. Similar to the B-2, it is a flying wing and lambda wing design.
+
+
+=== Production and assembly ===
+In February 2016, the head of the Air Force Global Strike Command said he expected the service would place an initial order for 100 B-21s and build up to a full fleet of 175 to 200. In 2017, two USAF studies suggested that the Air Force could increase its initial purchase from 80-to-100 to 145 aircraft.
+The B-21 is assembled at the USAF Plant 42 near Palmdale, California, at the same facility Northrop Grumman used during the 1980s and 1990s to build B-2 bombers.
+
+In January 2017, Northrop Grumman was awarded a $35.8 million contract modification for a large coatings facility at Plant 42, to be completed by the end of 2019. The contract announcement did not mention the B-21, but the facility is thought likely to be for B-21 stealth coating. By the summer of 2019, it was reported that construction of the first aircraft was underway. In early 2021, several media outlets reported that as completion of the first B-21 approached, construction on the second unit had begun.
+
+At a congressional hearing in June 2021, Darlene Costello, the acting Assistant Secretary of the Air Force Acquisition, Technology & Logistics, confirmed that the first two B-21s were under construction at Plant 42.
+By February 2022, six B-21s were under construction. The first B-21 was moved to a calibration facility the following month. About 8,000 Northrop Grumman employees had worked on the program with more than 400 suppliers from at least 40 states.
+
+The first B-21 test aircraft was unveiled at Northrop Grumman's production facilities in Palmdale, California, on 2 December 2022. At the unveiling, Northrop CEO Kathy Warden said that the B-21 is designed with a modular open systems architecture to allow easy upgrades and, potentially, the ability to export components to foreign buyers. Warden said that the B-21's internal operations were "extremely advanced compared to the B-2" and that the B-21 was slightly smaller than the B-2, but the range was longer.
+The first B-21s are not prototypes but rather test aircraft that the Air Force will convert to operational configuration after the completion of tests.
+In September 2023, program officials said fueling and engine tests were proceeding ahead of the anticipated first flight by year's end. The first test flight of the B-21 took place on 10 November 2023 at the Air Force's Plant 42 in Palmdale, California.
+On 23 January 2024, a low rate initial production (LRIP) contract was awarded.
+
+
+=== Program costs ===
+In July 2016, the USAF said it would not release the estimated cost of Northrop's B-21 contract as the number would reveal too much about the classified project to potential adversaries. The Senate Armed Services Committee also voted not to publicly release the program's cost, restricting the information to congressional defense committees, over the objections of a bipartisan group of legislators led by the committee's chairman, Senator John McCain. McCain's proposed revisions to the National Defense Authorization Act (NDAA) for Fiscal Year 2017 would have reduced authorization for the B-21 program by $302 million "due to a lower-than-expected contract award value", while requiring "strict ... program baseline and cost control thresholds", "quarterly program performance reports", and "disclosure of the engineering and manufacturing development total contract award value". The versions of the 2017 NDAA as initially passed by the House and Senate would have required public disclosure of the total cost of the B-21, but this provision was removed in the final conference report version.
+In December 2022, the cost of the B-21 was estimated at $700 million per aircraft. At the time, Air Force officials estimated that they would spend at least $203 billion over 30 years to develop, purchase, and operate a fleet of at least 100 B-21s.
+
+
+=== Maintenance, sustainment, and operation ===
+
+Maintenance and sustainment of the B-21 will be coordinated by Tinker Air Force Base, Oklahoma, while Edwards Air Force Base, California, will lead testing and evaluation. The B-21 is expected to operate from bases that currently host heavy bombers, such as Dyess Air Force Base, Texas; Ellsworth Air Force Base, South Dakota; and Whiteman Air Force Base, Missouri. In March 2019, Ellsworth was selected as the base to host the first operational B-21 unit, as well as the first training unit.
+The B-21 is intended by 2040 to replace the US Air Force's 45 B-1 strategic bombers, which date from the 1980s, and 19 B-2 strategic bombers, which date from the 1990s. The B-21 may also eventually replace the USAF's 72 B-52 bombers, which originally date from the 1950s and as of 2022 are planned to remain in service for many further decades. The USAF plans to replace its bomber fleet and most of the service's nuclear delivery weapons, including its intercontinental ballistic missiles (ICBMs). The Air Force is focusing on Indo-Pacific operations around the B-21. Officials say it is a crucial platform in a potential conflict with China, while the B-2 Spirit was developed considering conflict with the Soviet Union.
+
+
+=== Armament ===
+The B-21 will be assigned to carry the AGM-181 LRSO nuclear air-to-ground cruise missile, the B61 Mod 12 nuclear glide bomb, and the B61 Mod 13 nuclear bunker buster. The LRSO will also be assigned to the B-52 but not the B-2, and is expected to have a range of at least 1,500 mi (2,400 km). The B61 Mod 12 is also assigned to the B-2 and a range of fighters including the F-35, but the F-35 will not carry the Mod 13.
+The B-21 will be able to carry conventional weapons, including the AGM-158 JASSM-ER extended-range variant, capable of at least 620 mi (1,000 km).
+
+
+=== Former related projects ===
+
+In March 2022, Air Force Secretary Frank Kendall III raised the possibility of a bomber drone to work with the bomber, but the idea was later dropped because it would not save much money to produce such a large, unmanned aircraft.
+As of 2016, the USAF was also planning to acquire a new long-range fighter from its Next Generation Air Dominance program, known as the F-X or "Penetrating Counter-Air", to escort the B-21 deep into enemy territory and help it survive enemy air defenses and intercepting fighters.
+
+
+=== Possible Australian interest ===
+In December 2022, an Australian Strategic Policy Institute report advocated acquiring a number of B-21 Raiders to provide the Royal Australian Air Force (RAAF) a greater long-range strike capability.
+The report stated that a B-21 could fly 2,500 miles (4,000 km) without refueling while carrying more munitions than the maximum 930-mile (1,500 km) range of the RAAF's F-35 fighter jets, which require air-to-air refueling for longer missions. A single B-21 can also deliver the same impact as several F-35As. Additionally, the B-21 can attack targets from secure air bases located in Australia's south, with greater proximity to more personnel, fuel, and munitions.
+During bilateral talks held in August 2022, it was reported that the US might allow Australia to procure the B-21. When asked if the US would consider allowing Australia to join in developing the B-21 bomber, USAF Secretary Frank Kendall stated, "I don't think that there's any fundamental limitation on the areas in which we can cooperate. If Australia had a requirement for long-range strike, then we'd be willing to have a conversation with them about that." However, the Defence Strategic Review released by the Australian government on 24 April 2023 stated that the B-21 was not considered a suitable option for acquisition. Australia will instead invest in upgrading its F-35As and F/A-18Fs to the latest Block 4 and Block III configurations, respectively, to enable both aircraft to launch the AGM-158C LRASM and the Joint Strike Missile.
+As part of an Institute of Public Affairs paper released in August 2024, the first of six recommendations encouraged the Australian government to reconsider its position on the Raider and states that it should purchase the Raider to reconcile a long-range strike gap should the AUKUS program have delays.
+
+
+=== Flight and testing ===
+
+The test program is managed by the US Air Force Test Center and the 412th Test Wing's B-21 Combined Test Force, which includes Northrop Grumman personnel. The B-21 took its maiden flight on 10 November 2023. On 17 January 2024, the B-21 flew its second publicly acknowledged test flight, from Edwards Air Force Base. By September 2024, three test aircraft were in service: one performing one or two flight tests per week, and the others involved in ground tests. On 11 September 2025, the second B-21 conducted its maiden flight.
+
+
+== Operators ==
+ United States (100 planned)
+Air Force Materiel Command (AFMC)
+412th Test Wing, Edwards AFB, California
+420th Flight Test Squadron
+Air Force Global Strike Command (AFGSC) (planned)
+7th Bomb Wing, Dyess AFB, Texas
+28th Bomb Wing, Ellsworth AFB, South Dakota
+509th Bomb Wing, Whiteman AFB, Missouri
+
+
+== Specifications (estimates) ==
+
+Data from Aviation Week & Space Technology and The War ZoneGeneral characteristics
+Crew: 2
+Length: 54 ft (16 m)
+Wingspan: 145–155 ft (44–47 m)
+Empty weight: 70,000 lb (31,751 kg)
+Max takeoff weight: 180,000 lb (81,647 kg)
+Powerplant: 2 × Pratt & Whitney PW9000 non-afterburning turbofans, 27,000 lbf (120 kN) thrust each
+Performance
+
+Maximum speed: Mach 0.8+ : 850 km/h
+Service ceiling: 50,000 ft (15,000 m)
+Armament
+
+Hardpoints: 1 × main weapons bay with a capacity of 20,000 lb (9,100 kg) weapon load
+Missiles: AGM-181 LRSO
+Bombs: JDAM family of munitions
+
+
+== See also ==
+2037 bomber program
+
+Aircraft of comparable role, configuration, and era
+
+Tupolev PAK DA
+Xian H-20
+
+Related lists
+
+List of bomber aircraft
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Official B-21 Raider webpage from Northrop Grumman
+Official B-21 Raider fact sheet from the US Air Force

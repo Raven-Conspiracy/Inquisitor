@@ -1,0 +1,134 @@
+The Shenyang J-15 (Chinese: 歼-15; pinyin: Jiān-Shíwǔ), also known as Feisha (Chinese: 飞鲨; pinyin: fēi shā; lit. 'Flying Shark'; NATO reporting name: Flanker-X2, Flanker-K) is a Chinese all-weather, twin-engine, carrier-based 4.5 generation multirole fighter aircraft developed by the Shenyang Aircraft Corporation (SAC) and the 601 Institute, specifically for the People's Liberation Army Naval Air Force (PLANAF) to serve on People's Liberation Army Navy's (PLAN) aircraft carriers.
+The aircraft entered active service with the PLAN in 2013. An improved variant, named J-15T, incorporating CATOBAR launch capability, modern fifth-generation avionics, entered active service in the South China Sea in October 2024.
+
+
+== Development ==
+In 2001, China acquired the T-10K-3, an unfinished prototype of the Su-33, from Ukraine, and it is claimed that China studied the aircraft extensively and reverse-engineered it, with development on the J-15 beginning immediately afterward. Another pre-production aircraft, the T-10K-7, was sold to the Chinese by Ukraine 2004 and was of great use. These two airframes were two of the three that were left to Ukraine after the dissolution of the Soviet Union. 
+China had sought to purchase Su-33s from Russia on several occasions—an unsuccessful offer was made as late as March 2009—but negotiations collapsed in 2006 after it was discovered that China had developed a modified version of the Sukhoi Su-27SK, designated the Shenyang J-11B, in violation of intellectual property agreements.
+However, according to Chinese sources, the reason China withdrew from talks was that Russia wanted large payments to re-open Su-33 production lines and insisted on a Chinese purchase of at least 50 Su-33s, about which China was reluctant, as it believed the aircraft would become outdated in a few years. China hence decided on an indigenous variant instead of continuing to assemble the J-11, the licensed Chinese version of Su-27.
+The J-15 program was officially started in 2006 with the codename Flying Shark. The program goal was to develop a naval-capable fighter aircraft from the Shenyang J-11, with technologies reverse-engineered from T-10K-3, a Soviet Su-33 prototype that had been acquired from Ukraine. The first J-15 prototype made its maiden flight on August 31, 2009, believed to have been powered by Russian-supplied Saturn AL-31 turbofan engines. Video and still images of the flight were released in July 2010, showing the same basic airframe design as the Su-33.
+On May 7, 2010, the aircraft conducted its first takeoff from a simulated ski-jump on land. On November 25, 2012, the aircraft successfully performed its first takeoff and landing on Liaoning, China's first operational aircraft carrier. The twin-seat variant, J-15S, made its maiden flight on November 4, 2012.
+After conclusion of the flight-test phase, in 2013 the first 24  J-15 aircraft were delivered to the Naval Aviation’s Carrier Fighter Group.
+In 2016, the new and updated J-15T prototype of the J-15 with added CATOBAR capability began test flight at PLAN land-based catapult facilities. The twin-seat electronic warfare variant, similar to the role of United States Navy's EA-18G Growler, dubbed J-15D, took its maiden flight in 2018. In November 2020, Jane's reported that SAC had produced a second prototype of the J-15T fighter aircraft.
+While the J-15 appears to be structurally based on the prototype of Su-33, the fighter features indigenous Chinese technologies as well as avionics from the Shenyang J-11B program. In February 2018, discussions about replacing the J-15 appeared in several Chinese media outlets including Xinhua and China's main military newspaper, discussing that it belongs to the 4th- or 4.5-generation fighters. Thus, the J-15 was correspondingly viewed as an interim carrier-based fighter until a fifth-generation successor enters service, namely the Shenyang J-35.
+In 2021, analysts reported work on an upgraded variant with new avionics, engines, and CATOBAR launch capability. The upgrade variant of J-15 is capable of launching newer PL-10 and PL-15 missiles. The J-11D upgrade program reportedly contributed to the subsystems. The J-15B program, often called by this name in the media, was officially given the original name "J-15T" later.
+In November 2022, a production J-15 powered by the Shenyang WS-10, possibly the WS-10B, appeared in Chinese media. It was the last indigenous Chinese combat aircraft to replace the AL-31; possibly due to navalisation. According to Chinese observers, compared to the AL-31 the WS-10 had superior safety, reliability, and service life, aspects which are magnified by the constraints of carrier aviation.
+
+
+== Design ==
+
+The airframe of the J-15 is structurally reinforced for carrier landing and launching, with the addition of a tailhook and strengthened landing gears. The aircraft incorporated a higher portion of composite materials than the Sukhoi Su-33 to save weight and improve aerodynamic performance, allowing for a slower landing speed compared to Su-33.
+An article in the China SignPost believes the J-15 "likely exceeds or matches the aerodynamic capabilities of virtually any fighter aircraft currently operated by regional militaries, except for the U.S. F-22 Raptor", alleging that the J-15 likely possesses a 10% greater thrust-to-weight ratio and 25% lower wing loading than the F/A-18E/F Super Hornet. However, one of the authors of that same article described the J-15 in another article as no game changer; the reliance on ski-jump launches and lack of Chinese carrier-based aerial refueling capabilities are believed to greatly reduce its effective combat range. In 2014, it was revealed that the J-15 is capable of aerial refueling, using the UPAZ-1 buddy refueling pod, which can be carried by another J-15. Hu Siyuan of the PLA National Defense University said that "the current weak point of the J-15 is its Russian-made AL-31 engines, which are less powerful than that of the American F-35 fighter".
+The J-15's chief designer, Sun Cong of the National Committee of the Chinese People's Political Consultative Conference, has said that the J-15 could match the F/A-18 in bomb load, combat radius and mobility. However, in a similar statement, he said more work was required on its electronics and combat systems. Rear Admiral Yin Zhuo stated that the aircraft's air combat capabilities were better than that of the F/A-18E/F Super Hornet. However, he also stated that its ability to attack land and sea targets was slightly inferior to the F/A-18E/F; it is also stated that its electronic equipment meets the standards of those on a fifth-generation fighter.
+
+The J-15 may be operating from the aircraft carriers Liaoning and Shandong. The carriers have two launch positions. The waist position has a runway length of 195 m, and the two forward positions have a runway length of 105 m. The take-off weight of the J-15 depends on the launch position and carrier speed. For ship speed at 28 knots, J-15's maximum take-off weight is 33 tons (with 9 tons of internal fuel and a 6.5-ton external payload) for the waist position. The maximum weight is 28 tons (9-ton internal fuel and 1.5-ton external payload) for the forward position. However, when the carrier moves at 20 knots, MTOW at the waist position is reduced to 31 tons.
+
+
+== Operational history ==
+On 25 November 2012, Chinese media reported that two J-15s had made arrested landings on Liaoning.. The first landing was made by pilot Dai Mingmeng (戴明盟). Luo Yang, the aircraft's head of production and designer, died the same day. PLA Daily newspaper indicated that the first five naval pilots (including Dai) conducted J-15 fighter landings and takeoffs. Test and training program officials confirmed the carrier-borne aircraft and special equipment for the landing flight had gone through strict tests, and fighter jets can be deployed on the carrier.
+In December 2013, Chinese media reported that mass production of J-15s in full operational condition with combat markings had begun.
+
+In January 2017, Liaoning conducted take-off and landing drills with its J-15s in the South China Sea after its first deployment into the Western Pacific.
+In July 2018, PLAAF Lieutenant General Zhang Honghe reported that a carrier-based replacement for the J-15 was in development after two crashes and "unpardonable mechanical failures". One issue was the limited payload due to the weight of the aircraft - the empty weight is 17,500 kg (38,600 lb) compared to the F/A-18E/F Super Hornet's 14,600 kg - and operating from a STOBAR carrier.
+In October 2024, Chinese state media reported the J-15T and J-15D flying with Liaoning and Shandong in the South China Sea, suggesting the aircraft had entered service. Both aircraft were officially revealed at the China International Aviation & Aerospace Exhibition in November 2024.
+On 1 August 2025, Chinese media released a video teasing the launch of the Shenyang J-15T variant on the Type 003 Fujian aircraft carrier with electromagnetic catapults. Though no complete sequence of the take-off and recovery was shown, analysts believed the carrier and its air wing were reaching an important milestone.
+On 22 September 2025, the Chinese state broadcaster released multiple videos and photos showing the complete catapult launch and recovery (CATOBAR) sequence for the Shenyang J-15T, along with Shenyang J-35 and Xi'an KJ-600 aircraft on the Type 003 Fujian aircraft carrier, via the ship's electromagnetic catapults. PLA Navy also announced that, with three aircraft being certified for CATOBAR flight operations, Fujian had achieved "initial full-deck operational capability", and the test would lay the foundation for the subsequent integration of the carrier aviation wing and the carrier strike group. These test flights were likely conducted months earlier, instead of in September.
+
+
+== Accidents ==
+In April 2016, a J-15 crashed into the ocean after experiencing a flight control system failure. The pilot, Cao Xianjian, ejected shortly before impact, below the altitude needed for the parachute to function; he was severely injured upon landing.
+On 27 April 2016, a J-15 crashed during a simulated landing when a flight control system malfunction caused the aircraft to pitch up to 80 degrees. The pilot, Zhang Chao, ejected below the altitude needed for the parachute to function; he eventually died from injuries sustained upon landing, and was posthumously awarded the First Class Order of Heroic Exemplar on 30 November.
+In July 2017, a J-15 suffered a left engine fire after ingesting a bird shortly after takeoff. The pilot, Yuan Wei, with the aid of instructions from air traffic controllers, performed an emergency landing and ground crews extinguished the fire.
+On 15 March 2025, a J-15 crashed near Jialai Town in the Hainan Province of China. The aircraft's nose down, tail up position, along with  it flying with gear down at slow speeds indicates that the aircraft was trying to land when the incident happened, however the cause is still being investigated. Reports say that the pilot successfully ejected from the aircraft and no one was harmed in the incident.
+
+
+== Variants ==
+
+J-15 (NATO reporting name Flanker-X2): Single-seat variant.
+J-15S : Two-seat variant, first flown in 2012.
+J-15T : Improved variant of J-15 incorporating CATOBAR launch capability, WS-10 engines, modern fifth-generation avionics, AESA radar, new airframes, stealth coatings, and compatibility to launch PL-10 and PL-15 missiles. First seen in September 2016, with two prototypes built. In active service as of October 2024. Previously referred to as J-15B in media.
+J-15DH : Two-seat electronic warfare variant with EW pods and other electronic equipment installed and IRST sensor removed. Began operational testing in December 2018, and entered service by October 2024. Suitable for STOBAR operations. It was named J-15D by analysts before its official name reveal.
+J-15DT : Improved J-15D EW aircraft with electronic warfare support and strike capability, incorporating CATOBAR launch modifications, changes in radome shape, and modified fuselage antennas. First observed in August 2025.
+
+
+== Operators ==
+ China
+People's Liberation Army Naval Air Force - 60 J-15, 50+ J-15T and 6 J-15D units in service as of 2026.
+Chinese aircraft carrier Liaoning
+Chinese aircraft carrier Shandong
+Chinese aircraft carrier Fujian
+Lingshui Air Base
+
+
+== Specifications (estimated) ==
+Data from Jianyue (Tianjin) Information Technology, CCTV (Sun Cong interview transcript)General characteristics
+Crew: 1 or 2
+Length: 22.28 m (73 ft 1 in)
+Wingspan: 14.70 m (48 ft 3 in) or 7.4 m (24 ft 3 in) with wings folded
+Height: 5.92 m (19 ft 5 in)
+Wing area: 67.84 m2 (730.2 sq ft)
+Empty weight: 17,500 kg (38,581 lb)
+Gross weight: 27,000 kg (59,525 lb)
+Max takeoff weight: 33,000 kg (72,753 lb)
+Fuel capacity: 9,800 kg (21,600 lb) internal
+Powerplant: 2 × Saturn AL-31 or WS-10B afterburning turbofans, 122.6–135 kN (27,600–30,300 lbf) with afterburner
+Performance
+
+Maximum speed: 2,300 km/h (1,400 mph, 1,200 kn)
+Maximum speed: Mach 2.17
+Range: 3,500 km (2,200 mi, 1,900 nmi)
+Combat range: 1,270 km (790 mi, 690 nmi)
+Service ceiling: 18,000 m (59,000 ft)
+g limits: +8 g
+Rate of climb: 246 m/s (48,400 ft/min)
+Thrust/weight: 0.93 with AL-31 (1.01-1.07 with WS-10B)
+Armament
+
+1 × 30 mm GSh-30-1 cannon with 150 rounds
+Munitions on twelve external hardpoints with a capacity of 6,500 kg, including:
+PL-15 long-range air-to-air missile (J-15T)
+PL-12 medium-range air-to-air missile
+PL-10 short-range air-to-air missile
+PL-8 short-range air-to-air missile
+YJ-83K, YJ-12 anti-ship missile
+KD-88 AKF-98 standoff land attack missile
+YJ-91 anti-radiation missile
+YJ-15 supersonic cruise missile
+Various bombs and rockets
+UPAZ-1A buddy refueling pod
+Avionics
+
+Type 1493 radar
+J-15D and J-15T claimed to have AESA radar
+MIL-STD-1553B bi-directional data bus
+Glass cockpit
+LCD screen
+4-redundant 3-axis fly by wire
+
+
+== See also ==
+Fourth-generation jet fighter
+Related development
+
+Shenyang J-11B
+Shenyang J-16
+Sukhoi Su-33
+Aircraft of comparable role, configuration, and era
+
+Boeing F/A-18E/F Super Hornet
+Boeing EA-18G Growler
+Mikoyan MiG-29K
+Rafale M
+
+
+== References ==
+Citations
+
+Bibliography
+
+
+== External links ==
+
+J15 Naval Carrier Based Fighter, PLA Navy, J-15 fighter photos and introductions, AirForceWorld.com
+Chinese Military Aviation
+Flying Sharks, a J-15 fighter video.

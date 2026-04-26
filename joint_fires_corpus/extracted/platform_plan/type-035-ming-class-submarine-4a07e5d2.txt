@@ -1,0 +1,59 @@
+The Type 035 submarine (NATO reporting name: Ming class) is a class of diesel-electric submarines of the People's Liberation Army Navy. The Type 035 is a heavily improved redesign of the older Type 033 submarines (Romeo class), which were built in China from 1962 to 1984.
+
+
+== Background ==
+In 1963, under the 1950 Sino-Soviet Treaty of Friendship, Alliance and Mutual Assistance, the Soviet Union passed to China the necessary design details in order to produce Romeo-class submarines. The Chinese variant became known as the Type 033, of which China built a total of 84 between 1962 and 1984.
+During the 1970s, China's ambition to create an indigenous submarine industry led to the commissioning of Wuhan Ship Development and Design Institute (701 Institute) to design and build an improved submarine based on the Type 033 hull, named the Type 035 . Two Type 035 boats were completed by 1974.
+Further improvements were deemed necessary and by the early 1980s a new and improved design, named the Type 035A were produced. The first of these improved "A" models entered service in 1982, with three more under construction. The latter three boats were completed and commissioned by 1990.
+The Type 035G is the most numerous variant. A total of 12 were built and commissioned between 1990 and 1999. They were built with further improvements, especially in terms of noise reduction, weapons, sensors and crew living standards. The PLAN refer to this sub-class as, "new wine in an old bottle". Two boats of the Type 035A were upgraded to same standard as the Type 035G.
+The most modern design variant is the Type 035B, which features a redesigned conning tower and portions of the hull, giving it a very similar appearance to the newer Type 039 submarines. Type 035B are capable of launching land attack cruise missiles from their torpedo tubes. A total of four boats were commissioned between 2000 and 2003.
+
+
+== Variants ==
+Type 035: First unit of the Type 035 submarines, with construction of two units begun simultaneously in October 1969 in Wuchang Shipyard and Jiangnan Shipyard.  The general designer was Wei Xumin (魏绪民).  The most significant difference between Type 035  class and Type 033 class is that the former is driven by a single shaft instead of twin shafts of the latter. Trials completed in October 1974 and this first unit (original pennant number 162, but later changed to 232) built at Jiangnan Shipyard entered Chinese service in the following month.
+Type 035A: The second unit of the Type 035 class submarine with pennant number 342 was built at Wuchang Shipyard, and many problems were discovered during its trials. As a result, the Chinese navy ordered 701st Institute to perform a major redesign, which not only solved the problem, but also increased the top speed by 40% to 18.3 knots (33.9 km/h; 21.1 mph). The redesigned boat was completed in June 1980, and finally entered Chinese service on December 24, 1982, with a new designation of Type 035A. In December 1983, the decision was made to stop the production of a new Type 033-class boat and replace it with a Type 035A.  After the completion of the first Type 035A in 1982, the production of Type 035 briefly halted, until 1987, when the production restarted again and 3 more units were completed before the production ended in 1990.
+ES5C: Export version of Type 035/035A, with updated fire control system to launch acoustic homing torpedoes. There is no known export, but the design was used to upgrade Type 035/035A fleet.
+ES5D: further development of ES5C for export, with capability to launch anti-ship missiles while submerged added.  As with its predecessor ES5C, there is no known export but the design was used to upgrade Type 035/035A fleet.
+Type 035G: Program begun in 1985, and the first unit with pennant number 356 was launched in 1989, entering service in December 1990, and state certification received in 1993.  This is the first Type 035 series to have anti-submarine (ASW) capability. The primary weaponry for Type 035G is Yu-3 torpedo, and French sonar DUUX-5 and its Chinese-built version were used on later units, 12 of which were completed between 1990 and 1999.  The last unit with pennant number 308 was lengthened by 2 meters (6 ft 7 in) to add a section for AIP tests.
+ES5E: Export version developed from Type 035G, with ability to launch wire-guided torpedoes added, but there is no known export.
+Type 035ET: French sonar system and its equivalent Chinese version on ES5E export version of Type 035 was expensive, so a cheaper alternative was developed, using Italian sonar systems, the JP-64 active sonar and Velox passive sonar of the Toti-class submarine. However, this failed to attract any buyers and the unit went into Chinese service instead.
+ES5F: Export version with integrated sonar system that integrates previously separated active, passive ranging, flank (and towed upon customer's request) sonar into one.
+Type 035B: Latest version of the Type 035 submarine. First batch of four completed between 2000 through 2003, and additional order followed sometimes later.  Conning tower and certain portion of hull was redesigned, with new structure similar to that of Type 039 submarine.  This type was capable of launching land attack cruise missiles from torpedo tubes.
+
+
+== Boats of the class ==
+The following are the pennant numbers of each boat, according to their type:
+
+Type 035 (ES5C): 232 and 233
+Type 035A: 352, 353 and 354
+ES5D: 342
+Type 035G (ES5E): 356, 357, 358, 359, 360, 361, 362, 363, 305, 306, 307 and 308
+Type 035B (ES5F): 309, 310, 311, 312 and 313
+
+
+== Exports ==
+
+
+=== Bangladesh ===
+The Bangladesh Navy ordered two off the shelf Type 035G submarines from China in 2013 worth $203 million. The boats underwent refit in China and delivery was made on 14 November 2016.  They are the Bangladesh Navy's first submarines. The names and pennant numbers of the submarines are BNS Nabajatra (S 161) and BNS Joyjatra (S 162) respectively. They were commissioned on 12 March 2017.
+
+
+=== Myanmar ===
+The Myanmar Navy commissioned its sole Type 035B Class submarine - the UMS Minye Kyaw Htin - which was formerly in Chinese Service and handed over after Myanmar's acquisition of a Kilo Class Submarine from India. It has been deployed in training exercises since.
+
+
+== Accident ==
+
+In April 2003, the Type 035 class submarine 361 suffered a mechanical failure that killed all 70 crew members on board during an exercise in the Yellow Sea between North Korea and China's Shandong Province. It was one of China's worst peacetime military disasters. The PLA Navy's Commander Shi Yunsheng and Political Commissar Yang Huaiqing were both dismissed as a result of the accident.
+
+
+== Surviving boats ==
+Changcheng 353, in Tianjin Binhai Theme Park, Tianjin
+Changcheng 191, in Huangpu Binjiang, Shanghai, Shanghai
+
+
+== See also ==
+People's Liberation Army Navy Submarine Force
+
+
+== References ==

@@ -1,0 +1,86 @@
+The Boeing Insitu RQ-21 Blackjack, company name Integrator, is an American unmanned air vehicle designed and built by Boeing Insitu to meet a United States Navy requirement for a small tactical unmanned air system (STUAS). It is a twin-boom, single-engine monoplane, designed as a supplement to the Boeing Scan Eagle. The Integrator weighs 61 kg (134 lb) and uses the same launcher and recovery system as the Scan Eagle.
+
+
+== Development ==
+The RQ-21 was selected in June 2010 over the Raytheon Killer Bee, AAI Aerosonde, and General Dynamics/Elbit Systems Storm.
+The RQ-21A Integrator first flew on 28 July 2012. On 10 September 2012, the Integrator entered developmental testing with a 66-minute flight. The Navy launched one using a pneumatic launcher and a recovery system known as Skyhook. This eliminates the need for runways and enables a safe recovery and expeditionary capability for tactical missions on land or sea. At the current testing rate, Initial Operational Capability (IOC) was expected in 2013.
+On 10 February 2013, the Integrator completed its first at-sea flight from the USS Mesa Verde, a San Antonio-class amphibious transport dock. This followed completing three months of land-based flights.
+On 19 February 2013, Insitu completed the first flight of the RQ-21A Block II. It weighs 121 lb (55 kg) and flew for 2 hours. It was controlled by a new ground control system meant to integrate dissimilar UAV systems. The Block II has the sensor from the Nighteagle, the night version of the ScanEagle, and is designed to operate in high-temperature environments.
+On 15 May 2013, the Department of the Navy announced that the RQ-21A Integrator received Milestone C approval authorizing the start of low-rate initial production. With Milestone C approval, the Integrator entered production and deployment.
+On 12 June 2013, the RQ-21A completed its first East Coast flight from Webster Field Annex, starting the next phase of tests for the Integrator. The UAV was launched with a pneumatic launcher, flew for 1.8 hours, and was recovered with an Insitu-built system known as the STUAS Recovery System (SRS), which allows safe recovery of the STUAS on land or at sea. This phase of testing was to validate updates made to the aircraft which include software, fuselage, and camera enhancements. The Integrator was test flown at lower density altitudes. Integrated Operational Test and Evaluation (IOT&E) was scheduled for October 2013.
+In September 2013, the Integrator was renamed the RQ-21A Blackjack. On 28 November 2013, the U.S. Navy awarded Boeing Insitu an $8.8 million contract for one low-rate production aircraft in preparation for full-rate production.
+In January 2014, the first low-rate production RQ-21A Blackjack began IOT&E for the U.S. Navy and U.S. Marine Corps. Testing was conducted over the next several months to demonstrate its effectiveness in realistic combat conditions. The Navy ordered three Blackjack systems in December 2014. By July 2015, the Navy had received two Blackjack systems. In July 2018, the Marines phased out the RQ-7 Shadow in favor of the Blackjack.
+
+
+== Design ==
+The RQ-21A Blackjack is designed to support the U.S. Marine Corps by providing forward reconnaissance. A Blackjack system is composed of five air vehicles and two ground control systems. The air vehicles can be launched on land or on a ship by a rail and land using a "skyhook" recovery system, where a vertical wire must be hooked onto its wing; when on the ground, the launch and recovery systems are towable by vehicles. Its wingspan is 16 ft (4.9 m) and it can carry a 39 lb (18 kg) payload. The day/night camera can achieve resolution rating of 7 on the NIIRS scale at 8,000 ft (2,400 m).
+The Marines are working with Insitu to modify the Blackjack fuselage to carry greater and more various payloads. Enlarging the fuselage would increase its maximum takeoff weight from 135 lb (61 kg) to 145 lb (66 kg) and lengthen endurance from 16 hours to 24 hours. New turrets are being explored as well as other payloads including a synthetic-aperture radar to track ground targets, a laser designator to mark targets for precision-guided munitions, and foliage-penetration capabilities for foreign customers operating in lush environments. The Office of Naval Research (ONR) plans to add a sensor to the Blackjack that combines an electro-optical camera, wide area imager, short wave infrared hyperspectral imager, and a high-resolution camera for use as an inspection sensor into a single payload by 2020.
+In Marines service, the Blackjack sometimes uses the designation MQ-21, where the 'M' prefix indicates a multipurpose operations platform, versus the 'R' prefix indicating a primary reconnaissance mission.
+
+
+== Operational history ==
+
+The U.S. Marine Corps deployed its first RQ-21A Blackjack system to Afghanistan in late April 2014. One Blackjack system is composed of five air vehicles, two ground control systems, and launch and recovery support equipment. It supports intelligence, surveillance, and reconnaissance (ISR) missions using multi-intelligence payloads including day and night full-motion video cameras, an infrared marker, a laser range finder, a communications relay package, and automatic identification system receivers. The models in Afghanistan were early operational capability (EOC) aircraft without shipboard software or testing. Deploying the aircraft on the ground was a method to detect and fix problems early to avoid delaying the project. The RQ-21 returned from its deployment on 10 September 2014 after flying nearly 1,000 hours in 119 days in theater. EOC Blackjacks will continue to be used for training, while completion of shipboard testing is planned to result in the system's first ship-based deployment in spring 2015.
+During the summer of 2016, MARSOC deployed the RQ-21A to Iraq.
+The fielding of the RQ-21A Blackjack unmanned aerial system achieved full operational capability in 2019. In March 2020, the RQ-21A Blackjack team at Patuxent River was awarded the NAVAIR Commander's Award for Platform Team With Highest Readiness. In April 2021, the Naval Supply Systems Command Weapon Systems Support (NAVSUP WSS) Unmanned Aerial Systems (UAS) Integrated Weapon System Team (IWST) was able to support the achievement of both 100% Mission Capable (MC) and 100% Fully Mission Capable (FMC) rate for the UAS RQ-21A "Blackjack" platform; a feat rarely, if ever, seen by any Type Model Series.
+
+
+== Variants ==
+RQ-21A Blackjack
+CU-172 Blackjack - version for the Canadian Armed Forces
+
+
+== Operators ==
+
+ Australia
+Australian Army – 24 systems ordered in March 2022.
+Royal Australian Navy
+ Bangladesh
+Bangladesh Army and Bangladesh Navy – Jointly operated.
+ Belgium
+Belgian Army – 2 systems ordered in December 2020.
+ Brunei
+Royal Brunei Air Force - 5 systems acquired in 2022.
+ Canada
+Canadian Army – 5 systems 
+Royal Canadian Navy – The RQ-21 Blackjack UAV contract was extended to include the installation of UAV launch, recovery and control capability on all Halifax-class patrol frigates.
+ Netherlands
+Royal Netherlands Army – 5 systems on order expected to enter service in 2014.
+ Poland
+Polish Land Forces – Order for an unknown number of systems placed in February 2018. First aircraft delivered in April 2018.
+Polish Special Forces – 1 aircraft ordered in August 2018.
+ United States
+United States Marine Corps – No longer in service.
+United States Navy – 25 systems on order each with five air vehicles each.
+An unidentified Middle Eastern customer purchased six systems.
+
+
+== Specifications ==
+Data from  Product PageGeneral characteristics
+Length: 8.2 ft (2.5 m)
+Wingspan: 16 ft (4.9 m)
+Empty weight: 81 lb (37 kg)
+Max takeoff weight: 135 lb (61 kg)
+Powerplant: 1 × EFI Piston Engine, 8 hp (6.0 kW)
+Propellers: 2-bladed
+Performance
+
+Maximum speed: 100 mph (170 km/h, 90 kn)
+Cruise speed: 63 mph (100 km/h, 55 kn)
+Range: 58 mi (93 km, 50 nmi) 
+Endurance: 16 hours
+Service ceiling: 19,500 ft (5,900 m)
+
+
+== See also ==
+
+Related development
+
+Boeing Insitu ScanEagle
+
+Related lists
+
+List of active United States military aircraft
+
+
+== References ==

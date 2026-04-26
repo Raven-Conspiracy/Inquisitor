@@ -1,0 +1,128 @@
+The Shenyang J-16 (Chinese: 歼-16; pinyin: Jiān-Shíliù),  also known as Qianlong (Chinese: 潜龙; pinyin: Qián Lóng; lit. 'Hidden Dragon', NATO reporting name: Flanker-N) is a Chinese all-weather 4.5 generation, tandem-seat, twin-engine, multirole strike fighter built by Shenyang Aircraft Corporation and operated by the People's Liberation Army Air Force (PLAAF). It is developed from the Shenyang J-11, the licensed production variant of the Russian Sukhoi Su-27. Its design is based on Su-30MKK.
+
+
+== Design and development ==
+With the development of military aircraft during the turn of the century, the PLAAF found its JH-7 fighters becoming increasingly obsolete. In the 1990s, China purchased Sukhoi Su-27 and Sukhoi Su-30MKK air superiority fighters from Russia, including those license-produced in China as the Shenyang J-11A. The J-11A was further developed into the J-11B single seat and BS twin seat variant with indigenous technology. The J-16 is a strike fighter derived from the J-11BS model.
+The J-16 is equipped with an active electronically scanned array (AESA) radar and is powered by two Chinese Shenyang WS-10A turbofan engines. Weight is reduced through greater use of composite materials. J-16 units have received radar-absorbent paint to reduce its radar signature, and enhance its suppression of enemy air defenses (SEAD) capability in conjunction with electronic support measures pods.
+The cockpit is fitted with helmet-mounted display (HMD) system to improve pilot's situational awareness.
+The electronic warfare version of the fighter, named J-16D, was developed in the 2010s. The aircraft reportedly made its first flight in 2015. J-16D is designed for SEAD, capable of housing internal jamming equipment and carrying various external electronic warfare pods.
+According to aviation researcher Justin Bronk of the Royal United Services Institute, J-16 holds advantages over Russian Flanker variants with its wide application of composite materials, longer range missiles, advanced sensors, and avionics. J-16 represents a transition by the Chinese aviation industry away from a past dependence on Russian technology towards developing modern derivatives that are superior to the Russian originals in many aspects. British combat aviation expert Abraham Abrams referred to the J-16 as "by far the world's most advanced [Su-27] Flanker derivative," citing China's major advantages in composite material, radar and missile technologies, as primary facilitators of this. He notes that many of the fighter's technologies are derived from those developed for the J-20 fifth generation fighter.
+The Chinese military is developing advanced autonomous capabilities for its combat aircraft. In March 2021, it was reported that a J-16 variant with the backseat co-pilot replaced by an artificial intelligence algorithm called "intelligence victory" (Chinese: 智胜; pinyin: Zhì shèng) was undergoing testing at Shenyang Aircraft Corporation. A similar aircraft was also spotted by satellite image at an experimental test base near Malan, Xinjiang in June 2021.
+
+
+== Production ==
+The J-16 fully replaced the single seat J-11B in production in 2018, with the two classes having been produced in parallel at Shenyang for over half a decade. A small number of twin seat J-11BS trainers remained in production alongside the J-16s into the following years.
+In August 2024 Military Watch Magazine (a Russian affiliated website) estimated that the J-16 fleet had exceeded 350 fighters at a conservative estimate, citing new images from the 125th Air Brigade confirming that aircraft is from the 13th production batch had begun deliveries to frontline units. Each batch of J-16s comprises between 24 and 30 fighters. The publication highlighted that these numbers made the J-16 "by far the most widely commissioned heavyweight fighter class by a single air force anywhere in the world since the turn of the century."
+
+
+== Operational history ==
+
+
+=== Flight testing ===
+The first flight is believed to have occurred in 2011–2012.
+
+
+=== Production ===
+In 2022, at least 245 J-16 airframes were produced.
+By the end of 2023, more than 280 aircraft were produced.
+As of September 29 2025, based on observable serial numbers, such as "1518" seen in a CCTV report, open-source analysis suggests the People's Liberation Army Air Force has a significant number of J-16 fighter aircraft in its inventory. Analysts, using a common method of interpreting Chinese aircraft serials as indicating batch and sequence numbers, estimate that the "1518" designation signifies the 18th aircraft of the 15th production batch. By extrapolating a typical batch size, this has led to an unofficial public estimate that at least 450 J-16s have been produced.
+
+
+=== Deployment ===
+In April 2014, the PLAAF received a regiment of J-16s.
+The J-16 entered service in 2015 and was officially revealed in 2017 during the People's Liberation Army's 90th anniversary parade.
+In 2021, Chinese Air Force began inducting J-16D in combat training.
+According to the Australian Department of Defence, on 26 May 2022 a J-16 intercepted a RAAF P-8 Poseidon surveillance aircraft over the South China Sea while the latter was "conducting routine maritime surveillance operations" over international waters. The newly elected Australian defence minister Richard Marles said that the J-16 first flew closely alongside the P-8, released flares and then flew in front of the P-8 where it released chaff into the flight path, of which some were ingested by the P-8's engine. The Australian Government lodged a protest with the Chinese Government over the incident and Marles said that Australia would not be deterred from conducting operations of the same or a similar nature in the future. According to a Chinese defense ministry spokesman, the Australian pilots acted "dangerously and provocatively," and ignored repeated warnings before the J-16 drove the Australian aircraft away. An article by the Lowy Institute, an Australian thinktank, said the interception marked an escalation in the grey zone actions that China was using to enforce its claims in the South China Sea.
+Out of all aircraft deployed in the Taiwan Strait, J-16 fighters are the most frequently used, possibly due to their electronic warfare capabilities. In August 2022, China dispatched large amount of J-16 fighters to the Taiwan strait, in response to the Nancy Pelosi's Taiwan visit.
+On May 26, 2023, a J-16 fighter made a fly-by cutting directly in front of the nose of a RC-135 Rivet Joint reconnaissance aircraft over South China Sea, forcing the American plane to fly through its jet wash, a maneuver colloquially known as "thumping". According to United States Indo-Pacific Command, the RC-135 was conducting "safe and routine operations" in international airspace. The PLA stated in response the following day that the American spy aircraft "deliberately intruded" into China's military training area. The Chinese Foreign Ministry rejected the American assertion of aggressive behavior and accused the US of posing a "serious danger" to China by frequently deploying reconnaissance aircraft and vessels to China, and spokesperson Mao Ning said during a regular briefing, "The US's provocative and dangerous moves are the root cause of maritime security issues. China urges the US to stop such dangerous provocations... China will continue to take necessary measures to resolutely defend its sovereignty and security."
+
+
+== Variants ==
+
+J-16
+J-16D: Electronic warfare variant. Equipped with wingtip EW pods; internal EW system replaces IRST and 30 mm cannon. Reportedly first flew in December 2015.
+
+
+== Operators ==
+ China
+People's Liberation Army Air Force – 330 J-16, 20 J-16D as of 2026.
+
+
+== Specifications ==
+Data from Defense Intelligence Agency (DIA), RupprechtGeneral characteristics
+Crew: 2
+Length: 21.9 m (71 ft 10 in)
+Wingspan: 14.7 m (48 ft 3 in)
+Height: 6.36 m (20 ft 10 in)
+Wing area: 62 m2 (670 sq ft)
+Empty weight: 18,700 kg (41,226 lb)
+Max takeoff weight: 35,000 kg (77,162 lb)
+Powerplant: 2 × Shenyang WS-10B afterburning turbofans, 135 kN (30,000 lbf) with afterburner
+Performance
+
+Maximum speed: 2,120 km/h (1,320 mph, 1,140 kn)
+Maximum speed: Mach 2
+Range: 3,000 km (1,900 mi, 1,600 nmi)
+Ferry range: 4,000 km (2,500 mi, 2,200 nmi)
+Service ceiling: 17,300 m (56,800 ft)
+g limits: +9
+Rate of climb: 230 m/s (45,000 ft/min)
+Armament
+
+1 × 30 mm GSh-30-1 cannon
+Munitions on 12 external hardpoints, including:
+Air-to-air missiles
+PL-9
+PL-10 (ASR)
+PL-12
+PL-15
+PL-17
+Anti-ship missiles
+YJ-12
+YJ-83K
+Air-to-surface missile
+AKF-98
+KD-88
+Rockets
+Guided bombs
+LS-500J Laser guided bomb
+Anti-radiation missiles
+YINGS-III targeting pod
+Avionics
+
+AESA radar
+EW pods (J-16D)
+
+
+== See also ==
+4.5 generation fighter
+Related development
+
+Shenyang J-11
+Shenyang J-15
+Sukhoi Su-30MKK
+Aircraft of comparable role, configuration, and era
+
+Dassault Rafale
+EA-18G Growler
+Eurofighter
+F-15EX Eagle II
+F/A-18E/F Super Hornet
+KAI KF-21 Boramae
+Sukhoi Su-35S
+
+Related lists
+
+List of fighter aircraft
+
+
+== Note ==
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Bibliography ===

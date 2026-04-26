@@ -1,0 +1,1634 @@
+Foreign Military Thought 
+ 
+ 
+Science of  
+Military Strategy 
+(2013)
+
+Printed in the United States of America 
+by the China Aerospace Studies Institute 
+ 
+ISBN 9798711548140 
+ 
+To request additional copies, please direct inquiries to  
+Director, China Aerospace Studies Institute,  
+Air University, 55 Lemay Plaza, Montgomery, AL 36112 
+ 
+All photos licensed under the Creative Commons Attribution-Share Alike 4.0 International 
+license, or under the Fair Use Doctrine under Section 107 of the Copyright Act for 
+nonprofit educational and noncommercial use.  
+All other graphics created by or for China Aerospace Studies Institute 
+ 
+E-mail: Director@CASI-Research.ORG 
+Web: http://www.airuniversity.af.mil/CASI  
+https://twitter.com/CASI_Research  @CASI_Research 
+https://www.facebook.com/CASI.Research.Org  
+https://www.linkedin.com/company/11049011  
+ 
+Disclaimer 
+The views expressed in this academic research paper are those of the authors and do not 
+necessarily reflect the official policy or position of the U.S. Government or the Department 
+of Defense. In accordance with Air Force Instruction 51-303, Intellectual Property, 
+Patents, Patent Related Matters, Trademarks and Copyrights; this work is the property of 
+the US Government. 
+ 
+Limited Print and Electronic Distribution Rights 
+Reproduction and printing is subject to the Copyright Act of 1976 and applicable treaties of 
+the United States.  This document and trademark(s) contained herein are protected by law. 
+This publication is provided for noncommercial use only. Unauthorized posting of this 
+publication online is prohibited. Permission is given to duplicate this document for 
+personal, academic, or governmental use only, as long as it is unaltered and complete 
+however, it is requested that reproductions credit the author and China Aerospace Studies 
+Institute (CASI). Permission is required from the China Aerospace Studies Institute to 
+reproduce, or reuse in another form, any of its research documents for commercial use. For 
+information on reprint and linking permissions, please contact the China Aerospace Studies 
+Institute. 
+ 
+Cleared for Public Release, Distribution unlimited.
+
+China Aerospace Studies Institute 
+ 
+CASI's mission is to advance understanding of the capabilities, development, 
+operating concepts, strategy, doctrine, personnel, organization, and limitations of China's 
+aerospace forces, which include: the PLA Air Force (PLAAF); PLA Naval Aviation 
+(PLAN Aviation); PLA Rocket Force (PLARF); PLA Army (PLAA) Aviation; the PLA 
+Strategic Support Force (PLASSF), and the civilian and commercial infrastructure that 
+supports the above. 
+CASI supports the Secretary, Chief of Staff of the Air Force, the Chief of Space 
+Operations, and other senior Air and Space leaders.  CASI provides expert research and 
+analysis supporting decision and policy makers in the Department of Defense and across 
+the U.S. government.  CASI can support the full range of units and organizations across the 
+USAF, USSF, and the DoD. CASI accomplishes its mission through conducting the 
+following activities:   
+§ 
+CASI primarily conducts open-source native-language research supporting its five main 
+topic areas.  
+§ 
+CASI conducts conferences, workshops, roundtables, subject matter expert panels, and 
+senior leader discussions to further its mission.  CASI personnel attend such events, 
+government, academic, and public, in support of its research and outreach efforts. 
+§ 
+CASI publishes research findings and papers, journal articles, monographs, and edited 
+volumes for both public and government-only distribution as appropriate.  
+§ 
+CASI establishes and maintains institutional relationships with organizations and 
+institutions in the PLA, the PRC writ large, and with partners and allies involved in the 
+region. 
+§ 
+CASI maintains the ability to support senior leaders and policy decision makers across 
+the full spectrum of topics and projects at all levels, related to Chinese aerospace. 
+ 
+CASI supports the U.S. Defense Department and the China research community writ-
+large by providing high quality, unclassified research on Chinese aerospace developments 
+in the context of U.S. strategic imperatives in the Asia-Pacific region. Primarily focused on 
+China’s Military Air, Space, and Missile Forces, CASI capitalizes on publicly available 
+native language resources to gain insights as to how the Chinese speak to and among one 
+another on these topics.
+
+PROJECT EVEREST 
+Department of Defense epicenter for human-centered strategic art 
+  
+Overview 
+ 
+Project Everest is a strategy design start-up inspired by Andrew Marshall’s call to cultivate 
+comprehensive understanding of U.S. competitors in pursuit of national security. Project 
+Everest contributes to this vision in two fundamental ways: by recurrently educating 
+defense professionals on adversaries’ ways of war and by facilitating the development of 
+novel strategies that achieve competitive advantage over these adversaries. Founded in 
+2013, Project Everest has grown its membership to hundreds, and shaped policy and 
+education campaigns at the national level. 
+  
+The Problem 
+ 
+Project Everest tackles two significant national security problems for our nation. First, 
+Project Everest seeks to cultivate understanding of an adversary over a career, rather than 
+upon assignment to a given region or staff. 
+  
+Project Everest seeks to invigorate the Chairman of the Joint Chiefs’ 2013 charge to 
+develop an officer cadre with deep regional expertise and to answer the 2018 National 
+Defense Strategy’s charge to “prioritize developing the intellectual firepower of our 
+warfighters and workforce via education and training”. We bring motivated individuals 
+with subject-matter expertise in their primary specialty together to recurrently interrogate 
+key strategic issues throughout their careers. Over time, Project Everest will generate a 
+cadre of high-caliber officers familiar with the near-peers’ ways of war and experienced in 
+thinking through the toughest operational and strategic challenges. 
+  
+Second, Project Everest seeks to inject creativity into stale strategy development methods 
+for the Department of Defense, inspiring novel approaches to competition and warfighting. 
+  
+Defense strategy development methods are outdated. Linear, industrial assembly-line 
+approaches to strategy development overlook opportunities to understand how the 
+adversary thinks about and plans for competition and war. Prevalent strategy development 
+techniques fail to unlock the creative potential of functional experts. 
+  
+Project Everest was founded by six SAASS graduates who range in gender, expertise, rank, 
+status, ethnicity, and personality, but who have a shared vision to inspire change in the way 
+our nation prepares to compete and fight.
+
+In Their Own Words 
+ 
+The “In Their Own Words” series is dedicated to translations of Chinese documents 
+in order to help non-Mandarin speaking audiences access and understand Chinese 
+thinking. CASI would like to thank all of those involved in this effort.  
+In the “In Their Own Words” series, CASI and its collaborators aim to provide 
+Chinese texts 
+that illustrate thoughtful, clearly articulated, authoritative foreign 
+perspectives on approaches to warfare at the strategic, operational, and tactical levels.  
+ 
+ 
+Project Everest Comments 
+ 
+The Science of Military Strategy is part of the Project Everest “Foreign Military 
+Thought” series. This particular volume was published under the auspices of Project 
+Everest in conjunction with the China Aerospace Studies Institute. The text is a capstone 
+document on PRC’s current military strategy, articulated starting in December 2013, 
+having been selected as a highly prioritized (“key-point”) PLA-wide topic of 2011. The 
+text was prepared by China’s Academy of Military Sciences faculty with very high-level 
+review, and this is the third publication of the text after the 1987 and 2001 publications. 
+This document is one of the featured “Military Academic Works of the Academy of Military 
+Sciences.” In a comprehensive way covering many elements, this text documents the 
+codified current PRC strategy for the preparation and conduct of a spectrum of warfare. 
+The U.S. editors apply a stringent vetting process to select foreign texts. Selected 
+texts will help build a deep understanding of different approaches to warfare and clarify 
+details of foreign perspectives that may have both commonalities and asymmetries to U.S. 
+approaches. This series will stimulate thought on both the core elements of military 
+strategy and operational concepts for force application during war. CASI and Project 
+Everest believe that cultivating 
+a holistic understanding of foreign perspectives by 
+learning from high-quality original material articulated from a foreign perspective offers 
+an invaluable starting point for the exchange of ideas and the development of military 
+thought. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The translation and publication of Science of Campaigns does not constitute 
+approval by any U.S. Government organization of the contents, inferences, findings, or 
+conclusions contained therein. Publication is solely for the exchange of information and 
+stimulation of ideas.
+
+Translators’ Notes 
+ 
+This translation of the original text aims to accurately capture the technical 
+meanings, in both English and Chinese. This will ensure that the reader will not 
+inadvertently draw the wrong substantive understanding based on inaccurate 
+translations. 
+ 
+Note on Trouble Terms: 
+ 
+Throughout the text are certain terms that are translated with the Chinese pinyin 
+modifying the terms. This convention allows the reader to distinguish nuances that exist 
+in the Chinese terms. 
+ 
+Jihua and guihua plans. The jihua plan is a more specific plan, a plan that is meant to be 
+carried out to the letter, whereas the guihua plan is a more general plan that is 
+macroscopically focused. In order to retain the intended Chinese distinction, the jihua 
+plan is rendered as “plan {jihua}” due to its prevalence in this translation. The guihua 
+will be rendered in a more customary fashion of guihua plan. 
+ 
+Bushi and bushu dispositions. Bushi disposition is the mission differentiation, organized 
+grouping, and positioning [deployment] accomplished for strengths within the campaign 
+task-based organization. Bushi denotes the relationship between one’s own military 
+forces, the opponent’s military forces, and the combat environment (e.g., terrain). Bushu 
+disposition is the positioning of participating force-strengths for a fixed time and space 
+on the basis of mission differentiation and the organized grouping of campaign and in 
+accordance with operational conditions and the enemy’s possible activities. 
+ 
+Xitong, tixi, tizhi, and zhidu systems. The system {xitong} is an elemental system, one 
+that can operate on its own. The tixi-system is similar conceptually to a System of Systems 
+as often seen in systems engineering; in Chinese, a tixi-system is understood to be 
+composed of elemental systems {xitong} acting together as a larger whole. The tizhi- 
+system is a large-scale system, typically a national-scale system and understood to be 
+formalized embodiment of a zhidu-system. The zhidu-system describes a conformance 
+system, one where all elements of that system conform to how that system is defined. 
+ 
+Note on Table of Contents: 
+ 
+The double pagination shown in the Table of Contents represents: 1) the original page 
+numbers from Science of Campaigns (2006) followed by 2) the actual page number of 
+this translation. Additionally, the headings throughout the document also reference 
+original page numbers from the original-language text.
+
+The Science of Military Strategy 
+(2013 Edition) 
+ 
+战略学  
+ 
+{zhanlue xue (2013 nianban)} 
+ 
+Academy of Military Science Military Strategy Studies Department 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Military Science Press 
+. 
+Translator’s Note: The front cover of the Chinese book shows an English title 
+of The Science of Military Strategy. For consistency purposes in referring to the 
+book by name, this translation adopts the same printed English title on the title 
+page. The actual title of this book in Chinese is zhanlue xue, translating in 
+English to science of strategy. Zhanlue xue, as the term appears in the text other 
+than the title, is thus translated as science of strategy.
+
+Cataloguing in Publication (CIP) Data 
+ 
+Science of Strategy/Academy of Military Science Military Strategy Studies Dept. 
+Beijing: Military Science Press, December 2013. 
+ISBN 978-7-80237-650-2 
+I. (1) War {zhan}… II. (1) Military {jun}… III. (1) Military Strategy – Science of 
+Strategy {junshi zhanlue – zhanlue xue} IV. (1) E81 
+Archival Library of Chinese Publications CIP Data Approval Number (2013) Nr. 
+272653 
+ 
+ 
+Book Name: Science of Strategy 
+Author: Academy of Military Science Military Strategy Dept. 
+Copy Editor: Sun Zhaoli {孙兆利} 
+Sleeve Design: Ni Chunhao {倪春昊} 
+Publication and Issue:  Military Science Press (Beijing City, Haidian District, Qinglong 
+Bridge 100091) 
+Standard Book Number:  ISBN 978-7-80237-650-2 
+Seller: Nationwide Xinhua Bookstore 
+Printer:  Beijing Xinhaida Printing Co. 
+Book Size: 700 mm x 1000 mm  1/16 
+Print Sheet: 18.25 
+Word Count: 240,000 
+Edition: December 2013 Beijing 1st Edition 
+Print:  December 2013 1nd Print 
+Print Count: 1-5000 
+Set Price: 37.00 Yuan 
+ 
+Seller Hotline: (010) 62882626 
+66768547 (doubles as fax) 
+URL: http://www.jskxcbs.com 
+Email: jskxcbs@163.com 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+[End of page]
+
+Science of Strategy Writing Team 
+ 
+Chief Editor:   Shou Xiaosong {寿晓松} 
+Writers: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[End of page] 
+Shou Xiaosong {寿晓松} 
+Pi Mingyong {皮明勇} 
+Deng Hongzhou {邓红洲} 
+Chang Wei {常伟} 
+Xie Chaohui {谢朝辉} 
+Zhao Dexi {赵德喜} 
+Pan Youshui {潘友水} 
+Zhang Zhongliang {张忠良} 
+Zhou Xinsheng {周新胜} 
+He Hongli {贺宏礼} 
+Wen Bing {温冰} 
+Wang Guifang {王桂芳} 
+Xiong Yuxiang {熊玉祥} 
+Bao Bin {鲍斌} 
+Xiao Jingmin {肖敬民} 
+Yu Miao {于水淼} 
+Wang Xingwang {王兴旺} 
+Wang Xinjun {王新俊} 
+Shi Xiaoqin {师小芹} 
+Huang Yingxu {黄迎旭} 
+Yuan Dejin {袁德金} 
+Zhong Shaoyi {钟少异} 
+Wei Hong {魏鸿} 
+Guo Zhigang {郭志刚} 
+Yu Shujie {于淑杰} 
+Zhao Xiaozhuo {赵晓卓} 
+Jiang Xinfeng {江新凤} 
+Ding Hao {丁皓} 
+Liu Lin {刘琳} 
+Peng Zhengming {彭征明} 
+Cheng Xiaochun {程晓春} 
+Wang Mingliang {王明亮} 
+Wang Hongzhang {王鸿章} 
+Yue Guiyun {岳贵云} 
+Chai Junjian {柴军健}
+
+i 
+ 
+Preface 
+ 
+The Science of Strategy is an academic brand that our Academy has persisted in crafting 
+for a long time; regardless of it being the 1987 edition or the 2001 edition, both have 
+produced an extensive academic effect on the military and the nation, domestically and 
+internationally. With the previous versions of Science of Strategy as a foundation, the 
+new edition of Science of Strategy does not rely on the stylistic content of the previous 
+two editions, and it does not think grandiosely or attend to every detail; it tightly seizes 
+on the major strategic issues of the new phase of the new century that are related to PLA 
+building and application; it carries out the spirit of the Party’s Central Committee and the 
+Central Military Committee’s [CMC] instructions on forcefully pushing forward strategic 
+theory innovation and strengthening military strategic guidance by keeping up with the 
+times; it gives prominence to the main themes of military strategy, especially in local war 
+strategic guidance under informationized conditions, as well as the problem of peacetime 
+military strength application; and it strives to systematically summarize and innovate new 
+military strategic theory so as to even better serve new military practices. 
+ 
+In terms of basic structure design, the entire book attaches attention to reflecting three 
+major distinguishing features: first, it is constituted in accordance with the basic essential 
+factors of ordinary discipline theoretical works, it builds a basic theory of strategy, and it 
+maintains the relative completeness of the theoretical tixi system framework. Secondly, it 
+persists in combining theoretical and practical qualities that allow it to possess a high 
+degree of strategy, depth of theory, and powerfully current focused quality; and in terms 
+of theory, it is able to expound and explain the major issues in the area of PLA military 
+strategic guidance under new circumstances. Thirdly, it gives prominence to the main 
+theme of the era and the academic main thread of military strategic theory innovation 
+development under the new historical conditions. 
+ 
+The book is approximately 240,000 characters, and based on the internal logic of 
+strategic basic theory → strategic circumstance assessment → strategic thought 
+innovation development → strategic operations research-based planning of military 
+strength application {junshi liliang yunyong zhanlue chouhua} → strategic operations 
+research-based planning of military strength building {junshi liliang jianshe zhanlue 
+chouhua}, it is divided into the four-part content of basic theory, circumstance analysis, 
+strength application and strength building. The entire book has 12 chapters: Chapter 1, 
+Strategy; Chapter 2, The Evolution of Strategy; Chapter 3, China’s Strategic 
+Environment and Armed Forces Historical Mission; Chapter 4, Development of Modern 
+War and the Wars China May Face; Chapter 5, Enriching and Developing the Active 
+Defense Strategic Thought; Chapter 6, Strategic Guidance of Local War under 
+Informationized Conditions; Chapter 7, Strategic Guidance of Military Deterrence
+
+ii 
+ 
+Activities; Chapter 8, Strategic Guidance of Non-War Military Activities; Chapter 9, 
+Military Struggle in Nuclear, Space and Cyber Domains; Chapter 10, [end of page 1] 
+Service Strategy and Theater Strategy; Chapter 11, Strategic Space and Layout; Chapter 
+12, Building a Modern Military Strength Tixi System with Chinese Characteristics. 
+ 
+Compared with the Academy’s previous two editions of Science of Strategy, the new 
+edition of Science of Strategy conforms to the developing changes in world, nation and 
+military situations, while adding some new content blocks, for example: the strategic 
+operations research-based planning and guidance of peacetime military strength 
+application; the strategic operations research-based planning and guidance of military 
+struggle in the major domains of nuclear, space, and cyber; service strategy and theater 
+strategy; strategic space and strategic layout; and the operations research-based planning 
+and guidance of military strength tixi system building with Chinese characteristics; etc. 
+ 
+The new edition of Science of Strategy attaches importance to carrying ‘science’ with 
+‘theory,’ and it diligently conforms to China’s strategic circumstance, the PLA’s 
+historical mission, and the new developments and new requirements of the form-state of 
+war. It centers on building a consolidated national defense and formidable armed forces 
+that corresponds to China’s international position and conforms to national security and 
+development interests {fazhan liyi}. It achieves the strategic objective of a strong nation 
+and a strong military, and it tightly seizes on the major issues related to current and future 
+PLA building and application. It conducts forward-looking consideration, study and 
+operations research-based planning, and it strives to become a strategic theoretical work 
+that blends epochal quality, focused quality and innovative quality into one. Its main 
+academic points of innovation and breakthrough follows. 
+ 
+1. On the basis of sorting through the traditional strategic notions, it puts forth that 
+strategy is the operations research-based planning and guidance of the overall situation 
+conducted for armed strength building and application with war as its core; it clarifies 
+problems in 10 areas that strategy needs to resolve in a key point manner with operations 
+research-based planning and guidance of a future war as its orientation; it puts forth that 
+China’s strategic tixi system should be constituted from the three levels, five types of 
+national strategy – military strategy – service strategy, theater strategy, and the major 
+security domains (nuclear, outer space, and cyber spaces) strategy. 
+ 
+2. It systematically sorts through the rich development course of China’s Active Defense 
+Strategic Concept, and it briefly puts forth the basic spirit of several decades of Active 
+Defense strategy while it simultaneously combs through the development and newest 
+trends and characteristics of the military strategy of the U.S., Russia, Japan, India, etc. 
+since World War II.
+
+iii 
+ 
+3. From the two perspectives of political and technological, it expounds on potential 
+developments of the war form-states 10-20 years from now; it briefly puts forth basic 
+characteristics of war under informationized conditions in seven areas; and it conducts a 
+general assessment of war threats China may face at a future time. 
+ 
+4. It focuses on the epochal implications of enriching and developing the active defense 
+strategic thought; from the three areas of carrying out forward edge defense {qianyan 
+fangwei}, giving prominence to effective control, and persisting in diversified 
+applications, it elaborates on the problem of strengthening PLA strategic guidance under 
+new historical conditions. 
+ 
+5. It systematically elaborates on the problems in performing strategic operations 
+research-based planning and guidance for local war under informationized conditions, 
+military deterrence, non-war military activities, and nuclear, space, and cyber military 
+struggle; it gives prominence to the operations research-based planning of military 
+strength application [end of page 2] in a period of relative peace; and it further expands 
+the scope of the military strategy field of view and the strategic application of military 
+strengths. 
+ 
+6. From the two large basic areas of building and application, it expounds on the basic 
+issues of the Army, Navy, Air Force, Second Artillery strategies, and it puts forth a 
+strategic quality consideration for future building of the services and their application 
+direction. It also conducts an exploration of the main theoretical problems of theater 
+strategy. 
+ 
+7. It puts forth important problems such as the strategic spaces for a moderate outward 
+expansion of military activities relying on one’s own territory; it expands the depth of 
+Active Defense Strategy; it takes aim at the two-fold needs-requirements of taking aim at 
+fighting and winning a future war and safeguarding the expansion of national interests; 
+and it transitions from a territorial defense model strategic layout to a forward edge 
+defense model strategic layout under informationized conditions. 
+ 
+8. It conducts a theoretical inquiry and strategic operations research-based planning for 
+building a modern military strength tixi system with Chinese characteristics from the high 
+level of the overall situation; it systematically expounds on the strategic orientation, 
+building principles, structure and functional features, and building paths of a military 
+strength tixi system with Chinese characteristics; and it reflects the major strategic 
+thought of achieving the objective of a strong military.
+
+iv 
+ 
+The new edition of Science of Strategy systematically sorts through the strategic studies 
+achievements of recent years and conducts an innovative quality theoretical sublimation. 
+There were some breakthroughs in terms of a series of key point and difficult point 
+problems in its basic theory study of strategy, and there were a deepening degree of 
+thought, extensive degree of field of view, a distinguishable degree of theory, as well as 
+conciseness of style, plainness of writing, and prominence of distinguishing features. The 
+publication of the new edition of Science of Strategy will produce the necessary academic 
+benefit and positive role across the PLA: to go deep into carrying out the spirit of the 
+Party’s 18th National Congress; to completely carry out the important instructions of the 
+Party Central Committee, the CMC, and Chairman Xi on Strong Nation and Strong 
+Military; to further deepen strategic studies, to bring into play the leading role of the 
+science of strategy within the military science tixi system; to push forward the 
+development of the basic theory of military strategy; and to strengthen the study of 
+current major strategic issues. 
+ 
+ 
+Science of Strategy Writing Team 
+24 September 2013
+
+v 
+ 
+Table of Contents 
+Contents 
+Preface ................................................................................................................................... i 
+Chapter 1 Strategy...1 ......................................................................................................... 1 
+Section 1: What Is Strategy?...1 .................................................................................... 1 
+Section 2: The Structure of Strategy...5 ........................................................................ 6 
+II. 
+The system of strategies...6 .................................................................................. 7 
+Section 3: The Characteristics of Strategy...8 ............................................................. 10 
+II. 
+Its overarching nature and of being pivotal...9 ................................................... 11 
+III. 
+Its confrontational nature and nature of controlling things...10 ...................... 12 
+IV. 
+. Its realism and foresight...11 ......................................................................... 13 
+V. 
+Its stability and response to change...12 ............................................................. 14 
+Section 4: Important Factors that Affect Strategy...13 ................................................ 15 
+I. 
+The nation’s strategic objectives and the nation’s strategic capabilities...13 ...... 15 
+II. 
+The international strategic setup and the nation’s development potential...14 ... 16 
+III. 
+International geopolitics and a nation’s geographical environment...15 ......... 18 
+IV. 
+. The development of science and technology and changes in the state of 
+warfare...16 .................................................................................................................. 19 
+V. 
+Security threats and military capabilities...17 ..................................................... 20 
+VI. 
+Strategic culture and strategic thought...18 ..................................................... 22 
+Section 5: The Drafting of Strategy...20 ..................................................................... 24
+
+vi 
+ 
+I. 
+The orientation of thought in drafting military strategy...20 .............................. 24 
+II. 
+The basic process in drafting military strategy...23 ............................................ 27 
+III. 
+The basic requirements and methods for drafting military strategy...25 ......... 30 
+Chapter 2 ........................................................................................................................... 33 
+Section 1: The Historical Development of Strategic Thought...28 .............................. 33 
+I. 
+The foundation of strategic thought, in the classical age (prior to the 5th 
+century)...28 ................................................................................................................ 33 
+II. 
+The evolution of medieval strategic thought (5th to 17th centuries)...33 ........... 39 
+III. 
+Transition and transformation in premodern strategic thought (17th to 19th 
+centuries)...36 .............................................................................................................. 43 
+IV. 
+. The two world wars and the development of strategic thought (first half of 
+the 20th century)...39 .................................................................................................. 46 
+Section 2: The Formation and Development of China’s Military Theory of Active 
+Defense...41 ................................................................................................................. 49 
+I. 
+The formation and development of the thought about a strategy of active defense 
+in the revolutionary wars period...42 ........................................................................... 49 
+II. 
+The establishment of the military theory of active defense after the founding of 
+New China and adjustments to it and enrichment of it...43 ......................................... 52 
+III. 
+The basic spirit of the military strategy of active defense...48 ........................ 57 
+Section 3: Military Strategies of the Major Powers in the Contemporary World…50 60 
+II. 
+Russia’s military strategy...54 ............................................................................ 66 
+III. 
+Japan’s military strategy...59 .......................................................................... 71 
+IV. 
+. India’s military strategy...64 ......................................................................... 77
+
+vii 
+ 
+Chapter 3 ........................................................................................................................... 83 
+Section 1: Backdrop of China’s Peaceful Development Era…69 ............................... 83 
+I. 
+Major changes in the international strategic pattern…70 ................................... 84 
+II. 
+Accelerated development in cooperation and competition among countries…71
+ 
+85 
+III. 
+Increasingly fierce international military struggles…73 ................................. 87 
+Section 2: The Opportunity and Challenges of China’s Peaceful Development…74 . 90 
+I. 
+Strategic choice for China’s peaceful development...75 ..................................... 90 
+II. 
+Strategic opportunity for China’s peaceful development…77 ............................ 93 
+III. 
+Major challenges to China’s peaceful development…78 ................................ 95 
+Section 3: Completely Carrying Out the Armed Forces Historic Mission…81 .......... 99 
+I. 
+Insisting on scientific development, grasping the objective of a strong 
+military…81 ................................................................................................................ 99 
+II. 
+Carrying out the PLA’s new historic mission…82 ........................................... 101 
+III. 
+Enhancing the capability to respond to multiple types of security threats, to 
+accomplish diversified military tasks…85 ................................................................ 104 
+Chapter 4 ......................................................................................................................... 107 
+Section 1: The Main Motives of Modern War Development…87 ............................ 107 
+I. 
+Political needs are the fundamental pull for modern war development…87 .... 107 
+II. 
+Science and technology development is an important driver for modern war 
+development…91 ...................................................................................................... 111 
+Section 2: Basic Characteristics of Modern War…93 .............................................. 114 
+I. 
+Tixi system confrontation has become a basic confrontation form for belligerent
+
+viii 
+ 
+parties...93 ................................................................................................................. 114 
+II. 
+Intermediate-range precision strikes become a decisive operational pattern...94
+ 
+115 
+III. 
+Concentrating capabilities in networks has become an important brace-support 
+for operational activities...94 ..................................................................................... 116 
+IV. 
+. Integrating information and firepower becomes a main operational 
+means...95 ................................................................................................................. 117 
+V. 
+Operational space extends from three to five dimensions...96 ......................... 117 
+VI. 
+Operational pace highlighting that the faster beats the slower…96 .............. 119 
+VII. 
+An “unmanned, intangible, silent” war beginning to emerge…97 ............... 120 
+Section 3: The Wars China May Face in the Future…98 .......................................... 120 
+[end of page 102] ...................................................................................................... 126 
+Section 1: Carrying Out Forward Edge Defense…103 ............................................. 127 
+I. 
+Historically speaking, forward edge defense and vigorous defense’s basic spirits 
+are not mutually contradictory…104 ........................................................................ 128 
+II. 
+The fulfillment of forward edge defense requires a reliance on the home 
+territory’s appropriate expansion of the strategic spaces…106 ................................. 131 
+III. 
+Fulfilling forward edge defense requires prominence of attack-momentum 
+operations on the basis of firm defense…107 ........................................................... 132 
+IV. 
+. To fulfill forward edge defense and to give prominence to the strategic 
+requirements of attack operations, one should rely upon the home territory’s joint 
+distant combat as the important operational form…108 ........................................... 133 
+Section 2: Give Prominence to Effective Controls…109 .......................................... 135 
+I. 
+Give prominence to the basic considerations for effective control…109 ......... 135 
+II. 
+Basic connotations of effective control…112 .................................................. 138
+
+ix 
+ 
+Section 3: Persist in Diversified Application…116 .................................................. 144 
+I. 
+Establish in winning local wars under informationized conditions…117 ........ 144 
+II. 
+Consider military deterrence as an important strategic activity pattern…119 .. 146 
+III. 
+Attach importance to strategic application of non-warfare military 
+activities…120 .......................................................................................................... 147 
+Chapter 6 ......................................................................................................................... 151 
+Section 1: Strictly Control the War Goals…122 ....................................................... 151 
+Section 2: Conduct Integrated Joint Operations…124 .............................................. 154 
+Section 3: Persist in Asymmetric Operations…127 .................................................. 157 
+Section 4: Seizing the Initiative in War…129 ........................................................... 159 
+Section 5: Appropriately Conclude the War…132 .................................................... 163 
+Chapter 7 ......................................................................................................................... 167 
+Section 1: Modern Military Deterrence Theory and Development of its Practice…134
+ ................................................................................................................................... 167 
+II. 
+Functioning mechanism {zuoyong jili} of military deterrence…135 ............... 168 
+III. 
+Characteristics and trends of modern military deterrence…137 ................... 171 
+Section 2: PLA Military Deterrence Tixi System Building…140 ............................. 175 
+I. 
+Development of the PLA’s strategic deterrence thought since the establishment 
+of new China…140 .................................................................................................. 175 
+II. 
+Correctly grasping basic needs that pull military deterrence tixi system 
+building…145 ........................................................................................................... 181 
+III. 
+Constructing a military deterrence tixi system with PLA characteristics…147
+ 
+183
+
+x 
+ 
+Section 3: The Strategic Guidance Thought and Principles of Military 
+Deterrence…149 ....................................................................................................... 185 
+I. 
+Scientifically establishing strategic guidance thought for military 
+deterrence…149 ........................................................................................................ 185 
+II. 
+Correctly grasping basic principles for applying military deterrence…151 ..... 188 
+Chapter 8 ......................................................................................................................... 193 
+Section 1: The Development of Practices and Theory for Non-War Military 
+Activities...154 .......................................................................................................... 193 
+I. 
+The details about non-war military activities...154 .......................................... 193 
+II. 
+The development of the practices and theory of non-war military activities...155
+ 
+194 
+III. 
+The status and role in military theory of non-war military activities...159 ... 199 
+Section 2: The Types and Characteristics of Non-War Military Activities...161 ...... 202 
+I. 
+The main types of non-war military activities...162 ......................................... 202 
+II. 
+The main characteristics of non-war military activities...164 ........................... 205 
+Section 3: Principles of Strategic Guidance for Non-War Military Activities...166 . 207 
+I. 
+High-level decision-making, and macroscopic coordination...166 ................... 208 
+II. 
+Seizing the initiative and classifying and guiding things...167 ......................... 208 
+III. 
+Implementing policies because of the situation, and flexible response...167 209 
+IV. 
+. Targets are limited, and control is vigorous...168 ....................................... 210 
+V. 
+Act in accordance with the law and have a grasp on policies...168 .................. 210 
+Chapter 9 ......................................................................................................................... 213 
+Section 1: Military Struggle in the Nuclear Domain…169 ....................................... 213
+
+xi 
+ 
+I. 
+New trends in development of the circumstances of military struggle in the 
+nuclear domain…170 ................................................................................................ 213 
+II. 
+Nuclear deterrence…171 .................................................................................. 216 
+III. 
+Nuclear real combat…174 ............................................................................ 219 
+IV. 
+Nuclear arms control and disarmament…176 .............................................. 222 
+Section 2: Military Struggle in the Space Domain…178 .......................................... 225 
+I. 
+Main characteristics of military struggle in the space domain…179 ................ 225 
+II. 
+Basic types of military struggle in the space domain…181 ............................. 228 
+III. 
+Strategic guidance for military struggle in the space domain…184 ............. 232 
+Section 3: Military Struggle in the Network Domain…188 ..................................... 237 
+I. 
+Main characteristics of military struggle in the network domain…188 ........... 238 
+II. 
+Main patterns of military struggle in the network domain…192 ..................... 241 
+III. 
+Strategic guidance for military struggle in the network domain…194 ......... 244 
+Chapter 10 ....................................................................................................................... 249 
+Section 1: Army Strategy…198 ................................................................................ 249 
+I. 
+The Army’s strategic missions…198 ............................................................... 249 
+II. 
+Army transformation and development…200 .................................................. 252 
+III. 
+Strategic application of the Army…205 ....................................................... 258 
+Section 2: Naval Strategy…206 ................................................................................ 260 
+I. 
+Historical evolution of naval strategy…207 ..................................................... 260 
+II. 
+The Navy’s strategic missions…209 ................................................................ 263
+
+xii 
+ 
+III. 
+Building and development of the Navy…212 .............................................. 266 
+IV. 
+. Strategic application of the Navy…215 ...................................................... 270 
+Section 3: Air Force Strategy…218 .......................................................................... 274 
+I. 
+Historical evolution of Air Force strategy…218 .............................................. 275 
+II. 
+Strategic missions of the Air Force…221 ........................................................ 278 
+III. 
+Building and development of the Air Force…222 ........................................ 279 
+IV. 
+. Strategic application of the Air Force…225 ............................................... 283 
+Section 4: Second Artillery Corps Strategy…228 .................................................... 286 
+I. 
+Strategic positioning of the Second Artillery Corps…228 ............................... 287 
+II. 
+Strategic missions of the Second Artillery Corps…230 ................................... 289 
+III. 
+Building and development of the Second Artillery Corps…232 .................. 292 
+IV. 
+. Strategic application of the Second Artillery Corps…234 ......................... 295 
+Section 5: Theater Strategy…236 ............................................................................. 297 
+II. 
+Necessity of formulating theater strategy…237 ............................................... 298 
+III. 
+Establishing a theater strategy conforming to the expansion of state 
+interests…239 ........................................................................................................... 300 
+Chapter 11 ....................................................................................................................... 303 
+Section 1: The Epochal Features of Strategic Space…241 ....................................... 303 
+Section 2: Moderate Expansion of Strategic Space Based on One’s Own 
+Territory…244 .......................................................................................................... 306 
+I. 
+Moderate expansion of strategic space based on one’s own territory is an 
+important content of strategic actuality…244 ........................................................... 307
+
+xiii 
+ 
+II. 
+Moderate expansion of strategic space based on one’s own territory is a long- 
+term strategic task…248 ........................................................................................... 311 
+Section 3: Optimize the Strategic Layout…249 ........................................................ 313 
+Chapter 12 ....................................................................................................................... 323 
+Section 1: Optimize the Military Strength Tixi-System Structure…256 ................... 323 
+I. 
+Be prominent on joint, distant combat, and multi-capabilities strategic functional 
+guidance direction…256 ........................................................................................... 323 
+II. 
+Grasp the air and space, at-sea, nuclear weapons, and network strengths 
+construction key-points…258 ................................................................................... 326 
+III. 
+Strengthen the strategic projection strengths and strategic reserves 
+construction…259 ..................................................................................................... 327 
+IV. 
+. Establish a highly effective informationized assistance and support tixi .... 329 
+Section 2: Develop the Military Strategic Capability…263 ...................................... 333 
+I. 
+Strategic command and management capability…264 ..................................... 333 
+II. 
+Military strengths joint operations capability…265 ......................................... 335 
+III. 
+The nation’s support capability for military activities…266 ........................ 337 
+Section 3: Transform Combat Power [Strength] Generation Model…267 ............... 338 
+I. 
+Information as the main guidance…267 ........................................................... 338 
+II. 
+Science and technology boosting…268 ............................................................ 339 
+III. 
+Towed-in by reforms…269 ........................................................................... 341 
+IV. 
+Development in fusion…270 ........................................................................ 342 
+Main References…273 .................................................................................................... 345 
+[End of page 274] ...................................................................................................... 346
+
+xiv 
+ 
+[End of page 276] ...................................................................................................... 348 
+ 
+Section 2: The Types and Characteristics of Non-War Military Activities...161... 202 
+Section 3: Principles of Strategic Guidance for Non-War Military Activities...166 
+................................................................................................................................. 207 
+ 
+Chapter 9 Military Struggle in the Nuclear, Space, and Network Domains…169 . 213 
+Section 1: Military Struggle in the Nuclear Domain…169 ..................................... 213 
+Section 2: Military Struggle in the Space Domain…178 ......................................... 225 
+Section 3: Military Struggle in the Network Domain…188 ................................... 237 
+Chapter 10 Service Strategy and Theater Strategy…198 ........................................... 249 
+Section 1: Army Strategy…198 ................................................................................ 249 
+Section 2: Naval Strategy…206 ................................................................................ 260 
+Section 3: Air Force Strategy…218 .......................................................................... 274 
+Section 4: Second Artillery Corps Strategy…228 .................................................... 286 
+Section 5: Theater Strategy…236 ............................................................................. 297 
+Chapter 11 Strategic Space and Layout…241 ............................................................. 303 
+Section 1: The Epochal Features of Strategic Space…241 ...................................... 303 
+Section 2: Moderate Expansion of Strategic Space Based on One’s Own 
+Territory…244 .......................................................................................................... 306 
+Section 3: Optimize the Strategic Layout…249 ....................................................... 313
+
+xv 
+ 
+Chapter 12  Building a Modern Military Strength Tixi-System With Chinese 
+Characteristics…256 ....................................................................................................... 323 
+Section 1: Optimize the Military Strength Tixi-System Structure…256 ................. 323 
+Section 2: Develop the Military Strategic Capability…263 ..................................... 333 
+Section 3: Transform Combat Power [Strength] Generation Model…267 .............. 338 
+Main References…273 .................................................................................................... 345 
+Postscript…275 ................................................................................................................ 347
+
+1 
+ 
+Chapter 1 
+Strategy...1 
+ 
+Section 1: What Is Strategy?...1 
+ 
+Strategy originated in warfare, and it has developed as warfare has developed. The 
+concept of strategy took shape, was enriched, and developed within a comprehensive and 
+in-depth understanding of the guidance of warfare. 
+ 
+The ideas of strategy and related writings were first generated in the concept of strategy. 
+Very early on in history, in regard to the overall planning of wars, there were a great 
+many theoretical writings on warfare that produced a number of excellent ideas on 
+strategy. China’s ideas on strategy have had a very long history. Sunzi’s Art of Warfare, a 
+book on the art of war that was produced in the latter part of the Spring and Autumn 
+Period and that has had a good name throughout the ages, concentrated the epitome of 
+China’s ancient military science, and had such concepts in the area of planning and 
+guiding warfare as “calculations with foresight” {miaosuan} and “being victorious 
+[before the fighting].” The word “strategy” was first seen in the book Strategy, written by 
+Sima Biao in the Jin Dynasty at the end of the third century. Overseas, the word 
+“strategy” can be traced back to the ancient Greek “trick” or “generalship {jiang lyue}. In 
+the sixth century, the Emperor Maurice of the Eastern Roman Empire wrote a military 
+textbook [called] the Strategicon, which used this concept of “generalship,” primarily to 
+refer to “the skills of a commander-in-chief,” and it was used as “strategizing for 
+operations.” In the long years of ancient society, people had yet to clearly differentiate 
+between political strategy and strategy and between strategy and tactics. 
+ 
+In the 18th and 19th centuries, as the physical basis for warfare changed and as the scale of 
+military actions expanded, and also as people gained a deeper understanding of warfare, 
+they clearly differentiated between strategy and tactics, and the contents of strategy 
+expanded from the category of combat to the category of the overall situation of warfare; 
+the concept of “strategy” in the modern sense accordingly emerged. In the 18th century, 
+[Friedrich Wilhelm Freiherr von] Bülow of Prussia pointed out that “Strategy is the 
+science of military actions that are undertaken beyond what can be seen and beyond 
+artillery.” In the 19th century, [Carl von] Clausewitz of Prussia pointed out that “Strategy 
+is the use of combat in order to achieve the goals of warfare.” [Henri] Jomini of 
+Switzerland pointed out that “Strategy is the art of engaging in warfare on a map, it is the 
+art of studying the entire theater of war.” [end of page 1] This reflected the new level of 
+understanding at that time toward the concept of strategy.
+
+2 
+ 
+During the period from the First World War to the Second World War, with the 
+widespread use of modern weapons like aircraft, warships, and tanks, the shape of 
+warfare and the forms of operations underwent major changes, and the connotation of 
+strategy also continually grew richer and more developed. The theories of strategy for 
+mechanized warfare tended to become mature, such as the “mechanized warfare” theory 
+of [John Frederick Charles] Fuller of the United Kingdom, the theory of “command of 
+the air” of [Giulio] Douhet of Italy, Germany’s theory of “blitzkrieg warfare,” and the 
+Soviet Union’s theory of “greatly in-depth operations.” Practices in the world wars 
+revealed in a profound manner the law that there has been a further increase in the 
+reliance that weapons and combat have on the nation’s politics, economy, science and 
+technology, and support from the rear area. [Basil Henry] Liddell Hart of the United 
+Kingdom initiated the concept of “grand strategy,” Fuller wrote The Conduct of War, 
+Eric Ludendorff of Germany proposed the theory of “total warfare,” and [Andre] Beaufre 
+of France created the concept of “total strategy;” the guidance and planning of warfare 
+clearly exceeded the purely military sphere, and gave greater stress to the use of the 
+nation’s overall strengths. 
+ 
+After the Second World War, as the practices and activities of warfare and society 
+developed, people’s field of vision in their understanding of warfare further widened, the 
+concept of strategy expanded outwards, and the system of strategy improved. In the early 
+1950s, the United States’ Department of Defense Dictionary of Military and Associated 
+Terms defined military strategy as the art and science of using a nation’s armed forces, by 
+means of using armed force or the threat of armed force, to achieve the various objectives 
+of the nation’s policies. This emphasized that the use of armed force was not merely to 
+achieve the goal of victory in warfare, but rather to ultimately achieve the nation’s 
+strategic objectives. In the Dictionary of U.S. Military Terms for Joint Usage, republished 
+by the US Joint Chiefs of Staff in 1972, the definition of “national strategy” was first 
+proposed, which thus clearly differentiated between national strategy and military 
+strategy. The course on strategy at the Russian General Staff’s Military Academy 
+believes that military strategy is “a component part and the supreme sphere of the military 
+art, and it is a complete system of scientific knowledge regarding the nature of modern 
+warfare and the ways to use military means to prevent warfare, regarding the preparations 
+by a nation and its armed forces to resist invasion, and regarding methods                     
+and forms for carrying out total warfare and military actions on a strategic scale; it is also 
+the sphere of practical activities by the nation’s leaders and its supreme military leaders 
+for preventing war, for having the nation and its armed forces make thorough 
+preparations for war, and for guiding their resistance to attacks and their smashing of
+
+3 
+ 
+invaders when carrying out military actions.”1 Compared to the Soviet Union’s concepts 
+on strategy, this concept has added details about preventing war. In an age of peace and 
+development, [end of page 2] the concept of strategy is also widely borrowed for other 
+spheres, prominently stressing its role in “overall, high-level, and long-term planning and 
+guidance” for these spheres, such as strategies for economic, scientific and technological, 
+and cultural development. 
+ 
+The strategy of the Chinese People’s Liberation Army emerged during the revolutionary 
+wars years. Under the guidance of Mao Zedong’s theory of “people’s warfare,” [the 
+Chinese Communist military] won victory in the Chinese revolutionary wars, laying the 
+foundation for a modern military strategy with Chinese characteristics. In 1936, Mao 
+Zedong used the concepts of “strategy,” “campaign,” and “tactics” in his Problems of 
+Strategy in China’s Revolutionary Wars; he explicitly proposed such concepts as a 
+“science of strategy” and the “problems of strategy” and pointed out that the task of the 
+science of strategy is to “study the laws for guiding warfare that are overall in nature.” 
+After New China was established [in 1949], the PRC military’s concept of strategy 
+underwent a process of continual development, and its representative definitions 
+primarily consisted of [the following]. 
+ 
+Strategy is the highest division in military academia; it studies methods of leading and 
+engaging in warfare for the entire armed struggle (the 1956 Standardization of Military 
+Terms). 
+ 
+Strategy is the planning and guidance of warfare (1972 Chinese People’s Liberation 
+Army Military Terminology, 1985 Course on the Science of Strategy). 
+ 
+Strategy is the general plan for guiding the overall war situation (1987 Military Science 
+Academy’s Science of Strategy). 
+ 
+Strategy is also called military strategy; it is the general plan for planning and guiding the 
+overall war situation (1997 Chinese People’s Liberation Army Military Terminology). 
+ 
+Strategy is also called military strategy; it is the planning and guidance of the overall 
+situation of military combat (1999 National Defense University’s Science of Strategy). 
+ 
+ 
+ 
+ 
+ 
+ 
+1 A.C. Skvoltsov, Course on Military Strategy, Military Academy of the General Staff of the Armed Forces 
+of the Russian Federation, 1995.
+
+4 
+ 
+Strategy (that is, military strategy) in China’s new period is the building and use of 
+military strengths, using the nation’s overall power as its basis, using the idea of active 
+defense as its guide, and using the winning of local wars under high-tech conditions as its 
+focal point, and it is the planning and guidance of the overall situation and overall process 
+of preparations for war and waging war in order to uphold the nation’s sovereignty (2001 
+Military Science Academy’s Science of Strategy). 
+ 
+Strategy is the planning and guidance of warfare and the general plan for the overall 
+building and use of armed strengths (2005 Chinese Military Encyclopedia, second 
+edition, general outline articles and volume on categories). 
+ 
+Military strategy is the planning and guidance of the building and use of armed strengths 
+as well as the general plan for the overall situation of military combat. It is abbreviated as 
+strategy (2007 Chinese Military Encyclopedia, second edition, volume on military 
+strategy). 
+ 
+Strategy is: (1) An abbreviation for military strategy. The guidelines and ploys for 
+planning and guiding the overall war situation. It is divided into offensive strategy and 
+defensive strategy. (2) It generally refers to guidelines and ploys for major issues that are 
+comprehensive in nature, that are high-level, [end of page 3] and that are long-term. 
+Examples are national strategy, national security strategy, and economic development 
+strategy (2011 Chinese People’s Liberation Army Military Terminology). 
+ 
+We can see from these definitions that because of developments in the characteristics of 
+the times, in the strategic environment, and in military technology, there have been some 
+differences in differing periods in the focus of the concept of strategy. However, the core 
+connotation of strategy has been relatively stable. Strategy has always been centered on 
+preparations for and carrying out war, in building up and using armed strengths – 
+primarily the military – and in planning and guiding wars and the strategy for the overall 
+national defense building. Since entering the 21st century, there have been new 
+developments in the world’s political multipolarization, in its economic globalization, 
+and in the informationization of society; the new military transition, with information 
+technology as its driver, has advanced in-depth; the state of warfare has quickly evolved 
+from mechanized warfare to informationized warfare; and the relationship between 
+military conflict and conflicts in such sphere as politics, economics, and culture has 
+become increasingly closer. The historic mission that the [Chinese Communist] Party and 
+the people have given the military of “providing three things and bringing one thing into 
+play” requires that the military make thorough preparations for military conflict, centered 
+on strengthening the ability to win local wars under informationized condition, in order to 
+continually enhance the ability to deal with many types of security threats and complete
+
+5 
+ 
+diverse military tasks, so as to ensure that it is able to deal effectively with crises and 
+maintain the peace under various complicated situations and to restrain war and win wars. 
+This then requires that we expand the connotations of strategy, based on developments in 
+military practices, in order to deal with the characteristics of the age. Based on this, the 
+concept of strategy should be defined as the planning and guidance of the overall 
+situation of armed forces building and use, centered on war. Or in other words, strategy is 
+the guidelines and ploys for planning and guiding the overall situation of the building and 
+use of armed strengths, centered on war. 
+ 
+Although the concept and connotations of strategy have expanded along with 
+developments in the age, its essence has always been “general planning for warfare,” and 
+its core mission has been to study future wars and to plan and guide warfare. The main 
+issues that strategy needs to resolve include: studying the conditions and nature of 
+warfare, and getting a grasp on the characteristics of warfare and the principles of its 
+guidance; judging the strategic situation, and evaluating strategic threats, strategic 
+opponents, and the main targets of operations, and studying the enemy’s forms and 
+methods of operations; clarifying strategic spaces, differentiating strategic directions, and 
+determining the strategic setup; establishing the basic guiding thought for operations and 
+the main forms and methods of operations; clarifying the basic military tasks and 
+principles of use for the various services and theaters of war; clarifying the guiding 
+principles and basic methods for support to the war; clarifying the principles and forms 
+for strategic leadership and command; clarifying the guiding principles and forms of use 
+of military deterrence; clarifying the guiding principles and forms of use for non-war 
+military activities; and clarifying the objectives, key points, ways, and guiding thought 
+and principles for the national defense building and the military as well as preparations 
+for military combat. 
+ 
+We refer to the science of studying strategic issues as the science of strategy. As one of 
+the important topics in military science, the science of strategy is also called the science 
+of military strategy. It is the discipline that studies the overall nature of war, national 
+defense, and the armed forces building [end of page 4] as well as the laws of these. The 
+science of strategy is a concentrated reflection of the system of theories of strategy. The 
+theories of strategy emerged from the practices of strategy, and the science of strategy 
+has developed alongside developments in warfare and in other military practices and 
+activities; similarly, it has been restricted by and influenced by such factors as politics, 
+economics, science and technology, military matters, culture, ethnic groups, and 
+geography. Differing nations and militaries, under differing historical conditions, have 
+had differing systems of theories of the science of strategy.
+
+6 
+ 
+The structure of theories of the science of strategy can be divided into two major parts, 
+that is, the basic theory of strategy and the applied theory of strategy. The basic theory of 
+strategy is the most basic knowledge of the science of strategy; it is the basis for building 
+the discipline of strategy, its details are relatively stable, and it has a fairly universal 
+meaning for guidance. The applied theory of strategy has fairly obvious characteristics of 
+the age and points for practice; it is a theory regarding preparations for and waging war, 
+regarding the building and use of armed strengths, and regarding the building and 
+developing of national defense at a certain time and space. It is guided by the basic theory 
+of strategy and especially by a given country’s traditional military thought on strategy, 
+and it also affects the development of the basic theory of strategy. 
+ 
+The main tasks in the science of strategy are to reveal the connotations and characteristics 
+of strategy; to know the main factors that affect strategy; to summarize the experiences 
+and lessons of past strategic practices; to get a grasp on the laws of the overall situation of 
+building up and using armed strengths in differing periods, centered on war; and to 
+provide a scientific theoretical basis for planning and guiding strategic practices. Building 
+theories of strategy that correspond to the characteristics of the age is a major topic that 
+must be urgently resolved in the development of the PRC military’s science of strategy. 
+ 
+Section 2: The Structure of Strategy...5 
+ 
+I. Key factors in the structure of strategy...5 
+ 
+In regard to key factors in the structure of strategy, there are a number of types of 
+formulations, resulting from differences in the angles by which they are summarized. 
+Fairly representative viewpoints are that: strategy consists of strategic targets, strategic 
+guidelines, and actual military strength; strategy consists of strategic goals and tasks, 
+strategic guidelines, and strategic means; and strategy consists of strategic goals, strategic 
+guidelines, strategic strengths, strategic principles, and strategic measures. Looking at the 
+characteristics and functions of strategy, the three key factors of strategic objectives, 
+strategic guidance, and strategic means are indispensable for any type of strategy, and 
+they are the basic ingredients that make up strategy. 
+ 
+Strategic objectives are the basic missions that a nation (or bloc) assigns to its armed 
+strengths [end of page 5] in order to achieve a certain political goal, they are the starting 
+point and end point in drafting and carrying out strategy, and they basically determine the 
+direction and focus in the building and use of armed strengths. Strategic objectives should 
+be determined during a certain period, in accordance with the nation’s line, guidelines, 
+and policies, with an eye on the needs of the nation’s security and development interests, 
+and based on the nation’s overall actual strength and especially the levels of its military
+
+7 
+ 
+capabilities. Once strategic objectives have been determined, they will have clear 
+stipulations and a relative stability, becoming the basic foundation for determining 
+strategic guidance and for building up strategic capabilities. 
+ 
+Strategic guidance is the planning, leadership, and command for the building and use of 
+armed strengths, centered on achieving strategic objectives; it is a basic criterion for 
+strategic actions. The basic details of strategic guidance include clarifying the thought of 
+strategic guidance, establishing principles for strategic guidance, drafting strategic 
+concepts and plans, and guiding the implementation of strategy. Strategic guidance 
+permeates the entire process of strategic actions, it affects the overall war situation, and it 
+determines victory or defeat in war. Strategic guidance must take on the overall situation, 
+pay attention to unifying firmness and flexibility, and, proceeding from the realities of 
+preparing for war and military conflict, fully bring into play the dynamic role of strategic 
+guidance, so that subjective guidance corresponds to objective reality. 
+ 
+Strategic means are the physical strengths for achieving strategic objectives as well as the 
+forms in which [these strengths] are used. The strengths primarily consist of the armed 
+strengths, and include such comprehensive strengths as politics, economics, science and 
+technology, and culture; the form in which they are manifested not only can be actual but 
+also can be potential. The basic forms in which strengths are used include warfare 
+actions, military deterrence actions, and non-war military activities. All strategic 
+objectives can only be achieved through effective strategic means. Scientific strategic 
+planning and guidance must have actual strategic means as their basis; at the same time, 
+they also need to fully take into consideration possible developments in strategic means. 
+ 
+The three factors of strategy together form the basic framework for strategy; strategic 
+objectives primarily resolve the issue of “what to do,” strategic guidance primarily 
+resolves the issue of “how to do it,” and strategic means primarily resolves the issue of 
+“what to use in doing it.” 
+ 
+II. The system of strategies...6 
+ 
+The system of strategies is the organic whole of interrelationships and mutual restrictions, 
+made up of strategy at differing levels, of differing types, and in differing spheres. From 
+the angle of national security, it is possible to divide it up by levels into national strategy, 
+military strategy, and the strategies of services (or theaters of war). As regards the system 
+of military strategies, it is possible to divide this up by types into offensive strategy and 
+defensive strategy; it is also possible to divide it up by spheres into nuclear strategy, [end 
+of page 6] outer space strategy, naval strategy, and strategy for network space, etc.
+
+8 
+ 
+The basic structures of the systems of strategies of the major countries of the world are 
+largely the same, but the differentiations of their systems each have their own 
+characteristics. The US system of strategies consists of national strategy, national security 
+strategy, national military strategy, and theater of war strategy. The Russian system of 
+strategies includes national security strategy and military doctrine. The British system of 
+strategies includes grand strategy (or high-level strategy) and military strategy. The 
+Japanese system of strategies consists of three levels: national strategy (or national 
+policy), a comprehensive security strategy, and military strategy. 
+ 
+The PRC’s conditions differ somewhat from those of other countries. Prior to the 1980s, 
+there was no clear differentiation among levels of strategy, and the only one that was 
+clearly drafted was the military-strategic concept. Since the 1980s, many concepts have 
+been proposed, one after another, for differentiating the levels and structures of the 
+system of strategy; for example, to divide them into three levels: national strategy, 
+national defense strategy, and military strategy. Currently a relatively unified 
+understanding is that the PRC’s system of strategies can consist of three levels and five 
+types of strategy: national strategy – military strategy – the services’ strategy, the theater 
+of war strategy, and strategies for the major spheres of security (nuclear, outer space, and 
+network space). 
+ 
+National strategy is the planning and guidance of the PRC’s overall security and 
+development situation; it is the first level in the structure of the system of strategies. 
+Although the PRC has not formally issued a national strategy, [such a strategy] is 
+reflected in the general lines, general plans, and general policies drafted by the Chinese 
+Communist Party and the state. Its mission is to comprehensively utilize political, 
+military, economic, scientific and technological, and cultural national strengths, in order 
+to protect national security, ensure national development, and achieve national objectives. 
+The main details in national strategy consist of two parts: the national security strategy 
+and the national development strategy. The basic focus [of national strategy] is on firmly 
+following the path of socialism with Chinese characteristics; holding fast to peaceful 
+development; holding firmly to having both a rich country and a strong military; creating 
+an excellent environment that is beneficial for national security and development; 
+ensuring that the nation’s regime is solid, its society is stable, and its politics are long- 
+lasting and peaceful; and achieving the objectives we are struggling for, of 
+comprehensively building a well-off society and of the magnificent revival of the Chinese 
+people. National strategy is the basis for drafting military strategy. 
+ 
+Military strategy is the second level in the structure of the system of strategies. It is 
+restrained and guided by national strategy, and it obeys and is subservient to national 
+strategy. For a long period of time, the main details of the PRC’s military strategy have
+
+9 
+ 
+been determined by the military-strategic concept; the core is to prepare and guide 
+preparations for and waging war. Upon entering the new stage in the new age, with the 
+historic expansion of the military’s mission and tasks, military strategy not only has had 
+to focus on completing the core task of winning local wars under informationized 
+conditions, but it has also had to focus on carrying out its other tasks of non-war military 
+activities. Not only has it needed to respond to traditional security threats, but it has also 
+had to respond to other types of non-traditional security threats. Not only has it needed to 
+protect territorial security, but it has also needed to protect the security of the seas, outer 
+space, and network electromagnetic [end of page 7] spaces, energetically supporting the 
+expansion of national interests. [Finally,] not only has it had to solidify the ruling position 
+of the Party and protect the nation’s comprehensive security, but it has also had to make 
+its due contributions to world peace. 
+ 
+The services’ (or theater of war) strategy is planning and guidance for the overall 
+situation of building and using the services’ (or theater of war) strengths; they are the 
+third level in the structure of the system of strategies. The services’ (or theater of war) 
+strategy is an important component part of the system of strategies, subordinate to the 
+military strategy. The services’ strategy of the PRC includes the strategies of the Ground 
+Forces, the Navy, the Air Force, and the Second Artillery; its primary task is to resolve 
+the major issues in the building and development of the various services and in the use of 
+their strengths, under the unified guidance of the military strategy. Currently, the PRC 
+does not yet have a clearly determined theater of war strategy. In the future, as the 
+situation develops and changes, [the PRC] should determine a theater of war strategy for 
+each strategic direction, in accordance with its military strategy. Under the conditions of 
+informationized warfare, the determination of the services’ strategies and theater of war 
+strategy must be centered around a unified strategic objective, with an eye on the 
+strategic needs of joint operations, taking shape based on the systemic operational 
+capabilities of an information system. 
+ 
+Strategies for the major spheres of security plan and guide the building and use of 
+military strengths in the major spheres that affect national security and victory and defeat 
+in warfare; they not only are important component parts of the system of military 
+strategy, but they also are tightly connected to the overall situation of national security 
+and development, and they thus have dual attributes. Strategies for the major spheres of 
+security at the current stage primarily include nuclear, outer space, and network space 
+strategies. Their main tasks are to resolve major issues in the building and development 
+of nuclear, outer space, and network space and in the use of strengths [for these], under 
+the unified guidance of the military strategy. Limited and reliable nuclear strengths are 
+still the strategic cornerstone for upholding national security; outer space and network 
+space currently are becoming the new strategic high ground in international military
+
+10 
+ 
+conflicts. Making overall plans for nuclear, outer space, and network space strategies has 
+an inherent meaning in constructing and improving the system of strategy and in 
+promoting the innovation and development of strategy under the new historical 
+conditions. Strategies for the major spheres of security are open, dynamic, and 
+developing strategies; as economic, scientific and technological, and military activities 
+continually expand, they will add new contents. 
+ 
+Section 3: The Characteristics of Strategy...8 
+ 
+I. Its political nature and military nature...8 
+ 
+Strategy is a way to strengthen the military and win wars; even more, it is policy for 
+ruling a country and bringing it peace. The political nature of strategy is determined by 
+the nature that military affairs have of being subordinate to politics. Strategy obeys and is 
+subservient to politics, it meets the needs [end of page 8] of politics, and it completes 
+tasks assigned by politics. The characteristic that strategy has of being subordinate to 
+politics is primarily reflected in three areas. The first is that the nature of strategy is 
+determined by politics. The strategy of any country serves the politics of the ruling class. 
+This characteristic stipulates the justness and unjustness of strategy and it affects the 
+orientation of strategy. The strategy of hegemonistic countries usually is aggressive and 
+expansionist in nature. The second [area] is that the objectives of strategy are assigned by 
+politics. Politics dominates strategy, stipulates the objectives of strategy, and clarifies the 
+tasks of strategy. At any time and under any conditions, strategy cannot exceed the 
+political objectives of a nation, nor can it be separated from politics and exist by itself. 
+Any strategy only exists to better achieve political goals. The dynamic role of strategy 
+lies in the use of armed force or of deterrence related to armed force to achieve political 
+goals, based on developments in a situation or on the postures of the enemy and of 
+ourselves. The third [area] is that the drafting, implementation, and adjustments of 
+strategy are allocated by politics. The political designs of political groups, of 
+nationalities, of classes, and of nations are the foundation for strategy, and strategy 
+cannot deviate from the course designed by politics. In the final analysis, the kind of 
+strategy that is used, whether to fight or not, when and in what form to wage a war, 
+whether to rely on allies’ strengths or to fight battles all on your own, whether to use 
+deterrence or actual warfare, whether to adopt an offensive strategy or a defensive 
+strategy, and when to stop the war, are all ultimately determined by political values. 
+Changes in the political situation will lead to changes in strategy. How good or bad 
+politics is often determines the victory or defeat of strategy. 
+ 
+The military nature of strategy refers to the special military attributes that it has; this is 
+determined by the unique laws in the building and use of military strengths and especially
+
+11 
+ 
+of the unique laws of warfare. Strategy has the mission and function of systems for 
+guiding the independent completion of the overall situation, and it has a history and laws 
+of its own formation and development. It not only is subordinate to and serves politics, 
+but it also actively affects politics and has a very powerful reactive force to politics. 
+Peacetime strategy plays an active auxiliary and promotional role for politics, while the 
+success or failure of wartime strategy determines victory or defeat in the war, and victory 
+or defeat in war also determines the fate of the nation, of the people, and of political 
+groups. Under certain conditions, politics may have to undergo local adjustments based 
+on the practices of strategy, and in a state of total warfare, strategy may even have to take 
+on the role of politics. This is the reason that in a certain sense, politics needs to create 
+favorable conditions for strategy, it needs to fully mobilize and comprehensively use 
+manpower and materiel resources in order to guarantee that military operations will be 
+carried out, and it needs to be skilled at collecting into one the maximum combined 
+forces of strategy – diplomatic, economic, and spiritual – in order to win a war. 
+ 
+II. Its overarching nature and of being pivotal...9 
+ 
+Strategy is the ultimate decision-making about military issues; its overarching nature is 
+reflected in each aspect, in each part, and in each stage as it proceeds from the vantage 
+point of politics, [end of page 9] as it makes overall plans for and takes into account both 
+warfare and non-war military activities, for national defense and the armed forces 
+building, and for preparations for military combat; and it plays an overall role in 
+comprehensive planning and guidance. Having a grasp on the overarching nature that 
+strategy has involves the following connotations. First, military strategy is an important 
+component part of national strategy, and proceeding from the overall situation of 
+international strategy and the general situation of national development, it must be 
+subservient to and serve the general situation of national development more resolutely, 
+and act under this general situation in a more conscious manner. Second, military strategy 
+guides the national defense building and the armed forces building as well as the overall 
+situation of preparations for military combat; each service and each theater of war must 
+be subservient to and serve the modernized building of national defense and the military 
+in a conscious manner, expand and deepen preparations for military combat, and [meet] 
+the integrated needs for maintaining stability in the overall strategic situation. Third, 
+military strategy keeps an eye on the overall situation of the war, military deterrence, and 
+major non-war military activities; each theater of war, each battlefield, and each 
+combatant strength must coordinate their actions in accordance with unified 
+arrangements. They must appropriately differentiate the stages of strategy, clarify the 
+specific objectives and tasks of each stage, and based on developments and changes in 
+conditions, [they must] make modifications at appropriate times, and push the situation to 
+develop in a direction that helps to achieve strategic goals. Fourth, military strategy must
+
+12 
+ 
+pay attention to relationships with combat in other spheres; it must be organically 
+combined and closely coordinated with conflict in the political, economic, diplomatic, 
+ideological, and cultural spheres, so as to create conditions for winning the war, 
+maintaining the peace, and achieving the nation’s overall strategic objectives. 
+ 
+The pivotal nature of strategy refers to [the fact that] the focal points and joints in the 
+overall strategic situation have a major and even decisive impact. These focal points and 
+joints are where the crux of strategic command, strategic strengths, and strategic support 
+exists, and they may also be where the weak links of the system of warfare and the 
+system of operations exist, or where the focus of military confrontation between the 
+enemy and us exists. Examples are the important nodes in information network space, the 
+centers of strategic command, the major direction of operations, crucial operational 
+platforms, and thoroughfares for strategic support. Just as Mao Zedong said, once you 
+have a grasp on what is pivotal in strategy, deploy for campaigns, and once you have a 
+grasp on what is pivotal in campaigns, deploy for combat. The core thing in what is 
+referred to as keeping an eye on the overall situation is to identify and get a grasp on what 
+is pivotal, to deploy and use strengths centered on pivotal issues, and to win and seize the 
+initiative in the overall strategic situation through resolving these pivotal issues. 
+ 
+III. Its confrontational nature and nature of controlling things...10 
+ 
+The confrontational nature of strategy refers to [the fact that] the planning and guidance 
+of strategy constantly is focused on major threats and on strategic opponents and major 
+operational targets, and it is centered on combat between the enemy and ourselves, on the 
+games [that the enemy and we play], and on using military strengths and means to win 
+victory. It can be said that strategy reflects in a concentrated manner the military 
+relationships in contradictions between nations and contradictions between classes; the 
+reason is that war is the highest form for resolving contradictions and conflicts [end of 
+page 10] between nations, between peoples, and between political groups. This basically 
+has determined that strategy has a special confrontational nature. The confrontational 
+nature of strategy is primarily displayed in three areas. The first is that it involves an 
+explicit target of confrontation. There is no military strategy where “one size fits all;” any 
+military strategy is proposed with a focus on a specific threat, challenge, and opponent. 
+The second [area] is that it involves the use and guidance of confrontational strengths. 
+Strategic guidance strives to build on strengths and avoid weaknesses, to use its own 
+strengths to attack the enemy’s shortcomings, and to carry out focused attacks and 
+destruction targeting the weaknesses and key points of the enemy’s system. The third 
+[area] is that it has a focused development model for the system of strengths. In building 
+up the structure, quantity, and quality of the armed strengths and especially of the 
+systems of crucial strategic weapons (both unconventional and conventional systems),
+
+13 
+ 
+not only does it pay attention to mature systems, but it also constantly targets strategic 
+opponents, insisting on doing some things but not everything, and struggling to form an 
+asymmetrical ability to defeat the enemy. 
+ 
+The nature strategy has of controlling things refers to its active exercise of regulations 
+closely centered on military confrontational actions and developments in the combat 
+situation, getting a firm grasp on the strategic initiative, and ensuring that military actions 
+do not deviate from political goals and military objectives that have already been set. The 
+restrictiveness of political goals in local wars, the great precision of informationized 
+means of operations, and the highly consumptive nature and tremendous destructiveness 
+of contemporary warfare have determined that military confrontational actions and 
+especially acts of war are restrictive in nature and must be controlled. As for ourselves, in 
+order to protect this strategic period of opportunity and to ensure that the Party’s and the 
+state’s central work is not seriously interfered with, it is necessary to avoid confrontation 
+purely for the sake of confrontation, and we should take the initiative to control the scale 
+and forms of the means of warfare that are used and to focus on the “soft” use of military 
+strengths and their use other than war, striving to subdue the enemy’s troops by means of 
+small wars and clever wars. 
+ 
+IV. . Its realism and foresight...11 
+ 
+The realism of strategy refers to the strategic guidance of military practices that are now 
+being employed at the current time, with a focus on the real threats that the nation faces, 
+and based on the conditions of the strengths, weapons, and equipment that the military 
+has, in order to plan and guide warfare, military deterrence, and non-war military 
+activities; this also is what we commonly refer to as “fighting whatever battle with 
+whatever weapons you have.” The realism of strategy stipulates that in the process of 
+implementing a strategic decision that has already been made, of executing strategic 
+concepts and plans, and of carrying out strategic actions, it is necessary to focus on 
+responding to the threat that is most real and most pressing, and to focus on resolving 
+prominent issues that restrain national defense and the modernized building of the 
+military; deviating from actual national conditions and military conditions in order to 
+aspire to unattainable strategic objectives is impossible. 
+ 
+The foresight of strategy refers to keeping an eye on threats and challenges that could be 
+faced in the future, on plans for dealing with wars that could occur in the future, [end of 
+page 11] and on plans for the long-term development of national defense and the building 
+of the military, based on dealing with actual threats and resolving current issues. An 
+emphasis on the foresight of strategy primarily means predicting the characteristics of the 
+age as well as developments and changes in the international and domestic strategic
+
+14 
+ 
+environment; predicting developmental trends in the world’s military matters and 
+especially in military science and technology; predicting potential strategic opponents 
+and targets of operations; predicting possible changes in the ratios between the enemy’s 
+and our strengths; predicting the nature, direction, and levels of potential threats; 
+predicting the possible opportunities, forms, direction, scale, process, and outcome of 
+future wars; and revealing the features and laws of future wars, thus providing an 
+objective basis for drafting, adjusting, and implementing strategy, and [being] better at 
+driving the building of national defense and the military, at leading preparations for 
+military conflict, and at strengthening strategic deployments that are done in advance. 
+Strategy manages the overall situation and manages the long term, and the more accurate 
+strategy’s foresight is, the stronger the relevance of strategy’s planning and guidance will 
+be, and the more marked the strategic effects that are produced will be. 
+ 
+V. Its stability and response to change...12 
+ 
+The stability of strategy refers to [the fact that] once strategy has been established, it is 
+necessary to maintain the relative stability of its basic connotations and the continuity of 
+its implementation during a certain period of time. The relative stability of strategy is 
+determined by its nature of being overarching, its nature of being long-term, and its 
+importance; it affects victory or defeat in war, it affects the nation’s survival, and it 
+cannot be lightly changed. Otherwise problems would arise where directions are not clear 
+and objectives are not certain, creating a huge waste of strategic resources and bringing 
+about serious harm to national security and interests. At the same time, the development 
+cycle of military science and technology, the replacement cycle for weapons and 
+equipment, the cycle of evolution in warfare, and the cycle for generating the military’s 
+combat power all objectively require that the drafting and execution of strategy remain 
+stable and continuous within a relatively long period of time. As long as no basic change 
+happens in the overall situation, or as long as no basic change happens in the main 
+contradictions that hold a dominant position in the overall situation, and as long as there 
+is no basic change in the ratio of the two sides’ strengths and in the combat situation, then 
+the main strategic opponent, the main targets of operations, the main strategic direction, 
+and the basic form of operations that have been determined will stay relatively fixed. 
+ 
+The nature that strategy has of response to change refers to [the fact that] while the 
+fundamental connotations of strategy remain relatively stable over a given period of time, 
+it is necessary to have a suitable flexibility and adjustability. War has no permanent 
+situation, just as water has no permanent shape, and military practices and especially war 
+practices are constantly changing and constantly being renewed. Act in obedience to the 
+situation, change because of what the enemy does, and use troops after measuring the 
+situation, are basic military laws. Strategy will change as the situation and the mission
+
+15 
+ 
+develop, and adjusting, enriching, and improving [strategy] at appropriate times, in a way 
+that seeks truth from facts, and strengthens the practicality and relevance of strategic 
+guidance. [end of page 12] 
+ 
+Section 4: Important Factors that Affect Strategy...13 
+ 
+Strategy is the dynamic driver, under set conditions, of war and other military practical 
+activities. What is referred to as set conditions is a comprehensive reflection of world 
+condition, national conditions, and military conditions during a certain period of time; it 
+includes political, economic, military, scientific and technological, cultural, and natural 
+key factors, as well as the interrelationships among these key factors. A comprehensive, 
+in-depth, and accurate study of the factors that affect the development of strategy is the 
+foundation and premise for the accurate drafting of strategy and for the rational 
+implementation of strategy. 
+ 
+I. The nation’s strategic objectives and the nation’s strategic capabilities...13 
+ 
+A nation’s strategic objectives are the highest manifestations of the nation’s political will 
+and the nation’s interests, and they guide and specify each sphere in the nation’s security 
+and development. The nation’s strategic objectives basically determine the orientation 
+and form in which military strengths are used, they determine the scale of and investment 
+in national defense and armed forces building, and they determine the allocation in time 
+and space of military resources. The starting point and end point of strategy is that it must 
+focus on using military strengths and means to support achieving the nation’s strategic 
+objectives; they must always adhere to observing and handling military issues from a 
+political vantage point, always adhere to planning the building of military strengths under 
+the overall arrangements of the nation’s development strategy, and always adhere to 
+treating protection of national interests as the highest criterion of the military struggle. 
+National interests can be divided into core interests, important interests, and ordinary 
+interests. Core interests are basic interests that affect a nation’s survival and 
+development; any sovereign nation must firmly defend these. In strategy, it is necessary 
+to treat the issue of whether core interests are seriously endangered as the “red line” in 
+deciding on war and peace, but [it is necessary] to leave room to maneuver on issues that 
+are not core interests, doing everything possible to avoid creating unnecessary 
+interference and impacts on achieving the nation’s strategic objectives. 
+ 
+The nation’s strategic capability is a crucial and supportive capability for creating 
+situations, for responding to crises, for restraining wars, and for winning wars, and thus 
+for achieving the nation’s strategic objectives. It originates in overall national strength, 
+and it comes from the mobilization, organization, and transformation of the key factor of
+
+16 
+ 
+comprehensive national strength, under the overall planning of the state. More directly, 
+strategy is affected by the quantity, quality, and structure of the nation’s strategic 
+capabilities and especially of its military capabilities. The ability of the nation’s decision- 
+making levels to lead and command, the ability of governmental organizations to 
+organize and coordinate, the abilities of the armed strengths in deterrence and actual 
+warfare, and the ability of the economy and society to support a war are capabilities and 
+conditions that strategy should give priority to and focus its considerations on. In drafting 
+and implementing strategy, it is necessary to focus on integrating the use of military 
+[capabilities] with political, [end of page 13] economic, scientific and technological, and 
+cultural capabilities in the nation’s strategic capabilities; it is necessary to focus on 
+overall planning in both the use of current capabilities and the development of long-term 
+capabilities; and it is necessary to focus on enhancing efficiency in the transformation of 
+potential capabilities into actual capabilities. 
+ 
+In drafting military strategy, it is necessary to focus on providing powerful support for 
+the nation’s economic construction and for strengthening the nation’s strategic 
+capabilities; it is also necessary to take into consideration the support that enhancement 
+of economic development and especially of the nation’s strategic capabilities will have 
+for the development of military strengths. Determining the objectives of military strategy 
+and the standards for building up the armed strengths, within the scope of what the 
+nation’s strategic capabilities can bear, allows military means to bring into play the role 
+that they should have in the general situation of protecting the nation’s development, and 
+to ensure that the nation’s strategic objectives are smoothly achieved. 
+ 
+II. The international strategic setup and the nation’s development potential...14 
+ 
+Since the formation of civilized nations and the international system in premodern times, 
+the influence that the international strategic setup and nations’ development potential 
+have on each nation’s military strategy has grown increasingly stronger. Today’s world 
+has entered a period of political multipolarization, economic globalization, and social 
+informationization, and relationships among nations are tending to become closer and 
+their games are also tending to become more complex. 
+ 
+The international strategic setup is a power structure formed by interactions among the 
+world’s various strategic strengths; there are three types – unipolar, bipolar, and 
+multipolar – and differing forms mold differing models of strategy. Two basic types of 
+strengths – peace and war – exist in and are bred by the international strategic setup; the 
+issue of whether the development of strengths for peace is greater than the development 
+of strengths for war, or whether the development of strengths for war is greater than the 
+development of strengths for peace basically determines the characteristics of the age,
+
+17 
+ 
+and thus affects the starting point and orientation of strategy. In the mid-1980s, based on 
+his correct grasp of the international strategic setup, Deng Xiaoping judged that no world 
+war would be fought, and at an appropriate time, he modified the foothold military 
+strategy had from fighting an early war, a major war, and a nuclear war in dealing with an 
+enemy to a path where [the PRC] was focused on preparing to deal with a local war, and 
+he made the decision to cut a million troops. Because the major nations’ strengths are 
+continually shifting in the international strategic setup, they undergo major and even 
+basic changes. These changes inevitably create contradictions in the international 
+community as well as concentrated outbreaks of conflict; opportunities and risks coexist 
+for any nation, and each nation must make corresponding adjustments to its strategy, in 
+order to protect and use opportunities and to avoid and lower risks. 
+ 
+The nation’s development potential is changes in a nation’s status within the international 
+system that fluctuations in its overall national power, and especially in its strategic 
+capabilities, lead to, as well as the corresponding situations that these changes create. 
+Differing development potentials determine differing strategic pursuits. For example, 
+before the United States developed from a North American regional power [end of page 
+14] into a world power, it only had a homeland strategy, a Caribbean strategy, and a 
+Pacific strategy, for a fairly long period of time; its true global strategy took shape during 
+the period of the Second World War. Changes in a nation’s development potential 
+inevitably bring about changes in hostile and friendly relations within the international 
+community, and will bring about changes in the quality and intensity of the international 
+pressure that that nation bears. Looking at history since premodern times, it is easy for a 
+nation’s rapid rise to become the focal point of international contradictions and struggles; 
+it is easy for it to suffer restraints from hegemons, pressure from other powers, and 
+suspicions from neighboring countries; and military pressure subsequently continually 
+increases. These are important factors that a nation in the crucial stage of its rise must 
+take into consideration as it drafts and implements military strategy. 
+ 
+The international strategic setup and a nation’s development potential are inseparable. 
+Major adjustments to the international strategic setup inevitably will involve realignments 
+in the power status of differing countries within the international system, while major 
+changes to the development potential of a country and especially of a power often result 
+in a profound impact on trends in the international strategic setup. The people who plan 
+and guide strategy not only need to have a grasp of their nation’s development potential 
+within the dynamic development of the international strategic setup, but they also need to 
+examine the impact that changes in the international strategic setup will have upon 
+themselves, based on their country’s development potential; this impact is not only 
+political and economic, but it also inevitably is military.
+
+18 
+ 
+III. International geopolitics and a nation’s geographical environment...15 
+ 
+With the development of political multipolarization, economic globalization, and social 
+informationization, and with the development of means and forms for long-range 
+operations in the sphere of warfare, the direct impact that international geopolitics and a 
+nation’s geographical environment have on military affairs has relatively declined, but 
+they are still basic conditions for drafting and implementing military strategy. 
+ 
+International geopolitics is the political situation that takes shape as nations use their 
+geographical relations to seek and uphold national interests; they can be differentiated 
+into three basic types: sea, land, and a composite of land and sea. Each type of country 
+will have corresponding characteristics appear in its military strategy. Since premodern 
+times, the international geopolitical struggle has for a long time been manifested as a 
+struggle between sea power and land power, and the nature of the struggle has been to 
+fight over strategic key points, strategic resources, and strategic thoroughfares. The hot 
+points of the struggle have been situated in Northeast Asia-Southeast Asia-South Asia-the 
+Middle East, on the outskirts surrounding the Eurasian continent, and in the North Africa- 
+Balkan Peninsula, the zone where the land and the sea interconnect. The large-scale local 
+wars since the end of the Second World War have mostly occurred in this zone, and the 
+sixteen important straits that the United States proposes it needs to control [end of page 
+15] are mostly also located in this zone. In the future, this will still be an important stage 
+of international geopolitical contention. At the same time, new geopolitical struggles for 
+control over such global public spaces as the seas, the polar regions, outer space, and the 
+network will tend to become intense, and this will inevitably tend to result in a major and 
+profound impact on the great powers’ military strategies. 
+ 
+A nation’s geographical environment includes its geographical location, the extent of its 
+territory, its topography, its natural resources, and its climate conditions; these have an 
+extremely stable role in restricting the building and use of a nation’s military strengths. In 
+drafting its military strategy, any nation must take into f

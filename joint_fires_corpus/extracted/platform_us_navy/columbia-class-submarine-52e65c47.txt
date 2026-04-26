@@ -1,0 +1,69 @@
+The upcoming Columbia class (formerly known as the Ohio Replacement Submarine and SSBN-X Future Follow-on Submarine) are nuclear-powered ballistic missile submarines of the United States Navy, designed to replace the Ohio class. Construction of the first vessel began on 1 October 2020, and is scheduled to enter service in 2031.
+On 3 June 2022, the Navy announced that the lead vessel of the class will be named USS District of Columbia (SSBN-826), because there is already an attack submarine named USS Columbia (SSN-771). Nevertheless, the Navy has since continued to refer to the class as Columbia.
+
+
+== Overview ==
+The Columbia class is to replace the Ohio class of ballistic missile submarines, whose remaining boats are to be decommissioned, one per year, beginning in 2028. The Columbia class will take over the role of submarine presence in the United States' strategic nuclear force.
+Electric Boat designed the new class with help from Newport News Shipbuilding. A total of twelve submarines are planned, and construction of the lead boat began in 2021. Each submarine will have sixteen missile tubes, each carrying one UGM-133 Trident II D5LE missile. (The ninth and later Columbias are to receive the upgraded D5LE2s.) The submarines will be 560 feet (170.7 m) long and 43 feet (13.1 m) in diameter, as long as the Ohio-class design, and 1 foot (30 cm) larger in diameter.
+To determine how many submarines would be needed for the US strategic nuclear force, Navy planners calculated how many missiles would be needed at sea and on station at any given time, how many each submarine should carry, and the likelihood that a submarine will remain undiscovered by the enemy and be able to launch. They also explored how required maintenance would affect availability. Cost-reduction studies explored design and construction possibilities, including adding missile tubes to the design of the Virginia-class attack submarine, building Ohio-class replacement submarines using updated Ohio-class designs, and developing an entirely new Ohio Replacement Submarine design.
+
+The Navy concluded that a new design would be the least expensive option that could meet all of the technical requirements. For example, while the modified Virginia-class and updated Ohio-class design options would have required an expensive mid-life refueling, each Columbia-class nuclear core will last as long as the submarine is in service.
+The design and technology development of the Columbia class is projected to cost $4.2 billion (fiscal 2010 dollars), with technology and components from the Ohio and Virginia classes included where possible to save money. The cost to build District of Columbia, the lead boat of the class, will be an estimated $6.2 billion (fiscal 2010 dollars). The Navy has a goal of reducing the average cost of the remaining eleven planned hulls in the class to $4.9 billion each (fiscal 2010 dollars). The total lifecycle cost of the entire class is estimated at $347 billion. The high cost of the submarines is expected to cut deeply into Navy shipbuilding.
+In April 2014, the Navy completed a 300-page specification report for the Ohio Replacement Program submarines. There are 159 specifications including weapons, escape routes, fluid systems, hatches, doors, seawater systems, and a set length of 560 ft (170 m), partly to allow for sufficient volume inside the pressure hull.
+In March 2016, the US Navy chose General Dynamics Electric Boat as the prime contractor and lead design yard. Electric Boat, which built all eighteen Ohio-class submarines, will do most of the work on all twelve Columbia boats, including final assembly. Huntington Ingalls Industries' Newport News Shipbuilding will serve as the main subcontractor, participating in the design and construction and doing 22 to 23 percent of the work.
+In late 2016, some 3,000 Electric Boat employees were involved in the detailed-design phase of the program and the procurement of the first submarine was scheduled for 2021. Completion of the first submarine was scheduled for 2030, followed by its entry into service in 2031. All twelve submarines are expected to be completed by 2042 and remain in service until 2085.
+On 28 July 2016, it was reported that the first submarine of the class will be named Columbia, to commemorate the District of Columbia, the capital of the United States. The Columbia class was officially designated on 14 December 2016 by Secretary of the Navy Ray Mabus, and the lead submarine will be USS District of Columbia (SSBN-826). The Navy wanted to procure the first Columbia-class boat in FY2021.
+On 28 October 2020, US Navy Secretary Kenneth J. Braithwaite announced that the second submarine would be named USS Wisconsin (SSBN-827), after the US state.
+On 7 June 2021, the US Navy budget office announced that the total cost for District of Columbia would reach $15.03 billion, which includes planning costs for the entire program. As of April 2023, the estimated construction cost of the twelve-boat program is $132 billion. Securing the supply chain and maintaining a skilled labor force are two major challenges for the program.
+
+
+== General characteristics ==
+
+Although still evolving, the following are some of the characteristics for the SSBN(X) design:
+
+Expected 42-year service life, including 124 deterrent patrols.
+Nuclear fuel core that will power the submarine for its entire expected service life, unlike the Ohio-class submarines, which require a mid-life nuclear refueling.
+Missile launch tubes that are the same size as those of the Ohio class, with a diameter of 87 inches (2,200 mm) and a height sufficient to accommodate a D-5 Trident II missile.
+Beam at least as great as the 42-foot (13 m) beam of the Ohio-class submarines
+16 missile launch tubes instead of 24 missile launch tubes on Ohio-class submarines.
+Although the SSBN(X) is to have fewer launch tubes than the Ohio-class submarine, SSBN(X) is expected to have a submerged displacement about the same as that of Ohio-class submarines
+The US Navy has also said that "owing to the unique demands of strategic relevance, SSBN(X)s must be fitted with the most up-to-date capabilities and stealth to ensure they are survivable throughout their full 40-year life span."
+In November 2012, the US Naval Institute, citing Naval Sea Systems Command, revealed additional design information:
+
+X-shaped stern control surfaces (hydroplanes)
+Sail-mounted dive planes
+Electric drive
+Off-the-shelf equipment developed for previous submarine designs (Virginia-class SSNs), including a pump-jet propulsor, anechoic coating and a Large Aperture Bow (LAB) sonar system.
+
+The Columbia-class submarine may also be equipped with a Submarine Warfare Federated Tactical System (SWFTS), a cluster of systems that integrate sonar, optical imaging, weapons control etc.
+
+
+=== Propulsion ===
+
+In a bid to reduce life-cycle cost and acoustic signature, Columbia is to run on electric drive—that is, it will use an electric motor to turn its propellers instead of the reduction gearing and mechanical drive systems used on earlier nuclear-powered submarines. It will retain the nuclear reactor and steam turbines typical of US Navy submarines. In such systems, the nuclear reactor heats water to steam, the turbines convert the heat in the steam into mechanical energy, and the generators convert that mechanical energy into electrical energy for use by the propulsion motors and other onboard systems.
+Turbo-electric drives were successfully used on US battleships and aircraft carriers in the first half of the 20th century, and on the small nuclear-powered submarine USS Tullibee in the late 1950s. Another larger nuclear-powered submarine, USS Glenard P. Lipscomb, was equipped with a turboelectric drive but proved to be underpowered, unreliable, and maintenance-hungry. As of 2013, the only operational turboelectric-powered subs were the French Navy's Triomphant-class submarines.
+In 2014, Northrop Grumman was chosen as the prime designer and manufacturer of Columbia's turbine generator units. That same year Leonardo DRS was selected as the main propulsion motor and propulsion motor drive provider. The lead ship motor was delivered to Electric Boat in August 2022.
+Various types of electric motors have and are being developed for military and non-military vessels. Types being considered for future US submarines include permanent magnet motors (PMM) being developed by General Dynamics and Newport News Shipbuilding, and high-temperature superconducting synchronous motors, being developed by American Superconductors and General Atomics. More recent data shows that the US Navy appears to be focusing on permanent-magnet, radial-gap electric propulsion motors. The Zumwalt-class destroyer design switched from PMM to an advanced induction motor. In 2013, permanent magnet motors were tested on the Large Scale Vehicle II for possible application on late-production Virginia-class submarines, as well as future submarines. Siemens AG PMMs are used on Type 212 submarines in service with the German and Italian navies.
+The Royal Navy's Dreadnought-class submarine, which is to replace the Vanguard class of ballistic missile submarines, may have submarine shaftless drive (SSD) with an electric motor mounted outside the pressure hull. SSD was evaluated by the US Navy, but it remains unknown whether the Columbia class will have it. On contemporary nuclear submarines, steam turbines are linked to reduction gears and a shaft rotating the propeller/pump-jet propulsor. With SSD, steam would drive electric turbogenerators, powered by steam turbines, that would be connected to a non-penetrating electric junction at the aft end of the pressure hull, with a watertight electric motor mounted externally, possibly an Integrated Motor Propulsor arrangement, powering the pump-jet propulsor, although SSD concepts without pump-jet propulsors also exist. In 2015, an Ohio-Replacement scale model at the Navy League's 2015 Sea-Air-Space Exposition suggested that the sub would have a pump-jet propulsor visually similar to the one used on Virginia class perhaps as part of the Navy's stated desire to reuse Virginia components to reduce risk and cost of construction.
+
+
+=== Common missile compartment ===
+In December 2008, General Dynamics Electric Boat Corporation was selected to design the Common Missile Compartment (CMC) that will be used on the Ohio-class successor. In 2012, the US Navy announced plans for its SSBN(X) to share a CMC design with the Royal Navy's Dreadnought-class ballistic missile submarine. The CMC will house SLBMs in "quad packs".
+
+
+== Boats in class ==
+
+
+== References ==
+
+
+== Bibliography ==
+Breckenridge, Richard (22 June 2013). "Facts We Can Agree Upon About Design of Ohio Replacement SSBN". NavyLive. Retrieved 27 June 2013.
+O'Rourke, Ronald (17 September 2017). "Navy Navy SSBN(X) Ballistic Missile Submarine Program: Background and Issues for Congress" (PDF). Congressional Research Service. R41129. Retrieved 23 September 2017 – via Federation of American Scientists.
+Thompson, Loren (20 June 2011). "The Submarine That Might Save America". Forbes. Archived from the original on 25 June 2011. Retrieved 23 June 2011.
+
+
+== External links ==
+
+Ohio-class Replacement Program – United States Naval Institute
+"3 Questions: America's Next Nuclear-Missile Submarine", article with video by Defense One

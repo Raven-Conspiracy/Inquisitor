@@ -1,0 +1,250 @@
+The M270 Multiple Launch Rocket System (M270 MLRS) is an American armored self-propelled multiple launch rocket system.
+The US Army variant of the M270 is based on the chassis of the Bradley Fighting Vehicle. The first M270s were delivered in 1983, and were adopted by several NATO and non-NATO militaries. The platform first saw combat with the United States in the 1991 Gulf War. It has received multiple improvements since its inception, including the ability to fire guided missiles. M270s have been used by Ukraine in the Russian invasion of Ukraine.
+
+
+== Description ==
+
+
+=== Background ===
+In the early 1970s, the Soviet Union had a clear advantage over US and NATO forces in terms of rocket artillery. Soviet doctrine dictated large-scale bombardment of a target area with large numbers of truck-mounted multiple rocket launchers (MRLs), such as the BM-21 "Grad". By contrast, US artillerists favored conventional large-caliber artillery for its relative accuracy and logistical efficiency. As a result, US rocket artillery was limited to the remaining stock of World War II-era systems.
+This mindset began to change following the 1973 Yom Kippur War, which saw heavy casualties, especially from rear-area weapons like surface-to-air missiles (SAMs). Israel effectively employed rocket artillery against these targets. The United States predicted that this requirement would persist in the event of a war in Europe. Thus, the need had arisen for a system that could engage enemy air defenses and provide counter-battery fire, freeing large-caliber artillery units to provide call-for-fire artillery support for ground forces.
+
+The MLRS was initially conceived as the General Support Rocket System (GSRS). In December 1975, the US Army Missile Command issued a request for proposal to industry to assist in determining the best technical approach for the GSRS. In March 1976, the Army awarded contracts to Boeing, Emerson Electric, Martin Marietta, Northrop and Vought to explore the concept definition of the GSRS. In September 1977, Boeing Aerospace and Vought were awarded contracts to develop prototypes of the GSRS.
+In 1978, the US Army Aviation and Missile Command made changes to the program so that the GSRS could be manufactured in Europe. This was to allow European nations, who had been independently pursuing their own MLRS programs, to buy in to the program. In July 1979, the United States, West Germany, France and the United Kingdom signed a memorandum of understanding for joint development and production of GSRS. In November 1979, GSRS was accordingly redesignated the multiple launch rocket system. Both competitors delivered three MLRS prototypes to the Army.
+The Army evaluated the MLRS prototypes from December 1979 – February 1980. In May 1980, the Army selected the Vought system. In early 1982, Vought began low-rate initial production. In August 1982, the first production models were delivered. In early 1983, the first units were delivered to the 1st Infantry Division. In March 1983, the first operational M270 battery was formed. In September 1983, the first unit was sent to West Germany.
+European nations produced 287 MLRS systems, with the first being delivered in 1989. Some 1,300 M270 systems have been manufactured in the United States and in Western Europe to date, along with more than 700,000 rockets of all kinds, including over 70,000 GMLRS guided munitions as of March 2024.
+
+
+=== Overview ===
+The M270 MLRS weapons system is collectively known as the M270 MLRS Self-Propelled Loader/Launcher (SPLL). The SPLL is composed of two primary subsystems; the M269 Launcher-Loader Module (LLM) houses the electronic fire-control system and sits atop the M993 Carrier Vehicle.
+
+The M993 is the designation of the M987 carrier when it is used in the MLRS. The M987/M993 is a lengthened derivative of the Bradley Fighting Vehicle chassis, in which the ground contact length is increased from 154 to 170.5 inches (391 to 433 cm). Originally called the Fighting Vehicle System, the M987 chassis was designed to serve as the basis for many other vehicles. These included the XM1070 Electronic Fighting Vehicle, the M4 Command and Control Vehicle, the Armored Treatment and Transport Vehicle and the Forward Area Armored Logistics System, the latter encompassing three vehicles, including the XM1007 AFARV rearm vehicle.
+The original GSRS plan called for 8.3-inch (210 mm) diameter rockets. After European allies became involved with the project, these were replaced with 8.9-inch (227 mm) rockets in order to accommodate the AT2 mine.
+Cold War doctrine for the M270 called for the vehicles to spread out individually and hide until needed, then move to a firing position and launch their rockets, immediately move away to a reloading point, then move to a completely new hiding position near a different firing point. These shoot-and-scoot tactics were planned to avoid susceptibility to Soviet counter-battery fire. One M270 firing 12 M26 rockets would drop 7,728 bomblets, and one MLRS battery of nine launchers firing 108 rockets had the equivalent firepower of 33 battalions of cannon artillery.
+The system can fire rockets or MGM-140 ATACMS missiles, which are contained in interchangeable pods. Each pod contains six standard rockets or one guided ATACMS missile; the two types cannot be mixed. The LLM can hold two pods at a time, which are handloaded using an integrated winch system. All twelve rockets or two ATACMS missiles can be fired in under a minute. One launcher firing twelve rockets can completely blanket one square kilometre (0.39 mi2) with cluster munitions; a typical MLRS cluster salvo would involve three M270 vehicles firing together. This coverage led to its British nickname of the "grid square removal system". With each rocket containing 644 M77 submunitions, the entire salvo would drop 23,184 submunitions in the target area. However, at a two percent dud rate, that would leave approximately 400 undetonated bombs scattered over the area, which could endanger friendly troops and civilians.
+Production of the M270 ended in 2003, when a last batch was delivered to the Egyptian Army. In 2003, the US Army began low-rate production of the M142 HIMARS. The HIMARS fires all of the munitions of the MLRS, and is based on the chassis of the Family of Medium Tactical Vehicles. As of 2012, BAE Systems still had the capability to restart production of the MLRS.
+In 2006, MLRS was upgraded to fire guided rounds. Phase I testing of a guided unitary round (XM31) was completed on an accelerated schedule in March 2006. Due to an Urgent Need Statement, the guided unitary round was quickly fielded and used in action in Iraq. Lockheed Martin also received a contract to convert existing M30 Dual-Purpose Improved Conventional Munition (DPICM) GMLRS rockets to the XM31 unitary variant.
+The M31 GMLRS Unitary rocket transformed the M270 into a point target artillery system for the first time. Due to Global Positioning System (GPS) guidance and a single 200-pound (90 kg) high-explosive warhead, the M31 could hit targets accurately with less chance of collateral damage while needing fewer rockets to be fired, reducing logistical requirements. The unitary warhead also made the MLRS able to be used in urban environments. The M31 had a dual-mode fuse with point detonation and delay options to defeat soft targets and lightly fortified bunkers respectively, with the upgraded M31A1 equipped with a multi-mode fuse adding a proximity airburst mode for use against personnel in the open; proximity mode can be set for 10 or 30 feet (3 or 10 m) Height of Burst (HOB). The GMLRS has a minimum engagement range of 9 mi (15 km) and can hit a target out to 43 mi (70 km), impacting at a speed of Mach 2.5. In 2009 Lockheed Martin announced that a GMLRS had been successfully test fired out to 57 mi (92 km).
+In April 2011, the first modernized MLRS II and M31 GMLRS rocket were handed over to the German Army's Artillery School in Idar Oberstein. The German Army operates the M31 rocket up to a range of 56 miles (90 km). A German developmental artillery system, called the Artillery Gun Module, has used the MLRS chassis on its developmental vehicles.
+In 2012, a contract was issued to improve the armor of the M270s and improve the fire control to the standards of the M142 HIMARS. In June 2015, the M270A1 conducted tests of firing rockets after upgrades from the Improved Armored Cab project, which provides the vehicle with an enhanced armored cab and windows.
+In early March 2021, Lockheed announced they had successfully fired an extended-range version of the GMLRS out to 50 miles (80 km), part of an effort to increase the rocket's range to 93 miles (150 km). Later in March the ER GMLRS was fired out to 84 miles (135 km). In September 2023, Lockheed announced an ER GMLRS test achieved its maximum range of 93 miles (150 km). The US Army approved the ER GMLRS for production in May 2024.
+
+
+== Service history ==
+
+When first deployed with the US Army, the MLRS was used in a composite battalion consisting of two batteries of traditional artillery (howitzers) and one battery of MLRS SPLLs (self-propelled loader/launchers). The first operational Battery was C Battery, 3rd Battalion, 6th Field Artillery, 1st Infantry Division (Ft. Riley, Kansas) in 1982. The first operational organic or "all MLRS" unit was 6th Battalion, 27th Field Artillery.
+Originally, a battery consisted of three platoons with three launchers each for nine launchers per battery; by 1987, 25 MLRS batteries were in service. In the 1990s, a battery was reduced to six launchers.
+The 6th Battalion, 27th Field Artillery was reactivated as the Army's first MLRS battalion in October 1984, and became known as the "Rocket Busters". In March 1990, the unit deployed to White Sands Missile Range, New Mexico to conduct the Initial Operational Test and Evaluation of the Army Tactical Missile System. The success of the test provided the Army with a highly accurate, long range fire support asset.
+
+
+=== Gulf War ===
+The first combat use of the MLRS occurred in the Gulf War. The US deployed over 230 MLRS during Operation Desert Storm, and the UK an additional 16.
+In September 1990, the 6th Battalion, 27th Field Artillery deployed to Saudi Arabia in support of Operation Desert Shield. Assigned to the XVIII Airborne Corps Artillery, the unit played a critical role in the early defense of Saudi Arabia. As Desert Shield turned into Desert Storm, the Battalion was the first US Field Artillery unit to fire into Iraq. Over the course of the war, the 6th Battalion, 27th Field Artillery provided timely and accurate rocket and missile fires for both US corps in the theater, the 82nd Airborne Division, the 6th French Light Armored Division, the 1st Armored, 1st Infantry Division, the 101st Airborne Division, and the 24th Infantry Division (Mechanized).
+A Battery 92nd Field Artillery (MLRS) was deployed to the Gulf War in 1990 from Ft. Hood Texas. 3/27th FA (MLRS) out of Fort Bragg deployed in support of Operation Desert Shield in August 1990. A/21st Field Artillery (MLRS) – 1st Cavalry Division Artillery deployed in support of Operation Desert Shield in September 1990. In December 1990, A-40th Field Artillery (MLRS) – 3rd Armored Division Artillery (Hanau), 1/27th FA (MLRS) part of the 41st Field Artillery Brigade (Babenhausen) and 4/27th FA (MLRS) (Wertheim) deployed in support of Operation Desert Shield from their bases in Germany and 1/158th Field Artillery from the Oklahoma Army National Guard deployed in January 1991.
+
+MLRS launchers were deployed during Operation Desert Storm. Its first use was on 18 January 1991, when Battery A of the 6th Battalion, 27th Field Artillery fired eight ATACMS missiles at Iraqi SAM sites. In one engagement, three MLRS batteries fired 287 rockets at 24 separate targets in less than five minutes, an amount that would have taken a cannon battalion over an hour to fire. In early February 1991, 4-27 FA launched the biggest MLRS night fire mission in history, firing 312 rockets in a single mission. When ground operations began on 24 February 1991, 414 rockets were fired as the US VII Corps advanced. Out of the 57,000 artillery rounds fired by the end of the war, 6,000 were MLRS rockets plus 32 ATACMS.
+
+
+=== Middle East ===
+The MLRS has since been used in numerous military engagements, including the 2003 invasion of Iraq. In March 2007, the British Ministry of Defence decided to send a troop of MLRS to support ongoing operations in Afghanistan's southern province of Helmand, using newly developed guided munitions.
+In September 2005, the GMLRS was first used in Iraq, when two rockets were fired in Tal Afar over 31 miles (50 km) and hit insurgent strongholds, killing 48 Iraqi fighters.
+During the Gaza war, Israel used the M270 for the first time since 2006, to fire on Hamas targets in the Gaza Strip.
+
+
+=== Mali ===
+The French army deployed them for the first time with occasional use between February and the end of April 2016 in Mali during Operation Barkhane with three M270s.
+
+
+=== Ukraine ===
+
+During the 2022 Russian invasion of Ukraine the United States considered sending the M270 MLRS as part of military aid to Ukraine. Concerns were raised that this system could be used to hit targets inside Russia. US President Joe Biden initially declined to send it to Ukraine, but on May 31 he announced that the M142 HIMARS, another vehicle capable of firing GMLRS rockets, would be supplied.
+On 7 June 2022, British defence secretary Ben Wallace announced that the UK would send three (later increased to six) MLRS to aid Ukrainian forces. On 15 June, Germany announced it would send three of its MARS vehicles from German Army stocks.
+Ukraine announced they had received the first M270s on 15 July. The German defence secretary Christine Lambrecht announced the arrival of the vehicles they contributed on 26 July 2022, and on 15 September Lambrecht announced that Germany would transfer two more. France donated a total of six M270 LRU MLRS to Ukraine.
+During the Russo-Ukrainian War Ukraine used M270 with GMLRS rounds to destroy targets such as Russian military columns, artillery systems, and multiple launch rocket systems such BM-21 and BM-27. Russian forces have relied on electronic warfare to jam GPS signals. The inertial navigation system of munitions such as GMLRS is immune to jamming, but less accurate than when paired with GPS coordinates.
+Ukrainian operated M270 were permitted to use ATACMS ballistic missiles, with launches against Russian targets in Crimea being recorded. Ukrainian ATACMS strikes into Crimea are known to have hit Russian assets such as S-300/S-400 air defense systems and aircraft.
+
+
+== Variants ==
+
+M270 is the original version, which carries a weapon load of 12 rockets in two 6-pack pods. This armored, tracked mobile launcher uses a stretched Bradley chassis and has a high cross-country capability.
+M270A1 was the result of a 2005 upgrade program for the US Army, and later on for several other states. The launcher appears identical to M270, but incorporates the Improved Fire Control System (IFCS) and an improved launcher mechanical system (ILMS). This allows for significantly faster launch procedures and the firing of GMLRS rockets with GPS-aided guidance. The US Army updated 225 M270 to this standard. When Bahrain ordered an upgrade of nine to "A1 minimum configuration" in 2022, it was stated to include CFCS.
+M270B1 British Army variant of the M270A1, which includes an enhanced armor package to give the crew better protection against IED attacks. Following an agreement struck with the United States Department of Defense, the British Army will be embarking on a five-year programme to update the M270B1 to the M270A2 standard. They are developing some UK-specific systems, including Composite Rubber Tracks (CRT), and a vehicle camera and radar system. Upgrade of the first tranche of launchers started in March 2022, with the fleet going through production over a four-year period. A new Fire Control System will be developed collaboratively with the US, the UK, Italy, and Finland.
+M270C1 was an upgrade proposal from Lockheed Martin involving the M142's Universal Fire Control System (UFCS) instead of IFCS.
+M270D1 Finnish Army variant of the M270A1 that uses the M142's Universal Fire Control System (UFCS).
+MARS II / LRU / MLRS-I is a European variant of the M270A1 involving Germany, France, and Italy. Mittleres Artillerieraketensystem (MARS II) The launchers are equipped with the European Fire Control System (EFCS) designed by Airbus Defence and Space. The EFCS disables the firing of submunitions-carrying rockets to ensure full compliance with the Convention on Cluster Munitions.
+M270A2 is a 2019 upgrade program to the US Army variant, which includes the new Common Fire Control System (CFCS) to allow the use of the Precision Strike Missile (PrSM). The update also includes a new 600 hp (450 kW) engine, upgraded and rebuilt transmission, and improved cabin armor protection. The US Army will eventually upgrade its entire fleet of 225 M270A1 and an additional 160 decommissioned M270A0 launchers.
+
+
+== Rockets and missiles ==
+
+The M270 system can fire MLRS Family of Munitions (MFOM) rockets and artillery missiles, which are manufactured and used by a number of platforms and countries. These include:
+
+
+=== MLRS ===
+M26 and M28 rocket production began in 1980. Until 2005 they were the only rockets available for the M270 system. When production of the M26 series ceased in 2001, a total of 506,718 rockets had been produced. Each rocket pod contains 6 identical rockets. The M26 rocket and its derivatives were removed from the US Army's active inventory in June 2009, as they did not satisfy a July 2008 Department of Defense policy directive, issued under President George W. Bush, that US cluster munitions that leave more than 1% of submunitions as unexploded ordnance must be destroyed by the end of 2018. (The United States is not a party to the Convention on Cluster Munitions, which prohibits them). The last use of the M26 rocket prior to its use with the GLSDB occurred during Operation Iraqi Freedom in 2003.
+
+M26 rockets carrying 644 DPICM M77 submunitions. Range: 9–20 miles (15–32 km). The submunitions that were used in these rockets prior to their use with the GLSDB covered an area of 0.089 mi2 (0.23 km2). Dubbed "Steel Rain" by Iraqi soldiers, M26 rockets were used extensively during Desert Storm and Operation Iraqi Freedom. Initially fielded in 1983, the rockets have a shelf life of 25 years. The US started destroying its M26 stocks in 2007, when the US Army requested $109 million for the destruction of 98,904 M26 MLRS rockets from fiscal year 2007 to fiscal year 2012. M26 rockets were removed from the US Army's active inventory in June 2009 and the remaining rockets were being destroyed as of 2009, but the US requirement to destroy them was removed in 2017. The UK and the Netherlands destroyed their stock of 60,000 M26 rockets by 2013, Italy destroyed its 3,894 rockets by 31 October 2015, Germany its 26,000 by 25 November 2015, France its 22,000 by 2017. Finland acquired 400 M26 rockets with acquisition of MRLS vehicles from Norway for qualification testing and conversion into training rockets.
+M26A1 ER rockets carrying 518 M85 submunitions. Range: 9–28 miles (15–45 km). The M85 submunitions are identical to the M77 submunitions, except for the fuze. The M85 use the M235 mechanical/electronic self-destruct fuze to reduce hazardous duds and the potential for fratricide or collateral damage.
+M26A2 ER rockets carrying 518 M77 submunitions. Interim solution until the M26A1 ER entered service. Range: 9–28 miles (15–45 km). The M26A2 ER rockets have been retired from US Army service and the remaining rockets are being destroyed.
+M28 practice rockets. A M26 variant with three ballast containers and three smoke marking containers in place of the submunition payload. Production ceased in favor of the M28A1.
+M28A1 Reduced Range Practice Rocket (RRPR) with blunt nose. Range reduced to 5.6 miles (9 km). Production ceased in favor of the M28A2.
+M28A2 Low Cost Reduced Range Practice Rocket (LCRRPR) with blunt nose. Range reduced to 9 kilometres (5.6 mi).
+AT2 German M26 variant carrying 28 AT2 anti-tank mines. Range: 9–24 miles (15–38 km)
+
+
+=== GMLRS ===
+Guided multiple launch rocket system (GMLRS) rockets have a GPS-aided inertial navigation system and extended range. Flight control is accomplished by four forward-mounted canards driven by electromechanical actuators. GMLRS rockets were introduced in 2005 and can be fired from the M270A1 and M270A2, the European M270A1 variants (British Army M270B1, German Army MARS II, French Army Lance Roquette Unitaire (LRU), Italian Army MLRS Improved (MLRS-I), Finnish Army M270D1), and the lighter M142 HIMARS launchers.
+M30 rockets have an area-effects warhead, while M31 rockets have a unitary warhead, but the rockets are otherwise identical. By December 2021, 50,000 GMLRS rockets had been produced, with yearly production then exceeding 9,000 rockets. Each rocket pod contains 6 identical rockets. The cost of an M31 missile is estimated at $500,000, though this may be the "export price", always higher than the amount charged to the US Army. According to the US Army's budget, it will pay about $168,000 for each GMLRS in 2023.
+Both Lockheed Martin and the US Army report that the GMLRS has a maximum range greater than 43 miles (70 km). According to a US Department of Defense document the maximum demonstrated performance of a GMLRS is 52 miles (84 km), a figure also reported elsewhere. Another source reports a maximum range of about 56 miles (90 km). In 2009 Lockheed Martin announced that a GMLRS had been successfully test fired 57 miles (92 km).
+During the Russo-Ukrainian War, Russian forces have relied on electronic warfare to jam GPS signals. The inertial navigation system is immune to jamming, but less accurate than when paired with GPS coordinates and can miss the target. Ukraine attempted to mitigate the jamming by changes to the software and attacking Russian jamming systems by artillery.
+
+M30 rockets carrying 404 DPICM M101 submunitions. Range: 9–57 miles (15–92 km). 3,936 produced between 2004 and 2009. Production ceased in favor of the M30A1. The remaining US Army M30 rockets have been converted to the M31 (unitary warhead) variant.
+M30A1 rockets with Alternative Warhead (AW). Range: 9–57 miles (15–92 km). The M30's submunitions are replaced with about 182,000 pre-formed tungsten fragments, to give area effects, but without leaving unexploded submunitions. The system uses a proximity sensor fuze mode with a 30-foot (10 m) height of burst. Entered production in 2015.
+M30A2 rockets with Alternative Warhead (AW). Range: 15–92 kilometres (9.3–57.2 mi). Improved M30A1 with Insensitive Munition Propulsion System (IMPS). The only M30 variant in production since 2019.
+M31 rockets with 200-pound (91 kg) high-explosive unitary warhead. Range: 9–57 miles (15–92 km). Entered production in 2005. The warhead is produced by General Dynamics and contains 51 lb (23 kg) of PBX-109 high explosive in a steel blast-fragmentation case.
+M31A1 rockets with 200-pound (91 kg) high-explosive unitary warhead. Range: 9–57 miles (15–92 km). Improved M31 with new multi-mode fuze that added airburst to the M31's fuze point detonation and delay.
+M31A2 rockets with 200-pound (91 kg) high-explosive unitary warhead. Range: 9–57 miles (15–92 km). Improved M31A1 with Insensitive Munition Propulsion System (IMPS). The only M31 variant in production since 2019.
+M32 SMArt German variant produced by Diehl Defence carrying 4 SMArt anti-tank submunitions and new flight software. Developed for MARS II, but has not been ordered as of 2019, so is not in service.
+ER GMLRS rockets with extended range of up to 93 miles (150 km). Uses a slightly bigger rocket motor, a newly designed hull, and tail-driven guidance, while still being six per pod. It will come in unitary and AW variants. The first successful test flight was in March 2021. In early 2021, Lockheed Martin anticipated putting it into its production line in the fiscal year 2023 contract award and was planning to produce the new rockets at its Camden facility. In 2022 Finland became the first foreign customer to order it.
+
+
+=== GLSDB ===
+
+The Ground Launched Small Diameter Bomb is a weapon made by Boeing and the Saab Group, who modified Boeing's GBU-39 Small Diameter Bomb (SDB) with the addition of a rocket motor. It has a range of up to 93 miles (150 km).
+
+
+=== ATACMS ===
+
+The Army Tactical Missile System (ATACMS) is a series of 24-inch (610 mm) surface-to-surface missile (SSM) with a range of up to 190 miles (300 km). Each rocket pod contains one ATACMS missile. As of 2022 only the M48, M57, and M57E1 remain in the US military's active inventory.
+
+M39 (ATACMS BLOCK I) missile with inertial guidance. The missile carries 950 M74 Anti-personnel and Anti‑materiel (APAM) bomblets. Range: 16–103 miles (25–165 km). 1,650 M39 were produced between 1990 and 1997, when production ceased in favor of the M39A1. During Desert Storm 32 M39 were fired at Iraqi targets and during Operation Iraqi Freedom a further 379 M39 were fired. The remaining M39 missiles are being updated since 2017 to M57E1 missiles. The M39 is the only ATACMS variant which can be fired by all M270 and M142 variants.
+M39A1 (ATACMS BLOCK IA) missile with GPS-aided guidance. The missile carries 300 M74 Anti-personnel and Anti‑materiel (APAM) bomblets. Range: 1–186 miles (2–300 km). 610 M39A1 were produced between 1997 and 2003. During Operation Iraqi Freedom 74 M39A1 were fired at Iraqi targets. The remaining M39A1 missiles are being updated since 2017 to M57E1 missiles. The M39A1 and all subsequently introduced ATACMS missiles can only be used with the M270A1 (or variants thereof) and the M142.
+M48 (ATACMS Quick Reaction Unitary (QRU) missile with GPS-aided guidance. It carries the 500-pound (230 kg) WDU-18/B penetrating high explosive blast fragmentation warhead of the US Navy's Harpoon anti-ship missile, which was packaged into the newly designed WAU-23/B warhead section. Range: 43–186 miles (70–300 km). 176 M48 were produced between 2001 and 2004, when production ceased in favor of the M57. During Operation Iraqi Freedom 16 M48 were fired at Iraqi targets a further 42 M48 were fired during Operation Enduring Freedom. The remaining M48 missiles remain in the US Army and US Marine Corps' arsenal.
+M57 (ATACMS TACMS 2000) missile with GPS-aided guidance. The missile carries the same WAU-23/B warhead section as the M48. Range: 43–186 miles (70–300 km). 513 M57 were produced between 2004 and 2013.
+M57E1 (ATACMS Modification (MOD) missile with GPS-aided guidance. The M57E1 is the designation for upgraded M39 and M39A1 with re-grained motor, updated navigation and guidance software and hardware, and a WAU-23/B warhead section instead of the M74 APAM bomblets. The M57E1 ATACMS MOD also includes a proximity sensor for airburst detonation. Production commenced in 2017 with an initial order for 220 upgraded M57E1. The program is slated to end in 2024 with the introduction of the Precision Strike Missile (PrSM), which will replace the ATACMS missiles in the US arsenal.
+
+
+=== PrSM ===
+
+The Precision Strike Missile (PrSM) is a new series of GPS-guided missiles, which will begin to replace ATACMS missiles from 2024. PrSM carries a newly designed area-effects warhead and has a range of 37–310 miles (60–499 km). PrSM missiles can be launched from the M270A2 and the M142, with rockets pods containing 2 missiles. As of 2022 the PrSM is in low rate initial production with 110 missiles being delivered to the US military over the year. PrSM will enter operational service in 2023.
+
+
+=== Reverse engineering ===
+ Turkey PARS SAGE-227 F (Turkey): Experimental Guided MLRS (GMLRS) developed by TUBITAK-SAGE to replace the M26 rockets.
+
+
+=== Israeli rockets ===
+Israel developed its own rockets to be used in the "Menatetz", an upgraded version of the M270 MLRS.
+
+Trajectory Corrected Rocket (TCS/RAMAM): In-flight trajectory corrected for enhanced accuracy.
+Ra'am Eithan ("Strong Thunder"): an improved version of the TCS/RAMAM (in-flight trajectory corrected for enhanced accuracy) with significantly decreased percentage of duds.
+
+
+=== British missiles ===
+As part of the approximately £2bn Land Deep Fires Programme (LDFP), the British Army intends a large scale modernization effort of its GMLRS capability involving both an increase in the number of launchers and an expansion in the variety of effectors available. The British Army launchers will be upgraded to the M270A2 standard and additional launchers will be purchased and upgraded from stockpiles likely from the US for a total of 76 launchers and 9 recovery vehicles. M270A2 will include a number of British-specific upgrades such as new composite rubber tracks, radar and video sensors, as well as the new jointly developed fire control system from the UK, US, Italy, and Finland.
+Alongside the procurement of GMLRS-ER and the possible procurement of the PrSM, the UK is also developing two additional effectors under its 'one launcher, many payloads' concept:
+
+Dispensing-Rocket Payload: developed under 'Technical Demonstrator Program 5', a UK designed dispensing payload that replaces the standard warheads for the GMLRS-ER and PrSM. It is capable of deploying small UAVs such as Lockheed Martin UK's OUTRIDER for ISTAR, battle damage assessment, and electronic warfare; or a number of Thales UK's free-fall lightweight multirole missile (FFLMM) for anti-armour capability.
+Land Precision Strike (LPS): derived from MBDA UK's CAMM and Brimstone products; designed to complement the GMLRS-ER by enabling the engagement of high value, time sensitive, and mobile targets out to 50–93 miles (80–150 km). MBDA graphics show that LPS could be used on a number of platforms including the M270 with an additional vehicle sporting the two way data link pod, Boxer (as a mission module), or MBDA's iLauncher.
+
+
+=== French missiles ===
+Developed by MBDA France and Safran as a candidate for the Feux Longue Portée-Terre (FLP-T) or Land Long Range Fires procurement program, the Thundart guided artillery rocket is designed to have a range of 93 miles (150 km) and the ability to be fired from the French version of the M270, the Lance-Roquettes Unitaire (LRU).
+
+
+=== Alternative Warhead Program ===
+In April 2012, Lockheed Martin received a $79.4 million contract to develop a GMLRS incorporating an Alliant Techsystems-designed alternative warhead to replace DPICM cluster warheads. The AW version is designed as a drop-in replacement with little modification needed to existing rockets. An Engineering and Manufacturing Development (EMD) program was to last 36 months, with the alternative warhead GMLRS expected to enter service in late 2016. The AW warhead is a large airburst fragmentation warhead that explodes 30 ft (9.1 m) over a target area to disperse penetrating projectiles. Considerable damage is caused to a large area while leaving behind only solid metal penetrators and inert rocket fragments from a 200-pound (90 kg) warhead containing approximately 182,000 preformed tungsten fragments. The unitary GMLRS also has an airburst option, but while it produces a large blast and pieces of shrapnel, the AW round's small pellets cover a larger area.
+In May 2013, Lockheed and ATK test fired a GMLRS rocket with a new cluster munition warhead developed under the Alternative Warhead Program (AWP), aimed at producing a drop-in replacement for DPICM bomblets in M30 guided rockets. It was fired by an M142 HIMARS and traveled 22 miles (35 km) before detonating. The AWP warhead will have equal or greater effect against materiel and personnel targets, while leaving no unexploded ordnance behind.
+In October 2013, Lockheed conducted the third and final engineering development test flight of the GMLRS alternative warhead. Three rockets were fired from 11 miles (17 km) away and destroyed their ground targets. The Alternative Warhead Program then moved to production qualification testing. The fifth and final Production Qualification Test (PQT) for the AW GMLRS was conducted in April 2014, firing four rockets from a HIMARS at targets 40 miles (65 km) away.
+In July 2014, Lockheed successfully completed all Developmental Test/Operational Test (DT/OT) flight tests for the AW GMLRS. They were the first tests conducted with soldiers operating the fire control system, firing rockets at mid and long-range from a HIMARS. The Initial Operational Test and Evaluation (IOT&E) exercise was to be conducted in fall 2014.
+In September 2015, Lockheed received a contract for Lot 10 production of the GMLRS unitary rocket, which includes the first order for AW production.
+
+
+== Specifications ==
+
+Entered service: 1982, US Army
+First use in action: 1991, Gulf War
+Crew: 3
+Weight loaded: 54,578 pounds (24,756 kg)
+Length: 22 feet 6 inches (6.86 m)
+Width: 9 feet 9 inches (2.97 m)
+Height (stowed): 8 ft 5 in (2.57 m)
+Height (max. elevation): not available
+Maximum road speed: 40 mph (64 km/h)
+Cruise range: 300 miles (480 km)
+Reload time: 4 minutes (M270) 3 minutes (M270A1)
+Engine: Turbocharged V8 Cummins VTA903 diesel 500 hp (370 kW) ver2.
+Transmission: Cross-drive turbo transmission, fully electronically controlled
+Average unit cost: $2.3 million per launcher (FY 1990), $168,000 per M31 GMLRS rocket (FY 2023)
+
+
+== Operators ==
+
+
+=== Current operators ===
+
+
+==== M270 ====
+ Egypt: Egyptian Army (43)
+ Greece: Hellenic Army (36) ATACMS operational. Greece plans to modernize some of its M270s with an offer by Lockheed. In December 2024, Lockheed offered the upgrade of 26 of the 36 MLRSs to the Μ-270Α1 standard for €1,1 billion. Although this deal was not accepted by Greece due to its high cost, a modernization possibility of the systems was discussed in a meeting between Hellenic Army General Staff officers and company representatives, on January 13, 2025.
+ Japan: Japan Ground Self-Defense Force (99).
+ Saudi Arabia: Saudi Arabian Army (180)
+ Turkey: Turkish Army (12) ATACMS BLK 1A operational.
+
+
+==== M270A1 ====
+ Bahrain: Royal Bahraini Army (9) ATACMS operational.
+ Finland: Finnish Army (41) M270D1 launchers which will be upgraded to M270A2 variants.
+ France: French Army (13), European M270A1 variant called lance-roquettes unitaire (LRU).
+ Germany: German Army (114 M270 stored, 40 MARS II), European M270A1 variant called Mittleres Artillerieraketensystem (MARS II) It is set to be replaced by the GMARS.
+ Israel: Israeli Ground Forces (64), called "Menatetz" מנתץ, "Smasher".
+ Italy: Italian Army (22), European M270A1 variant called MLRS Improved (MLRS-I). 21 launchers which will be upgraded to M270A2 variants.
+ South Korea: Republic of Korea Army (58) 48 M270s and 10 M270A1s. ATACMS operational.
+ United Kingdom: British Army (44), M270A1 variant called M270B1, which includes an enhanced armor package. The UK will increase its operational fleet to 85 by 2030, as well as having more vehicles in reserve. 9 of the UK's M270s will be upgraded to the M270A2 variant through a $32 million programme.
+ United States: US Army (184) as of January 2025
+ Ukraine: Ukrainian Ground Forces (16) The United Kingdom, Norway, France, Germany and Italy provided more than ten systems to Ukraine in 2022. In October 2023, the US donated ATACMS for use in Ukrainian M270 and M142 launchers.
+
+
+==== M270A2 ====
+ United States: United States Army (840+151), 225 M270A1 and 160 M270A2 being delivered. The first M270A2 launcher was delivered 9 July 2022. GMLRS and ATACMS operational.
+Estimated (70) M270A2 as of January 2025
+
+
+=== Former operators ===
+
+
+==== M270 ====
+ Denmark: Royal Danish Army (12)
+ Netherlands: Royal Netherlands Army (23); retired from service in 2004; 1 displayed in a museum.
+ Norway: Norwegian Army (12), put in storage in 2005. Three donated to the United Kingdom to support the corresponding transfer of three British M270B1 MLRS to Ukraine. Another 8 donated in May 2023.
+
+
+== See also ==
+Launchers with the same ammunition pod as the M270:
+M142 HIMARS  – (United States)
+K239 Chunmoo  – (South Korea)
+T-122 Sakarya  – (Turkey)
+Fajr-5  – (Iran)
+LAR-160  – (Israel)
+Astros II  – (Brazil)
+Pinaka multi-barrel rocket launcher  – (India)
+BM-21  – (Soviet Union)
+Fath-360  – (Iran)
+BM-30 Smerch  – (Soviet Union)
+PHL-03  – (China)
+TOS-1  – (Soviet Union, Russia)
+
+
+== References ==
+
+
+== Sources ==
+Hunnicutt, Richard Pearce (15 September 2015) [1999]. "The Fighting Vehicle System Carrier". Bradley: A History of American Fighting and Support Vehicles. Battleboro, VT: Echo Point Books & Media. pp. 308–318. ISBN 978-1-62654-153-5.
+
+
+== External links ==
+
+British MLRS
+Designation Systems
+Diehl BGT—German developer and manufacturer of GMLRS (site in English)
+Danish M270 MLRS

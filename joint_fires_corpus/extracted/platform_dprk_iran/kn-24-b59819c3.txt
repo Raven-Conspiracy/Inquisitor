@@ -1,0 +1,50 @@
+The Hwasong-11B (Korean: 《화성포-11나》형; lit. 'Mars Artillery Type 11B'), also known as KN-24 under the United States naming convention and other names, is a North Korean single-stage, solid-fueled tactical ballistic missile. A missile cloning the American ATACMS, it was first revealed on 10 August 2019 with a test flight. The official designation was confirmed in October 2021, during a military exhibition. The missile is reported to be used by Russian force during Russo-Ukrainian war.
+
+
+== Description ==
+The Hwasong-11B is a missile that bears similarities to the American ATACMS and South Korean KTSSM, especially in external resemblance, which is similar to ATACMS. It likely fills a similar role of supporting battlefield operations. The missile's aft-mounted aerodynamic fins are fixed rather than foldable like those on the ATACMS, requiring deployment from rectangular launch canisters. It flies in a "variable ballistic trajectory," flattening out at a lower altitude, below around 50 km (31 mi), than traditional SRBMs like the Scud, where the atmosphere is dense enough, so the missile's fins can maintain aerodynamic control over its entire flight and dive toward the target.
+The use of INS updated with satellite-guidance data could make it accurate to within 35–200 m (115–656 ft) CEP, depending whether the missile uses satellite guidance or INS alone. Although the missile is outwardly similar to the ATACMS, it has demonstrated greater range, suggesting its physical dimensions are larger. It appears to share a common booster with the Hwasong-11A (KN-23) and is estimated to carry a 400–500 kg (880–1,100 lb) payload with a unitary or submunition warhead. The Hwasong-11B is also capable of carrying the Hwasan-31 tactical nuclear warhead. It is likely to replace older liquid-fueled North Korean SRBMs, such as Hwasong-5 and Hwasong-6, as its non-parabolic trajectory makes it more survivable against missile defense systems, and its increased accuracy reduces the number of missiles that would be needed to destroy a single target.
+Despite their similarities to the ATACMS system, the Hwasong-11B is significantly larger, with estimated length and diameter being 7.2 m (24 ft) and 1.0 m (3 ft 3 in), respectively. The missile also likely uses the same motor as the Pukguksong-1 with similar jet vanes, and overall resembling a single stage version of it. The transporter erector launcher is a tracked chassis, which has a width of about 1.26 m (4 ft 2 in) and a wheel diameter of 0.78 m (2 ft 7 in), similar to the Pukguksong-2's tracked mobile launcher.  It is similar to the TEL of South Korean Hyunmoo-2A and 2B; however, North Korean system utilizes two launch canisters instead of one used by South Korean counterpart. A number of images shown of the system appears to be manipulated, significantly increasing the size of the launcher. The Hwasong-11B can also be launched using a four-axle truck chassis.
+With the missile fulfilling a similar role to the Hwasong-11A, there should have been no need to develop another missile later with an overlapping performance. In an analysis of news reports from the Korean Central News Agency, despite the differences the Hwasong-11A possesses from the 9K720 Iskander, the Hwasong-11A is likely to be constructed with foreign assistance or foreign parts.
+While all the news reports on the Hwasong-11A mainly focused on the deployment, "demonstration of power" and newness of it, reports on the Hwasong-11B instead focused on the "research" and "development" in its first launch, as well as its superiority compared with older weapons. Later launches of Hwasong-11B made mention of "Juche weapons of Korean style", which is not mentioned at all for the Hwasong-11A, hinting that whereas the Hwasong-11B underwent a research and development phase, the Hwasong-11A was already deployed prior to being tested, and likely having foreign involvement in some form.
+
+
+=== Naming ===
+The official designation, Hwasong-11B, was revealed in October 2021 during the "Self-Defense 2021" military exhibition, as an image published by North Korean state media clearly showed the missile's official name. The Hwasong-11B can also be referred to as Hwasong-11Na or Hwasongpho-11Na, with the letter "Na" (나) being the second letter of the Korean alphabet. While mixing Korean and Latin characters, Hwasong-11B can also be referred to as Hwasong-11나 and Hwasongpho-11나.
+The Hwasong-11B is externally known by intelligence communities outside North Korea as KN-24 under the US nomenclature. Other external names also include 19-4 SRBM, used by South Korean military, as well as Songun ATACMS, a nickname given by analysts.
+
+
+== History ==
+Hwasong-11B made its public debut on 10 August 2019 with a flight test. Another test-fire occurred on 16 August 2019. A third flight test was also carried out on 21 March 2020. Later, North Korea featured Hwasong-11B in military parades on 10 October 2020 and 14 January 2021, as well as the "Self-Defence 2021" military exhibition in October 2021, where North Korea revealed official name of the missile.
+North Korea also unveiled a tan-coloured version of Hwasong-11B during the "Self-Defence 2021" military exhibition. After the exhibition, a further test of Hwasong-11B occurred on 17 January 2022.
+Hwasong-11B also appeared in military parades on 25 April 2022, 8 February 2023, as well as on 27 July 2023, when North Korea unveiled truck-type TEL of Hwasong-11B. A further test-fire took place on 30 August 2023.
+According to the International Institute for Strategic Studies (IISS), as of 2025, North Korea is possessing more than nine Hwasong-11B launchers. These launchers are assessed as "in test" by the IISS.
+
+
+=== Use during Russian invasion of Ukraine ===
+In February 2024, Ukraine claimed to shoot down Hwasong-11B missiles, with Ukrainian media confirming an interception on 15 February near Kyiv. A day after the claimed shooting down, Ukrainian data showed 24 missiles, including Hwasong-11B, being used by Russia, allegedly with low accuracy.
+In August 2024, the Conflict Armament Research documented the debris of four additional North Korean ballistic missiles that landed in Ukraine. These debris, retrieved in Bila Tserkva, Vitrova Balka and Rozhivka, may be from Hwasong-11B.
+According to Ukraine, at the start of 2025, North Korea had supplied 148 ballistic missiles of two types, including Hwasong-11B.
+In April 2026, a Ukrainian report revealed that North Korean ballistic missiles (including Hwasong-11B) used by Russia in 2024 were made using commercial electronics with outdated manufacturing methods (up to 50 years old) and used less energy-efficient fuel, requiring North Korean missiles to use larger engines to achieved the same range as Russian counterpart.
+
+
+== List of tests ==
+
+
+=== Confirmed tests ===
+
+
+=== Unconfirmed tests ===
+According to member states of the United Nations Security Council, some of the eight ballistic missiles fired on 5 June 2022 could be the Hwasong-11B.
+
+
+== See also ==
+KTSSM – South Korean tactical ballistic missilePages displaying short descriptions of redirect targets
+ATACMS – American tactical ballistic missile
+Hwasong-11D – North Korean short-range ballistic missile
+
+
+== Notes ==
+
+
+== References ==

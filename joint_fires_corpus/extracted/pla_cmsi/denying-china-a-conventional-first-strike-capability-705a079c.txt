@@ -1,0 +1,1941 @@
+Volume 72
+Number 2 Spring 2019
+Article 5
+2019
+U.S. Conventional Access Strategy: Denying China
+a Conventional First-Strike Capability
+Sam Goldsmith
+Follow this and additional works at: https://digital-commons.usnwc.edu/nwc-review
+This Article is brought to you for free and open access by the Journals at U.S. Naval War College Digital Commons. It has been accepted for inclusion in
+Naval War College Review by an authorized editor of U.S. Naval War College Digital Commons. For more information, please contact
+repository.inquiries@usnwc.edu.
+Recommended Citation
+Goldsmith, Sam (2019) "U.S. Conventional Access Strategy: Denying China a Conventional First-Strike Capability," Naval War
+College Review: Vol. 72 : No. 2 , Article 5.
+Available at: https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+U.S. CONVENTIONAL ACCESS STRATEGY
+Denying China a Conventional First-Strike Capability
+Sam Goldsmith
+Sam Goldsmith has over eight years of research and 
+analysis experience focused primarily on military 
+capabilities, submarines, and surface combatants. 
+He has received a master of arts (with honors) from 
+the Australian National University (ANU) Strate­
+gic and Defence Studies Centre, a master of project 
+management from ANU, and a bachelor of arts (with 
+honors) from Monash University. He has done pro­
+fessional research consulting work in the Australian 
+defense field.
+© 2019 by Sam Goldsmith
+Naval War College Review, Spring 2019, Vol. 72, No. 2
+ T
+he People’s Republic of China makes extensive territorial claims over Taiwan, 
+the East China Sea, and the South China Sea. China’s neighbors openly dis­
+pute these claims and the international community does not recognize most of 
+them. The Chinese government views the settlement of these disputes on terms 
+favorable to China as a national priority. Ideally, the Chinese government would 
+like to resolve these disputes through diplomatic channels or by using coercive 
+and paramilitary techniques that fall short of triggering armed conflicts.
+1 How­
+ever, concurrently the People’s Liberation Army (PLA) is preparing war plans 
+and acquiring capabilities to resolve these disputes through the use of armed 
+force. The Chinese government views all its territorial disputes as “core interests” 
+and has signaled its willingness to achieve these core interests through the use of 
+armed force. The U.S. government openly opposes any coercive or aggressive ac­
+tivities that upset the status quo, putting it at odds with the Chinese government.
+2
+The problem is that the Chinese leadership appears unconvinced that the 
+United States would risk a conflict with China—one that could escalate to a 
+nuclear war—over disputes concerning territo­
+ries that geographically are distant from the U.S. 
+mainland and seemingly are unrelated to core U.S. 
+national security interests.
+3 However, the PLA has a 
+relatively small nuclear arsenal, estimated at fewer 
+than four hundred warheads, in contrast with the 
+U.S. arsenal, which has around 1,550 warheads.
+4 
+Any nuclear strike China made on the United 
+States would involve only a fraction of the PLA’s 
+overall arsenal, because it would need to retain 
+1
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+36 
+NAVAL WAR COLLEGE REVIEW
+some reserve to deter other nuclear-armed neighbors, such as Russia and India. 
+If the Chinese leadership authorized a nuclear strike against the U.S. homeland, 
+or even a limited nuclear strike against forward-deployed U.S. forces, it would 
+be inviting overwhelming devastation from the considerably larger U.S. nuclear 
+force.
+5 For these reasons, China likely would aim to confine itself to the use 
+of conventional weapons during any potential high-intensity conflict with the 
+United States—particularly given that China already possesses a lethal array of 
+long-range, conventional, theater-strike options.
+6 Such a strategic, conventional, 
+first-strike option is one that the United States should seek to deny China by 
+developing an effective conventional access strategy.
+The U.S. military has three principal strategic objectives. The first is to protect 
+the U.S. mainland and offshore U.S. territories from armed attacks.
+7 The second 
+is to foster a stable, rules-based, global security order through an interconnected 
+web of alliances and partnerships. The third is to deter and, if necessary, decisive­
+ly defeat aggressors through the projection of military power. Under the national 
+military strategy that the Joint Staff published in 2015, the U.S. military would 
+deter and defeat state aggressors by leveraging U.S. forward-deployed units, 
+force-projection capabilities, alliances, communications networks, and “resilient 
+logistics” infrastructure.
+8 This strategy appears identical to the U.S. military’s 
+force-projection approach to the 1991 Gulf War.
+9 But the central problem with 
+emulating the Gulf War style of force-projection operations is that in future de­
+cades the U.S. military no longer will enjoy uncontested use of its forward bases 
+or the ocean.
+10
+Operation DESERT STORM required the U.S. military to transport around five 
+hundred thousand personnel, 6.1 million tons of fuel, and 3.7 million tons of 
+equipment and stores to the Persian Gulf theater. Building up sufficient person­
+nel, equipment, stores, and supplies required seven months of intense air and 
+sealift operations, as well as access to bases in Saudi Arabia.
+11 Because of the range 
+limitations of tactical aircraft and payload-laden airlifters, the U.S. Air Force 
+(USAF) was forced to use in-flight refueling tankers to form “air bridges.” Air 
+bridges allowed aircraft with range limitations to cross oceans by flying between 
+in-flight refueling tankers until they reached the desired theater of operations. 
+USAF in-flight refueling tankers also supported U.S. and allied short-range tacti­
+cal aircraft, flying around 16,868 sorties to deliver four hundred thousand tons 
+of fuel in flight.
+12 The U.S. military deployed a total of around 1,600 short-range 
+tactical aircraft that operated from in-theater air bases and six U.S. Navy (USN) 
+aircraft carriers stationed in littoral waters.
+13 Long-range, precision-guided mu­
+nitions accounted for around 5 percent of all air-to-ground ordnance delivered, 
+supported by around sixteen Global Positioning System (GPS) satellites.
+14 U.S. 
+2
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+37
+military satellite constellations also gathered intelligence and provided global 
+communications.
+15
+The PLA keenly observed the 1991 Gulf War, particularly American exploita­
+tion of conventional, long-range, precision strikes.
+16 The PLA also observed how 
+two USN carrier strike groups intervened during the 1995–96 Taiwan Strait crisis. 
+Both developments highlighted the PLA’s technological inferiority and inability 
+to prevent USN sea power from threatening the Chinese mainland.
+17 In response, 
+the PLA has developed a “counterintervention strategy,” designed specifically to 
+negate traditional U.S. advantages in global force projection. The core problem is 
+that the PLA’s counterintervention capabilities could be used to undermine the 
+U.S. military’s credibility to deter and defeat state aggressors—thereby increasing 
+the likelihood of a China-U.S. armed conflict.
+PLA COUNTERINTERVENTION STRATEGY
+Strategically, the PLA is tasked with using its counterintervention strategy to 
+deter the United States and deny the U.S. military access to the western Pacific. 
+The primary purpose of this strategy is to provide the Chinese government with 
+the ability to isolate and coerce U.S. allies or regional countries to accept Chinese 
+sovereignty demands in a number of territorial disputes.
+18 The PLA might be 
+directed to apply this counterintervention strategy in relation to the disputed 
+sovereignty over Taiwan, the Yellow Sea, the East China Sea, and the South China 
+Sea.
+19
+The PLA’s counterintervention strategy requires four main types of military 
+operations: theater strike, denial of service, antiaccess, and area-denial operations. 
+Ideally, all four types of operations would be carried out simultaneously; howev­
+er, the PLA’s finite resources might force it to prioritize. If the PLA were forced to 
+prioritize, it would place the greatest emphasis on neutralizing forward-deployed 
+U.S. forces, followed by denying critical services to the U.S. military, followed by 
+activities to prevent the U.S. military from reinforcing the Pacific theater. Theater-
+strike operations would be required to disable or destroy forward-deployed U.S. 
+military assets, including aircraft, ships, and submarines, in addition to infra­
+structure at U.S. bases located west of Pearl Harbor.
+20 Strikes against these targets 
+would be executed rapidly at the outset of a conflict to catch adversaries unpre­
+pared and achieve decisive in-theater superiority.
+21 
+In carrying out this strategy, the PLA will employ each of its four subordinate 
+service branches: the PLA Army, the PLA Navy (PLAN), the PLA Air Force 
+(PLAAF), and the PLA Rocket Force (PLARF). PLAN submarines would execute 
+undersea attacks against U.S. ships and submarines in port or at sea and strike at 
+land targets with cruise missiles.
+22 The PLAAF would execute air strikes against 
+3
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+38 
+NAVAL WAR COLLEGE REVIEW
+U.S. aircraft on the ground or in the air, as well as U.S. ships and submarines in 
+port or at sea. Strikes against U.S. bases would occur with extended-range mis­
+siles launched from PLAAF combat aircraft or conventional ballistic missiles 
+launched from the Chinese mainland.
+23
+PLAAF combat aircraft can deliver antiship cruise missiles (ASCMs) out to 
+two thousand kilometers (km) from the Chinese mainland, and PLAAF H-6 
+long-range bombers can deliver land-attack cruise missiles out to 3,300 km from 
+the Chinese mainland. Air-launched cruise missiles would be supplemented by 
+PLARF conventional ballistic missiles. The PLARF’s DF-16 short-range ballistic 
+missile would strike land targets at a range of around eight hundred kilometers. 
+The PLARF’s DF-21 medium-range ballistic missile (MRBM) would strike land 
+targets or moving ships in the DF-21D antiship ballistic missile (ASBM) configu­
+ration at a range of around 1,500 km.
+24 The PLARF’s DF-26 intermediate-range 
+ballistic missile (IRBM) would strike land targets or moving ships in the ASBM 
+configuration at ranges around three thousand kilometers.
+25
+Denial-of-service operations would aim at denying the United States unfet­
+tered use of its command, control, communications, computers, intelligence, 
+surveillance, and reconnaissance (C4ISR) infrastructure.
+26 Successful PLA 
+denial-of-service operations would hinder the U.S. military’s ability to execute 
+land-attack strikes from USN submarines in the western Pacific, receive up-to-
+date intelligence from USN submarines on patrol, marshal combat resources 
+to reinforce the Pacific theater, and communicate with surviving U.S. forces in 
+the western Pacific. One method would be for the PLA to apply its antisatellite 
+(ASAT) technologies to incapacitate, disrupt, or destroy U.S. military satellite 
+constellations used for global communications, satellite navigation, and intel­
+ligence gathering.
+27 PLA ASAT technologies include lasers, microwave technolo­
+gies, and hard-kill methodologies.
+28 Cyberwarfare capabilities also provide the 
+PLA with a sophisticated method to disrupt or deny the U.S. military’s use of its 
+C4ISR infrastructure.
+29
+Antiaccess operations would degrade or deny USAF and USN force-
+projection capabilities for accessing the western Pacific, thus isolating U.S. al­
+lies.
+30 Denying USN seaborne force-projection capabilities would be a priority 
+because over 90 percent of all U.S. military assets, stores, and equipment are 
+transported by sea.
+31 PLA antiaccess operations would force USN task forces to 
+run a gauntlet of layered offensive PLA capabilities during the approach to the 
+western Pacific.
+32 Surviving USN task forces likely would arrive in theater with 
+depleted missile magazines, having suffered fleet-wide damage or ship losses, or 
+both, just to come within range of the Chinese mainland. Weapons and vessels 
+available for Chinese antiaccess operations include DF-21D ASBMs, potentially 
+4
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+39
+DF-26 ASBMs, air-launched ASCMs, diesel-electric and nuclear-powered attack 
+submarines, and surface combatants.
+33
+U.S. airpower also could be denied access to the western Pacific through the 
+deployment of PLAN aircraft carrier battle groups. Other options might include 
+arming PLAN nuclear-powered attack submarines with submarine-launched, an­
+tiair missiles to shoot down USAF in-flight refueling tankers and cargo-transport 
+aircraft. Concurrently, some PLA units would aim to interdict U.S. follow-on 
+forces outside the western Pacific, particularly in Hawaii and Australia, with the 
+aim of harassing and interfering with the deployment of U.S. and allied forces 
+into theater.
+34
+Area-denial operations would be required to limit the freedom of maneuver of 
+air or maritime forces in coastal areas close to the Chinese mainland. PLA capa­
+bilities that could be used for area-denial operations include advanced sea mines, 
+diesel-electric submarines, maritime strike aircraft, surface combatants, Type 
+022 missile patrol boats armed with ASCMs, coastal ASCM batteries, land-based 
+air-defense systems, and land-based conventional and rocket artillery batteries.
+35
+PLA PASSIVE DEFENSES
+Concurrently, the PLA has invested in three types of passive-defense capabilities 
+designed specifically to enable continuity of PLA conventional and nuclear war-
+fighting capabilities, even if the Chinese mainland comes under heavy attack. 
+PLA passive-defense capabilities include land-based sensor networks; land-based 
+command, control, and communications (C3) networks; and hardened facilities.
+First, the PLA has invested in extensive land-based sensor networks to provide 
+persistent wide-area surveillance of the western Pacific to enable PLA land-
+based, long-range strike capabilities. The PLA uses land-based Skywave over-the-
+horizon (OTH) radar technology to track aircraft and ships at ranges of several 
+thousand kilometers from the Chinese mainland.
+36 The PLA uses Surfacewave 
+OTH radar arrays to track aircraft and ships at long ranges from the Chinese 
+mainland.
+37 These capabilities are being augmented with other infrared, pulsed-
+Doppler radar, phased-array radar, and passive radar detection technologies.
+38 
+The PLA uses passive undersea sensors to detect and track submarines operating 
+within Chinese littoral waters.
+39 The PLA’s land-based intelligence, surveillance, 
+and reconnaissance (ISR) capabilities are augmented by PLAAF airborne warn­
+ing and control system aircraft, unmanned aerial vehicles, and ISR satellites.
+40
+Second, the PLA has invested in survivable, land-based C3 systems designed 
+specifically to enable the Chinese national command hierarchy to retain basic 
+C3 functions over all PLA branches, even while under heavy attack.
+41 PLA 
+C3 systems include underground fiber-optic cables; microwave relays; and 
+5
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+40 
+NAVAL WAR COLLEGE REVIEW
+long-range, high-frequency radio technologies augmented by civilian commu­
+nication channels.
+42
+Third, the PLA has invested heavily in aboveground hardened structures 
+(HSs), shallow-underground HSs, deep-underground HSs, and strategic hard 
+and deeply buried targets (HDBTs) (see table 1). The purpose of these hardened 
+facilities is to enable the Chinese national command hierarchy, strategic assets, 
+and other key capabilities such as logistics to survive and remain operational, 
+even after a nuclear strike.
+43 The PLA has invested in strategic HDBTs to protect 
+the Chinese national command hierarchy in the event of an armed conflict.
+44 
+These HDBTs are connected to the outside world through extensive land-based 
+communications networks that enable the Chinese national command hierarchy 
+to remain in command of its sea, air, and land forces.
+45 
+The PLARF has an extensive network of hardened tunnels and facilities buried 
+deep underground and within mountains that can protect land-based strategic 
+assets such as road-mobile ballistic missiles, launchers, and PLARF personnel.
+46 
+Some reports indicate that the PLARF has 4,856 kilometers of such hardened 
+and deeply buried tunnels, some as deep as one thousand meters. The tunnels 
+form part of an extensive underground web of HDBT facilities and are serviced 
+by internal transport or train networks that move ordnance and launchers. These 
+facilities have surface-level entrances where the missile transporter-erector-
+launchers (TELs) can access surface-level launchpads.
+47
+The PLAAF has hardened its air bases to protect its combat aircraft.
+48 PLAAF 
+air bases feature hardened aboveground HSs, such as aircraft hangars, with re­
+inforced concrete protection estimated to be between 0.9 and 1.2 meters thick. 
+PLAAF air bases also feature underground HSs that function as hangars and 
+Type
+Definition
+Hardened structure
+(HS)
+Aboveground HS: aboveground facilities or structures that are protected from ki­
+netic and air-blast weapons effects because of their aerodynamic shape that deflects 
+blast waves—typically covered with earth and reinforced concrete
+a
+Shallow-underground HS: underground facilities or structures up to twenty meters 
+below the earth’s surface
+ 
+Deep-underground HS: underground facilities or structures twenty or more meters 
+below the earth’s surface
+ 
+Hard and deeply buried target
+(HDBT)
+Underground facilities one to seven hundred meters below the earth’s surface that 
+protect a country’s national command structure, critical activities, equipment, 
+personnel, or strategic military response options from nuclear weapons effects
+ 
+TABLE 1
+TYPES OF HARD TARGETS
+ Note:
+ a. National Research Council of the National Academies, Effects of Nuclear Earth-Penetrator and Other Weapons (Washington, DC: National Academies 
+Press, 2005), p. 14.
+6
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+41
+storage facilities. Some of the PLAAF underground HSs are very large, provided 
+with multiple entrances, constructed inside mountains, and covered by anywhere 
+from twenty to sixty meters of concrete, dirt, and rock. Other passive measures 
+include revetments between parked aircraft and long paved areas that can be 
+used as emergency runways, as well as multiple points of access for runways. 
+These measures usually are augmented by advanced camouflage and advanced 
+air-defense systems.
+49
+The PLAN also has constructed extensive underground HSs to protect its 
+submarine forces, accessed by sea-level tunnels in coastal areas. These facilities 
+offer PLA submarines the ability to deploy covertly and return without being vis­
+ible to U.S. overhead surveillance capabilities.
+50 The PLAN naval base on Hainan 
+Island currently is equipped with hardened underground submarine facilities of 
+this nature.
+51 The PLAN also plans to construct a significantly larger and more 
+modern underground HS naval base sufficient to protect and house its nuclear-
+powered, ballistic-missile submarines.
+52
+PLA CONVENTIONAL FIRST-STRIKE CAPABILITY
+The PLA’s most significant counterintervention capability is its inventory of long-
+range conventional ballistic missiles, particularly given that the U.S. military does 
+not field an equivalent capability. PLA DF-21 MRBMs and ASBMs have ranges 
+around 1,500 km; PLA DF-26 IRBMs and ASBMs have ranges around three 
+thousand kilometers. It is also important to note that the PLA currently possesses 
+between two and three hundred MRBMs and likely will expand this inventory 
+with the introduction of the DF-26. The long range and growing inventory of 
+PLA conventional ballistic missiles would force relatively slow U.S. maritime as­
+sets to run a lethal gauntlet of PLA ASBMs while they are unable to return fire 
+and degrade the threat.
+53
+The U.S. Office of Naval Intelligence has assessed that the PLA’s conventional 
+ballistic missiles use maneuvering reentry vehicles (MARVs) equipped with 
+infrared and radar seekers, enabling PLA ballistic missiles to acquire fixed or 
+moving targets during the terminal phase of flight. PLA MARVs are difficult 
+opponents because of their significant agility and high reentry speeds (around 
+Mach 12), as well as electronic warfare, decoy, chaff, and flare countermeasures.
+54
+PLA conventional ballistic missiles have the potential to carry submunitions 
+warheads capable of inflicting wide-area destruction, which increases their threat 
+profile.
+55 Against fixed land targets, however, MARV penetrator warheads pro­
+vide the capability to inflict serious damage to hardened targets.
+56 MARV pen­
+etrator warheads could sink USN ships outright, whereas submunitions warheads 
+could inflict a range of damage to them.
+57 For instance, aircraft carrier flight 
+decks, arresting gear, catapults, and landing signal systems could be damaged, 
+7
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+42 
+NAVAL WAR COLLEGE REVIEW
+thereby preventing flight operations.
+58 Similarly, USN cruisers and destroyers 
+could suffer damage to phased-array radar panels and Mk 41 vertical launch­
+ing system (VLS) missile batteries. Damage of either type likely would result in 
+a “mission kill,” rendering the damaged ship unfit to fight. The predicted high 
+lethality and significant impact of PLA conventional ballistic missiles pose a seri­
+ous challenge to the survivability of U.S. forces operating in the western Pacific 
+and thus to U.S. force-projection capabilities.
+The PLA’s unmatched conventional ballistic-missile arsenal and rapidly evolv­
+ing military capabilities, combined with a perception of relative invulnerability to 
+U.S. retaliatory strikes, could lure Chinese leaders into a belief that a conventional 
+first strike might deliver temporary PLA regional superiority, during which time 
+Chinese leaders could settle regional disputes coercively, on their terms.
+59 A 
+perception of PLA superiority in a conventional theater strike is not helped by 
+the U.S. military’s apparent lack of a strategy outlining a credible response to an 
+overwhelming PLA conventional first strike.
+60 Without clear U.S. deterrence, the 
+risk of miscalculation only will increase—particularly as the PLA’s confidence in 
+its own capabilities grows in future decades.
+61
+TOWARD A U.S. CONVENTIONAL ACCESS STRATEGY
+The Cold War concept of mutually assured destruction (MAD) maintained rela­
+tive stability between the United States and the Soviet Union.
+62 Underpinning 
+MAD was the knowledge that both sides possessed credible nuclear second-
+strike capabilities—the ability to absorb a nuclear first strike and still retain 
+sufficient operable capability to respond with unacceptable devastation.
+63 This 
+understanding provided a relative degree of stability, since both sides clearly 
+understood their mutual vulnerability and that any preemptive nuclear first 
+strike would receive a response in kind.
+64 Using Cold War deterrence theory as 
+an underlying basis, this article advocates that the U.S. military should consider 
+introducing a conventional access strategy, designed specifically to balance the 
+PLA’s counterintervention strategy. The purpose would be to provide the U.S. 
+military with an improved capacity to deter a PLA conventional first strike, and, 
+if necessary, degrade PLA capabilities with long-range conventional strike forces, 
+to facilitate access for follow-on U.S. forces.
+Strategically, a U.S. conventional access strategy would provide Chinese lead­
+ers with a clearer understanding of how the U.S. military can impose costs on 
+China, even in the aftermath of a PLA conventional first strike. Operationally, it 
+would increase the permissiveness of the western Pacific for forward-deployed 
+and follow-on U.S. forces. The Department of Defense’s Joint Operational Access 
+Concept (JOAC) states that “in-range combat forces at the beginning of a crisis 
+can facilitate operational access” for other forces in antiaccess/area-denial (A2/
+8
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+43
+AD) environments.
+65 The primary operational objective of a U.S. conventional 
+access strategy would be to degrade the effectiveness of the PLA’s conventional 
+strike capability, as opposed to seeking its complete eradication, so as to facilitate 
+access for U.S. forces entering the western Pacific. The JOAC states that the U.S. 
+military must be able to strike deep into enemy A2/AD capability networks to 
+“disrupt the integrity of the enemy defensive system” and that preferred targets 
+include “logistics and command and control nodes, long range firing units and 
+strategic and operational reserves.”
+66 The secondary operational objective would 
+be to deny the PLA unfettered use of communications, logistics, and transport 
+capabilities such as airfields, airports, ports, rail networks, land-based C4ISR 
+networks, and fuel or ordnance stocks. By degrading PLA strike and war-fighting 
+capabilities, forward-deployed U.S. forces could increase the permissiveness of 
+the western Pacific for U.S. forces arriving in theater.
+A U.S. conventional access strategy would require four distinct capabilities. 
+A theater-wide passive-defense capability would enhance the ability of forward-
+deployed U.S. forces to survive initial PLA conventional strikes. A conventional 
+theater-strike capability would enable the U.S. military to begin degrading PLA 
+capabilities immediately at the outset of a conflict, without access to in-flight 
+refueling tankers or usable runways. A theater-recovery capability would restore 
+basic runway access in the aftermath of PLA conventional strikes. A rapid-
+response capability would allow long-range USAF bombers and fighter escorts to 
+deploy rapidly to U.S. bases in the western Pacific, capitalizing on freshly repaired 
+runways as well as pre-positioned stocks of aviation fuel and conventional earth-
+penetrating ordnance.
+Theater-Wide Passive-Defense Capability
+The PLA aims to be capable of striking at intercontinental distances with hyper­
+sonic boost-glide (HBG) missiles by 2020 and capable of striking at interconti­
+nental distances with hypersonic aircraft by 2025.
+67 The 2013 Air-Sea Battle Con­
+cept (ASBC) states that in a future armed conflict, U.S. bases could be attacked 
+and that “even the US homeland cannot be considered a sanctuary.”
+68 Both factors 
+indicate that the United States should consider hardening its infrastructure in the 
+western Pacific and at key locations across Hawaii and the continental United 
+States, so as to deny any adversary a relatively easy way to degrade or deny U.S. 
+force-projection capabilities.
+Within this context, a theater-wide passive-defense capability would require 
+improvements in the hardening of critical fixed sites to withstand kinetic threats, 
+and the hardening of critical C4ISR systems to resist nonkinetic strikes. Hard­
+ening of critical fixed sites might include building aboveground HS submarine 
+pens, aboveground HS aircraft shelters, and deep-underground HS fuel- and 
+9
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+44 
+NAVAL WAR COLLEGE REVIEW
+ordnance-storage facilities, as well as deep-underground HS or HDBT shelters 
+for theater-strike missiles, personnel, and base-repair kits. A 2007 study from 
+the RAND Corporation notes that major U.S. forward bases should protect their 
+in-theater fuel stocks in underground HSs and that stores should be sufficient 
+to enable several weeks of high-intensity air operations.
+69 Hardening of critical 
+C4ISR systems might include the protection of base computer networks and 
+electronic infrastructure from the effects of cyber, electromagnetic pulse (EMP), 
+and high-powered microwave (HPM) weapon effects. At the bare minimum, 
+such improvements in hardened infrastructure should be rolled out across all 
+U.S. bases in the western Pacific. It also might be desirable for the U.S. military to 
+consider selectively rolling out similar hardened infrastructure packages across 
+key Hawaiian and mainland installations, such as Pearl Harbor and San Diego.
+Conventional Theater-Strike Capability
+A conventional theater-strike capability would allow forward-deployed U.S. 
+forces to respond within minutes or hours of a PLA conventional first strike. A 
+U.S. conventional theater-strike capability would enable the U.S. military to begin 
+degrading PLA strike and C4ISR capabilities at the outset of a conflict, even if 
+U.S. bases, air assets, and naval assets were destroyed or otherwise unavailable. 
+A conventional theater-strike capability should consist of theater-strike missiles, 
+hypersonic undersea strike missiles, ASAT weapons, cyberstrike weapons, and 
+autonomous underwater vehicles (AUVs). As mentioned earlier, the purpose of 
+such strikes would not be to destroy these capabilities outright but to degrade 
+PLA strike and war-fighting capabilities, thereby achieving the JOAC objective 
+of helping ensure access for follow-on U.S. forces attempting to enter the theater 
+of operations.
+70
+Theater-Strike Missiles. Theater-strike missiles would enable forward-deployed 
+U.S. forces to execute conventional strikes against heavily defended targets on the 
+Chinese mainland, without support from in-flight refueling tankers or in-theater 
+runway access. Conventional missile strikes could take place in immediate re­
+sponse to, or in the aftermath of, a PLA conventional first strike. For U.S. bases 
+to retain a credible conventional theater-strike capability, theater-strike missiles 
+would have to be stored in hardened facilities.
+One option might be road-mobile IRBMs with conventional warheads and 
+a range of 5,500 km, sufficient to strike at Haixi City in Qinghai Province from 
+Guam or the Cocos Islands. Another option might be an HBG missile with in­
+tercontinental or intermediate range, consisting of a rocket booster stack and 
+hypersonic glide vehicle (HGV).
+71 After the boost phase, the HGV would exhibit 
+a limited ballistic trajectory before sharply reentering the atmosphere, followed 
+by the HGV’s transition into a high-altitude glide phase of flight to the intended 
+10
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+45
+target.
+72 The United States is developing an HGV that can be deployed from a 
+modified USAF intercontinental ballistic missile (ICBM) rocket booster.
+73 Either 
+option could carry a variety of conventional warheads, including penetrators for 
+hardened targets, submunitions for wide-area destruction, and EMP or HPM 
+warheads to cripple electronic infrastructure.
+HGVs could exploit hypersonic terminal speeds and combine with exist­
+ing conventional penetrator technology to threaten PLA HSs. The GBU-39 is 
+a small-diameter bomb that weighs 130 kilograms (kg) and can penetrate over 
+four meters of reinforced concrete.
+74 The GBU-28 is a 2,268 kg bomb capable of 
+penetrating over thirty meters of earth or over six meters of reinforced concrete.
+75 
+The GBU-57 massive ordnance penetrator (MOP) weighs 13,600 kg and is ca­
+pable of penetrating over sixty meters of five-thousand-pounds-per-square-inch 
+reinforced concrete.
+76 One option is for theater-strike missile HGVs to deploy 
+existing GBU-39 ordnance, as GBU-28 and GBU-57 ordnance is too large and 
+heavy. The other option is for the United States to develop a new penetrator that 
+combines hypersonic speeds with the GBU-57’s penetration technology, which 
+would be sufficient to threaten all grades of HSs up to one hundred meters be­
+low the earth’s surface. Using GBU-39 technology could provide HBG theater-
+strike missiles with the ability to neutralize aboveground HSs, such as ordnance 
+magazines and hardened aircraft shelters, and also to inflict heavy damage to 
+paved areas necessary for flight operations. Using the GBU-28 technology could 
+provide theater-strike missiles with the ability to neutralize all grades of shallow- 
+underground HSs and some grades of deep-underground HSs. Using the GBU-
+57 technology could provide theater-strike missiles with the ability to neutralize 
+most grades of deep-underground HSs.
+HBG theater-strike missiles ideally should be capable of being launched from 
+road-mobile TELs. Road-mobile HBG strike missiles would enable forward-
+deployed U.S. bases, such as Guam, to protect ordnance and launchers from 
+PLA conventional strikes in HDBT facilities. After a PLA conventional strike, 
+the TELs could be driven out of their hardened facilities and launched. Road-
+mobile weapons also would increase the tactical survivability of deployed TELs, 
+as they would be better dispersed and camouflaged compared with fixed missile 
+batteries.
+HBG theater-strike missiles should be used to target the weakest points of PLA 
+hardened facilities and infrastructure. Typically, these will be a hardened facility’s 
+communication links to the outside world and the surface-level entrances. The 
+reason for attacking entrances is that every underground hardened facility, by its 
+very nature, will have some surface-level access point. This is a vulnerability that 
+can be exploited by U.S. HBG theater-strike missiles to collapse the entrances to 
+11
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+46 
+NAVAL WAR COLLEGE REVIEW
+PLA hardened facilities, sealing all personnel and ordnance inside, or at the very 
+least impeding the movement of PLA assets in and out of the facility. In the case 
+of PLA HSs inside mountains, surface-level entrances would be vulnerable to 
+landslides, which could be triggered by U.S. HBG warhead detonations higher 
+up the mountain. However, the main problem with targeting the entrances of 
+PLA HSs is that they are likely to be camouflaged and “virtually undetectable by 
+current imagery assets.”
+77 Locating a significant portion of PLA hardened facility 
+entrances would require years of dedicated intelligence gathering by the entire 
+U.S. Intelligence Community, using its wide array of collection techniques.
+Hypersonic Undersea Strike Missiles. Hypersonic undersea strike missiles would 
+enable forward-deployed U.S. forces to strike at heavily defended but not hard­
+ened targets across the Chinese mainland. Prime targets would include but not be 
+limited to Chinese civilian airports, military airstrips, military and civilian ports, 
+electrical power grids, communications nodes, and fuel depots. The purpose of 
+striking at these targets would be to deny the PLA unfettered use of these facili­
+ties, which otherwise could be exploited to enhance PLA operations.
+Until the project’s apparent termination, the Defense Advanced Research 
+Projects Agency (known as DARPA) was developing the Arclight HBG weapon, 
+designed around the RIM-161 Standard Missile 3 booster stack and designed to 
+achieve full compatibility with strike-length Mk 41 VLS naval batteries. Arclight 
+was built to deliver an HGV payload with a total mass of 45–90 kg out to a range 
+of 3,700 km in less than thirty minutes.
+78 Although budget reports suggest that 
+the Arclight program has been terminated, it does provide insight into the types 
+of capabilities that might be feasible.
+Any future hypersonic undersea strike missile would need to be fully compat­
+ible with the U.S. Navy’s undersea wide-diameter payload tubes, which measure 
+2.2 meters in diameter and currently store seven UGM-109E Tomahawk land-
+attack missiles.
+79 Ideally, a future hypersonic undersea strike missile also would 
+be fully compatible with strike-length Mk 41 VLS cells. Full compatibility with 
+both launching systems would enable the same missile design to be supported by 
+Arleigh Burke–class guided-missile destroyers (DDGs), Virginia-class nuclear-
+powered attack submarines (SSNs), and Ohio-class nuclear-powered guided-
+missile submarines.
+Undersea towed payload modules (TPMs) are another launch option for fu­
+ture USN undersea strike weapons. TPMs essentially are containers fitted with 
+vertically launched undersea ordnance that would be submerged and towed by 
+submarines into theater.
+80 TPMs are the most attractive option for several rea­
+sons. First, TPMs lack the expensive crew life support, hotel loads, fuel storage, 
+and propulsion systems of surface combatants and submarines, and they can be 
+acquired in large numbers. Second, TPMs could be pre-positioned in littoral 
+12
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+47
+waters near Guam years in advance of any conflict. Third, targeting data could 
+be uploaded by the towing submarine into a TPM computer system prior to 
+launch. An onboard TPM computer system would enable the TPM to activate 
+on a time delay, giving the towing submarine time to escape the area before the 
+TPM launch cycle compromised its location. At the outbreak of hostilities, one or 
+more submarines could tow the pre-positioned TPMs to within striking distance 
+of the Chinese mainland.
+Antisatellite Strike and Cyberstrike Weapons. ASAT strike weapons would en­
+able the U.S. military to neutralize Chinese military and civilian satellite constel­
+lations rapidly.
+81 Similarly, cyberstrike capabilities would enable the U.S. military 
+to degrade the effectiveness of PLA C4ISR networks. These targets would be a 
+high priority for the United States since PLA counterintervention capabilities rely 
+on space-based assets to enhance OTH targeting of U.S. bases and moving ships 
+at sea.
+82 In theater, ASAT capabilities are launched from ground-based missile 
+launchers. Out of theater, ASAT capabilities enter by way of destroyer-launched 
+ordnance.
+Autonomous Underwater Vehicles. Long-range AUVs with large conventional 
+warheads would enable forward-deployed U.S. forces to strike at Chinese port 
+infrastructure, PLA naval bases, and PLA hardened submarine pens accessed 
+by sea-level undersea tunnels. Notice that only the entrance to a PLA hardened 
+sea-level tunnel would need to be sealed or rendered impassable to generate a 
+mission-kill effect and trap any submarines inside the PLA undersea facility.
+Boeing’s Echo Voyager unmanned undersea vehicle measures 2.6 by 2.6 by 
+15.5 meters, is fully autonomous, and has a range of around 12,038 km. It also 
+has a maximum diving depth of three thousand meters and seagoing endurance 
+of several months, is fitted with non-GPS navigation technologies, and is capable 
+of carrying very large payloads of up to eight tons, with a total internal space of 
+14.75 square meters. The Boeing Echo Voyager uses an inertial navigation system 
+(INS), Doppler velocity logs (DVLs), depth sensors, and various other technolo­
+gies to navigate independent of GPS satellite navigation constellations. Given the 
+exceptional range, seagoing endurance, diving depth, GPS-independent naviga­
+tion technologies, and large payload, Boeing’s Echo Voyager could be an ideal 
+baseline from which to build an AUV tailored specifically for neutralizing or 
+rendering inoperable Chinese ports, PLA naval bases, and PLA hardened subma­
+rine pens, particularly by attacking sea-level tunnel entrances. To ensure the sur­
+vivability of AUVs from PLA conventional strikes, AUVs should be submerged 
+in littoral waters close to shore, or alternatively stored in hardened underground 
+facilities ashore.
+83
+13
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+48 
+NAVAL WAR COLLEGE REVIEW
+The PLA has invested extensively in capabilities to deny U.S. forces access to 
+satellite-based C4ISR and GPS navigation systems, particularly given its percep­
+tion that space-based satellite constellations are a major vulnerability.
+84 Conse­
+quently, a credible U.S. conventional theater-strike capability would need to be 
+capable of functioning in denied war-fighting environments. In practical terms, 
+this means that HBG theater-strike missiles, Arclight HBG weapons, ASAT 
+weapons, and AUVs must be capable of executing their respective roles without 
+access to last-minute intelligence from C4ISR, space-based communications 
+systems, and space-based navigation systems. Instead, all these proposed con­
+ventional theater-strike capabilities should rely on high-end autonomous navi­
+gation systems (ANSs). ANSs might include INSs fitted with advanced-inertial-
+measurement-unit components, DVLs, and advanced computing systems.
+85
+Because of the threat that PLA kinetic and nonkinetic strikes pose against 
+C4ISR capabilities, at the outset of a conflict forward-deployed U.S. forces may 
+not have access to late-minute intelligence.
+86 Furthermore, computer networks 
+containing critical information might be disabled or destroyed. As a contingency, 
+the United States could deliver hard-copy intelligence packets with targeting data 
+to forward-deployed forces. This would enable forward-deployed forces to target 
+at least China’s fixed land and coastal targets, even if C4ISR is unavailable.
+Theater-Recovery Capability
+A theater-recovery capability would enable the U.S. military to regain use of its 
+in-theater bases and space-based infrastructure after a PLA conventional first 
+strike. Central to this capability would be the ability to repair damage to bases by 
+relying only on resources forward deployed at each base, resources deployed by 
+assets that would not require runway access, or both. A theater-recovery capabil­
+ity would consist of hardened in-theater facilities, pre-positioned air-base-repair 
+kits and machinery, airdrop repair teams, airships, and microsatellite launches.
+Hardened facilities would shield personnel, supplies, repair kits, and reserve 
+air- and missile-defense (AMD) systems from a PLA conventional first strike. 
+Ideally, hardened facilities would be buried deep underground. Airdrop repair 
+teams would enable the U.S. military to repair damaged runways at bases with­
+out requiring USAF C-5 and C-17 airlifters to land. The USAF maintains prime 
+base engineer emergency force (Prime BEEF) units that execute on-site repairs, 
+largely using equipment and stores located at each base. Prime BEEF units are 
+supplemented by USAF rapid engineer deployable heavy operational repair 
+squadron engineer (RED HORSE) units, which specialize in repairing air bases 
+under combat conditions. RED HORSE units can be air-dropped into distant 
+locations, and they aim to be capable of operating without support for limited 
+durations.
+87 
+14
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+49
+If current heavy machinery is too heavy or bulky to be air-dropped and a 
+PLA conventional first strike were to render most on-base heavy repair equip­
+ment unusable, it would be more difficult for air-dropped RED HORSE teams to 
+repair major damage such as large-diameter craters. One solution might be for 
+the USAF to develop a suite of custom, lightweight, facility-repair machines that 
+could be air-dropped, along with RED HORSE units and supporting stores, into 
+theater from C-5 and C-17 airlifters.
+Large-payload airships would bolster repair capabilities without use of run­
+ways. An extended-range variant of the Lockheed Martin P-791 hybrid airship 
+could fulfill such a role; the current version has a range of 2,592 km carrying a 
+payload of 21,000 kg.
+88 To reach Guam, an extended-range P-791 would need a 
+range of around 3,300 km to deploy nonstop from Darwin Royal Australian Air 
+Force (RAAF) air base, in northern Australia. Alternatively, an existing P-791 
+airship could island-hop from Wheeler Army Airfield on Oahu to Midway Atoll 
+(around 2,087 km), from Midway to Wake Atoll (around 1,900 km), and from 
+Wake Atoll to Andersen Air Force Base on Guam (around 2,400 km).
+Microsatellite launches would enable the United States rapidly to supplement 
+or replace USAF navigation, communications, and intelligence satellites lost to 
+PLA ASAT strikes.
+89 The airborne launch assist space access (ALASA) vehicle, 
+as deployed from USAF fourth-generation aircraft, could fill this role, given its 
+ability to launch several microsatellites at short notice.
+90
+Rapid-Response Capability
+In the aftermath of a PLA conventional first strike, runways on Guam and other 
+U.S. islands in the western Pacific likely would be inoperable, at least until re­
+paired by Prime BEEF or RED HORSE teams. After initial repairs were complete, 
+the United States could fly long-range stealth bombers into theater, from Hawaii 
+and the U.S. mainland, so as to execute long-range conventional strikes against 
+hardened targets across the Chinese mainland. The pre-positioning of GBU-57 
+ordnance in HDBTs on Guam and the Northern Mariana Islands would signifi­
+cantly enhance a USAF rapid-response capability, as the logistics burden would 
+be greatly alleviated.
+USAF B-2 Spirit stealth bombers have an unrefueled combat radius of around 
+5,500 km.
+91 However, the USAF inventory contains only twenty B-2s, as the 
+acquisition program was reduced significantly from an original order of 132 
+aircraft.
+92 The USAF also is replacing its legacy B-1B and B-52H bomber fleets 
+with one hundred B-21 Raider long-range stealth bombers.
+93 However, the 
+B-21 Raider could have an unrefueled combat radius as short as 4,600 km—
+significantly shorter than the B-1B at 6,900 km and the B-52H at 8,100 km.
+94 
+Assuming that the B-21 Raider has a combat radius of at least 5,500 km, both 
+15
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+50 
+NAVAL WAR COLLEGE REVIEW
+B-2s and B-21s would be capable of executing deep strikes across the Chinese 
+mainland without access to in-flight refueling—as deep as Haixi City from Guam 
+or the Cocos Islands. Both the B-2 and B-21 can deliver the enormous GBU-57 
+MOP, which measures eighty centimeters in diameter by 6.25 meters in length 
+and weighs 13,600 kg per bomb. The B-2 is capable of carrying two GBU-57 
+MOPs, one in each internal weapons bay.
+95
+If a PLA conventional first strike denied use of runways on Guam and the Co­
+cos Islands, USAF B-2s and B-21s could operate from the RAAF Learmonth air 
+base, in western Australia, outside the range of most PLA conventional strike ca­
+pabilities.
+96 Assuming the B-21 Raider has an unrefueled combat radius of 5,500 
+km, USAF B-2s and B-21s operating from RAAF Learmonth could be refueled 
+from RAAF in-flight refueling tankers orbiting the Cocos Islands, followed by 
+strikes out to 5,500 km. The return journey would be the mirror opposite, with 
+in-flight refueling above the Cocos Islands before returning to RAAF Learmonth. 
+The advantage of this option is that it would depend only on in-flight refueling 
+tankers and RAAF air bases outside the range of most PLA conventional strike 
+capabilities, and thus would provide a robust contingency plan.
+97
+However, a fleet of 120 long-range stealthy bombers (twenty B-2s and one 
+hundred B-21s) is unlikely to meet the U.S. military’s operational needs during a 
+China-U.S. conflict, for several reasons. First, the high number of targets across 
+the Chinese mainland, exacerbated by the significant distance from Guam, will 
+reduce drastically the fleet-wide sortie rate—the number of targets that a bomber 
+can strike per twenty-four-hour period.
+98 Second, only a fraction of the entire 
+fleet will be available for combat operations, as the rest will be needed for train­
+ing, maintenance, and reserve functions.
+99 For instance, a combat-coded force of 
+160 B-21 Raiders would require an overall fleet of two hundred aircraft.
+100 Third, 
+the B-2s and B-21s would play a disproportionate role in the air war portion of 
+any China-U.S. conflict.
+101 This is because B-2s and B-21s would be the only 
+aircraft in the USAF inventory with sufficient stealth to penetrate advanced PLA 
+air defenses; sufficient unrefueled range to strike at the Chinese mainland from 
+Guam, without depending on in-flight refueling tankers; and sufficient payload 
+to carry the GBU-57 MOP for neutralizing PLA HSs. In 2015, the Mitchell Insti­
+tute for Aerospace Studies found that the USAF might require a total fleet of two 
+hundred stealthy long-range bombers, particularly given reduced sortie rates, 
+combat coding, payloads, and the risk of force attrition.
+102
+INVENTORY ESTIMATES
+During any armed conflict nothing ever works perfectly or goes entirely accord­
+ing to plan. As Clausewitz once stated, this concept of “friction” means that the 
+16
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+51
+outcome of military operations is inherently uncertain and that any element of a 
+plan can fail.
+103 In the cases of conventional theater-strike, theater-recovery, and 
+rapid-response operations, the United States would need to consider how many 
+stores of various types are sufficient to respond to operational uncertainties that 
+might arise. For instance, conventional theater-strike capabilities could exhaust 
+in-theater ordnance stores, theater-recovery capabilities could run out of base-
+repair kits, and a rapid-response capability could run out of in-theater ground-
+penetrating ordnance.
+To insulate against operational uncertainties, U.S. forward bases would need 
+large pre-positioned inventories of theater-strike missiles sufficient for at least 
+two strikes per PLA target. This estimate of two strikes per PLA target is based 
+on the RAND Corporation’s assessment that two weapons per hard target would 
+be needed to generate a kill probability of greater than 90 percent.
+104 In addi­
+tion, the U.S. military would need to retain a strategic reserve of ordnance, in 
+the event that in-theater stores were exhausted, as well as for use in other global 
+contingencies.
+For the theater-recovery capability, U.S. forward bases likely would need very 
+large inventories of base-repair kits and ALASA ordnance with microsatellite 
+payloads pre-positioned and sufficient to execute two full base repairs or ALASA 
+salvos, plus strategic reserves at mainland facilities for an additional four full base 
+repairs and four ALASA salvos. These reserves might be necessary if the PLA 
+executes persistent strikes and ASAT attacks throughout a protracted conflict.
+105
+A rapid-response capability might need very large inventories of pre-
+positioned GBU-57 MOP ordnance and aviation fuel, in shallow-underground 
+HS facilities at U.S. forward bases. This might require sufficient ordnance for two 
+strikes per PLA target, plus a strategic reserve for further combat sorties or use 
+in other global contingencies.
+ADVANTAGES OF A U.S. CONVENTIONAL ACCESS STRATEGY
+A conventional access strategy would provide six major advantages. The first is 
+that it would deny the PLA a conventional first-strike capability against U.S. bases 
+and forward-deployed forces, through passive-defense measures, a conventional 
+theater-strike capability, a theater-recovery capability, and a rapid-response capa­
+bility. With passive hardening of critical military infrastructure, a greater portion 
+of U.S. forces might survive the initial waves of PLA conventional strikes. Surviv­
+ing in-theater forces could then execute land-based, undersea, ASAT, and AUV 
+strikes against a variety of PLA targets, across the Chinese mainland and in orbit. 
+This would enable the U.S. military to begin degrading the PLA’s capabilities at 
+the outset of a conflict, enabling theater-recovery capabilities to operate more 
+17
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+52 
+NAVAL WAR COLLEGE REVIEW
+effectively. With airfields repaired, B-21 and B-2 stealth bombers could then be 
+flown into theater to commence strikes against PLA targets across the Chinese 
+mainland.
+The second advantage is that degrading PLA conventional strike capabilities 
+at the outset of a conflict would increase the permissiveness of the entire theater 
+for other force-projection assets. Undermining the PLA’s capability to execute 
+ASBM and ASCM strikes against USN task forces and logistics ships would pro­
+vide USN assets with greater freedom of action and enhanced survivability. With 
+intense and persistent conventional strikes, PLA capabilities might be degraded 
+sufficiently to enable USN aircraft carriers eventually to operate with relative 
+impunity close to the Chinese coastline, significantly increasing the sorties gen­
+erated by carrier air wings.
+The third advantage is that it would buy time for U.S. force-projection capa­
+bilities to be mobilized, marshaled, and deployed to the western Pacific. With 
+significant air and naval assets deployed globally, the military would require time 
+to redeploy and logistically support a significant force in theater. For example, a 
+1993 General Accounting Office report stated that with a total projected force of 
+twelve USN aircraft carriers, six carriers could deploy with thirty days’ notice and 
+nine carriers with sixty days’ notice.
+106 Equivalent times likely would be required 
+to deploy or redeploy the full range of U.S. air, land, and sea assets necessary to 
+execute theater-wide, joint-service campaigns in the Pacific.
+The fourth advantage is that it would focus the military’s attention on criti­
+cal capabilities needed to enhance the survivability and operational effective­
+ness of traditional force-projection assets: tactical aircraft, in-flight refueling 
+tankers, aircraft carriers, surface combatants, logistics ships, and sealift ships. 
+For instance, prioritizing long-range strike capabilities not dependent on U.S. 
+bases or in-flight refueling would in turn drive the military to prioritize conven­
+tional theater-strike missiles, undersea-launched hypersonic missiles, ASAT and 
+cyberstrike weapons, and AUVs, combined with a large fleet of B-21s with range 
+similar to the B-2 Spirit.
+The fifth advantage is that a credible U.S. conventional theater-strike capabili­
+ty would force the PLA to reevaluate its allocation of resources to offensive versus 
+defensive systems. The PLA might be driven to divert sizable defense funding to 
+harden its vulnerabilities further across the vast Chinese mainland and improve 
+costly AMD systems. This would reduce the funding available for the PLA to 
+pursue offensive war-fighting systems.
+The sixth advantage is that a U.S. capacity to execute a conventional theater 
+strike from the Cocos Islands would complicate significantly the PLA’s opera­
+tions to defend the Chinese mainland. During a South China Sea or East China 
+Sea crisis, the PLA could deploy most of its AMD systems along China’s east and 
+18
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+53
+southeast coastlines. However, if the Australian government allowed the U.S. 
+military to operate conventional B-21s or HBG theater-strike missiles from the 
+Cocos Islands, the PLA would have to defend a significantly greater area. For 
+instance, PLA AMD units would have to be more thinly dispersed along China’s 
+vast coastline as well as along the land borders of its Qinghai, Sichuan, and Yun­
+nan provinces. Consequently, U.S. strike bombers and theater-strike missiles 
+would have an improved capability to penetrate PLA AMD networks and neu­
+tralize the intended targets.
+LIMITATIONS OF A U.S. CONVENTIONAL ACCESS STRATEGY
+A conventional access strategy would incur seven major limitations.
+Homeland Sanctuary
+The first limitation is the vexing issue of homeland sanctuary: the concept that 
+nuclear powers refrain from attacking the homelands of other nuclear powers, to 
+avoid triggering a nuclear response. The argument is that in a China-U.S. conflict 
+each side would initially avoid strikes against the other’s homeland, even with 
+conventional ordnance, to minimize the risk of nuclear escalation.
+107 It has been 
+pointed out that this asymmetry could allow China to strike at U.S. territories in 
+the western Pacific, such as Guam and the Northern Marianas, without retalia­
+tory U.S. strikes on the PLARF and Chinese mainland—at least initially.
+Four problems arise out of this argument. First, forward-deployed U.S. forces 
+at overseas territories such as Guam and the Northern Marianas are likely to be 
+heavily inundated by barrages of PLA ordnance in the initial phase of any China-
+U.S. conflict. Such PLA strikes are likely to inflict very heavy losses in terms of 
+personnel and combat assets and other matériel.
+108 In such a scenario, the United 
+States might inadvertently honor homeland sanctuary as a direct result of suc­
+cessful PLA strikes degrading U.S. in-theater capabilities. However, high losses 
+also would trigger significant pressure from Congress, cabinet secretaries, senior 
+officials, and the general public for the president to authorize robust conventional 
+strikes against targets across the Chinese mainland.
+Second, even if the United States suffered very heavy initial losses in person­
+nel and matériel, it eventually would execute high-intensity conventional strikes 
+across the Chinese mainland, if U.S. force-projection assets were able to deploy into 
+theater. For instance, the JOAC, which contains the ASBC and Gaining and Main­
+taining Access Concept (GMAC), aims to execute high-intensity, war-fighting 
+operations and strikes against the homelands of A2/AD adversaries.
+109 Notice 
+also that the GMAC explicitly states that U.S. Army and Marine Corps special 
+forces might be inserted covertly into an adversary’s homeland to “provide hu­
+man contact to complement other intelligence.”
+110
+19
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+54 
+NAVAL WAR COLLEGE REVIEW
+Third, the U.S. Department of Defense openly acknowledges that the military 
+must be ready to execute joint military operations against A2/AD adversaries 
+“at the outset of a contingency to avoid delays for buildups.”
+111 The JOAC states 
+that “joint forces will attempt to penetrate into the depth of an enemy’s anti-
+access/area-denial defenses . . . to disrupt the integrity of the enemy defensive 
+system.”
+112 The ASBC states that deep strikes against A2/AD adversaries have the 
+objective of “disrupting, destroying or defeating an adversary’s A2/AD capabili­
+ties.” The ASBC also states that “even the US homeland cannot be considered a 
+sanctuary.”
+113 The deep-strike objectives of Pentagon operating concepts and the 
+notion of covert special forces teams operating across the Chinese mainland, 
+combined with the stated need to be ready at the outset of a conflict and open 
+acknowledgment that the U.S. homeland could be targeted, strongly suggest that 
+the U.S. military does not plan on granting the PLA homeland sanctuary during 
+a China-U.S. conflict.
+Fourth, the United States, owing to its geographic distance from the western 
+Pacific, could be seen by global public opinion as a largely unnecessary target. 
+This is in stark contrast to the Chinese homeland, which out of necessity would 
+be seen as a valid target for conventional U.S. strikes, since the vast majority of 
+PLA conventional-strike capabilities are land-based ballistic missiles and long-
+range bombers. Consequently, if the PLA executed conventional strikes against 
+the U.S. mainland, particularly in a conflict in which China was viewed globally 
+as the aggressor, then global public opinion could strengthen the scale of coali­
+tion forces levied against the PLA. This would be true particularly in the case of 
+U.S. allies and security partners that otherwise might opt out of direct participa­
+tion in a China-U.S. conflict. As the RAND Corporation has noted, in a short 
+conflict third parties would make little difference, but in a more protracted con­
+flict between China and the United States the implications could be significant.
+114 
+Despite these counterarguments, the Chinese government still might believe 
+that the PLA could strike at U.S. forces in the western Pacific with minimal risk 
+of conventional strikes against the Chinese mainland, given an asymmetry in 
+homeland sanctuary. 
+Treaty Limitations on Aircraft
+The second limitation is that the New Strategic Arms Reduction Treaty (New 
+START) severely handicaps the acquisition of B-21 Raider long-range strike 
+bombers, since the aircraft will be capable of delivering both conventional and 
+nuclear ordnance.
+115 New START requires U.S. and Russian nuclear arsenals not 
+to exceed 1,500 nuclear warheads and eight hundred nuclear delivery vehicles, 
+with seven hundred deployed and one hundred not deployed.
+116 Under New 
+START, nuclear delivery vehicles are defined as ICBMs, submarine-launched 
+20
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+55
+ballistic missiles, and heavy bombers.
+117 A nuclear bomber is defined by New 
+START as an aircraft that has a maximum one-way range exceeding eight thou­
+sand kilometers and that could carry nuclear weapons.
+118 The problem is that a 
+B-21 Raider with an unrefueled combat radius of 5,500 km, as needed to strike 
+deep into the Chinese mainland from Guam, would give the aircraft a total range 
+of around eleven thousand kilometers. Given that the B-21 will be capable of 
+delivering both nuclear and conventional ordnance, it will be counted under 
+New START. Consequently, the challenge for the USAF will be finding a way to 
+increase the size of its combat-coded conventional long-range stealth bomber 
+force without violating New START.
+One solution would be to produce a nonnuclear-capable variant of the B-21, 
+since nonnuclear variants would not count. According to the treaty, a nuclear 
+bomber is no longer counted once it has been permanently modified to be inca­
+pable of delivering nuclear ordnance and is visibly distinguishable from nuclear-
+capable variants.
+119 Modifications include ensuring that all mechanisms of the 
+internal weapon bays are “incapable of employing nuclear armaments.”
+120 Other 
+modifications would need to be made to the external design of a conventional 
+B-21 variant to render it visibly different from the nuclear variant.
+121 With a 
+conventional-only B-21 variant, the United States theoretically could produce as 
+many conventional B-21s as it requires without breaching New START. Another 
+solution might be to reduce modestly the USAF’s inventory of nuclear-armed 
+ICBMs, from four hundred under New START to three hundred.
+122 This would 
+allow the USAF to order a total of two hundred B-21 Raiders and still comply 
+with New START. Ultimately, either solution would increase significantly the 
+number of combat-coded B-21s, greatly enhancing the capacity of the USAF to 
+execute long-range strikes across the Chinese mainland from Guam. Moreover, 
+increasing the B-21 Raider production order to two hundred or more units would 
+drive down acquisition costs by distributing fixed research, development, and 
+other costs over a larger production run.
+Treaty Limitations on Weapons
+The third limitation is that the acquisition of conventional theater-strike HBG 
+weapons could breach New START, the Intermediate-Range Nuclear Forces 
+(INF) Treaty, or both. Under New START, an ICBM is defined as a nuclear-
+capable system that travels for most of its flight path in a ballistic trajectory, with 
+a range exceeding 5,500 km.
+123 The INF Treaty requires that U.S. and Russian 
+militaries dismantle all ballistic missiles with ranges between 500 and 5,500 km. 
+The INF Treaty defines a ballistic missile as a weapon that follows a ballistic tra­
+jectory for the majority of its flight path.
+124
+21
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+56 
+NAVAL WAR COLLEGE REVIEW
+However, HBG weapons do not follow a ballistic trajectory for the majority of 
+their flight path and thus would not be subject to limitations under New START 
+or the INF Treaty.
+125 Consequently, the U.S. military could develop an HBG 
+weapon with a range of 5,500 km or greater, yet avoid breaching either treaty.
+First-Strike Risk
+The fourth limitation is that launching one or more HBG weapons could be mis­
+construed by the PLA, Russia, or both as a U.S. nuclear first strike. This risk has 
+been discussed since the conceptualization of hypersonic boost-glide systems, 
+because they depend on long-range rocket boosters similar to those that nuclear-
+armed ballistic missiles use.
+However, the nonballistic flight path of hypersonic boost-glide weapons, plus 
+a brand-new rocket booster design, would make a U.S. hypersonic boost-glide 
+system appear distinct on Chinese and Russian nuclear early-warning systems.
+126 
+If the United States were able to assure China and Russia that its hypersonic 
+boost-glide systems were used exclusively for conventional payloads, this would 
+further reduce the likelihood of HBG-weapon use being misinterpreted as a 
+nuclear first strike.
+Potential Nuclear Aggression
+The fifth limitation is that striking at the PLA’s conventional ballistic-missile 
+manufacturing and maintenance facilities, storage facilities, and launchers could 
+be misconstrued as an attempt by the United States to degrade the PLA’s nuclear 
+deterrent.
+127 This risk would arise because U.S. theater commanders would be 
+unable to distinguish readily between nuclear and conventional versions of the 
+PLA’s ballistic-missile arsenal, particularly if U.S. C4ISR systems were degraded 
+by PLA ASAT and cyber strikes.
+This problem could be solved through a U.S.-China bilateral agreement for the 
+PLA to separate clearly its nuclear ballistic missiles from its conventional arsenal 
+and a mutual commitment to exclude all nuclear deterrents from targeting. The 
+net result would be a reduced risk of U.S. conventional strikes inadvertently tar­
+geting PLA nuclear capabilities.
+Hardened Structures
+The sixth limitation is that a U.S. conventional access strategy might not over­
+come the PLA’s extensive investments in hardened structures. This is a very 
+real possibility. To paraphrase Moltke, no plan, however good, survives contact 
+with the enemy.
+128 However, the measures proposed under a U.S. conventional 
+access strategy would provide a reasonable ability to neutralize PLA hardened 
+facilities, such as underground tunnels and sea-level submarine pens. This con­
+ventional access strategy prioritizes advanced penetrator ordnance delivered by 
+HBG theater-strike missiles and B-2s and B-21s, as well as AUVs armed with 
+22
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+57
+large conventional warheads for sea-level tunnels and submarine pens. While 
+the penetration capabilities of all ordnance might not be able to overcome PLA 
+HDBTs, such as tunnels buried deep within mountains, what this ordnance could 
+do is target the most vulnerable points of these structures. For instance, these 
+weapons could target external communications links and surface-level entrances. 
+By targeting surface-level entrances of PLA hardened facilities, U.S. penetrator 
+ordnance could be sufficient to seal the structures from the outside world, or at 
+the very least impede the movement of traffic in and out of the facilities. The ad­
+vantage of targeting surface-level entrances is that every underground hardened 
+structure must be accessible from the surface, making them a vulnerability of all 
+PLA HSs and HDBTs that can be exploited.
+Survivable and Capable Force-Projection Capability
+A seventh limitation is that the United States might consider fielding a highly 
+survivable and capable force-projection capability designed to achieve the same 
+objective as the proposed conventional access strategy, just with less risk of es­
+calation. While it is true that the United States could field a highly capable and 
+survivable force-projection capability, funding levels will determine whether it 
+will do so.
+To field a force structure capable of defeating A2/AD adversaries, the U.S. 
+military would need to invest in many of the nine following critical capabilities: 
+arsenal ships; additional future guided-missile frigates (FFG-Xs); additional 
+Virginia-class SSNs; a large number of AUVs; a new, sixth-generation, long-range, 
+carrier-based strike aircraft; a new, sixth-generation, long-range, land-based 
+air-superiority fighter; additional B-21 Raiders; a new, stealthy C3 intelligence, 
+surveillance, and reconnaissance (C3ISR) aircraft; and a new, stealthy, in-flight 
+refueling tanker (see table 2). The numerous new research, development, and 
+acquisition programs needed would cost hundreds of billions of dollars, even 
+without accounting for significant additional orders of DDGs, FFG-Xs, SSNs, 
+and B-21s.
+In short, the United States can field a highly survivable and capable counter-
+A2/AD force—it is just a question of the funding and political willingness to do 
+so. Conversely, a U.S. conventional access strategy aims to achieve similar power-
+projection objectives with less of a burden to the U.S. taxpayer, or fewer seismic 
+departures from the planned military force structure, or both.
+The PLA’s counterintervention capabilities could be used to execute a conven­
+tional first strike against U.S. bases and forward-deployed forces west of Hawaii. 
+The Chinese leadership could be convinced that a decisive conventional first 
+strike, in conjunction with other PLA capabilities, would provide the PLA with 
+23
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+58 
+NAVAL WAR COLLEGE REVIEW
+temporary regional superiority, giving China a rare window of opportunity to 
+settle regional disputes through coercion and on terms favorable to China. Any 
+such perception would undermine seriously the U.S. military’s ability to deter 
+Chinese aggression in the western Pacific. 
+The solution is not for the U.S. military to build a larger force structure but 
+rather for it to rearrange its thinking around a conventional access strategy. This 
+would require the U.S. military to acquire four critical capabilities: a theater-
+wide passive-defense capability, a conventional theater-strike capability, a 
+Capability
+Description
+Arsenal ships
+The U.S. Navy could consider a new class of large-displacement surface 
+ship, armed with 288–512 strike-length Mk 41 vertical launching system 
+cells and a larger, more capable ballistic missile–defense radar than the 
+AN/SPY-6. 
+Additional FFG-Xs
+The U.S. Navy could consider expanding its order of FFG-Xs to serve 
+as capable surface combatant escorts for convoys of fleet oilers and dry-
+cargo and resupply ships, as would be needed to sustain high-intensity 
+combat operations in the western Pacific.
+Additional nuclear-powered attack sub­
+marines (SSNs)
+The U.S. Navy could consider accelerating the acquisition of Virginia 
+Payload Module–equipped SSNs, particularly given the projected 
+undersea strike shortfall when the fourth Ohio-class nuclear-powered 
+guided-missile submarine is retired in 2028.
+a
+Autonomous underwater vehicles 
+(AUVs)
+The U.S. Navy could consider acquiring AUVs armed with lightweight 
+torpedoes designed to deny maritime zones to PLA surface and subsur­
+face forces.
+Sixth-generation carrier-based aircraft
+The U.S. Navy could consider truncating its order of F-35Cs in favor of 
+developing a sixth-generation carrier-based, long-range strike and air-
+superiority aircraft.
+Sixth-generation land-based aircraft
+The U.S. Air Force could consider truncating its order of F-35As in favor 
+of developing a sixth-generation land-based, long-range air-superiority 
+aircraft with sufficient unrefueled range to escort B-21s during deep-
+penetration strikes.
+Additional B-21s
+The U.S. Air Force could consider retaining its planned fleet of one hun­
+dred nuclear-capable B-21s, plus a significant order of conventional-only 
+B-21s, perhaps on the order of three to four hundred aircraft.
+Stealthy C3ISR aircraft
+The U.S. Air Force could consider developing a stealthy, very high-
+altitude, long-range C3ISR aircraft, capable of replacing satellite com­
+munications networks during a conflict.
+Stealthy in-flight refueling tanker
+The U.S. Air Force could consider developing a stealthy, long-range 
+in-flight refueling tanker. This aircraft should be fitted with a tail ramp 
+to enable variants to support the covert insertion and sustainment of 
+special operations forces deep inside hostile territory.
+TABLE 2
+U.S. COUNTER-A2/AD FORCE-PROJECTION CAPABILITIES
+Note:
+ a. Gunzinger and Dougherty, Outside-In, p. 85.
+24
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+59
+theater-recovery capability, and a rapid-response capability. Strategically, a con­
+ventional access strategy would accomplish several things: it would deny the PLA 
+a conventional first-strike capability, increase the permissiveness of the western 
+Pacific for follow-on U.S. forces, buy valuable time needed to mobilize and deploy 
+U.S. power-projection assets, focus the military’s attention on critical capabilities, 
+and impose resource constraints on the PLA. However, a conventional access 
+strategy would require the United States to think seriously about developing 
+and assigning a new rocket booster exclusively for use by hypersonic boost-glide 
+systems, as well as to assure Russia and China that U.S. HBG weapons would 
+carry only conventional payloads. Furthermore, the United States and China 
+would have to give serious consideration to entering into a bilateral agreement 
+for the PLA to separate clearly its nuclear ballistic missiles and for both parties to 
+exclude nuclear deterrents from targeting.
+Even with its limitations, a U.S. conventional access strategy would return the 
+China-U.S. strategic deterrence calculus to a more stable equilibrium. One hopes 
+that this would deter Chinese leaders from seeing a conventional first strike as a 
+credible option. Pursuing a U.S. conventional access strategy would be a political 
+decision for the president and Congress. Such a decision would have to take into 
+account numerous dimensions, including military, political, fiscal, diplomatic, 
+and technological maturity considerations. Such discussions fall beyond the 
+scope of this article but provide ideal areas for future research.
+N OT E S
+ 
+1. U.S. Defense Dept., Annual Report to Con­
+gress: Military and Security Developments 
+Involving the People’s Republic of China 2016 
+[hereafter Annual Report: Military and Secu­
+rity 2016] (Washington, DC: 2016), pp. 5, 7, 
+11, 41, 44–45, 87–88; U.S. Defense Dept., An­
+nual Report to Congress: Military and Security 
+Developments Involving the People’s Republic 
+of China 2011 [hereafter Annual Report: 
+Military and Security 2011] (Washington, DC: 
+2011), p. 3.
+ 
+2. U.S. Defense Dept., Annual Report: Military 
+and Security 2016, pp. 15, 59, 87–88; 2016 
+Report to Congress of the U.S.-China Economic 
+and Security Review Commission (Washing­
+ton, DC: 2016), pp. 28, 256–57.
+ 
+3. Paul Dodge, “China’s Naval Strategy and 
+Nuclear Weapons: The Risks of Intentional 
+and Inadvertent Nuclear Escalation,” Com­
+parative Strategy 24, no. 5 (2005), p. 427; Eric 
+Heginbotham et al., The U.S.-China Military 
+Scorecard: Forces, Geography, and the Evolving 
+Balance of Power 1996–2017 (Santa Monica, 
+CA: RAND, 2015), p. 317.
+ 
+4. Anthony H. Cordesman, Joseph Kendall, 
+and Steven Colley, China’s Nuclear Forces and 
+Weapons of Mass Destruction (Washington, 
+DC: Center for Strategic and International 
+Studies, 2016), p. 18; Heginbotham et al., The 
+U.S.-China Military Scorecard, pp. 314–16; 
+U.S. Defense Dept., Nuclear Posture Review 
+2018 (Washington, DC: 2018), p. i.
+ 
+5. U.S. Defense Dept., Nuclear Posture Review 
+2018, pp. 31–32.
+ 
+6. Heginbotham et al., The U.S.-China Military 
+Scorecard, p. 317.
+ 
+7. U.S. Defense Dept., Quadrennial Defense 
+Review 2014 (Washington, DC: 2014), pp. 
+13–15, 16–18.
+25
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+60 
+NAVAL WAR COLLEGE REVIEW
+ 
+8. Ibid., pp. 19–20; U.S. Defense Dept., The 
+National Military Strategy of the United States 
+of America 2015 (Washington, DC: Joint Staff, 
+2015), p. 7.
+ 
+9. Congressional Budget Office [hereafter 
+CBO], Options for Strategic Military Transpor­
+tation Systems (Washington, DC: September 
+2005), p. 2.
+ 10. U.S. Defense Dept., Joint Operational Access 
+Concept (Washington, DC: Joint Staff, January 
+17, 2012), p. 2.
+ 11. Ibid.; CBO, Options for Strategic Military 
+Transportation Systems, p. 2; Christopher J. 
+Bowie, Robert P. Haffa Jr., and Robert E. Mul­
+lins, Future War: What Trends in America’s 
+Post–Cold War Military Conflicts Tell Us about 
+Early 21st Century Warfare (Falls Church, VA: 
+Northrop Grumman, January 2003), pp. 3, 13.
+ 12. Bowie, Haffa, and Mullins, Future War, p. 10; 
+U.S. Defense Dept., Air Mobility Operations, 
+Joint Publication 3-17 (Washington, DC: 
+Joint Staff, September 30, 2013), pp. I-17, 
+IV-14 to IV-15, V-5.
+ 13. Benjamin Lambeth, American Carrier Air 
+Power at the Dawn of a New Century (Santa 
+Monica, CA: RAND, 2005), pp. 1–2; Nicola 
+K. Molloy, Impact to Defence of Lessons Learnt 
+Using Modern Precision Strike Weapons 
+(Edinburgh, SA, Austral.: DSTO Systems Sci­
+ences Laboratory, April 2003), p. 3.
+ 14. U.S. Defense Dept., Annual Report to Con­
+gress: Military Power of the People’s Republic of 
+China 2002 [hereafter Annual Report: Military 
+Power 2002] (Washington, DC: 2002), pp. 
+11–12, 18; U.S. Defense Dept., Annual Report 
+to Congress: Military Power of the People’s 
+Republic of China 2003 [hereafter Annual Re­
+port: Military Power 2003] (Washington, DC: 
+2003), pp. 18–19, 24; Michael G. Vickers and 
+Robert C. Martinage, The Revolution in War 
+(Washington, DC: Center for Strategic and 
+Budgetary Assessments, December 2004), 
+pp. 14–15, 18, 45; Molloy, Impact to Defence 
+of Lessons Learnt, p. 8; Barry D. Watts, Six 
+Decades of Guided Munitions and Battle 
+Networks: Progress and Prospects (Washing­
+ton, DC: Center for Strategic and Budgetary 
+Assessments, March 2007), p. 87.
+ 15. Barry D. Watts, “The Implications of China’s 
+Military and Civil Space Programs” (testimo­
+ny presented before the U.S.-China Economic 
+and Security Review Commission, Wash­
+ington, DC, May 11, 2011), p. 2, available at 
+csbaonline.org/.
+ 16. U.S. Defense Dept., Annual Report: Military 
+Power 2003, p. 18.
+ 17. Thomas Mahnken, “China’s Anti-access Strat­
+egy in Historical and Theoretical Perspective,” 
+Journal of Strategic Studies 34, no. 3 (2011), 
+p. 317.
+ 18. U.S. Defense Dept., Annual Report: Military 
+Power 2003, pp. 11, 13, 46; U.S. Defense 
+Dept., Annual Report to Congress: Military 
+Power of the People’s Republic of China 2005 
+[hereafter Annual Report: Military Power 
+2005] (Washington, DC: 2005), pp. 33, 41; 
+U.S. Defense Dept., Annual Report to Con­
+gress: Military Power of the People’s Republic of 
+China 2007 [hereafter Annual Report: Military 
+Power 2007] (Washington, DC: 2007), pp. 
+15–17; U.S. Defense Dept., Annual Report to 
+Congress: Military and Security Developments 
+Involving the People’s Republic of China 2012 
+[hereafter Annual Report: Military and Secu­
+rity 2012] (Washington, DC: 2012), pp. 21, 
+42; 2016 Report to Congress of the U.S.-China 
+Economic and Security Review Commission, 
+p. 206.
+ 19. U.S. Defense Dept., Annual Report: Military 
+and Security 2012, p. 21; Jeffrey Goedecke 
+[Capt., RAN], “China’s Assertiveness in 
+the South China Sea: How Will It Affect 
+Australia’s National Interests over the Next 10 
+Years?,” Australian Defence College Indo-
+Pacific Strategic Digest (May 2016), pp. 
+293–304; Ronald O’Rourke, Maritime Ter­
+ritorial and Exclusive Economic Zone Disputes 
+Involving China: Issues for Congress, CRS 
+Report (Washington, DC: Congressional Re­
+search Service, 2016), p. 9; Republic of China 
+Ministry of National Defense, 2011 Republic 
+of China National Defense Report (Taipei: 
+2011), p. 42.
+ 20. U.S. Defense Dept., Annual Report: Military 
+Power 2003, pp. 20–21; U.S. Defense Dept., 
+Annual Report: Military Power 2007, pp. 
+15–17; U.S. Defense Dept., Annual Report: 
+Military and Security 2016, pp. 26, 30–31, 
+60–61, 72.
+ 21. U.S. Defense Dept., Annual Report: Military 
+Power 2002, pp. 13–14; U.S. Defense Dept., 
+Annual Report: Military Power 2003, pp. 
+20–21.
+26
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+61
+ 22. U.S. Defense Dept., Annual Report: Military 
+Power 2003, pp. 20–21; U.S. Defense Dept., 
+Annual Report: Military Power 2007, pp. 
+15–17; U.S. Defense Dept., Annual Report 
+to Congress: Military and Security Develop­
+ments Involving the People’s Republic of China 
+2014 [hereafter Annual Report: Military and 
+Security 2014] (Washington, DC: 2014), pp. 
+8, 31; U.S. Defense Dept., Annual Report 
+to Congress: Military and Security Develop­
+ments Involving the People’s Republic of China 
+2015 [hereafter Annual Report: Military and 
+Security 2015] (Washington, DC: 2015), pp. 
+9, 34–35; U.S. Defense Dept., Annual Report: 
+Military and Security 2016, pp. 26, 61.
+ 23. U.S. Defense Dept., Annual Report: Military 
+Power 2003, pp. 20–21; U.S. Defense Dept., 
+Annual Report: Military Power 2007, pp. 
+15–17; U.S. Defense Dept., Annual Report: 
+Military and Security 2016, pp. 30–31, 60, 72.
+ 24. U.S. Defense Dept., Annual Report: Military 
+and Security 2011, p. 31; U.S. Defense Dept., 
+Annual Report: Military and Security 2016, 
+pp. 22–23, 25.
+ 25. U.S. Defense Dept., Annual Report: Military 
+and Security 2016, pp. 22–25, 72; Jordan 
+Wilson, China’s Expanding Ability to Con­
+duct Conventional Missile Strikes on Guam 
+(Washington, DC: U.S.-China Economic and 
+Security Review Commission, 2016), pp. 4, 
+8; 2016 Report to Congress of the U.S.-China 
+Economic and Security Review Commission, 
+p. 491.
+ 26. U.S. Defense Dept., Annual Report: Military 
+Power 2003, pp. 20–21.
+ 27. U.S. Defense Dept., Annual Report to Con­
+gress: Military and Security Developments 
+Involving the People’s Republic of China 2013 
+[hereafter Annual Report: Military and Secu­
+rity 2013] (Washington, DC: 2013), p. 33.
+ 28. U.S. Defense Dept., Annual Report: Military 
+Power 2007, p. 1; U.S. Defense Dept., Annual 
+Report: Military and Security 2012, p. 9.
+ 29. U.S. Defense Dept., Annual Report: Military 
+and Security 2016, p. 64.
+ 30. U.S. Defense Dept., Annual Report: Military 
+Power 2005, p. 33; U.S. Defense Dept., Annual 
+Report: Military and Security 2012, p. 21; U.S. 
+Defense Dept., Annual Report: Military and 
+Security 2016, pp. 59–60.
+ 31. “Sealift Program (PM5),” U.S. Navy Military 
+Sealift Command, www.msc.navy.mil/.
+ 32. U.S. Defense Dept., Annual Report: Military 
+and Security 2014, p. 30.
+ 33. U.S. Defense Dept., Annual Report: Military 
+and Security 2011, pp. 28–29; U.S. Defense 
+Dept., Annual Report: Military and Security 
+2016, pp. 23, 25; Wilson, China’s Expanding 
+Ability, p. 8; 2016 Report to Congress of the 
+U.S.-China Economic and Security Review 
+Commission, p. 491.
+ 34. U.S. Defense Dept., Annual Report: Military 
+and Security 2016, p. 66; Ross Babbage, Aus­
+tralia’s Strategic Edge in 2030, Kokoda Paper 
+15 (Kingston, ACT, Austral.: Kokoda Founda­
+tion, February 2011), p. 30.
+ 35. U.S. Defense Dept., Annual Report: Military 
+Power 2003, p. 25; U.S. Defense Dept., Annual 
+Report: Military Power 2007, pp. 15–17; U.S. 
+Defense Dept., Annual Report to Congress: 
+Military Power of the People’s Republic of 
+China 2008 (Washington, DC: 2008), p. 23; 
+U.S. Defense Dept., Annual Report: Military 
+and Security 2016, pp. 33, 59–61; Office of 
+Naval Intelligence, The People’s Liberation 
+Army Navy: A Modern Navy with Chinese 
+Characteristics (Suitland, MD: 2009), pp. 
+27–30.
+ 36. U.S. Defense Dept., Annual Report: Military 
+Power 2002, pp. 5, 29; U.S. Defense Dept., An­
+nual Report: Military Power 2003, pp. 31–33.
+ 37. U.S. Defense Dept., Annual Report to Con­
+gress: Military and Security Developments 
+Involving the People’s Republic of China 2010 
+[hereafter Annual Report: Military and Secu­
+rity 2010] (Washington, DC: 2010), p. 2; U.S. 
+Defense Dept., Annual Report: Military and 
+Security 2013, p. 42; U.S. Defense Dept., An­
+nual Report: Military and Security 2016, p. 72; 
+Ronald O’Rourke, China Naval Moderniza­
+tion: Implications for U.S. Navy Capabilities—
+Background and Issues for Congress, CRS 
+Report (Washington, DC: Congressional 
+Research Service, 2012), p. 29; Heginbotham 
+et al., The U.S.-China Military Scorecard, pp. 
+54, 157–58.
+ 38. U.S. Defense Dept., Annual Report: Military 
+and Security 2013, p. 68; U.S. Defense Dept., 
+Annual Report: Military and Security 2014, 
+p. 69.
+ 39. O’Rourke, China Naval Modernization, p. 29.
+27
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+62 
+NAVAL WAR COLLEGE REVIEW
+ 40. U.S. Defense Dept., Annual Report: Military 
+Power 2002, pp. 28–29; U.S. Defense Dept., 
+Annual Report: Military Power 2003, pp. 
+32–33; Heginbotham et al., The U.S.-China 
+Military Scorecard, pp. 32, 155–56.
+ 41. U.S. Defense Dept., Annual Report: Military 
+and Security 2013, p. 31; U.S. Defense Dept., 
+Annual Report: Military and Security 2015, 
+p. 47; U.S. Defense Dept., Annual Report: 
+Military Power 2003, p. 34.
+ 42. U.S. Defense Dept., Annual Report: Military 
+Power 2002, p. 30; U.S. Defense Dept., An­
+nual Report: Military Power 2003, p. 34; U.S. 
+Defense Dept., Annual Report: Military Power 
+2005, p. 18; Heginbotham et al., The U.S.-
+China Military Scorecard, pp. 32, 157–58.
+ 43. U.S. Defense Dept., Annual Report: Military 
+and Security 2016, p. 73.
+ 44. U.S. Defense Dept., Annual Report: Military 
+Power 2002, p. 30.
+ 45. U.S. Defense Dept., Annual Report: Military 
+and Security 2013, p. 31; U.S. Defense Dept., 
+Annual Report: Military and Security 2015, 
+p. 47; U.S. Defense Dept., Annual Report: 
+Military Power 2003, p. 34.
+ 46. U.S. Defense Dept., Annual Report: Military 
+and Security 2015, p. 47.
+ 47. U.S. Defense Dept., Annual Report: Military 
+and Security 2011, p. 36; Cordesman, Kendall, 
+and Colley, China’s Nuclear Forces, pp. 10, 
+12; L. C. Russell Hsiao, “China’s ‘Under­
+ground Great Wall’ and Nuclear Deterrence,” 
+Jamestown Foundation China Brief 9, no. 25 
+(December 2009), pp. 1–2.
+ 48. Heginbotham et al., The U.S.-China Military 
+Scorecard, pp. 133, 147; Robert Haddick, 
+Challenges in the Asia-Pacific Theater for U.S. 
+and Partner Nation Special Operations Forces, 
+JSOU Report 14-6 (Tampa, FL: Joint Special 
+Operations Univ. Press, 2014), p. 52.
+ 49. Haddick, Challenges in the Asia-Pacific The­
+ater, pp. 19, 52; Roger Cliff et al., Shaking the 
+Heavens and Splitting the Earth: Chinese Air 
+Force Employment Concepts in the 21st Cen­
+tury (Santa Monica, CA: RAND, 2011), pp. 
+198–201, 226; Eric Gons, Access Challenges 
+and Implications for Airpower in the Western 
+Pacific (Santa Monica, CA: RAND, 2011), pp. 
+156, 158–60.
+ 50. U.S. Defense Dept., Annual Report: Military 
+and Security 2010, p. 2.
+ 51. U.S. Defense Dept., Annual Report to Con­
+gress: Military Power of the People’s Republic 
+of China 2009 (Washington, DC: 2009), p. 49; 
+U.S. Defense Dept., Annual Report: Military 
+and Security 2011, p. 3; U.S. Defense Dept., 
+Annual Report: Military and Security 2012, 
+p. 22.
+ 52. Yoji Koda, “Japan’s Perspectives on U.S. Policy 
+toward the South China Sea,” in Perspectives 
+on the South China Sea: Diplomatic, Legal, 
+and Security Dimensions of the Dispute, 
+ed. Murray Hiebert, Phuong Nguyen, and 
+Gregory B. Poling (Washington, DC: Center 
+for Strategic and International Studies, Sep­
+tember 2014), p. 89; O’Rourke, China Naval 
+Modernization, p. 94.
+ 53. U.S. Defense Dept., Annual Report: Military 
+and Security 2016, pp. 22–25, 72, 109; Wilson, 
+China’s Expanding Ability, pp. 4, 8; 2016 
+Report to Congress of the U.S.-China Economic 
+and Security Review Commission, p. 491; 
+U.S. Defense Dept., Joint Operational Access 
+Concept, p. 13.
+ 54. U.S. Navy Dept., Seapower Questions on the 
+Chinese Submarine Force (Washington, DC: 
+Office of Naval Intelligence, December 20, 
+2006), p. 4; U.S. Defense Dept., Annual Re­
+port: Military and Security 2012, p. 32; Office 
+of Naval Intelligence, The People’s Liberation 
+Army Navy, p. 26; Mahnken, “China’s Anti-
+access Strategy,” p. 315.
+ 55. Office of Naval Intelligence, The People’s 
+Liberation Army Navy, p. 27.
+ 56. Ibid.; Vickers and Martinage, The Revolution 
+in War, pp. 81, 158.
+ 57. Office of Naval Intelligence, The People’s 
+Liberation Army Navy, p. 27; Thomas Ehrhard 
+and Robert Work, Range Persistence Stealth 
+and Networking: The Case for a Carrier-Based 
+Unmanned Combat Air System (Washington, 
+DC: Center for Strategic and Budgetary As­
+sessments, 2008), p. 178.
+ 58. Office of Naval Intelligence, The People’s 
+Liberation Army Navy, p. 27.
+ 59. Roger Cliff et al., Entering the Dragon’s Lair: 
+Chinese Anti-access Strategies and Their 
+Implications for the United States (Santa 
+Monica, CA: RAND, 2007), pp. 30–31, 43; 
+28
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+63
+U.S. Defense Dept., Annual Report: Military 
+and Security 2016, p. 88.
+ 60. Forrest Morgan et al., Dangerous Thresholds: 
+Managing Escalation in the 21st Century 
+(Santa Monica, CA: RAND, 2008), p. 171.
+ 61. U.S. Defense Dept., Annual Report: Military 
+and Security 2016, pp. 34, 65.
+ 62. Evan Montgomery, Nuclear Terrorism: As­
+sessing the Threat, Developing a Response 
+(Washington, DC: Center for Strategic and 
+Budgetary Assessments, 2009), p. 46.
+ 63. Richard Burns and Joseph Siracusa, A Global 
+History of the Nuclear Arms Race: Weapons 
+Strategy and Politics (Santa Barbara, CA: 
+Praeger, 2013), vol. 2, p. 377.
+ 64. Montgomery, Nuclear Terrorism, p. 46.
+ 65. U.S. Defense Dept., Joint Operational Access 
+Concept, p. 8.
+ 66. Ibid., p. 24.
+ 67. Mark Stokes, “China’s Quest for Joint Aero­
+space Power: Concepts and Future Aspira­
+tions,” in The Chinese Air Force: Evolving 
+Concepts, Roles, and Capabilities, ed. Richard 
+Hallion, Roger Cliff, and Phillip C. Saunders 
+(Washington, DC: National Defense Univ. 
+Press, 2012), p. 51.
+ 68. U.S. Defense Dept., Air-Sea Battle: Service 
+Collaboration to Address Anti-access & Area-
+Denial Challenges (Washington, DC: Air-Sea 
+Battle Office, 2013), p. 3.
+ 69. Cliff et al., Entering the Dragon’s Lair, p. 97.
+ 70. U.S. Defense Dept., Joint Operational Access 
+Concept, p. 8.
+ 71. Amy Woolf, Conventional Prompt Global 
+Strike and Long-Range Ballistic Missiles: 
+Background and Issues, CRS Report (Wash­
+ington, DC: Congressional Research Service, 
+2015), p. 1; Lauren Caston et al., The Future of 
+the U.S. Intercontinental Ballistic Missile Force 
+(Santa Monica, CA: RAND, 2010), p. 71.
+ 72. James Acton, “Hypersonic Boost-Glide 
+Weapons,” Science & Global Security 23 
+(2015), p. 194; Caston et al., The Future of the 
+U.S. Intercontinental Ballistic Missile Force, 
+p. 73.
+ 73. Heginbotham et al., The U.S.-China Military 
+Scorecard, p. 353; Anthony Cordesman and 
+Bryan Gold, The Gulf Military Balance, 
+vol. 2, The Missile and Nuclear Dimensions 
+(Washington, DC: Center for Strategic and 
+International Studies, 2014), p. 122.
+ 74. Boeing, Small Diameter Bomb Increment I 
+(Saint Louis, MO: 2012), pp. 1–2; Rebecca 
+Grant, Return of the Bomber: The Future 
+of Long-Range Strike (Arlington, VA: Air 
+Force Association, 2007), p. 22; Peter Grier, 
+The JDAM Revolution: The Low-Cost Highly 
+Accurate Joint Direct Attack Munition Has 
+Revolutionized Bombing in Just a Few Short 
+Years (Arlington, VA: Air Force Association, 
+2006), p. 63.
+ 75. General Dynamics, BLU-122/B Penetrator 
+(Niceville, FL: General Dynamics Ordnance 
+and Tactical Systems, 2007), p. 2; Jim Zanotti 
+et al., Israel: Possible Military Strike against 
+Iran’s Nuclear Facilities, CRS Report (Wash­
+ington, DC: Congressional Research Service, 
+2012), p. 29; Robert Haffa and Michael 
+Isherwood, The 2018 Bomber: The Case for 
+Accelerating the Next Generation Long-Range 
+Strike System (Falls Church, VA: Northrop 
+Grumman, August 2008), p. 11; Grant, Return 
+of the Bomber, p. 22.
+ 76. Stephen Linch [Airman 1st Class, USAF], 
+“Future 30,000-Pound Bomb Reaches Mile­
+stone,” Air Combat Command, December 
+21, 2007, www.acc.af.mil/; David A. Deptula 
+[Lt. Gen., USAF], Beyond the Bomber: The 
+New Long-Range Sensor-Shooter Aircraft and 
+United States National Security (Arlington, 
+VA: Mitchell Institute for Aerospace Studies, 
+2015), p. 27; Cordesman and Gold, The Mis­
+sile and Nuclear Dimensions, p. 128.
+ 77. Russell J. Hart, “Defeating Hard and Deeply 
+Buried Targets in 2035” (student paper, USAF 
+Air War College, 2012), pp. 10–11, available 
+at au.af.mil/.
+ 78. U.S. Defense Dept., Department of Defense 
+Fiscal Year 2012 Budget Estimates: Defense 
+Advanced Research Projects Agency—Research, 
+Development, Test & Evaluation, Defense-Wide 
+(Washington, DC: 2011), vol. 1-226, p. 8.
+ 79. “First Virginia Class Payload Tube Increases 
+Force’s Versatility,” America’s Navy, May 21, 
+2009, www.navy.mil/; Ronald O’Rourke, Navy 
+Trident Submarine Conversion Program: Back­
+ground and Issues for Congress, CRS Report 
+(Washington, DC: Congressional Research 
+Service, 2008), p. 3.
+29
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019
+
+64 
+NAVAL WAR COLLEGE REVIEW
+ 80. Robert Martinage, Toward a New Offset Strat­
+egy: Exploiting U.S. Long-Term Advantages to 
+Restore U.S. Global Power Projection Capabil­
+ity (Washington, DC: Center for Strategic and 
+Budgetary Assessments, 2014), pp. 45, 61, 
+84; Mark Gunzinger and Chris Dougherty, 
+Outside-In: Operating from Range to Defeat 
+Iran’s Anti-access and Area-Denial Threats 
+(Washington, DC: Center for Strategic and 
+Budgetary Assessments, 2011), pp. 84–85.
+ 81. Terrence Kelly, David Gompert, and Duncan 
+Long, Smarter Power, Stronger Partners, vol. 1, 
+Exploiting U.S. Advantages to Prevent Aggres­
+sion (Santa Monica, CA: RAND, 2016), pp. 
+30–31, 83, 119–20, 123–24.
+ 82. Office of Naval Intelligence, The People’s 
+Liberation Army Navy, pp. 13, 24–25; Kelly, 
+Gompert, and Long, Exploiting U.S. Advan­
+tages to Prevent Aggression, p. 83.
+ 83. Boeing, Echo Voyager: Extra Large Unmanned 
+Undersea Vehicle (Huntington Beach, CA: 
+2016), p. 2.
+ 84. David Gompert, Astrid Cevallos, and Chris­
+tina Garafola, War with China: Thinking the 
+Unthinkable (Santa Monica, CA: RAND, 
+2016), p. 14; U.S. Defense Dept., Annual Re­
+port: Military Power 2007, p. 1; U.S. Defense 
+Dept., Annual Report: Military and Security 
+2012, p. 9.
+ 85. U.S. Defense Dept., Annual Industrial 
+Capabilities: Report to Congress for 2014 
+(Washington, DC: 2016), p. 42; U.S. Defense 
+Dept., Annual Industrial Capabilities: Report 
+to Congress—October 2013 (Washington, DC: 
+2013), p. B-5.
+ 86. Cliff et al., Shaking the Heavens and Splitting 
+the Earth, pp. 99–101; Cliff et al., Entering the 
+Dragon’s Lair, pp. 51–52.
+ 87. U.S. Army Dept., Air Base Damage Repair 
+(Pavement Repair), TC 5-340 (Washington, 
+DC: December 1988), pp. 1-4 to 1-5, 1-8, 
+G-1 to G-4, available at armypubs.army.mil/; 
+U.S. Air Force Dept., Airfield Damage Repair 
+Operations, Air Force Pamphlet 10-219, vol. 
+4 (Washington, DC: 2011), pp. 117–18, 151, 
+157.
+ 88. “Hybrid Airships: The Road Not Needed,” 
+Lockheed Martin Australia, 2015, www
+.lockheedmartin.com.au/.
+ 89. Department of Defence, DSC 17540: Small 
+Satellite Missions (Canberra: Defence Science 
+Technology Group, 2017), pp. 1–2.
+ 90. U.S. Defense Dept., Fiscal Year 2016 Presi­
+dent’s Budget Submission: Defense Advanced 
+Research Projects Agency—Research Devel­
+opment Test and Evaluation Defense-Wide 
+(Washington, DC: 2015), p. 206.
+ 91. Northrop Grumman, “B-2 Spirit Stealth 
+Bomber,” news release no. ASC 07-0064, 
+March 14, 2007, available at www
+.northropgrumman.com/; Northrop Grum­
+man, “B-2 Spirit: Protecting Freedom 
+Worldwide,” data sheet, June 2007, available 
+at www.northropgrumman.com/; Dan Katz, 
+“Program Dossier: B-2A Spirit,” Aviation 
+Week, 2015, aviationweek.com/; “B-2 Spirit,” 
+U.S. Air Force, December 16, 2015, www
+.af.mil/.
+ 92. “B-2 Spirit”; Rebecca Grant, B-2: The Spirit 
+of Innovation (Falls Church, VA: Northrop 
+Grumman, 2013), p. 75; Jeremiah Gertler, Air 
+Force B-21 Raider Long-Range Strike Bomber, 
+CRS Report (Washington, DC: Congressional 
+Research Service, 2017), p. 9.
+ 93. Gertler, Air Force B-21 Raider, p. 9.
+ 94. Dan Katz, “Program Dossier: B-21,” Aviation 
+Week, 2016, aviationweek.com/; Jeremiah 
+Gertler, Air Force Next-Generation Bomber: 
+Background and Issues for Congress, CRS 
+Report (Washington, DC: Congressional 
+Research Service, 2009), p. 14.
+ 95. Linch, “Future 30,000-Pound Bomb”; 
+Deptula, Beyond the Bomber, p. 27; Cordesman 
+and Gold, The Missile and Nuclear Dimen­
+sions, pp. 128, 135.
+ 96. Jim Thomas, Zack Cooper, and Iskander 
+Rehman, Gateway to the Indo-Pacific: Aus­
+tralian Defense Strategy and the Future of the 
+Australia-U.S. Alliance (Washington, DC: 
+Center for Strategic and Budgetary Assess­
+ments, 2013), p. 13.
+ 97. Mark Gunzinger and Bryan Clark, Winning 
+the Salvo Competition: Rebalancing America’s 
+Air and Missile Defenses (Washington, DC: 
+Center for Strategic and Budgetary Assess­
+ments, 2016), p. 12.
+ 98. Haffa and Isherwood, The 2018 Bomber, pp. 
+5, 14; Michael R. Moeller [Lt. Gen., USAF], 
+U.S. Bomber Force: Sized to Sustain an 
+30
+Naval War College Review, Vol. 72 [2019], No. 2, Art. 5
+https://digital-commons.usnwc.edu/nwc-review/vol72/iss2/5
+
+GOLDSMITH 
+65
+Asymmetric Advantage for America (Arling­
+ton, VA: Mitchell Institute for Aerospace 
+Studies, 2015), p. 14.
+ 99. Gertler, Air Force B-21 Raider, p. 9; Moeller, 
+U.S. Bomber Force, p. 3.
+ 100. Gertler, Air Force B-21 Raider, p. 9.
+ 101. Haddick, Challenges in the Asia-Pacific The­
+ater, p. 29.
+ 102. Moeller, U.S. Bomber Force, p. 14.
+ 103. Watts, Six Decades of Guided Munitions and 
+Battle Networks, p. 34; Royal Australian Navy, 
+Australian Maritime Doctrine: RAN Doctrine 
+1 (Canberra: 2010), pp. 59–60.
+ 104. Heginbotham et al., The U.S.-China Military 
+Scorecard, p. 62.
+ 105. Gompert, Cevallos, and Garafola, War with 
+China, p. 39.
+ 106. General Accounting Office, Navy Carrier 
+Battle Groups: The Structure and Affordabil­
+ity of the Future Force, GAO/NSIAD-93-74 
+(Washington, DC: February 1993), p. 32.
+ 107. Justin Kelly, “Fighting China: Air-Sea Battle 
+and Australia,” Australian Army Journal 9, no. 
+3 (2012), p. 160.
+ 108. Heginbotham et al., The U.S.-China Military 
+Scorecard, p. 322.
+ 109. U.S. Defense Dept., Joint Operational Access 
+Concept, pp. 17–24; U.S. Defense Dept., Gain­
+ing and Maintaining Access: An Army–Marine 
+Corps Concept (Washington, DC: 2012), p. 
+8; U.S. Defense Dept., Air-Sea Battle: Service 
+Collaboration to Address Anti-access & Area-
+Denial Challenges (Washington, DC: Air-Sea 
+Battle Office, 2013), pp. 6–7.
+ 110. U.S. Defense Dept., Gaining and Maintaining 
+Access, p. 6.
+ 111. U.S. Defense Dept., Air-Sea Battle, p. 9.
+ 112. U.S. Defense Dept., Joint Operational Access 
+Concept, p. 24.
+ 113. U.S. Defense Dept., Air-Sea Battle, pp. 3, 6.
+ 114. Gompert, Cevallos, and Garafola, War with 
+China, p. 61.
+ 115. Gertler, Air Force B-21 Raider, p. 1.
+ 116. U.S. Defense Dept., Nuclear Posture Review 
+Report 2010 (Washington, DC: 2010), p. 21.
+ 117. Treaty between the United States of America 
+and the Russian Federation on Measures for 
+the Further Reduction and Limitation of Stra­
+tegic Offensive Arms [hereafter New START], 
+Russ.-U.S., April 8, 2010, T.I.A.S. No. 11-205, 
+p. 3.
+ 118. Protocol to the Treaty between the United 
+States of America and the Russian Federation 
+on Measures for the Further Reduction and 
+Limitation of Strategic Offensive Arms [here­
+after Protocol to New START], Russ.-U.S., 
+April 8, 2010, T.I.A.S. No. 11-205, pp. 5–6.
+ 119. New START, pp. 6–7; Protocol to New 
+START, p. 97.
+ 120. Protocol to New START, p. 97.
+ 121. New START, p. 6; Protocol to New START, 
+p. 5.
+ 122. CBO, The U.S. Military’s Force Structure: A 
+Primer (Washington, DC: 2016), p. 103.
+ 123. Protocol to New START, pp. 2, 11.
+ 124. Treaty between the United States of America 
+and the Union of Soviet Socialist Republics 
+on the Elimination of Their Intermediate-
+Range and Shorter-Range Missiles [also 
+known as the INF Treaty], U.S.S.R.-U.S., 
+December 8, 1987, 1657 U.N.T.S. 2.
+ 125. Acton, “Hypersonic Boost-Glide Weapons,” 
+p. 194; Caston et al., The Future of the U.S. 
+Intercontinental Ballistic Missile Force, p. 73.
+ 126. Woolf, Conventional Prompt Global Strike and 
+Long-Range Ballistic Missiles, pp. 12, 34.
+ 127. Heginbotham et al., The U.S.-China Military 
+Scorecard, p. 49.
+ 128. U.S. Defense Dept., Command and Control for 
+Joint Land Operations, Joint Publication 3-31 
+(Washington, DC: Joint Staff, 2014), p. IV-1.
+31
+Goldsmith: U.S. Conventional Access Strategy: Denying China a Conventional F
+Published by U.S. Naval War College Digital Commons, 2019

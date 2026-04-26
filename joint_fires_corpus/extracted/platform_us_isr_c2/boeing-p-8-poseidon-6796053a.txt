@@ -1,0 +1,317 @@
+The Boeing P-8 Poseidon is an American maritime patrol and reconnaissance aircraft developed and produced by Boeing Defense, Space & Security. It was developed for the United States Navy as a derivative of the civilian Boeing 737 Next Generation airliner.
+The P-8 operates in anti-submarine warfare (ASW), anti-surface warfare (ASUW), and intelligence, surveillance and reconnaissance (ISR) roles. It is armed with torpedoes, Harpoon anti-ship missiles, and other weapons, can drop and monitor sonobuoys, and can operate in conjunction with other assets, including the Northrop Grumman MQ-4C Triton maritime surveillance unmanned aerial vehicle (UAV).
+In addition to the U.S. Navy, the P-8 is also operated by the Indian Navy, the Royal Australian Air Force, the United Kingdom's Royal Air Force, the Republic of Korea Navy, the Royal Norwegian Air Force, the Royal New Zealand Air Force and the German Navy. It also has been ordered by the Republic of Singapore Air Force and the Royal Canadian Air Force.
+
+
+== Development ==
+
+
+=== Origins ===
+The Lockheed P-3 Orion, a turboprop ASW aircraft, had been in service with the United States Navy (USN) since 1962. In the 1980s, the USN began studies for a P-3 replacement, the range and endurance of which were reduced due to increasing weight and airframe fatigue life limitations. The specification required a new aircraft to have reduced operating and support costs. In 1989, Lockheed was awarded a fixed-price contract to develop the P-7, but this was canceled the following year.
+In 2000, a second competition for a replacement began. Lockheed Martin submitted the Orion 21, an updated new-build version of the P-3. Boeing's proposal was based on its 737-800 airliner.  BAE Systems offered a new-build version of the Nimrod MRA4, a British jet-powered maritime patrol aircraft. BAE withdrew from the competition in October 2002, recognizing that without a production partner based in the United States, the bid was politically unrealistic. On 14 May 2004, Boeing was selected as the winner of the Multimission Maritime Aircraft program.
+In June 2004, the USN awarded a development contract to Boeing. The project was planned to be for at least 108 airframes for the USN.  Project value is expected to be worth at least $15 billion. Raytheon, Northrop Grumman, Spirit AeroSystems, GE Aviation Systems, Marshall Aerospace and Defence Group, CFM International, BAE Systems, and Marotta were the major subcontractors. In July 2004, the USN placed an order for five aircraft, with the first flight-test aircraft to be completed in 2009. On 30 March 2005, it was assigned the P-8A designation.
+
+
+=== Design phase and testing ===
+
+The P-8 is to replace the P-3. Initially, it was equipped with legacy systems with later upgrades to incorporate newer technology. The Government Accountability Office credited the incremental approach with keeping the project on schedule and on budget. The Naval Air Systems Command (NAVAIR) deleted the requirement for the P-8A to be equipped with magnetic anomaly detection (MAD) equipment as a weight reduction measure, improving endurance. A hydrocarbon sensor detects fuel vapors from diesel-powered submarines and ships.
+The P-8's first flight was on 25 April 2009. The second and third P-8s had flown and were in flight testing in early August 2010. On 11 August 2010, low-rate production of the P-8 was approved. A P-8 released sonobuoys for the first time on 15 October 2010, dropping six in three separate low-altitude passes. In 2011, the ice detection system was found to be defective due to the use of counterfeit components; allegedly these parts were poorly refurbished and sold to subcontractor BAE Systems as new by a Chinese supplier.
+
+On 4 March 2012, the first production P-8A was delivered to the USN, flying to Naval Air Station Jacksonville, Florida, for training with the Fleet Replacement Squadron (FRS), Patrol Squadron 30 (VP-30). On 24 September 2012, Boeing announced a $1.9 billion (~$2.56 billion in 2024) order for 11 aircraft. On 10 June 2013, a U.S. Department of Defense (DoD) Inspector General (IG) report recommended delaying full-rate production over a lack of key data to assess if the P-8 met operational requirements; additional tests were also needed to guarantee a 25-year lifespan. Boeing executives dismissed the report, saying that the test program was on track. In 2013, full-rate production was delayed until the P-8 could demonstrate it can survive its 25-year lifespan without structural fatigue, overcome deficiencies, track surface ships, and perform primary missions.
+On 24 June 2013, during weapons integration testing, the P-8 achieved a milestone by firing a live AGM-84 Harpoon anti-ship missile and scored a direct hit on a low-cost modular target. On 1 July 2013, an initial operational test and evaluation (IOT&E) report found that the P-8A was "operationally effective, operationally suitable, and ready for fleet introduction." Six test and nine low-rate initial production aircraft had been delivered at that point. On 31 July 2013, Boeing received a $2.04 billion contract to build 13 P-8As in the fourth low-rate initial production lot, for a fleet of 37 aircraft by the end of 2016, and long-lead parts for 16 P-8As of the first full-rate production lot.
+In January 2014, Naval Air Systems Command proceeded with full-rate production of the P-8A. Increment 1 systems include persistent anti-submarine warfare (ASW) capabilities and an integrated sensor suite; in 2016, Increment 2 upgrades will add multi-static active coherent acoustics, an automated identification system, and high-altitude anti-submarine weapons. Increment 3 in 2020 shall enable "net-enabled anti-surface warfare".
+In July 2014, Fred Smith, business development director for the P-8, noted that the program had: "saved $2.1 billion on 2004 estimates of the cost of production... the aircraft is now selling for $150 million, down from the forecasted $216 million". The halving of USN orders from 16 aircraft per year down to eight in 2015 due to the expiration of the Bipartisan Budget Act of 2013 was expected to be partially offset by commercial 737 sales and P-8 export sales. The DoD wanted to follow a program template for the P-8 similar to the Joint Strike Fighter (JSF) program, with international cooperation from prospective users.
+
+
+=== Derivatives ===
+In 2010, Boeing proposed to replace the United States Air Force's (USAF) E-8 Joint STARS fleet with a modified P-8 at the same cost Northrop Grumman proposed for re-engining and upgrading the E-8s. The proposed P-8 Airborne Ground Surveillance (AGS) would integrate an active electronically scanned array (AESA) radar, and have ground moving target indicator (GMTI) and synthetic aperture radar (SAR) capabilities. A key feature was a pod-mounted radar on the lower centerline of the fuselage, positioned so the engine nacelles do not obstruct its line of sight. It reuses the P-8A's Raytheon AN/APY-10 multi-mission surface search radar. Two aft ventral fins increase stability.
+In 2013, Boeing proposed repackaging some of the P-8's systems in the smaller and less expensive Bombardier Challenger 600 series business jet, as the Boeing Maritime Surveillance Aircraft (MSA). In 2014, Boeing also offered a JSTARS replacement based on the 737-700, rather than the P-8's 737-800.
+
+
+== Design ==
+
+The P-8 is a 737-800ERX, roughly similar to the 737-800 commercial passenger aircraft and the USN's 737-700-based C-40 Clipper transport aircraft, but with several modifications to make it suitable for its military service role. Many of the changes reflect the need for the aircraft to operate at lower altitudes and be capable of more aggressive maneuvering than a commercial aircraft. However, the changes were kept in line with the existing assembly process. Boeing 737 fuselage builder Spirit AeroSystems added structural strength to the airframe, while adding a short bomb bay for torpedoes and other stores behind the wing.
+The aircraft is assembled at the Boeing Renton Factory with the stronger wings from the 737-900. The aircraft uses raked wingtips similar to those fitted to the Boeing 767-400ER, instead of the blended winglets available on 737NG variants. To combat icing on the raked wingtips, horizontal stabilizers and vertical stabilizers, the aircraft is outfitted with electro-mechanical expulsion deicing systems. In the cockpit, changes were made to the flight control and alerting systems, allowing for an increased bank angle, a more responsive autothrottle, and the elimination of audible warnings during low-altitude operations. In order to power additional onboard electronics, the P-8 has a 180 kVA electric generator on each CFM International CFM56 engine, replacing the 90 kVA generator of civilian 737s; this required the redesigning of the nacelles and their wing mountings. The Navy says that compared to the P-3, the P-8 has a smoother flight experience, subjecting crews to less turbulence and fumes, allowing them to concentrate better on missions.
+
+After the aircraft roll off the assembly line, five operator stations (two naval flight officers plus three enlisted Aviation Warfare Operators/naval aircrewman) are mounted in a sideways row, along the port side of the cabin. Other than one large window on each side of the forward cabin for two observers, none of the other crew stations have windows. A short bomb bay for torpedoes and other stores opens behind the wing. The P-8 is to be equipped with the High-Altitude Anti-Submarine Warfare Weapon Capability (HAAWC) Air Launch Accessory (ALA), turning a Mark 54 torpedo into a glide bomb for deploying from up to 30,000 ft (9,100 m).
+The P-8 features the Raytheon APY-10 multi-mission surface search radar. Unlike the preceding P-3, most versions of the P-8 lack a MAD, but the P-8I is equipped with a MAD at India's request. Various sensor data are combined via data fusion software to track targets. Following the cancellation of Lockheed Martin's Aerial Common Sensor project, Boeing proposed a signals intelligence variant of the P-8 for the USN's requirement. During the P-8A Increment 2 upgrade in 2016, the Littoral Surveillance Radar System (LSRS) will be replaced by the Advanced Airborne Sensor radar.
+In U.S. service, the P-8A is complemented by the MQ-4C Triton unmanned aerial vehicle (UAV) which provides continuous surveillance. In January 2015, BAE Systems was awarded a contract for the USN's High Altitude ASW (HAASW) Unmanned Targeting Air System (UTAS) program to develop a sub-hunting UAV equipped with a MAD for launching from the P-8.
+
+The P-8 cannot use the Navy's typical probe and drogue in-flight refueling method, instead using a flying boom receptacle on the upper-forward fuselage, making it, like the USN's E-6 Mercury aircraft, reliant on US Air Force (USAF) KC-135 Stratotanker, KC-10 Extender and KC-46 Pegasus aircraft for in-flight refueling. In April 2017, the USAF 459th Air Refueling Wing worked with the Naval Air Systems Command to certify operationally the P-8 for in-flight refueling. For extended endurance, the P-8 is equipped with six auxiliary fuel tanks.
+
+
+== Operational history ==
+
+
+=== United States ===
+In February 2012, the P-8 made its mission debut during "Bold Alligator" 2012, an annual littoral warfare exercise. In April 2012, it took part in Exercise Joint Warrior, flying out of RAF Lossiemouth. During RIMPAC 2012 in the Hawaiian area, two P-8As participated in 24 scenarios as part of Air Test and Evaluation Squadron One (VX-1) while forward deployed to Marine Corps Base Hawaii. On 29 November 2013, its inaugural deployment began when six aircraft and 12 air crews of squadron VP-16 departed its home station of NAS Jacksonville, Florida, for Kadena Air Base in Okinawa, Japan. This deployment was a pre-planned regional re-balancing action, but occurred shortly after China's establishment of the East China Sea Air Defense Identification Zone, heightening tensions.
+During early exercises and the Japanese deployment, the P-8 reportedly suffered radar, sensor integration, and data transfer problems, leading to more testing. In 2012–3, the US government's Director, Operational Test and Evaluation (DOTE) evaluated the P-8A Increment 1, and reported that it was effective for small-area and cued ASW search, localization and attack missions, but lacked the P-3C's broad-area ASW acoustic search capability; the Mk 54 torpedoes were of limited use against evasive targets. The P-8A was also effective at ASuW search, detection and classification in all-weather at short to medium ranges for all surface vessels and at longer ranges for larger vessels, yet was not effective for Intelligence, Surveillance and Reconnaissance mission due to various issues including no high-resolution SAR capability. It did have better range, speed, and reliability than older aircraft. DOTE concluded that it was not deployment ready. Pentagon acquisition under-secretary Frank Kendall said of the report that, although its findings are factual, it ignored future capability upgrades for ASW and surveillance.
+A second squadron, VP-5, completed its transition to the P-8 in August 2013. During mid-2014, a pair of P-8s were dispatched to Perth, Australia for two months for an international search for the missing Malaysia Airlines Flight 370. On 2 October 2015, USN P-8s stationed at Naval Air Station Jacksonville, Florida, alongside U.S. Coast Guard HC-144A Ocean Sentry, HC-130H and USAF Reserve HC-130P Combat Shadow aircraft, searched the Eastern Caribbean Sea for the missing SS El Faro cargo ship that sank on 1 October in the Category 3 Hurricane Joaquin near Crooked Island in the Bahamas. On 20 February 2018, a P-8 of Patrol Squadron Eight (VP-8) rescued three fishermen whose vessel had been adrift in the South Pacific Ocean for eight days, deploying a search and rescue (SAR) kit containing supplies and communications equipment, the first time that a P-8 deployed a SAR kit in a real operation.
+On 19 August 2014, a Chinese Shenyang J-11 fighter came within 30 feet (9.1 m) of a USN P-8A of VP-5 about 135 miles (217 km) east of Hainan Island while patrolling the South China Sea. The J-11 flew past the P-8's nose and performed a barrel roll at close proximity. A Pentagon spokesperson said the J-11's unit had made close intercepts earlier that year. The U.S. sent a diplomatic note to China about the behavior of the Chinese fighter groups' commander. China stated that the claims were "totally groundless", and that the root cause was U.S. surveillance of China. In November 2016, a Russian Su-30 fighter intercepted a P-8 over the Black Sea, coming within 5 feet (1.5 m) of it, forcing the P-8 through its jet wash, causing "a 15-degree roll and violent turbulence".
+
+USN P-8s routinely rotate through bases of allies.  In September 2014, the Malaysian government offered the use of bases in East Malaysia for P-8s, but no flights have yet been approved. On 7 December 2015, P-8s were deployed to Singapore as part of a Defense Cooperation Agreement between the US and Singapore for "fighting terrorism and piracy." China criticized the Singapore deployment as "regional militarization by the U.S." The third detachment of two P-8s based in Paya Lebar Air Base, Singapore, participated in naval military drills with the Singapore Armed Forces (SAF) in mid 2016.
+On 20 November 2023, a USN P-8A assigned to VP-4 overshot the runway while landing in the rain at MCAS Kaneohe Bay and ended up in the water. None of the nine crew on board were injured. The USN hopes to repair the aircraft and return it to operational status. The aircraft was floated and pulled from the sea on 2 December 2023. The USN later determined that restoring the aircraft was not cost-effective and subsequently scrapped it.
+A USN P-8A flew through the Taiwan Strait on 17 April 2024, asserting navigational rights amid tensions with China over Taiwan's sovereignty. This followed the first talks between US and Chinese defense chiefs since 2022, aimed at easing regional tensions.
+Boeing P-8 Poseidon patrol aircraft were also used to intercept tankers during the United States naval blockade of Iran as part of the 2026 Iran war.
+
+
+=== India ===
+
+In January 2008, Boeing proposed the P-8I, a customized export variant of the P-8A, for the Indian Navy. The P-8I has a version of the Raytheon APY-10 multi-mission surface search radar that meets export requirements. It also features two components not fitted on the P-8A, a Telephonics APS-143 OceanEye aft radar and a MAD. The P-8I also features multiple Indian-origin components which include Bharat Electronics Limited (BEL) Data Link II communication suite, BEL-developed IFF Interrogator system, Avantel mobile satellite service (MSS) and Electronics Corporation of India Limited (ECIL) speech secrecy system. The Data Link II will allow the P-8I to exchange tactical data between Indian Navy aircraft, ships and shore establishments. These systems will be integrated in Boeing Renton Factory.
+
+
+==== First contract ====
+On 1 January 2009, India's Ministry of Defence signed a US$2.1 billion (~$2.98 billion in 2024) agreement with Boeing for eight P-8Is to replace the Indian Navy's aging Tupolev Tu-142M maritime surveillance turboprops. The contract was signed after negotiations and clearance for the same from the Cabinet Committee on Security (CCS). While the P-8I contract was a direct agreement with Boeing, some end-user verifications are yet to be clarified with the US Government. Boeing will deliver the first of eight P-8I aircraft within 48 months of contract signing. The agreement included an additional purchase of four aircraft through Option Clause. It was Boeing's first military sale to India and the P-8's first international customer.
+India has purchased 21 AGM-84L Harpoon Block II missiles and 32 Mark 54 Lightweight Torpedoes All-Up-Round for the P-8I.
+In April 2010, BEL delivered the first Data Link II systems to Boeing a month ahead of schedule. BEL was contracted to supply them in August 2009 and is expected to complete the delivery by late 2011. In December 2010, BEL supplied its IFF Interrogator system to Boeing. On 26 December 2011, Avantel delivered 12 sets of their MSS-based communication systems to Boeing, at a cost of $1.8 million, for the Indian Navy's P-8I program. The system had been examined and approved by the CEMILAC.
+The production of first P-8I fuselage began on 7 December 2010 at Spirit AeroSystems facility in Wichita, Kansas with the production of a bonded aluminum panel which would be fitted to the fuselages' upper lobe to support an antenna. This marked the progress of the program from the design phase to production phase. The fuselage was then delivered to Boeing Renton Facility for final assembly line on 29 May 2011. The installation of wings and engines followed. The final assembly begun by 21 June 2011.
+On 29 September 2011, the first P-8I completed its initial flight from Boeing Field. The aircraft took off at 12:02 pm local time and landed after a two hour and 31 minute long sortie. Multiple airborne systems checks including engine accelerations & decelerations and autopilot flight modes were conducted before the aircraft was take to an altitude of up to 41,000 ft (12,000 m). Boeing would now begin mission systems installation and checkout work on this aircraft at its Renton facility. In July 2012, Boeing conducted another P-8I flight testing from the same airfield. The sortie was 3 hours 49 minutes long where the aircraft fulfilled all its requirements. Further flight testing would be conducted in a US Navy range in the Neah Bay, Washington and a joint US-Canadian range. The first aircraft was expected to be delivered by January 2013 followed by the remaining units by 2016.
+On 19 December 2012, the first P-8I was handed over to an Indian naval team at Boeing's facility. When the first three aircraft will be delivered, all of these will flown to India at once. The delivery of the other five would be completed by 2015. It was inducted into the Indian Navy on 15 May 2013 at INS Rajali in Tamil Nadu. The second aircraft was delivered on 15 November 2013. Meanwhile, the first aircraft completed its weapons trials by the Indian Navy which included firing a Harpoon anti-ship missile and dropping a torpedo. The aircraft's acceptance trials was still underway while the same for the second aircraft will now commence within months.
+
+
+==== Optional clause contract ====
+In October 2010, the Defence Acquisition Council (DAC), under the Indian Ministry of Defence, approved the purchase of four additional P-8Is. As of December 2012, the negotiations for four P-8I was underway. This would add to the capability to the highest of Indian Navy's three-tier maritime surveillance grid. On 1 July 2016, the Cabinet Committee on Security (CCS) cleared the procurement worth around $1.1 billion. The deal would be signed within few days while the first aircraft was to be delivered within 50 months or three years of signing the contract. The deal was finally signed on 27 July 2016.
+The first was delivered to Indian naval air station INS Hansa, Dabolim, Goa on 19 November 2020, followed by the second on 13 July 2021, the third on 18 October 2021 and the last on 23 February 2022. The last two aircraft arrived at the air station on 30 December 2021. The aircraft was welcomed by a MiG-29K formation. This marked the maiden operation of P-8I from the air station. The second squadron of P-8I based at Hansa, INAS 316 Condors, was commissioned on 29 March 2022. During its commissioning, the commanding officer was Commander Amit Mohapatra. The squadron will employ the four aircraft received as part of the Option Clause contract.
+In April 2020, DSCA approved the sale of 10 AGM-84L Harpoon missiles along with containers, spare and repair parts, support and test equipment for the P-8I fleet to the Indian Navy at a value of $93 million. The possible sale of 16 aircraft-launched Mark 54 Lightweight Torpedo all up rounds and 3 Mk 54 Exercise Torpedoes for its additional P-8I fleet at a cost of $63 million was also cleared. These sales were for the second batch of four P-8Is.
+
+
+==== Second contract ====
+In 2011, India planned to order twelve more P-8Is at a later date; in 2019, this was cut to eight to ten due to a limited budget.
+On 28 November 2019, the Defence Acquisition Council (DAC) approved the procurement of six additional P-8Is. By 27 July 2020, reports revealed that Indian Ministry of Defence has sent Letter of Request (LoR) to the US Government for the procurement at an estimated cost of $1.8 billion. The LoR was forwarded to the Defense Security Cooperation Agency (DSCA) and the proposal featured on a notice by the agency under the US Foreign Military Sales (FMS) program. The DSCA is expected to respond with a Letter of Acceptance (LoA) with the deal expected to be signed by early 2021.
+On 30 April 2021, the US Department of Defense (DoD) cleared the sale of six P-8Is and related equipment to India at an estimated cost of $2.42 billion. The numbers were reduced from ten due to budget constraints. The related equipment includes eight Multifunctional Information Distribution System-Joint Tactical Radio Systems 5 (MIDS-JTRS 5) (6 installed, 2 spares); forty-two AN/AAR-54 Missile Warning Sensors (36 installed, 6 spares); and fourteen LN-251 with Embedded Global Positioning Systems (GPS)/Inertial Navigations Systems (EGIs) (12 installed, 2 spares). The DSCA informed about the clearance to the US Congress.
+By 2025, the price of the possible sale of six additional P-8Is were increased by 50% in view of the supply chain costs. On 7 August 2025, Reuters quoted three Indian officials and reported that multiple planned defence procurements from the US — including the case for six additional aircraft — had been halted, though the claims were rejected by the Indian Defence Ministry as "false and fabricated" the following day. The US Department of Defense and Boeing officials visited India between 16 and 19 September for detailed discussions on their current offers on the additional procurement of P-8I aircraft made to the Indian government. The US delegation included officials from the undersecretary of defence for policy, Navy International Programs Office (NIPO), Maritime Patrol and Reconnaissance Aircraft Program Office (PMA 290), and the DSCA. While the NIPO strengthens global maritime partnerships by facilitating the export and transfer of capabilities that advance U.S. strategic security interests, the PMA-290 is responsible for the acquisition, sustainment, and delivery of maritime patrol aircraft. The deal cost could range around $4 billion.
+The $3 billion deal for six P-8I aircraft is close to being sealed as of 4 February 2026. The defence ministry is expected to clear the deal shortly followed by the Cabinet Committee on Security which is the final approval required before the contract is signed. The Defence Acquisition Council (DAC) is expected to meet in the third week of February where it will take up the proposal. The deal is expected to be signed in the FY2026-27.
+The deal was granted Acceptance of Necessity (AoN) by the DAC on 12 February 2026.
+
+
+==== Operations ====
+In 2014, several Indian Navy P-8Is conducted search operations for the missing Malaysia Airlines Flight 370. The Indian Navy inducted the first squadron in November 2015. The aircraft, based in INS Rajali, was deployed during the search operations of the wreckage after the 2016 Indian Air Force An-32 crash in the Bay of Bengal. P-8Is were deployed in the 2017 Doklam Standoff between the Indian Army and China's People's Liberation Army. Indian Navy P-8Is also monitored Pakistani Army units during the 2019 Pulwama standoff. On 4 June 2019, one of the P-8I aircraft was deployed in during the search and rescue operations following 2019 Indian Air Force An-32 crash.
+In August 2024, it was announced that the Indian Navy's P-8I fleet will be maintained by Air India Engineering Services Limited (AIESL), a subsidiary of Air India, which signed a deal with Boeing for receiving training for its personnel. AIESL had already overhauled the landing gear of the entire fleet. The Indian Navy has also signed an agreement with the Royal Australian Air Force for KC-30A's to potentially refuel Indian P-8Is during long-range operations.
+During Exercise Konkan 2025 conducted between UK Carrier Strike Group 2025 and INS Vikrant-led Carrier Battle Group, included an anti-submarine warfare operation. Royal Navy Merlin Mk2 helicopters operating from HMS Prince of Wales (R09) and HMS Richmond (F239) and Indian Navy P-8I Neptune aircraft were deployed during the operation, while an Indian submarine was the target. Indian P-8Is also coordinated search and rescue efforts for the crew of IRIS Dena, sunk by a US submarine off the coast of Sri Lanka during the 2026 Iran war.
+The Defence Research and Development Organisation (DRDO) and the Indian Navy conducted four trials of its indigenous Air Droppable Container (ADC-150) from P-8I aircraft off the coast of Goa in early 2026. The ability to employ the ADC-150 from P-8I will facilitate delivery of urgent critical stores, equipment and medical assistance to vessels at sea. On 27 March 2026, the Indian defence ministry signed a contract worth ₹431 crore (US$51 million) with Boeing India Defense Private Ltd, a wholly owned Indian subsidiary of Boeing for depot level inspection of the fleet. The project is under the Buy Indian category with 100% indigenous content at an in-country MRO facility.
+The P-8I was deployed during Operation Sindoor and conducted Intelligence, Surveillance, and Reconnaissance (ISR) operations providing inputs to the Indian Air Force and Indian Army to strike their targets. Captain Saurbabh Kumar of the Indian Navy was awarded the Nao Sena Medal (Gallantry) for ISR mission and for evading the Chinese Beyond Visual Range air to air missile fired by Pakistan while on his mission. The missile is supposed to be the PL-15 which is the only Chinese BVRAAM in operation with Pakistan. The citation for Commander Kumar reads, "The Officer was deployed at forward airbase to undertake ISR operations. These missions were flown towards updating enemy targets of interests to IAF and IA. As the pilot in command he undertook various missions including intelligence gathering, proving critical inputs to further own operations and plans. The aircraft was experiencing bad weather and a GPS denied environment while flying over the mountainous terrain. When warning of an enemy missing closing in on the aircraft was received, he quickly reacted and outmaneuvered the enemy missile, ensuring mission accomplishment along with the safety of the crew and the aircraft."
+
+
+=== Australia ===
+
+On 20 July 2007, the Australian Minister for Defence announced that the P-8A was the preferred aircraft to replace the Royal Australian Air Force fleet of Lockheed AP-3C Orions in conjunction with a then yet-to-be-selected unmanned aerial vehicle. The last AP-3C was scheduled to be retired in 2018, after nearly 30 years of service. In March 2009, Australia's Chief of Air Force stated that the RAAF planned to introduce the P-8A in 2016.
+In October 2012, Australia formalized its participation, committing A$73.9m (US$81.1m) in an agreement with the USN. In July 2013, Air Marshal Geoff Brown, head of the RAAF, said Australia was considering buying more P-8As and fewer MQ-4C Triton UAVs than earlier planned. On 21 February 2014, Prime Minister Tony Abbott announced the intention to procure eight P-8As plus options for four more; entry into service is planned for 2021.
+In July 2014, negotiations commenced between Boeing and the US Department of Defense to integrate the AGM-84 Harpoon Block 1G anti-ship missile onto the P-8A on Australia's behalf. In August 2014, the USN concluded an advanced acquisition contract on the first four of up to 12 P-8As to be bought by Australia, with delivery expected from 2017. In January 2016, Australia ordered a further four P-8As. The 2016 Defence White Paper stated that eight P-8As would be in service in the early 2020s and that 15 P-8As are planned for by the late 2020s. Including support facilities, the first group of eight aircraft's total cost is estimated at $3.6 billion (AU$4 billion).
+The RAAF accepted its first P-8A on 27 September 2016; it arrived in Australia on 14 November. The RAAF had received 12 P-8As by 13 December 2019. The Australian Government approved ordering two additional aircraft on 30 December 2020. The option to acquire a 15th aircraft may not be taken up.
+According to the Australian Defence Minister, Richard Marles, in May 2022 a Chinese J-16 is alleged to have flown alongside a RAAF P-8A, deploying flares and chaff. One piece of chaff is alleged to have been ingested into the P-8's engine. On 20 October 2025 Australian Defence Minister Richard Marles disclosed that a Chinese Su-35 fighter jet had released flares "very close" to a P-8A aircraft doing routine surveillance in international airspace over the South China Sea the previous day, stating also that the plane was not damaged.
+
+
+=== United Kingdom ===
+
+In August 2012, it was reported that Boeing saw the United Kingdom as a market for the P-8, following the cancellation of the Nimrod MRA4 in 2010. On 23 November 2015, the UK announced its intention to order nine P-8s in the Strategic Defence and Security Review 2015, that would be based at RAF Lossiemouth in Scotland, to protect the UK's nuclear deterrent and aircraft carriers and for search-and-rescue and overland reconnaissance.
+On 25 March 2016, the U.S. State Department approved a proposed Foreign Military Sale to the UK for up to nine P-8s and associated support. During an April 2016 tour of US anti-submarine capabilities, the British defense procurement minister stated that the Royal Air Force would initially operate the P-8 with U.S. weapons, with the option to use British weapons later. It was not initially clear whether the UK would have access to future ground-surveillance capabilities developed for the P-8. On 11 July 2016, Boeing announced the signing of a $3.87 billion (£3 billion) contract for nine P-8s and support infrastructure, in three production lots over ten years, with deliveries commencing in 2019.
+The RAF gave the aircraft the service name Poseidon MRA Mk1. They are operated by 120 Squadron and 201 Squadron. The first Poseidon MRA Mk1 (ZP801) made its initial flight on 13 July 2019. The UK took delivery of the first aircraft, named Pride of Moray, at Boeing's Seattle facility on 29 October. It arrived at Kinloss Barracks in February 2020 before moving to RAF Lossiemouth in October 2020, along with ZP802 which was delivered on 13 March 2020. The RAF declared the P-8 had reached initial operating capability (IOC) on 1 April 2020. The final ordered aircraft arrived at RAF Lossiemouth in January 2022.
+
+
+=== Norway ===
+In March 2014, Norwegian newspaper Dagbladet reported that the Royal Norwegian Air Force is considering leasing aircraft from Boeing as No. 333 Squadron RNoAF's six P-3 Orions were becoming increasingly difficult to keep operational. In June 2016, Norwegian newspaper Verdens Gang reported that the Norwegian government would buy four new surveillance aircraft in its long-term defense plan; the P-8 was seen as the main option. In December 2016, the U.S. State Department approved the sale with congressional approval pending.
+On 29 March 2017, Norway signed a contract for five P-8As, to be delivered between 2022 and 2023. On 13 July 2021, Boeing rolled out first P-8As Poseidon aircraft from the paint shop for Norway. The first aircraft was delivered on 18 November 2021. It is to be operated by the 133 Air Wing, 333 Squadron at Evenes Air Station. The first P-8 is to be named Viking and the successive four aircraft are to be named for Norse gods and a ship pilot: Vingtor, Ulabrand, Hugin and Munin.
+
+
+=== New Zealand ===
+
+Boeing publicly identified the Royal New Zealand Air Force as a potential customer in 2008 as a replacement for its P-3 Orions. In April 2017, the U.S. State Department approved the possible foreign military sale of up to four P-8As with equipment and support, valued at US$1.46 billion (~$1.83 billion in 2024). In July 2018, the New Zealand government announced the purchase of four P-8As, to begin operations in 2023.
+Four P-8As were ordered in March 2019. The RNZAF is planning to operate the type for at least 30 years. In September 2020, the inaugural Royal New Zealand Air Force crew for the P-8A graduated training at Jacksonville, Florida. This crew is to then qualify as instructors to train the first RNZAF crews back in New Zealand. The first P-8A was delivered in December 2022, with three more aircraft delivered as of July 2023.
+On 15 April 2026, an RNZAF P-8A Poseidon flew within 120 nautical miles of the Senkaku/Diaoyu Islands, a group of uninhabited islets administered by Japan but claimed by China, monitoring North Korean sanctions evasions at sea in North Asia under UN Security Council resolutions, which NZ has contributed to since 2018. New Zealand Defense Force officials confirmed that the flight was conducted in international airspace and followed standard procedures for monitoring maritime activity. "The action undermined China's security interests, increased risks of misunderstanding and miscalculation, and gravely disrupted the order of civil aviation in relevant airspace," said Guo Jiakun, Chinese diplomat, spokesperson for the Ministry of Foreign Affairs of China. A spokesperson for the NZDF said the crew of the P-8 operated professionally and in accordance with international law and civil aviation procedures for the region and that the "NZDF has reviewed the routes flown and all available information. We have no data which indicates they disrupted civil aviation." When the New Zealand Foreign Affairs Minister Winston Peters' office was approached for comment, a statement released said they had nothing to add to NZDF's response on the matter. The  Defence Minister Chris Penks' office also said it had no further comment beyond NZDF's statement.
+
+
+=== South Korea ===
+In 2013, the Defense Acquisition Program Administration (DAPA) commenced a ₩1 trillion (equivalent to ₩1.25 trillion or US$881.77 million in 2025) procurement program to acquire up to 20 ASW aircraft to replace the Republic of Korea Navy's fleet of 16 P-3Cs; possible candidates included the C-295 MPA, P-8, Saab Swordfish and the SC-130J Sea Hercules. DAPA considered procuring 12 to 20 ex-USN Lockheed S-3 Vikings. In 2017, the ROKN canceled plans to buy refurbished S-3s.
+On 26 June 2018, it was announced that DAPA had selected the P-8 and would acquire six aircraft through the US Foreign Military Sales program. On 13 September 2018, the US state department stated it supported the sale of 6 P-8s and notified Congress. South Korea ordered six P-8As in March 2019 with aircraft delivered in 2024.
+
+
+=== Germany ===
+The US Department of State approved a possible Foreign Military Sale of five P-8As with associated equipment to Germany for an estimated cost of $1.77 billion. The US Defense Security Cooperation Agency (DSCA) notified US Congress of the possible sale on 12 March 2021. On 23 June 2021, Germany approved the purchase of five P-8As worth $1.31 billion (~$1.49 billion in 2024). On 28 September 2021, Germany finalized the purchase and is to retire its existing P-3C Orions when the P-8s are delivered. In November 2023, a simulator and an additional three P-8s were approved. The first P-8A is to enter service with the German Navy in Spring 2025. The German Navy sent a P-8 to participate at the International Fleet Review 2026 held at Visakapatanam in India.
+
+
+=== Canada ===
+Boeing identified that the Royal Canadian Air Force's fleet of CP-140 Auroras (Canadian variant of the P-3 Orion) would begin to reach the end of their service life by 2025. In 2015, Boeing offered the Challenger MSA, a smaller and cheaper aircraft based on the Bombardier Challenger 650 integrating many of the P-8's sensors and equipment, to complement but not replace the CP-140s. Boeing also offered the P-8A with modifications specific to Canadian operations to replace the Aurora.
+In 2019, Canada announced the start of a project to replace its CP-140s, valued at greater than CA$5 billion and named "Canadian Multimission Aircraft Project". The Canadian Armed Forces requirements call for a crewed, long-range platform, capable of providing C4, ISR, and ASW with the ability to engage/control and to fully integrate with other ISR and ASW assets. In 2022, Boeing officially announced it would offer the P-8A in the Canadian Multi-Mission Aircraft project with CAE, GE Aviation Canada, IMP Aerospace & Defence, KF Aerospace, Honeywell Aerospace Canada and Raytheon Canada. In March 2023, Canada announced the submission of a Letter of Request via the U.S. government's Foreign Military Sales program on the acquisition of up to 16 P-8As. On 27 June 2023, the State Department approved a possible $5.9 billion sale of up to 16 P-8As and associated equipment, pending approval by Congress.
+On 30 November 2023, Defence Minister Bill Blair announced that Canada would purchase up to 16 P-8As for CA$10.4 billion (US$7.7 billion). The cost breakdown includes CA$8 billion for the aircraft and related equipment while another CA$2.4 billion is for simulators, infrastructure and weapons. Delivery of the type is expected between 2026 and 2027, with full operational capability anticipated by 2033. The fleet is to be based in Nova Scotia at 14 Wing Greenwood, and in British Columbia at 19 Wing Comox.
+
+
+=== Singapore ===
+On 3 March 2025, Singapore's Defence Minister Ng Eng Hen announced that replacement for its Fokker 50 Maritime Patrol Aircraft is to be announced soon, with the Boeing P-8A and Airbus C295 under consideration. The decision to order the P-8 was confirmed in September 2025 after a meeting between Singapore's Defence Minister Chan Chun Sing and U.S. Secretary of Defense Pete Hegseth.
+
+
+=== Potential operators ===
+
+
+==== Brazil ====
+On 23 September 2022, Boeing's Latin America director, Tim Flood, presented the capabilities of the P-8 to the Brazilian Air Force commander, General Carlos de Almeida Baptista Júnior. According to Baptista Júnior, "the discussions have a great importance to prospect the future of FAB's maritime patrol aviation", as part of a plan to replace its P-3AMs currently in service.
+
+
+==== Denmark ====
+According to a leaked defence list in the Danish newspaper Altinget in 2023, Denmark is considering acquiring P-8s in the near future. In June 2025, Denmark signed a cooperation agreement with Norway to lease Norwegian P-8 aircraft to meet immediate maritime patrol needs.
+On 15 September 2025, the Danish Minister of Defence Troels Lund Poulsen announced in a TV2 interview, that the government wishes to buy "a number" of P-8s worth at least DKK 10,000,000,000. On 29 December 2025, Denmark has received approval to buy three P-8 aircraft and related equipment in a deal worth $1.8 billion.
+
+
+==== Italy ====
+Italy indicated interest in purchasing P-8s, with fleet support provided by Alitalia, in 2004. However, in December 2008, Italy announced the purchase of four ATR 72 aircraft to replace its aging Atlantic maritime patrol fleet, possibly as a temporary solution because Italy remained interested in the P-8.
+
+
+==== NATO ====
+In April 2019, Boeing was reported to be in exploratory talks with various NATO allies to offer the P-8 as a NATO-shared interim solution to provide European allies with its capabilities until domestic capabilities could be secured.
+
+
+==== Saudi Arabia ====
+In 2017, Boeing announced it had signed several agreements with Saudi Arabia, which intends to order the P-8. The International Institute for Strategic Studies reported in 2019 that a Saudi order for the type was still pending.
+
+
+==== Turkey ====
+In 2016, Turkey indicated that it planned to acquire a new MMA aircraft to supplement existing assets, the P-8A being the main candidate based on the required performance.
+
+
+=== Failed bids ===
+
+
+==== Malaysia ====
+In December 2017, the Royal Malaysian Air Force had shortlisted four aircraft types to replace its aging fleet of Beechcraft Super King Air used as maritime patrol aircraft; the Airbus C-295, the P-8, ATR 72 MP, and the CASA/IPTN CN-235. In May 2023, Malaysia selected the ATR-72MP as its replacement aircraft.
+
+
+== Variants ==
+P-8A Poseidon
+Production variant developed for the United States Navy.
+P-8I Neptune
+Export variant for the Indian Navy with a CAE Inc AN/ASQ-508A Magnetic Anomaly Detector and a Griffon Corporation Telephonics APS-143C(V)3 multi-mode aft radar added, and a version of the Raytheon APY-10 multi-mission surface search radar that meets export requirements. These aircraft also incorporate Bharat Electronics Limited (BEL) Data Link II communications, which allows the P-8I to exchange tactical data between Indian Navy aircraft, ships and shore establishments; it also features an integrated BEL-developed IFF system.
+Poseidon MRA1
+Royal Air Force designation for the P-8A.
+P-8 AGS
+An airborne ground surveillance variant proposed to the USAF in 2010 as replacement to the E-8 Joint STARS fleet; equipped with a pod-mounted, AESA radar.
+
+
+== Operators ==
+
+ Australia
+Royal Australian Air Force – 13 P-8As delivered as of December 2025, with 1 more on order.
+RAAF Base Edinburgh, South Australia
+No. 11 Squadron
+No. 12 Squadron
+No. 292 Squadron (Operational Conversion Unit)
+ Canada
+Royal Canadian Air Force – 14 P-8As on order with an option for 2 more, with deliveries between 2026 and 2027. These are to be based in 14 Wing Greenwood and 19 Wing Comox.
+ Germany
+German Navy – 8 P-8As on order, with deliveries beginning in 2025. 1 delivered in November 2025. 5 initially ordered in 2021 with 3 more ordered in October 2023. These are to be assigned to Naval Air Wing 3 (MFG 3) "Graf Zeppelin" at Nordholz Naval Airbase.
+ India
+
+Indian Navy – 12 P-8Is operational 6 more granted Acceptance of Necessity by the Ministry of Defence.
+INS Rajali, Tamil Nadu
+INAS 312-A
+INS Hansa, Goa
+INAS 316
+ New Zealand
+Royal New Zealand Air Force – 4 P-8As operational
+RNZAF Base Ohakea
+No. 5 Squadron
+ Norway
+Royal Norwegian Air Force – 5 P-8As operational
+Evenes Air Station
+333 Squadron
+ Singapore
+Republic of Singapore Air Force – 4 P-8As on order
+ South Korea
+Republic of Korea Navy – 6 P-8As operational
+Pohang Naval Air Station
+617 Squadron
+ United Kingdom
+Royal Air Force – 9 Poseidon MRA1s operational
+RAF Lossiemouth, Moray, Scotland
+No. 42 (Torpedo Bomber) Squadron (OCU)
+No. 54 Squadron (OCU) (2020–2023)
+No. 120 Squadron
+No. 201 Squadron
+ United States
+United States Navy – 136 delivered, with 3 aircraft on order as of October 2025.
+Dallas Love Field, Texas
+BUPERS SDC Dallas
+Naval Air Station Jacksonville, Florida
+VP-5
+VP-8
+VP-10
+VP-16
+VP-26
+VP-30 (Fleet Replacement Squadron)
+VP-45
+VP-62 (Naval Air Reserve)
+Naval Air Station Patuxent River, Maryland
+VX-1
+VX-20
+Naval Air Station Whidbey Island, Washington
+VP-1
+VP-4
+VP-9
+VP-40
+VP-46
+VP-47
+VP-69 (Naval Air Reserve)
+
+
+== Specifications (P-8A) ==
+
+Data from United States Navy, Boeing, and othersGeneral characteristics
+Crew: Flight crew: 2; Mission crew: 7
+Capacity: 19,800 lb (9,000 kg)
+Length: 129 ft 5 in (39.47 m)
+Wingspan: 123 ft 6 in (37.64 m)
+Height: 42 ft 1 in (12.83 m)
+Empty weight: 138,300 lb (62,730 kg)
+Max takeoff weight: 189,200 lb (85,820 kg)
+Powerplant: 2 × CFM56-7B27A turbofans, 27,300 lbf (121 kN) thrust each
+Performance
+
+Maximum speed: 564 mph (907 km/h, 490 kn)
+Cruise speed: 509 mph (815 km/h, 440 kn)
+Combat range: 1,383 mi (2,225 km, 1,200 nmi) radius with 4 hours on station for anti-submarine warfare mission
+Ferry range: 5,200 mi (8,300 km, 4,500 nmi)
+Service ceiling: 41,000 ft (12,500 m)
+Armament
+
+Hardpoints: 11 total
+Internal bay with 5 hardpoints and 6 external hardpoints for a variety of conventional weapons, e.g. AGM-84 Harpoon, AGM-84H/K SLAM-ER, AGM-88G AARGM-ER, AGM-158C LRASM, Mark 54 torpedo, Sting Ray torpedo, naval mines, depth charges, and the High Altitude Anti-Submarine Warfare Weapon Capability (HAAWC) system
+Avionics
+
+Raytheon AN/APY-10 multi-mission surface search radar
+AN/ALQ-240 Electronic Support Measures Suite
+AN/APS-154 Advanced Airborne Sensor
+
+
+== See also ==
+
+Related development
+
+Boeing C-40 Clipper
+Boeing E-7 Wedgetail
+Aircraft of comparable role, configuration, and era
+
+Airbus A319 MPA
+BAE Systems Nimrod MRA4
+Kawasaki P-1
+Shaanxi KQ-200
+
+Related lists
+
+List of active United States military aircraft
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Bibliography ===
+
+
+== External links ==
+
+Official website 
+U.S. Navy P-8A Poseidon webpage
+P-8 NAVAIR page and P-8 fact file on Navy.mil Archived 11 July 2007 at the Wayback Machine
+P-8A Poseidon – Australian International Airshow 2009
+Boeing P-8A Poseidon Maritime Patrol Aircraft (MPA) Multi-mission Maritime Aircraft (MMA) on navyrecognition.com Archived 6 September 2015 at the Wayback Machine
+Dominic Gates (2 May 2018). "Boeing's P-8 is the 737 with missiles, sonar and a specialty in hunting submarines". The Seattle Times.

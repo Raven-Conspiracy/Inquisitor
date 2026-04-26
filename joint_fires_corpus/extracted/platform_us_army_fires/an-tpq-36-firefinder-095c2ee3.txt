@@ -1,0 +1,63 @@
+AN/TPQ-36 Firefinder weapon locating system is a transportable radar developed in the mid-late 1970s by Hughes Aircraft Company, manufactured by Northrop Grumman and ThalesRaytheonSystems. After testing the system achieved initial operational capability (IOC) in May 1982. The Pathfinder is a "weapon-locating radar", designed to detect and track incoming mortar, artillery and rocket fire determining the point of origin for counter-battery fire. It is currently in service at battalion and higher levels in the United States Army, United States Marine Corps, Australian Army, Portuguese Army, Turkish Army, and the Armed Forces of Ukraine. It is typically trailer-mounted and towed.
+In accordance with the Joint Electronics Type Designation System (JETDS), the "AN/TPQ-36" designation represents the 36th design of an Army-Navy electronic device for ground transportable special combination radar system. The JETDS system also now is used to name all Department of Defense electronic systems.
+
+
+== History ==
+Engineering development of the TPQ-36 began October 1973. Although full scale production was approved in December 1977, the system did not achieve full scale production until August 1978. Low rate initial production (LRIP) began in December 1976 ending in February 1981. Total crew size required for missions and operational requirements for extended periods was initially estimated at 8 personnel.
+The AN/TPQ-36(V)7 upgrade to the Firefinder added a Modular Azimuth Position System (MAPS). MAPS has a north seeking laser gyrocompass and a microprocessor controlled Honeywell H-726 inertial navigation system. Prior Firefinder systems used a survey team to find site latitude, longitude, and direction to North. With MAPS, reaction time was limited only by the time taken to set up the site, since system geo-position was pre-loaded before sortie deployment. Crew size was reduced from 8 to 6.
+Firefinder (V)8 extended system performance, improved operator survivability and lowered life cycle cost. Greater processing power and the addition of a low noise amplifier to the radar antenna improved detection range by up to 50% and performance accuracy against certain threats.
+
+
+== Operations/maintainers/specifications ==
+
+The AN/TPQ-36 is a passive electronically scanned array (PESA) electronically steered radar, meaning the radar antenna does not actually move while in operation. The radar antenna may however be moved manually if required. The system may also be operated in a friendly fire mode to determine the accuracy of counterbattery return fire, or for conducting radar registration or mean point of impact calibrations for friendly artillery.
+It can simultaneously locate up to 10 weapons including mortars, artillery, and rocket launchers, on first round and perform high-burst, datum-plane, and impact registrations. It can be used to adjust friendly fire, interfaces with tactical fire and predicts the impact of hostile projectiles.
+Its maximum range is 15 miles (24 km)  with an effective range of 11 miles (18 km) for artillery and 15 miles (24 km) for rockets. Its azimuth sector is 90°. It operates in the X-band at 32 frequencies. Peak transmitted power is 23 kW, min.
+It features permanent storage for 99 targets, has a field exercise mode and uses a digital data interface.
+
+
+== Manufacturers ==
+Northrop Grumman manufactures the AN/TPQ-36(V)8 Firefinder radar. Before its acquisition by Raytheon, the Hughes Aircraft Co. developed the TPQ-36 Firefinder radar at its facility at Fullerton, California, and manufactured it at its plant in Forest, Mississippi.
+
+
+== Users ==
+ Australia: Used by Australian Defence Force
+ Chile: Used by Chilean Army
+ Netherlands: Used by Royal Netherlands Army
+ Portugal: Used by Portuguese Army (5th Artillery Regiment)
+ Pakistan: Used by Pakistan Army.
+ Spain: Used by Spanish Army
+ Sri Lanka: Used by Sri Lankan Army
+ Turkey: Used by Turkish Land Forces
+ Ukraine:
+Two units delivered by US Army in 2015.
+Five units delivered by the Netherlands Ministry of Defence in March 2022, during the 2022 Russian invasion of Ukraine.
+Ten units delivered by US Army on April 13, 2022, three more deliveries on May 19, during the 2022 Russian invasion of Ukraine.
+ United States: Used by United States Army, United States Marine Corps
+
+
+== See also ==
+
+Gun data computer
+AN/MPQ-64 – X-band PESA short-range air defense radarPages displaying short descriptions of redirect targets
+ARTHUR (military) – Counter-battery radar systemPages displaying short descriptions of redirect targets
+Red Color – Early warning radar system of the Israel Defense Forces
+SLC-2 Radar – Chinese weapon identification radar
+Swathi Weapon Locating Radar – Counter-battery radar
+List of radars
+List of military electronics of the United States
+
+
+== References ==
+
+
+== Bibliography ==
+O'Connor, F. E.; Kairall, R. L.; Birdseye, E. H. (January 1984), US Army Firefinder Radars: A Case Study of Manpower, Personnel and Training Requirements Determination (PDF), US Army Research Institute for the Behavioral and Social Sciences, retrieved 26 May 2025
+
+
+== External links ==
+Product Description for AN/TPQ-36 from ThalesRaytheonSystems
+TPQ-36 Radar Data Sheet from ThalesRaytheonSystems
+Fact sheet for the AN/TPQ-36 from Raytheon
+ROCS new upgrades for TPQ-36/37 Archived 19 August 2017 at the Wayback Machine from BES Systems
+Fact file for the AN/TPQ-36 from GlobalSecurity.org

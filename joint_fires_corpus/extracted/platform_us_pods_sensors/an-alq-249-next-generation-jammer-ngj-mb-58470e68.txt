@@ -1,0 +1,50 @@
+The Next Generation Jammer (NGJ) is a program to develop airborne electronic warfare systems as replacements for the AN/ALQ-99 found on the EA-18G Growler and EA-6B Prowler electronic attack aircraft. Requirements for the system were outlined by the US Navy in 2008 and development of the NGJ program began in 2010. The mid-band portion of the NGJ (NGJ-MB), designated AN/ALQ-249, reached Initial Operating Capability (IOC) in 2021. 
+In accordance with the Joint Electronics Type Designation System (JETDS), the "AN/ALQ-249" designation represents the 249th design of an Army-Navy airborne electronic device for special countermeasures equipment. The JETDS system also now is used to name all Department of Defense and some NATO electronic systems.
+
+
+== History ==
+US Air Force EF-111A Raven, US Navy EA-18G Growler, US Marine Corps and EA-6B Prowler aircraft, as well as aircraft of the Royal Australian Air Force, all carried the AN/ALQ-99. In the primary role of suppression of enemy air defenses (SEAD), this radar jamming and deception system provided modified escort jamming from outside the range of known surface to air missiles. Poor reliability of the ALQ-99, in use since 1972, and frequent failures of its Built In Test (BIT) often caused crews to fly missions with undetected faults. The ALQ-99 also interferes with the host aircraft's Active Electronically Scanned Array (AESA) radar, reduces the top speed of the aircraft due to drag and imposes a high workload on EA-18G 2-person crew.
+
+
+== Design ==
+In September 2008, the U.S. Navy outlined the basic requirements of the NGJ and stated that the design must be modular and use open architecture. The program is expected to consist of three development phases, one each for low-band (NGJ-LB), mid-band (NGJ-MB) and high-band (NGJ-HB) coverage. The Navy selected four companies, BAE, ITT, Northrop Grumman and Raytheon in 2009 to submit designs for the Next Generation Jammer, each receiving a US$6 million (equivalent to about US$8.1 million in 2024) concept development contract. The NGJ will have cyber attack capabilities using the AESA radar to insert tailored data streams into remote systems. 
+By 2010, the Office of Naval Research (ONR) started a Next-Generation Airborne Electronic Attack (NGAEA) project (ONR Project Code 31) developing technologies for the NGJ. NGAEA had four primary tasks: (1) improving antenna array technologies, (2) improving RF power amplifier technologies to cover wide RF bandwidths, (3) improving beam steering technologies, (4) improving  exciter technologies providing ultra-wideband direct digital synthesis. That same year, the U.S. Navy awarded prototype development contracts to the same four companies, BAE, ITT, Northrop Grumman and Raytheon totaling US$168 million (about US$242 million in 2024). At the time, the Navy was expected to invest over $4 billion into development of the NGJ project.
+In August 2012, Lockheed Martin said the company's Joint Strike Fighter would be able to carry the NGJ. However, on August 23, 2012, Marine Corps Commandant General James F. Amos, said the Marine Corps had no plans to pursue an electronic warfare variant of the F-35B Joint Strike Fighter. He explained saying, the AN/APG-81 AESA radar on the F-35 "already sets the fifth generation fighter apart as an electronic warfare platform". The system was expected to be fielded on the Growler by 2020 with further expectations the EA-18G would remain in-service well into the 2030s, but subsequent budget cuts pushed IOC to 2022 for the Mid Band pod.
+On July 8, 2013, Naval Air Systems Command (NAVAIR) announced that the US$279.4 million (about US$377 million in 2024) cost-plus-incentive-fee contract for a 22-month Technical Development (TD) phase had been awarded to Raytheon. However, on 26 July 2013, the Navy issued Raytheon a stop-work order following a formal protest of the contract by BAE. By November 2013, a Government Accountability Office investigation upheld the protest claiming they found that the Navy used improper procedures to select Raytheon. The Navy further examined the issue, making some corrections recommended by the GAO, and announced on January 24th Raytheon would continue as prime contractor.
+After a successful System Readiness Review in June 2014, Raytheon expected to move forward with flight testing in September 2014 and reach an IOC in late 2020. The test was flown in November 2014. The NGJ-MB pod operates independently of other aircraft systems, automatically responding to identified threats. One unique aspect of the NGJ is that its AESA array combines EW, communications, radar, and signals intelligence (SIGINT). AESA technology is known to perform EW and radar, but handling SIGINT and serving as a communications array are new capabilities. Other than dedicated EW aircraft, the pods can be installed on other platforms like the UCLASS with little modification.
+In a 2017 memorandum of understanding (MOU), the Royal Australian Air Force contributed A$250 million (about A$286 million in 2022) towards the NGJ-MB program, AN/ALQ-249, and is directly participating in its development. The first flight test of the NGJ-MB version of the pod took place in August 2020 aboard an EA-18G out of Naval Air Station Patuxent River, Maryland. This flight was intended to prove that the pod could be safely flown aboard the EA-18G. Initial Operating Capability is on the MB pod in FY 2022, with a Capability Block 1 contract awarded in the fall of 2020. The mid-band and then the low-band pods will supplement the legacy jamming system on the Growlers until the high-band, the last of the three increments, is fielded and the legacy system can be safely retired.
+In October 2018, the Navy awarded contracts to L3Harris and Northrop Grumman of more than US$35 million each for development of the NGJ low-band (NGJ-LB) pod.
+ L3Harris was selected in December 2020 as prime contractor, was awarded an additional US$496 million contract to deliver four prototype NGJ-LB test pods and eight operational pods. However, the GAO discovered a problem that led to a contract recompete due to the appearance of conflict of interest. After nearly four years, in August 2024, the NGJ-LB contract was again awarded to L3Harris.
+As of September 2024, funding and development timelines of the NGJ-HB (high-band) were still unknown.
+In December, 2024, Raytheon was awarded a US$590 million follow-on production contract from the US Navy for the NGJ-MB system, and in that same month, the US Navy declared Initial Operating Capability for the system. Then, in May 2025, Raytheon was awarded another US$580 million to deliver Lot V shipsets of the NGJ-MB.
+
+
+== Characteristics ==
+L3Harris and Northrop Grumman are developing the NGJ low-band (NGJ-LB) expected to operate from 0.1–2 GHz (299.79–14.99 cm) and high-band (NGJ-HB) expected to operate from 6–18 GHz (5.00–1.67 cm) complementing the NGJ-MB which reportedly operates from 2–6 GHz (14.99–5.00 cm). By comparison, the AN/ALQ-99 being replaced by the NGJ operated from 0.064–20 GHz (468.43–1.50 cm).
+
+
+== Deployment ==
+The AN/ALQ-249(V)1 Next Generation Jammer Mid-Band deployed for the first time in combat sometime in 2024 with Electronic Attack Squadron 133 (VAQ-133), assigned to the USS Abraham Lincoln Carrier Strike Group (CSG), against Iran-backed Houthis in Yemen.
+The Royal Australian Air Force displayed an EA-18G Growler aircraft fitted with two AN/ALQ-249(V)1 Next Generation Jammer Mid-Band pods in December 2025.
+
+
+== See also ==
+Civil Aircraft Missile Protection System
+Electronic countermeasures
+List of military electronics of the United States
+
+
+=== Related ECMs ===
+AN/ALQ-144
+AN/ALQ-99
+Sky Shield
+
+
+== References ==
+
+
+== External links ==
+GlobalSecurity.org - AN/ALQ-249(V)3 Next Generation Jammer High Band
+Northrop Grumman - Next Generation Jammer (Archived)
+Raytheon - Next Generation Jammer (Archived)
+ITT Exelis - Next Generation Jammer (Archived)

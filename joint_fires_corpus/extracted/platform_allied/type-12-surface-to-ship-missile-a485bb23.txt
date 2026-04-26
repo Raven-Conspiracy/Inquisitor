@@ -1,0 +1,30 @@
+The Type 12 surface-to-ship missile (12式地対艦誘導弾) is a truck-mounted anti-ship missile developed by Japan's Mitsubishi Heavy Industries in 2012. It is an upgrade of the Type 88 surface-to-ship missile. The Type 12 features INS with mid-course GPS guidance and better precision due to enhanced Terrain Contour Matching and target discrimination capabilities.  The weapon is networked, where initial and mid-course targeting can be provided by other platforms, and has shorter reload times, reduced lifecycle costs, and a range of 124 mi (108 nmi; 200 km).
+The missile shares the same Ka-band Active Electronic Scanned Array (AESA) radar seeker with Japanese BVRAAM missile, AAM-4B.
+
+
+== Type 17 ship-to-ship missile, Type 12 Kai and Type 23 air-to-ship missile ==
+The ship-launched derivative of Type 12, designated as Type 17 ship-to-ship missile (SSM-2) has been put into service and it is to start deploying from Maya-class destroyer. The range has doubled to 400 kilometers and is also planning to re-apply for the improved version of the surface-to-ship system (Type 12 Kai) and the air-launched variant for the P-1 patrol aircraft. Procurement of the air-launched variant of the missile will begin in FY2025 as the Type 23 air-to-ship missile.
+
+
+== Type 25 surface-to-ship missile ==
+
+In December 2020, the MoD approved the development of an improved version of the Type 12 SSM by the Cabinet. According to Japanese newspapers, the range will be extended from 200 km to 900 km, with a future target of 1,500 km. It will have a stealthy shape to reduce Radar Cross Section (RCS), and high mobility to prevent interception from the enemy.
+It can attack naval vessels and ground targets. The MoD intends to launch the improved Type 12 SSM from surface launchers, naval vessels and aircraft. Development of the improved Type 12 ground-launched anti-ship missile is expected to finish by fiscal year 2025.
+The Ministry of Defense has accelerated its schedule from the original plan, with mass production of the ground-launched variants to begin in FY2023 and deployment to begin in FY2025, and mass production of the naval vessel-launched variants to begin in FY2025.
+On 31 March 2026, the Ministry of Defense announced that the ground-launched system had been designated the Type 25 Surface-to-Ship Missile and had been deployed at Kengun Base. Its range is reported to be approximately 1,000 kilometers. The ship-launched and air-launched variants are scheduled to be designated and deployed in fiscal year 2027.
+
+
+== Orders ==
+
+
+== See also ==
+Anti-ship missile
+Type 03 Chū-SAM
+Type 80 air-to-ship missile
+Type 88 surface-to-ship missile
+Type 90 ship-to-ship missile
+Type 93 air-to-ship missile
+ASM-3
+
+
+== References ==

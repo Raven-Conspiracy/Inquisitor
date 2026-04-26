@@ -1,0 +1,877 @@
+JFQ 103, 4th Quarter 2021
+Understanding 
+the Vulnerabilities 
+in China’s New 
+Joint Force
+By David Bickers
+O
+ver the past 5 years, China has 
+undertaken radical reform of 
+the People’s Liberation Army 
+(PLA). This modification is sweeping 
+in its scope (encompassing changes 
+to strategy, force structure, and 
+technology) and clear in its purpose 
+to create, in the words of Xi Jinping, a 
+joint force that can “fight and win.”1 If 
+this reform succeeds, China’s regional 
+neighbors and the United States could 
+find that the People’s Republic, whose 
+leadership is already demonstrating 
+an increased assertiveness, will be 
+emboldened further still. Successful 
+reform is not assured—indeed, many 
+of China’s previous attempts at military 
+transformation have failed—but Xi 
+does wield near-unprecedented power 
+to force change. It is therefore prudent 
+to assume this reform will succeed and 
+understand both its consequences and 
+how best to respond.
+This article analyzes PLA reforms 
+and identifies vulnerabilities in China’s 
+new joint force. The first section analyzes 
+the changes to the Central Military 
+Commission (CMC), the highest level 
+of the PLA, set in the context of China’s 
+model of national decisionmaking and 
+civil-military relations. The second 
+section considers the restructuring of 
+the PLA, focusing particularly on its new 
+Colonel David Bickers is a Defence Policy Advisor 
+in the Cabinet Office at the United Kingdom 
+Ministry of Defence. The views expressed in the 
+article are those of the author and do not reflect 
+those of the UK Ministry of Defence.
+Chinese President Xi Jinping meets 
+with delegates to First Party Congress 
+of People’s Liberation Army Joint 
+Logistic Support Force in Wuhan, Hubei 
+Province, October 18, 2019 (Xinhua/
+Alamy Live News/Li Gang)
+
+JFQ 103, 4th Quarter 2021 
+Bickers 79
+Strategic Support Force (SSF) and revised 
+theater-level organization. The third 
+section explores the measures that could 
+disrupt and defeat this new joint force via 
+targeting the vulnerabilities identified in 
+sections one and two.
+The article anticipates that four 
+key vulnerabilities will exist within 
+the reformed PLA. First, the joint 
+force will embrace a model of highly 
+centralized decisionmaking, which 
+could prove ill-suited to the demands 
+of major combat operations. Second, 
+the reformed PLA force will struggle to 
+integrate multidomain operations at the 
+joint theater level. Third, the reformed 
+PLA will lack the capabilities to project, 
+sustain, or command its forces across 
+the spread of China’s global interests. 
+And last, the PLA is currently hindered 
+by a lack of meaningful operational 
+experience.
+CMC Reform and the Nature 
+of Decisionmaking in China
+Xi demonstrates a highly centralized 
+style of decisionmaking, even by 
+Chinese authoritarian standards. 
+During routine national management, 
+a mix of negotiation, bargaining, and 
+consensus-building were traditionally 
+required to fully mobilize the Chinese 
+polity. But in times of crisis, this 
+fragmented and somewhat lethargic 
+system would typically transform into 
+a more centralized, autocratic system 
+demonstrating greater ideological 
+decisionmaking, a pronounced 
+monopoly of decisionmaking by senior 
+party leaders, and a severe constraining 
+of any latitude previously granted to 
+subordinates.2 Such a style of crisis 
+command was observed in China’s 
+response to severe acute respiratory 
+syndrome in 2003, the Sichuan 
+province earthquake in 2008, and, most 
+recently, the coronavirus pandemic. 
+The typical characteristics of crisis 
+command are strict prioritization by 
+the highest echelons of the Chinese 
+Communist Party (CCP), mobilization 
+of state media, and significant pressure 
+placed on lower levels of the party for 
+successful implementation. In the Xi 
+era, however, even routine national 
+management has taken on these crisis 
+command characteristics. As CCP 
+general secretary, Xi has amassed 
+an unusually high concentration of 
+decisionmaking authority across a broad 
+range of policy areas. The result is that 
+the machinery of state government has 
+become inured to almost a decade of 
+highly centralized command.
+The relationship between the PLA 
+and the CCP is a close one. Under 
+China’s National Defense Law, the 
+PLA’s loyalty is to the CCP rather 
+than to China’s constitution or central 
+government. PLA officers are invariably 
+party members, and a cadre of uniformed 
+commissars exists to defend the CCP’s 
+interests. While not directly responsible 
+for internal security, the PLA has taken 
+on such roles when crises arise. Both 
+the Cultural Revolution and Tiananmen 
+Square protests, for instance, required 
+PLA intervention to restore party 
+control. The PLA prefers not to perform 
+such tasks (due to potential reputational 
+damage) but ultimately remains the 
+CCP’s last line of defense against 
+instability and chaos.
+Despite this closeness, the CCP-PLA 
+relationship is more one of shared inter-
+ests than of symbiosis. Over time, clearer 
+institutional boundaries have led to 
+functional differentiation and bifurcation 
+of civilian and military elites.3 Indeed, a 
+former CMC vice chairman, speaking in 
+2013, warned that the PLA must “reso-
+lutely refute and reject the erroneous 
+political viewpoints of disassociating the 
+military from the party, depoliticizing 
+the armed forces, and putting the armed 
+forces under the state.”4
+Against this backdrop, Xi’s reform 
+of the CMC has sought to strengthen 
+political control of the PLA beyond the 
+already high levels typically seen in a 
+Leninist military. An integrated party and 
+state institution, the CMC sets defense 
+policy and provides the highest level of 
+military command in peace and war. As 
+chairman, Xi reduced the CMC from 11 
+to 7 members, removing service chiefs, 
+reorganizing its general departments, 
+and delegating some functions to a 
+new Joint Staff Department.5 Released 
+of the responsibility to act as an army 
+headquarters (the army becomes a 
+ground force component on par with the 
+air force and navy), the CMC can focus 
+on Xi’s priority of building a joint force 
+and supervising both military readiness 
+and operations. Not all CCP general 
+secretaries have exerted such absolute 
+control over the CMC. Indeed, the 
+CMC has previously seen the chairman 
+role divorced from that of CCP general 
+secretary (for 2 years during the Hu 
+Jintao era) or authority delegated to 
+its uniformed CMC vice chairmen.6 
+Xi, however, leads through a “CMC 
+chairman responsibility system” in which 
+even day-to-day defense matters elevate 
+to him as CMC chairman.7
+Overall, the nature of CCP deci-
+sionmaking and its relationship to the 
+PLA represent vulnerabilities. First, this 
+centralized system could fail under the 
+highest levels of strategic complexity. 
+Most management theory would argue 
+that decentralized decisionmaking best 
+suits complexity, but Xi’s normalization 
+of centralized decisionmaking is depriving 
+his machinery of government experience 
+with decentralization and delegation. 
+Natural and health disasters have revealed 
+weaknesses within his regime, and war 
+could do the same. Any conflict with 
+China should seek to maximize the num-
+ber and variety of strategic challenges it 
+faces to disrupt the CCP’s efficient man-
+agement of war. Enacting measures that 
+promote internal disorder and force the 
+PLA to focus attention and resources on 
+internal security would be one approach. 
+Second, the complicated relationship 
+between the CCP and the PLA could be 
+targeted. The two should be treated as 
+separate entities; careful targeting (exacer-
+bating what Joel Wuthnow describes as a 
+latent distrust between Xi and his military 
+advisors) may help divide the CCP and 
+the PLA and diminish the overall unity of 
+Chinese command.8
+Theater Level: Structural and 
+Operational Weaknesses
+The PLA has made significant changes 
+to its force structure. The army is 
+the main loser, being relegated to a 
+national-level ground force on a par 
+with the navy and air force rather
+
+Formation of People’s Liberation Army Rocket 
+Force takes part in grand military parade 
+celebrating 70th anniversary of founding of 
+People’s Republic of China in Beijing, October 1, 
+2019 (Xinhua/Alamy Live News/Xing Guangli)
+
+82 Features / Understanding China’s New Joint Force 
+JFQ 103, 4th Quarter 2021
+than being administered directly by 
+general departments of the CMC. Also 
+elevated to the status of a service is the 
+Second Artillery Force (renamed the 
+PLA Rocket Force), which remains 
+responsible for China’s land-based 
+nuclear and conventional missiles. The 
+final element of structural change is 
+the creation of a new Strategic Support 
+Force, which assumes responsibility 
+for the information domain (which 
+in Chinese conception encompasses 
+cyber; electronic warfare; intelligence, 
+surveillance, and reconnaissance [ISR]; 
+and space).
+The SSF offers important insights 
+into how China expects to conduct 
+future warfare. Observing the U.S. 
+military’s prosecution of the first Gulf 
+War, the PLA pinpointed the critical 
+importance of information technology 
+and its integration into a joint force.9 
+This concept took root in China’s 2014 
+military strategy as “informationized 
+local wars,” with a 2015 white paper then 
+elevating information to a “leading role” 
+rather than just an “important condition” 
+of warfare.10 Under this concept, the PLA 
+expects to conduct operations principally 
+in the maritime and air domains but with 
+actions also in cyberspace, outer space, 
+and across the electromagnetic spectrum. 
+This conceptual development and its 
+strategic articulation were precursors 
+to and justification for the subsequent 
+radical structural change. The ability 
+to integrate information technology 
+into its operations should be the West’s 
+measure of success for the PLA joint 
+force; the SSF plays a critical role in this 
+integration, and its development will be 
+the leading indicator of China’s ability to 
+turn a vision of information warfare into 
+a reality.
+The SSF delivers this role by 
+collocating capabilities previously 
+distributed across various parts of 
+the PLA, including the General Staff 
+Department. It has grouped cyber 
+espionage and technical reconnaissance 
+from the Third Department, cyber 
+targeting and attack from the Fourth 
+Department, and information system 
+defense from the Informatization 
+Department. This combination allows 
+the SSF to undertake a span of cyber 
+operations that the Chinese term 
+integrated reconnaissance, attack, 
+and defense. The SSF is the lynchpin 
+in enabling Chinese antiaccess/area 
+denial. Although many ground-based 
+conventional strike assets fall under 
+the PLA Rocket Force, all intelligence, 
+surveillance, target acquisition, and 
+missile guidance rely on the SSF. The SSF 
+also supports PLA power projection in 
+the East and South China seas, with all 
+space-based surveillance, satellite relay 
+and communications, telemetry, tracking, 
+F/A-18E Super Hornet assigned to “Tomcatters” of Strike Fighter Squadron (VFA) 31 takes off from flight deck of USS Theodore Roosevelt, South China Sea, 
+February 14, 2021 (U.S. Navy/Dylan Lavin)
+
+JFQ 103, 4th Quarter 2021 
+Bickers 83
+and navigation required for maritime and 
+strategic air deployments controlled by 
+the SSF.11
+Another key objective of Xi’s reforms 
+is to transform the PLA into a fully joint 
+force. A Chinese joint force sees the 
+army’s domination of the PLA reduced 
+by placing it on a par with the navy and 
+air force. A joint operational command 
+system is established at two levels: a Joint 
+Staff Department (JSD) reporting to 
+the CMC, and a theater level formed 
+through the reorganization of seven 
+administrative military regions into 
+five joint theater commands. Whereas 
+previously command authority remained 
+vested in each service, it now rests with 
+these theater commands, with services 
+maintaining responsibility only for 
+administrative tasks (such as equipment 
+and workforce issues).12 The PLA has 
+further signaled its intent to become a 
+more joint force by giving two of the five 
+theater commands to nonground force 
+officers.13
+The new joint theater command 
+system, in theory, will make China more 
+combat ready. Previous military regions 
+did not serve as wartime headquarters 
+(instead, the CMC would activate an ad 
+hoc theater command); however, the new 
+theater headquarters maintains command 
+across both peace and war, meaning 
+the transition from one to another 
+should prove relatively seamless.14 Each 
+theater also has set an assigned primary 
+mission (the Eastern Theater maintains 
+responsibility for Taiwan and the East 
+China Sea; the Southern Theater, the 
+South China Sea and borders with 
+Southeast Asian countries; the Western 
+Theater, borders with India and Central 
+Asian neighbors; the Northern Theater, 
+Korea; and the Central Theater, the 
+defense of Beijing).15 Theater commands 
+assume responsibility for aligning training 
+with potential combat operations.16 
+This means that intelligence collection 
+against Eastern and Southern theater 
+exercises could provide insights into PLA 
+operational contingencies against Taiwan 
+and in the East and South China seas.
+On paper, these reforms should 
+transform the PLA into a joint force, 
+increase its readiness for war, and 
+prioritize operations in space, cyber, 
+and electromagnetic domains; in 
+reality, the reform will face significant 
+impediments. The first is that classic 
+Chinese fragmented authoritarianism 
+could prove to frustrate reform. An 
+analysis of previous attempts to transform 
+China’s military strategy, however, 
+suggests that the two factors needed 
+to best ensure success—a significant 
+change in the character of conflict and a 
+united CCP—are in place (through the 
+heightened importance of information 
+technology and Xi’s centralized 
+command, respectively).17 The second is 
+the organizational frictions typical in any 
+large structural change. These tensions 
+could cause reform to take years to 
+deliver higher operational performance 
+(one commentator considers 2030 a 
+realistic target).18 It could also prove that 
+the PLA has a reduced appetite to engage 
+in offensive operations until reform is 
+complete and it has full confidence in its 
+new joint force.
+Even if these organizational 
+impediments are overcome, structural 
+vulnerabilities within the reformed 
+PLA will still exist. The first is the 
+army’s ability to conduct multidomain 
+operations at theater level. Theater 
+commands have been allocated only for 
+ground, naval, and air forces. Rocket 
+Force command and control remains 
+highly centralized, with the CMC 
+potentially directly handling those Rocket 
+Force brigades located within theaters.19 
+The SSF’s capabilities also report directly 
+to the CMC (most likely through 
+the JSD).20 The result is a significant 
+difference between the commands of the 
+traditional domains (land, marine, air), 
+nontraditional domains (space, cyber, 
+and the electromagnetic spectrum), and 
+missile forces (both conventional and 
+nuclear). These differences have the 
+potential to hinder the integration of 
+effects across all domains at the theater 
+level during both joint training and war. 
+The Eastern Theater commander, for 
+instance, in executing operations against 
+Taiwan, would plan and deliver land, 
+maritime, and air effects but would need 
+to coordinate effects in space, cyber, and 
+the electromagnetic spectrum with the 
+SSF, and coordinate missile operations 
+with the Rocket Force. This arrangement 
+may work for a relatively short operation, 
+but it is difficult to imagine that anything 
+but a more delegated and decentralized 
+command construct would bring the 
+PLA success in a sustained, high-intensity 
+campaign against a peer.
+The second structural vulnerability is 
+that the reformed PLA will remain unable 
+to project, sustain, or command forces 
+across the global spread of its national 
+interests. The number and geographic 
+range of these interests have increased 
+significantly since Xi launched the Belt 
+and Road Initiative in 2013. The PLA, 
+however, does not possess the power 
+projection capabilities needed to secure 
+these forces beyond East Asia, and the 
+PLA Navy, although deploying outside 
+Asia more often than it did before, is 
+incapable of protecting the sea lines of 
+communication across the One Belt One 
+Road infrastructure. It could take decades 
+for the PLA to grow offensive carrier 
+strike capability on a par with that of the 
+U.S. Navy.21
+Neither could the PLA sustain 
+overseas operations. In 2017, the PLA 
+established China’s first overseas military 
+base in Djibouti to support its maritime 
+operations in the Gulf of Aden.22 The 
+commander of the PLA General Logistic 
+Department has written in support of 
+creating further overseas footholds, but 
+there is no evidence of such efforts being 
+carried out.23 In addition, the PLA has 
+known deficiencies in its strategic airlift 
+capabilities, constraining its ability not 
+only to deploy forces out of area but 
+also to redeploy forces the long inter-
+nal distances between China’s theater 
+commands.24
+In terms of command of overseas 
+operations, the responsibilities of the 
+theater commands are limited to China’s 
+interior and near abroad, with command 
+of global operations retained by the CMC 
+through the JSD.25 This arrangement 
+would mean, for instance, that although 
+the Eastern Theater commander would 
+control maritime operations during war 
+with Taiwan, the JSD would command 
+the PLA Navy’s associated deep operations 
+in the Western Pacific.
+
+84 Features / Understanding China’s New Joint Force 
+JFQ 103, 4th Quarter 2021
+The similarity of Xi’s PLA reforms 
+with the command structure changes 
+enacted by the U.S. military under 
+the Goldwater Nichols Department of 
+Defense Reorganization Act of 1986 is 
+clear. It could be the case, however, that 
+the PLA is adopting a similar structure 
+just as the U.S. military is identifying the 
+shortcomings of its own system—par-
+ticularly its ability to integrate global 
+operations. The U.S. military global cam-
+paign and contingency plans coordinate 
+global responses across all geographic 
+and functional combatant commands 
+through a nominated global integrator 
+(typically one of the geographic combat-
+ant commanders). It has been suggested, 
+however, that the coordinating authori-
+ties granted to these global integrators 
+are insufficient to successfully execute 
+these plans.26 The U.S. military should 
+take all necessary steps to improve its 
+ability to integrate global operations; its 
+ability to hold China’s global liabilities 
+at risk via horizontal escalation of any re-
+gional conflict is a competitive advantage 
+it must maintain.
+The number of responsibilities 
+centralized and retained by the CMC 
+presents another vulnerability. The 
+post-reform command arrangements are 
+such that in war the CMC is responsible 
+for commanding and coordinating 
+across multiple theaters, retaining 
+direct command of the Rocket Force 
+(conventional and nuclear strike), 
+retaining direct command of SSF 
+capabilities, coordinating Rocket Force 
+and SSF actions with theater commands, 
+and commanding directly any overseas 
+operations beyond China’s near abroad. 
+The impact of not delegating more 
+responsibilities to theater commands 
+is that the CMC could find itself 
+significantly overmatched in a conflict 
+that escalates both vertically and 
+horizontally.
+The vulnerabilities of the reformed 
+PLA are further compounded by the 
+lack of any meaningful joint operational 
+experience. The PLA last fought a major 
+conflict in 1979, during which an inferior 
+Vietnamese military defeated a larger 
+Chinese force.27 One must look further 
+back to 1955 to see its first and last joint 
+operation (its attack and conquest of the 
+Yijiangshan Islands).28 The PLA has two 
+ways to build its experience base short of 
+actual combat. The first is through de-
+manding and realistic joint training. The 
+scale, complexity, and number of PLA 
+exercises have increased over the past 10 
+years. It is not clear, however, the extent 
+to which this growth represents meaning-
+ful joint training. An exercise in 2015, for 
+instance, saw components fighting one 
+another rather than alongside one an-
+other.29 Nonetheless, observation of the 
+scope of the PLA’s training could prove 
+a useful indicator of the army’s develop-
+ment as a joint force.
+Marine Corps UH-1Y Huey from 31st Marine Expeditionary Unit departs USS New Orleans flight deck in preparation for Maritime Raid Force training 
+evolution with USS America and USS Germantown, East China Sea, June 14, 2021 (U.S. Navy/Desmond Parks)
+
+JFQ 103, 4th Quarter 2021 
+Bickers 85
+The second way the PLA is seeking 
+to build experience is through a relatively 
+modest set of overseas operational 
+tasks (for example, disaster relief and 
+international peacekeeping). United 
+Nations deployments and China’s 
+establishment of a Military Operations 
+Other Than War Research Centre in 
+2011 testify to this effort, as do several 
+disaster relief training exercises conducted 
+with other countries (including the 
+United States).30 The U.S. military and 
+its allies should be cautious of passing 
+competence to the PLA, even in what 
+may appear to be benign areas; such 
+training may simply be its entry point for 
+developing a better joint force.
+Disrupting and Defeating 
+the PLA Joint Force
+The United States and other countries 
+troubled by the authoritarian nature 
+of China should be wary of a stronger 
+and more effective PLA. To defeat this 
+army in a future confrontation, the 
+U.S. military must consider that it is 
+currently in the shaping phase of that 
+altercation. A future defeat of the PLA 
+comes by taking measures now to better 
+understand and disrupt reforms—and 
+then targeting its vulnerabilities across 
+multiple points in its system.
+To better understand the PLA, 
+intelligence collection should observe 
+the nature of crisis decisionmaking at the 
+state level. Natural and human disasters 
+could offer insights as much as security 
+crises. Areas of divergence between the 
+CCP and PLA should be identified for 
+future exploitation. Better understanding 
+is required of the PLA force structure 
+evolution and, in particular, the 
+command relationships among the 
+JSD, theater commands, SSF, and PLA 
+Rocket Force. Finally, training exercises 
+should be monitored to track the PLA’s 
+expansion as a joint force and to spot 
+operational contingencies for Taiwan and 
+the China seas.
+There are several ways to disrupt PLA 
+reform. One is to prevent the army from 
+achieving its planned technological aims. 
+The development of advanced technology 
+is critically important to delivering PLA 
+reform. Xi has acknowledged this fact 
+by including at the core of his plan a 
+civil-military integration (CMI) strategy 
+to significantly increase civilian-military 
+synergy across technology development. 
+CMI seeks to merge previously separate 
+civilian and military research and 
+development initiatives for a more 
+synergistic effort, which would deliver 
+“leapfrog” development.31 This means 
+that military requirements are introduced 
+at the highest level of state planning.
+As an example, the Chinese Next-
+Generation AI Development Plan named 
+CMI as one of its “six main duties.”32 
+Dual-use technology already plays an 
+important role in army operations, such 
+as the Gaofen-4 satellite supporting 
+the PLA long-range precision strike 
+kill-chain.33 The SSF in particular needs 
+CMI to drive the Chinese commercial 
+sector to improve its military command, 
+control, communications, computers, 
+ISR systems; it has signed cooperation 
+agreements with nine research 
+institutions and created informal ties with 
+private enterprises as a result.34 The West 
+can expect the SSF to exploit emerging 
+technologies (artificial intelligence, 
+quantum computing, and space-based 
+ISR) for this purpose. Successful 
+development would allow the PLA to 
+extend the range and lethality of its kill-
+chain, potentially as far as the Second 
+Island Chain, thus allowing China to 
+further boost the assertiveness of its 
+foreign policy.
+Policymakers and private enterprise 
+across the West should understand 
+that the civilian and military sectors 
+in China are fused and that, when 
+dealing with Chinese private enterprise, 
+they are, in effect, dealing with the 
+PLA by proxy. Chinese investments in 
+Western technology firms dealing in 
+sensitive national security areas need 
+to be screened and restricted when 
+necessary. Those governments that lack 
+the legislation to carry out such actions 
+should write and pass it expeditiously.
+Forming and maintaining regional 
+allegiances and partnerships across 
+the Indo-Pacific region, together 
+with sharing antiaccess/area-denial 
+capabilities where appropriate, will 
+complicate Chinese escalation, reducing 
+China’s ability to mitigate the PLA’s 
+lack of combat experience through a 
+consequence-free operational rehearsal. 
+A combination of dynamic force 
+employment, troop rotations, forward 
+presence, and the expansion of access, 
+basing, and overflight agreements would 
+further this end. In addition, the U.S. 
+military should ensure that it does not 
+inadvertently assist in developing the 
+PLA’s joint force expertise, even via 
+seemingly benign matters such as disaster 
+relief or evacuation operations, lest such 
+learning is repurposed to more aggressive 
+ends.
+Once in a confrontation, the PLA, 
+with its highly centralized nature of 
+state decisionmaking, will struggle to 
+cope with a complex, sustained, and 
+high-tempo security crisis. The CMC 
+should be stressed to the breaking 
+point. Multiple diplomatic, economic, 
+and security crises, including domestic 
+insecurity, should therefore be provoked 
+to draw the PLA into internal policing. 
+Horizontal escalation, through 
+operations that threaten multiple points 
+around the Chinese periphery, will stress 
+the CMC’s ability to coordinate across 
+multiple theaters and the PLA’s logistical 
+deficiencies in redeploying forces between 
+them. Deep operations will strain the 
+PLA’s ability to both integrate global 
+operations and secure global interests, 
+forcing a yet greater decisionmaking 
+load on the CMC. Operations also 
+must maximize all-domain threats, 
+compounding this overload by exploiting 
+the CMC’s lack of delegation across 
+cyber, electronic warfare, and space 
+capabilities. Divisions in the CCP-PLA 
+relationship could also be exacerbated 
+through targeted information operations 
+to reduce Chinese unity of command. 
+All these effects could be compounded 
+by multiple precision strikes across 
+the Chinese system, prioritizing the 
+destruction of communication nodes 
+between the CMC and the joint force, 
+and SSF capability (representing as it does 
+a center of gravity for China’s concept of 
+operations).
+A successfully reformed PLA backed 
+by an increasingly powerful state will 
+be a potent fighting force, but like any
+
+86 Features / Understanding China’s New Joint Force 
+JFQ 103, 4th Quarter 2021
+fighting system, it will have weaknesses 
+that can lead to its defeat. In the case of 
+China’s new joint force, an incomplete 
+set of theater-level command delegations 
+and the high level of centralization that 
+remains with the CMC could constitute a 
+significant vulnerability. JFQ
+Notes
+1 Joel Wuthnow and Phillip C. Saunders, 
+“Introduction,” in Chairman Xi Remakes the 
+PLA, ed. Phillip C. Saunders et al. (Washing-
+ton, DC: NDU Press, 2019), 1.
+2 Sebastian Heilmann, ed., China’s Political 
+System (Lanham, MD: Rowman & Littlefield 
+Publishers, 2016), 158.
+3 Michael Kiselycznyk and Phillip C. 
+Saunders, Civil-Military Relations in China: 
+Assessing the PLA’s Role in Elite Politics, China 
+Strategic Perspectives, no. 2 (Washington, DC: 
+NDU Press, 2010), 1.
+4 Quoted in David M. Finkelstein, “Break-
+ing the Paradigm: Drivers Behind the PLA’s 
+Current Period of Reform,” in Saunders et al., 
+Chairman Xi Remakes the PLA, 50.
+5 Wuthnow and Saunders, “Introduction,” 11.
+6 Andrew Scobell, “China’s Evolving Civil-
+Military Relations: Creeping Guojiahua,” in 
+Chinese Civil Military Relations: The Transfor-
+mation of the People’s Liberation Army, ed. Nan 
+Li (New York: Routledge, 2006).
+7 Phillip C. Saunders and Joel Wuthnow, 
+“China’s Goldwater-Nichols? Assessing PLA 
+Organizational Reforms,” Joint Force Quarterly 
+82 (3rd Quarter 2016), 72.
+8 Joel Wuthnow, System Overload: Can 
+China’s Military Be Distracted in a War over 
+Taiwan? China Strategic Perspectives, No. 15 
+(Washington, DC: NDU Press, 2020), 27.
+9 Edmund J. Burke and Arthur Chan, 
+“Coming to a (New) Theater Near You: Com-
+mand, Control, and Forces,” in Saunders et al., 
+Chairman Xi Remakes the PLA, 229.
+10 M. Taylor Fravel, “Shifts in Warfare and 
+Party Unity: Explaining China’s Changes in 
+Military Strategy,” International Security 42, 
+no. 3 (2018), 80–81.
+11 John Costello and Joe McReynolds, 
+“China’s Strategic Support Force: A Force for 
+a New Era,” in Saunders et al., Chairman Xi 
+Remakes the PLA, 446–455.
+12 Heilmann, China’s Political System, 152.
+13 PLA Navy Vice Admiral Yuan Yubai to 
+the Southern Theater and PLA Air Force Lieu-
+tenant General Yi Xiaoguang to the Central 
+Theater. See Shane A. Smith, Thomas Hender-
+schedt, and Timothy D. Luedecking, “Reverse 
+Engineering Goldwater-Nichols: China’s Joint 
+Force Reforms,” Joint Force Quarterly 90 (3rd 
+Quarter 2018).
+14 Jeffrey Engstrom, “China Has Big Plans 
+to Win the Next War It Fights,” The National 
+Interest, February 9, 2018.
+15 Wuthnow and Saunders, “Introduction,” 
+8.
+16 Mark R. Cozad, “Toward a More Joint, 
+Combat-Ready PLA?” in Saunders et al., 
+Chairman Xi Remakes the PLA, 215.
+17 Fravel, “Shifts in Warfare,” 83.
+18 Burke and Chan, “Coming to a (New) 
+Theater Near You,” 246.
+19 David C. Logan, “PLA Reforms and 
+China’s Nuclear Forces,” Joint Force Quarterly 
+83 (4th Quarter 2016), 60.
+20 Ibid.
+21 Andrew Scobell and Nathan Beauchamp-
+Mustafaga, “The Flag Lags but Follows: The 
+PLA and China’s Great Leap Outward,” in 
+Saunders et al., Chairman Xi Remakes the PLA, 
+180.
+22 Burke and Chan, “Coming to a (New) 
+Theater Near You,” 279.
+23 Andrea Ghiselli, “Civil-Military Relations 
+and Organisational Preferences Regarding the 
+Use of the Military in Chinese Foreign Policy: 
+Insights from the Debate on MOOTW,” Jour-
+nal of Strategic Studies 43, no. 3 (2018).
+24 Michael S. Chase et al., China’s In-
+complete Military Transformation: Assessing 
+the Weaknesses of the People’s Liberation Army 
+(PLA) (Santa Monica, CA: RAND, 2015).
+25 Smith, Henderschedt, and Luedecking, 
+“Reverse Engineering Goldwater-Nichols.”
+26 Daniel Sukman, “Global Contingency 
+Plans: A New Look at War Planning,” Military 
+Review (2019), 115.
+27 Timothy R. Heath, “China’s Untested 
+Military Could Be a Force—or a Flop,” Foreign 
+Policy, November 27, 2018.
+28 Ian Burns McCaslin and Andrew S. Er-
+ickson, “The Impacts of Xi-Era Reforms on the 
+Chinese Navy,” in Saunders et al., Chairman 
+Xi Remakes the PLA, 138.
+29 Ibid., 140.
+30 Ghiselli, “Civil–Military Relations and 
+Organisational Preferences Regarding the Use 
+of the Military in Chinese Foreign Policy.”
+31 Brian Lafferty, “Civil-Military Integration 
+and PLA Reforms,” in Saunders et al., Chair-
+man Xi Remakes the PLA, 632–635.
+32 Lorand Laskai, “Civil-Military Fusion and 
+the PLA’s Pursuit of Dominance in Emerging 
+Technologies,” China Brief 18, no. 6 (2018), 
+13.
+33 James S. Johnson, “China’s Vision of 
+the Future Network-Centric Battlefield: Cyber, 
+Space, and Electromagnetic Asymmetric Chal-
+lenges to the United States,” Comparative 
+Strategy 37, no. 5 (2018), 378.
+34 Laskai, “Civil-Military Fusion and the 
+PLA’s Pursuit of Dominance in Emerging 
+Technologies,” 14.
+New from NDU 
+Press
+for the Center for Strategic Research
+Strategic Forum 308
+Baltics Left of Bang: The Southern 
+Shore
+By Marcel Hadeed, Mariusz Kaminski, 
+Monika Sus, Brett Swaney, and Amelie 
+Theussen
+Deterring 
+and defend-
+ing against 
+Russian 
+aggression 
+in the Baltic 
+Sea region 
+prior to open 
+hostilities, 
+or “left of bang,” is a political 
+problem that requires a coordi-
+nated regional approach by the 
+Baltic southern shore states—
+Poland, Germany, and Denmark—
+in conjunction with their North 
+Atlantic Treaty Organization 
+(NATO) and European Union 
+(EU) allies. Despite common 
+membership in NATO and the 
+EU, the southern shore states 
+hold differing strategic perspec-
+tives that reflect the challenges of 
+a coordinated approach. These 
+states should prioritize Baltic 
+maritime security, regional mobil-
+ity, and unconventional warfare 
+capabilities in coordination with 
+regional allies and partners. They 
+should also leverage or enhance 
+EU capabilities in cyber, informa-
+tion, and strategic communica-
+tions to better deter and defend 
+against Russian hostile measures.
+Visit the NDU Press Web site for  
+more information on publications  
+at ndupress.ndu.edu

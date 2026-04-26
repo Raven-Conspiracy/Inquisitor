@@ -1,0 +1,192 @@
+The Naval Strike Missile (NSM; U.S designation RGM-184A) is an anti-ship and land-attack missile developed by the Norwegian company Kongsberg Defence & Aerospace (KDA).
+The original Norwegian name was Nytt sjømålsmissil (literally "New sea target missile", indicating that it was the successor of the Penguin missile). The English marketing name Naval Strike Missile was adopted later. According to Kongsberg the NSM/JSM had been selected by Norway, Poland, Malaysia, Germany, the United States, Japan, Romania, Canada, Australia and Spain as of 2022. Subsequently, Denmark and the United Kingdom have also adopted the NSM.
+The Joint Strike Missile (JSM) is a multi-role air-launched version of the NSM currently in development.
+
+
+== Development ==
+
+The Naval Strike Missile's initial serial production contract was signed in June 2007. It has been chosen by the Royal Norwegian Navy for its Fridtjof Nansen-class frigates and Skjold-class corvettes. In December 2008 the NSM was selected by the Polish Navy, which ordered fifty land-based missiles (including two for testing) in deals made in 2008 and 2011, with delivery planned for between 2013 and 2016. The final milestone was completed in June 2011 with tests at Point Mugu. On 12 April 2011, the Norwegian Ministry of Defense announced phase 2 of development.
+On October 10, 2012, the Royal Norwegian Navy fired an NSM for the first time, from the HNoMS Glimt, a Skjold-class patrol boat. On Wednesday, June 5, 2013, the Royal Norwegian Navy made the first test firing of an NSM missile carrying a live warhead against a target vessel. The decommissioned Oslo-class frigate HNoMS Trondheim was hit and the munition functioned as intended.
+In June 2013 Poland completed the Coastal Missile Division equipped with 12 NSMs and 23 vehicles on Jelcz chassis (including 6 launchers, 2 TRS-15C radars, 6 fire control vehicles, and 3 command vehicles). Ultimately, the Coastal Missile Division will be equipped with 12 launchers carrying 4 missiles each for a total of 48 missiles. In December 2014 Poland ordered a second batch of launchers and missiles to equip a Naval Strike Missile battalion.
+
+In late July 2014, the U.S. Navy confirmed that the NSM would be tested aboard the littoral combat ship USS Coronado (LCS-4). The test occurred successfully on 24 September 2014. Kongsberg and Raytheon teamed to pitch the NSM to equip the LCS as its over-the-horizon anti-ship missile in 2015. By May 2017, the extended-range Boeing RGM-84 Harpoon and Lockheed Martin AGM-158C LRASM had been withdrawn from the Navy's Over-the-Horizon Weapon System (OTH-WS) competition, leaving the NSM as the only remaining contender. On 31 May 2018, the Navy officially selected the NSM to serve as the LCS' OTH anti-ship weapon. The $14.8 million initial contract award to Raytheon calls for the delivery of Kongsberg-designed "encanistered missiles loaded into launching mechanisms; and a single fire control suite,” and buys about a dozen missiles; the entire contract value could grow to $847.6 million if all contract options are exercised. The Navy plans to deploy the NSM in late 2019. The NSM will be designated as the RGM-184A in US service.
+During RIMPAC 2014 the frigate Fridtjof Nansen made a successful firing of the NSM during a SINKEX, with the missile impacting and detonating as designed.
+In the LIMA exhibition 2015, Malaysia announced that the Naval Strike Missile had won the contract to fulfil the Royal Malaysian Navy's Maharaja Lela-class' anti-ship missile requirement.
+In February 2017, the Norwegian government announced that the German Navy will acquire "a significant amount" of Naval Strike Missiles under a deal valued at "more than 10 billion NOK".
+During RIMPAC 2018, USARPAC fired a Naval Strike Missile from the shore to sink a ship.
+In October 2019 USS Gabrielle Giffords fired off a Naval Strike Missile at a surplus US Navy frigate, USS Ford, which was towed close to Guam, in the Pacific, to act as a target in a SINKEX.
+
+According to Naval News in June 2024 the Arleigh Burke-class destroyer USS Fitzgerald, and Hobart-class destroyer HMAS Sydney, were observed in Honolulu with NSM box launchers during RIMPAC 2024.
+The NSM is to be used by the U.S. Marine Corps as part of the Navy/Marine Expeditionary Ship Interdiction System (NMESIS), which places an NSM launcher unit on an unmanned JLTV-based mobile launch platform to enable the Marines to fire anti-ship missiles from land.
+In June 2023 the Fridtjof Nansen-class frigate HNoMS Otto Sverdrup fired off a Naval Strike Missile at a surplus corvette in a SINKEX in the Norwegian Sea.
+In August 2024, the Australian Government announced that a partnership agreement had been signed with Kongsberg's local subsidiary — Kongsberg Defence Australia — for the manufacture and servicing of Naval Strike Missiles for the Royal Australian Navy at a new purpose-built factory. The factory is to be constructed at the Astra Aerolab Business Park near the city of Newcastle in New South Wales and will also manufacture the Joint Strike Missile for the Royal Australian Air Force. Manufacturing of missiles is expected to commence from 2027.
+During the MSPO 2024 defense exhibition, it was announced that the NSM missiles will equip Poland's Wicher-class frigates, replacing the previously planned RBS 15 Mk 3.
+As of 2025, Denmark became the 14th country to procure the Naval Strike Missile, integrating it into its Iver Huitfeldt-class frigates. The deal, valued at approximately €180 million, was conducted through a bilateral agreement with Norway and represents a step in aligning Danish naval capabilities with NATO interoperability goals.
+In November 2022, the United Kingdom's Ministry of Defence announced the purchase of the Naval Strike Missile for the Royal Navy as an interim replacement for the RGM-84 Harpoon, pending the introduction of the Anglo-French Stratus missile, currently under development. The NSM system is intended to be installed in eleven Type 23 frigates and Type 45 destroyers. In September 2025, HMS Somerset conducted the Royal Navy's first live firing of an NSM at the Andøya test range, during a NATO exercise.
+
+
+== Design and features ==
+
+
+=== Base variant - ship launched ===
+The state-of-the-art design and use of composite materials are meant to give the missile sophisticated stealth capabilities. The missile will weigh slightly more than 400 kg (880 lb) and have a range of more than 185 km (115 mi; 100 nmi). NSM is designed for littoral waters ("brown water") as well as for open sea ("green water and blue water") scenarios. The usage of a high-strength titanium alloy blast/fragmentation warhead from TDW is in line with the modern lightweight design and features insensitive high-explosive. Warhead initiation is by a void-sensing Programmable Intelligent Multi-Purpose Fuze designed to optimise effect against hard targets.
+Like its Penguin predecessor, NSM is able to fly over and around landmasses, travel in sea skim mode, and then make random manoeuvres in the terminal phase, making it harder to stop by enemy countermeasures. While the Penguin is a yaw-to-turn missile, NSM is based on bank-to-turn flight (see Yaw (flight) and flight control). In 2016, it was confirmed by the Royal Norwegian Navy that NSM also can attack land targets.
+The target selection technology provides NSM with a capacity for independent detection, recognition, and discrimination of targets at sea or on the coast. This is possible by the combination of an imaging infrared (IIR) seeker and an onboard target database. NSM is able to navigate by GPS, inertial and TERCOM systems.
+After being launched into the air by a solid rocket booster which is jettisoned upon burning out, the missile is propelled to its target in high subsonic speed by a turbojet sustainer engine—leaving the 125 kg multi-purpose blast/fragmentation warhead to do its work, which in case of a ship target means impacting the ship at or near the water line.
+
+
+=== NSM CDS (coastal defence system) ===
+
+
+==== Polish variant ====
+An NSM coastal battery consists of three missile launch vehicles (MLV), one battery command vehicle (BCV), three combat command vehicles (CCV), one mobile communication center (MCC), one mobile radar vehicle (MRV) with TRS-15C radar, one transport and loading vehicle (TLV), and one mobile workshop vehicle (MWV). Each MLV carries 4 missiles and can be connected to the CCV by optical fiber or radio up to 10 km (6.2 mi) away; up to 6 launchers with 24 missiles can be netted together at once. When installed on ships, NSMs can be deck-mounted in packs of one, two, three, four, or six launchers. Total installation weight, including electronics and cabling, is 8,600 lb (3,900 kg) for 4 launchers, 17,000 lb (7,700 kg) for 8 launchers, and 26,000 lb (12,000 kg) for 12 launchers.
+
+
+==== Australian variant ====
+The fire unit was developed by Kongsberg Defence Australia and Thales Australia. The fire unit is made of:
+
+Launcher: StrikeMaster based on the Thales Bushmaster vehicle.
+Command and control: Fire Control Centre based on the Thales Bushmaster vehicle, and made and designed by Kongsberg Defence Australia.
+Missile resupply: Missile Re-supply Vehicle based on the Thales Bushmaster vehicle.
+The launcher was tested in October 2025 in Norway.
+
+
+=== NSM-SL (submarine launched) ===
+At MSPO 2017, a variant of the submarine launched NSM was unveiled. Spain was interested in this missile for the S-80 Plus submarines.
+The development of NSM-SL was canceled in 2021. The Netherlands and Spain are considering a joint procurement of a submarine launched version of the Joint Strike Missile instead.
+
+
+=== NSM-AL (aircraft launched) ===
+In 2024, the Spanish ministry of defence launched a study to evaluate the capacity to equip the NSM missile to its NH90 HHSPN helicopter. The Norwegian Defence Materiel Agency and Royal Norwegian Air Force has suggested carrying the NSM on the P-8 Poseidon maritime patrol and reconnaissance airplane, but no decision has yet been made to proceed.
+
+
+=== EuroPULS - MARS 3 ===
+In May 2025, KNDS tested the NSM missile on the EuroPULS, a German variant of the PULS multiple launch rocket system by KNDS Deutschland on a 8×8 Iveco Trakker chassis.
+
+
+== Operators ==
+
+
+=== Current operators ===
+
+
+==== NSM on ships ====
+ Australia
+ Royal Australian Navy
+Anzac-class frigate
+Hobart-class destroyer
+Hunter-class frigate (under construction)
+ Netherlands
+ Royal Netherlands Navy
+De Zeven Provinciën-class frigate
+Anti-Submarine Warfare Frigate (under construction)
+ Norway
+ Royal Norwegian Navy
+Skjold-class corvette
+Fridtjof Nansen-class frigate
+ Poland
+ Polish Navy
+Wicher-class frigate (under construction)
+ United Kingdom
+ Royal Navy (a total of 11 vessels from the Type 23 and Type 45 classes to be equipped)
+Type 23-class frigate
+Type 45-class destroyer
+ United States
+ United States Navy
+Arleigh Burke-class destroyer 
+Freedom-class littoral combat ship
+Independence-class littoral combat ship
+Constellation-class frigate
+
+
+==== Coastal defence ====
+ Poland
+ Polish Navy:
+Coastal Missile Squadron
+ United States
+ United States Marine Corps:
+U.S. Marine Corps - 261 NMESIS-systems planned by 2033
+
+
+=== Future operators ===
+
+
+==== NSM on ships ====
+ Belgium
+
+ Belgian Navy
+Anti-Submarine Warfare Frigate-class (under construction)
+ Canada
+ Royal Canadian Navy
+River-class destroyer (under construction)
+ Denmark
+ Royal Danish Navy
+Ivar Huitfeld-class frigates
+ Germany
+ German Navy
+Baden-Württemberg-class frigate
+ Malaysia
+ Royal Malaysian Navy:
+Maharaja Lela-class frigate
+Lekiu-class frigate
+ Spain
+ Spanish Navy
+Álvaro de Bazán-class frigate
+F110-class frigate
+120 NSM Block IA missiles ordered for €300 million.
+
+
+==== Coastal defence ====
+ Denmark
+ Royal Danish Army
+ Latvia
+ Latvian Naval Forces
+ Romania
+ Romanian Naval Forces
+Delivery expected to be finished by Q4 2028
+ Bulgaria
+
+ Bulgarian Navy
+Delivery expected in 2030
+
+
+=== Potential operator ===
+
+
+==== NSM on ships ====
+ Indonesia
+ Indonesian Navy:
+Klewang-class fast attack craft
+ India
+ Indian Navy
+
+
+==== Coastal defence ====
+ Australia
+ Australian Army
+Project LAND 8113 - Phase 2, the NSM is competing with Lockheed Martin's M142 HIMARS firing a Precision Strike Missile for an Australian Army land-based maritime strike order. Kongsberg and Thales are offering the StrikeMaster, a pair of NSM missiles mounted on a Thales Bushmaster utility vehicle.
+
+
+==== NSM-SL (submarine launched) ====
+ Spain
+ Spanish Navy
+S-80 attack submarine
+ Netherlands
+ Royal Netherlands Navy
+Orka-class submarine
+
+
+== See also ==
+
+
+== References ==
+
+
+== External links ==
+
+Official NSM product page at KDA
+Official JSM product page at KDA
+Defpro.com:Norway conducted very successful NSM test firing (Febr 2009)
+Missile.index search – Choose Development-Country: "Norway", then click "Search", then pick "NSM" from the results list (direct linking N/A)
+Kongsberg test fires Naval Strike Missiles – Jane's Navy International, 8 August 2006
+2025 NSM/JSM brochure Kongsberg Defence & Aerospace

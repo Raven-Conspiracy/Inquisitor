@@ -1,0 +1,66 @@
+The AN/TPS-80 Ground/Air Task Oriented Radar (G/ATOR) is the United States Marine Corps next-generation Air Surveillance/Air Defense and Air Traffic Control (ATC) Radar. The mobile active electronically scanned array radar system is being developed and produced by Northrop Grumman and was expected to reach initial operating capability in August 2016. Initial production began in June of 2019. In October of 2025, one unit was controversially deployed to the Island nation of Trinidad and Tobago, which is just 7 miles off the coast of Venezuela.
+In accordance with the Joint Electronics Type Designation System (JETDS), the "AN/TPS-80" designation represents the 80th design of an Army-Navy electronic device for ground transportable search radar system. The JETDS system also now is used to name all Department of Defense electronic systems.
+
+
+== Mission and description ==
+The Ground/Air Task Oriented Radar (G/ATOR) is a single material solution for the mobile Multi-Role Radar System and Ground Weapons Locating Radar (GWLR) requirements. It is a three-dimensional, medium/long-range multi-role radar designed to detect unmanned aerial systems, cruise missiles, air-breathing targets, rockets, artillery, and mortars. G/ATOR is designed to fulfil expeditionary needs across the Marine Air-Ground Task Force spectrum, replacing five legacy radar systems with a single solution.  
+The five Marine Corps legacy radar systems being replaced by this multi-function capability include: the AN/TPS-63 (air defense), AN/TPS-73 (air-traffic control), AN/MPQ-62 (short-range air defense), AN/TPQ-46 (counter-fire target acquisition) and UPS-3 (target tracking). Additionally, it will augment the AN/TPS-59 long-range radar.
+The Program Executive Office (PEO), Land Systems Marine Corps is executing the G/ATOR program, as an evolutionary acquisition program of four capabilities, referred to as blocks.
+
+Block 1 completes the primary material system acquisition, and can support the short-range air defense and air surveillance mission, as well as provide an Air Defence/Surveillance Radar (AD/SR) capability to the MAGTF Commander.
+Block 2 includes software to perform the missions of ground counter-battery/fire control (Ground Locating Weapons Radar).
+Block 3 capabilities are not currently defined or resourced, and have been deferred indefinitely.
+Block 4 provides air traffic control capabilities (Expeditionary Airport Surveillance Radar).
+
+G/ATOR provides real-time radar measurement data to the Tactical Air Operations Module, Common Aviation Command and Control System (CAC2S), Composite Tracking Network, and Advanced Field Artillery Tactical Data System.
+The G/ATOR baseline system configuration consists of three subsystems:
+
+Communications Equipment Group (CEG). The CEG provides the ability to communicate with and control the radar and is mounted on a High Mobility Multi-purpose Wheeled Vehicle.
+Radar Equipment Group (REG). The REG consists of a phased-array radar mounted on an integrated trailer. The trailer is towed by the Medium Tactical Vehicle Replacement (MTVR).
+Power Equipment Group (PEG). The PEG includes a 60-kilowatt generator and associated power cables mounted on a pallet. The generator pallet is carried by the MTVR.
+
+
+== Development ==
+
+Development of the G/ATOR began in September 2005 when the Marine Corps awarded a $7.9 million contract to Northrop Grumman Electronic Systems. Initial design requirements required planning for short-range air surveillance, counter-battery fire and target acquisition, and sensor networking.  The requirement required Block 1 to allow for incremental implementation of the following blocks without equipment or software redesign.
+In 2009, a $14 million cost overrun for the G/ATOR, was attributed to requirements creep and the increasing cost of scarce materials required in advanced electronic components. In 2012 the Marine Corps and Northrop Grumman began Block 2 development, beginning with upgrading the Block 1 equipment and software for performing GWLR requirements.
+The G/ATOR program obtained a successful Milestone C decision in March 2014. In October 2014, a 207.3 million dollar low rate initial production (LRIP) contract was awarded to Northrop Grumman for the first four systems. In March 2015, another contract worth $113 million was awarded to produce two additional systems to be delivered in October 2017.
+In September 2015, the Marine Corps awarded Northrop Grumman a $58.7 million contract to incorporate and test the GWLR mode for the G/ATOR.
+In September 2016, the Marine Corps awarded Northrop Grumman a $375 million contract for nine additional LRIP systems that will incorporate gallium nitride (GaN) technology.
+In June 2019, the Marine Corps awarded Northrop Grumman a $958 million contract for full-rate production of 30 GaN G/ATOR Systems.
+A total of 60 G/ATOR systems are planned for procurement through 2029.
+In December 2019, the Marine Corps awarded Northrop Grumman a $188 million contract, for the firm-fixed-price portion of a previously awarded contract (M67854-19-C-0043). This modification is for the purchase of six Gallium Nitride full-rate-production systems and associated travel in support of Program Executive Officer Land Systems, Quantico, Virginia.
+Saab is subcontracted by Northrop Grumman Corporation and has delivered major subsystems and assemblies as well as software since Lot1 and has been part of the development since originally contracted in 2007.
+
+
+== Main characteristics ==
+
+Multipurpose tracking and surveillance S-band 2–4 GHz (15.0–7.5 cm) 3D radar
+Detects fixed- and rotary-wing aircraft, cruise missiles, and UAVs
+Performs ATC and fire finder roles
+High mobility, transportability, and reliability
+The entire system can be airlifted into an operational site by three CH-53E Super Stallion heavy-lift helicopters or MV-22B Osprey tilt-rotor aircraft, or by a single C-130 Hercules transport.
+The system is required to be set up on-site within 45 minutes.
+Provides identification of friendly aircraft using a Telephonics AN/UPX-44 IFF (Identification Friend or Foe) integrated with the main radar.
+
+
+== See also ==
+
+List of radars
+List of military electronics of the United States
+Counter-battery radar
+AN/TPQ-36 Firefinder radar
+AN/TPQ-37 Firefinder radar
+ARTHUR (radar)
+AN/TPQ-53 Quick Reaction Capability Radar
+AN/MPQ-64 Sentinel
+
+
+== References ==
+
+ This article incorporates public domain material from websites or documents of the United States Marine Corps.
+ This article incorporates public domain material from websites or documents of the U.S. Department of Defense.
+
+
+== External links ==
+Northrop Grumman - AN/TPS-80 Ground/Air Task Oriented Radar (G/ATOR) (Archived)

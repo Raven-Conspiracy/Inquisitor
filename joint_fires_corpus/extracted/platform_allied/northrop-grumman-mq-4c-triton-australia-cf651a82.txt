@@ -1,0 +1,158 @@
+The Northrop Grumman MQ-4C Triton is an American high-altitude long endurance unmanned aerial vehicle (UAV) developed for and flown by the United States Navy and Royal Australian Air Force as a surveillance aircraft. Together with its associated ground control station, it is an unmanned aircraft system (UAS). Developed under the Broad Area Maritime Surveillance (BAMS) program, the Triton is intended to provide real-time intelligence, surveillance and reconnaissance missions (ISR) over vast ocean and coastal regions, continuous maritime surveillance, conduct search and rescue missions, and to complement the Boeing P-8 Poseidon maritime patrol aircraft.
+Triton builds on elements of the RQ-4 Global Hawk; changes include reinforcements to the airframe and wing, de-icing systems, and lightning protection systems. These allow the aircraft to descend through cloud layers to gain a closer view of ships and other targets at sea.  The sensor suites help track ships by gathering their speed, location, and classification.
+The MQ-4C System Development and Demonstration (SDD) aircraft was delivered in 2012 and the MQ-4C was expected to be operational with the US Navy by late 2015 with a total of 67 aircraft to be procured for the US Navy.  The MQ-4C joined the Navy fleet in 2018 and achieved Initial Operational Capability (IOC) in 2023. Pentagon audit found that the Navy declared IOC in 2023 before even conducting Initial Operational Test and Evaluation, because the Navy determined that the MQ‑4C Triton was beneficial to the fleet despite deficiencies that could prevent mission success. Australia has ordered four Tritons, with the first entering service in June 2024.
+
+
+== Development ==
+
+
+=== Key features ===
+
+Provides persistent maritime ISR 24 hours/7 days per week with 80% Effective Time on Station (ETOS)
+AN/ZPY-3 Multi-Function Active Sensor (MFAS) with active electronically scanned array
+Land-based air vehicle and sensor command and control
+51,000-hour airframe life
+Due regard radar for safe separation
+Commercial off-the-shelf open architecture mission control system
+Net-ready interoperability solution (systems working together)
+Communications bandwidth management
+Dual redundant flight controls and surfaces
+Afloat Level II payload sensor data via line-of-sight
+
+
+=== Contract competition ===
+The competitors for the Broad Area Maritime Surveillance (BAMS) contract included:
+
+Boeing, with an unmanned version of the Gulfstream G550 business jet.  It was optionally manned and has "commonality with other Boeing-built naval aircraft."
+Northrop Grumman, with a navalized RQ-4 Global Hawk. In order to begin testing the surveillance package early, Northrop Grumman contracted with Flight Test Associates of the Mojave Spaceport to modify a Grumman Gulfstream II as a flying testbed. California based aerospace company Swift Engineering also supported Northrop Grumman on the design and manufacturing of composite structures.
+Lockheed Martin, with a General Atomics MQ-9 Mariner
+The BAMS UAS was acquired for the U.S. Navy as a Department of Defense Acquisition Category (ACAT) 1D program and on 22 April 2008, Northrop Grumman received the BAMS contract worth $1.16 billion. Lockheed Martin filed a formal protest with the U.S. Government Accountability Office (GAO) two weeks later. On 11 August 2008 the GAO upheld the Navy's selection of Northrop Grumman. In September 2010, the BAMS aircraft was designated the MQ-4C.
+
+
+=== Initial development ===
+During the official unveiling ceremony on 14 June 2012 at Palmdale, California, Navy officials announced that the aircraft had been named Triton. The first flight of the MQ-4C—aircraft Bureau Number (BuNo) 168457—occurred on 22 May 2013, followed by test flights at Edwards Air Force Base, California, and Naval Air Station Patuxent River, Maryland. Initial operational capability (IOC) was planned for December 2015 but slipped to 2017.
+
+The U.S. Navy planned to buy 68 MQ-4Cs and 117 P-8As to replace its aging P-3C Orions. About 40 MQ-4Cs will be based at various sites, predominantly home stations or overseas deployment sites for Navy P-8A and P-3C aircraft.  This includes an unspecified location in Hawaii (most likely MCAS Kaneohe Bay); NAS Jacksonville, Florida; Kadena Air Base, Japan; NAS Point Mugu, California, and NAS Sigonella, Italy. The Air Force Times reported on 14 September 2012, that the system will also be stationed at Andersen Air Force Base, Guam.
+In August 2013, the Navy paused the development of the "sense and avoid" radar system that would enable the MQ-4C to avoid other aircraft.  The Triton would have been the first unmanned aircraft to be fitted with such a system, but the system was behind schedule and over budget.  The radar system remains a requirement in the program, but budgetary and technology pressures have forced the Navy to defer integrating it onto the aircraft. The Navy and Northrop Grumman are working to determine when the sense-and-avoid system can be included into the production line.
+The Navy restarted the competition for a sense-and-avoid radar for the Triton in November 2014 with less ambitious requirements, including the ability to use data from ground radars as it approaches an airport, and a modular and scalable design that can be incrementally improved to meet evolving future operational and air traffic management requirements.
+On 6 September 2013, the Navy awarded Northrop Grumman a $9.98 million contract for maintenance and support of the MQ-4C SDD aircraft to enable it to fly 15 missions per month, an increase from 9 per month as previously planned, with senior Navy commanders wanting to keep closer surveillance of activities in the ocean and coastal regions of the Middle East.
+The Navy began considering in September 2014 cutting the number of Tritons it plans to buy. The intention was to have 20 MQ-4C aircraft operational at any one time, with the rest of the 68-plane order force being spares. In September 2015, the DoD Inspector General found the 70-aircraft force requirement justified. But the Navy decided in May 2023 to reduce the number of MQ-4C aircraft it would procure. The number of deployment sites was reduced from five to three, reducing the number of Tritons required to 12. Another 15 will be available for attrition, training, and maintenance for a revised total program of record procurement of 27 aircraft.
+
+
+=== International sales ===
+
+
+==== Australia ====
+
+Australia has considered the MQ-4C, both as a military platform and as customs enforcement platform; senior customs officials have doubted the effectiveness of the planned seven MQ-4Cs to detect small boats in the country's northern waters, especially through cloud cover. In 2013, Air Marshal Geoff Brown, head of the Royal Australian Air Force, stated that Australia was considering purchasing more manned P-8A Poseidon aircraft and reducing the number of MQ-4Cs planned to be bought for the RAAF.
+On 16 February 2014, it was reported that the Australian government would seek the purchase of seven Tritons; in addition to locating ships and aircraft, it would also be used to detect seaborne asylum seekers. Alongside the P-8A, the MQ-4C is to replace the elderly AP-3C Orion fleet.
+On 13 March 2014, Prime Minister Tony Abbott announced Australia's intention to buy the MQ-4C Triton and become its first foreign customer. The announcement was made at RAAF Base Edinburgh, the base of the country's fleet of eighteen AP-3C Orion aircraft it will replace. The Triton buy is part of the Australian Defence Force's Project Air 7000 two-phase Orion replacement program; Phase 1B entails procuring the Triton, and Phase 2B was the acquisition of eight to twelve manned P-8A Poseidons in 2017. RAAF Tritons and Poseidons will be used in a similar complementary fashion as with U.S. Navy operations, where the MQ-4C performs high-altitude broad area maritime surveillance missions, allowing the P-8A to be more dedicated to anti-submarine and anti-surface warfare, search and rescue response, and electronic intelligence missions.
+The Australian Government confirmed in its 2016 Defence White Paper that the Royal Australian Air Force was to acquire seven MQ-4C Triton aircraft as part of its  "Intelligence, Surveillance and Reconnaissance capability stream".
+On 26 June 2018, Australian Prime Minister Malcolm Turnbull announced the purchase of the first of six MQ-4C Tritons with consideration being given to purchase a seventh.
+As of 2023, Australia had placed orders for four Tritons. A further two or three may be ordered in the future to meet a RAAF requirement for six to seven of the type. No. 9 Squadron was re-raised to operate the Tritons in June 2023, ahead of the expected delivery of the RAAF's first Triton in 2024. The first RAAF Triton arrived in Australia on 16 June 2024 and three are currently in service.
+
+
+==== India ====
+Northrop Grumman has also proposed the MQ-4C to India; the Indian Navy have considered the UAV in a complementary role to the twelve Boeing P-8I Poseidon maritime patrol aircraft it has on order.
+
+
+==== Rumored sales ====
+On 20 July 2014 there was a rumor that the UK planned to purchase a minimum eight MQ-4Cs to replace the cancelled BAE Systems Nimrod MRA4 after defence chiefs stated that the UK's nuclear deterrent Trident may have been compromised to the Russians. In the Strategic Defence and Security Review 2015 there was no such mention of a buy and that report is negated.
+Norway will develop and operate maritime surveillance drones from Andøya Air Station, and the MQ-4C is rumored to be the main contender for the initial capability.
+
+
+=== Cancelled orders ===
+
+
+==== Germany ====
+In January 2015, the German Luftwaffe began considering the Triton to fill their signals intelligence needs as a continuation of the cancelled Global Hawk-based EuroHawk program. After the retirement of the German Navy's five Br.1150 Atlantique aircraft in 2010, the EuroHawk was intended to fill the SIGINT gap, but was cancelled in May 2013 after spending €600 million ($750 million) from concerns of its ability to satisfy airworthiness regulations to permit flight over civil airspace in Europe.
+With about half of the investment on the electronic intelligence and communications intelligence sensors, Germany is trying to get some form of the program into service. Using the Triton would ease integration by keeping the sensors in the same place, gondolas hung under the wings, which limited attempts to put them on other airframes due to reception problems with nearby engine placement. With icing and lightning-strike protection already included, the MQ-4C would have a better chance of achieving safety certification to fly over inhabited areas of Europe that previously ended the EuroHawk. The German Defence Ministry confirmed in March 2017 that it had decided to buy the MQ-4C to replace the EuroHawk program, with deliveries occurring after 2025.
+The German government has decided to purchase several modified Bombardier Global 6000 aircraft modified for the role instead of the Triton after officials became convinced that the Global Hawk derivatives would be unable to meet the safety standards needed for flying through European airspace. Manned aircraft like the envisioned Global 6000 are allowed to routinely fly alongside civilian traffic.
+
+
+== Design ==
+The MQ-4C can remain aloft more than 30 hours at 55,000 ft (17,000 m) at speeds of up to 330 knots (380 mph; 610 km/h).  Its surveillance sensor is the AN/ZPY-3 Multi-Function Active Sensor (MFAS) X-band AESA radar with a 360-degree field-of-regard, capable of surveying 2,700,000 mi2 (7,000,000 km2) of sea (as well as shoreline or land) in a 24-hour period, or 2,000 mi2 (5,200 km2) in a single sweep.  Using the radar in inverse synthetic aperture mode, the MFAS can identify a target in all weather conditions.
+It can take high definition radar pictures, then use the advanced image and radar return recognition software of the onboard Automatic Identification System (AIS) to classify it without the intervention of aircraft operators.  The Triton is semi-autonomous to conserve manpower, so operators only need to choose an operating area for the aircraft, and set speed, altitude, and objective rather than operating controls.
+One thing the Triton was designed to do (that the Global Hawk cannot) is rapidly descend to lower altitudes. It is built with a more robust lower fuselage to withstand hail, bird, and lightning strikes. It is equipped with anti-icing systems on its wings. At low altitude, the Triton would use its Raytheon MTS-B multi-spectral EO/IR sensor (also used on the MQ-9 Reaper) which is equipped with additional laser designator, pointer, and range finding abilities capable of automatically tracking what the MFAS detects.  The optical suite can stream live video to ground forces.
+The Triton is equipped with a modular electronic support measures (ESM) suite, similar to the one used on the Lockheed EP-3, to passively detect and classify faint radar signals.  It is able to triangulate and geo-locate these signals, allowing mission planners to create an enemy "electronic order of battle" profile, or keep the aircraft and others outside the range of enemy radars and air defenses.  Detecting and locating the source of radar signals would also be useful for locating military vessels at sea for potential targeting. Low- and high-band signals receivers to give it a multi-INT (SIGINT) capability will be fielded in 2021 as part of an integrated functional capability (IFC) 4 configuration; further changes are planned for IFC 5 upgrade in 2024.
+Another aspect of the MQ-4C is its ability to act as a network relay and data fusion center, able to receive and transmit messages from around a theater of operations between various sources not within line-of-sight of each other.  It can take what ships, planes, and land sensors are seeing and broadcasting through various data-links and fuse that information together to create a common "picture" of the battlespace, which it can rebroadcast.  This capability greatly increases interoperability, situational awareness, targeting efficiency, and sensor picture clarity, while providing an alternative to satellite-based communications systems.
+
+
+== Operational history ==
+
+
+=== Flight testing ===
+The MQ-4C Triton performed its first flight on 22 May 2013 from United States Air Force Plant 42 / Palmdale Regional Airport, California.  The flight lasted 1 hour 20 minutes and the aircraft reached an altitude of 20,000 ft.
+
+On 6 January 2014, Northrop Grumman announced that the MQ-4C had completed 9 test flights with 46 hours of flight time.  Half of its envelope expansion testing, which included evaluating the aircraft at different altitudes, speeds, and weights, had been completed.  Some flights lasted over 9 hours and reached 50,000 ft.  A second Triton aircraft was to fly by March or April 2014. Initial envelope expansion testing was completed in March 2014 through 13 flights, 81 flight hours, and reaching altitudes of 59,900 ft.
+On 18 September 2014, the Triton successfully conducted an 11-hour cross-country flight from Northrop Grumman's Palmdale, California facility to Naval Air Station Patuxent River in Maryland.  The cross-country flight test had been previously postponed twice due to bad weather.  The aircraft flew a pre-approved instrument route along the southern U.S. border, crossing the Gulf of Mexico and Florida, then was directed north along the Atlantic coast and up the Chesapeake Bay, a distance of 3,290 nmi (3,790 mi; 6,090 km) at 50,000 ft (15,000 m) to avoid commercial air traffic.
+A test fleet of three Tritons completed 15 flights demonstrating speed and altitude capabilities prior to the transcontinental mission.  With the completion of the cross-country flight, the MQ-4C program transitions from initial safety flight testing to validating its ability to perform operational missions over the ocean.  Operations from Patuxent River in the coming weeks will test the aircraft's sensors, communications, interoperability, and expanded envelope flight coverage.  The three test Tritons are scheduled to fly a total of 2,000 hours before reaching initial operating capability.
+The second MQ-4C Triton model flew on 16 October 2014, 17 months after the first model's first flight.  It is being prepped to perform the cross-country flight later in the month that the first aircraft performed the previous month.  A third model is also being prepared to start flights; the third was planned to be funded by the Navy but was lost to budget cuts, so Northrop Grumman decided to self-fund production of the third prototype.
+
+
+=== Fleet operational evaluation and introduction ===
+On 7 February 2013, the U.S. Navy announced that it would initiate the Unmanned Patrol Squadron Nineteen (VUP-19) at NAS Jacksonville, Florida on 1 October 2013, to eventually operate the MQ-4C as the Navy's first Triton squadron. A detachment of VUP-19 will also be established at NAS Point Mugu, California.  VUP-19 will fall under the administrative control of Commander, Patrol and Reconnaissance Wing ELEVEN (CPRW-11) at NAS Jacksonville, where an MQ-4C mission control facility is also under construction, and will initially operate the Triton on intelligence, surveillance and reconnaissance (ISR) missions for the U.S. 5th Fleet in the Southwest Asia/Middle East/East Africa region, the U.S. 6th Fleet in the Mediterranean and eastern Atlantic, the U.S. 7th Fleet in the Western Pacific and Indian Ocean, and U.S. Fleet Forces Command in western Atlantic operations.  In 2014, the Navy will activate a second Triton squadron, VUP-11, to take over operations in the Pacific in support of U.S. 7th Fleet and share U.S. 5th Fleet operations with VUP-19.
+On 17 November 2015, the MQ-4C began a two-month operational assessment that will determine Milestone C approval and the start of low-rate initial production. In February 2016 the U.S. Navy confirmed that the MQ-4C had completed Operational Assessment, putting the Triton in line to achieve a Milestone C decision in spring 2016, leading to low rate production.  An integrated test team made up of Navy personnel from Air Test and Evaluation Sqdns. VX-1 and VX-20, Unmanned Patrol Sqdn., VUP-19 and Northrop Grumman demonstrated Triton's reliability over approximately sixty flight hours.
+The Navy's fiscal 2017 budget request includes 19 MQ-4 Tritons through fiscal 2021, with first deployment to the Pacific in fiscal 2017. The tests evaluated the MQ-4C's key sensors – an active electronically scanned array radar, an electro-optic/infrared camera and a hydrocarbon detector – over different altitudes and ranges, analysing the "system's ability to classify targets and disseminate critical data", according to Northrop.
+In 2013, the U.S. Navy noted quality control issues in the MQ-4C's wings, which Northrop Grumman stated to have fixed by 2016.
+On 12 December 2019, the U.S. Navy stated that one of its RQ-4A Global Hawk aircraft had been damaged during a takeoff in the Middle East in November 2019. The craft, which cost $123 million in 2015, was estimated by USNI to be valued at $180 million by 2019.
+On 26 January 2020, VUP-19 deployed the MQ-4C for the first time, with two aircraft sent to Anderson AFB in Guam.
+
+
+==== Iranian shoot-down ====
+
+On 20 June 2019, Iran's Islamic Revolutionary Guard Corps shot down an RQ-4A drone in the Strait of Hormuz near Kuhmobarak in Iran's southern province of Hormozgan. Iran claimed it was in their airspace, while the U.S. claimed it was in international airspace. Fox News cited an alleged anonymous U.S. official as a source that the drone had been an MQ-4C Triton, but the U.S. Central Command later confirmed it was a BAMS-D, a prototype version of the RQ-4A drone, developed during the development of the MQ-4C. In total, four of these prototype aircraft were built, and they had been assigned to the Navy's Broad Area Maritime Surveillance (BAMS) program.
+
+
+== Operators ==
+ United States
+
+United States Navy (30 delivered out of 68 ordered)
+Naval Air Station Whidbey Island, Washington (planned)
+VUP-11
+Naval Air Station Jacksonville, Florida
+VUP-19
+Naval Air Station Patuxent River, Maryland
+VX-20
+ Australia
+
+Royal Australian Air Force (3 delivered of 4 ordered)
+RAAF Edinburgh/RAAF Tindal
+No. 9 Squadron
+
+
+== Specifications (MQ-4C) ==
+Data from General characteristics
+Crew: Unmanned – 4 personnel fly aircraft from ground station
+Length: 47 ft 7 in (14.5 m)
+Wingspan: 130 ft 11 in (39.9 m)
+Height: 15 ft 5 in (4.6 m)
+Empty weight: 14,945 lb (6,781 kg)
+Gross weight: 32,250 lb (14,630 kg)
+Powerplant: 1 × Rolls-Royce AE 3007 turbofan engine, 6,495–8,917 lbf (28.89–39.66 kN) thrust
+Performance
+
+Maximum speed: 357 mph (575 km/h, 320 kn)
+Range: 9,400 mi (15,200 km, 8,200 nmi)
+Endurance: 30 hours
+Service ceiling: 56,000 ft (17,000 m)
+
+
+== See also ==
+
+Airborne ground surveillance
+Unmanned combat aerial vehicle
+Unmanned surveillance and reconnaissance aerial vehicle
+Northrop Grumman Bat
+List of active United States military aircraft
+
+
+== References ==
+
+
+== External links ==
+
+Northrop Grumman BAMS contender web site Archived 10 February 2008 at the Wayback Machine
+Boeing / Gulfstream BAMS contender presentation
+Lockheed Martin BAMS product web site
+Flight Test Associates web site

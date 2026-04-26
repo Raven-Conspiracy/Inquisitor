@@ -1,0 +1,163 @@
+The Mark 41 vertical launching system (Mk 41 VLS) is a shipborne missile canister launching system which provides a rapid-fire launch capability against hostile threats. The vertical launching system (VLS) concept was derived from work on the Aegis Combat System.
+
+
+== History ==
+Refinement of the initial concept of Aegis system in the 1960s continued through the 1960s and 1970s, and the Mk 41 was conceived in 1976. Originally, the system was only intended to fire the RIM-66 Standard missile, but the height of the Mk 41 was increased to accommodate the larger Tomahawk missile. The prototype for the launcher was tested and evaluated on board USS Norton Sound. The first operational launcher was installed aboard USS Bunker Hill.
+
+
+=== Combat history ===
+On 12 October 2016, USS Mason (DDG-87) was targeted by missiles fired from Yemeni territory while operating in the Bab-el-Mandeb strait. Mason was not hit by the two missiles, which were fired from near the city of Al Hudaydah. While the Navy is not certain whether the first incoming missile was intercepted or it just fell into the sea, officials claim Mason successfully intercepted the second missile at a distance of about 8 miles (13 km), marking the first time in history a warship destroyed an inbound anti-ship missile with a SAM in actual self-defense and the first time the Mk41 VLS did so.
+
+
+== Specifications ==
+
+
+=== Mark 41 (Mk 41) ===
+The missiles are pre-loaded into canisters, which are then loaded into the individual cells of the launcher. A cell may have one, two, or four missiles, depending on the missile's diameter. Several models of missiles are integrated into the Mk 41 and Mk 57 systems through the Host Extensible Launch System (ExLS) developed by Lockheed Martin.
+Mk 41 is fitted to ships in 8 cell modules which are arranged as two rows of four. As Mk 41 is a hot launch system, it also features a common exhaust plenum in each module to redirect the exhaust gases upwards out of the ship, exiting between the two rows. A water deluge system is also fitted for safety, wetting down canisters in event that excessive temperatures are detected. The use of canisters in combination with its availability in three different lengths enables a large variety of ships to be equipped with Mk 41 despite having different use cases. VLS-equipped Ticonderoga-class cruisers along with Flight I and Flight II Arleigh Burke-class destroyers and Kongo-class destroyers have Strikedown modules located both fore and aft, and Iroquois-class destroyers after the TRUMP modernization had a Strikedown module located fore. These modules consist of five cells and a collapsible crane for reloading missiles while underway. This proved to be impractical and dangerous, leading to Strikedown modules being abandoned in the latter half of the 1990s.
+
+The Mk 41 is capable of firing the following missiles (height and pack count indicated where possible):
+
+
+==== Surface-to-air ====
+RIM-66 Standard MR (tactical)
+RIM-156 Standard ER (strike)
+RIM-161 Standard Missile 3 (strike)
+RIM-174 Standard ERAM / SM-6 (strike)
+RIM-7 Sea Sparrow (self defense)
+RIM-162 ESSM (self defense, 4-pack, incompatible with older versions of 8-cell modules)
+CAMM (CAMM, CAMM-ER, CAMM-MR) (self defense, ExLS; 4-pack for CAMM and CAMM-ER, likely 2-pack for CAMM-MR)
+RIM-116 Rolling Airframe Missile (Block 2) (self defense, ExLS 4-pack)
+Type 23 ship-to-air missile
+MIM-104 (PAC-3 MSE) (tactical)
+
+
+==== Surface-to-surface ====
+RGM-109 Tomahawk (strike)
+Joint Strike Missile (tactical)
+RGM-179 JAGM (self defense, ExLS 4-pack)
+LRASM BTV (strike)
+
+
+==== Anti-submarine ====
+RUM-125 Sea Lance
+RUM-139 VL-ASROC (tactical)
+Type 07 vertical-launch anti-submarine rocket (tactical)
+
+
+==== Decoy ====
+Nulka (self defense, ExLS 4-pack)
+
+
+=== Mark 57 (Mk 57) PVLS ===
+
+The Mk 57 Peripheral Vertical Launch System (PVLS) used on the Zumwalt-class destroyers is composed of much larger VLS cells capable of venting much larger volume and mass of exhaust gasses (mass flow rate) compared to the Mark 41, but is an evolution of the smaller unarmored Mk 56 VLS. The Mk 57 PVLS are designed to be installed on the ship periphery with armor on the inboard boundary, instead of in centralized magazines used in the Mk 41.
+Developed by Raytheon, Mk 57 provides backward compatibility with existing missiles while allowing new missiles with significantly increased propulsion and payloads.  While allowing for larger missiles than the Mk 41, the primary improvement of Mk 57 is its exhaust gas management system which can accommodate new missile designs having up to 45 percent greater rocket motor mass flow rate than that of Mk 41. The unique symmetric geometry of the U-shaped gas management system (with exhausts in line with the cells) facilitates the egress of gases, while minimizing flow into adjacent cells and reversed flow into the active cell. Another advantage is the elimination of the water deluge system, which is used to cool the missile canister in the event that the missile restraint bolts do not release after rocket motor ignition.  Elimination of the water deluge system significantly reduces maintenance and personnel requirements, and protects against accidental missile wet-down.
+
+
+== Variants ==
+
+MK 41 Mod 0, Ticonderoga-class cruisers, two 61 cell Vertical Launcher Mk 158 Mod 0 or Mod 1, forward and aft.
+MK 41 Mod 1, Spruance-class destroyers, 61 cells forward.
+MK 41 Mod 2, Arleigh Burke-class destroyers, DDG-51 to DDG-78, one 29 cell Vertical Launcher Mk 159 Mod 0 forward, one 61 cell Vertical Launcher Mk 158 Mod 0 aft.
+MK 41 Mod unknown, Constellation-class frigates, 32 cells.
+MK 41 Mod unknown, Álvaro de Bazán-class frigates (Spain), 48 cells.
+MK 41 Mod unknown, Deveselu Military Base
+MK 41 Mod 3, Brandenburg-class frigates (Germany), 16 cells.
+MK 41 Mod 5, Anzac-class frigates (Australia, New Zealand), 8 cells
+MK 41 Mod 7, Arleigh Burke-class destroyers, DDG-79 to DDG-91, one 32 cell Vertical Launcher Mk 177 Mod 0 forward, one 64 cell Vertical Launcher Mk 176 Mod 0 aft.
+MK 41 Mod 8, Barbaros-class frigates (Turkey), 8 or 16 cells
+MK 41 Mod 9, De Zeven Provinciën-class frigates (Netherlands), 40 cells
+MK 41 Mod 10, Sachsen-class frigates (Germany), 32 cells
+MK 41 Mod 15, Arleigh Burke-class destroyers, DDG-92 and up, one 32 cell Vertical Launcher Mk 177 Mod 3 forward, one 64 cell Vertical Launcher Mk 176 Mod 2 aft.
+MK 41 Mod 16, Adelaide-class frigates (Australia), 8 cells
+MK 70 Mod 1, containerized four-cell launcher
+Long-Range Missile (LMSL) Battery, containerized single cell launcher on a US Marine Corps ROGUE- Fires JLTV vehicle
+
+
+== Operators ==
+
+ Australia
+Adelaide-class frigate - (8 cells) (Retired)
+Anzac-class frigate - (8 cells)
+Hobart-class destroyer - (48 cells)
+Hunter-class frigate - (32 cells)
+ Canada
+Iroquois-class destroyer - (29 cells) (Retired)
+River-class destroyer - (24 cells)
+ Chile
+Adelaide-class frigate - (8 cells)
+ Denmark
+Iver Huitfeldt-class frigate - (32 cells)
+ Finland
+Pohjanmaa-class corvette - (8 or 16 cells)
+ Germany
+Sachsen-class frigate - (32 cells)
+Brandenburg-class frigate - (16 cells)
+F126 frigate (16 cells)
+ Japan
+Maya-class destroyer - (96 cells)
+Atago-class destroyer - (96 cells)
+Kongō-class destroyer - (90 cells)
+Hyūga-class helicopter destroyer - (16 cells)
+Murasame-class destroyer - (16 cells)
+Takanami-class destroyer - (32 cells)
+Akizuki-class destroyer - (32 cells)
+Asahi-class destroyer - (32 cells)
+Mogami-class frigate - (16 cells)
+New FFM frigate - (32 cells)
+Asuka - (8 cells)
+ Netherlands
+De Zeven Provinciën-class frigate - (40 cells)
+ Norway
+Fridtjof Nansen-class frigate - (8 or 16 cells)
+ South Korea
+Chungmugong Yi Sun-shin-class destroyer (KDX-II) - (32 cells)
+Sejong the Great-class destroyer (KDX-III) - (80 cells)
+ Spain
+Álvaro de Bazán-class frigate - (48 cells)
+F110-class frigate - (16 cells)
+ Taiwan
+Kaohsiung-class tank landing ship - (Test ship)
+ Thailand
+Naresuan-class frigate - (8 cells)
+Bhumibol Adulyadej-class frigate - (8 cells)
+ Turkey
+G-class frigate - (8 cells)
+Barbaros-class frigate - (16 cells)
+ United Kingdom
+Type 26 frigate - (24 cells)
+Type 31 frigate - (32 cells)
+ United States
+Spruance-class destroyer - (61 cells, installed on 24 of 31 vessels) (Retired)
+Arleigh Burke-class destroyer - (90 or 96 cells)
+Ticonderoga-class cruiser - (122 cells)
+Zumwalt-class destroyer - (80 Mk 57 cells)
+Constellation-class frigate - (32 Mk 41 cells)
+DDG(X) class destroyer - (At minimum up to 128 cells (4x32 module configuration), dependent on number of hypersonic missiles carried as per current US Navy design proposal)
+
+
+== Other American VLS ==
+Smaller ships may use a Mk 48 VLS or Mk 56 VLS to launch the RIM-162 ESSM, and Mk 48 is also capable of firing RIM-7 Sea Sparrow. Each canister for Mk 48 hosts one RIM-7 or two RIM-162s, whereas each canister for Mk 56 holds a single RIM-162. These systems are sold in cell counts ranging from two to 16 for Mk 48 and four to 32 for Mk 56s: the smaller modules provide more versatility.
+US Submarines use a Mk 45 VLS.
+
+
+== Gallery ==
+
+
+== See also ==
+GJB 5860-2006 – A vertical launching system of People's Liberation Army Navy
+Korean vertical launching system – A family of vertical launching systems of Republic of Korea Navy
+MiDLAS vertical launching system - A Turkish vertical launching system made by Roketsan
+3S-14 – A vertical launching system of Russian Navy for cruise, anti-ship and anti-submarine missiles
+Sylver vertical launching system – A vertical launching system designed by DCNS
+Typhon missile system – A vertical launching ground system derived from Mk 41
+
+
+== References ==
+
+
+== External links ==
+
+FAS - Mk 41
+Lockheed Martin - Mk 41 VLS Factsheet Archived 2016-03-04 at the Wayback Machine

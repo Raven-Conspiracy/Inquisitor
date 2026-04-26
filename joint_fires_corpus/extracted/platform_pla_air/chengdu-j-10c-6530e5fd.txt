@@ -1,0 +1,189 @@
+The Chengdu J-10 (Chinese: 歼-10; pinyin: Jiān-Shí), also known as Menglong (Chinese: 猛龙; pinyin: Měnglóng; lit. 'Vigorous Dragon', NATO reporting name: Firebird) is a Chinese medium-weight, single-engine, multirole combat aircraft using a delta wing and canard design, with a maximum speed of Mach 1.8. It is produced by the Chengdu Aircraft Corporation (CAC) for the People's Liberation Army Air Force (PLAAF)  of China, and exported to the Pakistan Air Force (PAF).
+
+
+== Development ==
+
+In 1981, PLAAF Commander Zhang Tingfa submitted a proposal to Deng Xiaoping for the development of a third-generation fighter for CN¥ 500 million; it was accepted later that year by the Central Military Commission (CMC). It was the first Chinese aircraft program to incorporate modern development and acquisition processes. In one departure from the past, the supplier was now responsible directly to the customer; this allowed the PLAAF to communicate its requirements and ensure they were met; previously suppliers were responsible to their managing agency, which could produce products that failed to meet end user requirements. Another difference was the selection of a design through competition, rather than allocating a project to an institute and using whatever design that institute created.
+Design proposals were made by the three major aircraft design institutes. Shenyang's proposal was based on its cancelled J-13 with a F-16-like strake-wing. Hongdu's proposal was MiG-23/Su-24-like with variable-sweep wing. Chengdu Aircraft Design Institute's (CADI) proposal was a Saab 37 Viggen-like design based on its cancelled J-9. CADI's proposal was selected in February 1984. The following month, CADI and Chengdu Fighter Factory were formally directed to develop and manufacture the aircraft, respectively. Song Wencong (宋文骢) became chief designer.
+The engine was selected during the design proposal stage. Candidates were an improved Woshan WS-6, the WP-15, or a new engine. The new engine, ultimately the Shenyang WS-10, was chosen in 1983.
+The State Council and the CMC approved the program in 1986, code-naming it "No. 10 Project". Interest waned in the following years which constrained funding and prolonged development. The Gulf War renewed interest and brought adequate resourcing. Unlike earlier programs, the J-10 avoided crippling requirement creep.
+Technical development was slow and difficult. The J-10 represented a higher level of complexity than earlier generations of Chinese aircraft. About 60% of the aircraft required new technology and parts, instead of - according to Chengdu - the usual 30% for new aircraft; the high proportion reflected both requirements and limited domestic capability. Development and modernization of China's aviation industry occurred alongside the J-10; the program was an early Chinese user of digital design, modelling, and testing including computer-aided design (CAD) and computational fluid dynamics. The J-10 was the first Chinese aircraft to make major use of CAD for its structural design, allowing the detailed design to be completed in 1994. The hydraulics system was tested with physical models because of limited digital modelling capabilities.
+The first J-10 was assembled in June 1997. Lei Qiang flew the first flight on 23 March 1998; Lei was chosen for his experience with modern, foreign, third-generation aircraft. PLA training units received the J-10 ahead of schedule starting in 2003. Weapons tests occurred in the fall of that year. The design was finalized in 2004. Rumors of crashes during flight testing were actually mishaps related to the AL-31 engine.
+The J-10 became operational in 2006. It was officially unveiled by the Chinese government in January 2007, when photographs were published by Xinhua News Agency.
+The Siberian Aeronautical Research Institute (SibNIA) of Russia was involved in the program by 2006. According to SibNIA, with role stated only as observing and instructing as "scientific guides".
+In May 2021, China National Radio released images of the J-10C powered by the WS-10B engine; this was the first time the WS-10 was officially seen on an operational J-10.
+
+
+=== Disputed origins ===
+
+In 1988 Israel's defense minister denied a report by The Sunday Times that Israel and China had agreed to develop a fighter derived from the IAI Lavi. In 2006, Russia's SibNIA engineers believed that the J-10 was "more or less a version" of the Lavi, incorporating "a melting pot of foreign technology and acquired design methods... but there are a number of other pieces of other aircraft or technologies that are part of the configuration that they have acquired from different sources." In 2008, Janes claimed that the J-10 benefited from technical information from the Israeli project, citing senior Russian engineers who said they had heard this from Chinese colleagues.
+The Chinese assert J-10's features claimed to be from the Lavi are from the manufacturer's own previous aircraft design, for example attributing the J-10's Lavi-like double canard configuration to Chengdu's work on the cancelled J-9 of the 1960s and 1970s; this view is supported by Song Wencong, who worked on the J-9 and became the J-10's chief designer, and PLAAF Major General Zhang Weigang.
+
+
+== Design ==
+The J-10 was designed and developed by the Chengdu Aircraft Design Institute (CADI), a subsidiary of Chengdu Aircraft Corporation.
+
+
+=== Avionics ===
+The cockpit has three liquid crystal (LCD) multi-function displays (MFD) and a Chinese developed holographic head-up display (HUD). These are compatible with a Chinese helmet mounted sight (HMS); the Chinese consider the HMS of the imported Sukhoi Su-27 to be worse.
+
+
+=== Radar ===
+The early J-10s were initially equipped with the Type 1473 pulse-Doppler radar (PD) developed by the CETC 14th Institute; the Type 1473 has been called China's first "successful" or "practical" PD radar.
+The J-10B is equipped with an active electronically scanned array (AESA) or passive electronically scanned array (PESA) radar. According to Chinese accounts, PESA was never used due to unsatisfactory performance; AVIC 607 Institute and CETC 14th Institute developed a PESA radar that could track multiple targets simultaneously but had shorter range than the PD radar. PESA and AESA development delayed the J-10B. CETC 14th Institute helped to develop the J-10B's AESA radar.
+
+
+=== Propulsion ===
+
+The J-10 is powered by a single turbofan. The J-10A entered production with the Russian Salyut AL-31FN. The initial version generated a maximum static thrust of 12,500 kgf (123 kN; 28,000 lbf). In December 2013, Salyut reported it was testing an upgraded AL-31FN Series 3 for China with 250 hours more life and 1000 kgf more thrust; the Series 3 would be equipped on the improved J-10B. Compared to the original Lyulka-Saturn AL-31F, the AL-31FN was fitted to the J-10 by rotating the gearbox and accessory pack to the underside.
+The J-10s intended engine is the Chinese Shenyang WS-10. The WS-10 suffered development difficulties and production of the aircraft went ahead with the Salyut AL-31FN as a substitute. A pre-production J-10C flew with a WS-10 at the 2018 China International Aviation & Aerospace Exhibition; the engine nozzle was modified for stealth and thrust vectoring (TVC). In March 2020, a video from Chinese state media showed a J-10C in PLAAF livery equipped with the WS-10B; WS-10B-powered aircraft were in service by November 2021.
+
+
+=== Weaponry and external loads ===
+
+The aircraft's internal armament consists of a Gryazev-Shipunov GSh-23 twin-barrel cannon, located underneath the port side of the intake. Other weaponry and equipment is mounted externally on 11 hardpoints, to which 5,600 kg (12,300 lb) of either missiles and bombs, drop-tanks containing fuel, or other equipment such as avionics pods can be attached.
+Ordnance carried may include short-range air-to-air missiles such as the PL-8 and PL-10 (on J-10C), medium-range radar-guided air-to-air missiles such as the PL-12 and PL-15 (on J-10C), unguided and precision guided munitions such as laser-guided bombs, air-to-surface missiles such as KD-88, anti-ship missiles such as the YJ-91A, and anti-radiation missiles such as the YJ-91.
+
+
+== Operational history ==
+
+
+=== China ===
+
+The first J-10 was delivered to PLA training units in 2003. Testing concluded in December 2003 and the type was declared operational shortly after.
+The J-10C entered combat service in April 2018.
+The J-10C has been reported to have consistently prevailed in simulated combat engagements against Su-35 fighters acquired from Russia, with the fighter's reduced radar visibility allowing it to detect and fire on its target first. The fighter's lower radar signature and significantly more advanced sensors and weaponry for both visual and beyond-visual range engagements were cited by experts as leading advantages the aircraft retained. The J-10C gained victories against both the Su-35 and the J-16 in exercises for three consecutive years from 2019 to 2021.
+
+
+=== Pakistan ===
+Negotiations for acquisitions for J-10A were started in 2006 when offered by China, but negotiations persisted into 2012 with the offer of the J-10B.
+In September 2020, it was reported that Pakistan was interested in the J-10C. In December 2021, Pakistan announced the purchase of 25 J-10CEs, with an option for 11 more. On 4 March 2022, the first batch of 6 J-10CEs for the Pakistan Air Force (PAF) landed at PAF Base Minhas (Kamra) after a ferry flight from Chengdu, China. They were officially inducted into the PAF's No. 15 Squadron Cobras based at PAF Base Minhas on 11 March 2022.
+PAF J-10CEs deployed against the Indian Air Force (IAF) during the May 2025 India–Pakistan conflict, and claimed to have shot down five IAF aircraft, including three Dassault Rafales. Chinese state media reported the J-10CE shooting down multiple aircraft in January 2026. According to French deputy Marc Chavent, several sources - including American analysts and NATO intelligence data - credited the J-10C with destroying a Rafale. The PL-15E long-range air-to-air missile may have been used. On May 7, analysts attributed an increase in Chengdu Aircraft Corporation's stock price to reports of the successful combat deployment of the J-10. This was the first use of the J-10 in combat.
+
+
+=== Potential operators ===
+
+
+==== Bangladesh ====
+During a four-day official visit to China on 26 March 2025, Chief Adviser of Bangladesh Muhammad Yunus discussed the potential purchase of multirole fighter jets. His press wing later confirmed that China responded positively to the proposal. According to government documents reviewed by The Business Standard in October 2025, Bangladesh is preparing to purchase 20 J-10CE jets by 2027 to modernize the Bangladesh Air Force and strengthen national air defence. The deal, valued at approximately $2.20 billion (around Tk27,060 crore), will also cover training, maintenance, and other related expenses. Officials stated that the procurement is likely to be completed under a government-to-government (G2G) agreement during the 2025–2026 and 2026–2027 fiscal years, with payments to be made in installments over 10 years, until 2035–2036.
+
+
+==== Indonesia ====
+In May 2025, Indonesian officials expressed interest in acquiring the J-10. By October 2025, Indonesia was considering acquiring J-10s. In mid-October, Indonesia's Ministry of Defense was reportedly authorized to raise US$1.6 billion from foreign lenders to buy J-10Bs. Indonesia's interest in the J-10 may include the low cost of the aircraft compared to other options, and diversifying military suppliers to demonstrate strategic neutrality. According to the Associated Press at least 42 J-10s are planned to be acquired.
+
+
+==== Serbia ====
+Russian Telegram channels reported that Serbia is considering the purchase of Chinese J-10CE multirole fighters. The J-10CE was exhibited in the form of a model at the Partner exhibition in Belgrade in 2023 and 2024. A high-level delegation of the Serbian Ministry of Defence, mostly made up of high-ranking Air Force and Air Defence officers, paid a four-day visit to China in 2025.
+
+
+==== Venezuela ====
+In August 2025, Venezuela has reportedly sought to acquire up to 20 J-10Cs.
+
+
+== Variants ==
+
+J-10A: Single seat variant. The export designation is F-10A or FC-20.
+J-10AH: Naval version of J-10A.
+J-10AY: Aerobatics variant of J-10A.
+J-10S: Tandem-seated trainer variant of J-10A.
+J-10SH: Naval version of J-10S.
+J-10B: An upgraded J-10, initially identified as "Super-10". It features a lighter and stealthier diverterless supersonic inlet, a longer nose radome possibly housing an active electronically scanned array radar, an electro-optic targeting sensor (IRST, and laser rangefinder,) and a new electronic warning or countermeasures pod atop the vertical stabiliser. The aircraft is powered by the AL-31FN M1; one unit was flown with a WS-10A in July 2011 but that engine was not selected for the initial production batch. The aircraft's first flight occurred no later than December 2008.
+J-10B TVC Demonstrator: A prototype fighter based on J-10B that is equipped with WS-10B thrust-vectoring control engine. The fighter has supermaneuverability, capable of performing the Cobra maneuver.
+J-10C: An upgraded version of J-10B, it is equipped with an indigenous AESA fire-control radar and is equipped with imaging infrared seeker (IIR) PL-10, WS-10B engine and PL-15 air-to-air missiles. The J-10C made its first flight in December 2013. Serial production began in 2015. Justin Bronk describes the J-10C as a 4.5 generation jet fighter.
+J-10CE: Export version of J-10C.
+J-10CY: Aerobatics variant of J-10C, replaced J-10AY.
+J-10D: Possible electronic warfare variant. Has a raised straight spine for equipment or fuel, a one-piece canopy to reduce radar reflection, and a redesigned wing for improved aerodynamics.
+
+
+== Operators ==
+
+ China
+People's Liberation Army Air Force: 236 J-10A, 55 J-10B, 220 J-10C, 77 J-10S (as of 2023)
+ Pakistan
+Pakistan Air Force: 20 J-10CE (plus 16 on order) (as of May 2025)
+
+
+== Accidents and incidents ==
+On 12 November 2016, an August 1st Aerobatics Team training flight suffered a mid-air collision in Hebei. A twin-seat J-10 crashed. The pilot, Captain Yu Xu, the first woman certified to fly the J-10, and the co-pilot ejected. Yu was struck by another J-10 and killed.
+In October 2020, the People's Liberation Army Daily reported that a J-10 crashed after a bird strike disabled its engine. The pilot ejected and survived.
+
+
+== Specifications (J-10C) ==
+
+Data from General characteristics
+Crew: 1
+Length: 16.9 m (55 ft 5 in)
+Wingspan: 9.8 m (32 ft 2 in)
+Height: 5.7 m (18 ft 8 in)
+Wing area: 37 m2 (400 sq ft)
+Gross weight: 14,000 kg (30,865 lb)
+Fuel capacity: 4000 L (3120 kg) external with 3 drop tanks (2 × 1600L + 1 × 800L)
+Powerplant: 1 × WS-10B afterburning turbofan engines, 89.17 kN (20,050 lbf) thrust   , 135 kN - 144 kN with afterburner
+Performance
+
+Maximum speed: Mach 1.8
+Stall speed: 200 km/h (120 mph, 110 kn)
+Range: 1,850 km (1,150 mi, 1,000 nmi) 
+Combat range: 1,240 km (770 mi, 670 nmi) 
+Ferry range: 2,950 km (1,830 mi, 1,590 nmi)
+Rate of climb: 300 m/s (59,000 ft/min) 
+Wing loading: 381 kg/m2 (78 lb/sq ft)
+Thrust/weight: 1.04
+Armament
+
+Guns: 1× Gryazev-Shipunov GSh-23
+Hardpoints: 11 in total (6 × under-wing, 2 × under-intake and 3 × under-fuselage) with a capacity of 5600 kg of external fuel and ordnance
+Rockets: 90 mm unguided rocket pods
+Missiles: 
+Air-to-air missiles:
+PL-8
+PL-10 (J-10C)
+PL-12
+PL-15 (J-10C)
+Air-to-surface missiles:
+KD-88 standoff land attack missile
+YJ-91 anti-radiation missile
+Bombs: Laser-guided bombs: (LS-500J, LT-2)Glide bombs: (LS-6, GB3, GB2A, GB3A, GB250)Satellite-guided bombs: (FT-1)Unguided bombs: 250 kg, 500 kg
+Others:
+Up to 3 external fuel drop-tanks (1 × under-fuselage, 2 × under-wing) for extended range and loitering time
+Avionics
+
+Radar
+KLJ-7A AESA Radar(J-10C)
+Type 1473H pulse-doppler fire-control radar (J-10A)
+Externally mounted avionics pods:
+K/JDC01A targeting pod (on J-10A)
+Type Hongguang-I infra-red search and track pod (on J-10A)
+CM-802AKG targeting pod for KD-88 and YJ-91 (on J-10C)
+KG600 electronic countermeasure pod
+Blue Sky navigation/attack pod
+WMD-7 Targeting Pod
+
+
+== See also ==
+
+Related development
+
+Chengdu J-9
+Shenyang J-13
+CAC/PAC JF-17 Thunder
+List of fighter aircraft
+List of aircraft produced by China
+Aircraft of comparable role, configuration, and era
+
+Boeing F/A-18E/F Super Hornet
+Dassault Rafale
+Eurofighter Typhoon
+Lockheed Martin F-16V Viper
+Mikoyan MiG-29 / MiG-35
+Mitsubishi F-2
+Saab JAS 39 Gripen
+
+
+== References ==
+
+
+=== Citations ===
+
+
+=== Bibliography ===

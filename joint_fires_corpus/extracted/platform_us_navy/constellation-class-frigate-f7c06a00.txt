@@ -1,0 +1,73 @@
+The Constellation is a class of multi-mission guided-missile frigates of the United States Navy based on the Italian Navy's version of the European multipurpose frigate or FREMM. Constellation follows the modular but troubled littoral combat ships of the Freedom and Independence classes. The U.S. Navy announced the FFG(X) frigate project in the United States Department of Defense's Request For Information (RFI) in July 2017.
+The Navy selected five shipbuilders to present their design concepts for a prospective class of up to twenty FFG(X) guided-missile frigates. In April 2020, the Navy announced that Fincantieri Marinette Marine had won the contract with a modified design based on the Italian version of FREMM designed by Fincantieri. The project was later renamed FFG-62 program after the lead ship of her class.
+The program was cancelled in November 2025, with only the first two ships already under construction to be finished and remaining four on order cancelled. A month later, in December 2025, it was announced that the design of the National Security Cutter will serve as basis of a new US Navy frigate program that is named FF(X).
+
+
+== Development ==
+The U.S. Navy contracted for the first FFG 62 in FY2020. The second ship contract was awarded in April 2021, and the third in FY22. The U.S. Navy's proposed FY2020 budget request was $1.281-billion for the procurement of the first FFG 62. The U.S. Navy's FY2020 budget submission shows that subsequent ships in the class were estimated by the Navy to cost $850 to $950-million each in then-year dollars.
+
+
+== Design ==
+
+The U.S. Navy's intention to contract for the first FFG(X) in 2020 did not allow enough time to develop a completely new design for the platform. Consequently, the U.S. Navy intended for the design of the FFG(X) to be a modified version of an existing "parent" ship design. The RFI says, "A competition for FFG(X) is envisioned to consider existing parent designs for a Small Surface Combatant that can be modified to accommodate the specific capability requirements prescribed by the U.S. Navy."
+The U.S. Navy wanted a frigate that could keep up with the aircraft carriers and have sensors networked in with the rest of the fleet to expand the overall tactical picture available to the group. It was planned in 2017 that the FFG(X) would "normally aggregate into strike groups and Large Surface Combatant led surface action groups but also possess the ability to robustly defend itself during conduct of independent operations while connected and contributing to the fleet tactical grid."
+In January 2019, the U.S. Navy announced that the new frigate design would have a minimum of 32 Mark 41 Vertical Launch System cells aboard the ship for primarily anti-air warfare for self-defense or escort missions.
+The U.S. Navy would like for the ship to be able to:
+
+Destroy surface ships over the horizon
+Detect enemy submarines
+Defend convoy ships
+Employ active and passive electronic warfare systems
+Defend against swarming small boat attacks
+The class was to have used a Combined Diesel Electric and Gas Hull, Mechanical and Electrical (HM&E) propulsion system, which had never been used in any other U.S. Navy ship. The new propulsion system was planned to be tested on land in order to reduce the risk of engine failure, which has plagued the previous littoral combat ship (LCS) program.
+The ongoing difficulties with the LCS were a major factor in the US Navy's original decision to kickstart the Constellation program. According to the Congressional Research Service, ongoing concerns include LCS survivability in a conflict, their limited armament, and their ability to complete the missions they were designed for. Other problems included their high cost (double original projection) and high maintenance costs.
+
+
+=== Contenders ===
+Six shipbuilders submitted proposals for conceptual designs to the U.S. Navy FFG(X) Frigate program. In February 2018, the U.S. Navy announced that from these proposals they had selected five shipbuilders with each awarded a $15-million contract to produce conceptual designs for the FFG(X). These shipbuilders were Austal USA, Fincantieri Marine Group, General Dynamics, Huntington Ingalls Industries, and Lockheed Martin.
+Atlas North America submitted the MEKO A-200, but was not selected for a conceptual design contract. Ship designs from the other five shipbuilders were evaluated by the U.S. Navy to inform the final specifications to be used for the FFG(X) request for proposal in 2019, and the intended contract award in 2020.
+In May 2019, Lockheed Martin withdrew from the competition, leaving four competitors for the Navy ship contract.
+
+
+=== Contract award ===
+On 30 April 2020, it was announced that Fincantieri Marinette Marine's FREMM design had won the contest. Fincantieri Marinette Marine (FMM), in Marinette, Wisconsin, was awarded a $795-million contract for detailed design and construction of the lead ship, Constellation, with options for nine additional ships. In May 2021, the U.S. Navy issued FMM a $554-million contract to start building the future USS Congress (FFG-63).  By May 2024, a total of six ships had been contracted for with FMM, and the Navy's 2025 budget included funds for the seventh ship.
+
+
+== Construction ==
+On 2 April 2024, USNI News reported that the Constellation-class frigates were delayed by three years by issues concerning shipyard backlogs and a lack of skilled workers. A year later, in April 2025, it was reported that the first frigate of the class, Constellation, was only 10 percent complete. Furthermore, the design had yet to be finalized and approved.
+On 25 November 2025, then Secretary of the Navy John Phelan announced that all but the first two ships in the class had been canceled as part of a Navy review of its fleet strategy, with an emphasis on designs that can be constructed more rapidly.  At the time, Constellation was reported to be 12 percent complete.
+
+
+== Ships of the class ==
+
+In June 2021, the Navy announced that Naval Station Everett in Washington would be the future home of the first 12 ships of the class.
+
+
+=== Naming ===
+In April 2020, four ship names were proposed by outgoing acting Secretary of the Navy, Thomas Modly as part of a draft announcement. He expressed a desire for the first ship to be named Agility with the class designated Agility class. Other names put forward were Intrepid, Endeavor, and Dauntless. However, Navy leaders said Modly's proposed names would not be adopted. In July 2020, it was reported by The War Zone that the lead ship would be named USS Brooke (FFG-80). Later the U.S. Navy clarified via Twitter that reports about reusing the USS Brooke name for a new warship were erroneous.
+In October 2020, Navy Secretary Kenneth Braithwaite announced the first FFG(X) frigate would be named USS Constellation (FFG-62). In December 2020, Secretary Braithwaite announced that the second ship of the class will be named USS Congress (FFG-63). In January 2021, Secretary Braithwaite announced that the third ship of the class will be named USS Chesapeake (FFG-64). All three ships are named after three of the U.S. Navy's original six frigates.
+United States ship naming conventions have historically named frigates after U.S. Navy and Marine Corps heroes or leaders. A report to Congress in February 2021 advised that the U.S. Navy had not stated that this naming scheme was a change in their rules for naming ships.
+
+
+== See also ==
+
+Admiral Gorshkov-class frigate (Russia)
+Daegu-class frigate (South Korea)
+Defence and intervention frigate (France)
+Istanbul-class frigate (Turkey)
+Mogami-class frigate (Japan, Australia)
+Nilgiri-class frigate (India)
+Tamandaré-class frigate (Brazil)
+Thaon di Revel-class frigates (Italy)
+Type 054B frigate (China)
+Type 26 frigates (United Kingdom, Australia, Canada, and Norway)
+Type 31 frigates (United Kingdom, Poland, and Indonesia)
+
+
+== References ==
+
+ This article incorporates public domain material from websites or documents of the United States government.
+
+
+== External links ==
+RFI Solicitation Number: N0002418R2300 - 2017-07-10; response by 24 August 2017

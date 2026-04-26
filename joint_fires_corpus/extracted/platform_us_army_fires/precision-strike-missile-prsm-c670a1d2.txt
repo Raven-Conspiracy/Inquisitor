@@ -1,0 +1,84 @@
+The Precision Strike Missile (PrSM; PRI-zim) is a series of ballistic missiles, both short- and later medium-range developed by Lockheed Martin to replace the MGM-140 ATACMS. The early variant of this missile, Increment One, is currently in service with both the United States Army and Australian Army, with Australia being a partner in the program. Later variants, notably the Land-Based Anti-Ship Missile (LBASM), will have an anti-ship targeting capability, with further variants introducing new payloads and ranges.
+The Precision Strike Missile is currently only capable of being fired from the M142 HIMARS launcher; plans are being explored to make the missile capable of being fired from surface ships through the Mark 41 vertical launching system. Australia and the United States are currently the only nations that possess the missile. Norway's request for export being denied, while the United Kingdom is considering purchasing it.
+The PrSM, along with other American and Australian missiles, is planned to be manufactured at a complex in Australia, augmenting domestic production in the United States. The missile was first used in combat by the United States during the 2026 Iran war.
+
+
+== Development ==
+
+In March 2016, Lockheed Martin, Boeing, and Raytheon announced they would bid on a missile to meet the US Army's Long Range Precision Fires (LRPF) requirement to replace the ATACMS. The PrSM will use advanced propulsion technology to fly faster and farther (originally out to 310 mi or 500 km). It is also designed to be thinner and sleeker, increasing the number of missiles per pod to two, and doubling the capacity of the M270 MLRS and M142 HIMARS launchers. Boeing and Raytheon were involved in the competitive effort, but both left the competition in early 2020, leaving Lockheed Martin to develop the missile. The weapon was planned to achieve initial operational capability in 2023; the initial PrSM will only be able to hit stationary targets on land, but later versions will track moving targets on land and sea. With the United States withdrawal from the Intermediate-Range Nuclear Forces Treaty, the range of the PrSM is to be increased beyond the 310 mi (500 km) limitation imposed by the treaty.
+In June 2020, the Army had begun testing a new multi-mode seeker, an upgrade for the Precision Strike Missile. The upgraded seeker is expected to be part of a major program improvement planned for 2025. Technological advancements including the potential application of ramjet technology could extend the weapon's range up to 620 mi (1,000 km).
+In July 2021, the US announced that Australia had become a partner in the PrSM Program with the Australian Army signing a memorandum of understanding for Increment 2 (Land-Based Anti-Ship Missile) of the program with the US Army's Defense Exports and Cooperation and had contributed US$54 million. In January 2024, Australia committed to continue the partnership with the United States and will subsequently also purchase PrSM Increments 3 and 4. This will extend the range of Australia's PrSM missiles beyond 1,000 km (620 mi) and will potentially rival Australia's longest range missile, the BGM-109 Tomahawk. In June 2025, the country signed a Memorandum of Understanding with the United States to jointly develop the missile.
+
+The United Kingdom, as part of an upgrade to the British Army's M270 MLRS to the M270A2 standard, has hinted that it may possibly acquire PrSM.
+On 8 December 2023, the US Army announced that the first PrSM batch had been delivered.
+On 17 June 2024, the decommissioned Austin-class amphibious transport dock USS Cleveland was sunk as a target ship in the North Pacific Ocean's Mariana Island Range Complex, apparently in the first test of the PrSM on a moving target.
+On 26 August 2024, it was announced that the US has turned down a request from Norway to acquire the Precision Strike Missile (PrSM).
+On 23 January 2025, the Baltic Defence Cooperation Ministerial Committee expressed the common interest of the Baltic States in the acquisition of the HIMARS Precision Strike Missile (PrSM) by signing the Joint Statement.
+
+
+== Usage ==
+In March 2026, U.S. Central Command released images of an M142 HIMARS employing the Precision Strike Missile (PrSM) in strikes on Iranian military targets during Operation Epic Fury, marking PrSM's first confirmed combat use.
+Iran's state news agency, Islamic Republic News Agency (IRNA), reported 21 people killed, in a missile strike on a sports hall and an adjacent elementary school in the Iranian city of Lamerd on 28 February 2026. The New York Times and BBC both reported that PrSMs were the weapon used.
+
+
+== Variants ==
+The PrSM has four "increments" either in development or to be developed.
+
+
+=== Increment One ===
+Increment One is the current missile in use by the United States Army. It has a treaty-bound range of 310 mi (500 km), and does not contain a multi-mode seeker. It is gradually replacing the MGM-140 ATACMS tactical ballistic missiles. Australia operates this variant as of July 2025.
+
+
+=== Land Based Anti-Ship Missile (Inc 2) ===
+Increment Two of the PrSM is known officially as the Land Based Anti-Ship Missile. LBASM features a multi-mode seeker, unlike Increment One, enabling it to traverse area denied areas with more ease. As LBASM was in development following the US withdrawal from the Intermediate-Range Nuclear Forces Treaty in 2019, its range is to be increased beyond the previous 310 mi (500 km) threshold, up to an expected 620 mi (1,000 km) range, as well as increasing the speed of the missile. As the name suggests, the LBASM will be an anti-ship ballistic missile, and in collaboration with the multi-mode seeker will have the ability to engage moving targets. It is understood that the first procurement of the missile is to be completed in FY2028, with the United States Marine Corps then receiving them.
+LBASM is in a contest with a domestic system, StrikeMaster, firing Naval Strike Missile for an Australian coastal defence system contract.
+A first live test was conducted in 2024.
+
+
+=== Increment Three ===
+
+Increment Three of the missile will include most of the same technology of Increments One and Two. Its main addition is to be the extension of the variety of armaments for the missile can carry, with it likely carrying more explosive munitions. For Increment Three it is to be designed for use as an anti-fortification weapon, likely being able to destroy more structures. There is no information available as to when Increment Three is to be procured by the United States Armed Forces or the Australian Army. However it is believed they will be made available following Increments one, two and four. According to Lockheed Martin, a new warhead will be included in Increment Three, and the Army is looking at including submunition capabilities, including the Raytheon Coyote drone family and the Orbital ATK Hatchet miniature glide bomb.
+
+
+=== Increment Four ===
+Increment Four has a focus on the extension of the range of the missile, whilst containing most of the technology of Increments One, Two, and likely Three. Four will aim to extend the range beyond the 310 mi (500 km) range of Increment One, as well as the 620 mi (1,000 km) range of Increment Two. It will advance the technology of propulsion, and aerodynamics to achieve this range. Increment Four is currently being competed for contracts by; Lockheed Martin, as well as a combined Raytheon-Northrop Grumman team.
+
+
+=== Increment Five ===
+In December 2024, the director of the Long-Range Precision Fires Cross Functional Team, Brig. Gen. Rory Crooks, separately explained that initial work on a fifth increment is underway, and a science and technology development initiative will kick-off in fiscal year 2026. The idea, he explained, is to design a missile that can be fired from an autonomous vehicle. "If you’re familiar with an [M270 Multiple Launch Rocket System] MLRS pod, it's about 13-feet long [4 meters]", the one-star general told the audience. "If you have something without a cab, that’s autonomous, you might be able to employ something longer than that."
+
+
+== Operators ==
+
+
+=== Current operators ===
+ Australia
+ Australian Army – Australia intends to domestically manufacture PrSM missiles within the next 10 years, on top of initial imports of the missile from the United States. In June 2025, the Australian government signed a Memorandum of Understanding for PrSM production, sustainment and follow-on development. In July 2025, Australia test fired one of their first PrSM Increment 1's during Exercise Talisman Sabre.
+ United States
+ United States Army
+
+
+=== Future operators ===
+ United States
+ United States Marine Corps
+
+
+=== Failed bids ===
+ Norway – A Norwegian request to buy PrSM was turned down by U.S. authorities in August 2024, due to export restrictions at the time. A simultaneous request for M57 ATACMS and M142 HIMARS launchers was however approved , but both were ultimately turned down in favor of the South Korean K239 Chunmoo with associated missiles.
+
+
+== See also ==
+OpFires – DARPA's experimental hypersonic glide vehicle medium-range ballistic missile program
+Nightfall (missile)
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+ Media related to Precision Strike Missile at Wikimedia Commons
+
+Precision Strike Missile - product descriptions on the website of Lockheed Martin

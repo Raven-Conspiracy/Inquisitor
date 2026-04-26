@@ -1,0 +1,25 @@
+The  AN/APG-83 Scalable Agile Beam Radar (SABR) is a full-performance active electronically scanned array (AESA) fire control radar for the Lockheed Martin F-16V Viper and other aircraft developed by Northrop Grumman. In a 2013 competition, Lockheed Martin selected SABR as the AESA radar for the F-16 modernization and update programs of the United States Air Force and Republic of China Air Force. 
+The capabilities of this advanced AESA are derived from the F-22's AN/APG-77 and the F-35's AN/APG-81. It is designed to fit F-16 aircraft with no structural, power or cooling modifications. The SABR is scalable to fit other aircraft platforms and mission areas.
+In 2010, a SABR was installed on a USAF F-16 at Edwards AFB and flew 17 consecutive demonstration sorties without cooling or stability issues.
+In addition to equipping F-16V for Taiwan and other US allies, US Air Force also selected APG-83 SABR to upgrade 72 of its Air National Guard F-16s.
+In January 2014, Singapore ordered 70 AN/APG-83 SABR for its 60 F-16C/D/D+ Block 52 upgrade, in a $2.43 billion deal.
+At August 2018, Northrop Grumman conducted an APG-83 fit test on an F/A-18.
+A derivative of the AN/APG-83, the SABR-GS (Global Strike), will be fitted to the Rockwell B-1 Lancer beginning in 2016.
+In February 2019, Northrop Grumman offered SABR for retrofitting Boeing B-52H Stratofortress, which currently uses mechanically scanning AN/APQ-166 attack radar. In July 2019, Boeing selected AN/APG-82(V)1/(AN/APG-79) from Raytheon for its B-52H radar modernization program.
+Northrop Grumman to offer SABR radar for Seoul's FA-50 Block 20 fighter.
+The US Air Force is installing the AN/APG-83 SABR on 608 of its F-16C/D Block 40/42 and F-16C/D 50/52 fighters.
+In accordance with the Joint Electronics Type Designation System (JETDS), the "AN/APG-83" designation represents the 83rd design of an Army-Navy airborne electronic device for radar fire-control equipment. The JETDS system also now is used to name all Department of Defense electronic systems.
+
+
+== See also ==
+
+List of radars
+List of military electronics of the United States
+
+
+== References ==
+
+
+== External links ==
+Northrop Grumman SABR Radar (Archived)
+SABR/Scalable Agile Beam Radar – Deagel.com

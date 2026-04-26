@@ -1,0 +1,60 @@
+Oreshnik (Russian: Орешник, lit. 'Hazel shrub'), is a Russian intermediate-range ballistic missile (IRBM) characterized by its reported speed exceeding Mach 10 (12,300 km/h; 7,610 mph; 3.40 km/s), according to the Ukrainian military. Oreshnik saw its first combat use on 21 November 2024, striking the Ukrainian city of Dnipro. The missile carries multiple independently targetable reentry vehicles, previously exclusively used by nuclear weapons, equipped with six warheads, each reportedly containing submunitions. These have been described as highly difficult to intercept, though modern ballistic missile interceptors are designed to counter this type of system. Deputy Pentagon Press Secretary Sabrina Singh has identified the Oreshnik as a variant of the RS-26 Rubezh IRBM.
+
+
+== History ==
+
+
+=== Development ===
+Oreshnik is believed to be derived from the RS-26 Rubezh IRBM, which has been test-fired five times but never entered service. According to experts, the Oreshnik likely removed a booster stage from the RS-26, reducing its range. Russian president Vladimir Putin said on 1 August 2025 that Oreshnik had entered production and service and the first batch had been delivered to the Russian troops. The U.S. Intelligence Community has (with the benefit of hard burntime data) assessed that Oreshnik is an RS-26 according to Jeffrey Lewis of the Middlebury Institute of International Studies at Monterey, who himself assesses with fair confidence that Oreshnik is likely a two-stage RS-26 variant. Additionally, the combat support vehicles for the RS-26 and the Oreshnik are the same.
+
+
+=== First operational use ===
+During the Russo-Ukrainian war, on 20 November 2024, the United States warned Ukraine and other allies about a "potential significant air attack". The same day, the U.S. and a number of other countries closed their embassies in Kyiv.
+On 21 November, an Oreshnik operational-use missile was employed in an attack on Ukraine's PA Pivdenmash facility in Dnipro. Initially, Ukrainian reports speculated that the attack involved an intercontinental ballistic missile; however, subsequent assessments identified the Oreshnik as the weapon used. The missile was launched from Astrakhan Oblast, likely the Kapustin Yar training ground. It reportedly carried a multiple independently targetable reentry vehicle (MIRV) payload, as suggested by unverified footage. Later analyses indicated the strike may not have involved explosives and was potentially intended as a political demonstration. According to senior Ukrainian officials, the missile was equipped with "dummy" warheads that lacked explosives, prompting U.S. experts to describe the method as an "expensive way to deliver not that much destruction". The launch appears to have been conducted with a lofted trajectory. Eyewitnesses reported that the 21 November attack on Dnipro, which included an Oreshnik strike, triggered explosions lasting up to three hours. A director at the Center for Strategic and International Studies said that Oreshnik's warheads, even inert, can cause "a lot of damage" because of the kinetic energy created by their hypersonic speed. Satellite images later revealed minimal damage to the roofs of Pivdenmash buildings and to the nearby private sector.
+According to Vladimir Putin, this was a live-fire test. Putin stated that the strike was carried out in response to Ukraine's allies permitting the use of ATACMS and Storm Shadow missiles against military targets on Russian territory. However, according to Reuters and The New York Times, Russia's Chief of the General Staff Valery Gerasimov admitted in a phone call with U.S. Chairman of the Joint Chiefs of Staff Charles Brown that the strike had been planned long before the Biden administration agreed to allow Ukraine to use American missiles for strikes on Russian territory. Prior to the launch, Russia warned the United States about the missile launch through nuclear conflict risk reduction channels 30 minutes beforehand.
+On 31 October 2025, Ukrainian HUR, SBU and Armed Forces claimed that during a special operation in the summer of 2023, they had destroyed one Russian Oreshnik missile system at the Kapustin Yar testing site, leaving two operational. The exact time of the operation and how it was carried out was not stated.
+
+
+=== Later use ===
+On the night of 8 January 2026, Russian forces launched an Oreshnik missile from Kapustin Yar test site that struck the city of Lviv, the first time Lviv Oblast was hit by a ballistic missile during the Russo-Ukrainian war. The Ukrainian Air Force stated that the attack was combined with a wider drone and missile strike. Later, the Russian Ministry of Defense confirmed the Oreshnik strike on the Lviv State Aviation Repair Plant.
+
+
+== Capabilities and challenges ==
+
+
+=== Interception difficulties ===
+The missile's MIRV payload distinguishes it from other nuclear-capable missiles used against Ukraine, making it exceptionally challenging for Ukraine to intercept with its current defenses, according to a director at the Center for Strategic and International Studies (CSIS). Ukrainian military analysts stated that the Oreshnik travels through the upper atmosphere, undetectable by Ukraine's air defense systems. This capability renders interception effectively impossible by Ukraine's missile defense systems; though modern interceptors not present in Ukraine, such as Israel's Arrow 3 and the U.S. SM-3 Block 2A are specifically designed to defeat this type of threat.
+
+
+=== Experimental nature ===
+U.S. officials have noted that the Oreshnik remains experimental despite its advanced features. Though Putin has emphasized claims of the experimental nature of the system and its hypersonic capability, according to several military experts, the weapon is actually an application of old technology used for many years in ICBMs. According to nonproliferation expert Dr. Jeffrey Lewis, none of the technology in Oreshnik is novel or represents a dramatic change in the way that conventional weapons are developed; rather, it was "a series of old technologies that have been put together in a new way". A defense expert at the University of Oslo suggested that it likely incorporates no more than 10% new components. Russia is believed to possess only a limited number of units, making regular deployment against Ukraine improbable.
+
+
+=== Accuracy challenges ===
+Experts have noted that the accuracy of Oreshnik, as demonstrated in the footage from the Dnipro strike, is sufficient for delivering a nuclear payload but not for a conventional one. According to William Alberque of the Henry L. Stimson Center, "If Russia is working on a MIRV with a conventional CEP, we've never seen it." Other experts have noted that the accuracy concerns from Oreshnik's warheads could be mitigated by using submunitions.
+
+
+== Intimidation campaign ==
+Experts suggest that Putin launched a missile at Dnipro as a form of nuclear intimidation, following an unsuccessful attempt to establish "red lines" aimed at deterring U.S.-supplied missile strikes on Russian territory. Several media outlets and public figures have interpreted the 21 November strike with a new missile as a form of nuclear blackmail. For instance, The Economist published an article entitled "Vladimir Putin fires a new missile to amplify his nuclear threats", and the Institute for the Study of War argues that Putin rhetorically linked the 21 November Oreshnik strike to Russia's nuclear capabilities to dissuade Western nations from continuing their support for Ukraine.
+Russian nuclear policy expert Maksim Starchak suggested that the primary purpose of the missile's use was not military damage but psychological pressure. He believes the strike was intended to frighten European residents into pressuring their governments to comply with Russia's demands. According to Meduza, the Kremlin's intent might have been to instill fear of conflict escalation with Russia in the incoming U.S. administration, thereby influencing its policies.
+According to The Moscow Times, the medium-range missile strike was part of a propaganda campaign orchestrated by the Russian military and intelligence services to intimidate Western leadership and populations. The operation was reportedly a response to Ukraine being permitted to use long-range missiles against Russian targets, with the ultimate aim of coercing the West into yielding to Moscow's demands.
+Military expert Mathieu Boulegue of Chatham House (UK) stated that while the Oreshnik missile does not alter the dynamics on the battlefield, it effectively serves the Kremlin's purpose of intimidating Western audiences. Similarly, James J. Townsend, a senior fellow at the Center for a New American Security, interpreted the missile's deployment as Russia's expression of dissatisfaction with the use of Western-produced long-range missiles by Ukraine. Townsend also described it as a message to Ukraine and the incoming U.S. President Donald Trump, signaling that Russia remains committed to pursuing its objectives regardless of Western support for Ukraine.
+
+
+== Deployment ==
+
+In late August 2025, Planet Labs satellite imagery showed what analysts interpreted as preparation of an Oreshnik launch site in Belarus about 60 km (37 mi) south of Minsk. On a former Strategic Rocket Forces site, an area larger than 2 km2 (0.77 sq mi) had been cleared of unexploded ordnance and a number of new structures had been erected. On 18 December 2025, the Belarusian President Alexander Lukashenko stated that Oreshnik missile system arrived in Belarus the day before and is entering combat service. On the same day, the Chief of the Russian Armed Forces General Staff Valery Gerasimov stated that Russia equipped a brigade with the missiles in 2025.
+In December 2025, Belarusian Defense Minister Viktor Khrenin claimed that the plans were "our response" to the "aggressive actions" of the West. There are plans to deploy US Typhon missile systems in Germany in 2026. On 26 December, Jeffrey Lewis and Decker Eveleth published an analysis in which they concluded with 90% certainty that Oreshnik mobile launchers were either present or about to be deployed at the site. On 30 December 2025, the Russian Ministry of Defense reported that Oreshnik missiles stationed in Belarus have been placed on combat duty and posted a relevant video.
+
+
+== See also ==
+53T6 – USSR anti-ballistic missile
+Agni-V – Indian road-mobile ICBM
+Avangard – Russian missile
+DF-41 – Chinese intercontinental ballistic missile
+RS-28 Sarmat – Russian intercontinental ballistic missile
+RSM-56 Bulava – Russian submarine-launched ballistic missile
+UGM-73 Poseidon – US nuclear ballistic missle
+
+
+== References ==

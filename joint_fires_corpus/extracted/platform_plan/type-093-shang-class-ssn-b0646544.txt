@@ -1,0 +1,48 @@
+The Type 093 submarine (NATO reporting name: Shang class) is a class of nuclear-powered attack submarines constructed by the People's Republic of China for the People's Liberation Army Navy (PLAN).
+
+
+== Development ==
+The first-generation of Chinese nuclear submarines, the Type 091 attack and the Type 092 ballistic missile submarines (SSBN), were costly for their limited capability. There was little political support for further development after the Cultural Revolution; they were not a priority in Deng Xiaoping's Four Modernizations. Research on design and foreign developments continued throughout the 1980s, with a new reactor design in development by 1987. Support for new nuclear submarines emerged in 1994 under Jiang Zemin after the 1993 Yinhe incident and continued tensions with Taiwan. Reportedly, Russian experts contributed to the Type 093's design. The first boat was laid down in 1994 and commissioned in 2006. The first two boats had unsatisfactory speed and noise. Further boats were delayed to free yard capacity for the Type 094 SSBN.
+The four Type 093A boats, commissioned from 2015-2018, introduced longer streamlined sails for greater speed. The first two Type 093As were also relatively quieter by incorporating acoustic dampening technology developed from Kilo-class submarines purchased from Russia. The last two Type 093As may have been further improved by using acoustic dampening mounts derived from later Russian technology, possibly making them China's "first quiet submarine."
+The Type 093B has pump-jet propulsion. The first was reportedly launched in early-2022; according to Carlson and Wang, the reported launch in May 2022 likely did not happen as the rail line between the construction hall to the launching barge was blocked. In 2024, the United States reported the first three could be operational in 2025.
+
+
+=== Unverified accident in August 2023 ===
+On 21 August 2023, Lude Media, an anti-Chinese Communist Party social media organization run by Wang Dinggang, reported that a Type 093 had been lost with its entire crew around the Taiwan Strait. The report was unsubstantiated. On August 22, Taiwan's Ministry of National Defense reported its intelligence and surveillance had not detected an incident. On August 31, China stated the report was false.
+Radio Free Asia cited Chris Carlson, a retired submariner and US naval intelligence analyst stating "(t)he problem is the vast majority of the reporting (...) is from Taiwanese sources that have some credibility issues" and that the details required verification.
+
+
+== Variants ==
+
+
+=== Type 093 ===
+Two Type 093s were built, with the NATO reporting name Shang I.
+The boat uses a similar teardrop hull as the Type 091, and also has the same pressure hull width of 9 meters. Acoustic dampening likely uses a Chinese compound isolation system, similar to those used by European conventional submarines. The Type 093 had a noise level similar to the Soviet Project 671 (NATO reporting name Victor I) which entered service in the late-1960s.
+In 2013 to 2015, one boat's sail was streamlined with a small cusp or fillet at the bottom of leading edge and a slight round down at the top of the sail. The modifications to later boats suggests it was not particularly effective.
+
+
+=== Type 093A ===
+Four Type 093As were built, with the NATO reporting name Shang II.
+These boats have a streamlined sail lengthened by 2.5 meters to reach the Type 093's design speed of 30 knots, a stern towed array sonar deployment tube, and a hump behind the sail; the hump is likely for the towed array handling gear and is not a vertical launching system (VLS). The hump was box-like on the first boat, tall and streamlined on the second, and low and streamlined on the third and fourth.
+The Type 093As were some of the first Chinese submarines to incorporate Russian acoustic dampening technology imported starting in the 1990s. China imported Kilo submarines in the 1990s, with Project 877EKM including anechoic tiles, and Project 636 including pneumatic isolation mounts; Chinese derivatives of these components were installed on the first two Type 093As giving them a noise level similar to the Soviet Project 671RT (NATO reporting name Victor II) which entered service in the early 1970s.
+China may have acquired components or data in the early-2000s for the later-generation APRKu pneumatic isolation mounts used by Russian third and fourth generation submarines, and used it to develop the JYQN mount which was patented in 2012. The last two Type 093As may have received JYQN mounts, possibly giving the boats noise levels like early Project 671RTM (NATO reporting name Victor III) which entered service in the late-1970s.
+
+
+=== Type 093B ===
+The Type 093B is under construction, with the NATO reporting name Shang III.
+The boat has a pump-jet propulsor and a 24-cell vertical vertical launching system. The United States classifies it as a cruise-missile submarine.
+Chinese proficiency in precision manufacturing since 2012-2013 may result in a noise levels like the Soviet Project 945 (NATO reporting name Sierra I) that launched in 1983.
+
+
+== Ships of class ==
+
+
+== See also ==
+People's Liberation Army Navy Submarine Force
+List of submarine classes in service
+
+
+== References ==
+
+
+== Sources ==

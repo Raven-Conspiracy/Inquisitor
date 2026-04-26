@@ -1,0 +1,53 @@
+The CJ-10 (simplified Chinese: 长剑-10; traditional Chinese: 長劍-10; pinyin: Cháng Jiàn 10; lit. 'long sword 10') is a second-generation Chinese land-attack cruise missile. It is derived from the Kh-55 missile. It is reportedly manufactured by the China Aerospace Science and Industry Corporation Third Academy and the China Haiying Electro-Mechanical Technology Academy.
+Initially, the CJ-10 was identified as the DH-10 (Chinese: 东海-10; pinyin: Dong Hai 10; lit. 'east sea 10') by Western media and analysts. United States Department of Defense reports used "DH-10" until 2011, and then "CJ-10" from 2012. Publications may use both terms interchangeably. The Center for Strategic and International Studies believes that the CJ-10 is a member of the Hongniao (HN) series of missiles; Ian Easton believes that the CJ-10 is the same missile as the HN-2, and that the HN-3 is the "DH-10A".
+
+
+== Description ==
+In the September 2014 edition of Joint Forces Quarterly, an article reportedly described CJ-10 as a subsonic missile with a range exceeding 1,500 km and a 500 kg payload. The article attributes the missile having a guidance package using inertial navigation system, satellite navigation, terrain contour matching, and a likely Digital Scene-Mapping Area Correlator for terminal guidance. Ships and transporter erector launchers were listed as launch platforms.
+In 2013, the United States believed that the missile had a range exceeding 1,500 km and could potentially carry either conventional or nuclear payloads. In 2004, the CJ-10 was credited with a CEP of 10 m.
+The YJ-100 is a subsonic anti-ship version of the CJ-10 with a range of 800 km (500 mi; 430 nmi). The missile can be air-launched by the H-6 bomber and fired from a vertical launching system of the Type 055 destroyer, according to Chinese expert Li Li on Chinese television. The YJ-100 will have an onboard radar.
+
+
+== Development ==
+The development of the CJ-10 could have potentially benefited significantly from the Chinese acquisition of NATO and Soviet missile technology in the 1990s, notably the Kh-55 (purchased from Ukraine), and the Tomahawk cruise missiles (that were unexploded and purchased from Iraq and Serbia). A 1995 Russian document suggested a complete production facility had been transferred to Shanghai for the development of a nuclear-armed cruise missile. Originally, it was thought that this was based on the 300 km-range Raduga Kh-15 (AS-16 'Kickback'), but it now appears that it was the Kh-55 that was transferred to China.
+Jane's Information Group reported that the CJ-10 was tested in 2004. An August 2012 report by Jane's indicated that a shipborne variant of the missile may have been tested on Bi Sheng, a Chinese weapons trial ship.
+In 2008, the United States estimated that 50–250 missiles were in service, increasing to 150–350 in 2009.
+
+
+== Variants ==
+CJ-10 (DF-10)
+Baseline version. Known as DH-10 during the prototype phase. Sometimes called the DF-10.
+CJ-10A (DF-10A)
+Land-attack cruise missile. Reportedly a stealthier, more accurate, version of the CJ-10.
+"DH-2000"
+Supposedly a supersonic version of the DH-10A.
+CJ-10K
+Air-launched version with a 1500 km range; may be carried by the Xian H-6K.
+CJ-20
+Air-launched version of the CJ-10 with an estimated range of more than 2,000 km (1,200 mi; 1,100 nmi). Reportedly been tested on the Xian H-6; each bomber may carry four missiles externally.
+YJ-100
+Anti-ship version with an 800 km (500 mi) or 1,000–1,500 km (620–930 mi) range, launched by H-6 bomber and Type 055 destroyer. Air-launched YJ-100 and CJ-10K are both referred as KD-20 in separate sources.
+CJ-20A
+Updated version of the CJ-20.
+
+
+== Operators ==
+ China
+ People's Liberation Army Rocket Force: 200–500 CJ-10 (est. as of December 2009)
+ People's Liberation Army Air Force: CJ-20, CJ-20A
+ People's Liberation Army Navy
+
+
+== See also ==
+YJ-62 – similar anti-ship missile
+CJ-100
+
+
+== References ==
+
+Bibliography
+
+
+== External links ==
+DH-10 / CJ-10 / Land-Attack Cruise Missiles (LACM)
+Photos of different variants

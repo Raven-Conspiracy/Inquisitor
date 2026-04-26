@@ -1,0 +1,32 @@
+The AN/APG-77 is a multifunction X-band, low probability of intercept radar (LPIR) installed aboard the F-22 Raptor fighter aircraft. The radar was designed and initially built by Westinghouse and Texas Instruments, and production continued with their respective successors Northrop Grumman and Raytheon after acquisition.
+It is a solid-state, Active Electronically Scanned Array (AESA) radar whose design is based on the AN/APG-66/68/80(V) family of fire control radars. Composed of 1,956 transmit/receive modules (TRM), each about the size of a gum stick, it can perform a near-instantaneous beam steering (in the order of tens of nanoseconds).
+In accordance with the Joint Electronics Type Designation System (JETDS), the "AN/APG-77" designation represents the 77th design of an Army-Navy airborne electronic device for radar fire-control equipment. The JETDS system is also now used to name all Department of Defense and some NATO electronic systems.
+
+
+== Implementation ==
+The APG-77 was highly appreciated by pilots transitioning from F-15s upon the F-22's introduction in 2005, providing a massive boost in situational awareness. The APG-77 has an incredibly fast scan time across its 120 degree field of view and could detect aircraft from over 320 mi (510 km) away. The AN/APG-77 system itself exhibits a very low radar cross-section, supporting the F-22's stealthy design. The AN/APG-77 also features powerful jamming capabilities said to "fry" the electronics of enemy sensors. 
+
+
+== Improvements ==
+The upgraded version of the radar, designated APG-77(V)1, may have even greater range. Much of the technology developed for the APG-77 was used in developing the AN/APG-81 radar for the F-35 Lightning II, and in turn the technology from the APG-81 was applied upgrading to the APG-77(V)1. The APG-77(V)1 was installed aboard F-22 Raptors from Lot 5 onwards. The (V)1 improved air-to-air performance, full air-to-ground functionality (high-resolution synthetic aperture radar mapping, ground moving target indication and track (GMTI/GMTT), automatic cueing and recognition, combat identification, and many other advanced features.
+
+
+== References ==
+
+
+== Bibliography ==
+Forecast International (October 2012). "APG-77(V)". Airborne Electronics Forecast. Forecast International. Retrieved 22 July 2025. (7 pages)
+Briggs, Dr David L; Everett, Robert R (April 2001). Future DoD Airborne High-Frequency Radar Needs/Resources (PDF). Defense Science Board (Report). Washington, D.C.: Department of Defense. DTIC ADA391893. Archived from the original (PDF) on 20 September 2012. Retrieved 22 July 2025. (67 pages)
+
+
+== See also ==
+
+Phased array
+Active electronically scanned array
+List of radars
+List of military electronics of the United States
+
+
+== External links ==
+AN/APG-77 radar technology explained
+f22fighter.com: AN/APG-77 Archived 2007-06-07 at the Wayback Machine

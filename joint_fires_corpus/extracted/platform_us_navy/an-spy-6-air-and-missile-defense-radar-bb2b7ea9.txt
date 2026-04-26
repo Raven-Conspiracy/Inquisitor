@@ -1,0 +1,56 @@
+The AN/SPY-6 is an active electronically scanned array (AESA) 3D radar system developed and built by RTX Corporation, and in service with the United States Navy (USN). It provides integrated air and missile defense for Flight III Arleigh Burke-class destroyers. Variants are under development for retrofitting Flight IIA Arleigh Burkes and for installation aboard Constellation-class frigates, Gerald R. Ford-class aircraft carriers, America-class amphibious assault ships (LHA-8 and future), and San Antonio-class amphibious transport docks. The first delivery of the AN/SPY-6 to the USN took place on 20 July 2020.
+In accordance with the Joint Electronics Type Designation System (JETDS), the "AN/SPY-6" designation represents the 6th design of an Army-Navy electronic device for surface ship surveillance radar system. The JETDS system also now is used to name all Department of Defense electronic systems.
+
+
+== Development ==
+
+In September 2010, the Navy awarded technology development contracts to Northrop Grumman, Lockheed Martin, and Raytheon to develop the S-band radar and radar suite controller (RSC). X-band radar development reportedly will come under separate contracts. The Navy hopes to place AMDR on Flight III Arleigh Burke-class destroyers, possibly beginning in 2016. Those ships currently mount the Aegis Combat System, produced by Lockheed Martin.
+In October 2013, "Raytheon Company (RTN) [was] awarded an almost $386m cost-plus-incentive-fee contract for the Engineering and Manufacturing Development (EMD) phase design, development, integration, test, and delivery of Air and Missile Defense S-band Radar (AMDR-S) and Radar Suite Controller (RSC)." 
+In 2013, the Navy cut almost $10B from the cost of the program by adopting a smaller less capable system that will be challenged by "future threats". As of 2013, the program is expected to deliver 22 radars at a total cost of almost $6.6B. They will cost $300m/unit in serial production. Testing is planned for 2021 and Initial operating capability is planned for March 2023.
+The Navy was forced to halt the contract in response to a challenge by Lockheed. Lockheed officially withdrew their protest in January 2014, allowing the Navy to lift the stop work order.
+In March 2022, Raytheon announced a $3.2B contract to outfit every new surface ship in the US Navy with the SPY-6 family of radars.
+In October 2025, Raytheon announced that Germany had selected the SPY-6(V)1 for its Type F127 frigates, making Germany the first international customer for the system.
+
+
+== Technology ==
+The SPY-6 system consists of two primary radars and a radar suite controller (RSC) to coordinate the sensors. An S-band radar is to provide volume search, tracking, ballistic missile defense discrimination, and missile communications, while the X-band radar is to provide horizon search, precision tracking, missile communication, and terminal illumination of targets. The S-band and X-band sensors will also share functionality, including radar navigation, periscope detection, and missile guidance and communication. SPY-6 is intended as a scalable system, with each sensor array assembled from Radar Modular Assemblies (RMA), self-contained radar modules.
+The Arleigh Burke deckhouse can only accommodate a 4.3 m (14 ft) version, but the USN claims they need a radar of 6.1 m (20 ft) or more to meet future ballistic missile threats. This would require a new ship design. Ingalls has proposed the San Antonio-class amphibious transport dock as the basis for a ballistic missile defense cruiser with 6.1 m (20 ft) SPY-6. To cut costs, the first 12 SPY-6 sets will have an X-band component based on the existing SPQ-9B rotating radar, to be replaced by a new X-band radar in set 13 that will be more capable against future threats.
+The transmit-receive modules will use new gallium nitride (GaN) semiconductor technology, allowing for a higher power density than the previous gallium arsenide radar modules. The new radar will require twice the electrical power as the previous generation, while generating over 35 times as much radar power.
+Although it was not an initial requirement, the SPY-6 may be capable of performing electronic attacks using its AESA antenna. Airborne AESA radar systems, like the APG-77, APG-81, and APG-79 used on the F-22 Raptor, F-35 Lightning II, and F/A-18E/F Super Hornet/EA-18G Growler, respectively, have demonstrated their capability to conduct electronic attack. All the contenders for the Navy's Next Generation Jammer used Gallium Nitride-based (GaN) transmit-receiver modules for their EW systems, which enables the possibility that the high-power GaN-based AESA radar used on Flight III ships can perform the mission. Precise beam steering could attack air and surface threats with tightly directed beams of high-powered radio waves to electronically blind aircraft, ships, and missiles.
+The radar is 30 times more sensitive and can simultaneously handle over 30 times the targets of the existing AN/SPY-1D(V), allowing it to counter large and complex saturation attacks.
+Distributed sensing software allows AN/SPY-6 to form a network of bistatic radars, where forward-deployed sensors work in receive mode, while targets are illuminated by separate transmitters at the back.
+
+
+== Variants ==
+AN/SPY-6(V)1: Also known as the Air and Missile Defense Radar (AMDR). It is 4-sided phased array radar, each with 37 RMAs. It is estimated to have a 15 dB sensitivity improvement compared to the previous generation AN/SPY-1 radar, or capable of detecting targets half the size at twice the distance. It is capable of simultaneous defense against ballistic missiles, cruise missiles, air and surface threats, as well as performing electronic warfare. AN/SPY-6(V)1 is planned for the Flight III Arleigh Burke-class destroyers. It has also been selected for the German Type F127 frigates.
+AN/SPY-6(V)2: Also known as the Enterprise Air Surveillance Radar (EASR). Rotating and scaled-down version with 9 RMAs estimated to have the same sensitivity as AN/SPY-1D(V) while being significantly smaller. It is capable of simultaneous defense against cruise missiles, air, and surface threats, as well as performing electronic warfare. It is planned for Flight II San Antonio-class amphibious transport dock (previously known as LX(R)), USS Bougainville (LHA-8), an America-class amphibious assault ship, and for retrofitting Nimitz-class aircraft carriers.
+AN/SPY-6(V)3: A 3-sided phased array fixed version of the EASR, each with 9 RMAs. It has the same capabilities as AN/SPY-6(V)2. Operating in S-band, it will serve as a Volume Search Radar complementing the AN/SPY-3 X-band radar on Gerald R. Ford-class aircraft carriers, starting with USS John F. Kennedy (CVN-79). It is also planned as the primary multi-function radar for Constellation-class frigates, starting with lead ship USS Constellation (FFG-62).
+AN/SPY-6(V)4: A 4-sided phased array, each with 24 RMAs. Similarly to AN/SPY-6(V)1, it is capable of simultaneous defense against ballistic missiles, cruise missiles, air and surface threats, as well as performing electronic warfare. It is planned to be retrofitted on Flight IIA Arleigh Burke-class destroyers.
+A proposed version with 69 RMAs on each side is estimated to have 25 dB sensitivity improvement over the AN/SPY-1, or capable of detecting targets half the size at almost four times the distance.
+
+
+== See also ==
+
+List of radars
+Phased array
+Active electronically scanned array
+Active phased array radar
+AN/SPY-3
+AN/SPY-7
+EL/M-2248 MF-STAR
+OPS-24
+OPS-50
+Selex RAN-40L
+Type 346 Radar
+List of military electronics of the United States
+
+
+== References ==
+
+
+== External links ==
+
+Missile Threat CSIS - Air and Missile Defense Radar (AMDR)
+Lockheed Martin AMDR
+Northrop Grumman AMDR
+Raytheon AMDR

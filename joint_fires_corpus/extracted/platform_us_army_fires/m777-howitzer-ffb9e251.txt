@@ -1,0 +1,154 @@
+The M777 howitzer is a British towed 155 mm artillery piece in the howitzer class. It is used by the ground forces of Australia, Canada, Colombia, India, Saudi Arabia, Ukraine, and the United States. It was first used in combat during the War in Afghanistan.
+The M777 is manufactured by BAE Systems' Global Combat Systems division. Prime contract management is based in Barrow-in-Furness in Cumbria, England, as well as manufacture and assembly of the titanium structures and associated recoil components. Final integration and testing of the weapon is undertaken at BAE's facility in Hattiesburg, Mississippi, US. Depending on the year, contract and systems package, the M777 has been exported with individual unit costs from US$2.025 million (in 2008) to $3.738 million (in 2017).
+
+
+== Design ==
+
+The M777 began in 1987 as the Ultralight Field Howitzer (UFH), developed by Vickers' Armaments Division in Barrow-in-Furness, UK. Upon taking over responsibility for the weapon, BAE "Americanized" to a large degree the construction and assembly through its US-based BAE Systems Land and Armaments group. The M777 now uses about 70% US-built parts, including the gun barrel (designated M776), which is manufactured at the Watervliet Arsenal, New York, US.
+BAE US subcontractors and their related components/activity as planned in 2001:
+
+United Defense LP, Pascagoula, Mississippi - Final Assembly, Test, and Delivery
+HydroMill, Inc., Chatsworth, California - Body Assembly
+Major Tool and Machining, Inc., Indianapolis, Indiana - Stabilizers, Spades, Trails
+Rock Island Arsenal, Rock Island, Illinois - Breech Operating Load Tray System
+RTI International Metals, Inc., Niles, Ohio - Titanium
+With a weight of 4.2 t (4.1 long tons; 4.6 short tons), the M777 is 41% lighter than the 7.154 t (7.041 long tons; 7.886 short tons) M198 howitzer it replaces. Much of the weight reduction is due to the extensive use of titanium. The gun barrel serves as the towing bar, with the connecting ring forged as a projection of the muzzle brake. The M777 can be transported by helicopter sling-load, transport aircraft such as the Lockheed C-130 Hercules or C-5 Galaxy, or towed by air-braked vehicles with a 2½-ton or greater payload capacity, such as the FMTV and MTVR medium tactical vehicles. The minimum gun crew required is five, compared to a previous nine. The normal crew is eight. With a minimal emergency crew, the rate of fire is decreased. It can be fired by a crew of only three if absolutely necessary.
+The M777A1 and M777A2 use a digital fire-control system similar to that found on self-propelled howitzers such as the M109A6 Paladin to provide navigation, pointing and self-location, allowing it to be put into action quickly.
+The Canadian M777 in conjunction with the traditional "glass and iron sights/mounts" uses a digital fire control system called the Digital Gun Management System (DGMS) produced by Leonardo MW with components of the Indirect Fire Control Software Suite (IFCSS) built by the Firepower team in the Canadian Army Land Software Engineering Centre. The Leonardo MW portion of the system, known as LINAPS, had been proven previously through earlier use on the British Army 105 mm L118 Light Gun.
+
+The M777A2 may be combined with the M982 Excalibur 155 mm GPS-guided munition, which allows accurate fire at a range of up to 40 km (25 mi). This almost doubles the area covered by a single battery to about 1,250 km2 (480 sq mi). Testing at the Yuma Proving Ground by the US Army placed 13 of 14 Excalibur rounds, fired from up to 24 kilometres (15 mi), within 10 m (33 ft) of their target, suggesting a circular error probable of 5 m (16 ft).
+In June 2012, Golf Battery, 2nd Battalion, 11th Marines, out of Camp Pendleton, California, successfully fired the M982 Excalibur against insurgents at a range of 36 km (22 mi) in Helmand Province, Afghanistan. This was the longest operational shot in the history of the M777 howitzer, and the longest operational barrel artillery shot in history for the Marine Corps. 
+Like other modern artillery systems, the M777 can fire up to 2,500 shells before its barrel must be replaced.
+In November 2024, BAE announced the opening of a new artillery factory in Sheffield during 2025 to resume production of complete M777 artillery pieces for Ukraine, and to help fulfil orders for fresh titanium cast spare parts from the US, supplementing its US parts factory which also resumed production during 2024. 8 countries have previously expressed interest in fresh unit orders.
+
+
+== Variants ==
+
+M777A2 – Block 1A software upgrade. Addition of an Enhanced Portable Inductive Artillery Fuze Setter (EPIAFS) to enable Excalibur and precision munition compatibility.
+M777ER – Upgrade created by the Extended Range Cannon Artillery (ERCA) project to extend range from 30 to 70 km (19 to 43 mi). Modified with a longer 55-caliber, 9.1 m (30 ft) barrel and supercharged propellant firing the XM1113 rocket-assisted projectile. The ERCA was determined to not be viable.
+M777C1 – M777 with DGMS (Canada)
+
+
+== Ammunition ==
+
+M982 Excalibur – 155 mm guided artillery shell
+M1128 projectile – 155 mm base bleed artillery round
+XM1113
+M549A1 – 155 mm rocket-assisted projectilePages displaying short descriptions of redirect targets
+Bofors/Nexter Bonus -- 155 mm guided artillery cluster round
+
+
+== Service history ==
+
+
+=== Australia ===
+
+In 2008, the Australian Defence Force made a US Foreign Military Sales request for 57 M777A2s estimated to be worth up to US$248m. Subsequently, 35 guns were purchased for the Australian Army to re-equip the 1st Regiment, Royal Australian Artillery, the 4th Regiment, Royal Australian Artillery, and the 8th/12th Regiment, Royal Australian Artillery, to replace 155 mm M198s and 105 mm L119 Light Guns. The first deliveries of M777A2 began in late 2010.
+An additional 19 guns will be bought directly from American production lines to enable a total of six batteries. Concurrently, the Australian Army has acquired guided 155 mm munitions in the form of the M982 Excalibur and XM1156 Precision Guidance Kit. In late April 2022, Australia announced that they would donate six of their M777 howitzers, with ammunition, to aid in the defence of Ukraine during the 2022 Russian invasion of Ukraine.
+
+
+=== Brazil ===
+In 2010, the Brazilian Navy evaluated the 155 mm M777 as a candidate to replace the six 155 mm M114A1 howitzers of the Marine Corps. As of 2022 the M777 was still under consideration.
+
+
+=== Canada ===
+
+In December 2005, 1st Regiment, Royal Canadian Horse Artillery, conducted an inaugural firing of its first 155 mm M777 towed howitzers, for a total of six guns. The six guns delivered were supplied by the United States Marine Corps under a Foreign Military Sales (FMS) contract between the U.S. and Canada. The Canadian guns were first fired by A Battery, 1 RCHA, at CFB Shilo and then were deployed to Afghanistan in support of Operation Archer. They were put into service in the Canadian theatre of operations around Kandahar in early 2006, marking the first use of the M777 in combat operations.
+In the summer, they made a significant contribution during the Battle of Panjwaii when a small number of rounds were used to huge effect on Taliban elements retreating from the battle area. Many of the 72 reported killed during the heaviest period of fighting were due to artillery fire from only two of these guns. In late fall of 2006, the Canadian M777 howitzers were equipped with the Digital Gun Management System (DGMS), which greatly improved accuracy and led to these guns being used for short range close support of Canadian and US ground forces.
+They proved so successful that an order for an additional six guns was placed with BAE. In May 2009, the Canadian government ordered a further 25 M777s, bringing the total to 37. The DGMS is also being improved with integrated communications. On 22 April 2022, Canada sent four of their M777 howitzers, with ammunition, to Ukraine to aid in the defense of Ukraine during the 2022 Russian invasion of Ukraine.
+
+
+=== India ===
+
+The Indian Army first announced plans to acquire 145 M777s for ₹30 billion (₹3,000 crore) in January 2010. Purchase plans were overtaken when the procurement process was restarted in July 2010. On 11 May 2012, India's Ministry of Defence formally cleared a proposal to buy 145 guns for ₹30 billion through the US government's Foreign Military Sales (FMS) process. The proposal was scheduled to be reviewed next by the Ministry of Finance, followed by the Cabinet Committee on Security. On 2 August 2013, India requested the sale of 145 M777 howitzers for US$737.582 million.
+In February 2014 the purchase was again postponed. In May 2014 the purchase was cleared by India's Ministry of Defence. In July 2014, the government announced that it would not order the guns because of cost issues. In November 2014, the selection process was restarted under the "Make In India" program. In May 2015, the Ministry of Defence approved ₹29 billion (₹2,900 crore) to buy 145 M777 ultralight howitzers from the US. In December 2015, the Indian Ministry of Defence said it was keen on placing a follow-up order of 500 more M777 guns.
+In June 2016, India once again announced its intent to buy 145 guns from the US, this time for US$750 million. The Indian government formally signed the contract for the purchase on 30 November 2016. Under the agreement, BAE Systems supplied 25 ready-built howitzers, while 120 guns were assembled in India by Mahindra Defence Systems Limited.
+The Indian Army received its first shipment of two howitzers in 2017 from the United States in ready-to-use condition. In September 2017, the barrel of one of the howitzers was damaged while firing during calibration trials. The Indian army used the M777 howitzer in the Himvijay exercise in Arunachal Pradesh which involved the newly raised integrated battle groups.
+A total of seven artillery regiments were raised, each using 18 guns. The first regiment was planned to be raised by the end of 2020, with 15 guns supplied by BAE systems and three guns supplied by Mahindra Defense Systems Limited. The induction of all seven regiments was completed in 2022. In July 2020, in the wake of escalating tension with China, the Ministry of Defence announced further purchases of Excalibur shells.
+Several of these howitzers were deployed in the Ladakh area and the north eastern state of Arunachal Pradesh at the border with China.
+
+
+=== Ukraine ===
+In April 2022, during the Russian invasion of Ukraine, the United States provided 108, Canada 4, and Australia 6 M777 howitzers with ammunition to the Ukrainian armed forces, to repel Russia. Canada promised 10 barrels to replace any worn out during firing. Usually a modern artillery system, like the M777, must have the barrel replaced after firing up to 2,500 shells.
+A Ukrainian officer said in October 2022 that while M777 has to be towed, and has a lower fire rate than the German Panzerhaubitze 2000 and French CAESAR, it is more accurate and easier to use. BAE stated that month that it was discussing with the United States restarting production of the weapon, after good performance in Ukraine and lower cost of operation caused other nations to ask about purchasing it.
+In October 2022, Ukraine was given an additional 16 M777 by the US, and as of October 2022 had at least 170. In November 2022, according to U.S. and Ukrainian officials, a third of the roughly 350 Western-made howitzers (including 142 M777s given by the US) donated to Ukraine are out of action at any given time. Those weapons are wearing out after months of overuse, or being damaged or destroyed in combat. As of late May 2023, at least 52 M777s were reported to have been destroyed or damaged.
+One Ukrainian crew claims to have fired 6,000 rounds through their M777. During this time they have had four barrel changes. All of these barrel replacements occurred before the limit of 2,500 shells as they noticed accuracy was decreasing.
+Ukrainian Brigadier General Volodomyr Karpenko in a June 2022 interview said that M777 is prone to damage by shrapnel from incoming artillery fire. He said that ordinarily two of the six M777 guns in an artillery battery would require maintenance due to shrapnel damage to subsystems after every "artillery contact". Russian forces claim to have seized a damaged and inoperable M777 during fighting in Siversk in eastern Ukraine in July 2022.
+As of 27 April 2025, the Oryx blog, recorded at least 101 M777s having been lost in combat (55 destroyed, 44 damaged, 2 captured). The Oryx's list only includes destroyed or damaged equipment of which photo or videographic evidence is available, thus the amount of equipment lost could be higher than Oryx documented.
+
+
+=== United States ===
+The M777 succeeded the M198 howitzer in the United States Marine Corps and United States Army in 2005. In 2014 the US military began fielding several upgrades to its M777 howitzers, including new liquid crystal display units, software updates, improved power systems, and muzzle sensors for onboard ballistic computing. Future upgrades include a touchscreen Chief Section Display, a new Mission System Computer, and a digital radio.
+
+
+==== Army ====
+
+The 18th Field Artillery Brigade (Airborne) at Fort Bragg, North Carolina, was the initial Army test bed unit for the XM777 which included the 1st and 3rd Battalions of the 321st Field Artillery Regiment. The initial prototypes were tested by 1st Battalion, 377th Air Assault Regiment, in 1998 also a unit of the 18th Field Artillery Brigade.
+2nd Platoon, Bravo Battery, 2nd Battalion, 11th Field Artillery Regiment (2-11 FA), was the first US Army unit to fire the M777A in combat in January 2008 in support of Operation Iraqi Freedom. In June 2007, the M777 in its A2 configuration was assigned to the U.S. Army's 3-321 FA. It deployed to Afghanistan in support of Operation Enduring Freedom in December 2007 in January 2008 making the unit the first U.S. Army unit to utilise the M777 in combat in support of Operation Enduring Freedom. In April 2008, the M777 was deployed for testing with 2-8 FA at Fort Wainwright in Fairbanks, Alaska.
+In July 2008, at Camp Shelby, Mississippi, 108th Field Artillery Regiment, 28th Infantry Division, Pennsylvania National Guard, became the first field artillery unit of the National Guard to field and fire the M777.
+In August 2017, two soldiers from 319th Field Artillery Regiment were killed from a breech explosion and other members of their gun crew were injured while attempting to fire a M777 at an ISIL mortar position in northern Iraq. Multiple firing incidents have occurred during training with the M777, including a fatal one in February 2014 with 3-321 FA and previously in 2011 with Marines from Camp Lejeune also at Fort Bragg.
+In May 2017, the US Army announced it was buying the Swedish Bofors 155 Bonus round as an interim system as a result of the required phasing out of cluster munitions from artillery shells, complying with policy to achieve less than 1% unexploded ordnance from non-unitary explosives. The BONUS has two sensor-fused munitions deployed by a 155 mm carrier projectile that scan the ground for targets and fire explosively formed penetrators down from the air. The system has been tested from the M777 howitzer.
+The 3rd Cavalry Regiment deployed multiple M777A2 guns to Firebase Saham in Iraq on the border with Syria from November 2018 to April 2019 to support the Syrian Democratic Forces in the Battle of Baghuz Fawqani, the ultimately successful operation to capture the Al-Baghuz Fawqani, the final town held by ISIL.
+
+
+==== Marine Corps ====
+
+In May 2005, 3rd Battalion, 11th Marines, based at Marine Corps Air Ground Combat Center Twentynine Palms, became the first Marine unit to begin fielding the new M777. 580 guns were supplied to the Marines, and 421 to the U.S. Army and National Guard.
+In March 2016, 200 marines and four M777A2 howitzers from the 26th Marine Expeditionary Unit set up Firebase Bell, officially the Karasoar Counterfire Complex, near the Iraqi town of Makhmour, supporting the Iraqi Army's Mosul offensive. The firebase was only 24 kilometres (15 mi) from ISIL-controlled territory.
+The Marine howitzers fired every day in support of Iraqi maneuvers, using high explosive, smoke, and illumination rounds. They were relieved by Army soldiers after roughly 60 days, after firing more than 2,000 rounds in 486 fire missions.
+In March 2017, the 11th Marine Expeditionary Unit was deployed to Syria to provide artillery support with their M777s for forces seeking to eject ISIL forces from Raqqa.
+
+
+== Combat history ==
+Iraq War
+War in Afghanistan
+Military intervention against ISIL: Multiple M777A2 guns were deployed to Iraq on the border with Syria from 8 November 2018 to April 2019 to support the Syrian Democratic Forces in the Battle of Baghuz Fawqani, the ultimately successful operation to capture the final town held by the Islamic State group. They deployed to Firebase Saham, a base freshly constructed by the U.S. Army to provide fire support during the battle, especially during cloudy days when U.S. aircraft could not see to conduct airstrikes.
+2020–2021 China–India skirmishes: The Indian Army has apparently deployed multiple artillery platforms, including the M777 howitzers, along the Line of Actual Control or the border with China where the PLA and the Indian Army have been engaged in a standoff for many months now.
+2022 Russian invasion of Ukraine: The U.S. has supplied 126 M777 howitzers to Ukraine as part of several military aid packages. Ukraine received 6 additional units from Australia and 4 from Canada, as well as 200,000 155 mm rounds and 72 trucks to transport the guns, enough to supply six battalions. Ukrainian forces said that they needed this weapon as their own artillery does not have the range of Russian systems, while the M777 has a range greater than Russian weapons.
+
+
+== Operators ==
+
+
+=== Current operators ===
+ Australia
+Australian Army: Originally 54 systems (M777A2), reduced to 48 after 6 were donated to Ukraine in April 2022.
+ Canada
+Canadian Army: 33 systems, previously 37 with 4 having been donated to Ukraine. The donated howitzers will be replenished.
+ India
+Indian Army: 145 systems in service. Of these 120 were built by Mahindra Defence Systems, in a business arrangement with BAE Systems.
+ United States
+
+US Army: 391 M777A2 as of January 2025 and Army National Guard: 518 systems were acquired.
+US Marine Corps: 481 systems were acquired, with a total fleet of 999 for both service branches. The US fields a "pure fleet" of M777A2 variants. In 2022 108 of the US Marine Corps' systems were donated to Ukraine.
+ Ukraine
+Ukrainian Ground Forces: 198 systems (108 of which were donated by the United States along with 200,000 155 mm artillery rounds and 18 in the additional package with 36,000 artillery rounds, 4 systems by Canada, and 6 systems by Australia, following the Russian invasion of Ukraine). M982 Excalibur precision-guided munitions have also been provided by Canada. An additional donation of 16 M777 by the United States was announced in October 2022.
+
+
+=== Future operators ===
+ Colombia
+Colombian Naval Infantry: The Colombian Naval Infantry will obtain M777 systems as part of a donation from the United States Marine Corps.
+
+
+=== Potential operators ===
+ United Arab Emirates: On 5 May 2016, BAE Systems confirmed that it is working with Emirates Defense Technology (EDT) to develop a self-propelled version of the M777 howitzer for the UAE Armed Forces.
+
+
+== Gallery ==
+
+
+== See also ==
+SLWH Pegasus – Singaporean 155 mm towed howitzer
+AH4 howitzer – Chinese 155 mm towed artillery
+Cannon-launched guided projectile – Precision-guided artillery munition
+List of howitzers
+
+
+== References ==
+
+
+== External links ==
+
+Global Security
+Canadian American Strategic Review
+37 additional M777 for Canadian Forces

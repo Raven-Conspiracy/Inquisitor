@@ -1,0 +1,197 @@
+The AIDC F-CK-1 Ching-Kuo (Chinese: 經國號戰機; pinyin: Jīngguó Hào Zhànjī), commonly known as the Indigenous Defense Fighter (IDF), is a multirole combat aircraft named after Chiang Ching-kuo, the late president of the Republic of China. The aircraft made its first flight in 1989. It entered service with Republic of China Air Force (Taiwan) in 1992. All 130 production aircraft were manufactured by 1999.
+Taiwan initiated the IDF program when the United States refused to sell them F-20 Tigershark and F-16 Fighting Falcon jet fighters following diplomatic pressure from China. Taiwan therefore decided to develop an advanced indigenous jet fighter. The Aerospace Industrial Development Corporation (AIDC), based in Taichung, Taiwan, designed and built the IDF jet fighter.
+
+
+== Development ==
+
+
+=== Background ===
+The preliminary search for a replacement for the ROCAF's F-5s and F-104s began with the XF-6 indigenous fighter project, later renamed Ying Yang, in the late 1970s. After the US established formal relations with China and ended the Mutual Defense Treaty with Taiwan, President Chiang Ching-Kuo decided to expand the indigenous defense industry and on August 28, 1980, ordered AIDC to design an indigenous interceptor. Originally, the ROCAF listed the priority of the XF-6 behind the XA-3 Lei Ming single seat attack aircraft, due to the believed high risks of the XF-6 project.
+The signing of the 1982 US-China Joint Communiqué limited arms sales to Taiwan. The United States refused to sell the General Dynamics F-16 Fighting Falcon and the Northrop F-20 Tigershark (which had been developed largely to meet Taiwanese national defense needs for an advanced jet fighter to replace their older F-5 jet fighters) thereby ensuring the continuation of the indigenous fighter project. Although US President Ronald Reagan reluctantly accepted his advisers' suggestion of building relations with China to counter the USSR, Reagan decided to balance the 1982 US-PRC Communiqué with the "Six Assurances" to Taiwan. This opened the door for US technology transfer and assistance to Taiwan's defense industry, including the IDF project.
+
+
+=== Design phase ===
+
+The AIDC officially began the IDF development project in May 1982 following the ROCAF's failure to purchase new fighters from the United States as a result of Chinese diplomatic pressure. The project, led by Hsi-Chun Mike Hua, later known as the father of the Indigenous Defense Fighter, was named An-Hsiang (安翔, Safe Flight) and divided into four sections in 1983:
+
+Ying-Yang (鷹揚): "Soaring Eagle". Development of the airframe. Some cooperation with General Dynamics.
+Yun-Han (雲漢): "Galaxy". Development of the aircraft powerplant and propulsion. Cooperation with Garrett (Now Honeywell).
+Tien-Lei (天雷): "Thunder". Development of the avionics systems. Some cooperation with Smiths Industries, with some components purchased directly from Lear Astronics (today a subsidiary of BAE), Litton (today a subsidiary of Northrop Grumman) and Martin-Baker.
+Tien-Chien (天劍): "Sky Sword". Development of air-to-air missiles.
+In April 1997 American company Litton's Applied Technology division was awarded a production contract and options totaling $116.2 million by the Aerospace Industrial Development Corporation for Improved Radar Warning Receivers (IRWR) to be installed aboard.
+
+
+==== Yun Han: engine research ====
+Exports of advanced engines such as the General Electric F404 or the Pratt & Whitney F100 were not available to Taiwan and both the General Electric J85 and General Electric J79 were considered unsuitable in their performance, and most European and American engine companies declined to cooperate with the project. Joint investment with Garrett became the only practical solution.
+In 1978, following the success of the TFE731 engine, U.S. engine company Garrett announced joint research of the TFE1042 afterburner with the Swedish company Volvo Flygmotor. The TFE731 Model 1042 was touted as a low bypass ratio "military derivative of the proven commercial TFE731 engine" and that it would provide "efficient, reliable, cost effective propulsion for the next generation of light strike and advanced trainer aircraft", with a thrust of 4260 lbf (18.9 kN) dry and 6790 lbf (30.2 kN) with afterburner. After the initial negotiation, the investment was going to be divided between Garrett, Volvo, AIDC, and the Italian company Piaggio. The development would consist of the non-afterburning TFE1042-6 for light attack aircraft and advanced trainers, and the TFE1042-7 for the AMX or the F-5 upgrade. AIDC also suggested upgrading the TFE1042-7 to 8,000 lbf (36 kN) thrust in a twin-engine installation, in order to compete with the GE F404. However, the JAS 39 Gripen project decided to continue with a single F404, and Piaggio asked to participate at a later date due to financial concerns.
+ITEC completely redesigned the TFE1042-7 into the TFE1042-70 – for example, the bypass ratio was changed from 0.84 to 0.4, and the investment had increased from US$180 million to about US$320 million. However, to avoid pressures from China, the US government had asked all American companies cooperating with the Taiwan on the IDF project to remain low-key. Therefore, the perception that "the TFE1042 is merely the civilian engine TFE731 with an afterburner" was never completely dispelled.
+In 1985, the preliminary review of the IDF's design revealed some performance requirement shortfalls, and it was determined that an upgrade of engine thrust by 10% was the simplest solution. Due to American export license restrictions, ITEC used FADEC to artificially limit the thrust below a certain altitude (the restriction was not removed until 1990). Although the upgrade essentially used the TFE1088-11 configuration, to reduce political interference ITEC renamed the original, lower-thrust version as the TFE1042-X70 and retained the TFE1042-70 designation for the upgraded version.
+In 1988, ITEC decided to invest in the 12,000 lbf (53 kN) thrust TFE1088-12, which was re-designated as the TFE1042-70A for political reason as well. Preliminary studies had shown that the IDF could supercruise with the new engine. At the same time, General Electric Aviation decided to enter the market with the J101/SF, a smaller version of the F404. However, after the IDF order was cut in half due to budget concerns, the TFE1088-12 engine upgrade plan ended as well.
+
+
+==== Ying Yang: aerodynamic design ====
+
+The cooperation between AIDC and General Dynamics (GD) was divided into four phases:
+
+GD analyzed the ROCAF's aircraft performance and force requirements.
+Taiwan assessed GD's reports and chose between AIDC's original design and GD's new design.
+AIDC sent personnel to GD for the preliminary design phase.
+GD sent personnel to Taiwan to complete the project.
+GD's assistance was restricted by the US State Department's arms export control, which limited GD's work to initial design consulting but not further development, production, or marketing.
+Many different airframe design concepts were explored (e.g. the 2D Thrust-Vectoring nozzle of XX-201, the double delta wings/twin tailed 401). After the General Electric J79 was officially abandoned as the potential engine solution in 1983, three configurations emerged from AIDC.
+
+Configuration A was similar to the F-5E.
+Configuration B was similar to the Eurofighter Typhoon and Saab Gripen.
+Configuration C was similar to the F-15.
+At the same time, GD worked on the G configuration in parallel. Eventually the G-4 was selected, but with many features of the C-2 integrated. During this time, the project was named the "Light Weight Defense Fighter". In 1985, the configuration conceptual design had evolved into the SE-1 preliminary design. By the end of 1985, AIDC decided to skip the prototype stage and go into Full Scale Development (FSD) directly, in order to reduce time and save money. The project was again renamed into the "Indigenous Defense Fighter". Four FSD aircraft were made, with three single-seaters and one double-seater.
+
+
+==== Tien Lei: avionics ====
+
+The IDF is equipped with a GD-53 Golden Dragon multi-mode monopulse pulse-Doppler radar, which is based on the General Electric AN/APG-67 X band radar developed for the F-20 while sharing some components and technologies of the AN/APG-66 radar of the F-16A, and using a larger antenna than used by the F-20. and this adaptation resulted in the look-down and shoot-down capability of GD-53 being greatly enhanced in comparison to that of the original AN/APG-67, reaching that of the AN/APG-66. The radar can simultaneously track 10 targets and engage two of the 10 targets tracked with TC-2 active radar seeker BVRAAMs.
+The design is inherently unstable in pitch, so the IDF incorporated a modern triple-redundant full authority fly-by-wire control system. The avionics suite was based on modular architecture with dual redundant MIL-STD-1553B digital databuses. The Honeywell H423 inertial navigation system, the TWS-95 RHAWS, and a Bendix-King head-up display were selected. Some capabilities may have been delayed or dropped in order to meet the performance requirement, since the engine limitation has resulted in the necessity of strict weight control.
+
+
+==== Tien Chien: missiles ====
+The CSIST's Tien Chien (Sky Sword) project was slightly more independent, since it was considered to be a development for all the ROCAF's aircraft rather than only the IDF. The Tien Chien 1 (TC-1) is a short range infrared-seeking missile with an external configuration similar to that of the AIM-9 Sidewinder, while the Tien Chien 2 (TC-2) is an active radar homing Beyond Visual Range missile.
+The first test firing of the TC-1 missile was performed by an F-5E in April 1986, with the Beech target drone successfully destroyed. Initial production of the TC-1 began in 1989, and it entered service in 1991. Both the AIM-9 and the TC-1 have been seen in use on operational IDFs.
+CSIST is believed to have cooperated with Motorola and Raytheon on the TC-2's active seeker, which is believed to be based on their seeker design which was proposed for the AIM-120. 40 pre-production TC-2 missiles were produced before 1995, and were the only BVR AAMs that the ROCAF had in its inventory during the 1995–96 Taiwan Strait Missile Crisis. Over 200 production TC-2s were originally planned.
+
+
+=== Upgrades ===
+During the F-CK-1's development, it was tapped as the secondary delivery vehicle for the Taiwanese nuclear weapons then in development. The primary delivery method was to be the Sky Horse missile. Weapons designers at CSIST were instructed to design the nuclear weapon to fit within the dimensions of the F-CK-1's centerline drop tank (~50 cm diameter). Modifications to the aircraft would have been required for it to obtain the desired 1,000 km range (especially without the centerline drop tank available) and were envisioned to include more efficient non-afterburning engines. The F-CK-1 would not have been able to fulfill the nuclear strike mission until mid-1989 at the very earliest. Early designs called for an unpowered gravity bomb. The nuclear weapons program was shut down under US pressure before the F-CK-1 entered service and the dedicated nuclear strike variant was never produced.
+The first stage of upgrades to the fleet was originally planned to be completed by 2013, and was planned to include improved avionics, radar, electronics, weapons capabilities and lifespan extensions. In May 2014, the ROC Air Force made photos of the fighters with enhanced Wan Chien long-range missile capabilities public. The upgrade program was finally completed in 2018.
+
+
+== Operational history ==
+The F-CK-1 entered service in 1992.
+
+
+== Variants ==
+
+
+=== Prototypes ===
+Four "Full Scale Development" units were produced; three single-seaters followed by a two-seater. The first successful test flight by single-seater FSD A1 was made on May 28, 1989. The two-seater FSD B1 conducted its first flight on July 10, 1990.
+
+
+=== Pre-production ===
+Production of ten pre-production units began in October 1990. The first four were delivered in March 1992 and the last in 1993.
+Mechanical defects caused two crashes, one in 1991 and one in 1993, during pre-production.
+
+
+=== F-CK-1 A/B Ching-Kuo ===
+
+The ROCAF's initial order for 256 aircraft was cut to 130 in 1991, following deals for the purchase of 150 F-16 Block 20 A/B and 60 Mirage 2000-5Ei/Di with the US and France. The 130 included 28 two-seaters and the 10 pre-production units.
+The first production units were delivered in early 1994, and the program concluded in 2000.
+The first squadron entered service during the latter part of the 1994.
+Mid-life updates to the aircraft were initiated in 2011.
+
+
+=== F-CK-1 C/D Hsiang Sheng ===
+
+The Ministry of National Defense (MND) announced that beginning in 2001, the government would include a new budget allocation for the IDF upgrade plan (as included in the five MND proposals to help AIDC). The five proposals were:
+
+Upgrades of the AT-3, IDF, and F-5 would be assigned to AIDC in the future.
+The Army Utility Helicopter, the Navy's long range ASW aircraft, a helicopter for the Marines, and an Air Force medium transport will all be produced and assembled by qualifying domestic firms in conjunction with the foreign firms that originally designed them.
+NCSIST and AIDC will jointly assemble a team for the early planning of the ROCAF's next generation fighter, in order to assess procurement methods and suggest concepts.
+AIDC's joint ventures with foreign firms or alliances with domestic firms will be given high priority in military aircraft service and maintenance.
+In the future, the military will give responsibility for weapons system flight tests, electronic warfare exercises, air towing drones, avionics maintenance, and weapons procurement planning to AIDC, in situations where AIDC has the professional capacity that the military lack. This is part of the seven-year IDF C/D R&D plan (FY2001~FY2007), which allocates 10 million New Taiwanese Dollars (NTD) annually for a total of 70 million NTD for both CSIST and AIDC. Initial media reports indicated that the upgraded IDF would be called the "Joint Countermeasure Platform".
+In 2001, it was reported that development of a new "stealth" variant with more powerful engines and improved fire-control system would commence that year. In a 2006 interview with Jane's Defence Weekly, former AIDC Chairman Sun Tao-Yu said that two new prototypes had been manufactured. The upgrade would allow the IDF to carry an additional 771 kg of fuel. In addition, it includes an improved avionics suite, retrofitted electronic warfare capabilities, and new weapons systems. The landing gear has been strengthened to accommodate the additional payload and fuel, but the plan for a dielectric radar-absorbing "stealth" fuselage was dropped due to concerns over weight. The project consists of three phases:
+
+Increase the carrying capacity for the TC-2 beyond-visual range air-to-air missile from two to four. Integrate the TC-2A anti-radiation missile and the Wan Chien cluster bomb. In addition, two conformal fuel tanks were seen on the two newly built prototype aircraft, these are not seen on production upgrades.
+Upgrade the mission computers, the electronic counter-countermeasures, the electronic warfare systems, the Active Identification Friend or Foe (AIFF) system and the terrain-following radar.
+Ground and air testing.
+The development contract for the upgraded 32-bit IDF C/D flight control computer was awarded in 2002 to BAE Systems. AIDC said that the improvements of the flight computer will result in "a safer, higher-performing aircraft.” Other improvements made include enhanced electronic warfare capabilities, a strengthened landing gear and a digital anti-skid system. The upgrade also included new indigenous flight control software ending the reliance on US controlled source code.
+The first test flight of the upgraded IDF was reportedly successfully completed a few days ahead of schedule in early October.
+On March 27, 2007, President Chen Shui-Bian witnessed a test flight of F-CK-1D, and announced that the upgraded IDF will be named Hsiung Ying (Brave Hawk), which signifies that the new fighter would protect the homeland just like the Crested Goshawk.
+As of 12/2009, 71 F-CK-1 A/B are upgrading to F-CK-1 C/D over 4 years span for over US$500 million, according to AIDC CEO, under Project Hsiang Chan (翔展), as AIDC and ROCAF had signed a contract for the expected upgrade program.
+In 2018 AIDC delivered the last upgraded F-CK-1 C/D to the Republic of China Air Force.
+
+
+=== IDF Lead-in Fighter Trainer ===
+
+According to the media, the AIDC IDF trainer concept apparently involved the removal of the fire control radar and combat systems with the retention of rear-seat flight controls, so that the IDF could be used as a lead-in fighter trainer (LIFT). The ROCAF seemed to have reservations with the concept, however, as it would mean the IDF LIFT would not be usable in wartime. A MND letter said, "Regarding the newspaper report of AIDC's desire to use the IDF fighter as a basis for supersonic trainer development, it is only that company's operational planning concept. The Ministry of National Defense and the Air Force currently do not have such a plan". The letter then said that due to a tight budget allocation the ROCAF would instead ask AIDC to extend the life of the AT-3 and continue to use the F-5 in the LIFT role.
+In 2003, the former AIDC Chairman Huang Jung-Te said that AIDC still hoped the ROCAF would consider using a simplified version of the IDF for LIFT, and that such a concept could have a cost as low as US$16 million per unit, compared to the T-50's 19 million. However, the F-CK-1 LIFT modifications or new production concepts never received government funding or approval.
+In May 2006, Lt. General Cheng Shih-Yu testified that the MND indeed plans to retire the F-5E/F by 2010 and allow the in-service IDFs to take over training missions. It is unclear what modifications (if any) will be made to IDFs after they become trainers.
+The trainers produced by the program would later named AIDC T-5 Brave Eagle, and four prototypes were rolled out in 2019.
+
+
+== Operators ==
+ Taiwan
+Republic of China (Taiwan) Air Force – 137 aircraft, including 6 prototypes.
+
+
+== Specifications (F-CK-1A) ==
+
+Data from GlobalSecurity.org Milavia, TaiwanAirPower.orgGeneral characteristics
+Crew: 1
+Length: 14.21 m (46 ft 7 in)
+Wingspan: 9 m (29 ft 6 in)
+Height: 4.42 m (14 ft 6 in)
+Wing area: 24.2 m2 (260 sq ft)
+Empty weight: 6,486 kg (14,299 lb)
+Gross weight: 9,072 kg (20,000 lb)
+Max takeoff weight: 12,247 kg (27,000 lb)
+Powerplant: 2 × Honeywell/ITEC F125-GA-100 turbofan, 27 kN (6,100 lbf) thrust  each dry, 42.1 kN (9,500 lbf) with afterburner
+Performance
+
+Maximum speed: Mach 1.8 (1379 mph, 2,220 km/h)
+Range: 1,100 km (680 mi, 590 nmi) with min. three external 1,040 L fuel tanks
+Service ceiling: 16,800 m (55,100 ft)
+Thrust/weight: 0.946(clean)/0.701(maximum load)
+Armament
+
+Guns: 1× 20 mm (0.787 in) M61A1 6-barreled Gatling cannon
+Missiles: 
+4× Sky Sword I
+4× Sky Sword II
+4× AIM-9 Sidewinder
+4× AGM-65 Maverick air-to-surface missiles
+2× Hsiung Feng II Anti-ship missiles (test only, never enter actual service)
+2x Hsiung Feng III anti-ship missiles
+2x Wan Chien air-to-ground cruise missile
+Bombs: 
+10x Mark 82 bomb
+10x Mk-20 Rockeye II
+3x Mark 84 bomb
+Avionics
+
+Radar: 1× GD-53 X-band pulse doppler (General Electric AN/APG-67(V) derivative)
+Effective scanning range:
+Look up: 57 kilometres (35 mi)
+Look down: 39 km (24 mi)
+
+
+== See also ==
+Defense industry of Taiwan
+
+Related development
+
+AIDC T-5 Brave Eagle
+General Dynamics F-16 Fighting Falcon
+KAI T-50 Golden Eagle
+Mitsubishi F-2
+Aircraft of comparable role, configuration, and era
+
+Chengdu J-10
+Dassault Mirage 2000
+McDonnell Douglas F/A-18 Hornet
+Mikoyan MiG-29
+PAC/CAC JF-17 Thunder
+Saab JAS 39 Gripen
+
+Related lists
+
+List of fighter aircraft
+
+
+== References ==
+Notes
+
+Bibliography
+
+
+== External links ==
+
+AIDC F-CK-1A/B official web page
+AIDC F-CK-1C/D official web page

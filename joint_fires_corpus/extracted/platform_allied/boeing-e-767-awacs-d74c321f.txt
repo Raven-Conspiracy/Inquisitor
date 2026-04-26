@@ -1,0 +1,102 @@
+The Boeing E-767 is an Airborne Warning and Control System (AWACS) aircraft that was designed in response to the Japan Air Self-Defense Force's requirements. It is essentially the Boeing E-3 Sentry's surveillance radar and air control system installed on a Boeing 767-200.
+
+
+== Development ==
+
+
+=== Background ===
+On September 6, 1976, Soviet Air Forces pilot Viktor Belenko successfully defected to the West, flying his MiG-25 'Foxbat' to Hakodate, Japan. During this incident, Japan Self-Defense Force radar lost track of the aircraft when Belenko flew his MiG-25 at a low altitude, prompting the Japan Air Self-Defense Force (JASDF) to consider procurement of airborne early warning aircraft.
+In 1976, the U.S. Air Force was about to deploy the E-3 Sentry airborne warning and control system aircraft, which was considered to be the prime candidate for the airborne early warning mission by JASDF. However, the Japan Defense Agency (JDA, now Ministry of Defense) realized that the E-3 would not be readily available due to USAF needs and instead opted to procure the American E-2 Hawkeye AWACS aircraft. The E-2C was put into service with the Airborne Early Warning Group (AEWG) at JASDF Misawa Air Base in January 1987.
+In 1991, the JDA requested funds to upgrade the airborne early warning system by procuring the E-3.  Production of the Boeing 707-based E-3 airframe had ended in 1991, however, and the plan was shelved.  The following year, Boeing proposed a 767-based AWACS, and the JDA agreed to procure two E-767 in fiscal year 1993 and two more in fiscal year 1994.
+
+
+=== Procurement ===
+JDA requested a budget of JPY113.9 billion to procure two E-767s in fiscal year 1993 and JPY108.1 billion for two more E-767s in FY 1994. This large budget compared to approximately JPY8.6 billion for the E-2C and an estimated JPY29.6 billion for the E-3A was politically rationalized as a means to help ease the tension over Japan's large trade surplus against the U.S.  In addition, Japanese aerospace companies are responsible for 15% of the airframe production for the 767, meaning some of the money would indirectly return to Japan.
+The procurement of E-767 by the Japanese government was split into two stages. The first stage was the procurement of an unmodified 767 aircraft by the Japanese government through a trading company, Itochu Corporation. In the second stage, the aircraft were modified to carry AWACS equipment by the US and Japanese contractors, supervised by the U.S. government under Foreign Military Sales rules.
+
+
+== Design ==
+
+The base airframe for E-767 is that of a 767-200ER, Boeing designation 767-27C. (The "7C" designation is the Boeing customer code for the JASDF). The 767 airframe offers about 50 percent more floor space and nearly twice the volume of the 707 on which the E-3 is based.  The mission electronics equipment are installed in forward cabin to balance the weight with the rotodome mounted above the aft fuselage.  The aft cabin contains the crew's rest area, galley, and lavatory.
+
+
+=== External features ===
+The E-767's exterior is usually painted gray.  The 767's windows were omitted in order to protect the crew and  equipment from the intense radio frequency transmissions from its radar equipment. A rotodome about 30 feet (9.14 m) in diameter and six feet (1.83 m) thick at the center is mounted above the aft fuselage on two struts. The rotodome rotates at about six rpm during operations and at 0.25 rpm to lubricate the rotation mechanisms even when the radar is not used.
+There are numerous blade antennae for UHF and VHF communication along the centerline of the fuselage on the top and bottom. There is a rod antenna at each wing tip for HF communication.  A fairing in the aft fuselage contains an antenna for JTIDS (Joint Tactical Information Distribution System).
+
+
+=== Powerplants ===
+The E-767 is powered by two General Electric CF6-80C2B6FA high bypass turbofan engines, generating 273.6 kN (61,500 pounds) thrust each.  The original 90 kW electrical generators (one in each engine) were replaced with 150 kW generators to provide power to the radar and other equipment.
+
+
+=== Airborne early warning and control system ===
+The electronics system on the E-767 is essentially the same as the later E-3 models, using Northrop Grumman's (formerly Westinghouse Electronic Systems) AN/APY-2 Passive electronically scanned array radar system. This system is a three-dimensional radar that measures azimuth, range, and elevation simultaneously, and has superior surveillance capability over water compared to the AN/APY-1 system on the earlier E-3 models.
+The AN/APY-2 is a Pulse-Doppler radar that can determine the velocity of a tracked target. This surveillance system includes a flexible, multi-mode radar, which enables AWACS to separate maritime and airborne targets from ground and sea clutter returns that limit other modern radar systems.
+Its radar has a 360-degree view, and at operating altitudes it can detect targets more than 320 kilometers (200 miles) away.  AWACS mission equipment can separate, manage and display these targets individually on situational displays.
+AN/APY-2's antenna and Identification Friend or Foe (IFF) Mk XII system's antenna are housed in the rotodome back to back.
+The information acquired by the radar system is processed by IBM's CC-2E central computer conformed to E-3 Block 30/35 Modification and can be displayed on the 14 displays on board.
+Other major subsystems in the E-767 are identification, tactical data link, and navigation.
+
+
+=== Radar System Improvement Program ===
+In November 2006, Boeing was awarded a $108 million contract to deliver Radar System Improvement Program (RSIP) kits to Japan's fleet of four E-767 Airborne Warning and Control System (AWACS) aircraft.  The Foreign Military Sale was contracted through the Electronic Systems Center at Hanscom Air Force Base, Massachusetts. The sale also includes spare and repair parts, support equipment and technical documentation. Installation of the kits was completed December 2012, in Seattle, Washington.
+RSIP increases the AWACS aircraft's radar sensitivity, allowing it to detect and track smaller targets. It also improves the radar's existing computer with a new high-reliability multi-processor and rewrites the software to facilitate future maintenance and enhancements.  The RSIP kit, built principally by Northrop Grumman Electronic Systems under a subcontract to Boeing, consists of a new radar computer, a radar control maintenance panel as well as software upgrades to the radar and mission system programs.
+
+
+== Operational history ==
+The first E-767 made the first flight on October 4, 1994 at Paine Field, Washington. First flight with the rotodome installed occurred on August 9, 1996 and it was delivered to JASDF on March 11, 1998 along with the second E-767. Aircraft No. 3 and No. 4 were delivered on January 5, 1999. On May 10, 2000, all four E-767s were put into service with Airborne Early Warning Group (AEWG) 601st Squadron at JASDF Hamamatsu Air Base. (The airbase's runways needed to be reinforced to accommodate the E-767.)
+
+
+== Operators ==
+ Japan
+Japan Air Self-Defense Force
+602nd Squadron
+
+
+== Specifications (E-767) ==
+Data from 767 AWACS B767-200General characteristics
+Crew: Flight: 2; Mission: 8-10
+Length: 159 ft 2 in (48.5 m)
+Wingspan: 156 ft 1 in (47.6 m)
+Height: 52 ft 0 in (15.8 m)
+Empty weight: 188,705 lb (85,595 kg)
+Gross weight: 284,110 lb (128,870 kg)
+Max takeoff weight: 385,000 lb (175,000 kg)
+Powerplant: 2 × General Electric CF6-80C2 turbofan, 61,500 lbf (274 kN) thrust each
+Performance
+
+Maximum speed: Mach 0.86
+Cruise speed: 460 kn (530 mph, 851 km/h)
+Range: 5,600 nmi (6,440 mi, 10,370 km)
+Service ceiling: 40,100 ft (12,200 m)
+Endurance: 9.25 hours on station at 1,000 nautical-mile radius;13 hours at 300-nautical mile radius (no aerial refueling capability).
+Avionics
+
+Northrop Grumman AN/APY-2 Doppler radar
+
+
+== See also ==
+
+Related development
+
+Boeing E-3 Sentry
+Boeing 767
+Boeing KC-767
+E-10 MC2A
+EL/M-2075
+Aircraft of comparable role, configuration, and era
+
+Beriev A-50
+Grumman E-2 Hawkeye
+KJ-2000
+Boeing 737 AEW&C
+
+
+== References ==
+
+
+== External links ==
+
+Boeing E-767 page
+JASDF E-767 page (in Japanese)
+JASDF E-767 gallery (in Japanese)

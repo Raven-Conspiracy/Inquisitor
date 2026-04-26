@@ -1,0 +1,83 @@
+Another State Secrets Case Ends in Dismissal - Federation of American Scientists
+Last week, a federal court
+dismissed a lawsuit
+against the Central Intelligence Agency after the government asserted the state secrets privilege and argued that the case could not be litigated without jeopardizing national security.
+Former CIA officer Jacob E. Abilt (a pseudonym) had charged the Agency with employment discrimination, improper retaliation and wrongful termination. In December, CIA Director John Brennan
+invoked the state secrets privilege
+to block the lawsuit.
+“The facts of Mr. Abilt’s employment with the CIA are replete with classified information,” Mr. Brennan wrote. “For example, the specific National Clandestine Service operations on which he worked are classified. For the majority of his supervisors and coworkers, even the fact of their association with the CIA is classified. The nature and description of the work that they performed is classified….”
+“Any exploration therefore of Mr. Abilt’s employment, and that of his colleagues, will necessarily risk disclosure of highly sensitive classified details concerning the existence and nature of clandestine CIA collection programs and activities,”
+Mr. Brennan wrote
+.
+In opposition, Mr. Abilt’s attorneys argued that the case could proceed without any compromise of national security.
+“Mr. Abilt would be able to prove his employment discrimination claims without exposing classified information. Defendant [CIA] is incorrect that specific classified information like a CIA employee’s identity,… or the location of covert CIA facilities is needed by Mr. Abilt to prove his claims,” they wrote in
+a
+December 24
+response
+.
+The government disputed that response in
+a January 9, 2015 reply
+: “Although some very basic facts of Plaintiff’s CIA employment can be safely described at a high level of generality, litigation regarding those facts would nonetheless not be possible without revealing privileged information. ”
+Last week, Judge Gerald Bruce Lee of the Eastern District of Virginia accepted the CIA position and dismissed the case (as reported in
+Courthouse News Service
+on February 18).
+“Privileged information is at the heart of Plaintiff’s claims for discrimination on the basis of disability and race, hostile work environment and retaliation, [and] Defendants cannot defend this action without relying on privileged information,” Judge Lee wrote in
+a February 10 order
+.
+Mr. Abilt is an African American who suffers from narcolepsy and was prone to fall asleep at work. He was evidently authorized to take naps while employed at the CIA’s National Clandestine Service. “The naps did not interfere with his ability to successfully perform his duties,” according to the plaintiff’s
+December 24
+opposition
+.
+In principle, Mr. Abilt’s case could be referred for further investigation by the CIA inspector general, as provided under the terms of a September 2009
+Department of Justice policy
+on state secrets cases for disputes that cannot be litigated. But there are no known cases where such a referral has actually been carried out.
+The 2009 DOJ policy also promised a periodic report to Congress on current litigation involving the state secrets privilege. But no such report has been transmitted since
+April 2011
+.
+Other pending state secrets cases include
+Gulet Mohamed v. Eric Holder
+, a challenge to the “no fly” list procedures. The government this week
+requested
+and was granted an opportunity for additional briefing in that case, including public filings.
+And in the most peculiar of state secrets cases,
+Victor Restis v. United Against Nuclear Iran
+, the government has intervened to shut the case down even though it is not a party to the proceeding. Nor will it say on the public record which U.S. government agency is asserting the privilege or why it is doing so.
+The plaintiff filed a motion
+last October
+to compel the government to disclose further information concerning its state secrets claim, and the issue was fully briefed by early December. A decision had been anticipated by the end of 2014. But Judge Edgardo Ramos of the Southern District of New York has still not ruled on the matter.
+Government Capacity
+day one project
+Policy Memo
+Why Interagency Policy Coordination Efforts Frequently Fail (And How To Fix Them)
+Coordination among federal science agencies is essential to ensure government-wide alignment on R&D investment priorities. However, the federal R&D enterprise suffers from egregious siloization.
+04.24.26
+|
+17 min read
+read more
+Environment
+Policy Memo
+Report
+A Plan for Revitalizing the U.S. Auto Industry
+Don’t like the Chinese-backed EVs that are undercutting your market? Start with a well-designed statute to strengthen market oversight and competition while also providing American companies with support.
+04.23.26
+|
+13 min read
+read more
+Government Capacity
+Policy Memo
+Report
+Four Innovations Driving Climate Progress in State Government
+Cities and states are best positioned to design policies to accelerate clean energy, innovation, and economic development because they can design approaches that work in different social, political, and economic contexts.
+04.22.26
+|
+18 min read
+read more
+Government Capacity
+day one project
+Policy Memo
+Outcome-Based Contracting Reorients Government IT Acquisition Around Public Value and Mission Results
+Outcome-Based Contracting reframes procurement around the staged achievement of measurable mission outcomes rather than the delivery of predefined technical artifacts.
+04.21.26
+|
+16 min read
+read more

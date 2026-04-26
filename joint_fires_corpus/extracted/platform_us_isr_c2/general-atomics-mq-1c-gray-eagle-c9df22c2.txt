@@ -1,0 +1,117 @@
+The General Atomics MQ-1C Gray Eagle (previously the Warrior; also called Sky Warrior and ERMP or Extended-Range Multi-Purpose) is a medium-altitude, long-endurance (MALE) unmanned aircraft system (UAS). It was developed by General Atomics Aeronautical Systems (GA-ASI) for the United States Army as an upgrade of the General Atomics MQ-1 Predator.
+
+
+== Development ==
+The U.S. Army initiated the Extended-Range Multi-Purpose UAV competition in 2002, with the winning aircraft due to replace the RQ-5 Hunter. Two aircraft were entered, the IAI/Northrop Grumman Hunter II, and the Warrior. In August 2005, the Army announced the Warrior to be the winner and awarded a $214 million contract for system development and demonstration. The Army intended to procure eleven Warrior systems, each of these units having twelve UAVs and five ground control stations. With an expected total program cost of $1 billion, the aircraft was to enter service in 2009.
+The Army announced on 3 September 2010 that the integration of the AGM-114 Hellfire missile on the UAV had been so successful that 4 weaponized MQ-1Cs would be deployed to Afghanistan in late 2010.
+
+
+=== Performance Issues ===
+In March 2011, Gray Eagles started showing poor reliability across all major subsystems. During that month, one Gray Eagle crashed in California when a faulty chip blocked commands to part of the aircraft's flight control surfaces. Flight testing was delayed until the chip was replaced but had left it with fewer available flight hours; the average time between failures of the aircraft or components was 25 hours, while the minimum required is 100 hours. The ground control station's time between failures was 27 hours, while the minimum time required is 150 hours.
+Sensors failed at 134 hours, compared to 250 hours required. In October 2011, a report concluded the Gray Eagle was meeting only four out of seven "key performance parameters," and its reliability fell short of predicted growth. 11 unplanned software revisions had generally improved reliability. Reliability problems were attributed mostly to software issues from newly installed sensors, which did not reappear once fixed. Initial focus was on expanding capability and achieving an availability rate of 80 percent, then addressing reliability.
+
+
+=== Designation ===
+The Army sought to have the Warrior designated MQ-12, but the United States Department of Defense allocated the designation MQ-1C instead.
+In August 2010, the US Army announced that the MQ-1C had officially been assigned the name Gray Eagle.
+
+
+=== Improved Gray Eagle ===
+On 27 July 2013, General Atomics announced the successful first flight of the Improved Gray Eagle (IGE). The IGE is designed for increased endurance, with 23 additional hours compared to its Block I predecessor. It has 50 percent greater fuel capacity through its deep belly fuselage and features improved payload capacity of 50 percent or more. The upgraded centerline hardpoint supports integration of a 500-pound (227 kg) optional external fuel tank or 360 degree sensor payload. The IGE's additional space, plus an improved Lycoming DEL-120 Heavy Fuel Engine (HFE), provides growth capability for an improved airworthiness design, with the potential of incorporating lightning protection, damage tolerance, and Traffic Collision Avoidance System (TCAS) features.
+On 11 October 2013, the Improved Gray Eagle took off from GA-ASI's El Mirage Flight Operations Facility and flew for 45.3 continuous hours until 13 October. The flight was the first of two endurance demonstrations of the IGE for the U.S. Army.
+From 17–19 January 2014, the IGE performed its second endurance flight demonstration for the Army, flying 36.7 continuous hours. Unlike the previous test where no payload was carried, this test had the aircraft flying with a SIGINT pod on one wing and two Hellfire missiles on the other. With endurance claims carrying the payload configuration validated, the IGE will receive upgrades to make it compatible with the Army's One System Ground Control Station (OSGCS) and future Universal Ground Control System (UGCS), with flights of the upgrade to be conducted in summer 2014.
+In July 2015, the Army's Gray Eagle procurement plan was amended to include the extended-range Improved Gray Eagle, purchasing an initial 36 units for the Army's intelligence and special forces groups. The first 19 IGEs were ordered in June 2015 for the first delivery in September 2017 and completion by September 2018. The only IGE demonstrator was lost in a flight training incident in early 2015. The maiden flight of the production variant of the MQ-1C Gray Eagle ER came on 29 October 2016. The Gray Eagle Extended Range (GE-ER) was delivered to the Army for operational testing in 2018.
+
+
+=== Upgrades ===
+In 2014, the US Army was expanding the use of manned-unmanned teaming (MUM-T) technologies to manned aircraft to receive video feeds and control weapons aboard unmanned aircraft, making ground units less reliant on other services' aircraft. The AH-64E Apache attack helicopter is the first Army rotorcraft with purpose-built MUM-T technology, allowing pilots to remotely control a Gray Eagle, extending the Apache's reach by using the Gray Eagle's sensors and weapons from the helicopter cockpit.
+Tests demonstrated that the Apache's engagement range increases with MUM-T as the Gray Eagle can designate targets outside the helicopter's own targeting system range, increasing survivability, and potentially needing fewer helicopters as their effectiveness is increased with the inclusion of Gray Eagle. An Apache can control a Gray Eagle and access its sensors and weapons from up to 70 mi (110 km) away.
+In May 2015, BAE Systems was awarded an initial production contract to provide 12 Tactical Signals Intelligence Payload (TSP) sensors for the MQ-1C. The TSP SIGINT system captures a 360-degree aerial field of view to identify, detect, and geo-locate electronic emitters. It has an open software-defined architecture and a single system can address multiple targets.
+In June 2015, soldiers performed an initial test and evaluation for the One System Remote Video Terminal (OSRVT), enabling ground forces to control a Gray Eagle's payload. The OSRVT is a portable system consisting of a radio transceiver, laptop, antennas, and software to communicate with the UAV and receive video and other data from it. Control of the sensor payload is UAS level of Interoperability 3, a step below control of flight through MUM-T.
+
+
+== Design ==
+A Medium-Altitude Long-Endurance (MALE) UAV, the Gray Eagle has an increased wingspan compared to the original MQ-1 Predator and is powered by a Thielert Centurion 1.7 Heavy Fuel Engine (HFE). This is a diesel piston engine that burns jet fuel, giving the aircraft better performance at high altitudes. It can operate for 36 hours at altitudes up to 25,000 feet (7,600 m), with an operating range of 200 nautical miles (370 km).
+The aircraft's nose fairing was enlarged to house a synthetic aperture radar/ground moving target indicator (SAR/GMTI) system, and targeting is also provided with an AN/AAS-52 Multi-spectral Targeting System (MTS) under the nose. The aircraft can carry a payload of 800 pounds (360 kg) and may be armed with weapons such as AGM-114 Hellfire missiles and GBU-44/B Viper Strike guided bombs. Its sensors can fuse infrared imagery and use the SAR to scan and detect changes in terrain like tire tracks, footprints, and buried improvised explosive devices when performing a second scan.
+In May 2013, Raytheon delivered two electronic attack payloads as part of the Army's Networked Electronic Warfare, Remotely Operated (NERO) system, for jamming enemy communications on behalf of the Joint Improvised Explosive Device Defeat Organization (JIEDDO). Derived from the Communications Electronic Attack Surveillance and Reconnaissance (CEASAR) system on the C-12 Huron, mounting NERO on the unmanned Gray Eagle gives reduced risk, reduced operating costs, and two to three times the endurance of electronic attack missions. Test flights showed that the Gray Eagle could operate with the jammer payload without being subject to adverse effects.
+The Improved Gray Eagle has a maximum gross takeoff weight 4,200 lb (1,900 kg) with its 205 hp engine, compared to the Gray Eagle's 3,600 lb (1,600 kg) MGTOW and 160 hp engine. The Gray Eagle can carry 575 lb (261 kg) of fuel, while the IGE can carry 850 lb (390 kg) of fuel internally with its deep belly design and 500 lb (230 kg) centerline hardpoint. External fuel tanks can add 450 lb (200 kg) of extra fuel, allowing for a 50-hour endurance. The IGE also increases internal payload capacity from 400 lb (180 kg) to 540 lb (240 kg).
+The empty weight is 1,318 kg (2,906 lb), endurance without the external tank is 45 hours, and engine can sustain an output of 180 hp (130 kW) continuously. General Atomics has added new winglets that can increase endurance a further one percent and allow the addition of a new vertical antennae. A special operations configuration can carry two Hellfire missiles and a SIGINT payload for 35 hours, as opposed to 14–15 hours for the Block 1 Grey Eagle.
+
+
+== Operational history ==
+The Army's 1st Infantry Division's combat aviation brigade deployed to Iraq with developmental Gray Eagles in June 2010.
+On 2 June 2012, the Gray Eagle reached a record 10,000 successful automatic launch and recoveries with the Automatic Takeoff and Landing System (ATLS). The system also landed with a 26 knot crosswind. By 25 July 2012, the Army's Gray Eagle Block 1 aircraft has accumulated more than 35,000 flight hours since it was first deployed in 2008. On 25 June 2012, General Atomics announced that the Gray Eagle had been deployed in its first full company of 12 aircraft. Initial Operational Test and Evaluation (IOT&E) was completed in August 2012. There were 50 aircraft in service with a greater than 80 percent system operational availability rate.
+The Army is equipping 15 companies with Gray Eagle drones to go to every active-duty division. Each company will have nine aircraft serviced by 128 soldiers, which would increase to 12 with an additional platoon when deployed. Two to three companies are being fielded annually until 2018.
+Full-rate production was planned for April 2013, with follow-on operational testing in 2015 using a new ground station in common with the RQ-7 Shadow. From 2008 to July 2013, the Gray Eagle has accumulated over 70,000 flight hours.
+On 25 September 2013, the Gray Eagle achieved 20,000 successful automatic launch and recoveries with the ATLS system, 15 months after reaching 10,000 successes. As of October 2013, ATLS is used at 8 sites including 3 overseas sites, with 4 more sites planned by January 2015. The Gray Eagle Block I has flown 80,000 hours since 2009 and currently averages 3,200 flight hours per month. Cumulative flight hours increased 64 percent within the last year.
+
+In November 2013, the 160th Special Operations Aviation Regiment (Airborne) (160th SOAR(A)), a U.S. Army special operations unit, received its first MQ-1C Gray Eagle. The regiment operating the Grey Eagle lessens their dependence on Air Force drones for providing reconnaissance and strike capabilities to special operations teams. The MQ-1C has greater capabilities than RQ-7 Shadow UAVs operated by the regiment by extending their range of coverage beyond a specific area of operations. Two SOAR companies are to have 12 aircraft each.
+In July 2015, an unarmed Gray Eagle crashed in Iraq after a communications failure that was supporting Operation Inherent Resolve against the Islamic State.
+In March 2017, US Army has begun the process to permanently station the MQ-1C Gray Eagle at Kunsan Air Base in South Korea. In February 2018 it was announced that following the completion of construction of hangars and supporting facilities at the base, 12 MQ-1Cs will be deployed to Kunsan in March/April 2018.
+On 29 February 2020 an armed MQ-1C Gray Eagle conducting an armed patrol crashed in Agadez, Niger due to a mechanical failure. The MQ-1C drone was operating under the banner of the U.S. Africa Command (AFRICOM). On March 3, 2020, an unused Hellfire missile was lying beside the crashed MQ-1C Gray Eagle drone, thus posing a threat according to Africamilitaryblog.com to U.S, French and Nigerien forces if it were to be recovered by the Islamic terror group operating in the country.
+On 23 January 2021 another MQ-1C crashed in Agadez, Niger.
+Reuters reported on 1 June 2022 that the Biden administration plans to sell four Gray Eagle drones to Ukraine, each capable of carrying up to 8 Hellfire missiles, "for battlefield use against Russia" in the current conflict. It was ultimately decided not to supply the drones due to concerns over potential escalation with Russia. The United States was also concerned about the risk that sensitive technology aboard the drone, such as its cameras, could be recovered by Russia on the battlefield. Prior to this decision a bipartisan coterie of Congressional lawmakers had urged the administration to accelerate its review of the plan to supply the MQ-1C.
+
+
+== Operators ==
+ United States:
+US Army, Estimated 180 MQ-1C Gray Eagle as of January 2025
+
+
+== Aircraft on display ==
+07-00115 - MQ-1C on static display in its shipping container at the Valiant Air Command Warbird Museum in Titusville, Florida.
+
+
+== Specifications ==
+Data from General Atomics Aeronautical Systems Gray Eagle.General characteristics
+Crew: Unmanned
+Capacity: 360 kg (800 lb)
+Length: 28 ft 0 in (8.53 m)
+Wingspan: 56 ft 0 in (17 m)
+Height: 6 ft 11 in (2.1 m)
+Max takeoff weight: 3,600 lb (1,633 kg)
+Powerplant: 1 × Thielert Centurion 1.7 Heavy-Fuel Engine , 165 hp (123 kW)
+Performance
+
+Maximum speed: 167 kn (192 mph, 309 km/h)
+Endurance: 25 hours
+Service ceiling: 29,000 ft (8,839.2 m)
+Armament
+
+Hardpoints: 4
+Missiles: 4 × AGM-114 Hellfire or 8 × AIM-92 Stinger
+Avionics
+
+AN/ZPY-1 STARLite Radar
+
+
+== Future ==
+On April 30, 2025, US Secretary of Defense Pete Hegseth ordered the Secretary of the Army to "end procurement of obsolete systems, and cancel or scale back ineffective or redundant programs, including manned aircraft, excess ground vehicles (e.g., HMMWV), and outdated UAVs". The Army said it would stop procuring Grey Eagles.
+
+
+== See also ==
+
+Related development
+
+General Atomics MQ-1 Predator
+General Atomics MQ-9 Reaper
+General Atomics Avenger
+General Atomics Mojave
+Aircraft of comparable role, configuration, and era
+
+BAE Systems Mantis
+Kronshtadt Orion
+TAI Anka
+
+Related lists
+
+List of unmanned aerial vehicles
+List of military aircraft of the United States
+
+
+== References ==
+
+
+== External links ==
+
+Official General Atomics Sky Warrior page

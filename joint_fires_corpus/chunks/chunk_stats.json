@@ -1,0 +1,121 @@
+{
+  "n_docs": 257,
+  "n_chunks": 6955,
+  "n_skipped_docs": 10,
+  "total_tokens": 6657424,
+  "avg_tokens_per_chunk": 957.2,
+  "by_bucket": {
+    "jf_army_131a": {
+      "chunks": 193,
+      "tokens": 184236
+    },
+    "jf_joint_cross_service": {
+      "chunks": 1,
+      "tokens": 690
+    },
+    "jf_joint_doctrine": {
+      "chunks": 504,
+      "tokens": 456611
+    },
+    "jf_pla_casi_translations": {
+      "chunks": 791,
+      "tokens": 639375
+    },
+    "jf_pla_cmsi": {
+      "chunks": 49,
+      "tokens": 51899
+    },
+    "jf_pla_crs": {
+      "chunks": 2,
+      "tokens": 605
+    },
+    "jf_pla_dod_cmpr": {
+      "chunks": 737,
+      "tokens": 651275
+    },
+    "jf_pla_ndu": {
+      "chunks": 223,
+      "tokens": 207002
+    },
+    "jf_pla_other": {
+      "chunks": 53,
+      "tokens": 57545
+    },
+    "jf_pla_rand": {
+      "chunks": 2,
+      "tokens": 1445
+    },
+    "jf_pla_thinktank": {
+      "chunks": 523,
+      "tokens": 509058
+    },
+    "jf_pla_uscc": {
+      "chunks": 2557,
+      "tokens": 2617060
+    },
+    "jf_platform_allied": {
+      "chunks": 198,
+      "tokens": 194107
+    },
+    "jf_platform_cross_cutting": {
+      "chunks": 5,
+      "tokens": 5118
+    },
+    "jf_platform_dprk_iran": {
+      "chunks": 28,
+      "tokens": 23855
+    },
+    "jf_platform_pla_air": {
+      "chunks": 83,
+      "tokens": 78606
+    },
+    "jf_platform_pla_sensors": {
+      "chunks": 41,
+      "tokens": 46108
+    },
+    "jf_platform_plan": {
+      "chunks": 33,
+      "tokens": 29984
+    },
+    "jf_platform_plarf": {
+      "chunks": 29,
+      "tokens": 25236
+    },
+    "jf_platform_russia_supplement": {
+      "chunks": 39,
+      "tokens": 36008
+    },
+    "jf_platform_us_air": {
+      "chunks": 302,
+      "tokens": 294161
+    },
+    "jf_platform_us_army_fires": {
+      "chunks": 88,
+      "tokens": 87417
+    },
+    "jf_platform_us_isr_c2": {
+      "chunks": 167,
+      "tokens": 167285
+    },
+    "jf_platform_us_marine_fires": {
+      "chunks": 22,
+      "tokens": 20880
+    },
+    "jf_platform_us_navy": {
+      "chunks": 112,
+      "tokens": 110439
+    },
+    "jf_platform_us_pods_sensors": {
+      "chunks": 21,
+      "tokens": 18234
+    },
+    "jf_usmc_fires": {
+      "chunks": 1,
+      "tokens": 180
+    },
+    "jf_usn_strike": {
+      "chunks": 151,
+      "tokens": 143005
+    }
+  }
+}

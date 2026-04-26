@@ -1,0 +1,60 @@
+The Sniper® is a family of targeting pods for military aircraft manufactured by Lockheed Martin providing positive target identification, autonomous tracking, GPS coordinate generation, and precise munition guidance from extended standoff ranges.
+The system has been designated AN/AAQ-33 in U.S. military service as the Sniper Advanced Targeting Pod (ATP). Further variants are the Sniper Extended Range (XR), as well as the PANTERA export derivative of the Sniper XR. The Lockheed Martin F-35 Lightning II is built with the equivalent of the Sniper XR in its onboard sensors called the AN/AAQ-40 Electro-Optical Targeting System (EOTS). The most modern version is the Sniper Advanced Targeting Pod - Sensor Enhancement (ATP-SE).
+In accordance with the Joint Electronics Type Designation System (JETDS), the AN/AAQ-33 and AN/AAQ-40 designations represent the 33rd and 40th designs of an Army-Navy electronic device for an airborne infrared special-purpose/combination system. The JETDS system also now is used to name all Department of Defense and some NATO electronic systems.
+
+
+== Design ==
+
+The Sniper is a single, lightweight targeting pod with much lower aerodynamic drag than the systems it replaces. Its image processing allows aircrews to detect, identify and engage tactical-size targets outside the range of most enemy air defenses, giving it a crucial role in the destruction of enemy air defense missions. It also supports urban engagements beyond jet noise range for counter-insurgency operations. It offers a 3-5X increase in detection range over the older LANTIRN system, and is employed on a wide assortment of U.S. Air Force and multinational aircraft.
+The pod incorporates a high definition mid-wave FLIR, dual-mode laser, visible-light HDTV, laser spot tracker, laser marker, video data link, and a digital data recorder. Advanced sensors and image processing incorporating image stabilization enable targets to be identified at ranges which minimize exposure to defensive enemy systems. The dual-mode laser offers an eye-safe mode for urban combat and training operations along with a laser-guided bomb designation laser.
+The pod's FLIR allows observation and tracking through smoke and clouds, and in low light / no light conditions. The CCD camera supports the same operations in visible light for most daylight conditions. 
+For target coordination with ground and air forces, a laser spot tracker, a laser marker, and an HDTV quality video down-link to ground-based controllers supports rapid target detection and identification. The Sniper can also provide high-resolution imagery for non-traditional intelligence, surveillance and reconnaissance (NTISR) missions without occupying the centerline station on small fighter aircraft, and can maintain surveillance even when the aircraft maneuvers. As a result, a second, dedicated fighter aircraft isn't needed to provide protection to a dedicated ISR aircraft, which many small nations cannot afford.
+For ease of maintenance, Sniper's optical bed design, partitioning, and diagnostic capabilities permit two-level maintenance, eliminating costly intermediate-level support. Automated built-in testing allows maintenance personnel to isolate and replace a line replaceable unit in under 20 minutes to restore full mission-capable status.
+
+
+== History ==
+
+In August 2001, the USAF announced Lockheed Martin's Sniper as the winner of the Advanced Targeting Pod (ATP) competition. The contract provided for pods and associated equipment, spares and support of the F-16 and F-15E aircraft for the Air Force and Air National Guard. The U.S. Air Force's initial seven-year contract for Sniper ATP had a potential value in excess of US$843 (equivalent to $1,533 in 2025) million. Lockheed Martin has delivered over 125 Sniper ATP pods and the U.S. Air Force had plans to procure at least 522 more.  The follow-on Advanced Targeting Pod – Sensor Enhancement (ATP-SE) contract was split between the Lockheed Martin Sniper and the LITENING.
+In 2008, a team of Lockheed Martin UK, BAE Systems and Leonardo S.p.A. (SELEX Sensors and Airborne Systems at the time) successfully demonstrated a Sniper ATP on board the Tornado GR4 combat aircraft.
+In 2014, the USAF declared initial operational capability (IOC) milestone for the Sniper ATP-SE which included sensor and networking improvements.
+Also in 2014, the Sniper program came under criticism in the aftermath of a deadly airstrike in Afghanistan resulting in the death of one Afghan and five American soldiers killed when a B-1B bomber equipped with the pod could not detect the infrared strobe lights on the helmets of U.S. troops in a firefight. This was the deadliest case of friendly fire between American forces during the course of the war in Afghanistan. 
+On 27 March 2015, Lockheed Martin was awarded a sole-source contract by the US DOD worth $485 million firm fixed price with minimal cost-plus-fixed-fee, indefinite-delivery/indefinite-quantity to provide multiple Sniper advanced targeting pods to the USAF.
+Lockheed Martin announced in 2016 that Kuwait would be the first country to use Sniper on the Eurofighter Typhoon. 
+In May 2024, the Taiwanese Ministry of National Defense released video footage confirming the F-16V Viper fighter aircraft of their Republic of China Air Force calibrated the AN/AAQ-33 Sniper ATP pod against Shenyang J-16D and Xi'an H-6K aircraft of the Chinese People's Liberation Army Air Force crossing into the Taiwanese air defense identification zone (ADIZ).
+As of 2025, the Sniper is used on the USAF's B-52H Stratofortress, B-1B Lancer, F-15E Strike Eagle, F-16 Fighting Falcon, and A-10 Thunderbolt II. It was also used on the British Harrier GR9 and the Canadian CF-18 Hornet.
+In November 2025, Lockheed Martin revealed the Sniper NTP version which supports the Multifunction Advanced Data Link aka MADL. 
+
+
+== Operators ==
+Each of the below militaries uses an assortment of Sniper ATP equipment and aircraft including the A-10 Thunderbolt II, B-1B Lancer, B-52 Stratofortress, CF-18 Hornet, Dassault Rafale, Eurofighter Typhoon, F-15E Strike Eagle, F-16 Fighting Falcon, Harrier Jump Jet, Mitsubishi F-2, T-50 Golden Eagle, Tornado GR4,
+
+
+== Specifications ==
+Source: Product datasheet
+
+Primary function: Positive identification, automatic tracking and laser designation
+Length: 98.2 inches (249 cm)
+Diameter: 11.9 inches (30 cm)
+Weight: 446 pounds (202 kg)
+Sensors: Mid-wave third generation forward looking infrared, dual mode eye-safe laser designator, Charge-coupled device-TV, and laser spot tracker
+Field of regard: -155º to +5º
+
+
+== See also ==
+
+AN/ASQ-228 ATFLIR
+List of military electronics of the United States
+
+
+== References ==
+
+
+== Bibliography ==
+Cooper, Tom (2018). Hot Skies Over Yemen, Volume 2: Aerial Warfare Over Southern Arabian Peninsula, 1994-2017. Warwick, UK: Helion & Company Publishing. ISBN 978-1-911628-18-7.
+
+
+== External links ==
+ 
+Lockheed Martin – Sniper Pod (Archived October 14, 2013)
+Aviation Week & Space Technology – Sniper Targeting Pod Attacks From Long Standoff Ranges (October 3, 2004 – archived October 9, 2004)
+IBC Advanced Alloys  – IBC Engineered Materials Awarded Hard Tooling Contract for Lockheed Martin’s Sniper® Advanced Targeting Pod Components (press release September 9, 2015, archived September 10, 2015)

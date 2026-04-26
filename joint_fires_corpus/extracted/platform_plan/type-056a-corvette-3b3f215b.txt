@@ -1,0 +1,81 @@
+The Type 056 corvette (NATO reporting name: Jiangdao-class light frigate) is a class of littoral combat-oriented corvette deployed by the Chinese People's Liberation Army Navy (PLAN).​ The first ship entered service in March 2013. Later ships were completed with a towed array sonar; these are commonly designated as the Type 056A and entered service in November 2014.​ The last ship commissioned in February 2021. All of the 22 Type 056s were transferred to the China Coast Guard after removing missiles and torpedoes between mid 2021 and January 2023, with the PLAN retaining 50 Type 056A. Variants were produced for export too.
+
+
+== History and development ==
+
+The Type 056 hull may have been based on the Pattani-class offshore patrol vessels, which were built in China for Thailand from 2005 to 2006.
+In late 2012, four Chinese shipyards were producing the corvettes. They replaced older coastal patrol craft and some of the Type 053H frigates.
+The Type 056A were in production by late 2013. The Type 056 series was constructed at a high production rate to enhance the PLAN's littoral warfare capabilities. The last ship commissioned in February 2021. 22 Type 056s and 50 Type 056As were produced.
+Starting in mid 2021, the PLAN transferred the 22 original Type 056s to the China Coast Guard. The first 20 Type 056As received new pennant numbers in the new "600" series, which was also used for subsequent production.
+
+
+== Design ==
+
+The Type 056 corvette fills the capability gap between the Type 022 missile boat and the Type 054A frigate. It is 90 m (300 ft) long with a gross displacement of 1500 tons, and incorporates anti-radar features. The Type 056 is suited for mid-range green-water missions and littoral duties, but not for major blue-water combat operations. The Type 056 corvette has a crew of 78 people with a top speed of 25 knots (46 km/h; 29 mph), and a cruise range of 3,500 nautical miles (6,500 km; 4,000 mi) at 16 knots (30 km/h; 18 mph).
+Surface armament is reported as an H/PJ-26 76 mm (3.0 in) gun, two H/PJ-17 30 mm (1.2 in) autocannons, and four pod-launched YJ-83 anti-ship missiles (AShM). HHQ-10 (or FL-3000N in foreign-operated vessels) surface-to-air missiles (SAM) are carried in a single eight-cell launcher. Finally, there are two triple-tube 324 mm (12.8 in) torpedo launchers, which may carry Yu-7 light anti-submarine (ASW) torpedoes.
+The 30 mm autocannons can also be used for a de-mining purpose.
+The basic Type 056 is equipped with Type 347G (LR66) radar and bow-mounted sonar. The Type 056A adds towed array and variable depth sonars (VDS); the towed body suggests the VDS is "not an exact copy" of either the Italian/US DE-1163 or the French DUBV-43. It is likely that the Chinese will have undertaken extensive trials and analysis of any imported equipment and built a nominally indigenous system using the knowledge gained.
+The Type 056 has a helicopter deck for landing a Z-9-sized helicopter, but no hangar.
+
+
+== Other operators ==
+
+
+=== Algeria ===
+The Algerian National Navy operates one of the F-15A corvette variant. El Moutassadi was ordered in 2020 and delivered in 2023. and arrived in Algeria in 2023. In 2024 Algeria announced plans to build Type 056s locally.
+
+
+=== Bangladesh ===
+The Bangladesh Navy operates four of the C13B corvette variant, called Shadhinota-class in service. The C13B is 90 metres (295 ft 3 in) long and displaces 1,330 tons. Armament includes a 76 mm gun, C-802 AShMs, and FL-3000N SAMs. The stern has a helicopter pad but no hangar. The first two ships have SR 60 radar, and the last two have a phased-array radar; none have ASW sensors or weapons. All were built by Wuchang Shipyard in Wuhan.
+Shadhinota − the lead ship − and Prottoy were ordered in October 2012 and commissioned in 2016. Sangram and Prottasha were ordered in late-2015 and commissioned in 2020.
+
+
+=== China Coast Guard ===
+A Type 056 variant for the China Coast Guard was under construction at Huangpu in late 2014. The forward superstructure was moved back to make for a raised structure ahead of the bridge. Large davits were installed ahead of the flight deck on both sides of the ships. It is not expected to be armed with the 76 mm gun, missiles, or other weapon systems.
+Between mid-2021 and January 2023, China also transferred all 22 of the original Type 056 variant to the China Coast Guard.
+
+
+=== Nigeria ===
+The Nigerian Navy operates two of the P18N offshore patrol vessel (OPV) variant. The P18N displaces 1,800 tons, is 95 m (311 ft 8 in) long, has an endurance of 20 days, a maximum speed of 21 knots (39 km/h; 24 mph) and a range of 3,000 nautical miles (5,600 km; 3,500 mi) at 14 knots (26 km/h; 16 mph). It has a crew of 75. Armament is reportedly a single NG-16-1 76 mm gun with a TR47 fire-control radar, two 30 mm guns, and two 20 mm (0.79 in) guns. The class has an Oil Support Recovery System to combat oil spills. Unlike the Type 056, the P18N has a helicopter hangar. Both were built at the Wuchang Shipyard.
+Nigeria ordered the ships from CSOC in April 2012 for US$42 million each. Centenary − the lead ship − commissioned in February 2015. Unity commissioned in December 2016.
+The final 50–70% of the work on Unity was originally expected to be completed at the Nigerian Naval Shipyard in Port Harcourt; CSOC was contracted to upgrade the shipyard. Unity was ultimately completed at Wuchang.
+
+
+=== Cambodia ===
+China has donated two Type 056 corvettes which are under construction.
+
+
+== Ships of class ==
+China Coast Guard
+
+ People's Liberation Army Navy
+
+ Bangladesh Navy
+
+ Nigerian Navy
+
+ Algerian National Navy
+
+
+== See also ==
+
+
+=== Ships of comparable role, configuration, and era ===
+Bung Tomo-class corvette
+Buyan-class corvette
+Diponegoro-class corvette
+Freedom-class littoral combat ship
+Independence-class littoral combat ship
+Kora-class corvette
+Project 22160 patrol ship
+Sa'ar 5-class corvette
+
+
+=== Related lists ===
+List of active People's Liberation Army Navy ships
+
+
+== References ==
+
+
+== Sources ==

@@ -1,0 +1,66 @@
+The Lockheed Martin RQ-170 Sentinel, nicknamed Wraith, is an American unmanned aerial vehicle (UAV) developed by Lockheed Martin and operated by the United States Air Force (USAF) for the Central Intelligence Agency (CIA). While the USAF has released few details on the UAV's design or capabilities, defense analysts believe that it is a stealth aircraft fitted with aerial reconnaissance equipment. Introduced in 2007, it was deployed to Afghanistan in late 2007, South Korea two years later in September 2009, and was used during the 2026 United States intervention in Venezuela. Some images and details of the aircraft were released after Iran captured an RQ-170 in 2011. It has a flying wing design, and uses a single engine, speculated to be either a General Electric TF34 turbofan or a Garrett TFE731.
+
+
+== Development ==
+The RQ-170 Sentinel was developed by Lockheed Martin's Skunk Works as a stealth unmanned aerial vehicle (UAV). Journalists have noted design similarities between the RQ-170 and previous stealth and UAV programs such as the Lockheed Martin RQ-3 DarkStar and Polecat. An Air Force official said, "It's the same concept as [the RQ-3] DarkStar, it's stealthy, and it uses the same apertures and data links, only it's bigger." It is a tailless flying wing aircraft with pods built into the upper surface of each wing. According to the United States Army Training Circular 3-01.80, the Sentinel has a wingspan of 65 feet 7 inches (20 m), and is 14 feet 9 inches (4.50 m) long. In a December 2012 report, journalist David Axe stated that "20 or so" RQ-170s had been built.
+The "RQ" designation (R for reconnaissance, Q for unmanned) indicates that the RQ-170 Sentinel does not carry weapons. Aviation Week & Space Technology's David A. Fulghum believes that the UAV is probably a "tactical, operations-oriented platform and not a strategic intelligence-gathering design".
+The USAF confirmed the "grainy photos of a gray, flying-wing-typed unmanned airplane near Kandahar Airfield." Since then, this aircraft has been known as "The Beast of Kandahar" in relation to the sighting of the RQ-170 Sentinel on 4 December 2009. A USAF colonel subsequently commented that RQ-170 is separate from the MQ-X program, which has yet to determine stealth or powerplant requirements, and thus the Sentinel will not replace the General Atomics MQ-1 Predator and General Atomics MQ-9 Reaper drones. In 2021, the 432nd Air Expeditionary Wing made a statement in which they said that "the 432nd AEW has ... successfully deployed and redeployed RQ-170 Sentinel forces."
+
+
+== Design ==
+The RQ-170 is a flying wing design containing a single (as yet classified) engine, and was estimated in 2009 by Aviation Week as having a wingspan of approximately 66 feet (20 m). Its takeoff weight is estimated as being greater than the RQ-3 DarkStar's, which was 8,500 pounds (3,900 kg). The design lacks several elements common to stealth engineering, such as zigzag edged landing gear doors and sharp leading edges, and the exhaust is not shielded by the wing. Aviation Week postulates that these elements suggest the designers have avoided "highly sensitive technologies" due to the near certainty of eventual operational loss inherent with a single engine design and a desire to avoid the risk of compromising leading edge technology. The publication also suggests that the medium-grey color implies a mid-altitude ceiling, unlikely to exceed 50,000 feet (15,000 m), since a higher ceiling would normally be painted darker for concealment. The postulated weight and ceiling parameters suggests the possible use of a General Electric TF34 engine, or a variant in the airframe.
+
+On the basis of the few publicly available photographs of the RQ-170, aviation expert Bill Sweetman has assessed that the UAV is equipped with an electro-optical/infrared  sensor and possibly an active electronically scanned array (AESA) radar mounted in its belly fairing. He has also speculated that the two undercarriage fairings over the UAV's wings may house datalinks and that the belly fairing could be designed for modular payloads, allowing the UAV to be used for strike missions and/or electronic warfare. The New York Times has reported that the RQ-170 is "almost certainly" equipped with communications intercept equipment, as well as highly sensitive hyperspectral sensors capable of detecting very small amounts of radioactive isotopes and chemicals that may indicate the existence of nuclear weapons facilities.
+Following Iranian claims of downing an RQ-170 near the Afghan border in December 2011, Iranian TV showed video footage of what appears to be an advanced unmanned U.S. aircraft that most closely resembles the RQ-170 UAV. In the footage, a member of the Iranian Revolutionary Guard released dimensions of the aircraft, including a wingspan of about 26 metres (85 ft), a height of 1.84 metres (6.0 ft), and a length of 4.5 metres (15 ft).
+
+
+== Operational history ==
+
+The 30th Reconnaissance Squadron was the first unit to operate RQ-170 Sentinels. Based at Tonopah Test Range Airport in Nevada, this squadron was activated on 1 September 2005. RQ-170 Sentinels have been deployed to Afghanistan, where one was sighted at Kandahar Airfield in late 2007. This sighting, and the Sentinel's secret status at the time, led Sweetman to dub it the "Beast of Kandahar". The UAV being deployed to Afghanistan, despite the Taliban having no radar, led to speculation that the aircraft was used to spy on Pakistan or Iran. Phil Finnegan, a UAV analyst at an aerospace consulting firm, suggests the stealth capabilities of the Sentinel are being used to fly in nearby countries. Iran has an air defense system that would require stealth technology to penetrate.
+In December 2009, South Korea's JoongAng Daily newspaper reported that the RQ-170 Sentinel had been test-flown in South Korea for the past few months and that it was expected to be permanently deployed in 2010 to replace Lockheed U-2 reconnaissance aircraft operating from Osan Air Base. In response to this report, Sweetman argued that the Sentinel's deployments to Afghanistan and South Korea were probably undertaken to monitor Pakistan and North Korea's ballistic missile programs. In 2020, through an FOIA request, it was revealed that the USAF ordered the deployment of the drone to Kunsan Air Base on 4 September 2009. It is unknown exactly how many RQ-170s were deployed.
+On 2 May 2011, at least one RQ-170 monitored the area while elements of the United States Naval Special Warfare Development Group launched an assault on the compound which resulted in bin Laden's death. The aircraft provided footage of the attack which was watched live by President Barack Obama and his senior national security advisors. The RQ-170 also monitored Pakistani military radio transmissions in the area to provide warning of the response to the attack. On 27 May the Los Angeles Times reported that Pakistani officials were "alarmed" by the use of the RQ-170 over their country as the drones are "designed to evade radar and other surveillance systems, and can be used as a spy plane".
+In October 2012 a RQ-170 was used to conduct bomb damage assessment for a test drop of a Massive Ordnance Penetrator bomb from a Northrop Grumman B-2 Spirit stealth bomber. The 44th Reconnaissance Squadron was established on 1 April 2015. While the USAF did not disclose what aircraft the unit was equipped with, it has been reported that it was established to operate RQ-170s. From 4 August 2020 to 6 August 2020, at least one RQ-170 participated in a $1.4 million Large Force Test Event at Nellis Air Force Base, in Nevada.
+It is believed that between 20 and 30 RQ-170s were in service with the USAF as of 2021. At this time, the type continued to be operated by the 30th and 44th Reconnaissance Squadrons. The USAF disclosed a deployment of RQ-170s in March 2021, but did not identify where they had operated.
+In January 2026, at least one RQ-170 was used during the 2026 United States intervention in Venezuela.
+
+
+=== Iranian capture and reverse engineering ===
+
+On 4 December 2011, media reports stated that the Iranian Army's electronic warfare unit had downed an RQ-170 that violated Iranian airspace along its eastern border through overriding its controls, and had captured the lightly damaged UAV. On 6 December, U.S. officials acknowledged that a drone crashed in or near Iranian airspace and that it belonged to the CIA, and not to the International Security Assistance Force (ISAF) as was earlier stated by the US government.
+The Iranian government released footage of a captured RQ-170 on 8 December. After examining the video that same day, U.S. officials confirmed that the drone was genuine. In April 2012, General Amir Ali Hajizadeh, the commander of the Islamic Revolutionary Guard Corps aerospace division, claimed that Iran had reverse-engineered the RQ-170, and was building a copy of the UAV. He also stated that data were being recovered from the captured RQ-170. The semi-official Tasnim News Agency of Iran reported in September 2016 that a UAV named Saegheh-2, similar in appearance to the RQ-170 Sentinel, had been built. It was said to be able to carry four precision-guided bombs; the range was not stated. The Shahed 171 Simorgh is also based on the downed Sentinel.
+The Israeli military shot down a Saeqeh drone during the February 2018 Israel–Syria incident. Israeli media reported that the UAV's design was indeed largely based on the RQ-170, while IAF Brigadier General Tomer Bar said that the drone was quite advanced and emulated western technology.
+
+
+== Operators ==
+ United States
+United States Air Force
+30th Reconnaissance Squadron – Creech Air Force Base, Nevada
+44th Reconnaissance Squadron – Creech Air Force Base, Nevada
+
+
+== Specifications (RQ-170) ==
+
+Data from The Drive, Army Training Circular 3-01.80General characteristics
+Crew: 3 on ground
+Length: 14 ft 9 in (4.5 m)
+Wingspan: 38 ft 7 in (11.58 m) 
+Height: 6 ft (1.8 m) estimated
+Powerplant: 1 × Garrett TFE731 or General Electric TF34 turbofan
+Performance
+
+Endurance: 5 to 6 hours
+Service ceiling: 50,000 ft (15,000 m) estimated
+
+
+== See also ==
+Northrop Grumman RQ-180
+
+
+== References ==
+Notes
+
+
+== External links ==
+
+RQ-170 Sentinel Fact Sheet Archived 30 March 2017 at the Wayback Machine from the United States Air Force
+RQ-170 Sentinel Pictures Archived 17 November 2015 at the Wayback Machine from DefenceTalk.com

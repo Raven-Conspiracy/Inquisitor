@@ -1,0 +1,61 @@
+The Hsiung Feng III (HF-3; Chinese: 雄風三型; pinyin: Xióngfēng sān xíng, "Brave Wind III") is a medium range supersonic missile with capabilities to destroy both land based targets and naval targets developed by the National Chung-Shan Institute of Science and Technology (NCSIST) in Taiwan.
+
+
+== Design ==
+Initial prototype versions of the missile used the design of an integrated rocket ramjet to achieve supersonic speeds. It uses a solid fuel main booster with two side-by-side solid-propellant jettisonable strap-on rocket boosters for initial acceleration and a liquid-fueled ramjet for sustained cruise. It also employs electronic counter-countermeasures (ECCM) capabilities allowing it to penetrate an enemy ship's defenses.
+The missile is cylindrical in shape and composed of three sections, namely guidance and control, warhead, and propulsion. The body has four inlet ducts and four clipped delta control surfaces. It used the inertial navigation system (INS) during mid-course navigation phase and active radar seeker at terminal guidance phase. The air intake design arrangement was reported to have been optimized for evasive maneuvering at terminal sea-skimming altitudes. The missile is designed to be capable of way-pointing and can be programmed to fly offset attack axes to saturate defenses. It is also capable of high-G lateral terminal "random weaving" maneuvers to evade close-in defenses.
+It also features an armor-piercing warhead which generates tremendous destruction after hitting the target. The warhead is equipped with self-forging fragments and in the 225 kg (500 lb) weight class. It has a conventional warhead that is triggered by a smart fuze which directs most of the energy downwards, inside the target ship's hull.
+The missile is believed to have an operating range of over 100 km (62 mi; 54 nmi)  and an extended range version with a possible maximum range of over 400 km (250 mi; 220 nmi) . It can be deployed on ships and mobile trailers. The instructions for missile launch can be issued by a command and control system for different platforms and different paths leading to saturation of a ship's defense system.
+
+
+== History ==
+
+
+=== Development ===
+CSIST started a ramjet test vehicle program in 1994, and this project was later merged with the Hsiung Feng program. Flight testing of a prototype started in 1997. Operational testing and evaluation was started in 2004 and was completed by 2005, on board ROCS Cheng Kung. The development and flight test program for the Yun Feng supersonic cruise missile was hidden within the HF-3's flight test program.
+According to the Jamestown Foundation the HF-3 was intended to counter the SS-N-22 Sunburn which the PRC had acquired with its Sovremennyy-class destroyers.
+
+
+=== Deployment ===
+The missile was officially revealed on October 10, 2007, at a military parade in Taipei, Taiwan. It has now been deployed aboard the ROC Navy's La Fayette/Kang Ding-class frigate, Cheng Kung-class frigate, Jin Chiang-class patrol gunboats, and on road mobile tractor trailers. In 2019, Taiwanese President Tsai Ing-wen ordered the NCSIST to accelerate mass production of the HF-3 in response to increasing Chinese military power and bellicosity.
+
+
+=== Misfire accident ===
+
+On July 1, 2016, Chinchiang (PGG-610) of the Republic of China (Taiwan) Navy accidentally fired a Hsiung Feng III missile during a training exercise. The missile traveled a distance of about 75 km (47 mi) before it hit a fishing boat The captain of the boat was killed and three crew members were injured. The Taiwan Ministry of National Defense stated that the warship's commander, senior arms officer and missile launch control sergeant had all failed to follow standard operating procedure.
+
+
+== Variants ==
+
+
+=== Extended range ===
+The larger, longer-range Hsiung Feng III has been developed since the Presidency of Ma Ying-jeou, and was formally established under the name "Panlong Project" during the Presidency of Tsai Ing-wen. It is expected to produce extended-range missile with a range of 400 kilometers. NCSIST conducted multiple live-fire tests of the extended-range missile from 2017 to 2019, and the mass production budget will be approved in 2021. The extended-range missile of Han Kuang Exercise 41 was deployed for the first time.
+
+
+=== Air launched ===
+The development of an air-launched variant of the HF-3, dubbed the Hsiung Chih, was disclosed in 2022. The air launched variant in expected to be significantly lighter and to use the F-CK-1 as a launch platform. The air launched variant was spotted undergoing testing in 2025.
+
+
+== Security concerns ==
+In late 2021 and early 2022, the National Chung-Shan Institute of Science and Technology (NCSIST) discovered equipment used in the development and testing of the Hsiung Feng III and other missiles used by Taiwan relied on mainland Chinese facilities for repair and maintenance, raising  security concerns. NCSIST had shipped the instrument to its manufacturer in Switzerland and was not informed that the equipment would be sent to China. NCSIST performed check after receiving the equipment from China, which did not discover any malware or modifications.
+
+
+== Gallery ==
+
+
+== See also ==
+BrahMos  – (India, Russia)
+CX-1 Missile Systems  – (China)
+P-800 Oniks  – (Russia)
+Future Cruise/Anti-Ship Weapon  – (France, Italy, United Kingdom)
+Defense industry of Taiwan
+Anping-class offshore patrol vessel
+
+
+== References ==
+
+
+== External links ==
+
+CSIST website
+CSIST Technology Service Web

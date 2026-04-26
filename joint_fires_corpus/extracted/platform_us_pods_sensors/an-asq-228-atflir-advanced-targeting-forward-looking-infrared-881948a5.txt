@@ -1,0 +1,17 @@
+The AN/ASQ-228 Advanced Targeting Forward-Looking Infrared (ATFLIR) is a multi-sensor, electro-optical targeting pod incorporating thermographic camera, low-light television camera, target laser rangefinder/laser designator, and laser spot tracker  developed and manufactured by Raytheon. It is used to provide navigation and targeting for military aircraft in adverse weather and using precision-guided munitions such as laser-guided bombs. It is intended to replace the earlier AN/AAS-38 Nite Hawk pod in US Navy service.
+ATFLIR is 72 in (180 cm) long, weighs 420 lb (190 kg), and has a slant range of 40 mi (64 km), said to be useful at altitude of up to 50,000 ft (15,000 m). It has fewer parts than many previous systems, which is intended to improve serviceability (although early examples, in service with VFA-115 'Eagles' in 2003 experienced problems). Crews indicate that it offers much greater target resolution and image accuracy than previous systems.
+ATFLIR presently is used by the US Navy on the Boeing F/A-18E/F Super Hornet and the earlier F/A-18C/D and with Marine Corps F/A-18Cs when they would deploy onboard aircraft carriers. It is normally carried on one of the fuselage hardpoints otherwise used for AIM-120 AMRAAM missiles. 410 pods were delivered to the U.S. Navy.  Pods have also been delivered to Switzerland and Australia (for its EA-18G Growler fleet), and six pods will be delivered to Malaysia.
+The US Navy is considering options to either improve or replace ATFLIR because of current hardware readiness state and sustainment costs. As of 2024, flight tests of the AN/AAQ-28 LITENING pod to replace the ASQ-28 had concluded successfully.
+In accordance with the Joint Electronics Type Designation System (JETDS), the "AN/ASQ-228" designation represents the 228th design of an Army-Navy airborne electronic device for special combination equipment. The JETDS system also now is used to name all Department of Defense electronic systems.
+
+
+== See also ==
+
+List of military electronics of the United States
+
+
+== References ==
+
+
+== External links ==
+Raytheon Technologies -  Advanced Targeting Forward Looking Infrared (ATFLIR) (archived)

@@ -1,0 +1,25 @@
+The Novator 9M729 (NATO reporting name SSC-8) is a ground-launched cruise missile developed by NPO Novator in Russia. It gained significant attention when it led to the denunciation of the Intermediate-Range Nuclear Forces Treaty (INF Treaty) by the United States secretary of state Mike Pompeo in August 2019.
+
+
+== History ==
+
+The 9M729 missile class was initially banned by the INF Treaty, which was signed in December 1987. By November 1990, six launchers containing 84 missiles were deployed at the Missile/Launcher Storage in Jelgava, located in Soviet Latvia. However, these launchers and missiles were subsequently destroyed.
+In early 2017, US officials, along with analyst Jeffrey Lewis, alleged that Russia was violating the INF Treaty through the deployment of the 9M728 (SSC-7) and 9M729 (SSC-8) missiles as part of the Iskander missile system. These missiles were regarded as variants of the earlier RK-55. According to US officials, two missile battalions equipped with the RK-55 missiles were deployed by February 14, 2017, in violation of the INF Treaty. Each battalion was composed of four launchers, with each launcher carrying potentially nuclear-tipped cruise missiles. One battalion was believed to be stationed at Kapustin Yar near Volgograd, while the location of the other battalion remained unknown at the time.
+In February 2019, the German newspaper Frankfurter Allgemeine Zeitung reported that, in addition to the known missile and battalion locations, namely the launch pad at Kapustin Yar and Yekaterinburg, two more sites were equipped with these missiles: Mozdok in North Ossetia and Shuya near Moscow. Each of the four battalions was equipped with four-axle Transporter Erector Launchers (TELs), with each TEL carrying four missiles. Consequently, Russia was believed to possess a total of 64 9M-728 missiles that could be armed with either conventional or nuclear warheads.
+In December 2017, the US National Security Council claimed that the 9M729 cruise missile produced by Novator was believed to be in violation of the INF Treaty. Donald Trump announced in October 2018 that he would withdraw the United States from the treaty if Russia did not return to full compliance. Subsequently, on February 2, 2019, the United States provided Russia with formal legal notice of its intent to withdraw from the treaty in six months pursuant to Article XV, and then officially withdrew from the treaty on August 2, 2019.
+In October 2025, Ukraine confirmed that Russia had used the 9M729 cruise missile in combat for the first time, launching it 23 times since August. The missile reportedly struck targets over 1,200 km away, demonstrating its extended range and representing the first recorded operational use of a system previously restricted under the INF Treaty.
+
+
+== Description ==
+
+The 9M729 missile may utilize the Transporter Erector Launcher (TEL) of the 9K720 Iskander missile system, where the system might be referred to as Iskander-K; K referring to the Russian phrase for cruise missile; крылатая ракета. Other reports suggest that six missiles are carried on the MAZ 543 launcher, which is associated with the R-17 Elbrus.
+It is believed that the 9M729 is a land-based variant of the Novator Kalibr cruise missile employed by the Russian Navy.
+Russia states a range of less than 500km, but media sources claim the missile has an actual range of 2,350 kilometers, and a reduced range of 2,000 kilometers when armed with a 500 kilogram conventional warhead.
+The difference could be rooted in the Russian complaint about the Mk41 launchers deployed by the US in Poland and Romania as part of its Aegis Ashore program. The US denies the Russian allegation, while Russia dismisses the reported range of its missile as claimed by the media.
+
+
+== References ==
+
+
+=== Bibliography ===
+Thomson, David B. (July 1999), A Guide to the Nuclear Arms Control Treaties LA-UR-99-3173 (PDF), Los Alamos National Laboratory

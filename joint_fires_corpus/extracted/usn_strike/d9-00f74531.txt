@@ -1,0 +1,2331 @@
+  
+
+  
+	 	 
+JOINT MARITIME OPERATIONS
+     JULY 2025
+         Version 3.0
+ Naval Command and Staff Online Program
+
+ 
+
+
+
+ii 
+ 
+UNITED STATES NAVAL WAR COLLEGE 
+COLLEGE OF DISTANCE EDUCATION 
+ 
+JOINT MARITIME OPERATIONS 
+NAVAL COMMAND AND STAFF 
+ONLINE PROGRAM 
+ 
+SYLLABUS AND STUDY GUIDE TABLE OF CONTENTS 
+ 
+FORWARD...................................................................................................................................... i 
+TABLE OF CONTENTS ................................................................................................................ ii 
+ 
+Contents 
+PROGRAM OVERVIEW & ADMINISTRATION .................................................................. 4 
+Mission ........................................................................................................................................... 4 
+Course Overview ........................................................................................................................... 4 
+Chairman, Joint Chiefs of Staff (CJCS) Officer Professional Military Education Policy ..... 4 
+NWC Program Learning Outcomes............................................................................................ 6 
+Syllabus Organization .................................................................................................................. 6 
+Course Requirements ................................................................................................................... 6 
+Assessment ..................................................................................................................................... 7 
+Academic Honor Code ................................................................................................................ 10 
+Guidance for Written Submissions ........................................................................................... 11 
+Submitting Assessments ............................................................................................................. 12 
+End-Of-Course Questionnaire ................................................................................................... 12 
+Disenrollment .............................................................................................................................. 12 
+Key Personnel Contacts .............................................................................................................. 12 
+
+iii 
+OPERATIONAL AR T ................................................................................................................ 14 
+JMO 1.1 INTRO TO OPERATIONAL ART AND PRINCIPLES OF JOINT OPS ............ 15 
+JMO 1.2 MILITARY OPERATIONS AND LEVELS OF WAR ............................................ 17 
+JMO 1.3 OPERATIONAL FACTORS ................................................................................. 19 
+JMO 1.4 THEATER: STRUCTURE AND GEOMETRY ....................................................... 21 
+JMO 1.5 OPERATIONAL FUNCTIONS ............................................................................. 23 
+JMO 1.6 CENTER OF GRAVITY AND CRITICAL FACTOR ANALYSIS ......................... 25 
+JMO 1.7 ANALYSIS OF THE FALKLANDS/MALVINAS CONFLICT .............................. 28 
+JMO 1.8 SUMMATIVE ASSESSMENT ............................................................................... 30 
+JOINT CAPABILITIES ............................................................................................................. 32 
+JMO 2.1 MILITARY OPERATIONS AND THE COMPETITION CONTINUUM ............... 33 
+JMO 2.2 MARITIME OPERAITONAL LAW ....................................................................... 35 
+JMO 2.3 NAVAL WARFARE THEORY AND THE MARITIME DOMAIN ....................... 37 
+JMO 2.4 OBJECTIVES OF NAVAL WARFARE ............................................................... 39 
+JMO 2.5 U.S. NAVAL CAPABILTIES PART I ..................................................................... 41 
+JMO 2.6 U.S. NAVAL CAPABILTIES PART II ................................................................... 43 
+JMO 2.7 U.S.COAST GUARD CAPABILITIES  ................................................................... 46 
+JMO 2.8 U.S MARINE CORPS CAPABILITIES................................................................... 48 
+JMO 2.9 U.S. ARMY CAPABILITIES .................................................................................. 50 
+JMO 2.10 U.S. AIR FORCE & U.S.SPACE FORCE CAPABILITIES ................................... 52 
+JMO 2.11 U.S. SPECIAL OPERATIONS FORCES CAPABILITIES ................................... 54 
+JMO 2.12 JOINT COMMAND AND CONTROL ............................................................... 56 
+JMO 2.13 JOINT LOGISITICS ............................................................................................ 58 
+JMO 2.14 JOINT INTELLIGENCE ...................................................................................... 60 
+JMO 2.15 INFORMATION AND CYBERSPACE OPERATIONS .................................... 62 
+JMO 2.16 SUMMATIVE ASSESSMENT ............................................................................. 64 
+JOINT PLANNING PROCESS ................................................................................................. 66 
+JMO 3.1 THE JOINT PLANNING PROCESS AND INTRO TO OP PACIFIC TEAK .......... 67 
+JMO 3.2 SUMMATIVE ASSESSMENT: CAPSTONE ......................................................... 70 
+APPENDICES ............................................................................................................................. 73 
+APPENDIX A .............................................................................................................................. 73 
+
+4 
+PROGRAM OVERVIEW & ADMINISTRATION 
+Mission 
+In keeping with the U.S. Naval War College (NWC) mission, the online Naval Command and 
+Staff (NC&S) Program is designed to educate mid-career leaders for service at the operational 
+and high-tactical levels of war. These leaders will be capable of meaningfully contributing to staff 
+actions necessary for the linkage of ends, ways, and means in the attainment of strategic and 
+operational objectives in both peace and war. The Program is focused on and meets Joint 
+Professional Military Education (JPME) Phase I and Navy Professional Military Education 
+requirements.  
+Course Overview 
+Joint Maritime Operations (JMO)is the third and final course of the NC&S Program. It addresses 
+the high-tactical and operational levels of war throughout the full spectrum of military operations, 
+with an emphasis on mid-to-high intensity combat at sea. In this course, students will learn to 
+apply operational art and naval/joint warfare theories to  understand complex ill- structured 
+problems and then to develop creative solutions to them using appropriate military capabilities.  
+JMO provides students with the intellectual tools to help answer the four enduring questions 
+each mission poses to joint force commanders and their staff planners: 
+• What are the objectives and desired end state? (Ends)
+• What sequence of actions is most likely to achieve those objectives and end state?
+(Ways)
+• What resources are required to accomplish that sequence of actions? (Means)
+• What is the likely chance of failure or unacceptable results in performing that
+sequence of actions? (Risk)
+Chairman, Joint Chiefs of Staff (CJCS) Officer Professional Military Education 
+Policy 
+The Chairman of the Joint Chiefs of Staff (CJCS) Instruction CJCSI 1800.01G sets the policies, 
+procedures, objectives, and responsibilities for Joint Professional Military Education (JPME). 
+It directs the services and service colleges to comply with the Officer Professional Military  
+Education Policy (OPMEP) by meeting the outcomes it defines. The Officer JPME outcomes  
+are designed to produce officers fully capable of serving as leaders or staff officers at the  
+operational level of war. 
+
+5 
+The OPMEP Service Intermediate-Level College (ILC) Joint Learning Area (JLA) objectives 
+are presented in Appendix A to highlight the linkage between them, the NWC Program  
+Learning Outcomes (PLOs), and the CDE JMO Course Learning Outcomes (CLOs). Each  
+syllabus session also lists the Naval War College (NWC) learning objectives to be addressed  
+in that session 
+NWC Program Learning Outcomes 
+Graduates of the CDE NC&S will achieve JPME, Phase I certification and will have 
+demonstrated the following Naval War College Program Learning Outcomes (PLOs): 
+• PLO 1: Demonstrate joint planning and joint warfighting ability in military operations
+and campaigns across the continuum of competition. JLAs: 3, 5, 6.
+• PLO 2: Create theater and national military strategies designed for contemporary and
+future security environments. JLAs: 4, 5.
+• PLO 3: Apply the organizational and ethical concepts integral to the profession of arms
+to decision-making in theater-level, joint, and multinational operations. JLAs: 2.
+• PLO 4: Apply theory, history, doctrine, and sea power through critical, strategic thought
+in professional, written communication. JLAs: 1, 3, 4
+CDE JMO Course Learning Outcomes 
+The CDE JMO learning and assessment methodology is based on outcomes aligned with 
+officer OPMEP JPME objectives and Naval War College desired student educational 
+outcomes. Students who successfully complete the Joint Maritime Operations (JMO) Course 
+will be competent in the four CDE JMO Course Learning Outcomes (CLOs): 
+• CLO 1: Apply critical thinking, creative thinking, and problem-solving skills to
+support decision-making in joint maritime operations.
+• CLO 2: Apply Operational Art to operational and high-tactical objectives in the
+maritime environment.
+• CLO 3: Apply the principles of naval warfare theory to joint maritime objectives
+across the competition continuum.
+• CLO 4: Apply the Joint Planning Process to communicate how to employ maritime
+power to achieve military objectives.
+
+6 
+Course Organization 
+Joint Maritime Operations  introduces the student to subject matter  organized into three sub-
+courses: Operational Art, Joint Capabilities, and Joint Planning Process.  E ach is made up of 
+multiple sessions which build upon one another.  
+JMO-1: OPERATIONAL ART addresses operational art theory and its practical application. 
+JMO-2: JOINT CAPABILITIES explore operational level planning considerations for 
+employing U.S. military  capabilities. Several sessions also provide deeper dives into key 
+functional aspects of operational planning, including command and control, maritime law, 
+sustainment/deployment, and intelligence. 
+JMO-3: JOINT PLANNING PROCESS (JPP) is the standardized methodology to plan miliary 
+operations. It is derived from theory and extensive studies of military history. Students will apply 
+the JPP to a fictional scenario and develop a concept of operations to achieve an assigned mission. 
+Syllabus Organization 
+The syllabus establishes the basis for required course work.  Each session within the course is 
+organized as 
+A. Session Overview. Specifies the general context of the session, its purpose, and how it
+fits into the overall Program.  In addition, it provides a framework for session material,
+questions to ponder, and focus areas.  Specific details for each session will be delineated
+by the Professor.
+B. Objectives. Identifies the session goals and provides an intellectual line of departure for
+the readings.  Provides the desired Navy Service outcomes and associated Course
+Learning Outcomes (CLOs) for the session.
+C. Student Preparation.  Includes media, lectures and readings which focus student
+preparation and enhance understanding of the topic. Students are expected to complete all
+required media, lectures, and readings (except those annotated as “Scan”).  These materials
+are vital to the development of Program  concepts and to the quality of the learning
+experience.  There is no classified material issued or required for the completion of this
+Program and all student submissions must be UNCLASSIFIED.
+D. Student Deliverables. Session requirements are identified in the section. Discussion Board
+Forums, practical exercises, and assessments are outlined in specific detail in Blackboard.
+Course Requirements 
+The Joint Maritime Operations course is designed to be completed in 24 weeks in a faculty-led 
+environment.  Students must complete each session and submit all deliverables in accordance with 
+(IAW) the posted schedule in Blackboard.  Any personal or professional commitments that might 
+preclude completion of the Program within these limits should be made known to the Professor 
+
+7 
+ 
+as soon as possible.  The student’s ability to continue in the program will be reviewed on an 
+individual basis.  
+Access requirements for the Online Program:  Access to a computer or tablet with internet 
+and e-mail capability is required 
+Connectivity to the Internet is needed to access Blackboard Ultra located at 
+http://navalwarcollege.blackboard.com/. Students should contact the Professor for any required 
+assistance. Each student will receive a USERID and PASSWORD upon enrollment in the 
+Program. Blackboard Ultra, the Learning Management System (LMS) used in the Program, 
+supports multiple computer systems and internet browsers.  However, Blackboard is optimized 
+for Google Chrome, and as such, Blackboard may not provide the best experience if Chrome 
+is not used. Note: Internet Explorer is no longer supported by Blackboard. 
+Workload 
+The Naval Command and Staff Program requires an average weekly workload of eight to 
+ten hours of study and preparation for most students, but more may occasionally be 
+required. Advanced planning and careful allocation of resources and time will help 
+mitigate these peak workloads; however, there is very little leeway with the schedule, 
+particularly when assessments are scheduled. BLACKBOARD COLLABOARATE 
+SESSIONS 
+Office hours 
+Professors may elect to hold "office hours" using Blackboard's Collaborate feature to 
+address student questions.  If held, student participation in these sessions is completely 
+voluntary.  Student participation or non-participation in “office hours,” in and of itself, 
+will not influence Program grading in any way. 
+ 
+ 
+Assessment 
+Assessments provide the opportunity for students to demonstrate attainment of the 
+Program/Course’s Outcomes. 
+Formative Assessments 
+Formative Assessments (FAs) are interim checks of a student’s understanding of specific 
+course concepts. They are graded as either “Meets Expectations” or “Not Yet.” While they 
+do not factor into course grades, successful completion of all FAs in a sub-course is 
+required before taking the Summative Assessment.    Any FA assessed as “Not Yet” meeting 
+expectations must be remediated. The appropriate remediation methodology will be 
+determined by your professor. A full or partial redo is typically required, either verbally or in 
+writing, but other methods may be used. Because the course does not pause for rework, 
+remediation should be addressed as rapidly as possible. 
+ 
+
+8 
+Summative Assessments 
+Summative Assessments (SAs) offer opportunities for students to demonstrate the ability 
+to apply the concepts studied in sub-course sessions. Like FAs, any SA submission which 
+does not meet minimum standards (80, B -) must be successfully remediated in order to 
+continue with the Program. A successfully remediated SA will receive a grade of 80. 
+Failure to meet minimum standards on the second attempt is grounds for disenrollment. 
+The following general grading criteria apply to SA grading; individual grading rubrics specific 
+to each SA are available in Blackboard.  
+A+ (97-100) Work of truly superior quality.  Organized, coherent and well -written 
+response. Completely addresses the question. Covers all applicable 
+major and key minor points. Demonstrates total grasp and 
+comprehension of the topic. 
+A (94-<97) Work of exceptional quality. Demonstrates an excellent grasp of the 
+topic, addressing all major issues and key minor points. Organized, 
+coherent, and well-written.  
+A- (90-<94) Work of very high quality and well above average. Demonstrates a very
+good grasp of the topic. Addresses all major and at least some minor points 
+in a clear, coherent manner.  
+B+ (87-<90) Solid work and slightly above average.  Well-crafted answer that 
+discusses all relevant important concepts with supporting rationale for 
+analysis. 
+B (84-<87) Average performance expected of the student.  A successful 
+consideration of the topic overall, but either lacking depth or containing 
+statements for which the supporting rationale is not sufficiently argued. 
+B- (80-<84) Acceptable, but below average work.  Addresses the question and
+demonstrates a fair understanding of the topic but does not address all key 
+concepts and is weak in rationale and clarity. 
+<B- (<80) Below Program standards. Grades below a B- require remediation. 
+Student Contribution Assessment 
+Discussion Board posts and replies and participation in group projects are used to assess a 
+student’s contribution grade. Each student is expected to be fully engaged throughout 
+the program.  If a student’s contribution grade falls below a B - (or is in danger of 
+reaching that point) the Professor will intervene and ensure that the student 
+understands that a contribution grade  of B - or better is required for successful 
+completion of each sub-course.  The student will be provided the opportunity to improve 
+their contribution grade through remediation provided by the Professor. A final 
+contribution grade below a B - in a sub- course will result in a recommendation for 
+disenrollment from the Program. The following grading criteria apply to contribution: 
+A+ (97-100) Peerless demonstration of wholly thorough preparation for cohort sessions. Consistently 
+contributes original and highly insightful thought. Exceptional player and leader. 
+
+9 
+ 
+A (94-<97) Superior demonstration of complete preparation for cohort sessions. Frequently offers 
+original and well-thought-out insights. Routinely takes the lead to accomplish team projects. 
+A-    (90-<94) Excellent demonstration of preparation for individual sessions. Contributes original, 
+well-developed insights in the majority of sessions. Often takes the lead to accomplish 
+team projects. 
+B+   (87-<90) Above average preparation for cohort sessions. Occasionally contributes original and 
+well-developed insights. Obvious team player who sometimes takes the lead for team 
+projects. 
+B   (84-<87) Average preparation for cohort sessions. Occasionally contributes original and insightful 
+thought. Acceptable team player: takes effective lead on team projects when assigned. 
+B-    (80-<84) Minimally acceptable preparation for cohort sessions. Infrequently contributes well -
+developed insights; may sometimes post without having thought through an issue. 
+Requires prodding to take the lead in team projects. 
+<B-   (<80) Grades below a B- require remediation. 
+ 
+Assessment(s) Due Dates and Late Submissions   
+Each assessment will have a specific due date for submission which is clearly delineated 
+in Blackboard. This may be adjusted by the Professor when appropriate. Any work turned 
+in past an established deadline without previous approval from the Professor will 
+receive a grade of not greater than a B - (80). On a case -by-case basis, late work, 
+especially a pattern of late work, may result in the student’s disenrollment from the 
+Program. We recognize that most students are taking this course on top of demanding day 
+jobs. If work commitments or personal issues impede a student’s ability to complete course 
+work on time, he/she should reach out to the Professor as soon as possible to explore 
+options. We are committed to helping students make it through the course. However, if this 
+proves impossible, a student may disenroll voluntarily and receive credit for any fully 
+completed sub-courses. When the situation improves, the student may reenroll to complete 
+the remaining sub-courses.  
+Collaboration/Team efforts  
+All assessments within the NC&S Program are open book and open notes. The student may 
+consult any of the readings, lectures, or Program resources while completing the 
+assessment. Collaboration between students on assessments is NOT permitted unless 
+specifically authorized or required by the Professor.  The use of commercially produced 
+computer software for proofreading a student's work prior to submission is authorized. 
+Students are also permitted to have another student or person proofread their work for them; 
+however, this assistance cannot encompass more than the same grammar and spelling issues 
+addressed by the software programs.  
+Throughout the course the Professor may require team efforts. Team efforts may be during 
+Discussion Board Forums, Joint Planning Process (JPP) worksheet development, or other 
+
+10 
+times as directed by the Professor. It is contingent upon the student to fully participate in 
+team efforts as required by the Professor.  
+Academic Honor Code 
+Plagiarism, cheating, and misrepresentation are prohibited.  Such practices are inconsistent 
+with the professional standards required of all military personnel and government employees. 
+In the case of U.S. military officers, such conduct clearly violates the “Exemplary Conduct 
+Standards” delineated in Title 10, U.S. Code, Sections 3583 (U.S. Army), 5947 (U.S. Naval 
+Service), and 8583 (U.S. Air Force). 
+Definitions 
+Plagiarism is the use of someone else’s work without giving proper credit to the author or 
+creator of the work. It is passing off as one’s own another’s words, ideas, analysis or other 
+products. Whether intentional or unintentional, plagiarism is a serious violation of 
+academic integrity and must be treated as such by the command. Plagiarism includes but 
+is not limited to the following actions: 
+• The verbatim use of others’ words without citation.
+• The paraphrasing of others’ words or ideas without citation.
+• Any use of others’ work (other than facts that are widely accepted as common
+knowledge) found in books, journals, newspapers, websites, interviews, government
+documents, Program materials, lecture notes, films, and so forth without giving credit.
+Students are expected to give full credit via proper citations when utilizing another’s words 
+or ideas in their written coursework. However, citations should be used sparingly. A FA or 
+SA submission chock full of citations, especially direct quotes and paraphrases, often fails 
+to demonstrate a minimum understanding of course material or the ability to apply it. 
+Cheating is defined as the giving, receiving, or using unauthorized aid in support of one's 
+own efforts, or the efforts of another student. (Note: NWC Reference Librarians are an 
+authorized source of aid in the preparation of class assignments). Cheating includes t he 
+following: 
+• Gaining unauthorized access to assessments.
+• Assisting or receiving assistance from other students or other individuals in the
+preparation of written assignments or assessments unless specifically permitted.
+• Utilizing unauthorized materials (notes, texts, crib sheets, and the like, in paper or
+electronic form) during assessments.
+• The use of artificial intelligence (AI) computer programs to compose, or aid in the
+composition of, discussion board posts, formative assessments, or summative
+assessments.
+
+11 
+Misrepresentation is defined as reusing a single paper for more than one purpose without 
+permission or acknowledgement. Misrepresentation includes the following: 
+• Submitting a single paper or substantially the same paper for more than one Program
+at the NWC without permission from the Professor.
+• Submitting a paper or substantially the same paper previously prepared for some other
+purpose outside the NWC without acknowledging that it is an earlier work.
+Action in case of suspected violation 
+If a student’s submitted written work appears to violate this code of conduct, the following 
+procedures must be followed: 
+• The Deputy Dean, CDE will be notified, and will initiate an investigation. In the event
+that a formal investigation is warranted, the student will be informed of the nature of
+the case and be allowed to submit information on their behalf. The results of th e
+investigation will be delivered to the Dean, CDE.
+• The Dean, CDE will review the case and recommend to the Provost whether it should
+be referred to the Academic Integrity Review Committee (AIRC).
+• The Provost may elect to have the case settled by the Dean, CDE; or refer it to the
+AIRC, in which case the President, NWC will be notified of the pending action.
+• The AIRC will review the case, interviewing the student if feasible and desired; and/or
+accept any further written student information. The AIRC will make findings of fact
+and recommend appropriate action to the President, NWC via the Provost. That action
+may include any or all of the following:
+o Lowering of grades on the affected work, or on the entire Program, to a letter grade
+of “F” with a numerical equivalent between 0 and 59.
+o Inclusion of remarks in Fitness Reports.
+o Letters to appropriate branches of the Service, agencies, offices, or governments.
+o Dismissal from the NWC/CDE.
+o Referral for disciplinary action under the Uniform Code of Military Justice, or for
+appropriate action under rules governing civilian personnel.
+• If the violation is discovered after graduation, the matter may be referred to the individual’s
+current command or office, and if appropriate, the NWC diploma, and JPME I credit may be
+revoked.
+Guidance for Written Submissions 
+All U.S. Naval War College programs encourage a free and open exchange of ideas.  Students 
+are exposed to a broad spectrum of opinions to encourage individual analysis rather than 
+
+12 
+learning preconceived doctrine.  Two things about this methodology are worth noting:   First, 
+the views expressed by the faculty are their own and not necessarily related to an official Navy 
+position.  Second, the Program provides few clear -cut answers to the issues addressed.  This 
+approach may be frustrating to some, but it more accurately represents the complex and 
+uncertain nature of issues students will face in their profession and is considered a more 
+effective method to develop the ability to analyze,  draw conclusions, and make sound 
+decisions.  While there may be no single right answer to a question, there are still good and 
+bad submissions.  Written work should be formal, comprehensive, and in an academically 
+acceptable style.  Guidance for each submission will be delineated in the instructions for each 
+assignment in Blackboard. 
+Submitting Assessments 
+Assessments for the Naval Command and Staff Program must be submitted in Microsoft Word 
+format via the Blackboard “Assignments” using the following naming convention: 
+Last name, First name_FA or SA #_Question # 
+(e.g., Jones_John_FA1_Q3).  
+End-Of-Course Questionnaire 
+The completion of an End-of- Course questionnaire for JMO is required for the successful 
+completion of the Program.  Constructive student comments help ensure the Program will 
+improve in subsequent years.  If there are any questions or difficulties completing the 
+questionnaire, contact CDE at: onlineadmin@usnwc.edu.  
+Disenrollment 
+If a student determines they cannot continue to actively participate in the Program, they must 
+contact the Professor as soon as possible to discuss the situation. Should disenrollment be 
+necessary, students will retain credit for any fully completed sub -course.  While there are no 
+specific time limits on rejoining the Program and retaining credit; significant changes to the 
+Program curriculum over time may result in the need for a student to complete a previously 
+completed sub-course.
+  
+Key Personnel Contacts 
+If you require additional course information, or if problems develop that you cannot resolve 
+locally with your professor, contact one of the individuals listed below: 
+Prof. Edmund Hernandez, CAPT USN (Ret) 
+Chair, CDE Joint Military Operations Department 
+(401) 856-5553
+edmund.hernandez@usnwc.edu
+Dr
+. Darren McClurg, PhD, CDR USN (Ret) 
+Course Director, CDE Joint Maritime Operations NC&S Online 
+
+13 
+ 
+(401) 856-5555  
+darren.mcclurg@usnwc.edu 
+ 
+Ms. Laura Cavallaro 
+NC&S Program Manager 
+College of Distance Education 401-856-5363 
+laura.cavallaro@usnwc.edu 
+ 
+NC&S Administrative Assistant: 
+ncsonline@usnwc.edu 
+ 
+CURRENCY CAVEAT: The U.S. Naval War College attempts to keep the Naval Command and 
+Staff Program as current as possible, but due to administrative constraints, some subject matter 
+may fall out of date. Should a student encounter any such information, the C ollege welcomes all 
+suggestions for improvement.  Please provide your observation to one of the contacts listed above 
+or: 
+ 
+Electronically – Send recommended updates to the appropriate Module Point of Contact (see above) 
+  
+Mail— U.S. Naval War College, 686 Cushing Road, Newport, RI 02841-1207. 
+ 
+            Attn: 1G: College of Distance Education 
+
+14 
+OPERATIONAL ART 
+T
+he Operational Art course provides the students a disciplined, cognitive foundation for solving 
+military problems. Operational Art is not a planning process or a checklist; rather, it is a conceptual 
+approach towards creating conditions that, together, are likely to achieve designated objectives. 
+Political and strategic decisions result in military objectives.  Commanders and staff must then 
+develop ideas for achieving them. Operational Art provides a structured and historically informed 
+way to accomplish this in a joint environment. 
+These sessions are foundational for comprehending operational concepts introduced throughout 
+the remainder of the NC&S Program and for practical use in the field.  The study of Operational 
+Art, to include the elements of operational warfare, basic operations, and campaign planning,  is 
+essential to comprehending the nuances of the operational level of war. Students will discover that 
+they are, in fact, learning a different “language.” The lexicon of the operational commander and 
+staff is rooted in the language of Operational Art.  A critical point for students to keep in mind is 
+that, while they will first investigate Operational Art from the theoretical perspective, the value of 
+Operational Art lies in its practical utility in addressing ill-structured problems.  
+Each session will introduce the theoretical components of Operational Art and the application of 
+these concepts using the Leyte Gulf and Falklands/Malvinas case studies. The Leyte Gulf case will 
+be used to illustrate the major concepts of Operational Art. As the major synthesis event, the 
+Falklands/Malvinas case will be the opportunity for students to apply the Operational Art concepts 
+they have learned.   
+In this course , students are required to successfully complete two Formative Assessments, one 
+Summative Assessment, and participate in multiple Discussion Board Forums. 
+Course Learning Outcomes (CLOs) addressed and assessed in Operational Art: 
+• Apply critical thinking, creative thinking, and problem-solving skills to support decision making
+in joint maritime operations.
+• Apply Operational Art to operational and high-tactical objectives in the maritime environment.
+Formative and Summative Assessments 
+See NC&S Online Program Schedule for your term for required assignment due dates. 
+
+15 
+JMO 1.1 
+INTRODUCTION TO OPERATIONAL ART 
+AND 
+PRINCIPLES OF JOINT OPERATIONS 
+A. Session Overview
+This first session will introduce the Joint Force’s disciplined approach to military problem solving: 
+Operational Art and the Principles of Joint Operations.  
+The Principles of Joint Operations, which are connected to the theory of Operational Art, provide 
+a framework for gaining insight into a historical event and further answering “what happened,” 
+“why it happened,” and “what we can learn from it that is relevant today.” The principles also can 
+form the basis upon which a good idea can be visualized.  
+Operational Art requires thinking critically about military problems. The application of 
+Operational Art is a cognitive process which helps commanders use resources effectively and 
+efficiently to achieve objectives. It requires broad vision, the ability to  anticipate, and effective 
+joint and multinational cooperation. Operational Art is practiced by Joint Force Commanders, their 
+staffs, and subordinate commanders.  
+B. Objectives
+CLOs
+• Apply critical thinking, creative thinking, and problem-solving skills to support
+decision making in joint maritime operations.
+• Apply Operational Art to operational and high- tactical objectives in the maritime
+environment.
+Session Objectives: 
+• Comprehend how general warfare principles underpin doctrine.
+• Comprehend the disciplined approach to military problem solving by using
+Operational Art.
+• Comprehend how Operational Art provides a link between strategy to tactics.
+• Comprehend the relationship between military theory and doctrine.
+C.
+Student Preparation
+1. “Introduction to OPART” (Video)
+2. Shurkin, Michael. “Modern War for Romantics: Ferdinand Foch and the Principles of War.”
+War on the Rocks, July 8, 2020. Read all. https://warontherocks.com/2020/07/modern-war- 
+for-romantics-ferdinand-foch-and-the-principles-of-war/
+3. Menning, Bruce W. "Operational Art's Origins." Military Review 77 (1997). Read 1-
+13.
+
+16 
+(Government) 
+4. U.S. Office of the Chairman of the Joint Chiefs of Staff. Joint Campaigns and Operations.
+Joint Publication (JP) 3-0, Washington, D.C.: CJCS, 18 June 2022 (Rev 1, 10 Sep 2024). Read:
+II-3 – II-5 “Operational Art-In Planning and Execution” and A-1 – A-5 “Principles of Joint
+Operations.” (JP 3-0) (Government)
+5. Vego, Milan. Joint Operational Warfare: Theory and Practice. Newport: Naval War
+College, 2009. Read: I-3 – I-13 “On Operational Art” and I-15 – I-29 “Evolution of Operational
+Warfare.” (Government)
+6. Hone, Tom, Understanding and Using the Work of Milan Vego, Newport RI: U.S Naval
+War College, 2014. Read 1-3. (Government)
+D. Student Deliverables
+See NC&S Online Program Schedule for your term for required assignment.
+
+17 
+JMO 1.2 
+MILITARY OBJECTIVES AND LEVELS OF WAR 
+A. Session Overview
+Often considered synonymous with the “mission” or “end-state,” the Objective is the purpose
+which must be accomplished. The selection of an O bjective is the first and most critical step
+in undertaking any military enterprise. Without a clearly attainable (and nested/aligned)
+objective, any military effort expended is unlikely to contribute to the political aims for the
+conflict.
+The growing scope and complexity of warfare means that a strategic objective is rarely
+achieved directly by a tactical action in one fell swoop. One battle usually does not decide a
+war; multiple battles require completing intermediate (operational) object ives, by which the
+strategic objective would gradually be approached. To address this challenge, the operational
+level of war and Operational Art developed over time as a proven means to link tactical actions
+with strategic objectives through intermediate steps. If objectives were not suitably ‘nested’ or
+aligned, then tactical actions might not contribute to the achievement of operational and
+ultimately strategic objectives. Such wasted effort is usually measured in blood and treasure,
+and too much of it might result in defeat.
+To determine the best way to achieve an assigned mission, operational planners plan
+regressively, or ‘backwards’ from the Objective. This approach keeps the focus on strategic
+and operational objectives, facilitates the identification of related tactical objectives necessary
+to reach them, helps avoid wasted time, and reduces unnecessary sacrifice.
+B. Objectives
+CLOs
+• Apply critical thinking, creative thinking, and problem -solving skills to support
+decision making in joint maritime operations.
+• Apply Operational Art to operational and high -tactical objectives in the maritime
+environment.
+Session Objectives 
+• Investigate the relationship between Levels of War and their Objectives.
+• Comprehend the concept of regressive planning.
+• Determine the objectives for the Battle of Leyte Gulf (1944) using regressive planning.
+C. Student Preparation
+1. “War in the Pacific” (Video)
+2. “The Battle for Leyte Gulf.” Naval War College Interactive.
+3. Hime, Douglas N. U.S. Naval War College. Joint Military Operations Department. “The
+
+18 
+Leyte Gulf Case Study.” Newport, RI: Naval War College, December 2013. Read: 1-32. Scan: 
+Appendices A – E. (Government) 
+4. Vego, Milan. Joint Operational Warfare, Theory and Practice. Newport, RI: Naval War
+College, 2009. Read: II-3 – II-20 “Military Objectives and the Levels of War.” (Government)
+5. Liddell-Hart, B.H. “The Objective in War.” Newport, RI: Naval War College Review ,
+Vol.5: No.10, Article 2, 1952. Read 1-30. (Government)
+6. Vego, Milan. The Objectives in Naval Warfare. Newport, RI: Naval War College Review,
+June 2015 Read 1-18. (NWC 1102).
+D. Student Deliverables
+See NC&S Online Program Schedule for your term for required assignment.
+
+19 
+ 
+JMO 1.3 
+OPERATIONAL FACTORS 
+ 
+A. Session Overview 
+While the Objective provides purpose to an operation, the Operational Factors (Time/Space/Force) 
+provide a framework that helps planners develop an understanding of the operational environment 
+in relation to the objective. 
+The commander and staff planners consider the objective through the lenses of Force and Space, 
+over Time, to identify opportunities and risks. It is often in the interplay/relationships between factors that 
+the most useful insights can be found. Force or Space can sometimes be traded for Time, or a high operational 
+tempo can deny an adversary Time to deploy or reconstitute Forces. Factor analysis also helps clarify the tradeoffs 
+between the Joint Principles of joint operations. Assessing Force-Space, for example, might prompt consideration 
+of an opportunity to Mass combat power on the Objective versus the risks such concentration might pose to the 
+Security of bases of operation or lines of communication. Along with other key Operational Art concepts, 
+Factor Analysis helps commanders, and their staffs, visualize the best way to achieve the objective. 
+ 
+B. 
+Objectives 
+CLOs 
+• Apply Operational Art to operational and high -tactical objectives in the maritime 
+environment. 
+Session Objectives 
+• Investigate the relationship between the Operational Factors and how they relate to the 
+Objective. 
+• Analyze how Operational Factors are balanced in relation to the Objective and each 
+other in order to determine advantages/disadvantages and opportunities/risks towards 
+achievement of the objective. 
+• Comprehend how the physical environment impacts planning for and the conduct of 
+military operations. 
+ 
+C. Student Preparation 
+1. “War in the Pacific.” Review as necessary. 
+2. “The Battle for Leyte Gulf.” Naval War College Interactive. Review as necessary. 
+3. Hime, Douglas N. U.S. Naval War College. Joint Military Operations Department. “The 
+Leyte Gulf Case Study.” Newport, RI: Naval War College, December 2013. Review as 
+necessary. (Government) 
+4. Vego, Milan. Joint Operational Warfare: Theory and Practice. Newport, RI: Naval War 
+College, 2009. Read: III-3 – III-60 “Operational Factors.” (Government) 
+
+20 
+D. Student Deliverables
+See NC&S Online Program Schedule for your term for required assignment.
+
+21 
+JMO 1.4 
+THEATER: STRUCTURE AND GEOMETRY 
+A. Session Overview
+Theater structure and theater geometry are closely related to Factor Space. Theater 
+structure is a way to manage Factor Space. Commanders structure their theaters (e.g., 
+theater of operations, area of operations), relative to strategic and operational 
+objectives. Theater Geometry provides a vocabulary for describing the militarily 
+significant characteristics of a theater or area of operations. A strong understanding of 
+the operational environment is essential for planning effective large scale, joint military 
+operations.  Terms like positions,  bases of operation, decisive points, and lines of 
+operation or communication describe important considerations when visualizing how to 
+employ a joint or combined force to achieve the Objective.  
+B. Objectives
+CLOs
+• Apply Operational Art to operational and high -tactical objectives in the maritime
+environment
+Session Objective 
+• Comprehend the relationship between the Objective and the physical geometry of a
+theater.
+• Comprehend the key terms pertaining to Theater Structure and Geometry.
+C. Student Preparation
+1. “War in the Pacific.” Review as necessary.
+2. “The Battle for Leyte Gulf.” Naval War College Interactive. Review as necessary.
+3. Hime, Douglas N. U.S. Naval War College. Joint Military Operations
+Department. “The Leyte Gulf Case Study.” Newport, RI: Naval War College,
+December 2013. Review as necessary. (Government)
+4. U.S. Office of the Chairman of the Joint Chiefs of Staff. Joint Campaigns and
+O
+perations. Joint Publication (JP) 3-0, Washington, DC: CJCS, 18 June 2022 (Rev
+1, 10 Sep 2024). Read: IV - 19 – IV-23 “Organizing Operational Areas.” (JP 3-0)
+(Government)
+5. Vego, Milan. Joint Operational Warfare; Theory and Practice. Newport, R.I.:
+Naval War College, 2009. Read: IV -3 – IV-10 “The Theater and Its Structure.”
+(Government)
+6. . Joint Operational Warfare; Theory and Practice. 
+Newport, R.I.: Naval War College, 2009. Read: IV-49 – IV-78 “Theater Geometry.” 
+
+22 
+(Government) 
+D. Student Deliverables
+See NC&S Online Program Schedule for your term for required assignment.
+
+23 
+JMO 1.5 
+OPERATIONAL FUNCTIONS 
+A. Session Overview
+To employ forces with the maximum effectiveness, a number of supporting structures and 
+activities, called “Functions,” should be fully organized and developed. Although functions are 
+relevant at all levels of war (tactical, oper ational, and strategic), this session  will focus on 
+the warfighting or “operational” functions: Command & Control (C2), Intelligence, 
+Information, Fires, Movement & Maneuver, Protection, and Sustainment. 
+Commanders and their staffs mitigate challenges and exploit opportunities identified 
+during Factor Analysis by balancing or manipulating functions. For example, if facing a Force-
+Space imbalance at the Objective, it might be possible to  isolate a portion of the enemy f orce 
+with fires and deception (Information) while maneuvering f riendly forces to take advantage 
+of the opportunity created. Functions provide a framework for considering and assigning 
+resources and priorities in support of the operational idea.  
+B. Objectives
+CLOs
+• Apply Operational Art to operational and high -tactical objectives in the maritime
+environment
+Session Objectives: 
+• Comprehend the relationship between the operational functions and the operational
+factors
+• Comprehend the role of operational functions in operational planning and execution.
+• Analyze the Battle of Leyte Gulf to comprehend how operational functions support
+major operations and campaigns.
+C. Student Preparation
+1. “War in the Pacific”. Review as necessary.
+2. “The Battle for Leyte Gulf.” Naval War College Interactive. Review as necessary.
+3. Hime, Douglas N. U.S. Naval War College. Joint Military Operations Department. “The
+Leyte Gulf Case Study.” Newport, RI: Naval War College, December 2013. Review as
+necessary. (Government)
+4. U.S. Office of the Chairman of the Joint Chiefs of Staff. Joint Campaigns and Operations.
+Joint Publication (JP) 3-0, Washington, D.C.: CJCS, 18 June 2022 (Rev 1, 10 Sep 2024).
+Read: III-1 – III-5 “Introduction and Command and Control.” 
+Scan III-6 – III-14.  
+Read III-15 – III-16 “Information.”  
+
+24 
+ 
+Scan: III-17 – III-27.  
+Read: III-28 – III-30 “Intelligence.”  
+Read: III-30 – III-31 “Fires.”  
+Scan: III-32 – III-37.  
+Read: III-37 – III – 40 “Movement and Maneuver.”  
+Read: III-40 – III-42 “Protection.”  
+Scan: III-43 – III 47.   
+Read: III-48 – III-49 “Sustainment.”  
+Scan: III-50 – III-54. (JP 3-0) (Government) 
+ 
+5. Vego, Milan. Joint Operational Warfare; Theory and Practice. Newport, R.I.: Naval War 
+College, 2009.  
+Read: VIII-3 – VIII-4 “Operational Functions.”  
+Read VIII-7 – VIII- 9 and VIII- 20 – VIII-21 “Operational Command 
+Organization.”  
+Scan: VIII -10 – VIII-19. 
+ Read: VIII – 25 – VIII – 28 and VIII – 39 “Operational Intelligence.”  
+Scan VIII -29 – VIII-38.  
+Read: VIII- 45 – VIII-48 and VIII -55 – VIII-56 “Operational Command and 
+Control Warfare.”  
+Scan: VIII-49 – VIII-52.  
+Read: VIII-59 – VIII-63 and VIII-68 – VIII-69 “Operational Fires.”  
+ScanVIII-64 – VIII- 67.  
+Read: VIII-75 – VIII-77 and VIII-89 – VIII-90 “Operational Logistics.”  
+Scan VIII-78 – VIII-88.  
+Read: VIII-95 – VIII 100 “Operational Protection.” 
+(Government) 
+D. Student Deliverables. 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+25 
+ 
+JMO 1.6 
+CENTER OF GRAVITY AND CRITICAL FACTORS ANALYSIS 
+ 
+A. Session Overview 
+Given an Objective, Factor Analysis helps commanders and planners understand the operational 
+environment and the scope of the military problem. Armed with this deeper understanding, they  
+can begin to visualize how best to accomplish the objective, which often involves manipulating 
+Functions. This emerging "operational idea," or broad concept for achieving the O bjective, 
+normally must address how to defeat or render ineffective the main source of the enemy's strength, 
+otherwise known as the Center of Gravity (COG). Just as Theater Geometry enables a more 
+detailed analysis of Factor Space, the COG concept enables a more detailed analysis of Factor 
+Force.  
+Like other Operational Art concepts, COG has relevance at all levels of war. At the strategic level, 
+the COG is usually something intangible, such as political leadership, public support, or alliance 
+solidarity. At the operational and tactical levels, espe cially in conventional conflict, the COG is 
+almost always a fielded military force. The enemy COG is that force most directly standing in the 
+way of the friendly objective, while the friendly COG is that force most necessary to achieve the 
+friendly objective. Defeating or neutralizing the enemy COG while protecting the friendly one is 
+usually necessary to achieve one’s objective. The relationship between the COG and the objective 
+is critically important. There is one COG associated with each objective. 
+Because the enemy COG is a source of strength, it may be unwise to attack it directly. In search 
+of a better, less costly approach, planners analyze or ‘deconstruct’ COGs. By considering the 
+Critical Capabilities (CCs) and Critical Requirements (CRs) neces sary for the COG to act as a 
+source of strength, it may be possible to identify Critical Vulnerabilities (CVs). Attacking these 
+may allow you to weaken or even neutralize this force indirectly. COG analysis applies to the 
+friendly COG as well, because it may also have CVs that must be protected. As commanders seek 
+to exploit the vulnerabilities associated with the enemy COG, they must also consider mitigating 
+the vulnerabilities associated with the friendly COG. 
+ 
+B. 
+Objectives 
+CLOs 
+• Apply Operational Art to operational and high -tactical objectives in the maritime 
+environment 
+Session Objectives 
+• Comprehend the principal methods of combat force employment, point of 
+culmination, and the operational idea. 
+• Investigate how to determine a center of gravity, and the subsequent deconstruction of 
+a center of gravity to determine defeat mechanisms. 
+• Comprehend how culmination informs a commander’s operational approach 
+towards achieving the objective. 
+
+26 
+ 
+• Analyze the utility of the concept of center of gravity in solving military problems. 
+ 
+C. Student Preparation 
+1. “War in the Pacific.” Review as necessary. 
+2. “The Battle for Leyte Gulf.” Naval War College Interactive. Review as necessary. 
+3. Hime, Douglas N. U.S. Naval War College. Joint Military Operations Department. “The 
+Leyte Gulf Case Study.” Newport, RI: Naval War College, December 2013. Review as 
+necessary. (Government) 
+4. U.S. Naval War College, Joint Military Operations Department. Joint Planning Process 
+(JPP) Workbook (NWC 4111K). Newport, RI: Naval War College, 10 January 2022. Read: D-
+1 – D- 22 “Appendix D – Center of Gravity Determination.” 
+5. U.S. Office of the CJCS. Joint Planning. Joint Publication (JP) 5 -0. Washington, D.C: 
+CJCS, 01 Dec 2020 (Ch 1, 1 Jul 2024) . Read: IV-22 - IV-27 “COG” and IV-
+42 - IV-45 “Defeat Mechanisms.” (JP 5-0) (Government) 
+6. Vego, Milan. Joint Operational Warfare; Theory and Practice. Newport, R.I.: Naval War 
+College, 2009. Read: VII -13 - VII-33 “Concept of Critical Factors and Center of Gravity.”  
+(Government) 
+7.  . Joint Operational Warfare; Theory and Practice. Newport, R.I.: 
+Naval War College, 2009. Read: V-3, “Methods of Combat Force Employment”; V-5 – V-10 
+“Campaigns”, and V-33 – V-37 “Major Operations.”  (Government)  
+8.  . Joint Operational Warfare; Theory and Practice. Newport, R.I.: 
+Naval War College, 2009. Read: VII -73–VII-91 “Concept of Culminating Point.” 
+(Government) 
+9.  . Joint Operational Warfare; Theory and Practice . Newport, R.I.: 
+Naval War College, 2009. Read: IX-103 – IX-129 “The Operational Idea.” (Government) 
+10. Butler, James P. “Godzilla Methodology.” Joint Force Quarterly 72 (1st Quarter 2014): 
+26-30. 
+https://login.usnwc.idm.oclc.org/login?qurl=https%3A%2F%2Fwww.proquest.com%2Ftrade
+-journals%2Fgodzilla-methodology-means-determining-
+center%2Fdocview%2F1511035204%2Fse-2%3Faccountid%3D322 
+ 
+Supplemental Reading 
+1. Strange, Joseph L., and Richard Iron.  “Center of Gravity: What Clausewitz Really 
+Meant.” Joint Force Quarterly 35 (Fall 2004): 20-27. 
+https://usnwc.primo.exlibrisgroup.com/permalink/01USNWC_INST/e8pt7d/cdi_proquest_re
+ports_203608887 
+2. Kornatz, Steven D. “The Primacy of COG in Planning.” Joint Force Quarterly 82 (3rd 
+Quarter 2016): 91-97. (Government) 
+https://usnwc.primo.exlibrisgroup.com/permalink/01USNWC_INST/e8pt7d/cdi_proque
+
+27 
+ 
+st_reports_1809936699 
+3. Strange, Joseph L, and Richard Iron. “Understanding Centers of Gravity and Critical 
+Vulnerabilities: Part 2: the CG-CC-CR-CV Construct: A Useful Tool to Understand and 
+Analyze the Relationship between Center of Gravity and Their Critical Vulnerabilities.”  Air 
+University, Accessed on 21 January 2025.  
+https://theforge.defence.gov.au/sites/default/files/adfwtc04_centres_of_gravity_and_critical_
+vulnerabilities_by_strange_and_iron.pdf 
+4. Watch the 10-minute micro-lecture video, Butch Cassidy COG Example.  
+https://navalwarcollege.blackboard.com/bbcswebdav/xid-15639145_1 
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+28 
+ 
+JMO 1.7 
+ANALYSIS OF THE FALKLANDS/MALVINAS CONFLICT 
+A. Session Overview 
+This session serves as the final synthesis event for the components of Operational Art discussed in 
+preceding sessions and as preparation for the upcoming Summative Assessment. Students will 
+analyze the Falklands/Malvinas conflict using Operational Art concepts and describe to what 
+extent the two sides applied theory effectively. 
+This case study starts with a video lecture of the historical/strategic background to the conflict. 
+There is also an interactive walk -through of the various components of the case drawing out 
+elements from both sides involved. Historical examples provide a n excellent opportunity for 
+illustrating the complexities of planning, preparing, conducting, and sustaining major operations 
+and campaigns, and the reasons why certain military actions either succeeded or failed. This case 
+is rich in examples of how to apply the concepts associated with Operational Art, and the 
+consequences of doing so poorly. 
+The purpose of this session is to analyze the major aspects of the Falklands/Malvinas conflict using 
+Operational Art concepts learned thus far. As the major synthesis event for the Operational Art 
+portion of the syllabus, the motivations, planning, and actions of both sides in the conflict will be 
+examined in some detail. 
+ 
+B. 
+Objectives 
+CLOs 
+• Apply critical thinking, creative thinking, and problem -solving skills to support 
+decision making in joint maritime operations. 
+• Apply Operational Art to operational and high -tactical objectives in the maritime 
+environment. 
+Session Objectives: 
+• Evaluate the outcome of the Falklands/Malvinas War using Operational Art concepts 
+and elements. 
+• Synthesize operational issues that are valid for the employment of modern, 
+multinational and joint forces in the current environment. 
+ 
+C. 
+Student Preparation 
+1. Watch the following JMO presentation on the Falkland/Malvinas conflict: JMO Falklands-
+Malvinas Conflict of 1982, CDR Simon Rogers, RN, 06 April 2022 
+ https://usnwc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f7ee155f-504f-4af2-
+ad6a-ae6f00c09ff7 
+ 
+2. Hime, Douglas N. “The 1982 Falklands-Malvinas Case Study.” Newport, RI: Naval War 
+
+29 
+ 
+College, 2010. Read 1-47. Scan 66-74. (Government) 
+ 
+Supplemental Reading 
+1. “Falklands/Malvinas Strategic Setting.” (Video) 
+2. “The Falklands/Malvinas War” Naval War College Interactive Presentations: (Videos) 
+a. Introduction and the Strategic Setting (CDE 8110, Ma) 
+b. The Road to War (CDE 8110Mb) 
+c. The War at Sea (CDE 8110Mc) 
+d. The War Ashore (CDE 8110Md) 
+e. Conclusion (CDE 8110Me) 
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+30 
+ 
+JMO 1.8 
+SUMMATIVE ASSESSMENT 
+A. Session Overview 
+This writing requirement is intended to measure a student’s mastery of Operational Art. 
+As Operational Art permeates virtually all other sessions that follow, it is reasonable to expect that 
+students will carry forward a basic level of proficiency in analyzing and applying Operational Art 
+principles and concepts. This Summative Assessment is designed to determine the student’s level 
+of mastery of the concepts and to reveal to students those concepts that may need reinforcing. 
+Students must prepare complete responses to questions presented by the faculty. The assignment 
+will not require students to recall specific facts, but rather to integrate and apply major principles, 
+ideas, and concepts covered in the Module. 
+The basis for evaluation will be: 
+• Complete, logical, and well-supported solutions to each question or problem 
+presented. 
+• Application of appropriate Program concepts to the specific question chosen. 
+• Clear and concise articulation of ideas. 
+ 
+B. Objectives 
+CLOs  
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply Operational Art to operational and high-tactical objectives in the maritime 
+environment. 
+Session Objectives: 
+• Demonstrate the ability to analyze operational situations in the contemporary security 
+environment using Operational Art and joint doctrine. 
+• Demonstrate the ability to apply critical and creative thinking to operational problems. 
+• Demonstrate the ability to apply clear and precise written communication. 
+• Demonstrate comprehension of operational leadership concepts and challenges. 
+ 
+C. Student Preparation 
+Review media and readings as required. 
+ 
+D. Student Deliverables 
+
+31 
+ 
+The student must complete a 5–6-page Summative Assessment response focusing on the topic 
+provided in Blackboard. Essay requirements and an associated rubric are delineated within the 
+Summative Assessment section  of Blackboard. The assignment is an individual effort; 
+collaboration is NOT permitted. 
+ 
+
+32 
+ 
+JOINT CAPABILITIES 
+ 
+ 
+ 
+The focus of the Joint Capabilities course is on the proper employment of naval and joint 
+capabilities at the operational level of war. 
+The initial sessions, after providing a background in naval warfare theory and objectives, introduce 
+the warfighting organizational options, capabilities, doctrine, and planning considerations when 
+employing all the Services and Special Operations Forces ( SOF) in a joint/multinational effort at 
+the operational level of war. The remaining sessions cover areas affiliated  with some of the 
+operational functions introduced in Operational Art—command  and control, intelligence support, 
+Operations in the Informatio n Environment (OIE), cyberspace operations, and joint operational 
+logistics— culminating in an end-of-course assessment that ties together these concepts. 
+Students should come away with a comprehension of the capabilities each Service possesses  as 
+well as the proper organization and employment (selection, assignment, and tasking) of forces in 
+joint and multinational environments to accomplish assigned tasks. The emphasis throughout this 
+course is on the theoretical foundations of naval/joint Operational Art and their employment in 
+naval/joint/multinational warfare, which will assist the student in considering how best to deploy 
+and employ forces and functional support systems to accomplish assigned objectives. Students will 
+have the opportunity to apply knowledge gained in this course in detail during Joint Planning 
+Process course. 
+In this course , students are required to successfully complete three Formative Assessments and 
+one Summative Assessment, plus participate in multiple Discussion Board Forums. 
+ 
+Course Learning Outcomes (CLOs) addressed and assessed in Module 4: 
+• Apply critical thinking, creative thinking, and problem-solving skills to support decision 
+making in joint maritime operations. 
+• Apply Operational Art to operational and high-tactical objectives in the maritime 
+environment. 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+ 
+Formative and Summative Assessments: 
+See NC&S Online Program Schedule for your term for required assignment due dates. 
+  
+
+33 
+ 
+JMO 2.1 
+MILITARY OPERATIONS AND THE COMPETITION CONTINUUM 
+ 
+A. Session Overview 
+This session focuses on the military activities an operational commander may be tasked to 
+perform anywhere on the competition continuum. The military is often called upon to undertake 
+these activities simultaneously within the same operation. In general, the range of military 
+operations requires the operational level commander to carefully analyze the situation and 
+determine how to best use joint forces to accomplish operational objectives in what may be very 
+complex and ambiguous conditions. 
+ 
+B. 
+Objectives 
+CLOs 
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+Session Objectives 
+ 
+• Comprehend the full range of military operations across the competition continuum. 
+• Comprehend the implications of cooperation and competition for military operations 
+in the competition continuum. 
+• Comprehend how naval forces can contribute to operations across the competition 
+continuum. 
+ 
+C. Student Preparation 
+1. “Naval Operations Short of War.” (Video) 
+2. U.S. Office of the Chairman of the Joint Chiefs of Staff. Joint Campaigns and Operations. 
+Joint Publication (JP) 3 -0, Washington, D.C.: CJCS, 22 18 June 2022 (Rev 1, 10 Sep 2024). 
+Read: I-2 – I-4 “Strategic Environment and National Security Challenges”, V -1 – V-8 “The 
+Competition Continuum”, and VII -1 – VII-38 “Joint Campaigns and Operations in Armed 
+Conflict.” (JP 3-0) (Government) 
+3. Vego, Milan. Naval Support to Foreign Policy. Newport, RI: U.S. Naval War College, Dec 
+2016. Read 1-35. (Government) 
+4. Hone, Tom, Understanding and Using the Work of Milan Vego, Newport RI : U.S Naval 
+War College, 2014. Review 1-3. (Government) 
+ 
+
+34 
+ 
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+35 
+ 
+JMO 2.2 
+MARITIME OPERATIONAL LAW 
+ 
+A. Session Overview 
+The focus of this session is primarily operational law in a maritime context: specifically, the legal 
+frameworks governing U.S. military operations at and from the sea, and rules of engagement/rules 
+for the use of force.  Operational law is a broad term en compassing those facets of international 
+law, U.S. domestic law, U.S. military regulations, and the domestic law of other nations impacting 
+military planning and operations. When planning and conducting military operations, commanders 
+and their subordinate s must comply with the international law that governs (1) the location of 
+hostilities/extraterritoriality, (2) the legal basis for nations to use force, and (3) levels of lethality.    
+The Maritime Operational Law video lecture focuses on the law of the sea and the law affecting 
+military operations in the maritime environment. The general features of the maritime 
+environment, what is called the Maritime Domain, will be discussed from a legal perspective. 
+Legal classifications or regimes of the ocean and airspace directly affect maritime operations by 
+determining the degree of control a coastal nation may exercise over the conduct and activities of 
+foreign merchant ships, warships, and aircraft operating in those areas.    
+Students will need to understand the purposes and relationships between the Law of Armed 
+Conflict (LOAC), Standing Rules of Engagement (SROE), and United Nations Convention on the 
+Law of the Sea (UNCLOS) and where and when they apply. 
+  
+B. 
+Objectives 
+CLOs 
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply the principles of naval warfare theory to joint maritime objectives across 
+the competition continuum. 
+Session Objectives 
+• Differentiate between LOAC and UNCLOS. 
+• Comprehend the authorities that are necessary to act in various situations in the 
+maritime environment. 
+• Comprehend the Standing Rules of Engagement (SROE) and the development of 
+operation-specific Rules of Engagement (ROE). 
+C. Student Preparation 
+1. Maritime Operational Law (Video) 
+2. Luke, Ivan T. “Legitimacy in the Use of Seapower” Newport, RI: U.S. Naval War 
+College, Joint Military Operations Department, July 2015. Read 1-7. (Government) 
+
+36 
+ 
+3. U.S. Naval War College. “CJCS Standing Rules of Engagement and Rules for the Use of 
+Force.” Extracts from CJCS Instruction 3121.01B. Scan: A-1 – A-6 “Enclosure A Standing 
+Rules of Engagement for US Forces”,J-1 – J-5 “Enclosure J Rules of Engagement Process” 
+and L-1 - L-5 “Enclosure L Standing Rules for the Use of Force for US Forces.” 
+(Government) 
+4. U.S. Army, International and Operational Law Department, The United States Army 
+Judge Advocate General’s Legal Center and School. “Law of Armed Conflict Documentary 
+Supplement”. Charlottesville, VA. 2014. Read: 1-15. Scan: remainder of the document. 
+(Government) 
+5. U.S. Department of the Navy. Naval Warfare Publication 1-14M, The Commander’s 
+Handbook on the Law of Naval Operations. Mar 2022. Scan: Chapters 1, 5, and 8 (NWP 1-
+14M) (Government) 
+ 
+Supplemental Readings 
+1. Harvison, Melissa. “Operational Law Primer.” Newport, RI: U.S. Naval War College, 
+Joint Military Operations Department, September 2023. Read: 1-3. Reference: 4-78, as 
+required. (NWC 2147B). 
+2. Sanders, Robert. U.S. Naval War College. Joint Military Operations Department. “The 
+South China Sea Dispute Background & Arbitration Case.” Newport, RI: Naval War 
+College, 2016. Read: 1-10. (Government)  
+3. Walker, George K. The Tanker War, 1980-88, Law and Policy. U.S. Naval War College 
+International Law Studies, Volume 74 (2000). As revised 23 Aug 2013, excerpted and 
+revised by CDR Dan Crouch. Read all. (Government)  
+4. Law of the Sea Summary Sheet 
+5. Department of Defense. “Annual Freedom of Navigation Report; FY 2023.” March 08, 
+2024. 
+6. United Nations Convention on the Law of the Sea. December 10, 1982 
+ 
+D. 
+Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+37 
+ 
+JMO 2.3 
+NAVAL WARFARE THEORY AND THE MARITIME DOMAIN 
+ 
+A. Session Overview 
+This session will examine the nature and character of naval warfare, the differences between wars 
+at sea and those on land, warfare conducted on the open-ocean, and war in the littorals. It will 
+introduce, in broad terms, the principal objectives of naval warfare, which will be discussed in 
+greater detail in subsequent sessions. While the ultimate purpose of warfare is determined on land 
+where people live and politics prevail, the immediate object of any navy is to disable an opposing 
+navy at sea in order to create the necessary maritime conditions to achieve the national objectives 
+on land. 
+ 
+B. Objectives 
+CLOs 
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply the principles of naval warfare theory to joint maritime objectives across 
+the competition continuum. 
+Session Objectives 
+• Comprehend the nature and character of naval warfare, including technological 
+impacts. 
+• Comprehend in broad terms why nations build and maintain navies. 
+• Comprehend the mutual relationship between war on land and at sea. 
+• Comprehend the main components of the maritime domain and where those 
+components are operationally significant. 
+ 
+C. 
+Student Preparation 
+1. Till, Geoffrey.  Seapower: A Guide for the Twenty -First Century. 4th ed. New York: 
+Routledge, 2018. Read: 20- 49 “In search of seapower” and 65 -73 “2.2. The modern 
+competitive navy,” and “2.3 The post-modern collaborative navy.” (E-Reserves) 
+2. Vego, Milan. Introduction to Naval Warfare. January 2011. Newport: U.S. Naval War 
+College. Read 1-28. (Government) 
+3. U.S. Navy, U.S. Marine Corps, U.S. Coast Guard. Advantage at Sea: Prevailing with 
+Integrated All-Domain Naval Power. Washington, D.C.: Headquarters U.S. Navy, U.S. 
+Marine Corps, and U.S. Coast Guard, December 2020. Read 1-36. (Government) 
+ 
+
+38 
+ 
+4. Franchetti, Lisa M. Chief of Naval Operations: Navigation Plan for American’s 
+Warfighting Navy 2024, Read 1-27. (Government)  
+ 
+5. Vego, Milan. On Naval Theory. June 2015. Newport: U.S. Naval War College. Scan: 1-15. 
+(Government) 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+39 
+ 
+JMO 2.4 
+OBJECTIVES OF NAVAL WARFARE 
+ 
+A. Session Overview 
+This session considers the purpose of naval warfare at the operational level of war. Sea control is 
+the necessary condition that allows naval forces freedom of action to achieve military objectives 
+in the face of an opposing force. This session will examine sea control and sea denial as 
+theoretical constructs, as well as the methods used by the stronger and weaker sides to obtain or 
+deny sea control in a maritime theater. 
+ 
+Sea control, and the original concept of command of the sea, has been a fundamental maritime 
+objective for hundreds of years. Historically, the principal objective of a fleet was to obtain and 
+maintain what was called command of the sea or maritime supremacy in modern joint terms. The 
+meaning of this term has undergone significant changes owing to the advent of submarines, 
+aircraft, and guided missiles. The term used today, sea control, or sea superiority in modern joint 
+terms, more accurately conveys the true state of affairs in a war at sea. Sea control requires some 
+level of control in all three domains (air, surface, and sub-surface) to assure one’s own unfettered 
+use of the sea, or to deny such use to a strong and resourceful opponent. Sea control is the ability 
+of one’s fleet to operate with a high degree of freedom of action in a sea or ocean area for a 
+limited period of time. The objective for a weaker opponent at sea would normally be that of sea 
+denial; that is, to challenge the unfettered access of a more powerful opponent, increasing their 
+risk in operating in one or all of the domains. 
+ 
+Sea control can only be understood in the context of an armed struggle at sea (i.e. warfare). A 
+blue-water navy does not obtain sea control through forward presence because in peacetime any 
+navy, regardless of its size or combat power, has almost unlimited access to any sea or ocean 
+area. Forward naval presence is generally conducted with full respect of the territorial waters of 
+other countries and in accordance with international treaties and conventions. So, while forward 
+presence may set the conditions for gaining sea control when armed conflict occurs, the need to 
+obtain at least local sea control is paramount to successful joint operations. 
+ 
+B. 
+Objectives 
+CLOs 
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+ 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+Session Objectives 
+• Comprehend the theories of sea control and sea denial and differentiate between 
+
+40 
+ 
+the various degrees of sea control. 
+• Comprehend the theoretical and practical implications of sea control and sea denial in 
+regard to the objectives, and the operational factors and functions. 
+• Comprehend the main methods of obtaining, maintaining, and exploiting sea 
+control, and the conditions for denying and disputing sea control. 
+• Comprehend the role and importance of other Services in helping to establish sea 
+control and sea denial. 
+ 
+C. Student Preparation 
+1. Vego, Milan. The Objectives of Naval Warfare. Newport, RI: Naval War College, June 
+2015. Read: 1-15. (Government) 
+2. Vego, Milan. “Obtaining and Maintaining Sea Control” Newport, RI: Naval War 
+College, Joint Military Operations Department, June 2014. Read: 1-5. Scan remainder. 
+(NWC 1108) (Government) 
+3. Vego, Milan. Maritime Strategy and Sea Denial: Theory and Practice. New York: 
+Routledge, 2019. Read 104-120 “Chapter 4: Disputing Sea Control” (Government) 
+4. Vego, Milan. “Exercising Sea Control” Newport, RI: Naval War College, Joint Military 
+Operations Department, June 2015. Read: 1-28. (NWC 1131) (Government) 
+ 
+Supplemental Readings 
+1. Mongilio, Heather. “A Brief Summary of the Battle of the Black Sea.” USNI News, 15 
+November 2023. https://news.usni.org/2023/11/15/a-brief-summary-of-the-battle-of-the-
+black-sea 
+2. Kirichenko, David. “Ukraine’s Strategy for winning the Battle of the Black Sea.” Center 
+for Maritime Security, 2 November 2023. 
+https://centerformaritimestrategy.org/publications/ukraines-strategy-for-winning-the-battle-
+of-the-black-sea/ 
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+41 
+ 
+JMO 2.5 
+U.S. NAVAL CAPABILITIES – PART I 
+ 
+A. Session Overview 
+The purpose of this first of two sessions is to delve a little deeper into three of the six main naval 
+warfare disciplines: Air Warfare (AW); Air and Missile Defense (AMD), which some may know 
+as Anti-Air Warfare (AAW); and Amphibious Warfare (AMW). In each case, the aim is to 
+describe and to analyze the tactical fundamentals of employing naval forces in each of the named 
+disciplines. 
+ 
+In Air Warfare, it is important to understand the differences in employing naval air assets as 
+opposed to land-based air assets. Naval air greatly extends the range and increases the speed at 
+which a commander may either attack adversary forces in the air, land, sea, or undersea domains 
+or defend his own forces in a maritime environment. Naval air also has the capacity to 
+significantly enhance situational awareness in the maritime environment by enabling the 
+commander to dispatch sensors well beyond surface sensor ranges. The strike, or power 
+projection capability of AW is one of the key ways a navy exploits sea control 
+ 
+The Navy AMD concept is designed to protect naval forces from air attack, allowing them the 
+freedom of action to conduct other naval warfighting operations. Navy AMD seeks to gain and 
+maintain air superiority within the maritime environment, both to defend friendly forces and to 
+retain the capability to conduct offensive strikes, or power projection. In AMD, it is important to 
+appreciate that the Carrier Air Wing (CVW) is just one of several tools available, the others being 
+the other AMD-capable surface ships and sister service AMD capabilities. 
+ 
+Amphibious Warfare is an excellent example of naval combined arms and is inherently a joint 
+effort. Amphibious operations include the assault, withdrawal, raid, demonstration, and 
+humanitarian assistance/noncombatant evacuation operations. Regardless of the type of 
+operations, the theory always holds true; establish local sea control and air superiority, designate 
+a landing beach or beaches, and develop a ship-to-shore movement/amphibious fires/afloat 
+sustainment plans. AMW is also one of the key ways a navy exploits sea control, such as by 
+using the sea as a maneuver space. 
+ 
+B. 
+Objectives 
+CLOs 
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+
+42 
+ 
+Session Objectives: 
+• Comprehend the tactical capabilities and limitations of employing naval aviation. 
+• Comprehend the dominant principles, primary objectives and tactical methods of 
+employing naval assets in AMD. 
+• Comprehend the fundamental concepts and the unique considerations needed for 
+employing amphibious forces in support of operational objectives. 
+• Comprehend the influence of the physical environment on each of these three 
+disciplines. 
+ 
+C. Student Preparation 
+1. Strike Warfare (Video) 
+2. Amphibious Warfare (Video) 
+3. Leighton, Bruce G. “The Relation of Aircraft to Sea -Power.” U.S. Naval Institute 
+Proceedings 54, no. 9 (September 1928): Read 728-745. (Copyright) 
+4. Majumdar, Dave, and Sam LaGrone. “Inside the Navy’s Next Air War.” U.S. Naval 
+Institute News (23 January 2014). Read all. (PURL) 
+5. O’Neil, William D. “Naval Anti-Air Warfare.” National Defense LXV, no. 365 (February 
+1981). Read all. (Government) 
+6. U.S. Office of the Chairman of the Joint Chiefs of Staff. Countering Air and Missile Threats, 
+Joint Publication (JP) 3-01. Washington, D.C.: CJCS, 6 April 2023 (Ch 1, 13 Mar 2024). Read: 
+ix-xxii “Executive Summary” and I -1 – I-13 “Chapter I Introduction.”  (JP 3 -01) 
+(Government) 
+7.  . Amphibious Operations, Joint Publication (JP) 3-02. Washington, D.C.: CJCS, 
+4 January 2019, Validated 21 January 2021. Read: xi-xxi “Executive Summary” and I-1 – I-10 
+“Chapter I Overview of Amphibious Operations.” (JP 3-02) (Government) 
+8. U.S. Naval War College, Joint Military Operations Department. Forces/Capabilities 
+Handbook. Newport, RI: U.S. Naval War College, January 2023. Scan: 9- 14 and 24-26 Navy 
+section. (Government) 
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment.  
+
+43 
+ 
+JMO 2.6 
+U.S. NAVAL CAPABILITIES – PART II 
+ 
+A. Session Overview 
+The focus of this second session on naval capabilities is the three remaining main naval warfare 
+disciplines: Undersea (USW), Anti-submarine (ASW), and Anti-surface Warfare (ASUW). In 
+each case the aim is to describe and analyze the tactical fundamentals of employing naval forces 
+in each of the named disciplines. 
+ 
+Traditionally, submarines have operated alone, relying on individual stealth for both their 
+protection and operational effectiveness as offensive weapons. Submarines provide unique, and 
+often unmatched, capabilities in intelligence, surveillance, and reconnaissance (ISR), naval 
+special warfare, strike operations, employment of mines, and other tactical actions such as 
+maritime interdiction and counter narcotics. At the national level, submarines provide a critical 
+strategic deterrence capability. Taken together, the inherent stealth and independence associated 
+with the employment of submarines continues to challenge an adversary and provide a unique 
+ability to contest the subsurface and surface domains.  
+ 
+Sea mines are the other main undersea weapon system, one which can pose significant 
+challenges to maritime operations. Relatively easy to deploy in large numbers, difficult to find 
+and eliminate, mines can be a persistent threat at very low cost.   
+ 
+In the ASW portion of the session the focus will be on the objectives and methods of employing 
+the full spectrum navy/joint ASW forces in the struggle for sea control or in sea denial 
+operations. Large areas, complex and variable environments, a very perishable skill set amongst 
+sonar operators, an immense demand on time and resources, and an increased emphasis on 
+operations in the littorals all combine to make ASW one of the most difficult problems in naval 
+warfare. At the operational level of war, maritime commanders need to consider various courses 
+of action to degrade the adversary submarine threat. 
+ 
+Finally, the ASUW portion of the session will explore the predominant principles of surface 
+warfare, and how various air, surface, and subsurface platforms network in real-time and space 
+to find, track, and attack adversary surface targets. Surface warfare (traditionally anti-surface 
+warfare (ASUW)) is conducted primarily on the surface of the oceans and against surface targets. 
+Today, there are a wide variety of weapon and platform types: traditional guns and torpedoes, 
+ship- and air- launched cruise missiles, guided and unguided aircraft-deployed ordnance, 
+unmanned systems, and even directed energy weapons. 
+ 
+B. 
+Objectives 
+CLOs  
+
+44 
+ 
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+Session Objective 
+• Comprehend the tactical capabilities, limitations and main methods of employing 
+submarines. 
+• Know the dominant principles of anti-submarine warfare and the primary objectives 
+and methods of employing ASW forces. 
+• Comprehend how ASW forces conduct sea control/sea denial operations. 
+• Know the primary objectives and tactical methods of employment of multiple combat 
+arms in finding, tracking, and attacking adversary surface forces. 
+ 
+C. Student Preparation 
+1. Surface Warfare media (Video) 
+2. Strike Warfare media (Video) Review as required. 
+3. Submarine and Antisubmarine Warfare media (Video) 
+4. Mine Warfare media (Video) 
+5. Lautenschlager, Karl. “The Submarine in Naval Warfare, 1901 -2001.” International 
+Security 11, No. 3 (Winter 1986-1987): 94-140. Read: 94-111. (PURL) 
+6. Filipoff, Dmitiry. “Fighting DMO, pt. 1: Defining Distributed Maritime Operations and the 
+Future of Naval Warfare.” Center for International Maritime Security, 20 February 2023. Read 
+all.  
+7. Toti, William J. “The Hunt for Full-Spectrum ASW.”  US. Naval Institute Proceedings 140, 
+no. 6 (June 2014): Read 38-43 (NWC 3219)  
+8. Truver, Scott C. “Taking Mines Seriously: Mine Warfare in China’s Near Seas.” Naval 
+War College Review, Vol.65(2), 2012, Read: 30-66. (Government) 
+9. Vego, Milan. Fundamentals of Antisubmarine Warfare (ASW) . Newport, RI: U.S. Naval 
+War College, Joint Military Operations Department, June 2016. Read 1-31. (Government) 
+10. Vego, Milan. Fundamentals of Surface Warfare Newport, RI: U.S. Naval War College, 
+Joint Military Operations Department, May 2016. Read 1-25. (Government) 
+11. U.S. Naval War College, Joint Military Operations Department. Forces/Capabilities 
+Handbook. Newport, RI: U.S. Naval War College, January 2023. Scan: 14-18 and 23 Navy 
+section. (Government) 
+ 
+Supplemental 
+
+45 
+ 
+1. Rowden, VADM Thomas; RADM Peter Gumataotao; and RADM Peter Fanta. “Distributed 
+Lethality.” U.S. Naval Institute Proceedings 141, no. 1 (January 2015): Read 343-347. (PURL)   
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+46 
+ 
+JMO 2.7 
+U.S. COAST GUARD CAPABILITIES 
+ 
+A. Session Overview 
+The United States Coast Guard, a Department of Homeland Security (DHS) organization, 
+operates in today’s joint environment while preserving the operational agility necessary to 
+respond to uncertain future crises. This session will focus on the organization and employment of 
+USCG forces both from within the joint community and when used for domestic security and 
+support. A discussion of mission, capabilities, and doctrine provides baseline knowledge to 
+inform future planners of potential contributions of this service for future operational 
+contingencies. 
+The Coast Guard is an armed service that has participated in every American war since its 
+inception. Although multi-mission in nature and charged with significant responsibilities in such 
+diverse areas as maritime law enforcement, search and rescue, pollution response, and 
+maintaining aids to navigation, Coast Guard forces also provide military capabilities in support of 
+the national military strategy. In recent combat operations, Coast Guard forces have provided to 
+Joint Force Commanders maritime interception operations, port operations and security, coastal 
+sea control, and other mission sets where the service’s expertise can add value. The Coast Guard 
+functions as the lead federal agency for maritime homeland security and plays a supporting role 
+for maritime homeland defense. 
+ 
+B. 
+Objectives 
+CLOs  
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+ 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+Session Objectives 
+• Comprehend the missions, authorities, and capabilities of the U.S. Coast Guard as a 
+potential tool for use by the joint force commander. 
+• Comprehend the nature and extent of U.S. Coast Guard international engagement, as a 
+potential tool for use by the joint force commander. 
+• Comprehend the considerations for employing U.S. Coast Guard forces as part of a 
+joint and multinational force at the high-tactical and operational levels of war. 
+ 
+ 
+
+47 
+ 
+C. Student Preparation 
+1. U.S. Naval War College, JMO Department. Service Briefs. “U.S. Coast Guard Briefing”. 
+(Video) 
+2. U.S. Coast Guard. United States Coast Guard Operational Posture 2024, October 2024. 
+Read pages 3-4, “Defense Readiness” section of page 6, “Indo-Pacific” section of page 7, and 
+“Middle East and Europe” section of page 11. Scan remainder of document. (Government) 
+3. U.S. Coast Guard, U.S. Navy, and U.S. Marine Corps. Advantage at Sea: Prevailing with 
+Integrated All-Domain Naval Power, December 2020. Read Preface, Foreword, Introduction, 
+and pages 6-11. Scan remainder of document. (Advantage at Sea) (Government) 
+4. U.S. Naval War College, Joint Military Operations Department. Reference Guide, 
+Forces/Capabilities Handbook. Newport, RI: U.S. Naval War College, January 2023 Scan: 
+134-161 Coast Guard section. (Government) 
+5. U.S. Coast Guard. Doctrine for the U.S. Coast Guard. Coast Guard Publication 1(USCG 
+Pub 1), February 2014. Read: 5-26 “Chapter 1” and 61-72 “Chapter 3.” Scan: 73-92 
+“Chapter 4.” (USCG Pub 1) (Government) 
+6. U.S. Coast Guard. Operations . Coast Guard Publication 3 -0, February 2012. Read: 
+Executive Summary, Chapter - 1 Introduction and Chapter- 2 Mission. Scan: 
+remainder. (Government) 
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+48 
+ 
+JMO 2.8 
+U.S. MARINE CORPS CAPABILITIES 
+ 
+ 
+A. Session Overview 
+This session will focus on the organization and employment of Marine forces at the operational 
+and high-tactical levels of war. Highlights include roles, missions, core competencies, 
+operational concepts, doctrine, and considerations for employing the Marine Air Ground Task 
+Force (MAGTF) in a joint environment. Marine operating forces offer the JFC various options 
+for employment, from forward deployed ship-borne MAGTFs to self- sustaining units capable of 
+operating hundreds of miles inland. It is important to understand the distinctions between Marine 
+and Army ground forces, especially their relative capabilities and limitations. (The U.S. Army is 
+addressed in the next session). 
+The Marine Corps ethos, heritage, and warfighting philosophy influence how the Marine Corps 
+organizes, trains, equips, and employs its operating forces. Concepts such as maneuver warfare, 
+decentralized command and control, and a bias for decision making at the lowest level permeate 
+the Marine mindset. The USMC is in the process of adjusting to maximize contributions in great 
+power competition and conflict. 
+ 
+B. 
+Objectives 
+CLOs  
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+ 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+Session Objectives 
+• Comprehend the roles and missions of the U.S. Marine Corps and its contribution to the 
+Joint Force. 
+• Comprehend how the U.S. Marine Corps is organized to plan, execute, sustain, and train 
+for maritime and joint expeditionary operations in support of the Joint Force 
+Commander (JFC). 
+• Comprehend broad doctrinal Service concepts guiding the employment of Marine 
+forces at the high-tactical and operational levels of war. 
+• Comprehend emerging concepts within the U.S. Marine Corps. 
+ 
+
+49 
+ 
+C. Student Preparation 
+1. U.S. Naval War College, JMO Department. Service Briefs. “U.S. Marine Corps Briefing”. 
+(Video) 
+2. U.S. Marine Corps. 39th Commandant’s Planning Guidance. Washington, D.C.: 
+Headquarters U.S. Marine Corps, April 2024. Read: 1, 10-20. Scan: remainder. (Government) 
+3. Macander, Michelle and Grace Hwang Marine Corps Force Design 2030: Examining the 
+Capabilities and Critiques, 22 July 2022. Center for Strategic & International Studies.  Read 
+1-3. 
+4. U.S. Marine Corps. A Concept for Stand-in Forces. Washington, D.C.: Headquarters U.S. 
+Navy and U.S. Marine Corps, 2017. Read 3-18. (Government) 
+5.  . Warfighting. Marine Corps Doctrinal Publication (MCDP) 1. 
+Washington, D.C.: Headquarters U.S. Marine Corps, 1997 incorporating change 1 dated 4 
+April 2018. 
+Scan: 3-3 – 3-16 “Chapter 3” and 4-3 – 4-25 “Chapter 4.” (MCDP-1) (Government) 
+6. U.S. Naval War College, Joint Military Operations Department. Reference Guide, 
+Forces/Capabilities Handbook. Newport, RI: U.S. Naval War College, January 2023. Scan: 
+55-68 USMC section. (Government) 
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+50 
+ 
+JMO 2.9 
+U.S. ARMY CAPABILITIES 
+ 
+A. Session Overview 
+This session emphasizes how the Army is organized and employed to contribute to the Joint 
+Force at the high-tactical and operational levels of war. Highlights include roles, missions, core 
+competencies, operational concepts, doctrine, and considerations for employing Army forces in a 
+joint environment. The Army employs ground forces to accomplish sustaining, shaping, and 
+decisive operations while combining the effects of war-fighting functions to generate combat 
+power. 
+FM 3-0 Operations (2025) updates the U.S. Army operating concept from earlier doctrine to reflect 
+the conditions of the current operational environment. This version of FM 3- 0 establishes 
+multidomain operations as the Army’s operational concept.  Conceptually, multidomain operations 
+reflect an evolutionary inflection point, building on the incremental changes in doctrine as the 
+operational environment has changed over the last forty years. In practice, however, these 
+conceptual changes will have revolutionary impacts on how the Army conducts operations in the 
+coming decade. The multidomain operations concept draws from previous Army operational 
+concepts, including Air-Land Battle, Full Spectrum Operations, and Unified Land Operations. 
+ 
+B. 
+Objectives 
+CLOs  
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+ 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+ 
+Session Objectives: 
+• Comprehend the roles and missions of the U.S. Army and its contribution to the Joint 
+Force. 
+• Comprehend how the U.S. Army is organized to plan, execute, sustain, and train for 
+maritime and joint expeditionary operations in support of the Joint Force Commander 
+(JFC). 
+• Comprehend broad doctrinal Service concepts guiding the employment of Army forces 
+at the high-tactical and operational levels of war. 
+• Comprehend emerging concepts within the U.S. Army. 
+ 
+
+51 
+ 
+ 
+C. Student Preparation 
+1. U.S. Naval War College, JMO Department. Service Briefs. “America’s Army – The Nation’s 
+Force for Decisive Action.” (Video) 
+2. U. S. Army. The Army. Army Doctrine Publication (ADP) 1. Washington, D.C.: 
+Headquarters Department of the Army, July 2019. Read: 1-1 – 1-5 “Chapter 1 Why America 
+Needs an Army”, 2-1 – 2-11 “Chapter 2 Today’s Army”, and 3-1 – 3-3 “Chapter 3 Ready to 
+fight prepared for the future, determined to win.” (ADP 1) (Government) 
+3. U.S. Department of the Army. Field Manual 3-0: Operations 21 Mar 2025.  Read: Chapter 
+1, 1-3, Chapter 3, 47-55, and Chapter 7, 171-180.  (FM 3-0) (Government) 
+4. Congressional Research Service.  Defense Primer: Army Multi -Domain Operations 
+(MDO).  1 Oct 2024.  
+5. U.S. Naval War College, Joint Military Operations Department. Reference Guide, 
+Forces/Capabilities Handbook. Newport, RI: U.S. Naval War College, January 2023. Scan: 
+29-39 US Army section. (Government) 
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+52 
+ 
+ 
+JMO 2.10 
+U.S. AIR FORCE & U.S. SPACE FORCE CAPABILITIES 
+ 
+A. Session Overview 
+This session will focus on the organization and employment of United States Air Force (USAF) 
+and United States Space Force (USSF) forces at the high-tactical and operational levels of war. 
+The USAF and USSF employ their assets globally to achieve strategic, operational, and tactical 
+objectives. Most air and space assets can perform multiple functions to achieve the desired 
+objectives. The inherent versatility of flexible assets is just one of the strengths the USAF and 
+USSF bring to the operational planning table to ensure the joint force commander dominates 
+adversaries. This session provides baseline knowledge of Air Force and Space Force capabilities 
+and doctrine, informing students about what the USAF and USSF contribute to operations 
+throughout the spectrum of conflict. 
+ 
+B. 
+Objectives 
+CLOs  
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+ 
+• Apply the principles of naval warfare theory to joint maritime objectives across 
+the competition continuum. 
+Session Objectives 
+• Comprehend the roles and missions of the U. S. Air Force and U.S. Space Force 
+to include their contribution to the Joint Force. 
+• Comprehend how the U. S. Air Force and U.S. Space Force are organized to plan, 
+execute, sustain, and train for maritime and joint expeditionary operations in 
+support of the Joint Force Commander (JFC). 
+• Comprehend broad doctrinal service concepts guiding the employment of Air and 
+Space Force forces at the high-tactical and operational levels of war. 
+• Know emerging concepts within the U.S. Air Force and U.S. Space Force. 
+ 
+C. Student Preparation 
+1. U.S. Naval War College, JMO Department. Service Briefs. “U.S. Air Force Briefing.” (Video) 
+2. U.S. Air Force. Air Force Doctrine Publication (AFDP) 1. Maxwell AFB, AL: March 2021. 
+Read: 1-20. (Government) 
+
+53 
+ 
+3. U.S. Air Force. Air Force Doctrine Publication 3- 0, Operations and Planning, Air Force 
+Doctrine Document (AFDP) 3-0. Maxwell AFB, AL: 22 Jan 2025, Read 11-24. (Government) 
+4. U.S. Air Force. Agile Combat Employment (AFDN 1- 21), Maxwell AFB, AL: 23 August 
+2022, Read 2-14 (Government) 
+5. U.S. Space Force,  Space Doctrine Publication 3- 0 Operations Executive Summary, 
+Washington D.C.: Headquarters, U.S. Space Force, 19 July 2023 Read 1-2. (Government) 
+6. U.S. Space Force. Space Doctrine Publication 3-0 Operations Doctrine for Space Forces 
+Washington, D.C.: Headquarters, U.S. Space Force, July 2023. Read: 6- 12 “Chapter 1: 
+Military Space Operation”, 32-38 “Chapter 4: Space Force Operations” (Government) 
+7. U.S. Space Command, Fiscal Year 2025 Priorities and Posture of United States Space 
+Command, statement of General Stephen N. Whiting, Commander, United States Space 
+Command. Scan 2-18. (Government) 
+8. U.S. Naval War College, Joint Military Operations Department. Reference Guide, 
+Forces/Capabilities Handbook. Newport, RI: U.S. Naval War College, January 2023. Scan:  
+Scan 69-73 US Air Force section and 87-90 US Space Force section. (Government) 
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+54 
+ 
+JMO 2.11 
+U.S. SPECIAL OPERATIONS FORCES CAPABILITIES 
+ 
+A. Session Overview 
+The session provides a foundational understanding of U.S. Special Operations Forces (SOF) 
+capabilities and doctrine that will inform future planners of the potential contributions of Special 
+Operations Forces in future operational contingencies. SOF are small, specially organized units 
+manned by people  carefully selected and  trained to operate under physically demanding and 
+psychologically stressful conditions. They accomplish missions using specialized equipment and 
+the unconventional applications of tacti cs against strategic and operational objectives in hostile, 
+denied, or politically sensitive environments. Their aim is to achieve military,  diplomatic, 
+informational and/or economic objectives that otherwise would be out of reach, by employing 
+military capabilities for which there is no broad conventional force requirement. 
+Since the establishment of the U.S. Special Operations Command (USSOCOM) in 1987, all 
+services’ SOF have been under the combatant command (COCOM) of one unified commander and 
+have been trained and equipped to conduct unilateral, joint and combined special operations across 
+the Range of Military Operations (ROMO). Each military service has established a major 
+command to serve as the service component of USSOCOM. SO F can support the geographic 
+combatant commanders, U.S. ambassadors and their country teams, an d other government 
+agencies. 
+ 
+B. 
+Objectives 
+CLOs  
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+ 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+Session Objective: 
+• Comprehend the roles and missions of SOF and its contribution to the Joint Force. 
+• Comprehend how SOF/U.S. Special Operations Command is organized to plan, 
+execute, and sustain operations in support of the Joint Force Commander (JFC). 
+• Comprehend broad doctrinal Service concepts guiding the employment of SOF at the 
+high-tactical and operational levels of war. 
+• Know emerging concepts within the Special Operations Community. 
+ 
+ 
+
+55 
+ 
+C. Student Preparation 
+1. U.S. Naval War College, JMO Department. Service Briefs. “Special Operations Forces (SOF) 
+Briefing.” (Video) 
+2. U.S. Office of the Chairman of the Joint Chiefs of Staff. Joint Doctrine for Special 
+Operations. Joint Publication (JP) 3-05. Washington, D.C.: CJCS, 22 September 2020. 
+Read: ix – xxi “Executive Summary”, I-1 – I-14 “Chapter I Overview of Special Operations”, 
+II-1 – II-4 “Chapter II Special Operations Core Activities”, and III -1 – III-6 and III-22 – III-
+25, Scan: III-6 – III-21 “Chapter III Command and Control of Special Operations Forces.” (JP 
+3-05) (Government) 
+3. U.S. Special Operations Command. SOCOM Fact Book 2025. MacDill AFB, Tampa, FL: 
+Headquarters USSOCOM. Scan: 2-40. (Government) 
+4. U.S. Naval War College, Joint Military Operations Department. Reference Guide, 
+Forces/Capabilities Handbook. Newport, RI: U.S. Naval War College, January 2023. Scan: 
+163-176 SOF section. (Government) 
+ 
+D. Student Deliverables: 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+56 
+ 
+ 
+JMO 2.12 
+JOINT COMMAND AND CONTROL  
+ 
+A. Session Overview 
+Many consider the most important of the Joint Functions to be Command and Control. This 
+session focuses on the Joint Force Commander’s (JFC’s) authorities, the command relationships 
+and organizational options when establishing a joint force as well as the internal functions of the 
+JFC’s staff. Additionally, it introduces the functions and responsibilities of the subordinate 
+service and functional component commanders. Since the United States may not always 
+undertake unilateral military operations, this session also introduces the critical aspects of 
+multinational operations to include command and control, intelligence sharing, rules of 
+engagement, capabilities gaps, and logistics. 
+ 
+B. 
+Objectives 
+CLOs  
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply Operational Art to operational and high-tactical objectives in the maritime 
+environment. 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+Session Objectives 
+• Comprehend the range of considerations that influence the crafting of command 
+structures for Joint and/or Multinational operations and campaigns. 
+• Comprehend the joint force command relationships (COCOM, OPCON, TACON, and 
+support) and the authorities that each includes. 
+• Comprehend key HQ functions and the staff organization and processes that support 
+these functions. 
+• Comprehend the joint doctrine on multinational operations with special emphasis on 
+planning with multinational partners. 
+ 
+C. Student Preparation 
+1. Vego, Milan. Joint Operational Warfare, Theory and Practice. Newport, RI: U.S. Naval 
+War College, 2009. Read VIII -7 – VII-23 “Operational Command 
+
+57 
+ 
+Organization.”  (Government)  
+2. U.S. Office of the Chairman of the Joint Chiefs of Staff. Joint Campaigns and Operations. 
+Joint Publication (JP) 3-0, Washington, D.C.: CJCS, 18 June 2022 (Rev 1, 10 Sep 2024). Read: 
+III-1 – III-14 “Command and Control.” (JP 3-0) (Government) 
+3. U.S. Office of the Chairman of the Joint Chiefs of Staff. The Joint Force. Joint Publication 
+(JP) 1, Vol 2, Washington, D.C.: CJCS, 19 Jun 2020. Read: III -2 - III-5 "Organizing Joint 
+Commands." (JP 1, Vol 2) (Government)  
+4. U.S. Naval War College, Joint Military Operations Department. Reference Guide, 
+Forces/Capabilities Handbook. Newport, RI: U.S. Naval War College, January 2023. Read: 197- 
+204 “Appendix C Composite Warfare Commander (CWC) Concept.” (NWC 3153T)   
+(Government) 
+5. U.S. Office of the Chairman of the Joint Chiefs of Staff, Multinational Operations. Joint 
+Publication (JP) 3-16. Washington DC CJCS, 01 March 2019, (Ch1, 17 June 24). Read: I-1 - I-8 
+“Chapter I Fundamentals of Multinational Operations” and II-1 – II-18 “Chapter II Command 
+and Coordination Relationship.” (JP 3-16) (Government) 
+6. Department of the Navy. Maritime Operations at the Operational Level of War . Navy 
+Warfare Publication (NWP) 3 -32. October 2008. With Change 1, Washington, DC: 
+Department of the Navy, CNO, August 2010. Scan: 7-1 – 7-24. (NWP 3-32) (Government) 
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+58 
+ 
+JMO 2.13 
+JOINT LOGISTICS 
+ 
+A. Session Overview 
+Logistics and sustainment are disciplines that all warfighters must understand. According to JP 
+4-0, logistics involves planning and executing the movement and support of forces. Sustainment 
+is defined by NTTP 5-01.4 as the provision of personnel, logistics, and other support required to 
+maintain operations until successful accomplishment of the mission. 
+The joint operational commander and the commander’s staff must have a clear comprehension of 
+the capabilities and limitations of operational logistics to execute daily operations across the 
+competition continuum. Providing logistics to our forces throughout the world is a complex 
+process and requires a great deal of coordination and synchronization by both supported and 
+supporting commands and organizations. 
+Sustaining the force applies to all elements of the national military establishment. Sustainment 
+begins before the first unit deploys and continues until the last remaining unit departs the area of 
+operations. Sustainment planning requires an understanding of all the elements of the operating 
+environment, commander’s intent, scheme of maneuver, forces available, force flow 
+requirements, restrictions on footprint, host nation capabilities and limitations, time, space, risk 
+tolerance, etc. Every operation is unique and the risk of marginalizing the logistical requirements 
+of an operation, often by relying on a simplistic data-based sustainment solution rather than a 
+mission/force-based solution, can result in logistical culmination or operational failure. 
+Finally, Operational Contract Support (OCS) is a core joint logistics capability that synchronizes 
+and integrates contracted specialties to support Combatant Command-directed operations. OCS 
+can be a force multiplier, enhancing deployed forces’ operational reach and/or providing options 
+to mitigate force caps or skills shortages within the uniformed Services. OCS is “Commander’s 
+business” and as such, this capability needs attention, emphasis and inclusion throughout the 
+planning process in order for it to add value to the commander and staff’s efforts in 
+planning/conducting joint and naval operations. 
+ 
+B. 
+Objectives 
+CLOs  
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply Operational Art to operational and high-tactical objectives in the maritime 
+environment. 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+Session Objectives 
+
+59 
+ 
+• Comprehend the relationship among the elements of strategic, operational, and tactical 
+logistics and understand the implications of operational factors on naval, joint, and 
+multinational logistics. 
+• Comprehend the operational concept of logistics support to achieve operational 
+objectives. 
+• Comprehend the elements of the strategic deployment triad, including benefits and 
+challenges of each. 
+• Comprehend current Joint doctrine on the  steps of the deployment process. 
+ 
+C. 
+Student Preparation 
+1. “Strategic Deployment.” (Video) 
+2. U.S. Naval War College. Joint Military Operations Department, Reference Guide, 
+Forces/Capabilities Handbook. Newport, RI: Naval War College, January 2023. Read 177- 188 
+Strategic Mobility section. (Government) 
+3. U.S. Navy. Office of the Chief of Naval Operations. Navy Planning, Logistics. Navy 
+Tactics, Techniques, and Procedures (NTTP) 5- 01.4. Washington, DC: Department of the 
+Navy, CNO, April 2015. Read: 1-1 - 1-12 “Chapter 1 Logistics and the Navy Planning Process.” 
+(NTTP 5-01.4) (Government) 
+4. U.S. Office of the Chairman of the Joint Chiefs of Staff. Joint Deployment and 
+Redeployment Operations, Joint Publication (JP) 3- 35. Washington, D.C.: CJCS, 31 March 
+2022. Read: I-1 - I-6 “Chapter I Overview” and III-1 – III-6 “Chapter III Planning.” Scan: A-
+1 – A9 “Appendix A Information Technology Enabling Tools.” (JP 3-35) (Government)** 
+5. _____________. Joint Logistics, Joint Publication (JP) 4- 0. Washington, D.C.: CJCS, 12 
+Jul 2023. Read: I-1 – I-13 “Chapter I Joint Logistics and Sustainment Overview”, II-1 – II-17 
+“Chapter II Core Logistics Functions”, III -1 “Chapter III Introduction”, II I-15 – III-19 
+“Chapter III Logistics Authorities.” (JP 4-0) (Government) 
+6.  . Operational Contract Support, Joint Publication (JP) 4-10. 
+Washington, D.C.: CJCS 4 March 2019. Read: ix – xvii “Executive Summary.” Scan: Chapters 
+I Introduction and Chapter III Contract Support Integration. (JP 4 -10) (Government)  
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+60 
+ 
+JMO 2.14 
+JOINT INTELLIGENCE 
+ 
+A. Session Overview 
+This session focuses on the nature and principles of intelligence, the responsibilities of both the 
+joint force and maritime commanders and the duties of the staff intelligence officer/J2/N2, 
+primarily at the operational level. Intelligence, as a discipline and an operational function, is 
+essential to the successful conduct of military operations in both peacetime and war. Intelligence 
+operations are often described as a high demand/low-density enterprise, meaning requirements 
+routinely outstrip available resources. It is therefore imperative intelligence resources be utilized 
+as efficiently as possible in accordance with a clear set of priorities informed by commander’s 
+intent and guidance. This will ensure limited resources are applied against the commander’s most 
+pressing concerns. This session will examine the importance of the Intelligence Estimate and 
+Joint Intelligence Preparation of the Operational Environment (JIPOE), and how they support the 
+Joint Planning Process (JPP) and the Navy Planning Process (NPP). 
+ 
+B. 
+Objectives 
+CLOs  
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply Operational Art to operational and high-tactical objectives in the maritime 
+environment. 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+Session Objectives 
+• Comprehend Joint and Navy doctrinal terminology relating to intelligence, including 
+the intelligence process and associated intelligence functions. 
+• Comprehend how the intelligence process is synchronized to support decision-making 
+and operational planning, specifically towards a more comprehensive understanding of 
+the adversary and the operational environment. 
+• Comprehend intelligence organizations and operational-level integration. 
+• Comprehend the roles and responsibilities of the commander and the intelligence 
+officer in the intelligence process at the operational level. 
+ 
+C. 
+Student preparation 
+1. “Intelligence Support to Operational Planning.” (Video) 
+2. United States Navy, Office of the Chief of Naval Operations. Naval Intelligence. Naval 
+
+61 
+ 
+Warfare Publication (NWP) 2-0. Norfolk, VA: Department of the Navy, March 2014. Read: 
+1-1 – 1 -15 “Chapter 1 Intelligence” and 3-1 – 3-4 “Chapter 3 Naval Intelligence Operations.” 
+Scan: 4 -1 – 4-5 “Chapters 4 Intelligence Preparations of the Maritime Operational 
+Environment” and 5-1 – 5-15 “Chapter 5 Naval Intelligence Support to Planning, Executing, 
+and Assessing Operations.” (NWP 2-0) (Government) 
+3. U.S. Office of the Chairman, Joint Chiefs of Staff. Joint Intelligence, Joint Publication (JP) 
+2-0. Washington, D.C.: CJCS, 26 May 2022 (Ch1, 5 July 2024). Read: ix – xxxii “Executive 
+Summary” and I -1 – I -19 “Chapter  I The Nature and Role of Intelligence.” (JP 2 -0) 
+(Government) 
+4. U.S. Office of the Chairman, Joint Chiefs of Staff, Joint Guide for Joint Intelligence 
+Preparation of the Operational Environment, Washington, D.C.: CJCS, 26 May 2022. Read: 
+vii – xxi “Executive Summary.” (Government) 
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+62 
+ 
+JMO 2.15 
+INFORMATION AND CYBERSPACE OPERATIONS 
+ 
+A. Session Overview 
+The focus of this session is to develop an understanding of how Information and Cyberspace 
+may be used in the pursuit of military objectives and political ends in contemporary conflict. 
+Information is described in JP 3-04 as “data in context to which a receiver assigns meaning.” The 
+Information Environment (IE) is the aggregate of social, cultural, linguistic, psychological, 
+technical, and physical factors that affect how humans and automated systems derive meaning 
+from, act upon, and are impacted by information, including the individuals, organizations, and 
+systems that collect process, disseminate, or use information. Operations in the Information 
+Environment (OIE) are military actions involving integrated employment of multiple information 
+sources and actions to affect drivers of behavior. Information Advantage is the operational 
+advantage gained through the joint force’s use of information for decision making and to create 
+effects on the IE. 
+Cyberspace Operations (CO) is the employment of cyberspace capabilities where the primary 
+purpose is to achieve objectives in or through cyberspace. In JP 3-12 cyberspace has a direct 
+relationship with the physical domains. Cyberspace is part of the information environment and is 
+dependent on the physical domains of air, land, maritime, and space. CO use links and nodes 
+located in the physical domain and enable freedom of action in these domains. 
+ 
+B. 
+Objectives 
+CLOs 
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply Operational Art to operational and high-tactical objectives in the maritime 
+environment. 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+Session Objectives 
+• Comprehend the principles, strengths, and limitations of integrating information 
+operations and cyberspace operations into Service and joint planning. 
+• Comprehend how OIE and CO are used to inform, persuade, and influence decision 
+makers across the spectrum of conflict. 
+• Comprehend the relationships between lethal and non-lethal fires in developing OIE and 
+CO objectives and tasks that support the Joint Force Commander’s mission and 
+
+63 
+ 
+objectives. 
+• Comprehend the use of cyber warfare in the pursuit of military objectives and political 
+ends. 
+• Comprehend the ability of cyberspace operations to achieve mass effects in the physical 
+domains. 
+ 
+C. Student Preparation 
+1. “Cyberspace and International Law” Lecture (Video) 
+2. Temple-Raston, Dina. “How the US Hacked ISIS,” National Public Radio, 26 September 
+2019. https://www.npr.org/2019/09/26/763545811/how-the-u-shackedisis. Read or listen to 
+the audio edition included in the hyperlink. (NWC 4219). 
+3. Crowell, Richard M. “War in the Information Age: A Primer for Information Operations 
+and Cyberspace Operations in 21st Century Warfare.” Newport, RI: U.S. Naval War College, 
+Joint Military Operations Department, 5th Edition, January 2019 Read 16-25, Scan remainder. 
+(Government) 
+4. Fahrenkrug, David T. “Countering the Offensive Advantage in Cyberspace: An Integrated 
+Defensive Strategy.” NATO Center for Cyber Defense Centre of Excellence, Tallinn, 2012. Read 
+197-206. (Government) 
+5. Reilly, Robert R. “Information Operations: Successes and Failures.” Westminster Institute, 
+2013. Read 2- 13 (Copyright) 
+6. U.S. Office of the Chairman of the Joint Chiefs  of Staff. Information in Joint Operations. 
+Joint Publication (JP) 3-04. Washington, DC: CJCS, 14 September 2022. Scan: viii–xii. Read: 
+II-1 to II-7, and VII-1 to VII-11. (JP 3-04) (Government)\ 
+7. U.S. Office of the Chairman of the Joint Chiefs of Staff. Joint Cyberspace Operations. Joint 
+Publication (JP) 3-12, Washington, DC: CJCS, 19 December 2022. Read: vii – xvii. “Executive 
+Summary” Scan: remainder. (JP 3-12) (Government) 
+ 
+D. Student Deliverables 
+See NC&S Online Program Schedule for your term for required assignment. 
+  
+
+64 
+ 
+JMO 2.16 
+SUMMATIVE ASSESSMENT 
+ 
+A. Session Overview 
+This session is designed to facilitate a comprehension of the strengths and vulnerabilities of the 
+Services in varied situations. Students must draw on previous sessions covering individual Service 
+capabilities and limitations and essential supporting elements to discuss options for responding to 
+an assigned scenario.  The session should help the student appreciate the benefits of Service 
+cooperation, and the synergy of joint forces. 
+Earlier sessions addressed the capabilities and limitations of individual Services and of basic 
+combat support functions, such as intelligence and strategic mobility. This session affords students 
+an opportunity to consider combinations of Service capabilities for responding to a given scenario. 
+The fictional scenario is intended to represent circumstances that may arise in the near term. It is not 
+a prediction about potential future U.S. force employment. 
+The Service Capabilities Vignette assignment is an open book assignment structured so that a 
+student can apply information learned from the various readings to an operational scenario. 
+Grading will be IAW paragraphs 8-9 of the syllabus. 
+Online assignment questions/instructions are located within the Blackboard structure. 
+ 
+B. 
+Objectives 
+CLOs  
+• Demonstrate the ability to apply critical and creative thinking. 
+• Demonstrate the ability to communicate clearly and precisely. 
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply Operational Art to operational and high-tactical objectives in the maritime 
+environment. 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+Session Objectives 
+• Demonstrate a comprehension of U.S. Service-specific and joint capabilities and 
+limitations and employment considerations in a joint environment. 
+• Explain possible combinations and limitations of Service capabilities to assess what 
+advantages various mixes of forces offer. 
+• Demonstrate an appreciation of the roles of intelligence, information operations, logistics, 
+
+65 
+ 
+and strategic mobility in the global application of military power. 
+• Demonstrate the ability to apply naval, joint, and multinational capabilities in a 
+maritime/joint theater in a given scenario. 
+• Demonstrate the ability to apply critical and creative thinking to operational problems. 
+• Demonstrate the ability to apply clear and precise written communication. 
+ 
+C. Student Preparation 
+1. Naval War College. Joint Military Operations Department. Service Capabilities Vignette for 
+North Africa: Scenario and Background Information. (Government) 
+2. U.S. Naval War College, Joint Military Operations Department. Reference Guide, 
+Forces/Capabilities Handbook. Newport, RI: U.S. Naval War College, January 2023. Review 
+as necessary. (Government) 
+Review pertinent Module materials as needed. 
+This is an “Open Book” assignment—all  Program materials can be used when completing the 
+assignment requirements. 
+ 
+D. Student Deliverables 
+The student must complete a Summative Assessment response focusing on the topic provided 
+in Blackboard. Essay requirements  and an associated rubric are delineated within the 
+Summative Assessment section of Blackboard. The assignment is an individual effort; 
+collaboration is NOT permitted.
+
+66 
+ 
+JOINT PLANNING PROCESS 
+ 
+The Joint Planning Process (JPP) course provides students an opportunity to apply what they have 
+learned in both the Operational Art and Joint Capabilities courses  to a fictional military problem 
+or mission. The JPP is joint planning doctrine for the U.S. Military (most allies and partners use 
+very similar processes, by design). Derived in large part from Operational Art theory, it provides 
+a common framework for joint (and combined) cooperation. While this cannot entirely eliminate 
+Clausewitz’s fog and friction, using a standard process makes joint (and combined) planning faster 
+and more effective, and facilitates command and control. 
+Session 5.1 introduces students to the Joint Planning Process and the fictional Operation PACIFIC 
+TEAK scenario, together with the resources necessary to complete the final Summative 
+Assessment of the Naval Command & Staff course. Although the scenario is fictional, real-world 
+Southeast Asian geography is used, including bases of operation which may be available to U.S. 
+and coalition forces in real world contingencies. Although limited to UNCLASSIFIED sources, 
+real world units and capabilities are used for both friendly and enemy forces, with the latter 
+operating primarily modern Chinese platforms. 
+Session 5.2 constitutes the Summative Assessment of the student’s ability to bring concepts 
+learned throughout the Program together and apply them to a fictional military scenario. Acting as 
+a Joint Task Force staff, students will execute the seven steps o f the Joint Planning Process and 
+produce a basic Operation Order communicating the resulting plan to component commanders. 
+ 
+Course Learning Outcomes (CLOs) addressed and assessed in Module 5: 
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply Operational Art to operational and high-tactical objectives in the maritime 
+environment. 
+• Apply the principles of naval warfare theory to joint maritime objectives across the 
+competition continuum. 
+• Apply the Joint/navy Planning process to communicate how to employ maritime 
+power to achieve military objectives. 
+ 
+Summative Assessments 
+See NC&S Online Program Schedule for your term for required assignment due dates. 
+  
+
+67 
+ 
+JMO 3.1 
+THE JOINT PLANNING PROCESS (JPP) AND 
+INTRODUCTION TO OPERATION PACIFIC TEAK 
+ 
+A. Session Overview 
+Preceding sessions introduced the theoretical underpinnings of Operational Art and Naval 
+Warfare theory and considerations for employing joint force capabilities across the Competition 
+Continuum. Students will now apply their understanding of these concepts to a fictional planning 
+exercise using the Joint Planning Process (JPP). 
+ 
+The U.S. Military, and allies/partners, use the JPP for planning at the operational/high tactical 
+level to facilitate joint, and combined, cooperation and C2. The JPP is a doctrinal, step-by-step 
+process derived from OpArt theory. While the latter provides broad guidelines and principles 
+based on historically informed analysis, applying them to a specific situation via the JPP requires 
+judgment and experience. Critical and creative thinking are also essential in developing an 
+accurate understanding of the situation and mission and then devising Courses of Action (COA) 
+likely to prove effective. Done well, the joint planning process can increase the chances of 
+achieving objectives while minimizing the costs. This is one way the US tries to tilt the odds in 
+its favor – the more heavily the better. For this course students use the JPP worksheet as a 
+simplified method to provide a basic familiarity with the planning process. Reality is often much 
+more complex. For an example of what it is like to be a planner, read Dr. Don Thieme’s account 
+of IRAQI FREEDOM planning in the Naval War College Review (see Supplemental Readings). 
+ 
+In addition to the JPP worksheet, students develop an operations order once they have chosen a 
+course of action for accomplishing the JTF PACTEAK mission. Why? Orders are a key 
+mechanism of C2. This is how the U.S. military formally transmits direction and intent to 
+subordinate commanders. Commander’s intent is a key enabler of effective mission command, 
+allowing disciplined initiative by subordinates as the situation changes. There is a particular 
+format (SMEAC: Situation, Mission, Execution, Admin, C2) and language associated with 
+orders which facilitates rapid understanding across the joint force – once students become 
+familiar with them. Orders are not essays conforming to academic grammar rules. Often the 
+language is terse, with incomplete sentences, and it uses joint and OpArt terminology to convey 
+concepts and tasks with a high degree of clarity and brevity. Well-written orders (not all of them 
+are!) effectively convey the commander’s expectations in a format suitable for wide 
+dissemination via low-bandwidth connectivity (might that be useful in a comms-contested 
+environment?). It is not an easy task to convert a course of action into message format, but it is a 
+crucial one for effective joint (and combined) C2. 
+ 
+Turning students into polished and experienced planners is well beyond the scope of this course. 
+It takes years and many reps to build planning expertise. But this course should help students 
+develop a basic familiarity with joint planning and joint military capabilities together with a 
+growing ability to apply Operational Art and Naval Warfare theory concepts. 
+
+68 
+ 
+ 
+Should students be on an operational staff in the future, this course, including materials 
+considered in Operational Art and Joint Capabilities is intended to provide a foundation for 
+effective participation in planning efforts. Students will be able to contribute to the planning 
+process should they be selected to attend a Joint Planning Group or Operational Planning Team. 
+For those supporting an operation, the experience in this course should enable better 
+understanding of the big picture and may facilitate the exercise of disciplined initiative in line 
+with the commander's intent. At the end of the day, Joint Professional Military Education is 
+aimed at improving the effectiveness of the joint force in order to achieve objectives as quickly 
+as possible, at minimum cost in blood and treasure.  
+ 
+B. 
+Objectives 
+CLOs  
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply Operational Art to operational and high-tactical objectives in the maritime 
+environment.  
+• Apply the principles of naval warfare theory to join maritime objectives across the 
+competition continuum.  
+• Apply the Joint/navy Planning process to communicate how to employ maritime 
+power to achieve military objectives. 
+Session Objectives 
+• Apply the Joint Planning Process (JPP) to solve a military problem. 
+• Comprehend how the concepts of Operational Art are used in the JPP. 
+ 
+C. Student Preparation   
+1. Resident JMO Joint Planning Process Lecture, Sep 2024, (Prof. Chris Kidd) 
+https://usnwc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83c5ef15-b137-4998-
+a0dd-b1be01268437 
+2. __________. Joint Planning Process (JPP) Workbook. Newport, RI: U.S. Naval War 
+College, 10 January 2022. Read: 24 -34 The JPP. Scan: 1 -1 to 7- 1 for detailed JPP step and 
+Order guidance (NWC 4111K) (.pdf) 
+3. U.S. Naval War College. “Joint Planning Process (JPP) Exercise Borneo Scenario.” 
+Newport, RI, 5 February 2024 w/ Ch1 31 July 2024. Read: Ch 1- 2. Scan: remainder as 
+necessary. (Government) 
+4. Joint Military Operations Department. “Forces/Capabilities Handbook.” Newport, RI, January 
+2023. (Government) Review as necessary  
+
+69 
+ 
+5. __________. Joint Guide for Joint Intelligence Preparation of the Operational Environment, 
+Washington, D.C.: CJCS, 26 May 2022. Review as necessary. (Government) 
+6. __________. Joint Campaigns and Operations. Joint Publication (JP) 3 -0, Washington, 
+DC: CJCS, 18 June 2022 (Rev 1, 10 Sep 2024). Review as necessary. (JP 3-0) (Government). 
+7. __________. Joint Planning, Joint Publication (JP) 5-0. Washington, DC: CJCS, 01 Dec 
+2020 (Ch 1, 1 Jul 2024). Scan Chapter I, Chapter II, (JP 5- 0) (Government) 
+8. __________. “CJCS Standing Rules of Engagement and Rules for the Use of Force.” Extracts 
+from CJCS Instruction 3121.01B. Review as necessary. (Government)     
+ 
+SUPPLEMENTAL 
+1. General Norman Schwartzkopf Press Briefing, February 27, 1991 (YouTube.com) 
+https://www.youtube.com/watch?v=wKi3NwLFkX4 (21 min, not counting question & answer 
+time) 
+2. OPLAN 1003V: Operation IRAQI -FREEDOM from a Planner’s Perspective, Naval War 
+College Review, Vol.76, Iss. 4, (Autumn 2023): 2- 58 (Don Thieme) 
+https://www.proquest.com/docview/3048520834/fulltextPDF/850A0A92A4B94879PQ/1?acc
+ountid=322&sourcetype=Scholarly%20Journals 
+3. “Doing Just Less Than the Minimum in the Red Sea.” CDR Salamander, 
+https://cdrsalamander.substack.com/p/doing-just-less-then-the-minimum 
+4. “Ukraine and the Problem of Restoring Maneuver in Contemporary War.” Institute for the 
+Study of War, August 2024, https://www.understandingwar.org/backgrounder/ukraine -and-
+problem-restoring-maneuver-contemporary-war 
+ 
+D. Student Deliverables 
+None. 
+  
+
+70 
+ 
+JMO 3.2 
+SUMMATIVE ASSESSMENT: CAPSTONE 
+ 
+A. Session Overview 
+This session provides an opportunity for the student, using the Joint Planning Process worksheet 
+provided, to analyze an operational crisis action scenario and apply Operational Art, operational 
+doctrine, and critical thinking to arrive at a course of action applicable to the crisis. 
+The Joint Planning Process Summative Assignment is an open book assignment structured so that 
+the student, or student teams, can apply information learned from the readings to an operational  
+case study. The assignment is structured so that the student/team must use the JPP Worksheet to 
+complete the first six steps of the JPP and the steps of the JIPOE using the Borneo (Operation 
+PACIFIC TEAK) case study as a framework and the OPORD shell to complete step seven of the 
+JPP. 
+The basis for evaluation of the assignment will be: 
+1. A demonstrated understanding of the Joint Planning Process (JPP). 
+2. Logical and well-supported solutions to each required part of the process using the supplied 
+worksheet. 
+3. Application of appropriate Program concepts within the framework of the Navy and Joint 
+Planning Processes. 
+4. Clear, concise, and well supported articulation of ideas. 
+ 
+B. Objectives 
+CLOs  
+• Apply critical thinking, creative thinking, and problem-solving skills to support 
+decision making in joint maritime operations. 
+• Apply Operational Art to operational and high-tactical objectives in the maritime 
+environment. 
+• Apply the principles of naval warfare theory to join maritime objectives across the 
+competition continuum. 
+• Apply the Joint/navy Planning process to communicate how to employ maritime 
+power to achieve military objectives. 
+ 
+Session Objectives 
+• Demonstrate understanding of the Joint Planning Process and apply the Joint Planning 
+Process to a specific operational situation. 
+
+71 
+ 
+• Demonstrate the ability to analyze operational situations in the contemporary security 
+environment using Operational Art and joint doctrine. 
+• Demonstrate the ability to apply naval, joint, interagency and multinational 
+capabilities in a maritime/joint theater across the range of military operations. 
+• Demonstrate the ability to apply critical and creative thinking to operational problems. 
+• Demonstrate the ability to apply clear and precise written communication. 
+ 
+C. Student Preparation 
+Review past media/lectures as required. 
+The assignment is “open book” — all materials can be used when answering the assignment 
+questions. This is an individual requirement; collaboration is NOT permitted unless specifically 
+directed by the student’s Professor. 
+The Joint Planning Process (JPP) Worksheet and an Operation Order shell will be provided to 
+the students. The worksheet and the OPORD shell are the required submission formats for this 
+assignment. 
+ 
+D. Student Deliverables 
+Summative Assignment instructions are located within the Blackboard structure. Students (or 
+teams) must produce a filled-in JPP worksheet and a completed OPORD (basic only— with no 
+appendixes or annexes) to be submitted for critique/grading. 
+ 
+
+72 
+ 
+ 
+THIS PAGE INTENTIONALLY BLANK 
+
+A-
+ 
+ 
+APPENDICES 
+APPENDIX A 
+OFFICER PROFESSIONAL MILITARY EDUCATION POLICY  
+(CJCSI 1800.01G, 15 April 2024) 
+SERVICE INTERMEDIATE-LEVEL COLLEGE (ILC) JOINT LEARNING AREAS (JLA) 
+JLA 1 - Strategic Thinking and Communication. Joint officers demonstrate advanced cognitive 
+and communications skills employing critical, creative, and systematic thought. They evaluate 
+alternative perspectives and demonstrate the ability to distinguish reliable from unreliable 
+information to form reasoned decisions. They persuasively communicate on behalf  of their 
+organizations with a wide range of domestic and foreign audiences. Via their communication, they 
+synthesize all elements of their strategic thinking concisely, coherently, and comprehensively in a 
+manner appropriate for the intended audience and environment. 
+ 
+JLA 2 - The Profession of Arms. Joint officers are first and foremost members of the profession 
+of arms, sworn to support and defend the Constitution, with specialized knowledge in the art and 
+science of war. They demonstrate joint -mindedness and possess a common understanding of the 
+values of their chosen profession demonstrated through the exercise of sound moral judgement 
+and the embodiment and enforcement of professional ethics, norms, and laws. They a pply the 
+principles of life-long learning and demonstrate effective joint leadership and followership. 
+ 
+JLA 3 - The Continuum of Competition, Conflict, and War. Joint officers are experts in the 
+theory, principles, concepts, and history specific to sources of national power, the spectrum of 
+conflict, and the art and science of warfighting. They apply their knowledge of the  nature, 
+character, and conduct of war and conflict, and the instruments of national power, to determine the 
+military dimensions of challenges to U.S. national interests, evaluating the best use of the military 
+instrument across the full spectrum of conflict to achieve national security objectives. 
+JLA 4 - The Security Environment. Joint officers effectively and continuously assess the 
+security implications of the current and future operational environment. Using appropriate inter-
+disciplinary analytical frameworks, they evaluate historical, cultural, political, military, economic, 
+innovative, technological, and other competitive forces to identify and evaluate potential threats, 
+opportunities, and risks. 
+ 
+JLA 5 - Strategy and Joint Planning. Joint officers apply a knowledge of law, policy, doctrine, 
+concepts, processes, and systems to design, assess, and revise or sustain risk - and resource -
+informed strategies and globally integrated, all-domain joint plans across the spectrum of conflict. 
+They demonstrate broad understanding of joint, interagency, intergovernmental, and multinational 
+capabilities and policies to inform planning. They envision requisite future capabilities and develop 
+strategies and plans to acquire them. They use strategy and planning as primary tools to develop 
+viable, creative options for policy makers. In so doing, they position the United States to achieve 
+national objectives across the full spectrum of conflict. 
+ 
+
+A-
+ 
+ 
+JLA 6 - Globally Integrated Operations. Joint officers creatively apply U.S., allied, and partner 
+military power to conduct globally integrated, all-domain operations and campaigns. They exercise 
+intellectual agility, demonstrate initiative, and rapidly adapt to disruptive change  across all 
+domains of competition, conflict, and war. They do so consistent with law, ethics, and the shared 
+values of the profession of arms in furtherance of U.S. national objectives. 
+
+B-
+ 
+ 
+ 

@@ -1,0 +1,41 @@
+The AN/APG-79 is an active electronically scanned array (AESA) radar developed for the F/A-18E/F Super Hornet and EA-18G Growler aircraft of the United States Navy. AESA technology provides quick updates on multiple targets, and its solid-state antenna construction makes it more reliable and cost-effective than traditional radar systems. The radar has a range of up to 150 km (81 nmi; 93 mi) tracking multiple targets simultaneously.
+In accordance with the Joint Electronics Type Designation System (JETDS), the "AN/APG-79" designation represents the 79th design of an Army-Navy airborne electronic device for radar fire-control equipment. The JETDS system also now is used to name all Department of Defense electronic systems.
+
+
+== Milestones ==
+As of July 2008, Raytheon had delivered one hundred APG-79 sets to the US Navy, with a contract for 437 more. In an April 2011 press release, Raytheon announced they had delivered the 250th APG-79.
+In January 2013, the Director, Operational Test and Evaluation (DOT&E) disclosed poor reliability issues with the APG-79 radar during its initial operational testing as a result of software instability.
+
+
+== Variants ==
+
+
+=== AN/APG-79(V)4 ===
+The AN/APG-79(V)4 was selected in December 2001 for retrofitting US Navy and US Marine Corps' F/A-18C/D Hornets, and upgrading the fleets of Canadian CF-188 Hornets,. The APG-79(V)4 uses gallium nitride (GaN) transmit/receive modules.
+
+
+=== AN/APQ-188 ===
+The AN/APQ-188 is the designation for an upgraded variant of the APG-79 adapted by Raytheon for the B-52 Stratofortress Radar Modernization Program (RMP), replacing the Cold War-era mechanically scanned AN/APQ-166. The new radar would also incorporate technology from the AN/APG-82(V)1 of the F-15E Strike Eagle/F-15EX Eagle II aircraft. Under the RMP, the APQ-188 would replace the existing APQ-166 and the upgraded aircraft would be redesignated as the B-52J.
+
+
+== Operators ==
+ Australia
+ Royal Australian Air Force
+ Canada
+ Royal Canadian Air Force
+ United States
+ United States Navy
+ United States Marines
+
+
+== See also ==
+
+AN/APG-65 radar family
+AN/APG-82
+AN/APG-76
+Similar US military aircraft fire control radars
+List of radars
+List of military electronics of the United States
+
+
+== References ==

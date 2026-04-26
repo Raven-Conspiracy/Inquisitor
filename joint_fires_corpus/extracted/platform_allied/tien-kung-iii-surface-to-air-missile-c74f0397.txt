@@ -1,0 +1,129 @@
+The Sky Bow, or Tien Kung (Chinese: 天弓; pinyin: Tiān gōng), are a series of surface-to-air anti-ballistic missile and anti-aircraft defense systems developed by Taiwan's National Chung-Shan Institute of Science and Technology (NCSIST). Development of the TK-1 was completed in 1986 and this system is now retired. The TK-2 and TK-3 are in service with the Military of the Republic of China. TK-4 is in development. 
+
+
+== Development ==
+Research into what became the Sky Bow project began after the United States ended bilateral relations with the Republic of China in 1979. Other names proposed by chief engineer Chen Chuan-hao for the project included Sky Horse (Pegasus) and Flying Horse. Upon formal approval of the project in October 1980, it became known as Sky Bow. Under the influence of aerospace engineer and rocket scientist Huang Hsiao-tsung the project expanded to include testing of ramjet motors. In 1981 the project received increased support from minister of defense Sung Chang-chih and was expanded into a general purpose air defense project benchmarked to the American Patriot and Soviet 2K12 Kub. Sung set a seven year deadline for the project. The first test flight in 1982 ended in failure as did other early test flights. Huang left the project in 1982 for an executive role at NCSIST. 
+In 1984 Taiwan gained the cooperation of Raytheon and was allowed to examine semi-obsolete missiles in detail. NCSIST experts traveled to the United States studied the technology, but they were not allowed to ask any questions and quickly came to the conclusion that many of the missiles they had been allowed to examine were old and had been damaged while in storage. Dedicated facilities needed to be constructed to support the development of the TK-1 including Taiwan's first hypersonic wind tunnel. In 1986 the 12th flight test ended in a successful intercept of a target aircraft, the system's first. The system was officially unveiled in 1986 at a large ceremony presided over by premier Yu Kuo-hua. Its designation it was given, Zhongzheng 100/Sky Bow 1, referred to its 100km range.
+Missiles initially used a semi-active radar homing seeker. A passive infrared homing terminal seeker was also developed as a secondary seeker for the TK-1, this was successfully tested against a HAWK missile target but was never put into production. NCSIST also developed a large multifunction, phased-array radar known as Chang Bai (long white) for use with the Tien Kung (Sky Bow) series 
+surface-to-air missile systems with 120 degree coverage and a maximum range of 450 km. Two versions of the phased array radar exist, a towed trailer radar and fixed "hardened" radar sites. The Chang Bai radar system is reported to be based on the Lockheed Martin's ADAR-HP (Air Defense Array Radar-High Power) design and operates in the 2–4 GHz range (S-band).  At least seven systems were said to be in service in 2006.  The system performance specifications remain classified, but its effective detection range against a 1m2 target is reported to be around 400 km.
+There was also a mobile version of the phased array radar developed in the late 1990s which could provide all-round radar cover with four separate faces but with a much decreased detection range. This version only appeared in public once but was never put into service. The development of Sky Bow 2 started around 1986, this added a tandem boost motor and an active radar homing terminal seeker. Proposals were reported to develop Sky Bow 2 into a surface-to-surface missile; unconfirmed reports suggest that this missile is known as Tien Chi. Modifications have been developed for Sky Bow 2, changing it into a single-stage rocket and to provide it with a limited capability against shorter-range ballistic missiles; the first test firing against a ballistic missile target was reported in September 2008. Seven batteries were in service in 2006. In 2010 TK-1/2 SAMs were in service and deployed throughout Taiwan, on the Pescadores, and Dong Ying island.
+Chen claims that the Sky Bow I project was completed in less time and using less money than any comparable air defense system. The project was NCSIST's first ambitious weapons project and its success would have a large influence on the organization.
+
+
+== Sky Bow I ==
+
+The Sky Bow I (TK-1) (天弓一, Tien Kung I) is a surface-to-air missile (SAM) system developed by the NCSIST in Taiwan. Originally based on the aerodynamics of the MIM-23 Hawk missile, the original missile design resembled a scaled-up Raytheon AIM-54 Phoenix.  The TK-1 missile was subsequently redesigned and eventually became very similar in appearance to the US Patriot missile after the US government allowed Raytheon to transfer 85 percent of the MIM-104 Patriot missile technology.  There is no track-via-missile (TVM) homing capability as this technology was not included in the technology package licensed to Taiwan; the TK-1 system operates in a similar manner to the US Standard SM2 missile, requiring an illuminating radar during the terminal phase.
+The TK-1 is designed primarily to target low and medium altitude attacks. Each TK-1 battery has one Change Bai 1 (Long White 1) S-Band phased-array radar for search and target tracking and two CS/MPG-25 target illuminator radars that operates in the X-Band (18–32 GHz) range for the terminal phase, servicing three or four 4-round missile launchers.  The combination of inertial/autopilot and mid-course command guidance with a terminal semi-active radar seeker allows the TK-1 missile to fly an energy-efficient flight path to the vicinity of the target where the seeker's semi-active radar would then receive target illumination for the final seconds of the engagement, giving the target minimum amount of time either to evade or commence electronic countermeasure (ECM). 
+Two versions of the missile launcher exist, one is housed in underground shelters designed to survive an intensive attack. The other is a towed mobile version, and is an integral part of Taiwan's dense air defense network. In addition to bases on Taiwan proper, the TK-1 has also been deployed by the ROC Army on the outlying islands of Penghu and Dong Ying, bringing all of the Taiwan Strait and parts of the PRC's Fujian, Zhejiang and Guangdong Provinces within range. 
+It was reported in Jane's Missiles and Rockets, August 2006's issue, that the Tien Kung 1 surface-to-air missile (SAM) system would be retired. The TK-1 missiles would be replaced with TK-2 missile rounds and the existing TK-1 system would be upgraded with radar and training simulator to the Tien Kung II standard.
+
+
+=== CS/MPG-25 target illuminator radars ===
+The CS/MPG-25 X-band target illuminator radar entered service in the late 1980s. It has a reported maximum range of 222km and a ceiling of 30,480m. The CS/MPG-25 is a continuous wave disk antenna illuminator radar that was indigenously developed by NCSIST, and was derived from the I-HAWK AN/MPQ-46 High-Power Illuminator (HPI) radar but is estimated to be 60 percent more powerful in output with improved EW, ECM, and IFF capabilities.  It is tied into the main phased-array radar on a time-share basis similar to that employ by the US Navy's AEGIS air defence system, allowing the TK-1 surface-to-air missile system multiple target engagement capability.
+
+
+=== General characteristics ===
+Primary Function: surface-to-air missile
+Power Plant: Single-stage dual-thrust solid-fuel rocket motor
+Launch platform: Towed quad launchers and underground silos
+Length: 5.3 m
+Diameter: 0.41 m
+Weight: 915 kg
+Top Speed: Mach 4.0
+Range: 70 km
+Guidance: Inertial with mid-course guidance update from ground-based phased array radar, Semi-active radar homing (SARH) for terminal guidance
+Date Deployed: 1986
+
+
+== Sky Bow II ==
+
+The Sky Bow II (TK-2) (天弓二, Tien Kung II) is a SAM system also developed by the NCSIST. Originally a TK-1 with a first-stage booster, the system became a slightly-enlarged modified version of the Sky Bow I (TK-1) missile using an X-Band active-radar seeker, with a longer range and limited anti-missile capability. The TK-2 active radar seeker operates in the 28–32 GHz frequency range and provides reasonably good performance against air-breathing targets of typical aircraft size.  The X-Band active radar seeker used on the TK-2 SAM system was developed from licensed radar technology that NCSIST purchased from the U.S. in the 1980s. The system uses the improved Change Bai 2 (Long White 2) multifunction radar which entered service in the late 1990s. The first public test of the TK-2, codenamed Magic Arrow 43, occurred on May 10, 2002 during the Han kuang 18 exercise.
+The TK-2 also has the added benefit of being able to use the same box launcher as the TK-1. Internal components were replaced with miniaturized parts to take advantage of modern electronics technologies, yielding extra room within the missile for more fuel and a more powerful main rocket motor. The TK-2 possesses only modest capabilities against ballistic missiles but is highly effective against aircraft. 
+
+
+=== General characteristics ===
+Primary Function: surface-to-air missile
+Power Plant: Single-stage dual-thrust solid-fuel rocket motor
+Launch platform: Underground silos and mobile launch vehicles
+Length: 5.673 m
+Diameter: 0.42 m
+Weight: 1,135 kg
+Top Speed: Mach 4.5
+Warhead: 90 kg
+Range: 150 km
+Guidance: Inertial with mid-course guidance update from ground-based phased array radar, Active radar homing (ARH) for terminal guidance
+Date Deployed: 1997
+
+
+=== Variants ===
+
+
+==== Sky Spear ====
+ 
+
+
+==== Sounding rocket ====
+The TK-2 has also been modified for use as a sounding rocket to perform upper atmospheric research for the civilian space program. The sounding rocket test vehicle launched on December 24, 2003, measures 7.7m in overall length and 1,680 kg in launch weight.  It reached a maximum altitude of almost 270 km and splashed 142 km down range around 8 minutes after launch into the Pacific.  The science mission payload was in the 220 pounds (100 kg) weight class and the rocket reached a burnout velocity of 2,000 m/s.  According to the report from Taiwan Defense Review, depending on its payload and launch parameters, the rocket can be converted to attain a horizontal maximum range of up to 500 km.
+
+
+== Sky Bow III ==
+
+Sky Bow III (TK-3) (天弓三, Tien Kung III) is the third generation of the missile system. Taiwan had initially sought and even proposed a joint development effort to co-produce a missile defense interceptor with the U.S. Taiwan officials asked for U.S. technical support for Taiwan's indigenous anti-tactical ballistic missile (ATBM) effort, including the transfer of Hit-to-Kill (HTK) technologies, specifically those related to an active radar Ka-band seeker and precision attitude control. NCSIST was reported to had sought the release of the associated traveling-wave tube (TWT) transmitter of the Ka-band active radar seeker technology. However, U.S. refusal of the export release of a complete Ka-band active radar seeker without tamper protection or to provide the TWT on a stand-alone basis forced NCSIST to use a different active radar seeker technology with a little European content.
+The TK-3 (formerly known as TK-2 ATBM) was conceived as a lower-tier missile defense system based on the TK-2 missile that uses an imported Ku-Band (12–18 GHz) active radar seeker, a directed fragmentation warhead, and improved precision controls for engaging high-speed, low radar cross-section (RCS) targets such as tactical ballistic missiles. It is designed with greater mobility in mind than the original TK-1/2 systems, with an integrated battle management system, and uses an upgraded Chang Bai phased array radar or with the new mobile phased-array radar that is reportedly called the Mobile 3-Dimensional (3D) Air Defense Fire Control Phased Array Radar (Mobile 3D ADFCPAR).
+The new mobile radar reportedly called Chang-Shan ("Long Mountain") radar system, like the Patriot's Raytheon AN/MPQ-65 radar system, is reported to operate on the C-Band (4–8 GHz) frequency range, and like the AN/MPQ-65 system, it is trailer-mounted with a rectangular planar array radar of approximately similar size. However, it does not appear to have any identifiable missile guidance sub-array like those found below the main array on the AN/MPQ-65 system and it is therefore not clear if this new radar can provide target guidance illumination function in support of TK-1 SARH missiles. However, this should not present any problem for the new radar to be utilized on both TK-2 missile (X-Band) and TK-3 missile (Ku-Band) active radar seekers, as these missile systems do not require target illumination. The new radar enhances the survivability and operational flexibility of the TK2/3 missile systems by allowing a TK surface-air-missile battery to be deployed rapidly to a previously unprepared site. The TK-3 incorporates advanced ceramics and carbon fiber in its construction. The missile's nose cone can resist temperatures in excess of 1,000 °C. The TK-3 is capable of both midcourse and terminal defense against ballistic missiles.
+Production of the Tien Kung 3 SAM commenced in 2014 with an initial production run of 12 batteries.  With the retirement of the HAWK batteries and the Sky Bow II becoming more obsolete, another twelve batteries of Sky Bow IIIs were ordered to replace these older systems. Conversion of six older batteries to Sky Bow IIIs began in 2022 and is to be completed by 2025.  Work on the remaining six batteries began in early 2023 and is to be completed by 2026. Previously, the United States had given Taiwan the options of upgrading the Hawk, buying the NASAMS system, and/or buying the THAAD missile system to replace their Hawks. The Ministry of National Defense ultimately decided to pursue the development of indigenous weapons to meet the need.
+In 2019 Taiwanese President Tsai Ing-wen ordered the NCSIST to accelerate mass production of the TK-3 in response to increasing Chinese military power and bellicosity. In response to President Tsai’s request NCSIST completed their quota for TK-3 missile production ahead of schedule in 2021.
+In 2023 the Taiwanese MOD announced plans to build twelve new bases to host TK-3 batteries, six expected to complete before the end of 2025 and six more expected to complete before the end of 2026.
+
+
+=== Variants ===
+In late 2016, NCSIST launched a ship-based variant of the Sky Bow III BMD interceptor.  According to NCSIST, the test was conducted from a land-based launcher and "was successful and the data was satisfactory". The ship-based version has a folding tail to fit in Mark 41 vertical launch system or Huayang Vertical Launching System and is planned to be deployed on the ROCN's next-generation general-purpose frigates and air defense destroyers as well as possibly retrofitted onto existing vessels.
+
+
+=== General characteristics ===
+Primary Function: surface-to-air missile
+Power Plant: Solid-fuel rocket motor
+Launch platform: Towed quad launchers
+Length: 5.498 m
+Diameter: 0.4 m
+Weight: 870 kg
+Top Speed: Mach 7.0
+Range: 200 km
+
+
+=== Export ===
+The TK-3 has seen interest from foreign buyers but as of November 2019 none were confirmed.
+
+
+=== Gallery ===
+
+
+== Sky Bow IV ==
+
+
+== See also ==
+Sky Spear  – (Taiwan)
+Sky Sword I/Antelope air defence system/Sea Oryx  – (Taiwan)
+MIM-104 Patriot  – (United States)
+Aster_(missile_family)  – (France, Italy)
+Sayyad-2  – (Iran)
+Pongae-5  – (North Korea)
+KM-SAM  – (South Korea)
+L-SAM  – (South Korea)
+HQ-9  – (China)
+S-300 missile system  – (Soviet Union, Russia)
+Defense industry of Taiwan
+Comparison of anti-ballistic missile systems
+
+
+== References ==
+
+
+=== Notes ===
+
+
+== External links ==
+
+Sky Bow I article on GlobalSecurity
+Sky Bow II article on GlobalSecurity
+Manufactures' videos [1][2][3]

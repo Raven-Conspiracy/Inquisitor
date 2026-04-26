@@ -1,0 +1,207 @@
+The Changhe Z-10 (Chinese: 直-10; pinyin: Zhí-Shí; lit. 'helicopter-10') is a Chinese medium-weight,  twin-turboshaft, attack helicopter built by the Changhe Aircraft Industries Corporation for the People's Liberation Army Ground Force Aviation. Designed by 602nd Aircraft Design Institute of Aviation Industry Corporation of China and Kamov Design Bureau, the aircraft is intended primarily for antitank warfare missions with secondary air-to-air combat capability.
+The plan to develop a medium-weight helicopter program was initiated in 1994 with the attack helicopter program formally beginning in 1998. The preliminary design of the aircraft was provided by Kamov, while prototyping was conducted by the 602nd Aircraft Design Institute of Aviation Industry Corporation of China (AVIC). The Z-10 first flew on 29 April 2003 and entered Chinese Army Aviation service in 2009.
+Nicknames of characters in the Chinese classic novel Water Margin have been used to name Z-10 and its light-weight counterpart, the Harbin Z-19 by Chinese Army Aviation Corps; Z-10 is called Fierce Thunderbolt (Pi Li Huo, 霹雳火), the nickname of Qin Ming, while Z-19 is called Black Whirlwind (Hei Xuan Feng, 黑旋风), the nickname of Li Kui.
+
+
+== Development and history ==
+
+
+=== Background ===
+The People's Liberation Army Ground Force (PLAGF) established its army aviation units in January 1988. The unit used helicopters transferred from People's Liberation Army Air Force (PLAAF), including Mil Mi-4, Harbin Z-5, Mil Mi-8, and Aérospatiale Gazelle. By the mid-1980s, the Chinese decided to field dedicated attack helicopters. The brief honeymoon period between China and the West provided China opportunities to evaluate Agusta A129 Mangusta, AH-1 Cobra, and BGM-71 TOW missiles. However, the 1989 Tiananmen Square protests and massacre and the ensuing arms embargo prevented many deals from going through. Nevertheless, China successfully imported or licensed aircraft types such as Changhe Z-8, Harbin Z-9, Sikorsky S-70, Mi-17, and Aerospatiale AS332 Super Puma.
+Also, debate had arisen in China about whether the PLAGF or PLAAF should operate attack helicopters. Eventually, the PLAGF won and began to induct armed helicopters based on the Harbin Z-9 design. The use of the Z-9WA modification helped China realize the requirement for a dedicated attack helicopter platform.
+
+
+=== Development programs ===
+
+A preliminary plan to develop an attack helicopter in China began in 1992. China began to develop the 6-ton class China Helicopter Medium (CHM) program in 1994, headed by the 602nd and 608th Research Institutes. This program was later developed into Harbin Z-20. In 1995, China commissioned Kamov to develop a preliminary design for the 6-ton helicopter, known as Project 941 internally. Project 941 was a large departure from traditional Soviet design, focusing entirely on the CHM requirement. The concept was then handed to China for further development, in which Kamov did not participate. Based on the concept, Chinese engineers developed prototypes and iterate designs based on the testing results. The changes include modification on the airframe shapes to optimize radar cross section, changes on the engine bay shape to accommodate domestic engines, and the engine nozzle layout.
+China also secured assistance from Eurocopter France for the rotor system and AgustaWestland in 1997 for the transmission system in 1998. Pratt & Whitney Canada and Hamilton Sundstrand secretly provided PT6C-67C engines and digital engine control systems to aid the programs, leading to them receiving investigations and penalties from the United States government. 
+In 1998, the 602nd Research Institute proposed the Special Armed Project to develop the final design, which was designated the Z-10. Initially, the Z-10 project was planned to share its propulsion system with the CHM program, but the two programs were separated and the Z-10 was prioritized to be completed first. During the development in 2000, Denel also provided technical assistance to the project in the area of flight stability. After the US government cut off engine sources from Pratt and Whitney, China turned to domestic replacements with lower thrust ratings, leading to further weight-saving design changes. The replacement engine was the indigenous WZ-9 turboshaft.
+David Donald of Aviation International News claimed the Z-10 had a universal engine bay capable of fitting various types of engines, including Ukrainian Motor Sich TV3-117. However, Chinese sources indicated the TV3-117 is incompatible with the Z-10's engine bay due to the driveshaft shape, and prototypes were fitted with either Pratt and Whitney PT6C-67C or Chinese-built Turbomeca Makila turboshaft engines, whereas the final version uses WZ-9 turboshaft engines due to its fully indigenous origin.
+The Z-10 took its maiden flight on 29 April 2003 and entered PLA service in 2009 or 2010.
+
+
+=== Further development ===
+In March 2014, the Z-10 helicopter began deck trials with a People's Liberation Army Navy Type 072A-class landing ship. The purpose may be to qualify the helicopter on ships to provide air support for landing parties launched from the ship. Type 072A-class ships have a helipad, but no hangar or support facilities for the aircraft on board. The Z-10 may also be qualified on the larger Type 071 amphibious transport dock.
+The Z-10 was one of the contenders to replace Pakistan's Bell AH-1F Cobra attack helicopters. In 2015, Pakistan acquired three Z-10s for trials, but ultimately rejected the offer due to the inadequate WZ-9 engine. After the failed bid, Chinese engineers began to upgrade to the Z-10 platform to improve its competitiveness. A new prototype, designated Z-10ME, emerged in 2018 with a larger ammunition magazine size, new intake filtration systems, and a new missile approach warning system. In the same year, more equipment was added to the prototype, such as a more powerful WZ-9C turboshaft with 1,200 kW (1,600 shp) power, new infrared signature-reducing engine exhaust nozzle, appliqué graphene-based armor plates, etc. 
+The PLAGF's domestic Z-10 fleet was upgraded to the Z-10ME standard with the 1,200 kW (1,600 shp) engines, appliqué armor plates, and infrared suppression nozzles. The Pakistan Army eventually purchased the Z-10ME, as well.
+
+
+== Design ==
+
+
+=== Overview ===
+
+The Z-10 features a tandem cockpit compartment at the front section. The airframe bulges below the cockpit, extending backward and merging with the stub wings and tail boom, creating a distinctive ridge dividing the top and bottom half of the blended fuselage, which are both canted inward, creating a hexagon-shaped frontal profile. This slim, rhombic configuration ensures structural strength, increases internal volumes for equipment, and reduces the frontal projected area and overall radar cross section. The radar-absorbent material is applied to the fuselage, further reducing the radar reflection and providing a certain degree of low observability. 
+The rotor system consists of a single semirigid, five-blade main rotor at the top and a four-blade tail rotor at the aft section. The airfoil of the primary 95KT rotor blade features a significant camber with swept tips, designed to reduce the blade length, vibration, and acoustic signature. The tail rotor consists of two sets of dual composite blades (four blades in total) mounted in an angled, nonorthogonal (scissor) arrangement designed to reduce noise generated by the wingtip vortices. All blades are made with carbon fiber-wrapped spars with layered honeycomb composite for the skin, capable of sustaining damage against 12.7 mm (0.50 in) rounds. A deicing device is fitted to the blades to increase flight safety in adverse weather.
+The fuselage is primarily made of aluminum alloy, with 30% of the mass being composite materials. The cockpit compartment is wrapped inside carbon fibers, while the canopy is protected by bulletproof glasses of 38 mm (1.5 in) in thickness. Additional protection layers made of aluminum alloy and kevlar are applied to the bottom of the cockpit, side of the engine bays, and around the self-sealing fuel tank. The honeycomb composite layer is applied to the fuselage bottom, while the pilot seats, landing gears, and fuel tank are reinforced for improved crashworthiness. The early model of Z-10 prioritizes protection in critical areas for weight reduction without sacrificing structural integrity, range, and payload. In later serial production, appliqué graphene armor plates are mounted on the side of the cockpit and engine housing to further improve the protection level.
+The Z-10's engine air intake is protected by a metal mesh to prevent foreign objects from being sucked in. Newer variants can be installed with integrated inlet particle separators  for engine intake filtration, preventing harmful solid particulates such as sand and dust to damage the critical propulsion components. The Z-10's engine system is fitted with the Hover Infrared Suppression System, mixing in the engine exhaust with cold air to reduce the helicopter's infrared characteristic. Later serial production of Z-10s modified the engine nozzle from side-facing to the upward-facing direction, further reducing the signature from heat radiation. The upward-facing exhaust nozzle, albeit beneficial for suppressing the infrared signature, would lead to additional drag, To resolve this, the engine on the Z-10 was upgraded to from 1,300 shp (970 kW) to 1,600 shp (1,200 kW) to make up the loss.
+
+
+=== Propulsion ===
+
+The Z-10 prototype was powered by two Pratt and Whitney Canada PT6C-67C turboshaft engines, which is equipped with a Full Authority Digital Engine Control  system and sports a maximum continuous power of 1,142 kW (1,531 shp). The early batches of Z-10 were powered by domestic Zhuzhou WZ-9 or WZ-9A turboshaft engines, providing 957–1,000 kW (1,283–1,341 shp) of power. The reduced performance of WZ-9 turboshaft engines prevented Z-10 from carrying its maximum payload of 16 antitank guided missiles.
+Multiple engines were developed to upgrade the propulsion of the Z-10. China and European partners reportedly developed the WZ-16. The WZ-9 was upgraded to WZ-9C with 1,200 kW (1,600 shp) of maximum power. The engine was originally designed for export, but subsequently used to upgrade early Z-10s batches. The WZ-9C provides 30% more power than the original version, providing the Z-10 with enough lift for a variety of payloads. 
+The Z-10 emphasizes extended-range operation. The WZ-9A turboshaft engine allows the aircraft to fly at a maximum speed of 290 km/h (160 kn) and a cruise speed of 230 km/h (120 kn). The internal tank supports a range of 800 km (430 nmi; 500 mi).
+
+
+=== Avionics ===
+
+
+==== Countermeasures ====
+The Z-10 features a comprehensive self-defense suite. The YH-96 electronic warfare system includes a set of infrared missile approach warning system (MAWS), radar warning receivers (RWR) and laser warning receivers (LWR), both are connected with the 6×4 countermeasure dispensers (two on each side, four in total, for Z-10ME) to release flare and chaff when incoming missiles are detected. The system was upgraded on Z-10ME-02 variant with a different avionics layout, replacing previously mounted radar and electro-optical sensors with integrated countermeasure suite, indicated by several active electronically scanned array  radar panels around the fuselage and two electro-optical suites mounted on the stub wings. The radar panels are capable of passive signal detection, target searching, and active jamming, which also replace the function of missile approach warning system. The electro-optical suites include new laser, infrared, ultraviolet warning receivers, and directional infrared countermeasure systems (DIRCM) to defend against infrared homing (IR) missiles.
+
+
+==== Targeting ====
+The primary sensor suite of Z-10 is the WXG1006 electro-optical  package located at the nose section. The ball-shaped package contains a forward-looking infrared sensor, a TV camera, a laser rangefinder, and a laser designator. The development of the primary electro-optical fire control systems  was influenced by French and Israeli systems, but with locally programmed software. The YH millimeter-wave radar was also developed for Z-10 to detect longer-range targets, and targets behind fog, smoke, and dust. The mm-wave radar can be installed on top of the main rotor mast.
+
+
+==== Cockpit and instrumentation ====
+The stepped tandem cockpit houses two pilots. The front pilot primarily controls the flight maneuver, while the back pilot handles the weapons system. Both pilots have identical flight instrumentation, serving as backups to each other, and both are capable of flight control and weapons operation. Inside the cockpit is the digital flight instrument, with the fly-by-wire Hands-On Collective And Stick (HOCAS) flight control. Each pilot has two LCD multi-function displays (MFD) and multiple small displays for other information. An additional holographic heads-up display (HUD) is provided for the front pilot.
+Each pilot also wears a helmet-mounted sight, similar to the Integrated Helmet and Display Sighting System on the AH-64 Apache. The helmet sight is fully integrated with FCS to control guided and unguided munitions and display onboard navigation information. The pilots can slave the sensor suite and 23 mm (0.91 in) autocannon to their helmets, controlling the sensors and autocannon direction by turning their heads. For all-weather operation, the helmet visor can be attached with a binocular-like night vision goggles (NVG), which was later replaced with integrated NVGs that can display night-vision image directly inside the visor. 
+Other navigation instruments of Z-10 include laser gyrocompass, radio altimeter, Doppler radar, inertial navigation, satellite navigation, and identification friend or foe (IFF) systems.
+
+
+=== Armaments and payload ===
+
+The Z-10 has a modular weapon system. The system uses the GJV289A standard, the Chinese equivalent of the MIL-STD-1553B databus architecture, which enables weaponry of Chinese, Soviet, and Western origin to be adopted by the Z-10. Offensive weaponry consists of machine guns, cannons, rockets, and missiles. Internal armament consists of a gun mount installed on the chin of the aircraft with 180° of horizontal traverse. Two stub wings provide attachment points for external ordnance or gun pods. Each stub wings have two hardpoints, for a total of four, and each hardpoint can carry up to 4 missiles, for a total of 16 missiles.
+The autocannon on the serial production Z-10 is the 23 mm (0.91 in) PX-10A automatic chain gun, but the aircraft can also mount 20 mm (0.79 in), 25 mm (0.98 in), and 30 mm (1.2 in) autocannons, with some of them marketed for export customers.
+The air-to-surface missiles deployed by the Z-10 include HJ-8, HJ-9, HJ-10, AKD-9, and AKD-10 anti-tank missiles. Early AKD-10 utilizes semi-active laser (SAL) guidance, while later variants reportedly incorporate millimeter wave (MMW) seekers. The Z-10 can also fire BA-21 long-range anti-tank missiles with a millimeter wave/semi-active laser dual model guidance seeker. The missile can be fired from Z-10 and data-linked by millimeter-wave radar mounted on friendly platforms. Aside from anti-tank missiles, the Z-10 can also carry SW6 air-launched drones, CM-501GA none-line-of-sight air-to-surface missiles CM-502KG anti-tank missiles, CM-501XA loitering munitions, ET60 324 mm (12.8 in) lightweight torpedo, with the last one providing Z-10 with useful, albeit limited, naval warfare capabilities. The helicopter is compatible with GB25 and GB50 guided bombs.
+The main air-to-air missile deployed by the Z-10 is the TY-90, a missile specifically designed for use by helicopters in aerial combat. The TY-90 is much heavier than the MANPAD missiles usually carried by helicopters, providing better lethality and range. 
+The Z-10 can launch a great variety of unguided and guided rockets. Under the stub wings, a total of four rocket pods can be mounted on the hardpoints. Options include the 19-tube 57 mm (2.244 in) rocket pod, 7-tube 70 mm (2.756 in) Fire Snake rocket pod with FS70A (GR-5) 70 mm (2.756 in) guided rocket or FS70B 70 mm (2.756 in) air burst fragmentation rocket, or 19-tube 70 mm (2.756 in) unguided rocket pod with anti-infantry fragmentation rockets. 7-tube 90 mm (3.543 in) rocket pod is also available, capable of firing the larger FS90A 90 mm (3.543 in) guided rocket or Tianjian 90 mm (3.543 in) rocket. Aside from the common calibers, the helicopter can support rockets from 20 mm (0.787 in) to 130 mm (5.118 in).
+For other types of payloads, the Z-10 can carry a KG300G self-defense electronic warfare (EW) pod, providing organic survivability for frontline ELINT and ESM defense. The EW pod features a stealth enclosure, and is capable of providing multi-target jamming, spectrum searching, and digital radio frequency memory (DRFM) signal processing. External fuel tanks be attached to further its operational and ferry ranges. The helicopter can also underslung all-terrain vehicles (ATV) for special operation insertion support. The Z-10 can underslung around 3 tonnes.
+
+
+== Operational history ==
+
+
+=== China ===
+In 2011, the Z-10 could be observed operating at PLAGF bases. In September 2016, the PLA announced that all of its army aviation units had been equipped with the Z-10. The helicopter is stationed in frontline regions, such as the Tibet plateau and Taiwan Strait.
+
+
+=== Pakistan ===
+The Z-10 was one of the contenders to replace Pakistan's Bell AH-1F Cobra attack helicopters. In 2015, Pakistan acquired three Z-10s for trials, but they rejected the offer due to the inadequate WZ-9 engine. Pakistan then chose Turkey's AH-1Z; however, contracts to acquire the AH-1Z and then the TAI/AgustaWestland T129 ATAK (which uses the American LHTEC CTS800–4A engine) fell through because of worsening relations with the United States. In January 2022, negotiations to acquire the Z-10ME were underway; the Z-10ME had been identified as a fallback option by February 2020. In June 2022, Pakistan's deal with T129 ATAK was reportedly canceled, and the Pakistan government was seeking the acquisition of Z-10ME. Pakistan military reportedly received the first batch of Z-10ME in 2023.
+In July 2025, a Z-10ME airframe painted with Pakistan military serial numbers was observed. The particular aircraft lacked the top-mounted radar, but retained the upgraded engine, guided rockets, CM-502 missiles, and the integrated countermeasure system with directional infrared countermeasure systems (DIRCM) found on the newest Z-10ME variant. An official induction ceremony was held on 2 August 2025.
+
+
+=== Strategic implications ===
+In June 2012, the United States charged United Technologies and two of its subsidiaries, Pratt & Whitney Canada and Hamilton Sundstrand, of selling engine control software to China which aided in the development of the Changhe Z-10. While the Chinese defense ministry denied that China bought or used the software, Pratt & Whitney Canada and Hamilton Sundstrand agreed to pay more than $75 million to the U.S. government to settle the charges.
+According to Boneham of Janes Information Services, the export potential of the Z-10ME lies in its capabilities and affordability. The helicopter is suitable for countries without access to Western and Russian hardware. Malcolm Davis of the Australian Strategic Policy Institute believed the Z-10ME offered the capability gap of operating air-launched UAVs, and potential candidates included Laos, Cambodia, Myanmar, etc. However, Davis believed the demand for advanced helicopters was quite small in these economies.
+
+
+== Variants ==
+
+Z-10 Prototype
+Prototype for basic tests. Not all had the same layout in that some had a fenestron configuration while others had a traditional tail rotor configuration; some had a chin gun turret while others had a chain gun; some had nose-mounted electro-optical systems while others had mast-mounted electro-optical systems.
+Z-10H
+Pre-production series powered by Pratt & Whitney Canada PT6C-76 turboshaft engine.
+Z-10
+Equipped with the domestic Chinese WZ-9 engine. This model established the baseline for the Z-10 series' capabilities.
+Z-10K
+Z-10K is modified variant derived from the standard Z-10 at the request of the People's Liberation Army Air Force Airborne Corps.
+Z-10 Upgrade (2018/2020)
+In 2018, older batches began to be upgraded alongside newly manufactured models. The ceramic/graphene composite armor plates (on the engine covering and below the cockpit windows) and a new missile approach warning system (MAWS) at the nose section and on the tail boom, both introduced initially on the Z-10ME, were installed on some of the Z-10. The upward-facing engine nozzle was not installed during the early stage of the upgrade program, possibly waiting for the engine replacement. Subsequently in 2020, the fleet was upgraded to more powerful WZ-9C engines with rated power of 1,200 kW (1,600 shp), new data-link enabled missiles, IRCM systems, and upward-facing exhaust nozzles (to lower infrared visibility). It also introduces an advanced IFF system and an enhanced BeiDou navigation system antenna, significantly improving Z-10's operational capabilities.
+Z-10 Export Prototypes
+3 samples built for Pakistan, powered by the early WZ-9 engine with maximum power around 930 kW (1,250 shp). It was not selected by Pakistan after evaluation due to insufficient engine power under the plateau condition.
+Z-10ME (2018)
+"ME" stands for upgrade export variant. The first prototype, designated Z-10ME-01, was unveiled in 2018. The ME-01 prototype was initially fitted with a larger ammunition magazine with tripled ammunition belts and a mesh-like intake filtration system. The Z-10ME was showcased at the Zhuhai Airshow 2018, features several defensive measures, including active and passive countermeasures, radar warning receiver, new engine exhaust nozzle pointed upwards to reduce infrared signature, a more sophisticated intake filtration system, a more powerful WZ-9C turboshaft with 1,200 kW (1,600 shp) power, appliqué graphene-based armor panels, infrared jammer, and a new IFF interrogator. Z-10ME-01 can install a millimeter wave fire control radar at the top of the rotor masat. The Z-10ME-01 at Zhuhai Airshow 2018 served as the basis for upgrading PLAGF's domestic Z-10 fleet.
+Z-10ME (2021)
+A configuration of Z-10ME first observed in 2021 as the second prototype named Z-10ME-02. It was showcased internationally at 2024 Singapore Airshow. The new variant improved low-altitude flight performance and has a different avionics layout around the fuselage. The new electronics warfare system consists of several multi-purpose active electronically scanned array (AESA) radar panels, capable of passive signal detection, target searching, missile approach warning, and active jamming. It's also fitted with an over-the-rotor mast-mounted Yu Huo millimeter wave fire control radar to detect long-range targets. Beside radars, the Z-10ME-02 features an integrated electro-optical (EO) countermeasure system with new detection sensors (replacing the previous laser/infrared/ultraviolet warning alarms) and new active directional infrared countermeasure systems (DIRCM) to counter against infrared homing (IR) missiles. All radar and EO sensors on Z-10ME-02 are interconnected to provide comprehensive situation awareness and operational flexibility.
+
+
+== Accidents and incidents ==
+In January 29, 2017, a PLAGF Z-10 crashed in Fujian during a nighttime exercise. The crew, pilot Major Zhang Hao and co-pilot Captain Wang Xiaodong, were killed. They were posthumously awarded martyr status.
+
+
+== Operators ==
+
+ China
+People's Liberation Army — 208 units in service as of 2022.
+People's Liberation Army Ground Force Aviation — 200 units of Z-10 variants
+People's Liberation Army Air Force Airborne Corps Aviation Regiment — 8 units of Z-10K
+ Pakistan
+Pakistan Army Aviation Corps — Z-10ME in service as of 3 August 2025.
+
+
+== Specifications (Z-10) ==
+Data from Military Digest General characteristics
+Crew: 2
+Length: 14.2 m (46 ft 7 in) 
+Height: 3.85 m (12 ft 8 in) 
+Gross weight: 5,540 kg (12,214 lb)
+Max takeoff weight: 7,200 kg (15,873 lb) 
+Powerplant: 2 × WZ-9C turboshaft engines, 1,200 kW (1,600 hp) each
+Main rotor diameter:  13 m (42 ft 8 in) 
+Performance
+
+Maximum speed: 300 km/h (190 mph, 160 kn) 
+Cruise speed: 230 km/h (140 mph, 120 kn)
+Combat range: 800–1,120 km (500–700 mi, 430–600 nmi) 
+Service ceiling: 6,400 m (21,000 ft)
+g limits: +3
+Rate of climb: 12 m/s (2,400 ft/min)
+Armament
+
+Guns: 1x 23 mm (0.906 in) PX-10A revolver cannon
+Hardpoints: 4 with a capacity of 1,500 kg (3,307 lb) useful load, with provisions to carry combinations of:
+Rockets: on each hard point with
+57 mm (2.244 in) rocket pod (19-tube)
+70 mm (2.756 in) unguided rocket pod (7-tube)
+70 mm (2.756 in) FS70 guided rocket pod (7-tube) with FS70A (GR-5) 70 mm (2.756 in) guided rocket or FS70B 70 mm (2.756 in) air burst fragmentation rocket
+70 mm (2.756 in) unguided rocket pod (19-tube)
+90 mm (3.543 in) rocket pod (7-tube) with FS90A 90 mm (3.543 in) guided rocket or Tianjian 90 mm (3.543 in) rockets
+Missiles: on each hard point with
+4× HJ-8, HJ-9 laser-guided air-to-surface missiles
+4× AKD-10 (BA-7) laser-guided air-to-surface missiles
+4× AKD-9 (BA-9) laser-guided air-to-surface missiles
+4× AKD-21 (BA-21) millimetre-wave air-to-surface missiles
+4× AG-300/M or AG-300/L laser-guided air-to-surface missiles
+4× CM-502KG NLOS air-to-surface missiles
+2× CM-501GA NLOS air-to-surface missiles
+1× CM-501XA loitering munition
+4× TY-90 air-to-air missiles
+Bombs: 
+GB25 and GB50 guided bombs
+Other: 
+280kg drop tank
+Avionics
+
+Yu Huo (YH) millimetre-wave fire-control radar
+YH-96 electronic warfare suite
+WXG1006 eclectic optical package
+Helmet mounted sight with night vision goggles
+KG300G self-protection jamming pod
+Blue Sky navigation pod
+KZ900 reconnaissance pod
+
+
+== See also ==
+
+Harbin Z-19, 2012 Chinese attack helicopter
+
+Aircraft of comparable role, configuration, and era
+
+Mil Mi-28 Havoc
+Kamov Ka-52 Alligator
+Agusta A129 Mangusta
+AgustaWestland Apache
+Bell AH-1Z Viper
+Boeing AH-64 Apache
+Denel Rooivalk
+HAL Prachand
+Eurocopter Tiger
+TAI/AgustaWestland T129
+
+Related lists
+
+List of helicopters
+
+
+== References ==
+
+
+== External links ==
+
+GlobalSecurity.org
+SinoDefence.com report
+Z-10 Attack helicopter on airrecognition.com
+WZ10 Helicopter Photo Collection and Intro

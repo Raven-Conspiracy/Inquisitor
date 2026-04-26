@@ -1,0 +1,218 @@
+This subpage lists American military electronic instruments/systems along with brief descriptions. This list specifically identifies electronic devices which are assigned designations (names) according to the Joint Electronics Type Designation System (JETDS) beginning with the AN/ prefix. They are grouped below by the first designation letter following this prefix. The list is organized as sorted tables that reflect the purpose, uses and manufacturers of each listed item. 
+The list on this page only shows designations where the first letter after AN/ is between M and Z. For all designations between A and G, please see List of military electronics of the United States: A–G. 
+
+NOTE: Letters E, H, I, J, L, N, O, Q, R, X and Y are not used in the first-position of JETDS nomenclatures.
+
+
+== M ==
+
+
+=== MLx – Mobile Countermeasures Systems ===
+
+
+=== MPx – Mobile Radar Systems ===
+
+
+=== MRx – Mobile Radio Systems ===
+
+
+=== MSx – Mobile Special/Combination Systems ===
+
+
+=== MYx – Mobile Data Processing/Computer Systems ===
+
+
+== P ==
+
+
+=== PAx – Portable Infrared Systems ===
+
+
+=== PEx – Portable Laser Systems ===
+
+
+=== PPx – Portable Radar Systems ===
+
+
+=== PRx – Portable Radio Systems ===
+
+
+=== PSx – Portable Special/Combination Systems ===
+
+
+=== PVx – Portable Visual/Visible Light Systems ===
+
+
+=== PYx – Portable Data Processing/Computer Systems ===
+
+
+== S ==
+
+
+=== SEx – Water (surface ship or buoys) Laser Systems ===
+
+
+=== SLx – Water (surface ship or buoys) Countermeasures Systems ===
+
+
+=== SPx – Water (surface ship or buoys) Radar Systems ===
+
+
+=== SQx - Water (surface ship or buoys) Sonar Systems ===
+
+
+=== SRx – Water (surface ship or buoys) Radio Systems ===
+
+
+=== SSx – Water (surface ship or buoys) Special/Combination Systems ===
+
+
+=== SYx – Water (surface ship or buoys) Data Processing/Computer Systems ===
+
+
+== T ==
+
+
+=== TAx – Transportable Infrared Systems ===
+
+
+=== TCx – Transportable Carrier Systems ===
+
+
+=== TGx – Transportable Telegraph/Teletype Systems ===
+
+
+=== TLx – Transportable Countermeasures Systems ===
+
+
+=== TMx – Transportable Meteorological Systems ===
+
+
+=== TNx – Transportable Sound Systems ===
+
+
+=== TPx – Transportable Radar Systems ===
+
+
+=== TRx – Transportable Radio Systems ===
+
+
+=== TSx – Transportable Special/Combination Systems ===
+
+
+=== TTx – Transportable Telephone Systems ===
+
+
+=== TVx – Transportable Visual/Visible Light Systems ===
+
+
+=== TWx – Transportable Armament Systems ===
+
+
+=== TYx – Transportable Data Processing/Computer Systems ===
+
+
+== U ==
+
+
+=== UAx – Utility Infrared Systems ===
+
+
+=== UDx – Utility Radiation and Detection (RADIAC) Systems ===
+
+
+=== UGx – Utility Telegraph/Teletype Systems ===
+
+
+=== ULx – Utility Countermeasures Systems ===
+
+
+=== UPx - Utility Radar Systems ===
+
+
+=== UQx – Utility Carrier Systems ===
+
+
+=== URx – Utility Radio Systems ===
+
+
+=== USx – Utility Special/Combination Systems ===
+
+
+=== UXx – Utility Facsimile/Television Systems ===
+
+
+=== UYx – Utility Data Processing/Computer Systems ===
+
+
+== V ==
+
+
+=== VPx – Vehicular Radar Systems ===
+
+
+=== VRx – Vehicular Radio Systems ===
+
+
+=== VSx – Vehicular Special/Combination Systems ===
+
+
+== W ==
+
+
+=== WLx – Water Surface and Underwater combined Countermeasures Systems ===
+
+
+=== WQx – Water Surface and Underwater combined Sonar Systems ===
+
+
+=== WSx – Water Surface and Underwater Special/Combined Systems ===
+
+
+== Z ==
+
+
+=== ZPx – Airborne Vehicle Radar Systems ===
+
+
+=== ZSx – Airborne Vehicle Special/Combination Systems ===
+
+
+== See also ==
+
+Joint Electronics Type Designation System – Unclassified designation system for United States military electronic equipment - The AN/ system defined
+Signal Corps Radio – U.S. Army radio systems
+Category:Military electronics of the United States
+Wikipedia:Stand-alone lists
+
+
+=== Lists ===
+List of equipment of the United States Armed Forces
+List of equipment of the United States Air Force
+List of equipment of the United States Army
+List of equipment of the United States Coast Guard
+List of equipment of the United States Marine Corps
+List of equipment of the United States Navy
+List of United States radar types
+List of U.S. Signal Corps Vehicles (V-list)
+List of World War II electronic warfare equipment
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Bibliography ==
+
+
+== Further reading ==
+
+
+== External links ==
+MobileRadar.org – Radar Descriptions
+Designation-Systems.net – Designations Of U.S. Military Electronic And Communications Equipment
+FAS Military Analysis Network.org – Aircraft Equipment
+FAS Military Analysis Network.org – US Navy Shipboard Combat Systems
+JPtronics.org – Directory of Communications: Electronic Equipment, JANAP 161, March 1953 (Joint Army, Navy, Air Force Publication – Archived)

@@ -1,0 +1,62 @@
+The Kh-47M2 Kinzhal (Russian: Х-47М2 Кинжал, IPA: [kʲɪn'ʐaɫ], lit. 'Dagger'; NATO reporting name: AS-24 Killjoy) is a Russian air-launched ballistic missile. It has an estimated range of 460–480 km (290–300 mi) and a reported top speed of Mach 10. It can carry either conventional or nuclear warheads and can be launched by Tu-22M3 bombers, MiG-31K interceptors, or modified Su-34 fighter–bombers.
+It has been deployed at airbases in Russia's Southern Military District and Western Military District.
+The Kinzhal entered service in December 2017 and was one of the six new Russian strategic weapons unveiled by Russian president Vladimir Putin in March 2018. It was first used in combat during the first month of the Russo-Ukrainian war. The first interception of a Kinzhal occurred in May 2023, following the deployment of MIM-104 Patriot batteries the previous month.
+
+
+== Design ==
+The overall design of the missile is shared with the older ground-launched 9K720 Iskander missile, adapted for air launching with a modified guidance section for the Kinzhal. It can reportedly hit both static targets and mobile ones such as aircraft carriers.
+The high speed of the Kinzhal gives it better target penetration, shorter flight times and better evasion from SAM defense systems than lighter, slower cruise missiles.
+In Russian media the "hypersonic" feature has been highlighted as a unique feature (hypersonic glide and scramjet) although the Kinzhal actually uses a standard ballistic missile technology at greater speeds. Thus the "hypersonic" property is shared with several older rocket engine designs and does not represent a technological innovation.
+Russian media state the missile's range as 2,000 km (1,200 mi; 1,100 nmi) when carried by the MiG-31K and 3,000 km (1,900 mi; 1,600 nmi) when carried by the Tu-22M3; in both cases these figures are arrived at by adding the aircraft's combat radius to the missile's range. Its range once launched from its aircraft has been estimated between 460 and 480 km, similar to that of the Iskander missile upon which its design is reportedly based.
+Ukraine sources report that one Kh-47 Kinzhal hypersonic missile costs about US$10 million.
+
+
+== Foreign reactions ==
+In March 2022, American president Joe Biden confirmed that Russia used hypersonic missiles in Ukraine. "It's almost impossible to stop it," he said: "There's a reason they're using it."
+Chinese analysts, after reviewing its performance in Ukraine in 2023, point out that is not really a hypersonic missile since it follows a ballistic trajectory and cannot maneuver at hypersonic speeds. This makes it relatively easy to intercept compared with true hypersonic missiles. They also criticised its accuracy.
+The UK Parliamentary Office of Science and Technology described it as "capable of limited manoeuvres" and described it as flying on a "quasi-ballistic trajectory". They noted that 'aeroballistics missiles' (like the Kinzhal) are not generally called 'hypersonic missiles'.
+
+
+== Operational history ==
+The Kinzhal entered service in December 2017 and was one of the six new Russian strategic weapons unveiled by Russian president Vladimir Putin on 1 March 2018. The Kinzhal missile has since been deployed on the MiG-31K, the Tu-160M, the Tu-22M3M, and also reportedly the Su-34.
+In May 2018, ten MiG-31Ks capable of using Kinzhal missiles were on experimental combat duty and ready to be deployed. By December 2018, aircraft armed with Kinzhal missiles had conducted 89 sorties over the Black Sea and the Caspian Sea.
+By February 2019, crews of the MiG-31K Kinzhal missile carriers had performed more than 380 training sorties with the missile, of which at least 70 have used air-to-air refueling. The weapon made its public debut during the Aviadarts international contest in August 2019.
+According to TASS, the first launch of Kinzhal in the Arctic took place mid-November 2019. The launch was reportedly carried out by a MiG-31K from Olenya air base. The missile hit a ground target at Pemboy proving ground, reaching a speed of Mach 10. In June 2021, a Kinzhal missile was launched by a MiG-31K from Khmeimim Air Base on a ground target in Syria. A separate aviation regiment was formed in 2021 which is armed with MiG-31K aircraft with the Kinzhal hypersonic missile.
+Rumours in early February 2022 suggested that several  MiG-31 interceptors armed with Kinzhal missiles were dispatched from Soltsy Air Base, Novgorod Oblast, to Chernyakhovsk Naval Air Base in Russia's western Kaliningrad exclave. Russia's Aerospace Force launched Kinzhal missiles on 19 February 2022.
+Vladimir Putin ordered the Russian Aerospace Forces to begin permanent patrols over the Black Sea region with MiG-31K aircraft armed with Kinzhal missiles on 18 October 2023. Russian sources stated that these missiles have received the capability of mid-flight re-targeting.
+
+
+=== Russian invasion of Ukraine ===
+
+During the Russian invasion of Ukraine, the Russian military claimed to have used Kinzhal missiles to destroy an alleged underground weapons depot of the Ukrainian armed forces in Deliatyn on 18 March 2022, followed by a fuel depot in Konstantinovka the next day. When asked about the use of these missiles, U.S. president Joe Biden noted that it was a significant weapon, but ultimately had the same warhead as any other missile, which is difficult to defend against.
+Subsequent reports suggest that the Kinzhal missiles were used again on 11 April, while on 9 May, Russian Tu-22 aircraft launched three Kinzhal-type missiles at targets in the port city of Odesa. In another development, three MiG-31K fighter aircraft equipped with Kinzhal hypersonic missiles were redeployed to the Chkalovsk airfield in the Kaliningrad Region on 18 August 2022.
+On 26 January 2023, the Ukrainian Air Force reported that 55 missiles, including a Kh-47 Kinzhal hypersonic missile, and 24 Shahed-136 drones had been fired at targets in Ukraine. The Ukrainian Air Force said that they were able to shoot down all of the drones and 47 of the missiles. One person was killed and two others were injured when an apartment block in the Holosiiv district was hit during the attack.
+On 9 March 2023, Ukrainian cities were hit with a barrage of 84 missiles, including 6 Kinzhals—the largest use of these missiles to date.
+On 4 May 2023 at about 2:40 AM over Kyiv, one Kh-47M2 missile was said to be shot down by the Ukrainian air defense forces using a MIM-104 Patriot missile defence system. According to CNN, the Patriot system's ability to stop an air-launched hypersonic missile was considered to be only theoretical before the claimed interception. On 9 May 2023, Patrick S. Ryder, a Pentagon spokesman, confirmed that Ukraine downed the hypersonic missile. On 10 May 2023, Vitali Klitschko showed fragments of the alleged downed Kinzhal missile for Bild journalists in Kyiv. Russian media alleged that the fragments closely resembled the concrete-piercing BETAB-500ShP aerial bomb.
+On 16 May 2023, Ukraine said that they had intercepted six Kinzhal missiles fired at Kyiv overnight; Russian defense minister Sergei Shoigu denied the Ukrainian claims, stating that less than six missiles had been launched. The Russian Defense Ministry claimed to have destroyed a US-built Patriot surface-to-air missile defense system with a Kinzhal missile the same night. US officials confirmed that the Patriot system was damaged, but stated that the damage was minimal and that the battery has been fully operational after minor repairs. Neither the US nor Ukrainian officials confirmed whether the damage was due to falling debris or another cause.
+The Ukrainian Patriot operator that intercepted the Kinzhal missile launched on 4 May 2023 claimed that the missile travelled only at approximately 1,240 m/s (Mach 3.6), which is about one-third of the maximum speed claimed by Russia and that consequently for the subsequent attack "it was just a matter of getting on with the job".
+According to a report by the US Defense Intelligence Agency, Russia upgraded 9K720 Iskander and Kh-47M2 Kinzhal missiles with a terminal phase maneuvering capability in spring 2025 in order to bypass Ukraine's Patriot systems. A Financial Times article from October 2025 said, citing current and former Ukrainian and Western officials, that interception rates dropped from 37% in August to 6% in September, allowing Russia to seriously damage key military sites, four drone plants, and critical infrastructure ahead of the winter.
+According to classified documents, Russia ordered 44 missiles in 2024 and 144 missiles in 2025.
+
+
+== Operators ==
+ Russia
+Russian Aerospace Forces
+
+
+== See also ==
+AGM-183 ARRW – U.S. Air Force prototype missile
+Avangard (hypersonic glide vehicle) – Russian missile
+9K720 Iskander – Russian short-range ballistic missile
+3M22 Zircon – Russian hypersonic anti-ship missile
+Kh-22 – Soviet anti-ship missile
+YJ-21
+Rudram-II ASM – Indian anti-radiation, air to surface missile system
+
+
+== References ==
+
+
+== External links ==
+
+Kh-47M2 Kinzhal

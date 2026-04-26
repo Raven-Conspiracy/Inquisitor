@@ -1,0 +1,2994 @@
+CUI 
+CUI 
+ 
+Navy Warfare Publication 3 
+Fleet Warfare 
+March 2021 
+  
+
+ 
+ 
+ 
+  
+
+
+ 
+ 
+FOREWORD 
+The United States Navy provides sea power for the security and prosperity of our 
+nation. Sea power is the influence exerted by our ability to impose conditions 
+from, and within, the maritime domain in support of our national objectives. Our 
+sea power is founded upon our demonstrated ability to prevail in fleet warfare. 
+Fleet warfare—the conflict between naval forces for freedom of action 
+throughout the maritime domain—is an infrequent, but epochal, event. It is often 
+the culmination of years of competition between strategic adversaries that have 
+made national investments to develop viable fleet capabilities. Given the 
+immense resources required to develop sea power on a global, or even regional 
+scale, fleet capability lost in combat can be nearly impossible to recover in a 
+strategically relevant time frame. History demonstrates that when you lose the 
+ability to contest at sea, you lose the sea, save for the benevolence of the victors. 
+The effects resulting from naval battles and campaigns can last decades. 
+Navy Warfare Publication (NWP) 3, Fleet Warfare, provides the doctrinal 
+framework for Navy warfare at the operational level of warfare (OLW). NWP 3 
+is the first in a series of planned single-digit publications focused on fleet warfare 
+at the OLW, that conceptual arena where tactical activity is orchestrated for 
+strategic effect. Like all doctrine publications, NWP 3 is authoritative but not 
+prescriptive, and requires judgment in application. 
+Written to answer the Chief of Naval Operations’ call to “Master Fleet Level 
+Warfare” by addressing doctrinal gaps at the OLW, NWP 3 serves to standardize, 
+align, and focus individual and collective understanding and efforts of numbered 
+fleet and component command staffs and commanders working at the OLW. 
+Our ability to prevail in fleet warfare is the foundation of our nation’s sea power. 
+It requires our relentless focus. 
+        ______________             _________________             ________________ 
+           R. P. BURKE                       J. C. AQUILINO               C. W. GRADY 
+       Admiral, U.S. Navy             Admiral, U.S. Navy          Admiral, U.S. Navy 
+  Commander, U.S. Naval              Commander, U.S.       Commander, U.S. Fleet 
+    Forces Europe/Africa                     Pacific Fleet                Forces Command 
+
+ 
+ 
+Table of Contents 
+I. Fleet Warfare 
+INTRODUCTION .............................................................................................. 1 
+THE ARCHITECTURE OF NAVAL WARFARE ............................................ 2 
+FLEET WARFARE ............................................................................................ 4 
+THE CHANGING CHARACTER OF FLEET WARFARE .............................. 6 
+FLEET WARFARE AND GREAT POWER COMPETITION ......................... 9 
+KEY POINTS ................................................................................................... 11 
+II. The Operational Level of Fleet Warfare 
+LEVELS OF WARFARE ................................................................................. 13 
+o Campaigns and the OLW ..................................................................... 15 
+OPERATIONAL FRAMEWORK .................................................................... 16 
+OPERATIONAL CONCEPT............................................................................ 18 
+CAMPAIGNS ................................................................................................... 21 
+KEY POINTS ................................................................................................... 24 
+III. Operational Art and Design 
+OPERATIONAL ART ...................................................................................... 27 
+o Political Objective ................................................................................ 29 
+o Nature of the Joint Campaign .............................................................. 29 
+o Operational Centers of Gravity ............................................................ 31 
+o Fleet Warfare Resources ...................................................................... 33 
+ Capabilities .................................................................................... 33 
+ Logistics ........................................................................................ 35 
+ Command ...................................................................................... 36 
+o Concept of the Enemy .......................................................................... 37 
+o Calculated Risk .................................................................................... 39 
+OPERATIONAL DESIGN ............................................................................... 39 
+o Enemy Capability and Enemy Will...................................................... 40 
+o Annihilation and Erosion Strategies .................................................... 41 
+o Sequential and Cumulative Campaigns ............................................... 41 
+o Direct and Indirect Approaches ........................................................... 42 
+KEY POINTS ................................................................................................... 44 
+IV. Organization, Command and Control, and Fleet Warfare 
+ORGANIZATION ............................................................................................ 45 
+o Component Commands, Numbered Fleets, and the Operational 
+Level of Warfare .................................................................................. 45 
+o Notional Naval Operational Chain of Command ................................. 47 
+o Current Navy Fleet Operational Chains of Command ......................... 47 
+
+ 
+ 
+COMMAND AND CONTROL ........................................................................ 49 
+o Mission Command ............................................................................... 51 
+o Commander’s Intent ............................................................................. 52 
+o Command and Control in a Denied or Degraded Environment ........... 53 
+KEY POINTS ................................................................................................... 54 
+Appendix A. Fleet Command in Fleet Warfare 
+TIME LINE ....................................................................................................... 56 
+o Prelude to Battle ................................................................................... 56 
+DISCUSSION ................................................................................................... 69 
+o Strategy ................................................................................................ 70 
+o Campaigns ............................................................................................ 71 
+o Operational Objectives ......................................................................... 72 
+o Operational Environment ..................................................................... 72 
+o Navy Planning Process ......................................................................... 74 
+o Commander’s Intent ............................................................................. 74 
+o Mission Command ............................................................................... 75 
+o Decision Making .................................................................................. 76 
+o Assessment ........................................................................................... 77 
+CONCLUSION ................................................................................................. 79 
+References 
+List of Acronyms and Abbreviations 
+  
+
+ 
+ 
+List of Figures 
+I. Fleet Warfare 
+Figure 1-1. The Architecture of Naval Warfare ............................................. 3 
+Figure 1-2. Navy Warfare Framework ........................................................... 5 
+II. The Operational Level of Fleet Warfare 
+Figure 2-1. Levels of Warfare ...................................................................... 14 
+III. Operational Art and Design 
+Figure 3-1. A Conceptual Framework to Integrate Ends, Ways, Means, 
+and Risk Within the Operational Art Process ............................ 28 
+Figure 3-2. Objectives Within Operational Art: Integrating Intent, Ends, 
+Ways, Means, Risk ..................................................................... 43 
+IV. Organization, Command and Control, and Fleet Warfare 
+Figure 4-1. Navy Component and Numbered Fleet Commander Roles 
+and Responsibilities Within the Joint Force ............................... 46 
+Figure 4-2. Current Navy Fleet Operational Chains of Command ............... 48 
+Appendix A. Fleet Command in Fleet Warfare 
+Figure A-1. Fifth Fleet Movements, Pearl Harbor to Saipan,  
+May–June 1944 ......................................................................... 58 
+Figure A-2. Days Leading up to the Battle of the Philippine Sea,  
+13–17 June, 1944 ...................................................................... 61 
+Figure A-3. ADM Spruance’s Decision on the Eve of Battle,  
+19 June, 1944 ............................................................................ 65 
+ 
+
+Fleet Warfare 
+NWP 3 1 
+I 
+Fleet Warfare 
+INTRODUCTION 
+NWP 3 provides the doctrinal foundation for fleet warfare at the operational level 
+of warfare (OLW).  
+Chapter I outlines the architecture of naval warfare, doctrinally defines fleet 
+warfare, and discusses how advancing technology and a shifting geopolitical 
+environment shape our approach to fleet warfare.  
+Chapter II reviews the levels of warfare construct, provides an operational 
+framework within the maritime domain, identifies naval combat processes that 
+underpin our operational concept, and distinguishes campaigns inherent in fleet 
+warfare.  
+Chapter III provides elements of operational art and design for consideration in 
+the orchestration of tactical activity for strategic success, the sole objective of the 
+OLW. 
+Chapter IV provides insight regarding organization and command and control 
+(C2) as they pertain to fleet warfare. 
+Appendix A is a case study of the Battle of the Philippine Sea that highlights 
+timeless lessons regarding the complexities and ambiguities inherent in fleet 
+warfare. 
+NWP 3 serves to standardize, align, and focus individual and collective 
+understanding and efforts of numbered fleet and component command staffs 
+working at the OLW to prepare for and, when necessary, engage in fleet warfare. 
+  
+
+Fleet Warfare 
+2 NWP 3 
+THE ARCHITECTURE OF NAVAL WARFARE 
+The United States Navy provides sea power for the security and prosperity of our 
+nation. 
+The Navy does this, implicitly in peace, explicitly in war, by establishing, 
+maintaining, or executing naval functions, namely sea control, power projection, 
+deterrence, maritime security, and sealift.1 Periodically, other functions may be 
+required based on the circumstances of the strategic situation, but our nation has 
+historically relied upon these five functions to protect and defend national 
+interests in peace and war. They are the functions required to achieve and enable 
+strategic effects; they are objectives at the OLW. The collective achievement of 
+these functions leads to maritime superiority, that degree of dominance of one 
+force over another that permits the conduct of maritime operations by the former, 
+and its related land, maritime, and air forces at a given time and place without 
+prohibitive interference by the latter.  
+Naval warfare areas—air warfare, air/missile defense, expeditionary warfare, 
+information warfare, strike warfare, surface warfare, and undersea warfare—are 
+the means by which the Navy achieves its operational objectives.  
+In short, naval functions are “what” the Navy does; warfare areas are “how” the 
+Navy does it. In fleet warfare, naval forces win battles at the tactical level of 
+warfare (TLW) in pursuit of functional or maritime superiority at the operational 
+level. This, in turn, enables or creates strategic effects. Figure 1-1 depicts these 
+relationships using an ends, ways, and means construct.  
+The Navy, United States Marine Corps, and the United States Coast Guard 
+collectively form the nation’s Naval Service.2 The Naval Service provides 
+integrated, complementary, and unique capabilities throughout the maritime 
+domain to achieve national interests. We recognize, leverage, and rely upon the 
+capabilities that each brings to bear within the context of naval and joint 
+operations. Within the Naval Service, the Navy has the clear and fundamental 
+responsibility to control the seas, thereby enabling all other naval functions and 
+empowering the joint force. Fleet warfare is the highest expression of our 
+responsibility to our nation and our citizens in fulfilling that mandate.  
+                                                           
+1 Naval Doctrine Publication (NDP) 1, Naval Warfare. 
+2 Per Title 10, United States Code (U.S.C.) §101, and Title 14 U.S.C. §1-3, the Coast Guard is “a military 
+service and a branch of the armed forces of the United States at all times.” The Coast Guard may, at any time, 
+provide forces and/or perform its military functions in support of naval component or combatant 
+commanders. The Coast Guard is also, at all times, a Federal maritime law enforcement agency.” 
+
+Fleet Warfare 
+NWP 3 3 
+Our fleet will be a potent, formidable force that competes around the world 
+every day, deterring those who would challenge us while reassuring our 
+allies and partners. Joining with the Marine Corps, we will deliver decisive 
+integrated all-domain naval power when called. 
+ADM Michael Gilday, Chief of Naval Operations 
+ 
+ 
+Figure 1-1. The Architecture of Naval Warfare. This figure depicts the ends, 
+ways, and means relationship among naval forces, warfare areas, naval functions and 
+strategic objectives. Commanders working at the OLW align means (tactical excellence 
+across warfare areas),3 ways (C2, operational art, operational design), and ends 
+(execution of naval functions) in orchestrating tactical activity to achieve functional or 
+maritime superiority for strategic effect. 
+  
+                                                           
+3 Defined as integrated all-domain naval power in Advantage at Sea, Prevailing with Integrated All-Domain 
+Naval Power, December, 2020. 
+
+
+Fleet Warfare 
+4 NWP 3 
+FLEET WARFARE 
+Fleet warfare is the conflict between naval forces for freedom of action 
+throughout the maritime domain. At its core, it is a competition for sea control. 
+Fleet warfare establishes, maintains, and exploits maritime superiority in support 
+of strategic objectives. Whether achieved through a single “Mahan-esque” 
+decisive fleet battle or a protracted war of episodic engagements, naval 
+campaigns ultimately enable our ability to control the sea, wherever and 
+whenever needed.4 
+Successful fleet warfare achieves sea control to protect lines of communication; 
+enable power projection; permit the seaborne delivery of required resources; and 
+deter, restrict, or deny the use of the maritime domain by the enemy. These 
+operational objectives are necessary to create desired strategic effects. A variety 
+of factors and circumstance will determine the ways in which naval functions are 
+accomplished and coordinated in fleet warfare, but the baseline requirement is 
+unambiguous, sea control is the bedrock of sea power. Figure 1-2 depicts these 
+relationships across levels of warfare.  
+The Navy provides warfighting capabilities to the joint force commander (JFC) 
+as part of a joint force that operates in all domains. Fundamentally, however, 
+freedom of action in the maritime domain is the Navy’s greatest contribution to 
+the joint team. 
+For a maritime power at least it is obvious that this must be so: for in any 
+circumstances it is impossible for such a power either to establish its 
+defense or develop fully its offense without securing a working control of 
+the seas without aggressive action against the enemy’s fleets. 
+Julian Corbett 
+Some Principles of Maritime Strategy 
+  
+                                                           
+4 RADM Alfred Thayer Mahan proposed that control of the sea’s communications could be obtained through 
+naval battles between large-scale ships that resulted in a decisive and clear-cut victory, which came to be 
+known as the “decisive battle.” B.H. Liddell Hart, among others, evolved thinking of the decisive battle: 
+“Under the new conditions of warfare, the cumulative effect of partial success, or even threat, at a number 
+of points may be greater than the effect of complete success at one point.” Hart, B.H. Liddell. Strategy, 
+Penguin Books, 1991, p. 333. 
+
+Fleet Warfare 
+NWP 3 5 
+ 
+Figure 1-2. Navy Warfare Framework. This chart depicts the relationships between 
+the naval products of each level of warfare. Combat readiness at the unit level enables 
+warfighting excellence at the tactical level, which in turn generates sea power at the 
+operational level, which is used to create effects at the strategic level. Fundamental among 
+them is free and open access and usage of the seas necessary for our nation to flourish in 
+peace and prevail in war. Responsibilities, functions, and warfare areas, and 
+characteristics aligning with each level of warfare are listed alongside. Mission command, 
+enabled by commander’s intent, is the command philosophy of the Navy throughout all 
+levels of warfare.  
+  
+
+
+Fleet Warfare 
+6 NWP 3 
+THE CHANGING CHARACTER OF FLEET WARFARE 
+People’s Republic of China (PRC) White Paper:  
+China’s National Defense in the New Era, July 2019 
+Driven by the new round of technological and industrial revolution, the 
+application of cutting-edge technologies such as artificial intelligence (AI), 
+quantum information, big data, cloud computing and the Internet of 
+Things is gathering pace in the military field. International military 
+competition is undergoing historic changes. New and high-tech military 
+technologies based on IT are developing rapidly. There is a prevailing 
+trend to develop long-range precision, intelligent, stealthy or unmanned 
+weaponry and equipment. War is evolving in form towards 
+informationized [sic] warfare, and intelligent warfare is on the horizon.5 
+The State Council Information Office of the People’s Republic of China 
+Advances in technology have always changed the character of warfare. 
+Historically, new capabilities enabled by those advances required adaptations in 
+tactics and C2 constructs to fully realize their warfighting potential. The 
+technological enhancements of our time are redefining warfare in the maritime 
+domain, and accordingly, mandate a reconsideration of fleet tactics and a mastery 
+of fleet level warfare.6 
+Warfighting capabilities—naval, joint, and national—are increasingly 
+interdependent on integration between multiple commanders. Furthermore, with 
+the advent of long-range precision weapons, short reaction times, and complex 
+intelligence, surveillance, reconnaissance, and targeting (ISRT), the scope of the 
+threat arranged against our forces means that no single element of the naval or 
+joint force can survive and prevail alone. Capabilities of sensors and weapons 
+continue to increase and extend across oceanic distances. The promise of directed 
+energy, hypersonics, man-machine teaming, ubiquitous unmanned entities, and 
+artificial intelligence all suggest that the pace of change will only accelerate in 
+the future. 
+To fully leverage technological advances and counter associated threats, 
+commanders must increasingly integrate their awareness, authorities, and 
+arsenals to fight as one—to fight as a fleet. 
+                                                           
+5 The State Council Information Office of the People’s Republic of China July 2019, 
+http://english.www.gov.cn/archive/whitepaper/201907/24/content_WS5d3941ddc6d08408f502283d.html. 
+6 CNO Fragmentary Order (FRAGO) 01/2019, A Design for Maintaining Maritime Superiority, highlights the 
+need and directs the Navy to master fleet-level warfare to increase our warfighting capability. Dec 2019, p. 3. 
+
+Fleet Warfare 
+NWP 3 7 
+Technological advances require new tactics and C2 
+constructs to maximize warfighting effectiveness. 
+The installation of radar on warships, including destroyers, during the 
+1942 Guadalcanal campaign did not lead to initial tactical success, 
+despite the advantages the technology provided.7 
+“In past battles such as Tassafaronga, destroyer commanders experienced 
+delays in getting approval to launch torpedoes that ruined their targeting 
+solutions and negated the effects of any torpedoes the ships eventually fired. 
+Also, the cruisers with which the destroyers were grouped usually started firing 
+as soon as they detected the enemy on their radars, giving away the position 
+of the task force and removing the element of surprise needed for a successful 
+torpedo attack. Night surface battles unfolded quickly and by the time 
+destroyer commanders got permission from the task force commander to 
+launch torpedoes, the optimal moment had passed. Operating separately and 
+with authority to fire torpedoes, destroyers could range in front of the cruiser 
+line, launch a devastating surprise torpedo attack, and then maneuver to 
+assist the cruisers as they opened fire with their guns. However, such 
+independence ran counter to the common wisdom of the time.”8 
+It was not until a destroyer squadron commodore, CAPT Arleigh Burke, 
+proposed re-arranging the traditional line of battle, moving torpedo-firing 
+destroyers to the vanguard, and obtained mission command authority to 
+engage independently upon radar contact, that U.S. warships were able 
+to take advantage of the promise of new radar technology to defeat the 
+Japanese in night surface action.9 
+  
+                                                           
+7 See James D. Hornfischer’s Neptune’s Inferno, Chapter 7, The Martyring of Task Group 62.6, for a riveting 
+account of the costs of failing to tactically innovate. 
+8 Spence, Johnny Hampton. South Pacific Destroyers: The United States Navy and the Challenges of Night 
+Surface Combat in the Solomons Islands during World War II. (2009). Electronic Theses and Dissertations. 
+Paper 1865. https://dc.etsu.edu/etd/1865. 
+9 “At the Battle of Empress Augusta Bay, on board the USS Charles Ausburne (DD-570) at the van of the 
+formation, Burke gained radar contact, immediately seized the initiative, and went on the offensive before the 
+enemy knew the Little Beavers (ships of Destroyer Squadron 23) were there. The battle resulted in two Imperial 
+Japanese Navy ships sunk, four degraded by collisions as they flailed in reaction to the attack, and an overall 
+retreat. The 10-second advantage was perfected by Burke’s squadron at the Battle of Cape St. George, which 
+occurred deep in enemy waters on Thanksgiving Day, 1943. The squadron destroyed three enemy ships, 
+damaged another, and suffered no losses of their own.” CAPT William Daly, Ten Seconds to Live or Die, 
+Proceedings, December 2018, Vol. 144/12/1,390. 
+
+Fleet Warfare 
+8 NWP 3 
+To maintain a warfighting advantage over adversaries and effectively employ our 
+growing suite of capabilities we must master fleet level warfare. Consolidating 
+warfighting at the fleet level enables the synthesis of new capabilities, C2, and tactics 
+to maximize naval power at the tactical level. The numbered fleet commander (NFC) 
+can integrate fleet and joint capabilities (e.g., space, cyberspace, electromagnetic 
+battle space (EMBS),10 joint fires, aerial refueling, surveillance, logistics, special 
+operations forces) into tactical operations, employing naval power in a holistic 
+manner across platforms and domains without regard to traditional platform or 
+organizational boundaries.11  
+Consolidating warfighting at the fleet level does not elevate fighting to the OLW; 
+rather it maximizes naval power necessary for victory at the TLW. 
+Synthesizing naval power at the fleet level is a natural evolution required by the 
+expansion of sensor and weapon system capabilities in an era of information, 
+missile, and robotics warfare—an era characterized by increased operational 
+reach and precision, pervasive ISRT, and the continued introduction and 
+improvement of new technologies. Fleet warfare in this accelerated and 
+technologically enhanced age requires the expansion of tactical awareness––and 
+intensity—beyond isolated deployed forces, to encompass entire fleets.  
+Fleet warfare requires the integration of capabilities inherent within multiple 
+distributed tactical forces with the broader capabilities accessible by NFCs and 
+their maritime operations centers (MOCs). Tactical success will increasingly rely 
+on a MOC’s ability to integrate interfleet, joint, multinational, and national 
+capabilities in a manner that can contribute to the tactical fight in a time-sensitive 
+environment. ADM Arleigh Burke’s famous admonition at the commissioning 
+of his namesake destroyer, “This ship was built to fight. You had better know 
+how!” is appropriate to the larger MOC and fleet audience whose staffing skills 
+and collaborative preparation must combine with warfighting acumen to deliver 
+capabilities within the speed required of today’s, and tomorrow’s, naval battle. 
+In prosecuting fleet warfare, the MOC has two responsibilities: deliver 
+capabilities to our naval forces and create effects against their opponents. 
+Thus, the changing character of naval warfare requires the synthesis of naval 
+power at the fleet level. A fleet-centric approach is required to ensure our 
+freedom of action throughout the maritime domain. 
+                                                           
+10 Secretary of the Navy (SECNAV) Instruction 2400.3, Electromagnetic Battle Space, specifies: “The DON 
+shall: (1) Recognize the EMBS as the operational battle space comprised of all electromagnetic radiation 
+used by military forces; (2) Strive to achieve and maintain EMBS superiority in order to accomplish its 
+warfighting mission.” 
+11 Commander, United States Fleet Forces Command, Fleet Design, 8 Jan 2017. 
+
+Fleet Warfare 
+NWP 3 9 
+The speed of warfare in a technologically enhanced environment will challenge 
+in-stride opportunities for adaptation of fleet tactics. Thus, time must be sourced 
+to experiment and train to fight as a fleet … a difficult challenge given the many 
+and competing demands of operational and maintenance schedules, and one that 
+is only increased by the accelerating pace of change. Nonetheless, fleet-level 
+exercises are necessary, both to prepare for fleet warfare at the high end of the 
+competition continuum, and demonstrate our capabilities lower on the scale to 
+influence and deter adversaries from escalating to such extremes. 
+Though the character of fleet warfare will inexorably change, the objectives 
+remain the same. Fleet will engage fleet—in some form—to battle for sea control 
+required to create strategic effects.  
+FLEET WARFARE AND GREAT POWER COMPETITION 
+PRC White Paper: China’s National Defense in the New Era 
+July 2019 
+“International strategic competition is on the rise. The US has adjusted its 
+national security and defense strategies and adopted unilateral policies. It 
+has provoked and intensified competition among major countries, 
+significantly increased its defense expenditure, pushed for additional 
+capacity in nuclear, outer space, cyber and missile defense, and 
+undermined global strategic stability … In line with the strategic 
+requirements of near seas defense and far seas protection, the PLAN is 
+speeding up the transition of its tasks from defense on the near seas to 
+protection missions on the far seas, and improving its capabilities for 
+strategic deterrence and counterattack, maritime maneuver operations, 
+maritime joint operations, comprehensive defense, and integrated support, 
+so as to build a strong and modernized naval force.”12 
+The State Council Information Office of the People’s Republic of China 
+Great power competition (GPC) is a recurring, though episodic, condition 
+throughout history, “great” being a relative term, not absolute. Though there is 
+no single, acknowledged definition of GPC, it is suitable here to consider it as 
+the condition where two or more nations have exceptional capabilities that enable 
+relatively unconstrained pursuit of their national objectives, save for the 
+capabilities of the other “great” powers.  
+                                                           
+12 The State Council Information Office of the People’s Republic of China July 2019, Available at: 
+http://english.www.gov.cn/archive/whitepaper/201907/24/content_WS5d3941ddc6d08408f502283d.html. 
+
+Fleet Warfare 
+10 NWP 3 
+For the purposes of fleet warfare, GPC means that other nations can generate 
+capabilities that are sufficiently massed, masked, and/or advanced to prevent our 
+freedom of action in the maritime domain.  
+Warfare against an enemy of such resource and reach will require the Navy to 
+operate as a globally unified force, orchestrating naval power in a manner that 
+overcomes geographic, organizational, and administrative boundaries. It will 
+require that commanders align, share, and synchronize assets, capabilities, 
+operations, and understanding across the globe while balancing challenges 
+unique to their regional theaters. Fleet warfare will require the holistic, integrated 
+application of distributed naval power across an entire fleet, working in concert 
+with other fleets in other operational areas to confound, dislocate, and defeat our 
+enemies. Campaigns must account for fleet warfare on a global scale, and form 
+an integrated, coherent unity of purpose, effort, and effect across the naval, joint, 
+and likely coalition force.  
+Fleet warfare in an era of GPC requires integrated and distributed multifleet 
+operations on a global level.  
+U.S. Naval Operations, 1983 
+Instead of choke point barriers and convoys, the Soviets now faced 
+offensive naval strike forces off all their major naval bases. Instead of 
+scripted exercises and stale scenarios, the Soviets now faced imaginative 
+new U.S. and allied operational concepts and tactics. And instead of a 
+western naval posture centered on resupply of armies in Germany, the 
+Soviets now had to face major concentrations of naval power in the 
+Norwegian Sea, northern Norway, the eastern Mediterranean, and the 
+Arctic and western Pacific Oceans—while America’s allies expanded their 
+own roles in protecting sea-lanes. 
+John Lehman 
+Oceans Ventured 
+  
+
+Fleet Warfare 
+NWP 3 11 
+KEY POINTS 
+ The Navy executes five naval functions—sea control, power projection, 
+deterrence, maritime security, sealift—to achieve and enable operational and 
+strategic objectives.  
+ The Navy’s warfare areas—air warfare, air/missile defense, expeditionary 
+warfare, information warfare, strike warfare, surface warfare, undersea 
+warfare—are the means by which the Navy accomplishes those functions 
+and achieves its operational objectives.  
+ Fleet warfare is the conflict between naval forces for freedom of action 
+throughout the maritime domain. At its core, it is a competition for sea 
+control. 
+ The Navy fights as part of a joint force that operates in all domains. Freedom 
+of action in the maritime domain is the Navy’s greatest contribution to the 
+joint team. This fight requires working with other Department of Defense 
+and intelligence agencies who have a stake in our warfare areas. 
+ Consolidating warfighting at the fleet level enables the synthesis of new 
+capabilities, C2, and tactics to maximize naval power at the tactical level. 
+This does not elevate fighting to the OLW; rather it maximizes naval power 
+necessary for victory at the TLW. 
+ Warfare against an enemy of resource and reach will require our Navy to 
+operate as a globally unified force, orchestrating naval power in a manner 
+that overcomes geographic, organizational, and administrative boundaries. 
+ The changing character of naval warfare requires the synthesis of naval 
+power at the fleet level. Fleet warfare against a peer competitor requires 
+integrated and distributed multifleet operations on a global level. 
+  
+
+Fleet Warfare 
+12 NWP 3 
+ 
+INTENTIONALLY BLANK 
+ 
+
+The Operational Level of Fleet Warfare 
+NWP 3 13 
+II 
+The Operational Level of Fleet 
+Warfare 
+LEVELS OF WARFARE 
+National strategic objectives are determined at the strategic level of warfare (SLW). 
+The SLW is the level of warfare at which a nation determines national or 
+multinational guidance, develops strategic objectives, then develops and commits 
+national resources to achieve those objectives. The President of the United States, 
+aided by the cabinet and national security team, and the Congress, set those 
+objectives. Combatant commanders (CCDRs) work at the SLW as they directly 
+support civilian leadership by identifying military end states and developing the 
+theater strategy for their area of responsibility. 
+The OLW is the level of warfare in which campaigns and operations are planned, 
+conducted, and sustained to achieve operational objectives to support achievement 
+of strategic objectives. The OLW links the tactical employment of forces to national 
+strategic objectives.13 CCDRs lead military operations at the OLW, and Navy or joint 
+force maritime component commanders (JFMCCs) support that work to determine 
+operational objectives, develop campaign and operation plans (OPLANs) and 
+determine the where, when, and purpose of major force deployments. 
+The TLW is the level of warfare at which forces plan and execute battles and 
+engagements to achieve military objectives. Battles are always tactical, though 
+their outcomes may have operational or strategic effects. NFCs work at the TLW 
+as they execute theater strategy with assigned and available forces and engage 
+the enemy in battle.14 Figure 2-1 depicts the relationship between these 
+conceptual arenas.  
+                                                           
+13 Doctrine historically identified strategy and logistics as the twin linkages between national policy and 
+tactical action, but detailed study has broadened that perspective to focus the OLW on campaigning to 
+achieve operational and strategic objectives. 
+14 Several NFCs are dual-hatted as component commanders, and all could be assigned as a JFMCC. In these 
+multirole situations, NFCs still work at the TLW to employ assigned forces and engage the enemy, and 
+separately, in their component commander role, work at the OLW to develop and sustain campaigns and 
+operations. Chapter IV provides additional discussion. 
+
+The Operational Level of Fleet Warfare 
+14 NWP 3 
+ 
+Figure 2-1. Levels of Warfare. While the various forms and methods of warfare are 
+ultimately expressed in concrete military action, the three levels of warfare—strategic, 
+operational, and tactical—link tactical actions to achievement of national objectives. There 
+are no finite limits or boundaries between these levels, but they help commanders design 
+and synchronize operations, allocate resources, and assign tasks to the appropriate 
+command. The strategic, operational, or tactical purpose of employment depends on the 
+nature of the objective, mission, or task. 
+In naval warfare, levels of warfare are often compressed. The significant investment 
+required to achieve capability at sea—in terms of money, manning, technology, and 
+time—means that once a fleet is significantly degraded or lost, it is nearly impossible 
+to recover in a strategically relevant time frame. Thus, the impacts of fleet action are 
+often magnified into strategic level effects. History has many examples where 
+tactical battle led to strategic results. The Battle of Trafalgar, where Admiral Horatio 
+Nelson’s tactical victory saved Great Britain from the strategic peril of invasion from 
+France, and the Battle of the Virginia Capes, where French victory prevented 
+resupply of British troops in Yorktown, leading to American independence, are two 
+such examples.  
+
+
+The Operational Level of Fleet Warfare 
+NWP 3 15 
+The combat comprising the Battle of Midway was only a few hours long, yet the 
+results of that battle changed the course of the war in the Pacific.15 A case could 
+be made that it also influenced the outcome in Europe, in that the enhanced 
+political clout garnered by President Franklin D. Roosevelt from the victory 
+aided the execution of a “Europe first” policy.  
+Campaigns and the OLW 
+The principal tool used within the OLW to pursue the conditions that will achieve 
+strategic objectives is the campaign. A campaign is a series of related operations, 
+activities, and investments aimed at achieving operational and strategic 
+objectives within a given time and space. A campaign plan is a joint OPLAN for 
+a series of related major operations aimed at achieving strategic or operational 
+objectives within a given time and space. When building and executing the 
+military campaign/major OPLAN, commanders must ensure military actions are 
+synchronized with those of other government and nongovernmental agencies and 
+organizations, together with international partners, in order to achieve national 
+strategic objectives.  
+Major operations are a series of tactical actions conducted by combat forces, 
+coordinated in time and place, to achieve strategic or operational objectives in an 
+operational area. 
+OLW activity to develop campaigns and operations is distinct from TLW activity 
+required to win in combat. They align through a continuum of planning and 
+merge at the point of battle, as the results of tactical engagement affect 
+subsequent operational plans. 
+Winning in battle is the height of tactical excellence. Fighting the right battles is 
+the height of operational excellence. Prevailing in fleet warfare requires both.  
+  
+                                                           
+15 Fleet warfare is an infrequent event, as a result of typically slow evolution of the geostrategic environment 
+and the enormous national investment required to develop viable fleet capability. Thus, fleet warfare 
+between peer competitors occurs rarely, and the duration of its effects is measured in terms of years and 
+decades. Though the Battle of Midway occurred over 75 years ago, it is among the most recent of fleet 
+warfare examples upon which to draw. 
+
+The Operational Level of Fleet Warfare 
+16 NWP 3 
+At the OLW, the focus is on campaigns to establish naval 
+functional superiority that will have the greatest strategic effect. 
+The naval campaigns of World War II were operational-level efforts to restore 
+functional primacy in support of theater and strategic imperatives. In the 
+Pacific, operational objectives entailed expanding our sea control to the point 
+where we could directly project joint power onto the Japanese homeland 
+weakened by a concurrent sea denial campaign against their economy. A 
+two-pronged leapfrog advance of sea control and power projection along an 
+axis of central Pacific Islands and the Southwest Pacific to the Philippines 
+ultimately enabled direct power projection onto the Japanese mainland. 
+Nationwide deprivation from destruction of the enemy’s merchant shipping by 
+U.S. submarines coupled with a bombing campaign originating from air bases 
+captured from the sea brought about the end of the war in the Pacific, a 
+strategic result made possible through multiyear operational campaigns to 
+expand and exploit our sea control throughout the Pacific. 
+In the Atlantic, the operational objective entailed the establishment of 
+sufficient sea control in order to deliver enough combat power to embark 
+upon and sustain a land war in Europe (sea control in support of sealift 
+in further support of joint power projection). A multifaceted campaign to 
+include new tactics and technologies beat back the German submarine 
+threat and enabled the delivery of forces and equipment to enable power 
+projection across the European continent. Victory followed an inspiring 
+and grueling land campaign to the gates of Berlin—a strategic victory 
+that would not have been possible without the achievement of the 
+operational objectives of sea control and sealift. 
+OPERATIONAL FRAMEWORK  
+Geography is the bones of strategy. 
+Theodore Ropp 
+War in the Modern World 
+For warfighting purposes, the primary value of the maritime domain stems from 
+its utility as a maneuver space. Three factors fundamentally influence maneuver 
+throughout the maritime domain, and accordingly shape tactics and strategy 
+relevant to fleet warfare.  
+The first factor is geography. The coastlines of continents, the vastness of the 
+oceans, climatic conditions, and key maritime terrain—choke points, harbors, 
+islands, hydrographic features—constrain and define movement through the 
+maritime domain.  
+
+The Operational Level of Fleet Warfare 
+NWP 3 17 
+The second factor is sea lines of communication (SLOCs) that result from the 
+vagaries of geography. SLOCs are direct routes across and among geographic 
+and human-generated features enabling efficient and expeditious transit through 
+the maritime environment.16 SLOCs also refer in general terms to the ability to 
+move goods, resources, or forces by any route through the maritime domain.  
+The third factor is the operational reach of the enemy. There are two traditional 
+forms of reach, land-based and sea-based. Land-based capabilities (e.g., shore 
+batteries, C2 jammers, missiles, aircraft) can influence the maneuverability of 
+opponents out to a defined limit. Depending on the quality of their naval forces, 
+enemy seaborne capabilities have no such limits, and can maneuver within the 
+constraints of geography and the limits of a countereffort to prevent them. The 
+evolution of space, cyberspace, and electromagnetic battlespace capabilities 
+increasingly extend a third form of operational reach to a global scale in a manner 
+distinct from land- and sea-based capabilities. 
+The overlays of geography, SLOCs, and reach create areas of greater or lesser 
+military value, and therefore shade the maritime domain with areas of greater or 
+lesser risk. Lines that bound combat on land have little parallel on the seas.  
+Thus, in fleet warfare, the geometry of risk is fluid, and unique to theater and 
+circumstance. Risk may be envisioned as multidimensional, stemming from 
+proximity of enemy engagement capabilities out to areas of relative safety and 
+control, mindful of enemy maneuverability within various domains.17 Between 
+the two opponents’ regions of relative safety and sea control lie contested 
+multidomain areas that must be penetrated sufficiently to enable the achievement 
+of operational and strategic objectives, while concurrently denying the enemy the 
+ability to do the same.18 It is within these contested areas that commanders fight 
+to expand sea control and establish maritime superiority. 
+The prize is maneuverability that enables our freedom of action throughout the 
+maritime domain; the degree of its attainment defines entire theaters of war.  
+  
+                                                           
+16 SLOC is a broader term that encompasses more than the strictly military purposes implied in the DOD 
+Dictionary of Military and Associated Terms, which defines line of communication as “A route, either land, 
+water, and/or air, that connects an operating military force with a base of operations and along which 
+supplies and military forces move. Also called LOC.” Within the context of the term “SLOC” in this 
+publication also lie undersea cables, through which the bulk of digital data travels about the world. 
+17 Enemy ISRT capabilities enhance kill chain efficiency and constitute a second “overlay” of risk that shades 
+the maritime domain. 
+18 “Sufficiently” as measured by the geography, time, spectrum, and/or cyberspace required to achieve desired 
+operational or strategic objectives. 
+
+The Operational Level of Fleet Warfare 
+18 NWP 3 
+OPERATIONAL CONCEPT  
+Nothing about naval combat is understood if its two-sided nature is not 
+grasped. Each side is simultaneously stalking the other. 
+Wayne Hughes 
+Fleet Tactics: Theory and Practice 
+Foremost among the Navy’s functions is sea control, which enables all others. Sea 
+control is established through prevailing in naval combat. Five processes, distilled 
+from historic study, and first postulated by the naval tactician, Wayne Hughes, 
+inform the conduct of naval combat:19 
+ Naval warfare centers on the process of attrition. Attrition comes from 
+the successful delivery of firepower. 
+ Scouting—locating the enemy sufficiently to deliver effective 
+firepower—is a crucial and integral process of tactics.20 
+ C2 is the process that transforms scouting and firepower potential into 
+the reality of delivered force. 
+ Naval combat is a force-on-force process that often is accompanied by 
+simultaneous attrition on both sides. To achieve victory, one must attack 
+effectively first. Therefore, actions taken to interfere with the enemy’s 
+firepower, scouting, and C2 processes also are fundamentally important.21 
+ Maneuver also is a tactical process. Maneuver is the activity by which 
+C2 positions forces to scout and shoot. 
+These rules are as valid in today’s technologically enhanced era of fleet warfare 
+as when Hughes first postulated them at the height of the Cold War. The 
+difference now, however, is that the decisive effects once achieved only through 
+the concentration of firepower from ship formations can now be replicated—and 
+exceeded—by the integration of firepower and effects from widely distributed 
+forces collectively able to maneuver across all domains.22  
+                                                           
+19 Hughes, Wayne. Fleet Tactics: Theory and Practice, 1st edition, Naval Institute Press, 1986, pp. 145-146. 
+20 Hughes uses the term “scouting” to describe the current doctrinal acronym of ISRT.  
+21 Hughes uses a corollary to his famous maxim to explain the importance of information warfare: “The 
+essence of information warfare is to interfere with the enemy’s three fundamental processes—firepower 
+delivery, scouting, and C2—and defend our own.” 
+22 DOD Dictionary defines distribution as the arrangement of troops for any purpose, such as battle, march, or 
+maneuver. Its usage is broadened here to mean the informed and deliberate separation of force in space and time. 
+
+The Operational Level of Fleet Warfare 
+NWP 3 19 
+Hughes’ basic precept is that naval combat is a duel, and the side to attack effectively 
+first generally wins. The means to generate decisive firepower in the past was to 
+maneuver delivery platforms (i.e., ships) in tight formations to concentrate firepower 
+and overwhelm specific targets.23 Those tight ship formations are now replaced by 
+the tight integration of capabilities across a variety of platforms, loosening the ties of 
+geography, and organizational and administrative boundaries. The agility once 
+displayed in close-quarters division tactics—“divtacs” of old—has been supplanted 
+by the need to create similar agility in the orchestration of “sensing,” “shooting,” and 
+countersensor/shooting capabilities across an entire fleet.  
+At the OLW, the heart of the duel lies in orchestrating 
+conditions of engagement 
+Hence we find the apparently simple doctrine of the battle was almost 
+always entangled in two of the most difficult problems that beset our old 
+admirals. The most thorny questions they had to ask were these. In the 
+normal case of strength, it was not how to defeat the enemy, but how to 
+bring him to action; and in the casual cases of temporary weakness, it was 
+not how to sell your life dearly, but how to maintain the fleet actively on the 
+defensive so as at once to deny the enemy the decision he sought and to 
+prevent his attaining his ulterior motive. 
+Julian Corbett 
+Some Principles of Maritime Strategy 
+Hughes’ precept is further applicable as warfare enters the information environment: 
+the advantage goes to the side that moves first in fighting and winning a fully 
+contested battlespace. To prevail in full-spectrum information warfare, we must 
+embrace this “first mover advantage” as the foundation for our operations. 
+Hughes’ other basic precept, that knowing the location of the enemy is of equal 
+importance to being able to sink the enemy, has been affected by tremendous 
+technological and tactical evolution as well. Integrating sensor capabilities with 
+the same agility as the delivery of firepower is, as Hughes states, “crucial and 
+integral” to success in the duel at the heart of fleet warfare.  
+  
+                                                           
+23 Hughes’ salvo equations indicate that twice as many shooters beats half as many equivalent shooters firing 
+twice as fast.  
+
+The Operational Level of Fleet Warfare 
+20 NWP 3 
+Given the nature of combat, confounding enemy actions through interference of 
+enemy firepower delivery, C2, or targeting, is of equal importance. Consider the 
+value of World War II smoke generators that disrupted enemy targeting of our 
+ships; these have now been replaced by technological capabilities across all 
+warfare areas. These capabilities must be integrated into operational plans and 
+tactical execution.  
+War is based on deception. Move when it is advantageous and create 
+changes in the situation by dispersal and concentration of forces. 
+Sun Tzu 
+The Art of War 
+Thus, the three legs of Hughes’ tactical triad describing the “two-sided nature of 
+naval combat” can be summarized as: 
+ Locating the target 
+ Delivering firepower against the target 
+ Confounding enemy abilities to do the same against us. 
+The processes of naval combat inform efforts to seize and maintain sea control 
+or other naval functions required by theater and circumstance. To maximize 
+opportunities in this technologically enhanced era of fleet warfare, the Navy’s 
+operational concept is to leverage integration, distribution, and maneuver to 
+seize, maintain, and exploit freedom of action throughout the maritime domain. 
+  
+
+The Operational Level of Fleet Warfare 
+NWP 3 21 
+Theory and practice: cover and deception in fleet warfare 
+Theory: 
+Effective fusion of reconnaissance, surveillance, and intelligence 
+information is so important that it must receive the same emphasis as the 
+delivery of firepower. Contrarily, obstructing the enemy’s scouting by 
+cover, deception, confusion, or distraction merits enormous attention for 
+successful scouting and screening are relative to each other. 
+Wayne Hughes 
+Fleet Tactics: Theory and Practice 
+Practice: Norwegian Sea, August 1981 
+While the Soviet Northern Fleet Command knew that something big was 
+up and had launched a special radar satellite specifically to track the NATO 
+fleet, they had been caught flat-footed. The U.S. Navy had developed and 
+practiced very sophisticated cover and deception tactics, and Lyons 
+(VADM Ace Lyons, Commander Second Fleet/Commander, NATO 
+Striking Fleet, Atlantic) had become a master in their use in large 
+operations. Using classified electronic gear that simulated through 
+emissions a large carrier force, he sent a small group of combatants 
+heading southeast from Norfolk, while the main fleet proceeded north in 
+total electronic silence and under the dense cloud cover normal in that 
+season in those high latitudes. It wasn’t until they were well into the 
+Norwegian Sea that the Soviets realized they had been completely 
+snookered. They had failed to detect an armada of eighty-three ships until 
+it was within striking range of the Soviet Union itself.  
+John Lehman 
+Oceans Ventured 
+CAMPAIGNS  
+History suggests fleet warfare will likely require three distinct areas of 
+campaigns: support of the joint strategic military objective; the achievement of 
+maritime superiority; and the effort against an enemy’s use of the seas.24 
+                                                           
+24 Historically termed guerre de course, an effort against an enemy’s use of the seas is an attritional campaign 
+designed to erode an enemy’s war-making capacity, undermine public support, and divert enemy naval 
+capabilities. Julian Corbett elaborates in Some Principles of Maritime Strategy: “The only right we or our 
+enemy can have on the sea is the right of passage … by denying the enemy this means of passage we check 
+the movement of his national life at sea in the same kind of way that we check it on land by occupying his 
+territory.” 
+
+The Operational Level of Fleet Warfare 
+22 NWP 3 
+The first two campaigns will commonly overlap; the third will likely be more 
+independent. War in an era of GPC will require all three. War against nonpeer 
+competitors may not.  
+Fleet warfare will be conducted within the context of a larger joint force fight in 
+which our nation requires the military to achieve specific strategic objectives. 
+The nature and location of the conflict will shape the Navy’s contribution to the 
+achievement of those objectives. Since 1945, the Navy has supported 
+achievement of strategic military objectives primarily through the execution of 
+four enduring naval functions: sealift, power projection, deterrence, and maritime 
+security. The Navy has provided for the delivery of force and resource to theaters 
+of ground operations, projected power to regions throughout the globe, 
+conducted operations to deter adversaries across all levels of warfare, and 
+conducted maritime security to restrict/limit support to opposing forces. Sea 
+control has been a presumptive fact. Achievement of strategic military objectives 
+has not been threatened by limitations imposed by a contest for sea control. 
+However, in an era of GPC, support of strategic military objectives will almost 
+invariably intertwine with our campaign to achieve maritime superiority. 
+The Navy has not had to fight for sea control since World War II, and has not 
+had to be ready to fight for sea control since the Cold War. Nonetheless, without 
+sea control, the joint force is crippled. Thus, readiness to prevail in fleet warfare 
+is our fundamental duty to our nation, and to the joint force. Sea control may be 
+achieved through destroying the enemy fleet, blockading them within a restricted 
+area so that their reach cannot affect our freedom of action, depriving them of the 
+means to inhibit our activity, or through the enemy’s own choice based on what 
+our fleet can do. 
+A campaign against an enemy’s use of the sea is much broader than local efforts 
+at sea denial. It is a separate, distinct effort aimed at the engine of an enemy’s 
+war-making ability. It will likely entail a variety of naval functions, to include 
+especially sea control (in any of its various forms such as sea denial and 
+blockading), but also power projection, deterrence, or maritime security. It is just 
+as likely to require broader joint, interagency, and coalition support. A campaign 
+against an enemy’s use of the sea is an operational level effort aimed at its ability 
+to wage war and is specifically designed to produce strategic results.  
+
+The Operational Level of Fleet Warfare 
+NWP 3 23 
+Comparing and contrasting the first Gulf War (Operations DESERT 
+SHIELD/DESERT STORM) with World War II illuminates these separate 
+campaigns in differently scaled conflicts: 
+1) Joint strategic military objectives in both examples required sealift to 
+support joint force power projection.25  
+2) Both contained elements of achieving maritime superiority, albeit on 
+very different scales. In the first Gulf War, U.S. forces ceded sea control 
+off the Kuwaiti coast in the months leading to combat. The nature of the 
+conflict did not depend upon local sea control, and there was not 
+significant overlap between the joint strategic military objective and the 
+effort to regain local sea control. Thus, the effort to re-establish sea 
+control was manifest mostly in a monthslong effort at clearing mines 
+following the cessation of hostilities.26 World War II’s Battle of the 
+Atlantic consisted of a much more robust campaign, primarily against 
+the German submarine menace that threatened the supply of forces and 
+resources to the European theater. The strategic military objective 
+depended heavily on the success of the battle for sea control in the North 
+Atlantic and could not be pursued until sufficient sea control was 
+established and maintained for a long enough period to build up forces 
+and supplies ashore.  
+3) Both wars also included campaigns designed to limit the enemy’s use of 
+the seas, through an internationally sanctioned blockade on Iraqi 
+shipping during DESERT SHIELD, and through unrestricted warfare 
+against Japanese shipping during World War II.  
+Platforms and capabilities applied to one campaign may be different or not 
+available to support the others. Political and military objectives and strategic 
+circumstance will determine the sequencing and balance of effort between the 
+three campaigns inherent within fleet warfare. 
+  
+                                                           
+25 Military Sealift Command delivered more than 12 million tons of wheeled and tracked vehicles, helicopters, 
+ammunition, dry cargo, fuel, and other supplies and equipment during the war. At the high point of the war, 
+more than 230 government-owned and chartered ships were involved, delivering the largest part of the 
+international arsenal that defeated Iraq. 
+26 The difficulties incurred as a result of ceding local sea control during the first Gulf War are discussed later 
+in a vignette regarding alignment of naval and joint requirements. 
+
+The Operational Level of Fleet Warfare 
+24 NWP 3 
+KEY POINTS 
+ Winning in battle is the height of tactical excellence. Fighting the right battles 
+is the height of operational excellence. Prevailing in fleet warfare requires 
+both. 
+ The SLW is the level of warfare at which a nation determines national or 
+multinational guidance, develops strategic objectives, then develops and 
+commits national resources to achieve those objectives. The OLW focuses 
+on campaigns and operations to achieve operational objectives to support 
+achievement of strategic objectives. The TLW is the level of warfare at which 
+forces plan and execute battles and engagements to achieve military 
+objectives. Battles are always tactical, though their outcomes may have 
+operational or strategic effects.  
+ At the OLW, commanders focus on naval functions that will have greatest 
+strategic effect. 
+ The geometry of risk in fleet warfare is fluid and unique to theater and 
+circumstance. Risk can be conceptualized as a multidimensioned continuum 
+stemming from proximity of enemy engagement capabilities out to areas of 
+relative safety and control, mindful of enemy maneuverability within various 
+domains. 
+ Aligning firepower delivery, scouting, and C2 in a manner that will achieve 
+tactical success is the crux of tactics. Aligning battles, engagements and 
+small-unit and crew actions in a manner that will achieve strategic success is 
+the crux of operations.  
+ Militarily, the primary value of the sea stems from its utility as a maneuver 
+space. Three factors fundamentally influence maneuver throughout the 
+maritime domain—geography, SLOCs, and enemy reach. 
+ The tactical formation of ships, so important to victory in the past, has 
+evolved into tactical distribution of sensing and shooting capabilities that can 
+fix targets and deliver massed effects from widely distributed geographic, 
+domain, and spectral locations. 
+ The Navy’s operational concept is to leverage integration, distribution, and 
+maneuver to seize, retain, and exploit freedom of action throughout the 
+maritime domain. 
+
+The Operational Level of Fleet Warfare 
+NWP 3 25 
+ Effective fusion of reconnaissance, surveillance and intelligence information 
+is as important as the delivery of firepower. Obstructing the enemy by cover, 
+deception, confusion, or distraction warrants similar attention.  
+ Multiple concurrent campaigns will likely be required in fleet warfare against 
+a near-peer competitor: support of the joint strategic military objective; the 
+achievement of maritime superiority; and the effort against an enemy’s use 
+of the seas. 
+  
+
+The Operational Level of Fleet Warfare 
+26 NWP 3 
+ 
+INTENTIONALLY BLANK 
+ 
+
+Operational Art and Design 
+NWP 3 27 
+III 
+Operational Art and Design 
+OPERATIONAL ART 
+The Central Pacific offensive is an illuminating example of the benefits of 
+prioritizing strategic, operational, and tactical goals appropriately. The main 
+strategic objective, the defeat of Japan, was paramount. It was achieved by 
+a sustained offensive through the Japanese defensive (maritime) perimeter. 
+This offensive had two subsidiary goals, maintenance of a rapid operational 
+tempo and defeat of the Japanese surface fleet. 
+Trent Hone 
+U.S. Navy Surface Battle Doctrine and Victory in the Pacific 
+The purpose of operational art is the pursuit of strategic objectives through 
+arrangement of tactical activity in time, space, and purpose. Though fleet warfare 
+is fought at the TLW, it is won at the OLW. 
+Doctrine defines operational art as the cognitive approach used by commanders and 
+staffs, supported by their skill, knowledge, experience, creativity, and judgment, to 
+develop strategies, campaigns, and operations to organize and employ military forces 
+by integrating ends, ways, and means while balancing risk. Commanders use 
+operational art to determine when, where, for how long, and for what purpose naval 
+forces will be employed. The objective of operational art is to optimize forces for 
+success in combat while influencing the adversary’s disposition before combat. 
+Joint doctrine provides much guidance and detail on operational art. Figure 3-1 
+outlines the integration of ends, ways, means, and risk in the application of 
+operational art. Commanders and their staffs should use this framework to create 
+their own processes to develop and execute strategy, campaigns, and operations. 
+Figure 3-2 depicts the general objectives of the cognitive components of the 
+operational art process across the operational and tactical levels of warfare.  
+Foremost, the ends of strategy must satisfy the political objectives determined by the 
+President as the reason for waging war. Informed by the political objective(s), the 
+role of fleet warfare must be determined in the context of the larger joint campaign 
+in pursuit of strategic military objectives determined by the Secretary of Defense 
+(SECDEF) and theater strategic planning by CCDRs. This determination will inform 
+the selection of enemy centers of gravity (COGs) on which to focus fleet operations. 
+
+Operational Art and Design 
+28 NWP 3 
+The interactive resources of capability, logistics, and command bound the limits of 
+what is achievable. Finally, a realistic understanding of the enemy’s true intentions, 
+character, capabilities, and perceptions enables the crafting of fleet plans combining 
+ends, ways, and means, while balancing risk.27  
+ Figure 3-1. A Conceptual Framework to Integrate Ends, Ways, Means, and 
+Risk Within the Operational Art Process. Operational art is the cognitive approach 
+used by commanders and staffs, supported by their skill, knowledge, experience, creativity, 
+and judgment, to develop strategies, campaigns, and operations to organize and employ 
+military forces by integrating ends, ways, and means while balancing risks. The rest of this 
+chapter provides more details on each category, some background, and their uses. 
+  
+                                                           
+27 See Navy Historical Foundation’s Oral Interview Series, interview with VADM Henry Mustin, 
+pp. 168-171, for a fascinating look into considerations involved in developing Second Fleet strategy in the 
+1980s, at: https://www.navyhistory.org/wp-content/uploads/2015/04/Mustin-Oral-History.pdf. 
+
+
+Operational Art and Design 
+NWP 3 29 
+Political Objective 
+War is an instrument of policy. It must necessarily bear the character of 
+policy and measure by its standards. The conduct of war, in its great 
+outlines, is therefore policy itself, which takes up the sword in place of the 
+pen but does not on that account cease to think according to its own laws.  
+Carl Von Clausewitz 
+On War 
+At the national level, war and conflict are designed to accomplish a political 
+objective. This is what justifies strategic action and, as Clausewitz remarked, this 
+is what determines a consequent conflict’s form and character.28 The political 
+objective determines the strategic military objective, which in turn guides the 
+military effort and shapes fleet warfare. Focus on the strategic military objective 
+is the single most important element of campaign design. 
+Limited political objectives alter an enemy’s use of its power (an example is the first 
+Gulf War). Limited political objectives drive the use of military means to convince 
+an enemy to make peace on our terms through an erosion of their leadership’s will.29 
+Limited political objectives typically result in negotiated settlements. 
+Unlimited political objectives alter the enemy’s structure for exercising  
+power—that is, military means support a national effort to overthrow enemy 
+leadership or force its unconditional surrender (an example is World War II).30  
+Political objectives and consequent strategic military objectives will directly 
+shape the conduct of fleet warfare. Commanders at all levels must have a shared 
+understanding of strategic military objectives to enable decentralized execution 
+and disciplined use of initiative inherent in mission command.31 
+Nature of the Joint Campaign 
+Fleet warfare must be conceived, planned, and executed based on an understanding 
+of the nature of the joint effort, which may be maritime or continental in character 
+based on the threat and objectives. World War II provides examples of both types 
+of campaigns. 
+  
+                                                           
+28 Till, Geoffrey. Seapower: A Guide for the Twenty-First Century, Taylor & Francis, 2018. p. 58. 
+29 Naval doctrine calls this a strategy of erosion. 
+30 Naval doctrine calls this a strategy of annihilation. 
+31 Mission command is described here as the leadership approach in which the commander outlines desired 
+objectives for subordinates to accomplish, and then relies on them to exercise disciplined initiative based 
+on local situational awareness and lowered decision thresholds. 
+
+Operational Art and Design 
+30 NWP 3 
+In the Pacific, the allies fought a peer naval power in a principally maritime 
+theater. The naval campaign design involved incremental attacks across the 
+Pacific, seizing island bases to support the fleet’s advance. Once seized, key 
+maritime terrain was used to control the surrounding seas. Local sea control was 
+achieved to support power projection, which in turn supported a greater degree 
+of sea control. Captured islands also provided bases that enabled strategic 
+bombing, illustrating how the intertwined naval functions of sea control and 
+power projection ultimately supported joint force power projection.  
+In the Atlantic, the allies fought a peer land power in a principally continental 
+theater. The naval campaign design involved suppressing the enemy submarine 
+threat sufficiently to move major ground and air forces into position for a 
+cross-channel invasion of the continent supported by Navy power projection 
+capabilities, and then keeping the sea lanes open to ensure the continuous flow 
+of support for a long-duration land war. Sea control and Navy power projection 
+were employed in support of subsequent joint (ground and air) power projection.  
+Fleet strategy must support the nature of the joint campaign. These examples 
+illustrate the need for commanders to understand how sea power will support a 
+joint campaign that is maritime in character versus a joint campaign that is 
+continental in character, as well as inform the joint integration required to support 
+maritime campaigns. Additionally, component commanders must be able to 
+relate naval planning considerations to the JFC while subordinate commanders 
+must understand how their tactical decision making aligns with the nature of the 
+joint campaign. 
+  
+
+Operational Art and Design 
+NWP 3 31 
+Alignment with joint campaign 
+Fleet warfare must align with the larger joint effort. The first Gulf War provides a 
+good example. The CCDR, Gen. Norman Schwarzkopf, restricted allied naval 
+operations (to include intelligence, surveillance, and reconnaissance efforts) 
+from the waters north of the Kuwaiti-Saudi border in the months prior to the 
+offensive phase of the Operation DESERT STORM. The joint force commander 
+sought to minimize the risk of precipitating hostilities early through an unplanned 
+or unnecessary maritime engagement. This decision to cede local sea control 
+enabled a large Iraqi minelaying effort that subsequently restricted allied 
+maritime freedom of action throughout the offensive phase of the brief war.32 
+The larger joint effort could accept the loss of sea control in the northern 
+Arabian Gulf because the fleet could still provide sealift to deliver equipment 
+and capabilities necessary for a ground offensive and blockade merchant 
+shipping to reduce Iraq’s economic support. Additionally, several carrier 
+strike groups provided around-the-clock strike and air support following the 
+commencement of combat operations. Nonetheless, mines disabled two 
+U.S. warships, maritime freedom of action remained significantly curtailed, 
+and sea control was not restored until the completion of an immense mine 
+clearance effort months after hostilities concluded. Such were the trade-offs 
+between purely maritime and greater joint objectives. 
+Operational Centers of Gravity 
+At every level of command, the proper selection of the objective is of 
+greatest importance. Properly it should be one which supports the 
+objective or mission of the next higher level. 
+G.K. Carmichael 
+Principles of War and their Application to Strategy and Tactics, 1950 
+  
+                                                           
+32 Gen. Norman Schwarzkopf expounds: “Meanwhile, now that G-Day (the day ground combat was to begin) was 
+upon us, I’d cancelled the Navy’s amphibious assault on Faylakah Island. Plans called for it to precede the ground 
+war by two days, but the helicopter carrier USS Tripoli and the Aegis guided missile cruiser USS Princeton had 
+struck mines, U.S. and British minesweepers had been unable to clear the area, and as a result the Navy hadn’t 
+made it into position to launch the attack in time.” Schwarzkopf, Norman. It Doesn’t Take a Hero, Linda 
+Grey/Bantam, 1992, p. 446. LCDR Rickson E. Evangelista provides additional insight in his Naval War College 
+thesis, Mine Warfare: Lessons Learned and Forgotten: “The minimal importance placed on monitoring and 
+countering the Iraqi mining activities demonstrated the coalition leadership’s lack of understanding of the 
+significant impact mine warfare could have at the operational level of war. COMUSNAVCENT repeatedly asked 
+USCINCENT for permission to have aircraft fly farther north, but permission was denied for reasons discussed 
+previously. Vice Admiral Stan Arthur tried to get permission to use helicopters to patrol the northern area of the 
+Persian Gulf to get firm evidence of minelaying; General Schwarzkopf also denied permission to do that.” 
+Available at: https://apps.dtic.mil/dtic/tr/fulltext/u2/a484287.pdf.  
+
+Operational Art and Design 
+32 NWP 3 
+A COG is the source of power that provides moral or physical strength, freedom of 
+action, or will to act. At the strategic level, COGs can include a leadership cadre, a 
+military force, an alliance, national will or public support, a set of critical capabilities 
+or functions, or national strategy itself. At the operational level, they are generally the 
+principal sources of combat power, such as combat forces that are modern, mobile, or 
+armored, that can ensure, or prevent, accomplishment of the mission.33  
+Fleet warfare provides an element of conceptual clarity in the determination of 
+COGs. Sea control is the Navy’s foremost objective at the operational level. Sea 
+control enables all other naval functions, which in some combination are 
+invariably required to achieve the strategic military objective necessary for 
+overall strategic success. The principal operational COG is the enemy capability 
+inhibiting our ability to establish or maintain sea control.  
+Identification of operational COG in the Battle of the Atlantic 
+Our strategy in the Atlantic involved maintaining our lines of communications 
+to Great Britain and to future bases of operations against our enemies in 
+Europe, in addition to insuring [sic] the security of the Western Hemisphere. 
+The control of the Atlantic was being vigorously contested by German 
+submarine and air forces … To meet the situation we trained men and manned 
+ships and aircraft as soon as we could in order to assume the offensive. By the 
+end of 1942, we were ready and moved overseas in force with the Army. 
+By the spring of 1943, the war against German submarines in the Atlantic had 
+turned in our favor and we were fully on the offensive in that area. Furthermore, 
+we had built up to our strategic requirements for the transportation and support 
+of our Army ground and air forces overseas and the reinforcement of British 
+naval forces guarding against the outbreak of the German surface forces ... 
+The German submarine fleet has been reduced from a menace to a problem. 
+Fleet ADM Ernest King 
+U.S. Navy at War, 1941–1945–Official Reports to the Secretary of the Navy, 
+1 March 1944 
+In the example above, ultimate strategic victory (the unconditional surrender of 
+Hitler’s Germany) was enabled by the operational level success in reasserting sea 
+control by a focused campaign against the enemy COG: “The German submarine 
+fleet has been reduced from a menace to a problem.” 
+Note that in fleet warfare, enemy COGs are those capabilities that inhibit our 
+ability to execute naval functions, sea control as the fundamental requirement. 
+                                                           
+33 Echevarria, Antulio J. II. Clausewitz’s Center of Gravity, Naval War College Review: Vol. 56: No. 1, 
+Article 6, 2003. 
+
+Operational Art and Design 
+NWP 3 33 
+Those COGs are likewise critical requirements necessary for the enemy to 
+protect. The elements of an enemy’s COG most vulnerable to our direct or 
+indirect attack are an enemy’s critical vulnerabilities. Mindful of the two-sided 
+nature of fleet warfare, due consideration is required regarding own-force COGs 
+and critical vulnerabilities.  
+Though conceptually similar to RADM Alfred Thayer Mahan’s original ideas 
+regarding the necessity for sea control, the technological advances of our time 
+make it less likely that this condition will be obtained through a force-on-force 
+battle of attrition, what RADM Mahan referred to as “decisive battle.” Indeed, 
+our operational concept of integration, distribution, and maneuver favors massing 
+effects versus massing fleet assets to enable an accumulation of successful fleet 
+outcomes. Recent history suggests that fleet warfare will be a protracted affair of 
+episodic decisive engagement as each side seeks degrees of sea control suitable 
+for supporting operational objectives. Nonetheless, freedom of action upon the 
+seas remains an operational prerequisite to strategic success just as much today 
+as it did when first proposed by RADM Mahan. 
+Strategy against an enemy’s use of the seas requires analysis of our capabilities 
+and the enemy’s COGs to determine the best way to leverage naval combat power 
+against an opponent’s benefit from the sea. Enemy COGs in this effort will be 
+those means by which the enemy gains strength for their war-making effort 
+through use of the seas and will likely entail a campaign using the sea control 
+tactics of blockade and sea denial, maritime security, as well as a host of 
+interagency, joint, and coalition capabilities and support. 
+Fleet Warfare Resources 
+The architecture of naval warfare identifies warfighting excellence at the TLW as the 
+means to achieve and maintain naval functions leading to maritime superiority at the 
+OLW. Though warfighting excellence is the prima facie requirement of the 
+architecture, our warfare capabilities obviously require sustainment and direction. 
+Thus, at its most conceptual level, fleet warfare is comprised of capabilities used to 
+wage war, logistics used to sustain war, and command used to direct war. These 
+bound the development and execution of achievable fleet strategy at the OLW.  
+Capabilities 
+Commanders already understand the capabilities of the naval arsenals at their 
+disposal. The intent of this section is to highlight for consideration additional 
+capabilities that may be available in the pursuit of operational objectives. 
+
+Operational Art and Design 
+34 NWP 3 
+38th Commandant’s Planning Guidance 
+We are a naval expeditionary force capable of deterring malign behavior and, 
+when necessary, fighting inside our adversary’s weapons-engagement-zone 
+to facilitate sea denial in support of fleet operation and joint force horizontal 
+escalation. Nothing could be more relevant to the National Defense Strategy 
+and the certainty of an uncertain future than this. We are not a second land 
+army, nor do we aspire to be anything other than the world’s premier naval 
+expeditionary force. 
+Gen. David Berger, Commandant of the Marine Corps 
+Future fleet warfare will increasingly rely on capabilities not necessarily under 
+direct fleet command. For example, special operations forces, embarked on fleet 
+vessels, could be used to enhance targeting, communications, and other 
+capabilities. Capabilities can also include those inherent within other fleets, or 
+resident within naval forces already in theater. Joint forces, now including space 
+and cyberspace, all have capabilities that can support fleet warfare. Additionally, 
+national capabilities are increasingly responsive and pervasive as technological 
+advances expand across the maritime domain. Furthermore, integrated 
+campaigning below the level of armed conflict provides opportunities in peace 
+to find and refine efficiencies that are practical in war. 
+We fight alongside coalition partners, and we integrate capabilities bound by common 
+purpose if not common command authorities. Our capabilities are strongest when they 
+support, and are supported by, coordination, synchronization, and execution with allies 
+and partners. Information sharing, collaborative planning, maritime engagements, and 
+naval exercises with allies and partners all deepen and expand our collective 
+operational and combat capability. Wartime tactical excellence is founded upon 
+practiced proficiency with our allies and partners. 
+Operating and exercising together with allies and partners, our fleet 
+commanders will focus on full interoperability at the high end of naval 
+warfare. We will build on existing maritime intelligence and logistics 
+partnerships with allied nations and expand relationships with partner 
+nations to broaden and strengthen global maritime awareness and access.34  
+ADM Michael Gilday, CNO 
+  
+                                                           
+34 CNO FRAGO 01/2019, Dec 2019, Warfighting, p. 4. 
+
+Operational Art and Design 
+NWP 3 35 
+Commanders and staffs must invest in upfront research, collaboration, staff 
+processes, and exercises across multiple organizations to ensure that additional 
+capabilities across all domains can be integrated in a tactically relevant manner 
+within the speed of a naval fight. 
+Logistics 
+Logistics provides the physical means for organized forces to exercise 
+power. In military terms, it is the creation and sustained support of combat 
+forces and weapons. Its objective is maximum sustained combat 
+effectiveness. 
+RADM Henry E. Eccles 
+Logistics in the National Defense 
+Operational-level logistics connects strategic-level logistics resources with the 
+tactical user, thus enabling effective logistics support across the range of military 
+operations. Simply put, if you don’t have the means, you don’t have a strategy. 
+Operations and logistics must be fully integrated. Campaign planning and 
+logistical planning are inseparable; military history is replete with spectacular 
+examples, both good and bad, of the intertwined nature of strategy and logistics. 
+Logistics planning is an organic component of the Navy planning process. It is 
+imperative that logistics factors be a pre-eminent input in campaign planning.  
+The war theorist RADM Henry E. Eccles postulated four fundamentals of fleet 
+logistics while capturing lessons from World War II at the Naval War College: 
+“Fundamentally, every basic theater logistics plan is built on four considerations. 
+First, the characteristics of the theater, its geography, topography, and 
+hydrography, its relative distances and its distance from the continental U.S. 
+Next, we have the forces involved, then the nature of the operations contemplated 
+and finally, the requirements for mutual or inter-theater support.”35 
+As often as the side that acts bolder, or adapts faster, wins, military history also 
+demonstrates that the side that makes more errors, or more egregious ones, just 
+as often loses. This is a particular warning considering the number of examples 
+of an overstretched supply chain dooming a military endeavor. 
+  
+                                                           
+35 Eccles, Henry E. Theatre Logistic Planning, Naval War College Review, Vol. 3: No. 8, Article 2, 1950. 
+
+Operational Art and Design 
+36 NWP 3 
+PRC perspective: a lesson learned from the Falklands War36 
+The Chinese have observed that Argentina’s defeat in the 
+Falklands/Malvinas conflict can, in addition to the factors noted above, be 
+explained by its military following poor tactical guidelines. “[T]he Argentinean 
+military philosophy was passive, its tactics inflexible, and furthermore lacked 
+real effective aircraft to attack the British defensive capabilities and, still 
+further, to attack Britain’s most important, yet most vulnerable supply 
+shipping; this was Argentina’s greatest mistake.”37 This failure to observe 
+Great Britain’s glaring weakness in the length of its logistical supply line is a 
+particularly egregious fault of the Argentinean military. “From the perspective 
+of the history of warfare, to not attack a very long and yet very vulnerable 
+supply line, is extremely short-sighted.”38 … According to PLA assumptions, 
+the most critical center of gravity is a support system located in an 
+opponent’s forward deployed and rear bases, which could not be defended 
+against every attack in every place and at every conceivable time. Today, 
+the military heavily depends on its logistics support system, so that the 
+system itself becomes bloated, extremely visible and vulnerable.39 
+Christopher Yung 
+Command 
+Mission command is a critical resource in the execution of fleet warfare. Though 
+it is common to think of command in terms of an activity, it is worthwhile, when 
+considering the scale and consequence of fleet warfare, to consider for a moment 
+the idea of command as a resource. The quality of our command will determine 
+outcomes as surely as the exquisiteness of our capabilities and the reliability of 
+our logistics.  
+Fleet warfare against a peer competitor will require multifleet operations that 
+create and synchronize global effects. Creating unity of effort in a globally 
+distributed but integrated environment relies on decentralized C2. Each 
+commander must recognize local conditions and align their actions in a manner 
+that will best contribute to the achievement of broader operational and strategic 
+objectives. Thus, fleet warfare relies as much on the intellectual integration of 
+                                                           
+36 Yung, Christopher D. Chinese Lessons from Other Peoples’ Wars, Sinica Rules the Waves? The People’s 
+Liberation Army Navy’s Power Projection and Anti-Access/Area Denial Lessons from the 
+Falklands/Malvinas Conflict, Strategic Studies Institute, U.S. Army War College, 2011, p. 83. 
+37 Yung cites Zhou Ming, Argentina, England Malvinas Islands Conflict (The Malvinas Problem), available 
+from news.xinhuanet.com/ziliao/2007-03/28/content_5906424_2.htm. 
+38 Yung cites Zhou Ming, Argentina, England Malvinas Islands Conflict (The Malvinas Problem), available 
+from news.xinhuanet.com/ziliao/2007-03/28/content_5906424_2.htm. 
+39 Yung cites Jianxiang Bi. Joint Operations: Developing a New Paradigm, James Mulvenon and David 
+Finkelstein, eds., China’s Revolution in Doctrinal Affairs: Emerging Trends in the Operational Art of the 
+Chinese People’s Liberation Army, jointly published by Santa Monica, CA: RAND Corporation, and 
+Alexandria, VA: Center for Naval Analyses, 2003, p. 64.  
+
+Operational Art and Design 
+NWP 3 37 
+commanders as it does the technical integration of their platform’s capabilities. 
+Mission command harnesses the power of that integration to create unity of effort 
+towards common objectives across a distributed force. 
+Clear commander’s intent, shared understanding of objectives, and individual 
+trust and confidence among commanders at all levels enhance the quality of 
+mission command. Development and inculcation of mission command is an 
+investment in warfighting. 
+The human element is a combination of instincts plus intelligence. The 
+military virtues necessary for success are made instinctive by training. The 
+commander strives for unity of effort, which implies leadership, training, 
+loyalty, and initiative; for continuity of effort, which calls for decision of 
+character, perseverance, and fortitude; and for vision, which implies 
+knowledge of war, skill, and judgment. The commander combines and 
+coordinates the various military virtues into a strong, well-balanced whole. 
+Fleet ADM Ernest King 
+War Instructions, 1944 
+Concept of the Enemy 
+… the science of strategy consists, in the first place in knowing how to 
+choose well a theater of war and to estimate correctly … the enemy.40  
+Antoine-Henri Jomini 
+The Art of War 
+No strategy will be successful that does not include careful consideration of enemy 
+capabilities, disposition, and intent. The wartime commander needs to properly 
+assess the factors of space, time, and force from the enemy’s perspective. In general, 
+the larger the scale of the objective to be accomplished, the more complex these 
+factors are and the more difficult it is to assess them properly.41  
+The intelligence staff must provide an understanding of the operational 
+environment (OE), particularly with regard to the enemy’s forces, capabilities, 
+and intentions. Due regard must be given to the tension between the factors of 
+                                                           
+40 Jomini, Antoine Henri. The Art of War, Greenhill Books, 1992, p. 299. 
+41 Vego, Milan. Major Naval Operations, Newport Paper Thirty-two, Center for Naval Warfare Studies, Naval 
+War College Press, 2008, p. 64. 
+
+Operational Art and Design 
+38 NWP 3 
+enemy capability and enemy intentions. The most important advantage of relying 
+on the enemy’s capabilities is that the commander and his staff would cover the 
+full spectrum of what the enemy can physically do in a given situation; hence, 
+the risk of being surprised by some overlooked enemy capability is relatively 
+low.42 Equipped with an understanding of what the enemy is capable of doing, 
+planning can then focus on identifying and addressing the enemy’s most likely 
+and most dangerous courses of action (COAs) rather than dissipating resources 
+by trying to address every possibility.  
+Intelligence at the OLW focuses on theater-level requirements such as supporting 
+the planning and conduct of campaigns; monitoring events; determining the 
+location, capabilities, limitations, and intentions of enemy forces in theater; and 
+identifying adversary COGs. Deep understanding of the enemy facilitates 
+identification and evaluation of potential enemy COAs and the nominations of 
+targets when required. Intelligence attempts to reduce uncertainty, the 
+Clausewitzian “fog and friction” of war, by providing accurate, relevant, and 
+timely knowledge about the adversary and the operational environment. 
+Ultimately, intelligence seeks to provide advantage in the never-ending 
+risk-reward calculation intrinsic to warfare. 
+Intelligence plays a critical role in assisting commanders’ decision making across the 
+range of military operations. Commanders use intelligence to anticipate, visualize, 
+and understand the OE to influence the outcome of operations, focus combat power, 
+and provide force protection as needed. Intelligence can also provide a Red Team, to 
+challenge plans to help avoid group think and to improve effectiveness.43 
+Assumptions 
+An assumption is a specific supposition of the operational environment 
+that is assumed to be true, in the absence of positive proof, essential for 
+the continuation of planning. Assumptions are a necessary part of 
+operational art, and VADM Henry Mustin’s famous maxim to his 
+commanders and staff captured in his 1986 Fighting Instructions bears 
+repeating and consideration here: “If you ever make an assumption about 
+the enemy that makes your problem easier, you’d better damned well 
+challenge that assumption repeatedly.”44 
+  
+                                                           
+42 Vego, Milan. Major Naval Operations, Newport Paper Thirty-two, Center for Naval Warfare Studies, Naval 
+War College Press, 2008, p. 64. 
+43 This effort is often confused with a red cell, which also includes intelligence personnel and is used to support 
+exercises by emulating the enemy threat. 
+44 Mustin, Henry VADM. CSFL/C2F/CJTF 120 Fighting Instructions, Annex D, 21 May 1986. 
+
+Operational Art and Design 
+NWP 3 39 
+Calculated Risk 
+Commanders assess risk using their calculated and intuitive grasp of the 
+probability and consequences of harm to force or mission based on the outcomes 
+resulting from their decisions.  
+Risk has two sources: threats and hazards. Threats originate from foes, those with 
+the capability and intent to cause us harm. Hazards originate from conditions 
+(e.g., weather, terrain, equipment status). Threats are the focus of risk calculus in 
+naval warfare. 
+Risk to force and risk to mission are fundamental considerations in every 
+endeavor. Knowledge of own-force capabilities and a clear understanding of 
+objectives is necessary to determine the balance between the two. Risk 
+assessment requires a thorough understanding of enemy capabilities and a 
+seasoned estimate of enemy intentions. 
+Senior commanders have the added responsibility of conveying decision-quality 
+risk guidance to subordinate commanders to guide their initiative. Common 
+understanding of risk throughout all levels of warfare informs decisive action and 
+enables bold execution by leaders who understand commander’s intent and are 
+willing to close with and defeat the enemy when they glimpse opportunities in 
+the risk-reward calculus. 
+Calculating risks does not mean taking a gamble. It is more than figuring 
+the odds. It is not reducible to a formula. It is the analysis of all factors 
+which collectively indicate whether or not the consequences to ourselves 
+will be more than compensated for by the damage to the enemy or 
+interference with its plans. Correct calculation of risks, by orderly 
+reasoning, is the responsibility of every naval officer who participates in 
+combat, and many who do not. 
+Fleet ADM Ernest King 
+Report to Secretary of the Navy, 1944 
+OPERATIONAL DESIGN 
+Operational art encompasses operational design—the conception and construction of 
+the framework that underpins a joint operation or campaign plan and its subsequent 
+execution. Together, operational art and operational design strengthen the relationship 
+between strategic objectives and the tactics employed to achieve them. Joint doctrine 
+
+Operational Art and Design 
+40 NWP 3 
+lists 13 elements that comprise operational design.45 The following considerations do 
+not replace or supplant the joint doctrinal elements but provide a broader framework 
+for commanders and their staffs to help inform a comprehensive strategy suitable “for 
+the kind of war on which they are embarking.”46 
+Enemy Capability and Enemy Will 
+War is a clash of wills exercised through a contest of military capability. At the outset 
+of war, all warring factions contain two reservoirs: the first of these, their capability to 
+wage war; the second, their will to do so. They are discrete elements, though mutually 
+sympathetic to changes in the other. Both require constant assessment, both within the 
+scope of fleet warfare, and in coordination within the larger joint campaign.  
+As previously discussed, fleet strategy against military capability requires 
+multiple operational efforts, in support of the strategic military objective, against 
+an enemy’s ability to contest our sea power, and against an enemy’s economic 
+ability to support their war-making efforts through their use of the seas. 
+Because the seat of power is upon the land, fleet warfare will likely contribute 
+synergistic effects to the joint, and likely combined, fight against an enemy’s 
+reservoir of will. Nonetheless, the development, support, and execution of these 
+campaigns ought to give due regard to the Clausewitzian distinctions between 
+the will of the leadership of the nation waging war; the military of the nation 
+waging war; and the population of the nation waging war. 
+The results of the Tet offensive, 1968 
+So that what in fact was a humiliating military defeat for the North Vietnamese 
+ended up to be a diplomatic victory of the highest order. You’ve heard the 
+famous story, which is true, of the two colonels meeting during the peace talks 
+in Paris. The U.S. colonel says to the Vietnamese colonel: “Well, we’re 
+negotiating for peace, but I want you to know that you never defeated us on the 
+battlefield.” The Vietnamese colonel says, “That’s true; and it’s also irrelevant.”47 
+VADM Henry Mustin 
+  
+                                                           
+45 JP 5-0 lists the following 13 elements of operational design: objective, military end state, COG, effects, 
+culmination, lines of operation/lines of effort, decisive points, direct and indirect approach, operational 
+reach, arranging operations, anticipation, forces, force employment mechanisms. 
+46 Clausewitz, On War: “The first, the supreme, the most far-reaching act of judgment that the statesman and 
+commander have to make is to establish by that test the kind of war on which they are embarking; neither 
+mistaking it for, nor trying to turn it into, something that is alien to its nature.” 
+47 Mustin, Henry VADM. Navy Historical Foundation’s Oral Interview Series, p. 71. 
+
+Operational Art and Design 
+NWP 3 41 
+Annihilation and Erosion Strategies 
+Strategies against enemy capability are strategies of annihilation. Strategies 
+against enemy will are strategies of erosion.  
+Strategies of annihilation are predominantly military in nature, with other 
+instruments of national power in support. The focus of military effort is the 
+elimination of an enemy’s military capability such that the enemy is unable to 
+resist. This is the goal of fleet warfare when sea control is in dispute.  
+Strategies of erosion require tactical engagement to degrade some degree of 
+enemy capability, though they may equally rely on integrated efforts across all 
+elements of national power. The focus is to raise the costs of waging war higher 
+than the enemy is willing to pay.  
+Sequential and Cumulative Campaigns 
+Furthermore, strategy usually takes one of two forms: sequential campaigns that 
+require a sequence of events in time, space, or purpose to build towards a desired 
+strategic effect, and cumulative campaigns that require an accumulation of 
+discrete events, which cumulatively create a desired strategic effect.  
+These forms are not mutually exclusive. They can be used concurrently to great effect, 
+as demonstrated by the allied campaigns in the Pacific during World War II. The allies 
+used a sequential campaign to extend their span of sea control across south and central 
+Pacific towards the Japanese mainland, while waging a concurrent cumulative 
+campaign against Japan’s economy through unrestricted submarine warfare. 
+Distinguishing between campaigns in the Pacific in  
+World War II  
+So that in the Pacific from 1941 to 1945, actually we conducted two separate 
+wars against Japan. We conducted the sequential strategy campaigns, our 
+drives across the Pacific to the coast of Asia and up to the shores of the 
+Empire. And apparently, quite apart from that we conducted a cumulative 
+strategy aimed at Japan’s economy. Oddly enough, these two went along 
+together in time but essentially independent in their day-to-day activity.48 
+RADM J.C. Wylie 
+Military Strategy: A General Theory of Power Control 
+  
+                                                           
+48 Wylie, RADM J.C. Military Strategy: A General Theory of Power Control, Rutgers University Press, 1967, 
+p. 118. 
+
+Operational Art and Design 
+42 NWP 3 
+Direct and Indirect Approaches 
+Joint doctrine describes a direct approach as one which attacks the enemy’s COG 
+or principal strength by applying combat power directly against it and an indirect 
+approach as one which attacks the enemy’s COG by applying combat power 
+against critical vulnerabilities that lead to the defeat of the COG while avoiding 
+enemy strength. 
+Wylie’s observation regarding the Pacific campaigns above exemplifies the 
+intertwined nature of these two approaches at the OLW in the maritime domain. The 
+U.S. and allied sweep of sea control across the Pacific could be said to have been a 
+direct approach to achieving our strategic objectives, while the campaign against 
+enemy shipping was an indirect method of achieving strategic objectives. The 
+sequential expansion of sea control was an attempt to ultimately compel Japan to 
+surrender through the delivery of overwhelming force to the mainland, while the 
+antishipping campaign was a cumulative effort to get Japan to succumb to surrender 
+through the starvation of war making and economic supplies. The first was aimed at 
+the military capability of Japan, and the other aimed at incapacitating the capability 
+of Japan to continue. They were used concurrently with synergistic effect.49  
+Though B.H. Liddell Hart is perhaps the most famous advocate of the indirect 
+approach, he acknowledges intellectual lineage to Sun Tzu. “On reading the book 
+(Sun Tzu’s “The Art of War”) I found many other points that coincided with my 
+own lines of thought, especially his constant emphasis on doing the unexpected 
+and pursuing the indirect approach. It helped me realize the agelessness of the 
+more fundamental military ideas, even of a tactical nature.” he writes in his 
+Foreword to Samuel Griffith’s Oxford dissertation translation. 
+Normal and extraordinary forces and direct and indirect 
+approaches 
+“In battle there are only the normal and extraordinary forces, but their 
+combinations are limitless; none can comprehend them all. For these two 
+forces are mutually reproductive; their interaction as endless as that of 
+interlocking rings. Who can determine where one ends and the other begins?” 
+Sun Tzu 
+The Art of War 
+  
+                                                           
+49 Certainly, within these broad OLW campaigns are contained many smaller-scale examples of direct and 
+indirect approaches at the TLW using unexpected, unanticipated and indirect methods to obtain specific 
+objectives. 
+
+Operational Art and Design 
+NWP 3 43 
+In summary, operational design enhances understanding of the larger situation 
+and provides a framework upon which to develop strategies, campaigns, or 
+operations. The commander must consider the balance of effort against an 
+enemy’s will and capability, the appropriate application of annihilation or erosion 
+strategies, the sequential or cumulative nature of campaigns, and direct or 
+indirect approaches to achieve objectives. 
+ Figure 3-2. Objectives Within Operational Art: Integrating Intent, Ends, 
+Ways, Means, Risk. The general objectives of the cognitive components of the 
+operational art process across the operational and tactical levels of warfare are depicted. At 
+the OLW, the objective of risk integration is to determine and disseminate acceptable risk 
+considerations to tactical commanders, whereas at the TLW, the objective is to optimize 
+risk opportunities to seize and retain initiative in combat. 
+  
+
+
+Operational Art and Design 
+44 NWP 3 
+KEY POINTS 
+ Fleet warfare is fought at the TLW, but it is won at the OLW. 
+ The commander working at the OLW has no higher purpose than the 
+development and execution of successful campaigns to defeat our nation’s 
+enemies and secure control of the seas. The intent, ends, ways, means, and 
+risk conceptual framework aids consistency in strategy development. 
+ Political objectives and consequent strategic military objectives will directly 
+shape the nature of fleet warfare. 
+ Fleet warfare must be conceived, planned, and executed based on an 
+understanding of the nature of the joint campaign, which may be maritime or 
+continental. 
+ Capabilities include those of joint and allied forces as well as organic fleet 
+capabilities. 
+ The foremost operational COG is the enemy capability inhibiting our ability 
+to establish or maintain sea control. 
+ At its most conceptual level, fleet warfare is comprised of capabilities used 
+to wage war, logistics used to sustain war, and command used to direct war. 
+These bound the development and execution of achievable fleet strategy at 
+the operational level of warfare. 
+ No strategy will be successful that does not include careful consideration of 
+enemy capabilities, disposition, and intent.  
+ Calculated risk is the analysis of all factors, which collectively indicate 
+whether the consequences to us will be more than compensated by the 
+damage to the enemy or interference with their plans.  
+ 
+
+Organization, Command and Control, and Fleet Warfare 
+NWP 3 45 
+IV 
+Organization, Command and Control, 
+and Fleet Warfare 
+ORGANIZATION 
+Component Commands, Numbered Fleets, and the Operational Level of Warfare 
+The component commander, whether in an NCC or JFMCC capacity, aligns 
+tactical activity in pursuit of operational objectives to achieve the military 
+objectives of the CCDR. The NFC, as the Navy’s highest tactical echelon, 
+executes the tactical activity within the assigned fleet. Figure 4-1 details roles 
+and responsibilities for NCCs and NFCs within the joint force. 
+Some NCCs command one or more NFCs while some NCCs are dual-hatted as 
+NFCs. In these dual-hat circumstances, NFCs still work at the TLW to employ 
+assigned forces and engage the enemy, and separately, in their component 
+commander role, work at the OLW to develop and sustain campaigns and 
+operations.  
+Unlike crisis or contingency operations, which are historically hard to predict, 
+geopolitical movements that could lead to peer/near-peer warfare and attendant 
+fleet warfare are unmistakable. Joint doctrine provides a clear C2 structure to be 
+used in such circumstances. Fleet warfare will be conducted under the auspices 
+of a JFMCC who reports to a CCDR or JFC. War games can inform appropriate 
+JFMCC assignments for various fleet warfare scenarios and enhance a common 
+understanding of the execution of multifleet operations required of an endeavor 
+of such scale and consequence. 
+Fleet warfare in this GPC era will require global coordination that crosses 
+traditional CCDR boundaries. The supported CCDR’s JFMCC will integrate 
+naval activity across CCDR lines under the authorities of a support command 
+relationship. The SECDEF establishes and prioritizes support between and 
+among CCDRs via the support command relationship. When a supporting 
+commander cannot fulfill the needs of the supported commander, the SECDEF 
+will be notified by either commander and will rely on the Chairman of the Joint 
+Chiefs of Staff and the Services to determine solutions. 
+
+Organization, Command and Control, and Fleet Warfare 
+46 NWP 3 
+ 
+Figure 4-1. Navy Component and Numbered Fleet Commander Roles and 
+Responsibilities Within the Joint Force. The Armed Forces of the United States 
+conduct military operations as a joint force. Navy component commanders (NCCs), in 
+concert with the CCDR’s theater strategy and desired military end states, establish 
+operational objectives and determine Navy major force deployment. NFCs, as the 
+highest tactical echelon, plan and execute battles and engagements. Of note, several 
+NFCs are currently dual-hatted as component commanders, and all could be designated 
+as JFMCCs.  
+  
+
+
+Organization, Command and Control, and Fleet Warfare 
+NWP 3 47 
+Level of warfare is tied to the objective of activity, not to 
+echelon of command. 
+Actions within the three levels of warfare are not associated with a particular 
+command level, unit size, equipment type, or force or component type. 
+Instead, actions are defined as strategic, operational, or tactical based on their 
+impact or contribution to achieving strategic, operational, or tactical objectives. 
+For example, Fleet ADM Chester Nimitz functioned among all three levels of 
+warfare in World War II. When discussing grand strategy with President 
+Roosevelt, he was working at the SLW. When planning the campaign to 
+advance sea control and power projection through the Marianas Islands with 
+ADM Raymond Spruance, he was working at the OLW. When he ordered 
+VADM Frank Fletcher to station his carriers to the northeast of Midway to avoid 
+detection on the eve of battle in June 1942, he was working at the TLW. 
+Notional Naval Operational Chain of Command  
+The operational chain of command begins with the President, and continues 
+through the SECDEF, to CCDRs, who are responsible for executing military 
+missions. These CCDRs exercise command authority over assigned forces via 
+Service component commanders. The NCC and the Marine Corps component 
+commander are peers, who both report to the CCDR. In some cases, a Marine 
+Corps component commander may also serve as a commanding general, Fleet 
+Marine Force subordinate to a fleet commander. 
+Current Navy Fleet Operational Chains of Command 
+The Navy’s current fleet organization includes naval component commands, 
+numbered fleets, and consolidated component/numbered fleet headquarters to 
+meet the demands of specific regions. The Navy’s traditional and doctrinal 
+warfighting configuration is the fleet, commanded by an NFC. A numbered fleet 
+is the Navy’s highest tactical echelon and comprises various TFs, TGs, TUs, and 
+TEs for the purpose of prosecuting specific naval operations. Figure 4-2 depicts 
+the current Navy fleet operational chain of command. 
+“In the U.S. system, it [a Navy fleet] is another maneuver arm for the naval 
+component. I don’t really own battlespace per se, as I own mission. If I’m 
+given a mission, in the Arctic, or the North Atlantic or Western Atlantic or 
+Southern Atlantic, I address that mission.”50 
+VADM Andrew Lewis, Commander, United States Second Fleet, 2020 
+                                                           
+50 Lewis, Andrew VADM. 05 August 2020, Available at: https://seapowermagazine.org/admiral-cool-to-
+notion-of-separate-arctic-fleet/. 
+
+Organization, Command and Control, and Fleet Warfare 
+48 NWP 3 
+   
+Figure 4-2. Current Navy Fleet Operational Chains of Command 
+
+Organization, Command and Control, and Fleet Warfare 
+NWP 3 49 
+COMMAND AND CONTROL 
+Successful C2 coordinates intelligence, maneuver, and fires to detect and attack 
+an enemy before it can detect and attack us. Thus, C2 is the art of leading people 
+and managing information through a faster, more effective operational cycle than 
+the enemy while dealing with constrained time and unconstrained uncertainty. It 
+is an integral part of the sensor-shooter fight critical to tactical success in fleet 
+warfare. C2 aligns tactical commanders and guides their activity towards 
+operational and strategic objectives. 
+The defining C2 challenge facing military commanders has always been 
+directing activity in an uncertain and changing environment. In his study of 
+command in war spanning 25 centuries, the military theorist Martin Van Creveld 
+concludes that the decisive feature of command structure is determined by the 
+treatment of uncertainty. Confronted with a task, and having less information 
+available than is needed (an inherent and enduring feature of warfare) there are 
+two choices: increase the information processing capability of the organization, 
+and design the organization to enable it to operate on less information.51 
+The Navy’s historic experience with mission command is a classic example of 
+the latter, though that legacy does not obviate the need, or value of, increasingly 
+capable information processing capabilities.  
+Historic patterns of war suggest that periodic trends that rely on centralization 
+inevitably fall short against the realities of globally dispersed operations, 
+equipment malfunction, deliberate deception operations, and of course, the fog 
+and friction of war. Furthermore, the increasing speed, automation, and reach that 
+are changing the character of fleet warfare will likely exacerbate deficiencies in 
+C2 constructs.52 Commanders must determine command arrangements to best 
+employ forces and integrate new or emergent technologies given inherent 
+capabilities and expected threats of the time. 
+  
+                                                           
+51 Van Creveld, Martin. Command in War, Harvard University Press, 1985, pp. 269-270. 
+52 The Navy’s current composite warfare commander command structure is a nuanced form of mission 
+command termed “command by negation.” Developed during the Cold War to manage the complexity of 
+battle against a peer naval power, it distributes C2 among commanders to decentralize warfighting 
+activities, while providing the overall tactical commander the ability to deny authority to any intended 
+action signaled by a subordinate. Its efficacy in fleet warfare on a global scale has yet to be tested.  
+
+Organization, Command and Control, and Fleet Warfare 
+50 NWP 3 
+The fact that, historically speaking, those armies have been most 
+successful which did not turn their troops into automatons, did not attempt 
+to control everything from the top, and allowed subordinate commanders 
+considerable latitude has been abundantly demonstrated. The Roman 
+centurions and military tribunes; Napoleon’s marshals; Moltke’s army 
+commanders; Ludendorff’s storm detachments; Gavish’s divisional 
+commanders in 1967—all these are examples, each within its own stage 
+of technological development, of the way things were done in some of the 
+most successful military forces ever.  
+ the realization that certainty is the product of time as well as of 
+information, and the consequent willingness to do with less of the latter 
+in order to save the former; 
+ the postulation by higher headquarters of minimum, rather than 
+maximum, objectives; 
+ the freedom granted junior commanders to select their own way to the 
+objective in accordance with the situation on the spot, thus cutting 
+down on the amount of data processing required; 
+ and the willingness of superior headquarters to refrain from ordering 
+about their subordinates’ subordinates 
+all these are indispensable elements of what the Germans call 
+Auftragstaktik, or mission-oriented command system. 
+It is not enough, however, simply to allow subordinate commanders wide 
+latitude and then demand that they fill it with their initiative; to do so they 
+must first be properly trained and then be provided with the right 
+organizational means.53 
+Martin Van Creveld 
+Command in War 
+  
+                                                           
+53 Van Creveld, Martin. Command in War, pp. 270-1. Creveld continues, “In any large organization, the 
+virtues of formal communications systems—standardization, brevity, and precision—cannot be denied; 
+those very virtues, however, also make such systems more subject to interruption and less flexible as a 
+vehicle for original ideas … It must be guarded against by a design that deliberately leaves room for 
+face-to-face [person-to-person], unstructured interaction among people who know each other well enough 
+in order not to limit their exchanges entirely to the line of business.” 
+
+Organization, Command and Control, and Fleet Warfare 
+NWP 3 51 
+Command arrangements include force task organization, tasks assigned to 
+formations, areas of responsibility, and command relationships among commanders. 
+As we will almost invariably fight alongside allies and partners, combined force 
+interoperability and/or integration is also a force-multiplying consideration. 
+There are four command relationships: combatant command (command 
+authority), operational control, tactical control, and support. Commanders are 
+responsible for ensuring that relationships among subordinate commanders are 
+clearly delineated and understood. Additionally, for the support relationship, it is 
+the commander’s responsibility to ensure subordinate commanders explicitly 
+understand the degree of authority and support both to be provided and received. 
+Commanders must also exercise sound judgment regarding decentralization, balancing 
+three primary approaches to C2 depending on mission and circumstance. The first is 
+command by direction, in which the commander observes the battlespace from a 
+vantage point and then personally directs forces against the enemy. The second is 
+command by planning, in which the commander tries to plan every move in advance, 
+relying on highly trained forces and strict discipline. The third is command by 
+influence, also known as mission command, in which the commander outlines desired 
+objectives for subordinates to accomplish and then relies on them to exercise 
+disciplined initiative based on local situational awareness and lowered decision 
+thresholds. Though the three are not mutually exclusive, and are often employed in 
+combination, mission command is the Navy’s predominant approach to command. 
+Command by direction and command by planning seek to eliminate uncertainty. 
+In contrast, mission command seeks to reduce the need for certainty. 
+Naval warfare remains a human endeavor, a contest of wills dependent on leaders 
+who can understand the balance between time and certainty, and prudently 
+determine risk to exploit fleeting opportunities for mission accomplishment. This 
+requires the cultivation of a confident warfighting culture founded upon technical 
+mastery of weapons, sensors, networks, platforms, and tactics, a relentless 
+mission focus, and the employment of mission command to enable the aggressive 
+but disciplined initiative of subordinates. 
+Mission Command 
+Mission command is the conduct of military operations through decentralized 
+execution based upon mission type orders and commander’s intent. Centuries of 
+global independent operations, with minimal communication back to higher 
+headquarters, have cultivated a rich culture of mission command in the Navy. 
+Nonetheless, it is not enough to rely on heritage alone to reap the warfighting 
+advantages inherent in mission command. 
+
+Organization, Command and Control, and Fleet Warfare 
+52 NWP 3 
+Effective mission command is instilled through an institutional development 
+process and daily waterfront interactions that inculcate its precepts in peace, in 
+preparation for war. It is fostered through mutual trust and confidence between 
+leaders and subordinates at all levels of command. It is focused through 
+continuing and common education among officers, interactive conferences, 
+informal discussions, tabletop exercises, war games, experiments, and exercises 
+at sea that address likely tactical scenarios, as well as lessons learned from 
+real-world operations. It is nurtured through personal attention and nourished 
+through practical experience; empowered through shared understanding and 
+enabled by clear commander’s intent. It is not an accident of personality or 
+circumstance.  
+The nature of warfare in the maritime domain has always demanded a high 
+degree of disciplined initiative and independent decision making by deployed 
+commanders in support of a well-defined objective. The changing character of 
+fleet warfare reinforces the requirements for commanders at all levels to exploit 
+the capabilities of mission command based on the variables of the circumstance 
+and commander’s judgment. 
+Mission command is not a blank check, but a carefully understood construct 
+based on trust, clear commander’s intent, a shared understanding of desired end 
+state, and a prudent sense of risk, while balancing time and uncertainty. Mission 
+command is as necessary in information-overloaded environments as it is in 
+information deficient ones. Mission command is a strategic investment that 
+maximizes naval combat power.  
+Commander’s Intent 
+Mission command enabled by commander’s intent remains our primary means 
+of aligning tactical activity with strategic effect. 
+Commander’s intent is a clear and concise expression of the purpose of the 
+operation and the desired military end state that supports mission command, 
+provides focus to the staff, and helps subordinate and supporting commanders 
+act to achieve the commander’s desired results without further orders, even when 
+the operation does not unfold as planned.  
+Commander’s intent is the essential complement to mission command. It 
+provides unity of effort regarding objective and purpose. Seniors empower their 
+subordinates with the authority, and responsibility, to adapt their methods as the 
+situation unfolds, based on a common understanding of desired outcomes. This 
+requires mutual trust and a shared understanding of the purpose of the mission. 
+
+Organization, Command and Control, and Fleet Warfare 
+NWP 3 53 
+The changing character of fleet warfare, where adversaries can increasingly 
+challenge traditional communication paths in maritime, space, and cyberspace 
+domains, or where the immensity of information can overwhelm an improvident 
+commander, requires a commitment to creating shared understanding between 
+seniors and subordinates. This essential element of command relationships is 
+necessary to generate desired tempo of operations, mass effects from distributed 
+forces, and seize the initiative in naval warfare.  
+I have concluded that the order [generated from the Navy planning 
+process] is for watchstanders and subordinate planners, the intent is for 
+commanders. It was clear to me that my planners could only get me so far. 
+I needed to add clarity to their words and do it in a manner that made sense 
+to my subordinate commanders. Without that added clarity, the shared 
+awareness, disciplined initiative, and prudent risk-taking I was trying to 
+achieve would remain opaque.54 
+CAPT Bill Shafley 
+Command and Control in a Denied or Degraded Environment 
+Command and control in a denied or degraded environment (C2D2E) is the 
+exercise of C2 while access to and use of critical information, systems, and services 
+are reduced or prevented.55 This denial may be caused by adversary action, the 
+physical environment, or our own deliberate decisions as we seek surprise or other 
+advantage. Tactical success in such environments will rely heavily on disciplined 
+initiative by commanders wholly aligned with operational objectives.  
+The challenge posed by C2D2E is that, as our capabilities increase, so too do their 
+burdens and vulnerabilities, whether data links, communication paths, or cyberspace 
+connections. Though these capabilities provide tremendous tactical advantage, they 
+may be vulnerable in degraded or denied C2 environments that adversely affect their 
+performance and tactical relevance. Commanders at all levels must recognize such 
+degradations and compensate with the given means at their disposal. 
+Science and technology have provided commanders with a remarkable array of tools 
+to enhance decision making and timeliness. The NFC must effectively integrate these 
+systems to maximize warfighting effectiveness, while retaining the ability to fight in 
+denied or degraded environments. We must be able to operate without exquisite 
+capabilities when denied by the adversary, the environment, or by our own accord 
+for operational and tactical advantage. That is the balance between the art and science 
+of exercising C2 in today’s information-intensive era.  
+                                                           
+54 Shafley, Bill CAPT. Put the Commander Back in Commander’s Intent, Seamanship and Leadership, Center 
+for International Maritime Security, 13 May 2020, http://cimsec.org/put-the-commander-back-in-
+commanders-intent/43587.  
+55 NTTP 3-32.2, Assured Command and Control (This publication is classified SECRET). 
+
+Organization, Command and Control, and Fleet Warfare 
+54 NWP 3 
+KEY POINTS 
+ Navy fleets are fighting fleets. The Navy’s traditional and doctrinal 
+warfighting organization is the fleet, commanded by an NFC. The numbered 
+fleet is the Navy’s highest tactical echelon. 
+ Fleet commanders, when serving as a CCDR’s Service component 
+commander or as a JFMCC, work at the OLW. When NFCs work without 
+those additional OLW duties, they function at the TLW in leading 
+subordinate naval forces. 
+ Level of warfare is tied to responsibilities within the joint C2 structure or to 
+objective of activity, not to echelon of command. 
+ The defining challenge of military C2 is the treatment of uncertainty 
+throughout all levels of command.  
+ Mission command is the Navy’s predominant approach to command. 
+Mission command is instilled through an institutional development process 
+and daily waterfront interactions, nurtured through personal attention, and 
+nourished through practical experience. Seniors empower their subordinates 
+with the authority and responsibility to adapt their methods as the situation 
+unfolds, based on a shared understanding of desired outcomes. 
+ The paradoxical challenge posed by C2D2E is that the more we rely on 
+increasingly capable and sophisticated systems for warfighting efficacy, the 
+more we must ensure that we have a plan for operating without them. We 
+must be able to operate without exquisite capabilities when denied by the 
+adversary, the environment, or by our own accord for operational and tactical 
+advantage. 
+ Commanders must also strive to deny the enemy their own preferred C2 
+capabilities.  
+ 
+
+Fleet Command in Fleet Warfare 
+NWP 3 55 
+Appendix A 
+Fleet Command in Fleet Warfare 
+The Battle of the Philippine Sea 
+June 1944 
+The Battle of the Philippine Sea illustrates some of the complexity inherent in 
+fleet warfare. Campaigns coalesced and levels of warfare compressed in the 
+waters off Saipan in June 1944. Operational objectives competed for attention 
+precisely when outcomes of each were uncertain. Tactical situations unfolded 
+that offered significant operational rewards, depending upon the appropriate 
+balance of time and risk. Different commanders drew different conclusions, yet 
+they still had to fight as a fleet. 
+A review of this battle provides a case study into the cognitive demands common 
+to fleet warfare. Joint and naval campaigns merged and subsequently had to be 
+parsed under the pressures of pending combat. The first objective, the seizure of 
+the Marianas Islands, supported the joint power projection campaign to enable a 
+strategic bombing campaign on the Japanese mainland. The second, the 
+destruction of the Japanese fleet, reflects the sine qua non of naval warfare, the 
+battle for sea control. Faced with competing operational objectives, 
+ADM Spruance had to determine priorities, apportion forces, align commanders, 
+and balance risk while struggling with incomplete and contradictory information, 
+a rapidly shrinking time line, and a cunning and advancing adversary. 
+The following time line, interspersed with selected excerpts for context and 
+clarity, describes major elements leading up to and through the significant, yet at 
+the time unsatisfying, battle.56 In a situation filled with uncertainty, high stakes, 
+and high drama, ADM Spruance made operational decisions, decisions which 
+were debated at the time and still give rise to controversy some 70 years hence.57  
+  
+                                                           
+56 Unless otherwise noted, all excerpts from CDR Thomas Buell, Battle of the Philippine Sea, Proceedings, 
+July 1974, Vol. 100/7/857, excerpted from CDR Thomas Buell, The Quiet Warrior: A Biography of 
+Admiral Raymond A. Spruance, Naval Institute Press, 1987. 
+57 Though the Navy C2 construct in place during World War II does not match the current joint construct 
+within which we fight today, the lessons illustrated by the Battle of the Philippine Sea are timeless and 
+relatable to all commanders operating at the OLW. 
+
+Fleet Command in Fleet Warfare 
+56 NWP 3 
+After reviewing the time line, nine key aspects of fleet command in fleet warfare 
+as demonstrated in the Battle of the Philippine Sea are examined: 
+ Strategy 
+ Campaigns 
+ Operational objectives 
+ Operational environment 
+ Planning 
+ Commander’s intent 
+ Mission command 
+ Decision making 
+ Assessment. 
+TIME LINE 
+Prelude to Battle:  
+During early 1944 the Japanese had hastily reinforced the Marianas, sensing 
+that they were the next logical American objective. But by June 1944 the 
+fortifications were still incomplete, owing to a late start and to continual attacks 
+upon supply convoys by American submarines. Yet the Marianas were 
+formidable, defended by nearly 60,000 troops entrenched in rugged terrain and 
+bolstered by more than 50 tanks and considerable artillery of many sizes. 
+Spruance commanded over 127,000 amphibious assault troops, 
+transported and supported by over 600 ships. Vice Admiral Richmond 
+K. Turner, U.S. Navy and Marine Lieutenant General Holland M. Smith 
+directed the Northern Attack Force, the 2nd and 4th Marine Divisions 
+with the 27th Infantry Division in reserve, which would seize Saipan on 
+15 June. Once Saipan was secured, they would assault adjacent Tinian. 
+Many forces were dedicated to supporting the American assault troops. 
+Vice Admiral John H. Hoover’s land-based air forces in the Marshalls, 
+assisted by (Gen. Douglas) MacArthur’s air force in the Southwest 
+Pacific, would suppress enemy air in the Caroline Islands. 
+Vice Admiral Marc A. Mitscher’s Task Force 58 would smother Japanese 
+air power in the Mariana, Volcano, and Bonin Islands, and it would shield 
+the amphibious forces from any attacks by the Japanese fleet. The 
+Japanese fleet had avoided any major action since the Battle of Midway, 
+two years before, allowing plenty of time to rearm and retrain its depleted 
+carrier air groups.58 The Americans estimated that Japan had nine 
+combat-ready carriers in the southern Philippines. 
+                                                           
+58 Perhaps Buell references Midway because of its familiarity. The Battles of Eastern Solomons  
+(24–25 August 1942) and Santa Cruz (25–27 October 1942) occurred shortly after Midway (4–7 June 1942), 
+but Buell’s point stands: it had been nearly 2 years since a major carrier battle.  
+
+Fleet Command in Fleet Warfare 
+NWP 3 57 
+May 1944: 
+Opinions varied as to whether the enemy fleet would oppose the 
+Americans in the Marianas. Admirals Chester W. Nimitz and Spruance 
+had discussed the possibility and concluded that the enemy fleet 
+probably would not appear. Spruance assumed that the Japanese would 
+seek a fleet action only when they believed they would have a good 
+chance at success. 
+26 May: Spruance underway on board Indianapolis, flagship of U.S. Fifth Fleet. 
+Spruance departed Pearl Harbor on 26 May in his flagship, the 
+Indianapolis, and headed for the Marshall Islands, where the Fifth Fleet 
+had assembled in the lagoons of Majuro, Kwajalein, and Eniwetok. 
+There Spruance conferred on final plans with his principal 
+commanders: Turner, Smith, Mitscher, Hoover, and (RADM Richard) 
+Conolly. (Figure A-1, A and B) 
+9 June: Spruance and Indianapolis depart Eniwetok to join VADM Mitscher and 
+task force (TF) 58 to begin Marianas campaign. 
+11-13 June: U.S. air and battleship assault on Saipan; minesweepers sweep 
+beach approaches. (Figure A-1, C) 
+1100, 13 June: Submarine Redfin reports Japanese battle force entering Sulu Sea 
+(4 battleships, 6 cruisers, 6 destroyers). (Figure A-2, Event 1) 
+Spruance now turned his attention to the Redfin report. Although it 
+indicated the Japanese Fleet might be headed for Saipan, the report was 
+still inconclusive. Spruance decided to proceed with the Saipan landings 
+on schedule and await further information about the Japanese 
+movements. On the other hand, Spruance had to alert the Fifth Fleet to 
+the implications of the Redfin sighting, and he also had to establish 
+preliminary contingency plans. 
+The implication was that the enemy fleet might assemble and attack the 
+American amphibious forces at Saipan as early as D+2 (17 June). 
+
+Fleet Command in Fleet Warfare 
+58 NWP 3 
+  
+Figure A-1. Fifth Fleet Movements, Pearl Harbor to Saipan, May–June 1944. Image from World War II Valor in the Pacific National Monument-Pacific Battles Map, National Archives Catalog, https://catalog.archives.gov/id/33754842. 
+
+Fleet Command in Fleet Warfare 
+NWP 3 59 
+15 June, D-Day: Marines land on Saipan; advance to their first day’s objectives. 
+Turner, apparently optimistic after the first day’s success, recommended an 
+18 June D-Day for Guam. Despite the activity of the still-distant Japanese 
+fleet, its intentions remained uncertain, so Spruance approved Turner’s 
+recommendation. If progress on Saipan slowed or if the Japanese fleet 
+appeared, he was prepared to reschedule the Guam landings. 
+1835, 15 June: Submarine Flying Fish reports a powerful Japanese naval force 
+(at least 3 carriers, 3 battleships, plus cruisers and destroyers) exiting 
+San Bernardino Strait headed eastward at high speed, able to launch air 
+strikes as early as afternoon 18 June. (Figure A-2, Event 2) 
+1945, 15 June: Submarine Sea Horse reports an enemy TF 200 nautical miles north 
+of Mindanao, within 2 days steaming of Saipan. (Figure A-2, Event 2) 
+AM 16 June: 
+Spruance was now certain that the Japanese fleet was seeking a fight 
+and would risk everything in a determined attack while the Americans 
+were entangled in the early and critical part of a large amphibious 
+operation. The 18 June D-Day for Guam clearly was not feasible, and 
+he postponed the Guam landings. 
+The Saipan invasion could not be cancelled, however, because it had 
+been underway for over a day. The American troops would be fighting 
+ashore when and if the Japanese fleet arrived; Spruance therefore 
+scheduled an immediate war council with Turner and Smith. 
+16 June, War Council: 
+“The Japanese are coming after us,” said Spruance when he met with 
+Turner and Smith. He was deeply worried about the transports’ safety 
+and asked Turner if he could move them to a safer position to the east. 
+Turner replied that the battle ashore was going badly. He was reluctant 
+to evacuate the transports because the troops desperately needed the 
+food and ammunition still in the ships’ holds. 
+"Well,” replied Spruance, “get everything that you don’t absolutely 
+need out of here to the eastward, and I will join up with Mitscher and 
+Task Force 58 and try to keep the Japanese off your neck.”  
+  
+
+Fleet Command in Fleet Warfare 
+60 NWP 3 
+Tactical Preparations: 
+ Spruance orders Mitscher to assemble and refuel TF 58 on 17 Jun in 
+preparation for battle.  
+ Mitscher’s carriers bombard airfields on Guam and Rota to inhibit 
+Japanese use. 
+ Long-range seaplanes begin searching for the Japanese fleet to the west 
+of the Marianas. 
+ Turner dispatches some of his newer heavy-bombardment ships to 
+augment TF 58. 
+AM 17 June: Search planes scouring westward approaches find no Japanese ships.  
+0510, 17 June: Submarine Cavalla reports 15-ship Japanese TF 800 nautical 
+miles west-southwest of Saipan. Spruance re-evaluates the Japanese 
+movements. (Figure A-2, Event 3) 
+AM 17 June: 
+Spruance considered the possible Japanese tactics. He assumed the 
+Japanese were after Turner’s transports. Their attacks probably would 
+begin with long-range carrier aircraft strikes, followed by a surface 
+engagement by their battleships, cruisers, and destroyers. The enemy 
+might split their forces, turn Spruance’s flank, and sneak behind TF 58 
+in order to fall upon Turner’s transports off the Saipan beaches. 
+The airfields on Guam and Rota were another threat, because they were 
+within easy range of American forces near Saipan. Despite Mitscher’s efforts 
+to neutralize the airfields, the airfields could be continually reinforced by 
+replacements flown in from Volcano and Caroline Islands. Furthermore, the 
+enemy could re-arm and refuel his carrier aircraft on those fields, then 
+re-attack without the planes having to return to their carriers. 
+Spruance pondered the best methods to employ Task Force 58 to meet 
+these threats. His operation orders for all his amphibious campaigns 
+contained a “Major Action Annex,” which purported to describe how 
+he intended to fight a fleet action. The annex envisioned that his main 
+body of battleships and cruisers would form a battle line, and the 
+carriers would operate to the rear. This plan, however, was flexible.  
+
+Fleet Command in Fleet Warfare 
+NWP 3 61 
+ Figure A-2. Days Leading up to the Battle of the Philippine Sea,  
+13–17 June, 194459 
+Throughout the morning of the 17th, Spruance and Moore (then-CAPT 
+Carl Moore, chief of staff) discussed what the battle plan would be. 
+Spruance had firmly established in his mind that his primary mission 
+was to protect Turner’s amphibious shipping. He wanted to sink the 
+Japanese fleet if he could, but only if the opportunity arose without risk 
+to Turner’s ships. 
+17 June: Fighting continues on Saipan “hot and heavy,” 1,500+ Americans had 
+been killed, and 4,000+ wounded. Turner’s transports land additional 
+troop reinforcements and supplies. Towards evening, a handful of 
+Japanese planes attacked and hit several amphibious ships; Turner 
+withdraws force to the east.  
+                                                           
+59 Vego, Milan. HM 22: Major Fleet-versus-Fleet Operations in the Pacific War, 1941–1945, 22. 
+https://digital-commons.usnwc.edu/usnwc-historical-monographs/22 (Map 13). 
+
+
+Fleet Command in Fleet Warfare 
+62 NWP 3 
+PM 17 June: Spruance writes the battle plan himself, and promulgates it to TF 58: 
+“Our air will first knock out enemy carriers as operating carriers, then 
+will attack enemy battleships and cruisers to slow or disable them. Lee’s 
+battle line (VADM Willis A. Lee, Surface Screen Commander for TF 58) 
+will destroy enemy fleet either by fleet action if enemy elects to fight or 
+by sinking slowed or crippled ships if enemy retreats. Action against the 
+retreating enemy must be pushed vigorously by all hands to ensure 
+complete destruction of his fleet.” 
+Spruance’s conventional yet aggressive battle plan was based entirely 
+upon one unstated assumption: his conviction that the Japanese 
+intended to grapple at close quarters off of Saipan. 
+PM 17 June: Mitscher asks Spruance his intentions for TF 58 that night 
+(17 June):  
+Spruance replied: “Desire you proceed at your discretion selecting 
+dispositions and movements best calculated to meet the enemy under 
+most advantageous conditions. I shall issue general directives when 
+necessary and leave details to you and Admiral Lee.” 
+Mitscher created a battle line under Lee’s command with one carrier 
+task group for close support and stationed the other three carrier task 
+groups behind the battle line relative to the expected location of the 
+advancing Japanese Fleet. 
+2115, 17 June: Submarine Cavalla reports Japanese fleet still approaching, 
+700 nautical miles west-southwest of Saipan. (Figure A-2, Event 4) 
+Spruance and Moore re-evaluated the Japanese movements, and new 
+conclusions emerged from their analysis. Increased bogey activity 
+indicated that the Japanese were shadowing Task Force 58, and it 
+seemed that the Japanese fleet was not converging upon Saipan as 
+rapidly as it could. It was as if the enemy, knowing where Spruance’s 
+carriers were located, was deliberately staying beyond the range of the 
+American search planes. The enemy seemed to be probing and feinting, 
+as if hoping to hit Turner while avoiding Task Force 58. 
+Spruance concluded that he had again misinterpreted the enemy’s 
+intentions. Before the Marianas operation he had believed that the 
+enemy fleet would not oppose the invasion; then, on the basis of reported 
+enemy movements in the Philippines, he had changed his mind and had 
+assumed they would seek a fleet action. “For the second time it turned 
+out I was wrong,” he (Spruance) later wrote Nimitz. “Their attitude 
+about risking their fleet had not changed. Their methods of operation 
+
+Fleet Command in Fleet Warfare 
+NWP 3 63 
+had changed, in that they were using carriers again. They intended to 
+use their fleet to exploit any advantages that their carrier air might gain. 
+They had no intention of throwing everything at us by coming in to 
+Saipan at high speed to fight it out.” 
+Spruance now had to change his battle plan to adapt to the newly 
+apparent Japanese tactics. Until he knew the locations of all major 
+elements of the Japanese fleet, he felt he could not leave Saipan 
+unprotected either to attack or to search for the enemy. The Japanese 
+alone would decide the time and the place that the fight would begin. 
+They knew where Spruance was, but he did not know where they were. 
+He would have to wait and let the enemy come to him. 
+AM 18 June: 
+Mitscher reports intentions to sail SW to confront Japanese fleet in likely 
+night action PM 18 June. But Spruance had drastically changed his 
+plans, and he quickly restrained his carrier commander by issuing new 
+instructions: “TF must cover Saipan and our forces in that operation.” 
+Spruance intended to stay near Saipan, searching westward by day, and 
+retiring eastward toward Saipan at night to prevent the Japanese from 
+passing them in the dark. Furthermore, neither Spruance nor Lee 
+wanted a night surface engagement proposed by Mitscher. Spruance’s 
+numerical superiority made him stronger by day, while the hazards of a 
+night melee favored the numerically weaker Japanese, who were better 
+prepared for night action. 
+18 June: Spruance approves Mitscher’s recommendation to steam westward 
+during the day searching for the Japanese carrier force.  
+He would reverse course toward Saipan at nightfall and stay within 
+striking range of the enemy’s northern flank. If search reports were 
+favorable, he would conduct a night-fighter and torpedo attack.60 
+Mitscher’s searches to the west were fruitless throughout the day of the 
+18th. Yet bogies continued to shadow the TF, convincing Spruance, more 
+than ever, that the enemy was monitoring his movements with long-
+range carrier and cruiser planes (Japanese aircraft had 200NM search 
+range advantage due to lack of armor and self-sealing fuel tanks). 
+2000, 18 June: Spruance turns TF 58 eastward at 2000 to return to vicinity of 
+Saipan.  
+                                                           
+60 ComFifthFleet War Diary for Month of June 1944, p. 18. As noted in Vego, Milan, HM 22: Major 
+Fleet-versus-Fleet Operations in the Pacific War, 1941–1945, Historical Monographs. 22. 
+
+Fleet Command in Fleet Warfare 
+64 NWP 3 
+2200, 18 June: Nimitz sends message to Spruance that CINCPAC radio 
+interceptors located Japanese commander in chief flagship at 2030 
+located 350 nautical miles west-southwest of TF 58. 
+(Figure A-3, Event 5) 
+2325, 18 June: Mitscher proposes pursuit of Japanese carriers:  
+Mitscher contacts Spruance on TBS (acronym for “talk between ships”) 
+and requests to turn westward at 0130 in order to launch attack against 
+Japanese force at 0500:  
+“PROPOSE COMING TO COURSE 270 AT 0130 IN ORDER TO 
+COMMENCE TREATMENT AT 0500. ADVISE.”  
+2346, 18 June: Submarine Stingray transmission is jammed by Japanese forces. 
+Stingray is located 135 nautical miles south of suspected Japanese main 
+body. (Figure A-3, Event 6)  
+0038, 19 June: Spruance owes Mitscher a response; he must decide whether to 
+go west and seek the enemy or head east and protect the amphibious 
+operation at Saipan.61 (Figure A-3, Event 7) 
+Spruance summarized his estimate of the situation to the staff. Nothing 
+was clear, he said. The Japanese fleet might be concentrated, or it might 
+be divided into two or more groups. The enemy might be advancing 
+directly toward Saipan, he might be remaining at long range from 
+Saipan, or he might be maneuvering for a flanking attack from the north, 
+the south, or from both directions.  
+Spruance announced his decision: TF 58 would return to Saipan and 
+would not head west as Mitscher had (again) recommended. Had 
+anyone anything else to say? he asked. All were silent. 
+  
+                                                           
+61 For a concise and more detailed review of ADM Spruance’s decision, see HM 22: Major Fleet-versus-Fleet 
+Operations in the Pacific War, 1941–1945. 
+
+Fleet Command in Fleet Warfare 
+NWP 3 65 
+ Figure A-3. ADM Spruance’s Decision on the Eve of Battle,  
+19 June, 194462 
+Spruance’s reply to Mitscher: “CHANGE PROPOSED IN YOUR TBS 
+MESSAGE DOES NOT APPEAR ADVISABLE. BELIEVE 
+INDICATION GIVEN BY STINGRAY MORE ACCURATE THAN THAT 
+CONTAINED IN CINCPAC DISPATCH. IF THAT IS SO, 
+CONTINUATION AS AT PRESENT SEEMS PREFERABLE. END RUN 
+BY OTHER FAST ONES REMAINS A POSSIBILITY AND MUST NOT 
+BE OVERLOOKED.”63 
+  
+                                                           
+62 Vego, Milan, HM 22: Major Fleet-versus-Fleet Operations in the Pacific War, 1941–1945. 
+63 Commander, task force (CTF) 58, action report, Sept 11, 1944, 49 as noted in James D. Hornfischer, The 
+Fleet at Flood Tide, Bantam, 2016, p. 175. Hornfischer continues: “With the Fifth Fleet commander’s final 
+refusal to chase west, the second-guessing took root. Arleigh Burke was incredulous. He and his special 
+assistant, Jimmie Thach, stayed up most of the night proposing terse dispatches for Mitscher to send to 
+Spruance, demanding a reversal of course. “We wrote dozens of them,” Thach said, “some stronger than 
+others. Finally, we wrote one that said, ‘You can have my job if you won’t let me run toward the enemy.’ 
+Mitscher wouldn’t send that one. But I would have done it, I’m sure.” 
+
+
+Fleet Command in Fleet Warfare 
+66 NWP 3 
+0430, 19 June: Dawn searches from TF 58 find no Japanese force. 
+0500, 19 June: Japanese “bogeys” detected to the southwest flying toward Guam 
+and Rota. 
+0500-0930, 19 June: Aerial dogfights over Guam; U.S. air strikes on airfields 
+and planes. 
+1000, 19 June: 
+Hordes of enemy aircraft approach TF 58—some from enemy carriers 
+from west and some from Guam and Rota … Indianapolis sounded 
+general quarters … The admiral [Spruance] came to the flag bridge to 
+watch the action. Mitscher was in charge, and Spruance quietly read in 
+his chair during most of the ensuing battle. 
+1000-1500, 19 June: Aerial combat at sea, dubbed on the deckplates the Great 
+Marianas Turkey Shoot: 
+It was a spectacular, one-sided battle. Mitscher’s deployment of Task 
+Force 58 worked precisely as envisaged. The enemy planes initially 
+concentrated their attacks on Lee’s battle line, stationed in front of the 
+carriers and acting both as a magnet for the Japanese planes and as a 
+buffer for the carriers in the rear. The surface ships belched smoke from 
+their antiaircraft batteries, darkening the sky with black, bursting flak. 
+The American carriers continually launched and recovered their 
+aircraft, which when airborne climbed into the western sky toward the 
+cloud of attacking Japanese planes. 
+Tactical Situation and Direction: 
+ Japanese carriers remain undetected. 
+ Spruance sends new orders to Mitscher: “Desire to attack enemy 
+tomorrow if we know his position with sufficient accuracy.” 
+1800, 19 June: Spruance has reliable reports that a submarine torpedoed a 
+Japanese carrier 175 nautical miles west of TF 58, Spruance and TF 58 
+chase Japanese force to the west. 
+1000, 20 June: Japanese forces remain undetected, Spruance tells Mitscher that 
+if they find nothing by end of the day, they will return to Saipan. 
+1545, 20 June: Search planes locate Japanese force 300 nautical miles west of 
+TF 58: 
+If TF 58 launched that afternoon, the aviators would have to conserve 
+their fuel, attack in dusk, and land at night with gas tanks nearly empty. 
+
+Fleet Command in Fleet Warfare 
+NWP 3 67 
+The Americans might be able to wreak considerable damage upon the 
+enemy, but a follow-up attack in the morning would be nearly impossible 
+owing to the confusion and delay of a night recovery. Mitscher therefore 
+told Spruance that the carriers “were firing in their bolt,” and that he 
+wanted to attack immediately. Spruance concurred. 
+1630, 20 June: 226 aircraft launch to attack Japanese force. 
+1645, 20 June: Distance to enemy fleet revised to 330 nautical miles. 
+1830-1900, 20 June: Uncoordinated aerial attack against Japanese fleet. 
+2100-2300, 20 June: Distressed night recovery aboard carriers: 
+The ships turned on their lights and fired star shells and flares to guide 
+the aircraft home. The returning planes plopped aboard any flight deck 
+they could find. Many planes fell short; either from battle damage or 
+fuel exhaustion, and destroyers rescued the pilots. The scene before 
+Spruance was unreal: planes milling overhead and crashing in the 
+water; the tired, strained voices of exhausted pilots on the radio; 
+searchlight beams stabbing the sky as homing beacons, or sweeping the 
+water in search of survivors; ghostly flares sputtering over the warm, 
+calm waters fired by gallant pilots in life jackets waiting for rescue. 
+1920, 20 June: The Battle of the Philippine Sea is over: 
+At 1920, when Task Force 58 was 675 miles west of Saipan and 
+545 miles from Samar in the central Philippines, Spruance admitted that 
+the enemy was out of reach and ordered retirement. 
+In the sense that the Japanese Fleet had escaped, the battle had been 
+inconclusive, but they had not escaped without damage. Enemy losses in 
+ships—three carriers and two oilers—amounted to over 100,000 tons, but 
+this was nothing compared to the loss of practically an entire carrier air 
+force which had been built up and trained at great effort. While six 
+carriers were on their way home, they were of little use without pilots to 
+operate from them. Later events showed quite clearly how effectively 
+Japanese naval aviation had been destroyed. In the very next month the 
+Japanese considered a plan to take the entire surface force back to the 
+Marianas for one final battle but called it off for lack of air strength. Fleet 
+opposition to our landings in the Palaus was impossible for the same 
+reason. But more important still, the Japanese Fleet had failed to destroy, 
+or even interrupt, our forces engaged in the capture of Saipan. A battle 
+had been won which, with the possible exception of Midway, would have 
+more influence on the final outcome than any other battle of the whole 
+war. And, it had been accomplished without the loss of a single ship. 
+
+Fleet Command in Fleet Warfare 
+68 NWP 3 
+All of this was not known by the men of Task Force 58. Even if it were, 
+it would probably have been small comfort to them. They could see 
+nothing but a relatively unharmed enemy fleet disappearing over the 
+horizon and with it an opportunity which might never come again. In 
+what probably expressed the full measure of their chagrin, Admiral 
+Mitscher summed up the situation: 
+The enemy had escaped. He had been badly hurt by one aggressive 
+carrier air strike at the one time he was within range. His fleet was not 
+sunk.64 
+Epilogue: 
+The Japanese suffered irreplaceable losses: 476 planes and 
+445 aviators. The Americans lost 130 planes and 43 aviators. American 
+submarines sank two enemy carriers on the 19th, and Mitscher’s 
+aviators sank a third and damaged two others during the dusk attack on 
+the 20th. Although six Japanese carriers survived to steam another day, 
+their overwhelming loss of planes and aviators emasculated their 
+fighting strength for the remainder of the war. The Japanese carrier 
+navy remained afloat but impotent. 
+A Japanese perspective: 
+During the Pacific War there were two decisive naval battles in which 
+the whole outcome of the war hung in the balance. First was the Battle 
+of Midway in early June, 1942 … The second was in mid-June, 1944, 
+the Battle of the Philippine Sea. There were many defects still to be 
+remedied in our carrier striking force, but Combined Fleet was able to 
+engage in battle with a fair degree of self-confidence. Once again, we 
+suffered an aerial defeat in the opening phase of the battle which drove 
+us to a general retreat.65 
+  
+                                                           
+64 Van Wyen, Adrian O. The Battle of The Philippine Sea, February 1951 Proceedings Vol. 77/2/576. 
+65 Koyanagi, Tomijo RADM (ADM Kurita’s chief of staff). With Kurita in the Battle for Leyte Gulf, 
+Proceedings, February 1953, Vol. 79/2/600. 
+
+Fleet Command in Fleet Warfare 
+NWP 3 69 
+DISCUSSION 
+The Battle of the Philippine Sea was seen at the time as a tactical victory, but a 
+lost operational opportunity: “The enemy had escaped.” Nonetheless, 
+ADM Spruance’s Fifth Fleet supported the Marianas campaign through the final 
+capitulation of enemy forces on Guam on 8 August, thus achieving his assigned 
+mission of seizing the islands from the Japanese. One year later, the strategic 
+bombing that would end the war in the Pacific originated from the Marianas 
+island of Tinian. 
+As seen in the Battle of the Philippine Sea, a specific tactical engagement can 
+accomplish operational objectives leading to strategic effects. This battle exemplifies 
+the compression of levels of warfare common in the maritime domain where tactical 
+outcomes often have pronounced operational and strategic impact. 
+The introduction of a second operational objective, the destruction of the 
+Japanese fleet, offers the opportunity for a retrospective look at a fleet 
+commander and staff wrestling in real time to account for a new operational 
+reality while in the midst of pursuing their initial mandate.  
+To aid this contextual review, doctrinal terms associated with operational art are 
+defined below and then compared against the exigencies of the circumstances 
+surrounding various elements of the Battle of the Philippine Sea.  
+We will use this method to briefly examine the following as they pertained to the 
+Battle of the Philippine Sea: 
+ Strategy 
+ Campaigns 
+ Operational objectives 
+ Operational environment 
+ Planning 
+ Commander’s intent 
+ Mission command 
+ Decision-making 
+ Assessment. 
+  
+
+Fleet Command in Fleet Warfare 
+70 NWP 3 
+Strategy 
+Strategy. An idea or set of ideas for employing the instruments of national power in a 
+synchronized and integrated fashion to achieve theater, national, and/or multinational 
+objectives. (JP 3-0) 
+The stated challenge of the fleet commander lies in determining the sequence and 
+arrangement of force and capability in space, time, and purpose in a manner most 
+advantageous to successful tactical outcomes leading to strategic objectives. 
+Circumstances, however, may color the execution of this straightforward decree. 
+The back story leading to the Marianas campaign suggests that in joint and 
+combined arenas, various ways of developing strategy to achieve operational and 
+strategic objectives may differ among stakeholders.  
+General Douglas MacArthur, Commander-in-Chief of the Southwest Pacific 
+Area, had vociferously argued that the main axis of advance (to Japan) should 
+be westward along the northern coast of New Guinea to the Philippines, and 
+that Nimitz’s forces should be in a supporting role for his advance. Under 
+Admiral King, the Navy pushed for an advance across the central Pacific, 
+through the Caroline Islands (with atoll lagoons suitable for massive fleet 
+anchorages), with the intent of achieving a lodgment either on Formosa (now 
+Taiwan) or the coast of China. The Army-Navy impasse was broken when the 
+U.S. Army Air Forces broke with the Army and sided with the Navy and the 
+Central Pacific campaign, with the stipulation that the Marianas be taken. 
+From there, the new B-29 bomber could reach Japan. The Joint Chiefs of Staff 
+issued a directive on 12 March 1944 calling for the occupation of Saipan, 
+Tinian, and Guam by 15 June under the command of Admiral Chester Nimitz.66 
+RADM Samuel J. Cox, H-Gram 032 
+Though a synopsis of a complex process, it illustrates expected tensions in the 
+determination of the ways to achieve operational and strategic objectives in 
+wartime conditions requiring fleet warfare.67  
+  
+                                                           
+66 Cox, Samuel RADM. H-Gram 032: Operation Forager and the Battle of the Philippine Sea, Attachment 1, 
+Navy History and Heritage Command, June 2019.  
+67 See The General’s War: The Inside Story of the Conflict in the Gulf, by Michael R. Gordon and General 
+Bernard E. Trainor for a more recent example (DESERT STORM) of tensions inherent in determining ways 
+to achieve operational and strategic objectives in a joint and combined environment.  
+
+Fleet Command in Fleet Warfare 
+NWP 3 71 
+Campaigns 
+Campaign. A series of related operations aimed at achieving strategic and operational 
+objectives within a given time and space. (JP 5-0) 
+Campaigns coalesced off the coast of Saipan in June 1944. The first was the 
+campaign to seize the Marianas Islands to begin bombing the Japanese mainland 
+with new long-range United States Army Air Forces B-29s. The other was the 
+campaign against the Japanese fleet, for in fleet warfare maneuverability is the 
+prize, not territory. As long as the Japanese fleet possessed the possibility of 
+impeding the allies’ push to the Japanese mainland, it was a threat to be defeated, 
+whenever and wherever found. 
+The Marianas campaign fits neatly into the joint definition above, seize the 
+islands within the timetable to enable subsequent use of the airfields to bomb 
+Japan. Alternatively, the case study suggests that fleet warfare is a more 
+open-ended campaign that does not adhere neatly within the given time and space 
+doctrinal qualifier. Given the operational framework, attritional nature, and 
+historical record of fleet warfare, a more appropriate description may be “when 
+and where conditions are favorable.”  
+Planning for a campaign is appropriate when the contemplated military operations 
+exceed the scope of a single operation. Thus, campaigns are often the most 
+extensive joint operations in terms of time and other resources. CCDRs document 
+the full scope of their campaigns in the set of plans that includes the campaign plan 
+and all its subordinate and supporting plans. CCDRs plan and conduct campaigns 
+and operations, while Service and functional components conduct operations, 
+activities, battles, and engagements. It bears specific note that these are not 
+independent campaigns. CCDRs or functional component commanders can plan 
+and conduct subordinate campaigns or operations in support of another combatant 
+command’s campaign. 
+The Battle of the Philippine Sea demonstrates that freedom of action from and 
+within the maritime domain is the Naval Service’s greatest contribution to the 
+joint campaign. Both campaigns, the one to seize the islands and the one to 
+destroy the enemy fleet, were prosecuted with the singular purpose of enabling 
+joint power projection into mainland Japan to compel surrender and end the war.  
+  
+
+Fleet Command in Fleet Warfare 
+72 NWP 3 
+Operational Objectives  
+Objective. 1. The clearly defined, decisive, and attainable goal toward which an 
+operation is directed. (JP 5-0) 
+Two operational objectives competed for resources and attention during the 
+Battle of Philippine Sea. 
+The first objective, seize Saipan, was part of a sequential campaign to wrest 
+control of the Marianas Islands from the Japanese. This was part of a larger 
+campaign to project power onto the Japanese mainland. 
+The complementary objective, destroy the Japanese fleet, was part of a cumulative 
+campaign against Japanese naval capability. This was part of the Navy’s effort to 
+eliminate Japanese ability to contest the sea. The approaching enemy fleet was the 
+COG of that campaign, though with a separate, unbounded time line. 
+ADM Spruance recognized the opportunity presented by the tactical situation to 
+make progress in the cumulative campaign against Japanese maritime 
+war-making capability; but, he did so without forsaking the sequential campaign 
+necessary for joint power projection.  
+Joint doctrine states the commander must be able to describe the current state of 
+the OE, the assessed OE throughout the operation or campaign, and the desired 
+state of the OE when operations conclude to visualize an approach to solving the 
+problem.68 However, an underlying and unbounded campaign against an enemy 
+fleet will require constant consideration in addition to other efforts supporting 
+the joint force. 
+Operational Environment 
+Operational environment. The aggregate of the conditions, circumstances, and 
+influences that affect the employment of capabilities and bear on the decisions of the 
+commander. (JP 3-0) 
+Joint doctrine further amplifies this already broad definition by identifying no less 
+than 31 different factors in an attempt to demonstrate the complexity of a “holistic 
+view of the operational environment.”69 However, the primary driver in the above 
+                                                           
+68 JP 5-0, p. IV-6, 3.c.2. 
+69 JP 5-0, Figure IV-2, Holistic View of the Operational Environment. Joint doctrine further specifies that 
+understanding the OE helps the JFC to better identify the problem; anticipate potential outcomes; and 
+understand the results of various friendly, adversary, and neutral actions and how these actions affect 
+attaining the military end state. 
+
+Fleet Command in Fleet Warfare 
+NWP 3 73 
+scenario was an obvious and singular change in the operational environment, the 
+approach of the Japanese fleet and the dawning awareness of the threat by Fifth Fleet.  
+Conditions of fleet warfare provide conceptual clarity to the above joint doctrinal 
+guidance. By the time of the Marianas campaign in mid-1944, the nature of 
+information requirements had shifted from the operational to the tactical, and a 
+detailed understanding of the OE was less significant than trying to discern the 
+tactical realities that lay over the horizon. As the arc of activity shifted from 
+planning to execution in the days leading to battle, and the time line compressed 
+from the operational to the tactical, information required by all levels of 
+command narrowed in scope and specificity. 
+Though the doctrinal term had not yet been coined at the time, ADM Spruance’s 
+primary commander’s critical information requirement at the outset of the 
+campaign was whether the Japanese fleet would engage in battle. As that question 
+resolved over the days leading to confrontation, information requirements shifted 
+from the operational to the tactical, from whether they would attack, to the more 
+detailed questions regarding when, where, and how they would attack.  
+Note the value of the sighting reports from the submarines. Their independent and 
+corroborating reports reduced uncertainty at the operational level—“Spruance was 
+now certain that the Japanese fleet was seeking a fight”—and enabled focus on 
+management of the uncertainties at the tactical level. Though our ISRT capabilities, 
+what Wayne Hughes would call scouting, have magnified over time, this example 
+demonstrates their timeless value. 
+Technology now enables joint force and component commanders and their staffs 
+to access in near-real-time, very large amounts of information relating to aspects 
+of the OE. Information covering a wide range of issues relating to friendly, 
+neutral, and enemy forces and the civilian populace will be available throughout 
+the joint force. There will also be a large volume of information concerning 
+weather, terrain, cultural influences, and other aspects of the OE.70 Many of the 
+parameters listed in joint doctrine make perfect sense when considering the entire 
+joint theater; but, as the above example demonstrates, for purposes of fleet 
+warfare, determination of the most significant elements of the OE is paramount.  
+Ultimately, our goal is not to create perfect situational awareness, but 
+rather to leverage the most important commodity to a commander—time—
+to think through multiple concepts of operations which can be used to jump 
+start subordinate planning as battlefield conditions and objectives become 
+more apparent. 71  
+ADM Scott H. Swift 
+                                                           
+70 JP 2-0, p. I-1. 
+71 Swift, Scott ADM. A Fleet Must Be Able To Fight. 
+
+Fleet Command in Fleet Warfare 
+74 NWP 3 
+Navy Planning Process 
+The Navy planning process entails six steps: mission analysis, COA development, COA 
+analysis/war gaming, COA comparison and decision, plan or order development, and 
+transition. 
+Elements of each of these steps are discernable in the scenario above. Mission 
+analysis was a fluid process as understanding of the OE evolved. Submarine 
+sightings within an hour of each other, the evening of 15 June, of two separate 
+Japanese TFs, required a reconsideration of the plan to land at Guam on 18 June. 
+ADM Spruance convened a war council to review information to date and revise 
+the overall landing plan based on a changing OE. On 16 June, he ordered a 
+number of activities in preparation for combat, and on 17 June, he developed a 
+COA that he promulgated that evening. Later that night, additional information, 
+the sighting report from submarine Cavalla, made him realize again that his 
+assumptions for major fleet combat in the vicinity of Saipan were flawed, and 
+that the Japanese would likely use carrier air to strike at his TF from distance. By 
+the morning of 18 June, he realized that he would have to choose between seeking 
+the enemy fleet and protecting the landing at Saipan. This led to a day of 
+discussion and debate with his staff and his subordinate commanders regarding 
+the best COA to take. New and contradictory information received late the 
+evening of 18 June provided no additional clarity and perhaps confused tactical 
+understanding even more. At 0038, 19 June, ADM Spruance provided the 
+guidance that led to the next day’s aerial combat. 
+The planning process was perhaps not as neat as doctrine might propose, but all 
+the elements were present, considered, and revisited to account for new 
+information as it arrived. 
+Human experience shows that people, not organizations or management 
+systems, gets things done. 
+ADM Hyman G. Rickover 
+Commander’s Intent  
+Commander’s intent. A clear and concise expression of the purpose of an operation 
+and the desired objectives and military end state. (JP 3-0) 
+The abbreviated synopsis provides several instances of ADM Spruance conveying 
+commander’s intent throughout the evolving situation. His operations orders for 
+amphibious campaigns contained a Major Action Annex to describe how he 
+intended to fight a fleet action if required. He conferred with his principal 
+
+Fleet Command in Fleet Warfare 
+NWP 3 75 
+commanders while at anchor in various Marshall Island lagoons prior to sailing to 
+Saipan. As the prospect for fleet battle dawned, he convened a war council with 
+VADM Turner and Lt. Gen. Smith on 16 June to discuss and direct activity and 
+resources. As the enemy fleet approached, ADM Spruance rewrote and transmitted 
+new battle plans on 17 June: “our air will first knock out enemy carriers as operating 
+carriers …” As TF 58 prepared for combat, ADM Spruance had several TBSs and 
+written radio conversations outlining priorities and directing maneuvers to ensure 
+fleet battle would be fought under the advantageous conditions of daylight. 
+Commander’s intent certainly evolved with the changing situation. 
+ADM Spruance provided subordinate commanders his understanding of the 
+situation and his thinking as it evolved, and provided guidance and direction 
+appropriate to that understanding. This did not happen without debate. 
+VADM Mitscher, and his chief of staff, CAPT Burke, were vocal and persistent 
+in letting the fleet commander know how they thought events should unfold. 
+Though there may have been disagreement over best COAs, the back and forth 
+enhanced a shared understanding in an environment defined by incomplete and 
+uncertain information. That shared understanding was essential to the preparation 
+for and execution of successful sea battle. 
+Mission Command  
+Mission command. The conduct of military operations through decentralized 
+execution based upon mission-type orders. (JP 3-0) 
+Though hints of personality appear in the above scenario, there was an underlying 
+trust and confidence between commanders. This mission command relationship 
+enabled thoughtful (even forceful) deliberations as the situation evolved as well as 
+appropriate autonomy as battle unfolded—“Spruance quietly read in his chair ... ” 
+This appeared to be a practiced arrangement. In the days preceding battle, Spruance 
+relied on Mitscher to position TF 58 as he saw necessary to meet the enemy under 
+the most advantageous conditions—“Desire you proceed at your discretion.” 
+It is interesting to note that on both occasions Mitscher directed tactical 
+arrangements in preparation for battle he used the general organization contained 
+in Spruance’s Major Action Annex by placing a line of battleships between the 
+approaching Japanese fleet and U.S. carriers.  
+This may reflect the warfighting sensibilities of the marshalled naval power, and 
+probably entailed previous discussions regarding best tactical disposition and 
+fleet combat with such forces. In any event, it is apparent that there was a 
+like-mindedness between U.S. commanders regarding tactics when confronting 
+
+Fleet Command in Fleet Warfare 
+76 NWP 3 
+an opposing carrier force. Spruance did not need to provide additional specific 
+detail once he established the primary objective. Since there were no battleships 
+available for the Battle of Midway, and only one at the Battle of Eastern 
+Solomons, the most recent carrier battle 2 years prior, this tactical arrangement 
+would have been the result of battle-line-with-carrier exercises of the 1930s, 
+wargaming battle lines and carriers at Newport, and contemplation and 
+conversation among commanders, rather than experience. Thus, mission 
+command enabled by commander’s intent at the Battle of the Philippine Sea was 
+not an inspired accident of personality, but a practiced relationship based on 
+prewar preparation and the realities of war. Spruance determined the operational 
+objective, and “quietly read” while Mitscher fought the tactical fight. 
+In its highest state, shared context and understanding is implicit and 
+intuitive between hierarchal and lateral echelons of command, enabling 
+decentralized and distributive formations to perform as if they were 
+centrally coordinated. When achieved, these practices result in 
+decentralized formal decision-making throughout the force, leading 
+implicitly to the opportunity to gain advantageous operational tempo over 
+adversaries.72 
+Gen. Martin Dempsey, Chairman of the Joint Chiefs of Staff 
+Mission Command White Paper 
+Decision Making 
+Decision. In an estimate of the situation, a clear and concise statement of the line of 
+action intended to be followed by the commander as the one most favorable to the 
+successful accomplishment of the assigned mission. (JP 5-0) 
+OLW decisions affect milestones en route to strategic effects.  
+ADM Spruance made several such decisions in the scenario above. The first was 
+the initial determination to land at Saipan as scheduled on 15 June, aware at the 
+time of the Redfin sighting of the Japanese Battleship TF. He then delayed the 
+Guam landing when the tactical situation indicated fleet combat was likely.  
+A decision requires first an estimate of the situation, and the one presented by 
+ADM Spruance on the night of 18/19 June was succinct: “Nothing was clear.” 
+He didn’t know where the enemy was, he didn’t know what their disposition was, 
+and he didn’t know what their ultimate target was. Yet he had to decide. 
+                                                           
+72 Dempsey, Martin Gen. Mission Command White Paper, 3 April 2012. 
+
+Fleet Command in Fleet Warfare 
+NWP 3 77 
+He had a solid grasp of the shrinking time line and well understood the bounds 
+of uncertainty. He made the OLW decision to buy down risk to the Marianas 
+campaign by closing Saipan, knowing that in doing so he was ceding the initiative 
+to the Japanese in the coming fleet battle. Yet he had done so under advantageous 
+circumstances, ensuring that combat would likely take place by day.  
+This also demonstrates the common tradeoffs between time and risk. Had he 
+sought the Japanese fleet as Mitscher recommended at 2325 on 18 June, 
+proposing a dawn attack launch, he would have decreased the time to likely 
+combat, but at an increased risk to the Saipan landing.  
+The combination of courage, ethical leadership, judgment, intuition, situational 
+awareness, and the capacity to consider contrary views helps commanders make 
+insightful decisions in complex situations. These attributes can be gained over 
+time through training, education, and experience. Effective commanders 
+combine judgment and visualization with information to determine whether a 
+decision is required, when to decide, and what to decide with sufficient speed to 
+maintain the initiative. 
+Assessment 
+Assessment. 1. A continuous process that measures the overall effectiveness of 
+employing capabilities during military operations. 2. Determination of the progress 
+toward accomplishing a task, creating a condition, or achieving an objective. (JP 3-0) 
+Theater strategic and operational-level assessments provide a methodology for joint 
+commands and Services to adjust planning and execution to be more effective, match 
+the dynamic OE, and better identify their risks and opportunities. 
+Fleet warfare, however, entails the burden of trying to discern the level of 
+remaining enemy capability. Specific campaigns will have their own assessment 
+criteria. Certainly, in the Marianas land campaign, the level of resistance 
+provided obvious and real-time feedback. Unlike measuring progress in terms of 
+territory seized, however, the Battle of Philippine Sea demonstrates fleet warfare 
+assessments must be measured against remaining enemy capability.  
+Commanders all knew that fleet combat of 19 June was very successful; by the 
+end of the day, they had a good sense of the number of enemy aircraft U.S. forces 
+had knocked from the sky. This enabled ADM Spruance to balance campaign 
+assessments and conclude that the landings were sufficiently safe from Japanese 
+naval threat without TF 58 carrier protection, and there was a window within 
+which he could pursue the enemy fleet. He then re-apportioned forces between 
+the two campaigns—freeing TF 58 from their protection duties near Saipan and 
+directing them westward to pursue the Japanese. Assessment enabled him to 
+change operational objectives. 
+
+Fleet Command in Fleet Warfare 
+78 NWP 3 
+Assessment in the fleet warfare campaign however, held that the Japanese 
+carriers were still a potent force, capable of inhibiting U.S. freedom of action, 
+despite their losses of aircraft and crew. The strength of that assessment is 
+manifest in the boldness of the launch of 226 planes in the late afternoon of 
+20 June, doubtful from the outset of their ability to safely return. Assessment of 
+remaining enemy capability compelled them to attack.73 
+Technology and processes to assist and enable assessment have evolved greatly 
+since the fabled attack of 20 June 1944. What has not changed however, is the 
+focus on enemy capability as the measure of effectiveness in fleet warfare and 
+the fundamental focus of operational assessment. Joint campaigns will have their 
+own specific assessment criteria, but a tandem and ever-present assessment effort 
+will always be required to track the capability of the enemy fleet.  
+Assessment in fleet warfare will invariably reduce to estimating the enemy’s 
+capability to inhibit our maneuverability and freedom of action in the maritime 
+domain. Fleet ADM King’s guidance to the Navy in his 1944 War Instructions 
+underscores this point: “Sink enemy ships. It is usually better to sink one than to 
+damage two.”74 
+  
+                                                           
+73 Of note, the assessment of residual fleet capability, despite the losses of air crew and planes, led 
+ADM William “Bull” Halsey to chase north to seek those same emasculated carriers during the Battle of 
+Leyte Gulf 4 months later, thereby leaving the San Bernardino Strait open for Kurita’s battleship force to 
+steam through and threaten the Leyte landing, until they encountered CDR Ernest Evans, and the rest of 
+Taffy 3. 
+74 This tactical guidance reflects the staying power of ships fighting with weapons of the times, primarily guns 
+and torpedoes. The reader would do well to consider Wayne Hughes and Robert Girrier’s guidance in Fleet 
+Tactics and Naval Operations, p. 158: “The tactical rule is to put every threatening enemy ship out of action 
+first. A firepower kill is the proper tactical measure of effectiveness; a sinking may be a broader campaign 
+goal.” The planned distribution of fires against enemy ships deserves considerable pre-combat attention and 
+perhaps discussion in fighting instructions. 
+
+Fleet Command in Fleet Warfare 
+NWP 3 79 
+CONCLUSION 
+The Battle of the Philippine Sea illustrates the complexities and ambiguities of 
+fleet warfare. 
+Campaigns converged, objectives competed, and tactical and operational levels 
+of warfare became intertwined. Commanders had differing perspectives and 
+different ideas. Information was uncertain. Dangers to force and mission were 
+real and growing. Risk and time were moving in opposite directions. And, when 
+it was over, despite spectacular results, immediate impacts were unsatisfying, 
+and debates persisted. 
+Through it all, the fleet commander continually assessed the changing situation, 
+established priorities, aligned his commanders, and monitored the action. In the 
+end he allowed as much combat as he thought he could afford without 
+jeopardizing the assault on Saipan. He knowingly bought down risk to mission 
+by ceding initiative to the Japanese. They knew where he was, but he didn’t know 
+where they were until the day after aerial combat. 
+In the face of incomplete and contradictory information, valid (and passionate) 
+argument on both sides, and under the shrinking time constraints of an 
+approaching enemy fleet, with troops engaged in fierce combat ashore, 
+ADM Spruance had to decide what his fleet would do. Other commanders may 
+have determined differently, but one fleet commander alone was charged with 
+making the call. 
+  
+
+Fleet Command in Fleet Warfare 
+80 NWP 3 
+~:~ 
+The observations for fleet command from this case study are as relevant today as 
+they were during those momentous days of June 1944: 
+ The art of fleet command involves determining effort between multiple 
+and competing imperatives, aligning action in ambiguous circumstances, 
+and balancing risk and time amid tremendous uncertainty, all while 
+under great pressure. 
+ The science of fleet command involves organizing and preparing forces, 
+planning effectively, and creating processes that reduce and enhance 
+decision cycles across the force.  
+ The action of fleet warfare is enabled through mission command, 
+empowered by shared understanding and a trust and confidence that 
+extends across leaders at all levels.  
+And yet success remains at its core, a uniquely human endeavor: to lead people 
+in a massive undertaking of great risk and consequence, while establishing 
+among each a sense of purpose and team, such that, despite all the intricacies 
+involved in the long line leading to the moment of battle, at the right instant, 
+every spear is pointed precisely, every mind is focused intently, and every person 
+is resolute on the fulfillment of their duty.  
+Such is the mantle of fleet command. 
+ 
+
+ 
+NWP 3 81 
+References 
+NDP 1, Naval Warfare 
+NTTP 3-32.2, Assured Command and Control 
+DOD Dictionary, DOD Dictionary of Military and Associated Terms 
+Navy Concept for Distributed Maritime Operations (DMO) 
+JP 1 volume 1, Joint Warfighting 
+JP 2-0, Joint Intelligence 
+JP 3-0, Joint Campaigns and Operations 
+JP 5-0, Joint Planning 
+Advantage at Sea, Prevailing with Integrated All-Domain Naval Power, 
+December, 2020 
+Commander, United States Fleet Forces, Fleet Design, 8 Jan 2017  
+CNO FRAGO 01/2019, A Design for Maintaining Maritime Superiority, 
+Dec 2019 
+SECNAV Instruction 2400.3, Electromagnetic Battle Space 
+United States Code 
+Berger, David H. Commandant of the Marine Corps. 38th Commandant’s 
+Planning Guidance 
+Buell, Thomas CDR. Battle of the Philippine Sea, Proceedings, July 1974, 
+Vol. 100/7/857 
+Buell, Thomas CDR. The Quiet Warrior: A Biography of Admiral Raymond A. 
+Spruance, Naval Institute Press, 1987 
+Carmichael, G.K. Address to the Naval War College, Principles of War and their 
+Application to Strategy and Tactics, 1950 
+Clausewitz, Carl von. On War, edited/translated by Michael Howard and Peter 
+Paret, Princeton University Press, 1984 
+
+ 
+82 NWP 3 
+Cox, Samuel RADM. H-Gram 032: Operation Forager and the Battle of the 
+Philippine Sea, Attachment 1, Navy History and Heritage Command, 
+June 2019 
+Corbett, Julian. Some Principles of Maritime Strategy, The Naval and Military 
+Press from Longmans, Green, 1911 
+Daly, William CAPT. Ten Seconds to Live or Die, Proceedings, December 2018, 
+Vol. 144/12/1,390 
+Dempsey, Martin Gen. Mission Command White Paper, 3 April 2012 
+Eccles, Henry E. Logistics in the National Defense, Stackpole, 1959 
+Eccles, Henry E. Theatre Logistic Planning, Naval War College Review, Vol. 3: 
+No. 8, Article 2, 1950 
+Echevarria, Antulio J. II. Clausewitz’s Center of Gravity, Naval War College 
+Review: Vol. 56: No. 1, Article 6, 2003 
+Evangelista, Rickson E. Mine Warfare: Lessons Learned and Forgotten, Naval 
+War College thesis, https://apps.dtic.mil/dtic/tr/fulltext/u2/a484287.pdf 
+Gordon, Michael R. and Trainor, Bernard E. Gen. The General’s War: The Inside 
+Story of the Conflict in the Gulf, Little, Brown, 1995 
+Hart, B.H. Liddell. Strategy, Penguin Books, 1991 
+Hone, Trent. U.S. Navy Surface Battle Doctrine and Victory in the Pacific, Naval 
+War College Review: Vol. 62: No. 1, Article 7, 2009 
+Hornfischer, James D. Neptune’s Inferno, Bantam, 1911 
+Hornfischer, James D. The Fleet at Flood Tide, Bantam, 2016 
+Hughes, Wayne. Fleet Tactics: Theory and Practice, 1st edition, Naval Institute 
+Press, 1986 
+Hughes, Wayne and Girrier, Robert. Fleet Tactics and Naval Operations, 
+3rd edition, Naval Institute Press, 2018 
+Hughes, Wayne. Naval Operations: A Close Look at the Operational Level of 
+War at Sea, Naval War College Review, Summer 2012, Vol. 65, No. 3 
+
+ 
+NWP 3 83 
+Jianxiang Bi. Joint Operations: Developing a New Paradigm, James Mulvenon 
+and David Finkelstein, eds., China’s Revolution in Doctrinal Affairs: 
+Emerging Trends in the Operational Art of the Chinese People’s Liberation 
+Army, jointly published by Santa Monica, CA: RAND Corporation, and 
+Alexandria, VA: Center for Naval Analyses, 2003 
+Jomini, Antoine Henri. The Art of War, Greenhill Books, 1992 
+King, Ernest Fleet ADM. U.S. Navy at War 1941–1945–Official Reports to the 
+Secretary of the Navy, 1 March 1944 
+King, Ernest Fleet ADM. War Instructions, 1944 (F.T.P. 143 (A)) 
+Koyanagi, Tomijo RADM. With Kurita in the Battle for Leyte Gulf, Proceedings, 
+February 1953, Vol. 79/2/600 
+Lehman, John. Oceans Ventured, Winning the Cold War at Sea, W.W. Norton & 
+Co., 2018 
+Lewis, Andrew VADM. https://seapowermagazine.org/admiral-cool-to-notion-
+of-separate-arctic-fleet 
+Mustin, Henry. CSFL/C2F/CJTF 120 Fighting Instructions, Annex D, 
+21 May 1986 
+Mustin, Henry. Navy Historical Foundation’s Oral Interview Series, 
+https://www.navyhistory.org/wp-content/uploads/2015/04/Mustin-Oral-
+History.pdf. 
+Ropp, Theodore. War in the Modern World, Collier Books, 1962 
+Schwarzkopf, Norman. It Doesn’t Take a Hero, Linda Grey/Bantam, 1992 
+Shafley, Bill CAPT. Put the Commander Back in Commander’s Intent, 
+Seamanship and Leadership, Center for International Maritime Security, 
+13 May 2020, http://cimsec.org/put-the-commander-back-in-commanders-
+intent/43587 
+Spence, Johnny Hampton. South Pacific Destroyers: The United States Navy and 
+the Challenges of Night Surface Combat in the Solomons Islands During 
+World War II. (2009). Electronic Theses and Dissertations. Paper 1865, 
+https://dc.etsu.edu/etd/1865 
+The State Council Information Office of the People’s Republic of China. China’s 
+National Defense in the New Era. July 2019  
+
+ 
+84 NWP 3 
+Sun Tzu. The Art of War, translated by Samuel B. Griffith, Oxford University 
+Press, 1963 
+Swift, Scott. A Fleet Must Be Able To Fight, Proceedings, May 2018 
+Till, Geoffrey. Seapower: A Guide for the Twenty-First Century, Taylor & 
+Francis, 2018 
+Van Creveld, Martin. Command in War, Harvard University Press, 1985 
+Van Wyen, Adrian O. The Battle of The Philippine Sea, February 1951 
+Proceedings Vol. 77/2/576 
+Vego, Milan. HM 22: Major Fleet-versus-Fleet Operations in the Pacific War,  
+1941–1945, https://digital-commons.usnwc.edu/usnwc-historical-monographs/22  
+Vego, Milan. Major Naval Operations, Newport Paper Thirty-two, Center for 
+Naval Warfare Studies, Naval War College Press, 2008 
+World War II Valor in the Pacific National Monument-Pacific Battles Map, 
+National Archives Catalog, https://catalog.archives.gov/id/33754842 
+Wylie, J.C. RADM. Military Strategy: A General Theory of Power Control, 
+Rutgers University Press, 1967 
+Yung, Christopher D. Chinese Lessons from Other Peoples’ Wars, Sinica Rules 
+the Waves? The People’s Liberation Army Navy’s Power Projection and 
+Anti-Access/Area Denial Lessons from the Falklands/Malvinas Conflict, 
+Strategic Studies Institute, U.S. Army War College, 2011 
+Zhou Ming. Argentina, England Malvinas Islands Conflict (The Malvinas 
+Problem), news.xinhuanet.com/ziliao/2007-03/28/content_5906424_2.htm 
+ 
+
+ 
+NWP 3 85 
+List of Acronyms and Abbreviations 
+C2  command and control 
+C2D2E command and control in a denied or degraded 
+environment 
+CCDR combatant commander 
+CNO chief of naval operations 
+COA course of action 
+COG center of gravity 
+CTF commander, task force 
+EMBS electromagnetic battle space 
+FRAGO fragmentary order 
+GPC great power competition 
+ISRT intelligence, surveillance, reconnaissance, and targeting 
+JFC joint force commander 
+JFMCC joint force maritime component commander 
+JP joint publication 
+MOC maritime operations center 
+NCC Navy component commander 
+NDP naval doctrine publication 
+NFC numbered fleet commander 
+NWP Navy warfare publication 
+OE operational environment 
+OLW operational level of warfare 
+OPLAN operational plan 
+PRC People’s Republic of China 
+SECDEF Secretary of Defense 
+SLOC sea line of communication 
+SLW strategic level of warfare 
+TBS talk between ships 
+TE task element 
+TF task force 
+TG task group 
+
+ 
+86 NWP 3 
+TLW tactical level of warfare 
+U.S.C. United States Code 
+
+ 
+ 
+Multifleet operations—unified action and delegated authority 
+The ideal in war is to achieve similar collaboration of all commanders 
+vertically and laterally, so that cohesive action results. It should be easy to 
+understand why perfect unity is hard to achieve, because prosecution of a 
+campaign entails decentralized authority and responsibility. Evidently, the 
+ideal is rarely attained. The best, but imperfect results come from:  
+ Sound doctrine that fosters operational and tactical unity of action  
+ Sound training that prepares all echelons for teamwork  
+ Sound experience that comes from enough of the right kind of war 
+making to know what to expect of companions in positions of authority 
+and responsibility. 
+These three cornerstones of success are preparations at the operational 
+level, not the responsibility of tacticians, at least not at sea. 
+Wayne Hughes 
+Naval Operations: A Close Look at the Operational Level of War at Sea 
+ 
+  
+Report urgent changes, routine changes, and administrative discrepancies by letter, 
+general administrative message, the Navy Warfare Library (NWL) portal, or email to 
+COMMANDER, NAVY WARFARE DEVELOPMENT COMMAND, 
+ATTN: DOCTRINE, 1528 PIERSEY STREET, BLDG O-27, 
+NORFOLK, VA 23511-2723.  
+Email: NWDC_NRFK_FLEET_PUBS@NAVY.MIL  
+NWL portal: https://doctrine.navy.mil/ or https://doctrine.navy.smil.mil/. 
+
+ 
+ 
+ 
+ 
+NSN: 0411LP0018771 

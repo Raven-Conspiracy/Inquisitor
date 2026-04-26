@@ -1,0 +1,41 @@
+The YJ-18 (Chinese: 鹰击-18; pinyin: yingji-18; lit. 'eagle strike 18', NATO designation CH-SS-NX-13) is a Chinese anti-ship cruise missile.
+
+
+== Description ==
+The United States believes the YJ-18 is similar to, or is a copy of, the Russian 3M-54 Klub. According to the United States Department of Defense, the YJ-18 has a subsonic cruise mode and a supersonic terminal attack. Performance estimates include a range of 290 nautical miles (330 mi; 540 km), with a threat ring of 264,200 sq nmi (349,900 mi2; 906,000 km2), and a cruising range of 180 km (110 mi; 97 nmi) at Mach 0.8 and a sprint range of 40 km (25 mi; 22 nmi) at Mach 2.5 to 3.0.
+The missile can be launched from vertical launching systems, and possibly from submarine torpedo tubes. Chinese media claims the missile has an inertial guidance system using BeiDou Navigation Satellite System data, and carries a 300 kg (660 lb) high-explosive warhead with an anti-radiation seeker.
+The YJ-18 is deployed aboard the Type 052D destroyer and the Type 055 destroyer.  It may already be carried by the Shang II-class nuclear attack submarine outfitted with VLS cells, will replace the 20 nmi (23 mi; 37 km)-range YJ-82 aboard the Yuan-class air-independent propulsion (AIP) and Song-class diesel-electric submarines, will likely deploy on the Type 095 submarine, and may be capable of deployment on Kilo-class submarines. A land-based version could replace the subsonic 400 km (250 mi; 220 nmi)-range YJ-62 with shore batteries.
+
+
+== Variants ==
+YJ-18
+Original version, launched from torpedo tubes.
+YJ-18A
+Launched from vertical launch system (VLS) cells on surface vessels. It entered service in 2015.
+YJ-18B
+Designed for vertical launch systems (VLS) on submarines.
+YJ-18C
+Land-attack variant designed to be disguised in commercial shipping containers. It's a subsonic missile with a stealth design. Unveiled at the 2025 China Victory Day Parade.
+
+
+== Operators ==
+ China
+ People's Liberation Army Navy
+
+
+== See also ==
+Related development
+
+YJ-12  – (China)
+Comparable missiles
+
+3M-54 Klub  – (Russia)
+BrahMos  – (India, Russia)
+P-800 Oniks  – (Russia)
+Future Cruise/Anti-Ship Weapon  – (France, Italy, United Kingdom)
+3M-54 Kalibr  – (Russia)
+
+
+== References ==
+
+Bibliography

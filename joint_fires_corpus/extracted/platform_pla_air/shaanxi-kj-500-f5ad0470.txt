@@ -1,0 +1,42 @@
+The Shaanxi KJ-500 (Chinese: 空警-500; pinyin: Kōngjǐng Wǔbǎi; literally: "Air Warning 500"), also known as Qianliyan-500 (Chinese: 千里眼-500; pinyin: qiān lǐ yǎn-500; lit. 'All-seeing-500')  is a third-generation airborne early warning and control (AEW&C) aircraft used by the Chinese People's Liberation Army Air Force (PLAAF). It was built by Shaanxi Aircraft Corporation, and is based on the Y-9 airframe.
+
+
+== Development ==
+Since the beginning of the 21st century, the detection range and the accuracy of airborne radars have been increasing, and fighters equipped with various types of air-to-air missiles and low-altitude cruise missiles continue to improve in performance, creating a demand for a more capable AEW&C. To address the above issues, China started the development of the KJ-500, its third AEW&C, in the late 2000s. The KJ-500 was required to have three important features, which are good detection capability, good identification ability, and quick responsiveness. The KJ-500 was also required to be the core force of the information combat system, its equipped technology has four major characteristics, which are networking, multi-functionality, high-integration, and lightweight.
+The aircraft carries a fixed dorsal radome containing three AESA radar arrays for 360-degree coverage and is said to be more efficient than the two-planar 'balance beam' array design used on the earlier KJ-200. Production of older AEW&C types reportedly ceased production in 2018 in response to the KJ-500 reaching full operational capability.
+
+
+== Operational history ==
+In March 2022, General Kenneth Wilsbach, commander of U.S. Pacific Air Forces, identified the KJ-500 as enablers for long-range Chinese air-to-air missiles.
+
+
+== Export and potential sales ==
+On 6 June 2025, Pakistan's government officially announced the country's plan to acquire the KJ-500.
+
+
+== Variants ==
+KJ-500
+Base variant
+KJ-500H
+Variant for PLA Navy.
+KJ-500A
+Improved variant with an aerial refueling probe. Debut in Zhuhai Airshow 2022.
+
+
+== Operators ==
+ People's Republic of China
+People's Liberation Army Air Force - 40 KJ-500
+People's Liberation Army Naval Air Force - 20+ KJ-500H
+
+
+== Specifications ==
+Limited performance parameters of KJ-500 have been published as follows:
+
+Max speed (km/h): 550
+Max range (km): 5700
+Max endurance (h): 12
+Max takeoff weight(tons): 77
+Range against fighter sized targets (km): 470
+
+
+== References ==

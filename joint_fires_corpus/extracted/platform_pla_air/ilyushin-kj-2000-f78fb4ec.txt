@@ -1,0 +1,71 @@
+The Shaanxi KJ-2000 (Chinese: 空警-2000; pinyin: Kōngjǐng Liǎngqiān; lit. 'Airwarning-2000', NATO reporting name: Mainring) is a Chinese second-generation airborne early warning and control (AEW&C) aircraft developed by the Shaanxi Aircraft Corporation, and is the first AEW&C system in service to the People's Liberation Army Air Force. It is built upon a modified Russian Ilyushin Il-76 airframe using domestically designed avionics and a fixed radome featuring three active electronically scanned array (AESA) radars each covering a 120-degree sector, unlike the rotating radome on the comparable E-3 Sentry serving the United States Air Force.
+
+
+== Development ==
+
+The KJ-2000 is a second-generation AEW&C aircraft developed in China, after the ill-fated KJ-1 AEWC project was cancelled as the reform and opening up in the late 1970s mandated cuts in military spending. As the modernization of the People's Liberation Army became a clear necessity, especially after the display of NATO technological dominance in the Gulf War, the People's Liberation Army Air Force felt increasing need to obtain operational AEW&C systems to maintain even air parity, let alone air superiority against potential foreign hostilities.
+The KJ-2000 development program started after the cancellation of the A-50I deal with Russia and Israel in July 2000 due to strong American pressure against the export of the Israeli EL/M-2075 Phalcon radar that was to be mounted. Denied of import options, China then went on to develop a domestic AWACS and the first aircraft made its maiden flight in 2003.
+Four KJ-2000 aircraft have been identified so far, but production of new aircraft will likely be delayed, dependent on the acquisition of Il-76 airframes. Currently, the Russian defense exporter Rosoboronexport has imposed a significant price hike on all future Il-76s delivered to China and India despite previous contracts. Both countries were in negotiation with Russia regarding this matter as of early 2008. In March 2011, Sino-Russian negotiations reached a new agreement to move production of Il-76s to Chinese-owned companies. In this way it is expected production can be run smoothly to supply China with new Il-76 airframes, while delivery of Soloviev D-30KP-2 engines is not affected by recent issues.
+However, due to the unreliability of external suppliers, China has developed a backup design known as the KJ-200 by installing a simplified system on board the smaller Shaanxi Y-8 airframe, the Chinese domestic variants of Antonov An-12 tactical airlifter. The KJ-200 has a similar configuration to that of the KJ-2000 and is characterized by the triple tail-fin configuration (one large and two small), but with a "balance beam" lateral-scanning array similar to the Saab Erieye instead of a disc radome. China also went on to develop the Shaanxi Y-9, an enlarged upgrade of the Y-8 that later served as the basis of the third-generation KJ-500 AEW&C aircraft; and the Xian Y-20, a large strategic airlifter that is being developed for AEW&C modification.
+
+
+== Design ==
+The Chinese AWACS has a phased array radar (PAR) system carried in a disc-shaped radome. Unlike the American E-3 Sentry and the Russian Beriev A-50, two AWACS aircraft comparable in size and both with a 9-metre-diameter (30 ft) rotating radome (rotodome) to provide 360‑degree scanning, the radome of the Chinese AWACS is stationary. Instead, the three PAR modules are placed in an equilateral triangle configuration inside the 14-metre-diameter (46 ft) round radome, each covering a 120-degree spherical sector to provide full 360‑degree coverage.
+The multi-function, three-dimensional pulse-Doppler radar was developed by the Nanjing Research Institute of Electronics Technology (NRIET), a subsidiary of the China Electronics Technology Group Corporation (CETC). It is designed to detect and track airborne and surface targets, operating in the frequency range of 1200–1400 MHz, and has a maximum aerial detection range of 470 km (290 mi).
+
+
+=== KJ-3000 ===
+A new variant with a fixed next-generation radar was reportedly spotted in 2013.
+
+
+== Operational history ==
+The PLAAF's first AWACS regiment was established at a small and remote airfield in southern China, for security reasons, during late 2004. The commander appointed to the regiment was Zhang Guangjian (张广建), a pilot with over 6,000 hours of flight time on various aircraft including the Il-76. The base was re-built and re-equipped for handling the KJ-2000, the first of which reached the base in 2005. A mixed fleet of KJ-2000 and the smaller KJ-200 have been operated at the base.
+In 2013 a 24-hour coverage drill was held using three KJ-2000s that covered NW China, the East China Sea, and the South China Sea.
+Since Il-76s are supplied by Russia and as the numbers are limited, China is seeking to replace the Il-76 platform currently used by the KJ-2000 with the Y-20.
+
+
+== Operators ==
+ People's Republic of China
+People's Liberation Army Air Force – 5 were estimated in service as of 2008.
+
+
+== Specifications ==
+Limited performance parameters of KJ-2000 have been published as follows:
+
+Data from General characteristics
+Max takeoff weight: 175,000 kg (385,809 lb)
+Performance
+
+Maximum speed: 850 km/h (530 mph, 460 kn)
+Range: 5,500 km (3,400 mi, 3,000 nmi)
+Endurance: 7 hours and 40 minutes
+Avionics
+
+Range against fighter sized targets: 470 km (290 mi; 250 nmi)
+Range against ballistic missiles: 1,200 km (750 mi; 650 nmi)
+Max simultaneous targets tracked: 60–100
+
+
+== See also ==
+
+Related development
+
+Beriev A-50
+DRDO AEW&CS
+EL/W-2090
+Ilyushin Il-76
+KJ-200
+KJ-500
+
+Related lists
+
+List of AEW&C aircraft
+List of aircraft produced by the People's Republic of China
+
+
+== References ==
+
+
+== External links ==
+SinoDefence.com article – KJ-2000 AWACS (Airborne Warning And Control System).
+AirForceWorld.com KJ2000 Photo Collection

@@ -1,0 +1,30 @@
+The HQ-19 (simplified Chinese: 红旗-19; traditional Chinese: 紅旗-19; pinyin: Hóng Qí-19; lit. 'Red Banner/Flag-19', NATO reporting name: CH-AB-2) is an anti-ballistic missile (ABM) and anti-satellite weapon (ASAT) system developed by the People's Republic of China. It is a variant of the HQ-9 long-range surface-to-air missile system. The HQ-19 system is designed to counter medium-range ballistic missile (MRBM) and intermediate-range ballistic missile (IRBM). It targets ballistic missiles in their midcourse and terminal phases, comparable to the US THAAD.
+The missile may have "begun preliminary operations" by 2018.
+
+
+== History and development ==
+The HQ-19 was developed under the 863 Program, initiated in the late 1990s. The missile was successfully tested in 1999, with multiple reports confirming its capability to hit targets at an altitude of 200 km (120 mi) and speed of 10,000 m/s (33,000 ft/s). Several more tests were conducted in the 2010s, with the Chinese Ministry of National Defense certifying the missile capabilities in 2021. The missile entered limited operation in 2018, and was publicly revealed in Zhuhai Airshow in 2024.
+On 6 June 2025, Pakistan announced plans to acquire the HQ-19.
+
+
+== Design ==
+The HQ-19 is designed to intercept ballistic missiles, counter hypersonic glide vehicle, and engage satellites, largely comparable to the THAAD and SM-3 missile systems. The missile is guided by the Type 610A radar with 4,000 km (2,500 mi) of detection range, and the missile itself is capable of intercepting ballistic missiles on the 3,000 km (1,900 mi) range class. The missile uses radar and infrared guidance, with the infrared window mounted on the sides to reduce atmospheric interference. The missile is powered by a two-stage, dual-pulsed solid rocket engine, allowing the missile to achieve a specific impulse of 260 seconds. The missile is constructed with carbon fiber, providing a rigid frame to withstand 60G in maneuvers. The intercept method is a direct impact via the exo-atmospheric kinetic vehicle.
+The missile was reported to have the capability to intercept medium-range ballistic missile (MRBM) and intermediate-range ballistic missile (IRBM) at the terminal stage, while offering limited capability to target intercontinental ballistic missile (ICBM) and low-altitude satellites.
+
+
+== Operators ==
+ China
+People's Liberation Army Air Force
+
+
+== See also ==
+HQ-9
+HQ-29
+Terminal High Altitude Area Defense
+SM-3
+MIM-104 Patriot
+S-300 (missile)
+S-500 (missile)
+
+
+== References ==
