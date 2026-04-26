@@ -1,0 +1,51 @@
+# Foundry transforms-model-training conda recipe.
+#
+# IMPORTANT: After the first build in Foundry, the platform replaces
+# `transforms-model-training-<rid>` with the actual repository RID. Do not
+# hand-edit that string here — Foundry rewrites it. Just make sure these
+# runtime deps are present.
+#
+# For GPU builds you MUST set CONDA_OVERRIDE_CUDA on the most-nested
+# build.gradle (see palantir.com/docs/foundry/model-integration/gpu-training/).
+
+package:
+  name: '{{ PACKAGE_NAME }}'
+  version: '{{ PACKAGE_VERSION }}'
+
+source:
+  path: ../src
+
+requirements:
+  build:
+    - python 3.11.*
+    - setuptools
+  run:
+    # Foundry runtime + model adapters
+    - python 3.11.*
+    - foundry-transforms-lib-python
+    - palantir_models
+    - palantir_models_serializers
+    - transforms-expectations
+    - transforms-verbs
+
+    # Modeling stack
+    - pytorch >=2.1
+    - pytorch-gpu             # GPU build of pytorch — required for the @lightweight(gpu_type=...) profile
+    - transformers >=4.45,<5
+    - tokenizers
+    - accelerate >=0.34
+    - peft >=0.13
+    - trl >=0.12
+    - datasets >=2.20
+    - safetensors
+    - bitsandbytes            # remove if your GPU SKU does not support 4/8-bit ops
+    - sentencepiece           # tokenizer dep for many HF models
+    - pandas
+    - numpy
+
+build:
+  noarch: python
+  script: python -m pip install . --no-deps -vv
+
+about:
+  summary: 'Mentor model SFT training + Foundry adapter for Qwen3-0.6B + LoRA'

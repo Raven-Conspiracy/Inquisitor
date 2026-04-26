@@ -98,4 +98,9 @@ https://github.com/omnissiahcypher/mentor-corpus
 
 ## Training
 
-See [`training/README.md`](training/README.md) for SFT instructions. Pre-formatted SFT data is at `sft/sft_chat.jsonl` (490 examples with mentor system prompt + chat template).
+Two deployment paths:
+
+- **[`training/`](training/README.md)** — train standalone on Colab/Kaggle/HF Jobs and push the model to Hugging Face Hub. Best for fast iteration on personal GPU.
+- **[`foundry/`](foundry/README.md)** — train inside Palantir Foundry as a `ModelAdapter`, publish as a Foundry model resource, surface in AIP Agent Studio. Best for enterprise deployment with Ontology integration and AIP tooling.
+
+Pre-formatted SFT data is at `sft/sft_chat.jsonl` (490 examples with mentor system prompt + chat template) and is consumed by both paths.
