@@ -1,0 +1,575 @@
+{
+  "actionTypes": [
+    {
+      "apiName": "createCommanderIntent",
+      "displayName": "Create Commander's Intent",
+      "description": "Create a new commander's intent associated with an operation.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "operationId", "type": "string", "required": true, "description": "Operation."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "purpose", "type": "string", "required": true, "description": "Purpose."},
+        {"name": "keyTasks", "type": "array<string>", "required": false, "description": "Key tasks."},
+        {"name": "endState", "type": "string", "required": true, "description": "End state."}
+      ],
+      "outputs": [
+        {"name": "commanderIntentId", "type": "string", "description": "Identifier of the new commander's intent."}
+      ],
+      "preconditions": ["operation exists"],
+      "effects": ["commanderIntent object created", "linked to operation"],
+      "auditFields": ["actor", "actionTimestamp", "classificationMarking"],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "updateCommanderIntent",
+      "displayName": "Update Commander's Intent",
+      "description": "Update an existing commander's intent.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "commanderIntentId", "type": "string", "required": true, "description": "Target intent."},
+        {"name": "purpose", "type": "string", "required": false, "description": "Updated purpose."},
+        {"name": "keyTasks", "type": "array<string>", "required": false, "description": "Updated key tasks."},
+        {"name": "endState", "type": "string", "required": false, "description": "Updated end state."}
+      ],
+      "outputs": [],
+      "preconditions": ["commanderIntent exists"],
+      "effects": ["commanderIntent updated"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "initiateMdmp",
+      "displayName": "Initiate MDMP",
+      "description": "Initiate the Military Decisionmaking Process for an operation.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "operationId", "type": "string", "required": true, "description": "Operation."},
+        {"name": "missionId", "type": "string", "required": false, "description": "Higher mission."},
+        {"name": "step", "type": "enum:mdmpStep", "required": true, "description": "Initial step (typically MISSION_RECEIPT)."}
+      ],
+      "outputs": [
+        {"name": "planOrderId", "type": "string", "description": "Initial WARNORD planOrder created."}
+      ],
+      "preconditions": ["operation exists"],
+      "effects": ["WARNORD planOrder created", "MDMP step recorded"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "createCourseOfAction",
+      "displayName": "Create Course of Action",
+      "description": "Create a new COA during MDMP COA development.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "operationId", "type": "string", "required": true, "description": "Operation."},
+        {"name": "name", "type": "string", "required": true, "description": "COA name."},
+        {"name": "narrative", "type": "string", "required": false, "description": "Narrative."}
+      ],
+      "outputs": [
+        {"name": "coaId", "type": "string", "description": "New COA id."}
+      ],
+      "preconditions": ["operation exists", "MDMP step is COA_DEVELOPMENT"],
+      "effects": ["courseOfAction created"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "approveCourseOfAction",
+      "displayName": "Approve COA",
+      "description": "Mark a COA as approved.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "coaId", "type": "string", "required": true, "description": "COA id."},
+        {"name": "approvingCommander", "type": "string", "required": true, "description": "Approving commander."}
+      ],
+      "outputs": [],
+      "preconditions": ["coa exists", "coa.feasible AND coa.acceptable AND coa.suitable"],
+      "effects": ["coa.approved = true", "MDMP step set to COA_APPROVAL"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "publishWarnord",
+      "displayName": "Publish WARNORD",
+      "description": "Publish a Warning Order.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "operationId", "type": "string", "required": true, "description": "Operation."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "summary", "type": "string", "required": false, "description": "Summary."},
+        {"name": "issuingHeadquartersId", "type": "string", "required": true, "description": "Issuing HQ."}
+      ],
+      "outputs": [
+        {"name": "planOrderId", "type": "string", "description": "Published WARNORD."}
+      ],
+      "preconditions": ["operation exists"],
+      "effects": ["planOrder created with orderType=WARNORD"],
+      "auditFields": ["actor", "actionTimestamp", "classificationMarking"],
+      "sourceDoctrine": ["FM_5_0", "ADP_5_0"]
+    },
+    {
+      "apiName": "publishOpord",
+      "displayName": "Publish OPORD",
+      "description": "Publish an Operation Order.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "operationId", "type": "string", "required": true, "description": "Operation."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "approvedCoaId", "type": "string", "required": true, "description": "Approved COA basis."},
+        {"name": "issuingHeadquartersId", "type": "string", "required": true, "description": "Issuing HQ."}
+      ],
+      "outputs": [
+        {"name": "planOrderId", "type": "string", "description": "Published OPORD."}
+      ],
+      "preconditions": ["coa.approved = true"],
+      "effects": ["planOrder created with orderType=OPORD", "MDMP step set to ORDERS_PRODUCTION"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["FM_5_0", "ADP_5_0"]
+    },
+    {
+      "apiName": "publishFragord",
+      "displayName": "Publish FRAGORD",
+      "description": "Publish a Fragmentary Order against an existing OPORD.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "operationId", "type": "string", "required": true, "description": "Operation."},
+        {"name": "parentPlanOrderId", "type": "string", "required": true, "description": "Parent OPORD."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "summary", "type": "string", "required": true, "description": "What changes."}
+      ],
+      "outputs": [
+        {"name": "planOrderId", "type": "string", "description": "Published FRAGORD."}
+      ],
+      "preconditions": ["parent OPORD exists"],
+      "effects": ["planOrder created with orderType=FRAGORD"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["FM_5_0"]
+    },
+    {
+      "apiName": "createRunningEstimate",
+      "displayName": "Create Running Estimate",
+      "description": "Create a running estimate owned by a staff section.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "staffSectionId", "type": "string", "required": true, "description": "Owning staff section."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."}
+      ],
+      "outputs": [
+        {"name": "runningEstimateId", "type": "string", "description": "New running estimate id."}
+      ],
+      "preconditions": ["staffSection exists"],
+      "effects": ["runningEstimate created"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "updateRunningEstimate",
+      "displayName": "Update Running Estimate",
+      "description": "Update the running estimate with new summary and recommendations.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "runningEstimateId", "type": "string", "required": true, "description": "Target estimate."},
+        {"name": "summary", "type": "string", "required": false, "description": "New summary."},
+        {"name": "recommendations", "type": "array<string>", "required": false, "description": "Updated recommendations."}
+      ],
+      "outputs": [],
+      "preconditions": ["runningEstimate exists"],
+      "effects": ["lastUpdated set to now"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "createAssessmentPlan",
+      "displayName": "Create Assessment Plan",
+      "description": "Create an assessment plan for an operation.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "operationId", "type": "string", "required": true, "description": "Operation."},
+        {"name": "owningOrganizationId", "type": "string", "required": true, "description": "Owning organization."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "summary", "type": "string", "required": false, "description": "Summary."}
+      ],
+      "outputs": [
+        {"name": "assessmentPlanId", "type": "string", "description": "New assessment plan id."}
+      ],
+      "preconditions": ["operation exists"],
+      "effects": ["assessmentPlan created"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "updateAssessmentPlan",
+      "displayName": "Update Assessment Plan",
+      "description": "Update an assessment plan.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "assessmentPlanId", "type": "string", "required": true, "description": "Target plan."},
+        {"name": "summary", "type": "string", "required": false, "description": "Updated summary."}
+      ],
+      "outputs": [],
+      "preconditions": ["assessmentPlan exists"],
+      "effects": ["assessmentPlan updated"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "recordMeasureObservation",
+      "displayName": "Record MOE/MOP/Indicator Observation",
+      "description": "Record a new observation for an MOE, MOP, or indicator.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "measureType", "type": "enum:measureType", "required": true, "description": "MOE, MOP, or INDICATOR."},
+        {"name": "measureId", "type": "string", "required": true, "description": "Target measure id."},
+        {"name": "value", "type": "string", "required": true, "description": "Observed value."},
+        {"name": "observedAt", "type": "timestamp", "required": false, "description": "Observation time."},
+        {"name": "sourceConfidence", "type": "enum:sourceConfidence", "required": false, "description": "Source confidence."}
+      ],
+      "outputs": [],
+      "preconditions": ["target measure object exists"],
+      "effects": ["measure object updated with new observation"],
+      "auditFields": ["actor", "actionTimestamp", "sourceConfidence"],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "createDecisionPoint",
+      "displayName": "Create Decision Point",
+      "description": "Create a decision point for execution.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "operationId", "type": "string", "required": true, "description": "Operation."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "triggerCriteria", "type": "array<string>", "required": false, "description": "Trigger criteria."},
+        {"name": "associatedNAIs", "type": "array<string>", "required": false, "description": "Associated NAIs."},
+        {"name": "expectedDecisionTime", "type": "timestamp", "required": false, "description": "Expected decision time."}
+      ],
+      "outputs": [
+        {"name": "decisionPointId", "type": "string", "description": "New DP id."}
+      ],
+      "preconditions": ["operation exists"],
+      "effects": ["decisionPoint created"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "issueTask",
+      "displayName": "Issue Task",
+      "description": "Issue a task to a subordinate organization.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "operationId", "type": "string", "required": true, "description": "Operation."},
+        {"name": "phaseId", "type": "string", "required": false, "description": "Phase."},
+        {"name": "title", "type": "string", "required": true, "description": "Task title."},
+        {"name": "taskVerb", "type": "string", "required": false, "description": "Task verb."},
+        {"name": "purpose", "type": "string", "required": false, "description": "Purpose."},
+        {"name": "assignedOrganizationId", "type": "string", "required": true, "description": "Assigned organization."},
+        {"name": "priority", "type": "enum:priority", "required": false, "description": "Priority."}
+      ],
+      "outputs": [
+        {"name": "taskId", "type": "string", "description": "New task id."}
+      ],
+      "preconditions": ["operation exists", "assigned organization exists"],
+      "effects": ["task created with status=ASSIGNED"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "updateTaskStatus",
+      "displayName": "Update Task Status",
+      "description": "Update the lifecycle status of a task.",
+      "category": "operations_process",
+      "inputs": [
+        {"name": "taskId", "type": "string", "required": true, "description": "Task id."},
+        {"name": "status", "type": "enum:taskStatus", "required": true, "description": "New status."},
+        {"name": "notes", "type": "string", "required": false, "description": "Notes."}
+      ],
+      "outputs": [],
+      "preconditions": ["task exists"],
+      "effects": ["task.status updated"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "createTargetingGuidance",
+      "displayName": "Create Targeting Guidance (JTC Phase 1)",
+      "description": "Create commander's targeting guidance for an operation. JTC Phase 1.",
+      "category": "joint_targeting_cycle",
+      "inputs": [
+        {"name": "operationId", "type": "string", "required": true, "description": "Operation."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "issuingCommander", "type": "string", "required": true, "description": "Commander."},
+        {"name": "objectives", "type": "array<string>", "required": false, "description": "Linked objective ids."},
+        {"name": "priorities", "type": "array<string>", "required": false, "description": "Priorities."},
+        {"name": "restrictions", "type": "array<string>", "required": false, "description": "Restrictions (ROE/legal)."},
+        {"name": "desiredEffects", "type": "array<string>", "required": false, "description": "Desired effects."}
+      ],
+      "outputs": [
+        {"name": "targetingGuidanceId", "type": "string", "description": "New targeting guidance id."}
+      ],
+      "preconditions": ["operation exists"],
+      "effects": ["targetingGuidance created", "linked to JTC Phase 1"],
+      "auditFields": ["actor", "actionTimestamp", "classificationMarking"],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01", "JTS_SYLLABUS_2023"]
+    },
+    {
+      "apiName": "createTargetDevelopmentRecord",
+      "displayName": "Create Target Development Record (JTC Phase 2)",
+      "description": "Open a target development record. JTC Phase 2.",
+      "category": "joint_targeting_cycle",
+      "inputs": [
+        {"name": "targetId", "type": "string", "required": true, "description": "Target."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "analystId", "type": "string", "required": false, "description": "Analyst."}
+      ],
+      "outputs": [
+        {"name": "targetDevelopmentRecordId", "type": "string", "description": "New TDR id."}
+      ],
+      "preconditions": ["target exists"],
+      "effects": ["targetDevelopmentRecord created", "target.status set to IN_DEVELOPMENT"],
+      "auditFields": ["actor", "actionTimestamp", "classificationMarking", "sourceConfidence"],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "validateTargetDevelopmentCompleteness",
+      "displayName": "Validate Target Development Completeness",
+      "description": "Run a validation check on the completeness of a target development record (functional, physical, technical characterization; vetting; validation).",
+      "category": "joint_targeting_cycle",
+      "inputs": [
+        {"name": "targetDevelopmentRecordId", "type": "string", "required": true, "description": "TDR id."}
+      ],
+      "outputs": [
+        {"name": "validationResult", "type": "string", "description": "PASS or FAIL with reasons."}
+      ],
+      "preconditions": ["targetDevelopmentRecord exists"],
+      "effects": ["TDR vetting/validation status updated; if PASS, target.status -> VALIDATED"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "nominateTarget",
+      "displayName": "Nominate Target",
+      "description": "Submit a target nomination for inclusion on a prioritized list.",
+      "category": "joint_targeting_cycle",
+      "inputs": [
+        {"name": "targetId", "type": "string", "required": true, "description": "Target."},
+        {"name": "nominator", "type": "string", "required": true, "description": "Nominator."},
+        {"name": "desiredEffectId", "type": "string", "required": false, "description": "Desired effect."},
+        {"name": "priority", "type": "enum:priority", "required": false, "description": "Priority."},
+        {"name": "justification", "type": "string", "required": true, "description": "Justification."}
+      ],
+      "outputs": [
+        {"name": "targetNominationId", "type": "string", "description": "New nomination id."}
+      ],
+      "preconditions": ["target.status = VALIDATED"],
+      "effects": ["targetNomination created", "target.status set to NOMINATED"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "prioritizeTarget",
+      "displayName": "Prioritize Target",
+      "description": "Set or change priority on a target nomination during JTC Phase 2/Phase 4 working groups.",
+      "category": "joint_targeting_cycle",
+      "inputs": [
+        {"name": "targetNominationId", "type": "string", "required": true, "description": "Nomination."},
+        {"name": "priority", "type": "enum:priority", "required": true, "description": "New priority."}
+      ],
+      "outputs": [],
+      "preconditions": ["targetNomination exists"],
+      "effects": ["targetNomination.priority updated"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "createCollectionRequirement",
+      "displayName": "Create Collection Requirement",
+      "description": "Open a collection requirement to support targeting or assessment.",
+      "category": "joint_targeting_cycle",
+      "inputs": [
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "purpose", "type": "string", "required": false, "description": "Purpose."},
+        {"name": "ltiov", "type": "timestamp", "required": false, "description": "LTIOV."},
+        {"name": "priority", "type": "enum:priority", "required": false, "description": "Priority."}
+      ],
+      "outputs": [
+        {"name": "collectionRequirementId", "type": "string", "description": "New CR id."}
+      ],
+      "preconditions": [],
+      "effects": ["collectionRequirement created"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["JP_3_60", "FM_5_0"]
+    },
+    {
+      "apiName": "linkCollectionToTarget",
+      "displayName": "Link Collection Requirement to Target",
+      "description": "Link a collection requirement to a target.",
+      "category": "joint_targeting_cycle",
+      "inputs": [
+        {"name": "collectionRequirementId", "type": "string", "required": true, "description": "CR id."},
+        {"name": "targetId", "type": "string", "required": true, "description": "Target id."}
+      ],
+      "outputs": [],
+      "preconditions": ["collectionRequirement exists", "target exists"],
+      "effects": ["collectionRequirementCoversTarget link created"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["JP_3_60"]
+    },
+    {
+      "apiName": "linkCollectionToNAI",
+      "displayName": "Link Collection Requirement to NAI",
+      "description": "Link a collection requirement to an NAI.",
+      "category": "joint_targeting_cycle",
+      "inputs": [
+        {"name": "collectionRequirementId", "type": "string", "required": true, "description": "CR id."},
+        {"name": "naiId", "type": "string", "required": true, "description": "NAI id."}
+      ],
+      "outputs": [],
+      "preconditions": ["collectionRequirement exists", "NAI exists"],
+      "effects": ["collectionRequirementCoversNAI link created"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["JP_3_60", "FM_5_0"]
+    },
+    {
+      "apiName": "linkCollectionToTAI",
+      "displayName": "Link Collection Requirement to TAI",
+      "description": "Link a collection requirement to a TAI.",
+      "category": "joint_targeting_cycle",
+      "inputs": [
+        {"name": "collectionRequirementId", "type": "string", "required": true, "description": "CR id."},
+        {"name": "taiId", "type": "string", "required": true, "description": "TAI id."}
+      ],
+      "outputs": [],
+      "preconditions": ["collectionRequirement exists", "TAI exists"],
+      "effects": ["collectionRequirementCoversTAI link created"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["JP_3_60", "FM_5_0"]
+    },
+    {
+      "apiName": "updateEquipmentReadiness",
+      "displayName": "Update Equipment Readiness",
+      "description": "Update an equipment item's readiness/maintenance status.",
+      "category": "equipment_readiness",
+      "inputs": [
+        {"name": "equipmentId", "type": "string", "required": true, "description": "Equipment id."},
+        {"name": "statusCode", "type": "enum:maintenanceStatusCode", "required": true, "description": "New status."},
+        {"name": "readiness", "type": "enum:readinessStatus", "required": false, "description": "Readiness."},
+        {"name": "asOf", "type": "timestamp", "required": false, "description": "As-of time."},
+        {"name": "deadlineFault", "type": "string", "required": false, "description": "Deadline fault if any."}
+      ],
+      "outputs": [
+        {"name": "maintenanceStatusId", "type": "string", "description": "New maintenance status id."}
+      ],
+      "preconditions": ["equipment exists"],
+      "effects": ["maintenanceStatus record created", "equipment.currentReadiness and currentMaintenanceStatus updated"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["AR_750_1", "DA_PAM_750_3"]
+    },
+    {
+      "apiName": "createMaintenanceWorkOrder",
+      "displayName": "Create Maintenance Work Order",
+      "description": "Open a maintenance work order against a piece of equipment.",
+      "category": "equipment_readiness",
+      "inputs": [
+        {"name": "equipmentId", "type": "string", "required": true, "description": "Equipment id."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "category", "type": "enum:maintenanceStatusCode", "required": false, "description": "Field or sustainment maintenance."},
+        {"name": "faultDescription", "type": "string", "required": false, "description": "Fault description."},
+        {"name": "partsRequired", "type": "array<string>", "required": false, "description": "Required parts."}
+      ],
+      "outputs": [
+        {"name": "maintenanceWorkOrderId", "type": "string", "description": "New work order id."}
+      ],
+      "preconditions": ["equipment exists"],
+      "effects": ["maintenanceWorkOrder created with status=IN_PROGRESS"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["AR_750_1", "DA_PAM_750_3"]
+    },
+    {
+      "apiName": "submitSupplyRequest",
+      "displayName": "Submit Supply Request",
+      "description": "Submit a request for supply.",
+      "category": "sustainment",
+      "inputs": [
+        {"name": "requestingOrganizationId", "type": "string", "required": true, "description": "Requesting organization."},
+        {"name": "supplyItemId", "type": "string", "required": true, "description": "Item requested."},
+        {"name": "quantity", "type": "double", "required": true, "description": "Quantity."},
+        {"name": "priority", "type": "enum:priority", "required": false, "description": "Priority."}
+      ],
+      "outputs": [
+        {"name": "supplyRequestId", "type": "string", "description": "New supply request id."}
+      ],
+      "preconditions": ["requesting organization exists", "supplyItem exists"],
+      "effects": ["supplyRequest created with status=PROPOSED"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ATP_4_42_2", "AR_710_2"]
+    },
+    {
+      "apiName": "approveSupplyRequest",
+      "displayName": "Approve Supply Request",
+      "description": "Approve a pending supply request.",
+      "category": "sustainment",
+      "inputs": [
+        {"name": "supplyRequestId", "type": "string", "required": true, "description": "Request id."},
+        {"name": "approver", "type": "string", "required": true, "description": "Approver."}
+      ],
+      "outputs": [],
+      "preconditions": ["supplyRequest.status = PROPOSED"],
+      "effects": ["supplyRequest.status set to APPROVED", "approvedAt set to now"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ATP_4_42_2", "AR_710_2"]
+    },
+    {
+      "apiName": "updateSupplyPointInventory",
+      "displayName": "Update Supply Point Inventory",
+      "description": "Update inventory levels at a supply point.",
+      "category": "sustainment",
+      "inputs": [
+        {"name": "supplyPointId", "type": "string", "required": true, "description": "Supply point."},
+        {"name": "supplyItemId", "type": "string", "required": true, "description": "Item."},
+        {"name": "quantityOnHand", "type": "double", "required": true, "description": "New quantity on hand."},
+        {"name": "asOf", "type": "timestamp", "required": false, "description": "As-of time."}
+      ],
+      "outputs": [],
+      "preconditions": ["supplyPoint exists", "supplyItem exists"],
+      "effects": ["inventory record updated for supplyPoint"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ATP_4_42_2"]
+    },
+    {
+      "apiName": "createLogisticsPackage",
+      "displayName": "Create Logistics Package (LOGPAC)",
+      "description": "Build a LOGPAC for resupply to a destination unit.",
+      "category": "sustainment",
+      "inputs": [
+        {"name": "destinationOrganizationId", "type": "string", "required": true, "description": "Destination unit."},
+        {"name": "originSupplyPointId", "type": "string", "required": true, "description": "Origin supply point."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "linkedSupplyRequestIds", "type": "array<string>", "required": false, "description": "Supply requests fulfilled."},
+        {"name": "departureTime", "type": "timestamp", "required": false, "description": "Departure time."}
+      ],
+      "outputs": [
+        {"name": "logpacId", "type": "string", "description": "New LOGPAC id."}
+      ],
+      "preconditions": ["destination organization exists", "origin supply point exists"],
+      "effects": ["logisticsPackage created with status=IN_PROGRESS"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["ATP_4_42", "ADP_4_0"]
+    },
+    {
+      "apiName": "assignEquipmentToOrganization",
+      "displayName": "Assign Equipment to Organization",
+      "description": "Assign / hand-receipt equipment to an organization.",
+      "category": "equipment_readiness",
+      "inputs": [
+        {"name": "equipmentId", "type": "string", "required": true, "description": "Equipment id."},
+        {"name": "organizationId", "type": "string", "required": true, "description": "Organization id."},
+        {"name": "handReceiptHolder", "type": "string", "required": false, "description": "Hand receipt holder."},
+        {"name": "assignedAt", "type": "timestamp", "required": false, "description": "Assignment time."}
+      ],
+      "outputs": [],
+      "preconditions": ["equipment exists", "organization exists"],
+      "effects": ["equipmentAssignedToOrganization link created", "equipment.ownerOrganizationId set"],
+      "auditFields": ["actor", "actionTimestamp"],
+      "sourceDoctrine": ["AR_710_2", "AR_750_1"]
+    }
+  ]
+}

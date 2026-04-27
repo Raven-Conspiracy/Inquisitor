@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "operations_process_activities.schema.json",
+  "title": "Operations Process Activities Seed Data",
+  "type": "object",
+  "required": ["operationsProcessActivities"],
+  "properties": {
+    "operationsProcessActivities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["code", "name", "description", "sourceDoctrine"],
+        "properties": {
+          "code": {"type": "string", "enum": ["PLAN", "PREPARE", "EXECUTE", "ASSESS"]},
+          "name": {"type": "string"},
+          "description": {"type": "string"},
+          "typicalArtifacts": {"type": "array", "items": {"type": "string"}},
+          "typicalActions": {"type": "array", "items": {"type": "string"}},
+          "sourceDoctrine": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "action_types.schema.json",
+  "title": "Foundry-style Action Types",
+  "type": "object",
+  "required": ["actionTypes"],
+  "properties": {
+    "actionTypes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["apiName", "displayName", "description", "category", "inputs"],
+        "properties": {
+          "apiName": {"type": "string", "pattern": "^[a-z][a-zA-Z0-9_]*$"},
+          "displayName": {"type": "string"},
+          "description": {"type": "string"},
+          "category": {"type": "string"},
+          "inputs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["name", "type"],
+              "properties": {
+                "name": {"type": "string"},
+                "type": {"type": "string"},
+                "required": {"type": "boolean"},
+                "description": {"type": "string"}
+              }
+            }
+          },
+          "outputs": {"type": "array"},
+          "preconditions": {"type": "array", "items": {"type": "string"}},
+          "effects": {"type": "array", "items": {"type": "string"}},
+          "auditFields": {"type": "array", "items": {"type": "string"}},
+          "sourceDoctrine": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    }
+  }
+}

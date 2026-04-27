@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "manifest.schema.json",
+  "title": "Ontology Package Manifest",
+  "type": "object",
+  "required": ["package", "ontologyCategories", "files", "importOrder", "doctrineReferences"],
+  "properties": {
+    "package": {
+      "type": "object",
+      "required": ["name", "displayName", "version", "description", "classification"],
+      "properties": {
+        "name": {"type": "string"},
+        "displayName": {"type": "string"},
+        "version": {"type": "string"},
+        "description": {"type": "string"},
+        "ontologyTier": {"type": "string"},
+        "classification": {"type": "string"},
+        "namingConvention": {"type": "object"},
+        "authoringNotes": {"type": "string"}
+      }
+    },
+    "ontologyCategories": {"type": "array", "items": {"type": "string"}},
+    "files": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["path", "category", "purpose"],
+        "properties": {
+          "path": {"type": "string"},
+          "category": {"type": "string"},
+          "purpose": {"type": "string"}
+        }
+      }
+    },
+    "schemas": {"type": "array", "items": {"type": "string"}},
+    "importOrder": {"type": "array", "items": {"type": "string"}},
+    "validation": {"type": "object"},
+    "doctrineReferences": {"type": "array", "items": {"type": "string"}}
+  }
+}

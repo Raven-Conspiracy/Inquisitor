@@ -1,0 +1,102 @@
+{
+  "jtcPhases": [
+    {
+      "phaseNumber": 1,
+      "name": "Commander's Objectives, Targeting Guidance, and Intent",
+      "purpose": "Establish what the commander wants the joint force to accomplish through targeting: objectives, desired effects, priorities, restrictions, and intent. Translates strategic and operational objectives into actionable targeting direction.",
+      "keyOutputs": [
+        "Commander's targeting guidance",
+        "Approved objectives and desired effects",
+        "Targeting priorities",
+        "Restricted target list (RTL) and no-strike list (NSL) inputs",
+        "Rules of engagement (ROE) inputs"
+      ],
+      "relatedObjectTypes": [
+        "operation",
+        "commanderIntent",
+        "objective",
+        "targetingGuidance",
+        "effect",
+        "jtcPhase"
+      ],
+      "relatedActionTypes": [
+        "createCommanderIntent",
+        "createTargetingGuidance"
+      ],
+      "relatedLinkTypes": [
+        "targetingGuidanceForOperation",
+        "effectAchievesObjective"
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01", "JTS_SYLLABUS_2023"]
+    },
+    {
+      "phaseNumber": 2,
+      "name": "Target Development and Prioritization",
+      "purpose": "Develop targets through systematic examination of potential target systems, identifying high-value (HVT) and high-payoff targets (HPT), and produce a prioritized candidate target list. Conduct target system analysis (TSA), characterize targets (functional, physical, technical), vet, and validate. Build the joint integrated prioritized target list (JIPTL).",
+      "keyOutputs": [
+        "Target system analysis (TSA) products",
+        "Candidate target list",
+        "Validated target development records",
+        "JIPTL nomination input",
+        "Target nominations",
+        "Updated NSL and RTL"
+      ],
+      "relatedObjectTypes": [
+        "targetSystem",
+        "targetSet",
+        "target",
+        "targetDevelopmentRecord",
+        "targetNomination",
+        "collectionRequirement",
+        "jtcPhase"
+      ],
+      "relatedActionTypes": [
+        "createTargetDevelopmentRecord",
+        "validateTargetDevelopmentCompleteness",
+        "nominateTarget",
+        "prioritizeTarget",
+        "createCollectionRequirement",
+        "linkCollectionToTarget"
+      ],
+      "relatedLinkTypes": [
+        "targetingGuidanceDrivesTargetDevelopment",
+        "targetDevelopmentCoversTarget",
+        "targetBelongsToTargetSet",
+        "targetBelongsToTargetSystem",
+        "targetSetBelongsToTargetSystem",
+        "targetNominationNominatesTarget",
+        "phaseInJTC"
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01", "JTS_SYLLABUS_2023"]
+    },
+    {
+      "phaseNumber": 3,
+      "name": "Capabilities Analysis",
+      "purpose": "Match available capabilities (lethal and nonlethal) to validated targets and desired effects. Analyze feasibility, weaponeering, and force availability to identify viable solutions. Output drives Phase 4 commander's decision and force assignment.",
+      "keyOutputs": [
+        "Weaponeering / capabilities-pairing recommendations",
+        "Feasibility assessments",
+        "Collateral damage estimates (CDE)",
+        "Time/space analysis for engagement",
+        "Recommended capability options to satisfy desired effects"
+      ],
+      "relatedObjectTypes": [
+        "target",
+        "effect",
+        "capability",
+        "weaponSystem",
+        "platform",
+        "jtcPhase"
+      ],
+      "relatedActionTypes": [
+        "validateTargetDevelopmentCompleteness"
+      ],
+      "relatedLinkTypes": [
+        "effectAppliedToTarget",
+        "weaponSystemHostedOnPlatform",
+        "equipmentProvidesCapability"
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01", "JTS_SYLLABUS_2023"]
+    }
+  ]
+}

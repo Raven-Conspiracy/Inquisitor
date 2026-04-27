@@ -1,0 +1,356 @@
+{
+  "valueTypes": [
+    {
+      "apiName": "jtcPhaseNumber",
+      "displayName": "JTC Phase Number",
+      "description": "Joint Targeting Cycle phase number (1-6).",
+      "baseType": "integer",
+      "kind": "enumeration",
+      "values": [
+        {"value": 1, "label": "Phase 1 - Commander's Objectives, Targeting Guidance, and Intent"},
+        {"value": 2, "label": "Phase 2 - Target Development and Prioritization"},
+        {"value": 3, "label": "Phase 3 - Capabilities Analysis"},
+        {"value": 4, "label": "Phase 4 - Commander's Decision and Force Assignment"},
+        {"value": 5, "label": "Phase 5 - Mission Planning and Force Execution"},
+        {"value": 6, "label": "Phase 6 - Combat Assessment"}
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01", "JTS_SYLLABUS_2023"]
+    },
+    {
+      "apiName": "operationsProcessActivity",
+      "displayName": "Operations Process Activity",
+      "description": "The four major mission command activities of the Army operations process.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "PLAN", "label": "Planning"},
+        {"value": "PREPARE", "label": "Preparing"},
+        {"value": "EXECUTE", "label": "Executing"},
+        {"value": "ASSESS", "label": "Assessing"}
+      ],
+      "sourceDoctrine": ["ADP_5_0"]
+    },
+    {
+      "apiName": "mdmpStep",
+      "displayName": "MDMP Step",
+      "description": "Steps of the Military Decisionmaking Process.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "MISSION_RECEIPT", "label": "Receipt of Mission"},
+        {"value": "MISSION_ANALYSIS", "label": "Mission Analysis"},
+        {"value": "COA_DEVELOPMENT", "label": "COA Development"},
+        {"value": "COA_ANALYSIS", "label": "COA Analysis (War Game)"},
+        {"value": "COA_COMPARISON", "label": "COA Comparison"},
+        {"value": "COA_APPROVAL", "label": "COA Approval"},
+        {"value": "ORDERS_PRODUCTION", "label": "Orders Production, Dissemination, and Transition"}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "tlpStep",
+      "displayName": "TLP Step",
+      "description": "Steps of Troop Leading Procedures used at company and below.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "RECEIVE_MISSION", "label": "Receive the Mission"},
+        {"value": "ISSUE_WARNO", "label": "Issue a Warning Order"},
+        {"value": "MAKE_TENTATIVE_PLAN", "label": "Make a Tentative Plan"},
+        {"value": "INITIATE_MOVEMENT", "label": "Initiate Movement"},
+        {"value": "CONDUCT_RECON", "label": "Conduct Reconnaissance"},
+        {"value": "COMPLETE_PLAN", "label": "Complete the Plan"},
+        {"value": "ISSUE_ORDER", "label": "Issue the Order"},
+        {"value": "SUPERVISE_REFINE", "label": "Supervise and Refine"}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "orderType",
+      "displayName": "Order Type",
+      "description": "Standard Army order type.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "WARNORD", "label": "Warning Order"},
+        {"value": "OPORD", "label": "Operation Order"},
+        {"value": "FRAGORD", "label": "Fragmentary Order"},
+        {"value": "OPLAN", "label": "Operation Plan"},
+        {"value": "EXORD", "label": "Execute Order"}
+      ],
+      "sourceDoctrine": ["FM_5_0"]
+    },
+    {
+      "apiName": "echelon",
+      "displayName": "Echelon",
+      "description": "Echelon level of an Army organization.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "THEATER_ARMY", "label": "Theater Army"},
+        {"value": "FIELD_ARMY", "label": "Field Army"},
+        {"value": "CORPS", "label": "Corps"},
+        {"value": "DIVISION", "label": "Division"},
+        {"value": "BRIGADE", "label": "Brigade"},
+        {"value": "BATTALION", "label": "Battalion"},
+        {"value": "COMPANY", "label": "Company"},
+        {"value": "PLATOON", "label": "Platoon"},
+        {"value": "SQUAD", "label": "Squad"},
+        {"value": "TEAM", "label": "Team"}
+      ],
+      "sourceDoctrine": ["FM_3_94", "FM_3_96", "ATP_3_21_8"]
+    },
+    {
+      "apiName": "organizationType",
+      "displayName": "Organization Type",
+      "description": "High-level type of military organization.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "MANEUVER", "label": "Maneuver"},
+        {"value": "FIRES", "label": "Fires"},
+        {"value": "INTELLIGENCE", "label": "Intelligence"},
+        {"value": "SUSTAINMENT", "label": "Sustainment"},
+        {"value": "PROTECTION", "label": "Protection"},
+        {"value": "COMMAND_CONTROL", "label": "Command and Control"},
+        {"value": "AVIATION", "label": "Aviation"},
+        {"value": "ENGINEER", "label": "Engineer"},
+        {"value": "SIGNAL", "label": "Signal"},
+        {"value": "MEDICAL", "label": "Medical"},
+        {"value": "JOINT_FORCE_ELEMENT", "label": "Joint Force Element"},
+        {"value": "STAFF", "label": "Staff"},
+        {"value": "HEADQUARTERS", "label": "Headquarters"}
+      ],
+      "sourceDoctrine": ["ADP_3_0", "FM_3_94", "FM_3_96"]
+    },
+    {
+      "apiName": "staffSectionCode",
+      "displayName": "Staff Section Code",
+      "description": "Standard staff section codes (G/S series).",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "S1_G1", "label": "Personnel"},
+        {"value": "S2_G2", "label": "Intelligence"},
+        {"value": "S3_G3", "label": "Operations"},
+        {"value": "S4_G4", "label": "Logistics"},
+        {"value": "S5_G5", "label": "Plans"},
+        {"value": "S6_G6", "label": "Signal/Communications"},
+        {"value": "S7_G7", "label": "Information Operations / Engagement"},
+        {"value": "S8_G8", "label": "Resource Management"},
+        {"value": "S9_G9", "label": "Civil Affairs"},
+        {"value": "JFE", "label": "Joint Fires Element"},
+        {"value": "FSCOORD", "label": "Fire Support Coordinator"},
+        {"value": "TGT_WG", "label": "Targeting Working Group"}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_3_94", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "warfightingFunction",
+      "displayName": "Warfighting Function",
+      "description": "Army warfighting functions.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "COMMAND_CONTROL", "label": "Command and Control"},
+        {"value": "MOVEMENT_MANEUVER", "label": "Movement and Maneuver"},
+        {"value": "INTELLIGENCE", "label": "Intelligence"},
+        {"value": "FIRES", "label": "Fires"},
+        {"value": "SUSTAINMENT", "label": "Sustainment"},
+        {"value": "PROTECTION", "label": "Protection"}
+      ],
+      "sourceDoctrine": ["ADP_3_0"]
+    },
+    {
+      "apiName": "taskStatus",
+      "displayName": "Task Status",
+      "description": "Lifecycle status of a task or order item.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "DRAFT", "label": "Draft"},
+        {"value": "PROPOSED", "label": "Proposed"},
+        {"value": "APPROVED", "label": "Approved"},
+        {"value": "ASSIGNED", "label": "Assigned"},
+        {"value": "IN_PROGRESS", "label": "In Progress"},
+        {"value": "COMPLETE", "label": "Complete"},
+        {"value": "CANCELLED", "label": "Cancelled"},
+        {"value": "FAILED", "label": "Failed"}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "readinessStatus",
+      "displayName": "Readiness Status",
+      "description": "Equipment or unit readiness condition (C-rating concept simplified).",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "FMC", "label": "Fully Mission Capable"},
+        {"value": "PMC", "label": "Partially Mission Capable"},
+        {"value": "NMC", "label": "Non-Mission Capable"},
+        {"value": "UNKNOWN", "label": "Unknown"}
+      ],
+      "sourceDoctrine": ["AR_750_1", "DA_PAM_750_3"]
+    },
+    {
+      "apiName": "maintenanceStatusCode",
+      "displayName": "Maintenance Status Code",
+      "description": "Maintenance category and posture for a piece of equipment.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "OPERATIONAL", "label": "Operational"},
+        {"value": "FIELD_MAINTENANCE", "label": "Field Maintenance (Replace/Repair Forward)"},
+        {"value": "SUSTAINMENT_MAINTENANCE", "label": "Sustainment Maintenance (Repair to Standard)"},
+        {"value": "AWAITING_PARTS", "label": "Awaiting Parts"},
+        {"value": "DEADLINED", "label": "Deadlined"}
+      ],
+      "sourceDoctrine": ["AR_750_1", "DA_PAM_750_3"]
+    },
+    {
+      "apiName": "supplyClassCode",
+      "displayName": "Supply Class Code",
+      "description": "Army Class of Supply codes I through X.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "I", "label": "Class I - Subsistence"},
+        {"value": "II", "label": "Class II - Clothing, Individual Equipment, Tools, Tentage"},
+        {"value": "III", "label": "Class III - Petroleum, Oils, and Lubricants"},
+        {"value": "IV", "label": "Class IV - Construction and Barrier Materials"},
+        {"value": "V", "label": "Class V - Ammunition"},
+        {"value": "VI", "label": "Class VI - Personal Demand Items"},
+        {"value": "VII", "label": "Class VII - Major End Items"},
+        {"value": "VIII", "label": "Class VIII - Medical Materiel"},
+        {"value": "IX", "label": "Class IX - Repair Parts and Components"},
+        {"value": "X", "label": "Class X - Material to Support Nonmilitary Programs"}
+      ],
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42", "ATP_4_42_2", "AR_710_2"]
+    },
+    {
+      "apiName": "priority",
+      "displayName": "Priority",
+      "description": "General priority indicator.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "ROUTINE", "label": "Routine"},
+        {"value": "PRIORITY", "label": "Priority"},
+        {"value": "IMMEDIATE", "label": "Immediate"},
+        {"value": "FLASH", "label": "Flash"}
+      ],
+      "sourceDoctrine": ["FM_5_0"]
+    },
+    {
+      "apiName": "classificationMarking",
+      "displayName": "Classification Marking",
+      "description": "Information classification marking. Limited to unclassified categories for accelerator content.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "U", "label": "Unclassified"},
+        {"value": "U_FOUO", "label": "Unclassified // For Official Use Only"},
+        {"value": "CUI", "label": "Controlled Unclassified Information"}
+      ],
+      "sourceDoctrine": ["ADP_1_02"]
+    },
+    {
+      "apiName": "sourceConfidence",
+      "displayName": "Source Confidence",
+      "description": "Analyst confidence in a source or assessment.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "HIGH", "label": "High"},
+        {"value": "MODERATE", "label": "Moderate"},
+        {"value": "LOW", "label": "Low"},
+        {"value": "UNKNOWN", "label": "Unknown"}
+      ],
+      "sourceDoctrine": ["ADP_1_02"]
+    },
+    {
+      "apiName": "targetStatus",
+      "displayName": "Target Status",
+      "description": "Lifecycle status of a target through development and approval.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "CANDIDATE", "label": "Candidate"},
+        {"value": "IN_DEVELOPMENT", "label": "In Development"},
+        {"value": "VALIDATED", "label": "Validated"},
+        {"value": "NOMINATED", "label": "Nominated"},
+        {"value": "APPROVED", "label": "Approved"},
+        {"value": "PROHIBITED", "label": "Prohibited (No-Strike)"},
+        {"value": "RESTRICTED", "label": "Restricted"}
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "targetCategory",
+      "displayName": "Target Category",
+      "description": "Functional category of a target.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "C2", "label": "Command and Control"},
+        {"value": "FIRES", "label": "Fires"},
+        {"value": "AIR_DEFENSE", "label": "Air Defense"},
+        {"value": "MANEUVER", "label": "Maneuver"},
+        {"value": "SUSTAINMENT", "label": "Sustainment"},
+        {"value": "ISR", "label": "ISR"},
+        {"value": "INFRASTRUCTURE", "label": "Infrastructure"},
+        {"value": "LEADERSHIP", "label": "Leadership"},
+        {"value": "WMD", "label": "Weapons of Mass Destruction"},
+        {"value": "INFORMATION", "label": "Information / Cyber / EW"}
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "effectType",
+      "displayName": "Effect Type",
+      "description": "Desired effect on a target or system.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "DESTROY", "label": "Destroy"},
+        {"value": "NEUTRALIZE", "label": "Neutralize"},
+        {"value": "SUPPRESS", "label": "Suppress"},
+        {"value": "DEGRADE", "label": "Degrade"},
+        {"value": "DENY", "label": "Deny"},
+        {"value": "DISRUPT", "label": "Disrupt"},
+        {"value": "DECEIVE", "label": "Deceive"},
+        {"value": "EXPLOIT", "label": "Exploit"},
+        {"value": "INFLUENCE", "label": "Influence"}
+      ],
+      "sourceDoctrine": ["JP_3_60", "ADP_1_02"]
+    },
+    {
+      "apiName": "measureType",
+      "displayName": "Measure Type",
+      "description": "Type of assessment measure.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "MOE", "label": "Measure of Effectiveness"},
+        {"value": "MOP", "label": "Measure of Performance"},
+        {"value": "INDICATOR", "label": "Indicator"}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "linkConfidence",
+      "displayName": "Link Confidence",
+      "description": "Analyst confidence in a relationship between two ontology objects.",
+      "baseType": "string",
+      "kind": "enumeration",
+      "values": [
+        {"value": "CONFIRMED", "label": "Confirmed"},
+        {"value": "PROBABLE", "label": "Probable"},
+        {"value": "POSSIBLE", "label": "Possible"},
+        {"value": "DOUBTFUL", "label": "Doubtful"}
+      ],
+      "sourceDoctrine": ["ADP_1_02"]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "jtc_phases.schema.json",
+  "title": "JTC Phases Seed Data",
+  "type": "object",
+  "required": ["jtcPhases"],
+  "properties": {
+    "jtcPhases": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["phaseNumber", "name", "purpose", "sourceDoctrine"],
+        "properties": {
+          "phaseNumber": {"type": "integer", "minimum": 1, "maximum": 6},
+          "name": {"type": "string"},
+          "purpose": {"type": "string"},
+          "keyOutputs": {"type": "array", "items": {"type": "string"}},
+          "relatedObjectTypes": {"type": "array", "items": {"type": "string"}},
+          "relatedActionTypes": {"type": "array", "items": {"type": "string"}},
+          "relatedLinkTypes": {"type": "array", "items": {"type": "string"}},
+          "sourceDoctrine": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    }
+  }
+}

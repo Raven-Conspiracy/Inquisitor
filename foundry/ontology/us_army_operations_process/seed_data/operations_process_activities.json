@@ -1,0 +1,92 @@
+{
+  "operationsProcessActivities": [
+    {
+      "code": "PLAN",
+      "name": "Planning",
+      "description": "The art and science of understanding a situation, envisioning a desired future, and laying out effective ways of bringing that future about. In the operations process, planning produces understanding, develops a plan or order, and prepares the force.",
+      "typicalArtifacts": [
+        "Mission statement",
+        "Commander's intent",
+        "Operational approach",
+        "Course of action",
+        "WARNORD",
+        "OPORD / OPLAN",
+        "Running estimates",
+        "Assessment plan"
+      ],
+      "typicalActions": [
+        "createCommanderIntent",
+        "initiateMdmp",
+        "createCourseOfAction",
+        "approveCourseOfAction",
+        "publishWarnord",
+        "publishOpord",
+        "createAssessmentPlan",
+        "createRunningEstimate"
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "code": "PREPARE",
+      "name": "Preparing",
+      "description": "Activities performed by units and Soldiers to improve their ability to execute an operation: rehearsals, plan refinement, task organization changes, integration of new units, pre-combat checks and inspections, sustainment preparation, and movement to assembly areas.",
+      "typicalArtifacts": [
+        "Rehearsal products",
+        "Pre-combat checks and inspections (PCC/PCI) results",
+        "Task organization updates",
+        "Refined plan annexes",
+        "Updated sustainment posture (basic loads, supply requests)",
+        "Updated equipment readiness reports"
+      ],
+      "typicalActions": [
+        "publishFragord",
+        "updateRunningEstimate",
+        "updateEquipmentReadiness",
+        "submitSupplyRequest",
+        "approveSupplyRequest",
+        "createLogisticsPackage",
+        "assignEquipmentToOrganization"
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "code": "EXECUTE",
+      "name": "Executing",
+      "description": "Putting a plan into action by applying combat power to accomplish the mission. Commanders make decisions to seize, retain, and exploit the initiative; staffs synchronize warfighting functions; subordinates execute tasks.",
+      "typicalArtifacts": [
+        "FRAGORDs",
+        "Decision point matrices and synchronization matrices in execution",
+        "Battle update briefs",
+        "MOP/MOE/indicator observations",
+        "Updated readiness and supply status"
+      ],
+      "typicalActions": [
+        "publishFragord",
+        "issueTask",
+        "updateTaskStatus",
+        "createDecisionPoint",
+        "recordMeasureObservation",
+        "updateRunningEstimate"
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "code": "ASSESS",
+      "name": "Assessing",
+      "description": "Determination of the progress toward accomplishing a task, creating a condition, or achieving an objective. Continuous activity that occurs throughout the operations process. Outputs feed re-planning and the targeting cycle.",
+      "typicalArtifacts": [
+        "Assessment plan updates",
+        "MOEs and MOPs with current values",
+        "Indicators with observations",
+        "Combat assessment products (BDA, MEA, reattack recommendations)",
+        "Assessment briefings"
+      ],
+      "typicalActions": [
+        "updateAssessmentPlan",
+        "recordMeasureObservation",
+        "updateRunningEstimate"
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0", "JP_3_60", "CJCSM_3108_01"]
+    }
+  ]
+}

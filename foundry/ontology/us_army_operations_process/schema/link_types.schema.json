@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "link_types.schema.json",
+  "title": "Foundry-style Link Types",
+  "type": "object",
+  "required": ["linkTypes"],
+  "properties": {
+    "linkTypes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["apiName", "displayName", "description", "category", "fromObjectType", "toObjectType", "cardinality"],
+        "properties": {
+          "apiName": {"type": "string", "pattern": "^[a-z][a-zA-Z0-9_]*$"},
+          "displayName": {"type": "string"},
+          "description": {"type": "string"},
+          "category": {"type": "string"},
+          "fromObjectType": {"type": "string"},
+          "toObjectType": {"type": "string"},
+          "cardinality": {"type": "string", "enum": ["ONE_TO_ONE", "ONE_TO_MANY", "MANY_TO_ONE", "MANY_TO_MANY"]},
+          "properties": {"type": "array"},
+          "sourceDoctrine": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "value_types.schema.json",
+  "title": "Foundry-style Value Types and Enumerations",
+  "type": "object",
+  "required": ["valueTypes"],
+  "properties": {
+    "valueTypes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["apiName", "displayName", "description", "baseType", "kind"],
+        "properties": {
+          "apiName": {"type": "string", "pattern": "^[a-z][a-zA-Z0-9_]*$"},
+          "displayName": {"type": "string"},
+          "description": {"type": "string"},
+          "baseType": {"type": "string"},
+          "kind": {"type": "string"},
+          "values": {"type": "array"},
+          "sourceDoctrine": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    }
+  }
+}

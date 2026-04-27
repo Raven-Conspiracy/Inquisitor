@@ -1,0 +1,115 @@
+{
+  "package": {
+    "name": "us_army_operations_process",
+    "displayName": "US Army Operations Process Foundry Ontology Accelerator",
+    "version": "0.1.0",
+    "description": "Doctrine-derived, unclassified Foundry ontology starter that models the US Army operations process (plan, prepare, execute, assess) and provides supporting object/action/link types for organizations, equipment, sustainment, and Joint Targeting Cycle (JTC) Phases 1-3. Intended to accelerate a Foundry build, not to be an authoritative or official Foundry export.",
+    "ontologyTier": "accelerator",
+    "classification": "UNCLASSIFIED",
+    "namingConvention": {
+      "apiName": "lowerCamelCase",
+      "propertyApiName": "lowerCamelCase",
+      "objectTypeDisplayName": "TitleCase",
+      "linkTypeDisplayName": "TitleCase",
+      "actionTypeDisplayName": "TitleCase",
+      "valueTypeDisplayName": "TitleCase"
+    },
+    "authoringNotes": "All apiNames are stable Foundry-friendly identifiers. Property types use a small portable type vocabulary (string, integer, double, boolean, date, timestamp, geoshape, geopoint, attachment, marking, enum:<value_type_apiName>). Adapt to the destination tenant's exact Foundry property type names during import."
+  },
+  "ontologyCategories": [
+    "operations_process",
+    "joint_targeting_cycle",
+    "organizations",
+    "equipment_readiness",
+    "sustainment",
+    "geography_mission_context",
+    "shared_value_types",
+    "seed_reference_data"
+  ],
+  "files": [
+    {
+      "path": "value_types.json",
+      "category": "shared_value_types",
+      "purpose": "Enumerations and shared value types referenced by object, link, and action definitions."
+    },
+    {
+      "path": "object_types.json",
+      "category": "object_types",
+      "purpose": "Foundry-style object type definitions across operations process, JTC, organizations, equipment, sustainment, and geography."
+    },
+    {
+      "path": "link_types.json",
+      "category": "link_types",
+      "purpose": "Foundry-style link type definitions binding object types into a coherent operational graph."
+    },
+    {
+      "path": "action_types.json",
+      "category": "action_types",
+      "purpose": "Foundry-style action type definitions for operations process, JTC, sustainment, and equipment events."
+    },
+    {
+      "path": "seed_data/classes_of_supply.json",
+      "category": "seed_reference_data",
+      "purpose": "All ten Army Classes of Supply (I-X) with descriptions, examples, and planning notes."
+    },
+    {
+      "path": "seed_data/jtc_phases_1_to_3.json",
+      "category": "seed_reference_data",
+      "purpose": "Joint Targeting Cycle Phase 1 (Commander's Objectives, Targeting Guidance, Intent), Phase 2 (Target Development and Prioritization), and Phase 3 (Capabilities Analysis)."
+    },
+    {
+      "path": "seed_data/operations_process_activities.json",
+      "category": "seed_reference_data",
+      "purpose": "The four Army operations process activities (Planning, Preparing, Executing, Assessing) with artifacts and actions."
+    },
+    {
+      "path": "source_mapping.json",
+      "category": "doctrine_source_mapping",
+      "purpose": "Bibliography of doctrinal sources cited by sourceDoctrine references throughout the package."
+    }
+  ],
+  "schemas": [
+    "schema/manifest.schema.json",
+    "schema/object_types.schema.json",
+    "schema/link_types.schema.json",
+    "schema/action_types.schema.json",
+    "schema/value_types.schema.json",
+    "schema/classes_of_supply.schema.json",
+    "schema/jtc_phases.schema.json",
+    "schema/operations_process_activities.schema.json",
+    "schema/source_mapping.schema.json"
+  ],
+  "importOrder": [
+    "source_mapping.json",
+    "value_types.json",
+    "object_types.json",
+    "link_types.json",
+    "action_types.json",
+    "seed_data/classes_of_supply.json",
+    "seed_data/operations_process_activities.json",
+    "seed_data/jtc_phases_1_to_3.json"
+  ],
+  "validation": {
+    "command": "python3 scripts/validate_ontology_json.py",
+    "description": "Validates JSON well-formedness and (when jsonschema is installed) conformance to the included JSON Schemas."
+  },
+  "doctrineReferences": [
+    "ADP_5_0",
+    "FM_5_0",
+    "ADP_3_0",
+    "FM_3_0",
+    "FM_3_94",
+    "FM_3_96",
+    "ATP_3_21_8",
+    "ADP_4_0",
+    "ATP_4_42",
+    "ATP_4_42_2",
+    "AR_710_2",
+    "AR_750_1",
+    "DA_PAM_750_3",
+    "JP_3_60",
+    "CJCSM_3108_01",
+    "JTS_SYLLABUS_2023",
+    "ADP_1_02"
+  ]
+}

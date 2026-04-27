@@ -1,0 +1,84 @@
+{
+  "classesOfSupply": [
+    {
+      "code": "I",
+      "title": "Subsistence",
+      "description": "Subsistence (rations) and gratuitous health and welfare items consumed by personnel at an approximately uniform daily rate.",
+      "examples": ["MREs (Meal, Ready-to-Eat)", "UGRs (Unitized Group Rations)", "B-rations", "A-rations", "potable water (subsistence portion)"],
+      "planningNotes": "Plan by personnel headcount and operational tempo; typically one of the most predictable consumption classes. Consider local market support and host-nation subsistence supply where appropriate.",
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42", "ATP_4_42_2"]
+    },
+    {
+      "code": "II",
+      "title": "Clothing, Individual Equipment, Tools, Tentage, Organizational Tool Sets and Kits, Hand Tools, Administrative and Housekeeping Supplies and Equipment",
+      "description": "Items of clothing, individual and organizational equipment, tools, tentage, sets, and kits.",
+      "examples": ["uniforms", "boots", "OCIE", "tents", "field desks", "field phones", "general office supplies"],
+      "planningNotes": "Forecast based on initial issue, attrition rate, and theater-specific environmental requirements (cold-weather, hot-weather, MOPP).",
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42"]
+    },
+    {
+      "code": "III",
+      "title": "Petroleum, Oils, and Lubricants (POL)",
+      "description": "Petroleum products including bulk POL (III B) and packaged POL (III P): fuels, lubricants, hydraulic and insulating oils, preservatives, liquids and gases, bulk chemical products, coolants, deicing and antifreeze compounds.",
+      "examples": ["JP-8", "diesel (DF-2)", "MOGAS", "aviation fuels", "engine oil", "hydraulic fluid", "grease"],
+      "planningNotes": "Highest-volume sustainment class for mechanized/aviation operations. Plan ROM/FARP architecture; segregate bulk (III B) from packaged (III P). Distinct distribution networks frequently required.",
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42"]
+    },
+    {
+      "code": "IV",
+      "title": "Construction and Barrier Materials",
+      "description": "Construction materials, including installed equipment, and all fortification and barrier materials.",
+      "examples": ["lumber", "concertina wire", "HESCO barriers", "sandbags", "rebar", "PSP matting", "construction-grade concrete"],
+      "planningNotes": "Heavy by weight/volume; coordinate with engineer planners early. Often constrained by lift and host-nation availability.",
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42"]
+    },
+    {
+      "code": "V",
+      "title": "Ammunition",
+      "description": "Ammunition of all types, including chemical, biological, radiological, and special weapons; bombs; explosives; mines; fuses; detonators; pyrotechnics; missiles; rockets; propellants; and other associated items.",
+      "examples": ["small arms ammunition", "tank main gun ammunition", "artillery rounds", "mortar rounds", "ATGMs", "MANPADS reloads", "demolitions"],
+      "planningNotes": "Tied tightly to scheme of fires and weapons mix. Plan ASPs, FATPs, and convoy security separately. Strict accountability and explosive safety quantity-distance constraints.",
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42"]
+    },
+    {
+      "code": "VI",
+      "title": "Personal Demand Items",
+      "description": "Personal demand items (nonmilitary sales items).",
+      "examples": ["AAFES PX merchandise", "tobacco", "personal hygiene items beyond OCIE", "sundries"],
+      "planningNotes": "Often handled through AAFES or DLA; lower operational priority but morale impact during sustained operations.",
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42"]
+    },
+    {
+      "code": "VII",
+      "title": "Major End Items",
+      "description": "Major end items, a final combination of end products which is ready for its intended use (combat-ready).",
+      "examples": ["tanks", "Bradleys", "M109 SP howitzers", "HMMWVs", "JLTVs", "trucks", "aircraft", "communications shelters"],
+      "planningNotes": "Combat losses replaced through Class VII; coordinate via PBO/HRO and theater materiel manager. Typically requires fielding and new equipment training cycles.",
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42"]
+    },
+    {
+      "code": "VIII",
+      "title": "Medical Materiel",
+      "description": "Medical materiel including repair parts peculiar to medical equipment.",
+      "examples": ["pharmaceuticals", "blood products", "medical consumables", "surgical sets", "dental supplies"],
+      "planningNotes": "Distinct medical logistics (MEDLOG) chain through medical brigade or higher. Cold-chain handling for blood and refrigerated pharmaceuticals.",
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42_2"]
+    },
+    {
+      "code": "IX",
+      "title": "Repair Parts and Components",
+      "description": "Repair parts and components, including kits, assemblies, and subassemblies, repairable and nonrepairable, required for maintenance support of all equipment.",
+      "examples": ["NSN-stocked repair parts", "track shoes", "engines (RXR)", "circuit cards", "filters", "tires"],
+      "planningNotes": "Drives field-maintenance throughput. Plan PLL (Prescribed Load List) at unit level and ASL at the SSA. Demand-driven with seasonal/operational variation.",
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42", "ATP_4_42_2", "AR_710_2", "AR_750_1"]
+    },
+    {
+      "code": "X",
+      "title": "Material to Support Nonmilitary Programs",
+      "description": "Material to support nonmilitary programs such as agricultural and economic development, not included in Classes I through IX.",
+      "examples": ["agricultural seed", "civil affairs project supplies", "host-nation construction support material"],
+      "planningNotes": "Common in stability and DSCA operations. Coordinate with G-9/CA, USAID, host-nation authorities, and supporting interagency partners.",
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42"]
+    }
+  ]
+}

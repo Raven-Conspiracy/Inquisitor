@@ -1,0 +1,1272 @@
+{
+  "objectTypes": [
+    {
+      "apiName": "operation",
+      "displayName": "Operation",
+      "description": "A named military operation conducted by an Army or joint force, the principal unit of work in the operations process.",
+      "category": "operations_process",
+      "primaryKey": "operationId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "operationId", "type": "string", "required": true, "description": "Stable unique identifier for the operation."},
+        {"name": "name", "type": "string", "required": true, "description": "Operation short name or codeword."},
+        {"name": "description", "type": "string", "required": false, "description": "Free-text operational summary."},
+        {"name": "operationType", "type": "string", "required": false, "description": "Offensive, defensive, stability, or DSCA."},
+        {"name": "startTime", "type": "timestamp", "required": false, "description": "Planned or actual start time."},
+        {"name": "endTime", "type": "timestamp", "required": false, "description": "Planned or actual end time."},
+        {"name": "status", "type": "enum:taskStatus", "required": false, "description": "Lifecycle status of the operation."},
+        {"name": "currentActivity", "type": "enum:operationsProcessActivity", "required": false, "description": "Current dominant operations process activity."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification marking for the operation record."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources informing this object."},
+        {"name": "notes", "type": "string", "required": false, "description": "Free-text notes."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0", "ADP_3_0", "FM_3_0"]
+    },
+    {
+      "apiName": "planOrder",
+      "displayName": "Plan or Order",
+      "description": "A plan or order produced by the operations process: OPLAN, OPORD, WARNORD, FRAGORD, or EXORD.",
+      "category": "operations_process",
+      "primaryKey": "planOrderId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "planOrderId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Document title."},
+        {"name": "orderType", "type": "enum:orderType", "required": true, "description": "Order type."},
+        {"name": "issuingHeadquartersId", "type": "string", "required": false, "description": "Issuing headquarters reference."},
+        {"name": "publicationTimestamp", "type": "timestamp", "required": false, "description": "Time the order was published."},
+        {"name": "effectiveTimestamp", "type": "timestamp", "required": false, "description": "Effective time of the order."},
+        {"name": "summary", "type": "string", "required": false, "description": "Executive summary of the order."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification marking."},
+        {"name": "attachment", "type": "attachment", "required": false, "description": "Attached order document."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["FM_5_0", "ADP_5_0"]
+    },
+    {
+      "apiName": "mission",
+      "displayName": "Mission",
+      "description": "A mission statement assigning a task and purpose to a unit (who, what, when, where, why).",
+      "category": "operations_process",
+      "primaryKey": "missionId",
+      "titleProperty": "shortTitle",
+      "properties": [
+        {"name": "missionId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "shortTitle", "type": "string", "required": true, "description": "Short mission title."},
+        {"name": "who", "type": "string", "required": false, "description": "Assigned unit / organization."},
+        {"name": "what", "type": "string", "required": false, "description": "Task verb and object."},
+        {"name": "when", "type": "string", "required": false, "description": "When (NLT, on order, etc.)."},
+        {"name": "where", "type": "string", "required": false, "description": "Where (location or AO)."},
+        {"name": "why", "type": "string", "required": false, "description": "Purpose."},
+        {"name": "endState", "type": "string", "required": false, "description": "Desired end state."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0", "ADP_1_02"]
+    },
+    {
+      "apiName": "commanderIntent",
+      "displayName": "Commander's Intent",
+      "description": "Commander's clear, concise statement of purpose, key tasks, and desired end state.",
+      "category": "operations_process",
+      "primaryKey": "commanderIntentId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "commanderIntentId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "purpose", "type": "string", "required": false, "description": "Purpose statement."},
+        {"name": "keyTasks", "type": "array<string>", "required": false, "description": "List of key tasks."},
+        {"name": "endState", "type": "string", "required": false, "description": "Desired end state."},
+        {"name": "issuingCommander", "type": "string", "required": false, "description": "Commander name or position."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "operationalApproach",
+      "displayName": "Operational Approach",
+      "description": "Description of the broad actions the force must take to achieve the desired end state.",
+      "category": "operations_process",
+      "primaryKey": "operationalApproachId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "operationalApproachId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "narrative", "type": "string", "required": false, "description": "Approach narrative."},
+        {"name": "linesOfEffort", "type": "array<string>", "required": false, "description": "Named lines of effort or operations."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "courseOfAction",
+      "displayName": "Course of Action",
+      "description": "A potential solution developed during MDMP COA development to accomplish the mission.",
+      "category": "operations_process",
+      "primaryKey": "coaId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "coaId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "COA name (e.g., COA1, Bold Strike)."},
+        {"name": "narrative", "type": "string", "required": false, "description": "Narrative description."},
+        {"name": "sketch", "type": "attachment", "required": false, "description": "COA sketch."},
+        {"name": "feasible", "type": "boolean", "required": false, "description": "Feasibility test result."},
+        {"name": "acceptable", "type": "boolean", "required": false, "description": "Acceptability test result."},
+        {"name": "suitable", "type": "boolean", "required": false, "description": "Suitability test result."},
+        {"name": "distinguishable", "type": "boolean", "required": false, "description": "Distinguishability test result."},
+        {"name": "complete", "type": "boolean", "required": false, "description": "Completeness test result."},
+        {"name": "approved", "type": "boolean", "required": false, "description": "Whether the COA is approved."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "decisionPoint",
+      "displayName": "Decision Point",
+      "description": "An event, area, or point in the battlespace where tactical decisions are required during execution.",
+      "category": "operations_process",
+      "primaryKey": "decisionPointId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "decisionPointId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Decision point name (e.g., DP-1)."},
+        {"name": "description", "type": "string", "required": false, "description": "Description and triggering criteria."},
+        {"name": "triggerCriteria", "type": "array<string>", "required": false, "description": "Indicators or events that trigger this decision."},
+        {"name": "associatedNAIs", "type": "array<string>", "required": false, "description": "NAIs whose observation supports the decision."},
+        {"name": "expectedDecisionTime", "type": "timestamp", "required": false, "description": "Expected time the decision must be made."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "runningEstimate",
+      "displayName": "Running Estimate",
+      "description": "A continuously-updated assessment by a staff section of the situation and the operation's progress.",
+      "category": "operations_process",
+      "primaryKey": "runningEstimateId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "runningEstimateId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Title (e.g., G-2 Running Estimate)."},
+        {"name": "staffSectionCode", "type": "enum:staffSectionCode", "required": false, "description": "Owning staff section."},
+        {"name": "lastUpdated", "type": "timestamp", "required": false, "description": "Last update time."},
+        {"name": "summary", "type": "string", "required": false, "description": "Latest summary text."},
+        {"name": "recommendations", "type": "array<string>", "required": false, "description": "Recommendations to the commander."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "assessmentPlan",
+      "displayName": "Assessment Plan",
+      "description": "Plan that establishes how the staff will assess the operation, including objectives, MOEs, MOPs, and indicators.",
+      "category": "operations_process",
+      "primaryKey": "assessmentPlanId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "assessmentPlanId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "summary", "type": "string", "required": false, "description": "Assessment plan summary."},
+        {"name": "owningOrganizationId", "type": "string", "required": false, "description": "Organization owning the plan."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "measureOfEffectiveness",
+      "displayName": "Measure of Effectiveness (MOE)",
+      "description": "Criterion used to assess changes in system behavior, capability, or operational environment tied to measuring achievement of an end state, achievement of an objective, or creation of an effect.",
+      "category": "operations_process",
+      "primaryKey": "moeId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "moeId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "MOE name."},
+        {"name": "description", "type": "string", "required": false, "description": "Description."},
+        {"name": "objectiveId", "type": "string", "required": false, "description": "Linked objective."},
+        {"name": "currentValue", "type": "string", "required": false, "description": "Latest observed value or qualitative state."},
+        {"name": "threshold", "type": "string", "required": false, "description": "Threshold or target."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "measureOfPerformance",
+      "displayName": "Measure of Performance (MOP)",
+      "description": "Criterion used to assess friendly actions tied to measuring task accomplishment.",
+      "category": "operations_process",
+      "primaryKey": "mopId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "mopId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "MOP name."},
+        {"name": "description", "type": "string", "required": false, "description": "Description."},
+        {"name": "taskId", "type": "string", "required": false, "description": "Linked task."},
+        {"name": "currentValue", "type": "string", "required": false, "description": "Latest observed value."},
+        {"name": "threshold", "type": "string", "required": false, "description": "Performance threshold."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "indicator",
+      "displayName": "Indicator",
+      "description": "Observable item of information used to inform a measure (MOE/MOP) or decision point.",
+      "category": "operations_process",
+      "primaryKey": "indicatorId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "indicatorId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Indicator name."},
+        {"name": "description", "type": "string", "required": false, "description": "Description."},
+        {"name": "associatedMeasureId", "type": "string", "required": false, "description": "MOE or MOP this indicator informs."},
+        {"name": "associatedNAIs", "type": "array<string>", "required": false, "description": "NAIs from which this indicator is collected."},
+        {"name": "lastObservation", "type": "string", "required": false, "description": "Most recent observed value."},
+        {"name": "lastObservedAt", "type": "timestamp", "required": false, "description": "Time of most recent observation."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "task",
+      "displayName": "Task",
+      "description": "An assigned task associated with an operation, mission, or order.",
+      "category": "operations_process",
+      "primaryKey": "taskId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "taskId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Task short title."},
+        {"name": "taskVerb", "type": "string", "required": false, "description": "Doctrinal task verb (e.g., seize, destroy, defeat)."},
+        {"name": "purpose", "type": "string", "required": false, "description": "Purpose / in order to."},
+        {"name": "assignedOrganizationId", "type": "string", "required": false, "description": "Organization assigned the task."},
+        {"name": "phaseId", "type": "string", "required": false, "description": "Phase in which the task occurs."},
+        {"name": "status", "type": "enum:taskStatus", "required": false, "description": "Lifecycle status."},
+        {"name": "priority", "type": "enum:priority", "required": false, "description": "Priority."},
+        {"name": "startTime", "type": "timestamp", "required": false, "description": "Planned start."},
+        {"name": "endTime", "type": "timestamp", "required": false, "description": "Planned completion."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0", "ADP_1_02"]
+    },
+    {
+      "apiName": "controlMeasure",
+      "displayName": "Control Measure",
+      "description": "Means of regulating forces or warfighting functions in the operational area (e.g., boundaries, phase lines, FSCMs).",
+      "category": "operations_process",
+      "primaryKey": "controlMeasureId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "controlMeasureId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name (e.g., PL BLUE, BCT North Boundary)."},
+        {"name": "controlMeasureType", "type": "string", "required": false, "description": "Doctrinal type (boundary, phase line, FSCM, OPAREA, etc.)."},
+        {"name": "geometry", "type": "geoshape", "required": false, "description": "Geographic representation."},
+        {"name": "effectiveTime", "type": "timestamp", "required": false, "description": "When this control measure becomes effective."},
+        {"name": "expirationTime", "type": "timestamp", "required": false, "description": "When this control measure expires."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_1_02", "FM_5_0"]
+    },
+    {
+      "apiName": "risk",
+      "displayName": "Risk",
+      "description": "A risk identified during planning or execution.",
+      "category": "operations_process",
+      "primaryKey": "riskId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "riskId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Risk title."},
+        {"name": "description", "type": "string", "required": false, "description": "Description."},
+        {"name": "likelihood", "type": "string", "required": false, "description": "Likelihood (frequent/likely/occasional/seldom/unlikely)."},
+        {"name": "severity", "type": "string", "required": false, "description": "Severity (catastrophic/critical/marginal/negligible)."},
+        {"name": "mitigations", "type": "array<string>", "required": false, "description": "Mitigation actions."},
+        {"name": "owner", "type": "string", "required": false, "description": "Risk owner."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "assumption",
+      "displayName": "Planning Assumption",
+      "description": "A supposition about the current or future situation, assumed to be true in the absence of facts.",
+      "category": "operations_process",
+      "primaryKey": "assumptionId",
+      "titleProperty": "statement",
+      "properties": [
+        {"name": "assumptionId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "statement", "type": "string", "required": true, "description": "Statement of the assumption."},
+        {"name": "validatedAt", "type": "timestamp", "required": false, "description": "If/when validated as fact."},
+        {"name": "owner", "type": "string", "required": false, "description": "Owner."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "constraint",
+      "displayName": "Constraint",
+      "description": "A restriction placed on the command by a higher command (must do or cannot do).",
+      "category": "operations_process",
+      "primaryKey": "constraintId",
+      "titleProperty": "statement",
+      "properties": [
+        {"name": "constraintId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "statement", "type": "string", "required": true, "description": "Statement."},
+        {"name": "constraintKind", "type": "string", "required": false, "description": "Mandatory action ('must do') or restriction ('cannot do')."},
+        {"name": "issuedBy", "type": "string", "required": false, "description": "Issuing higher headquarters."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "phase",
+      "displayName": "Operation Phase",
+      "description": "A planned phase of an operation with a distinct purpose and end state.",
+      "category": "operations_process",
+      "primaryKey": "phaseId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "phaseId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Phase name (Phase I, Shape, etc.)."},
+        {"name": "phaseNumber", "type": "integer", "required": false, "description": "Numeric phase number."},
+        {"name": "purpose", "type": "string", "required": false, "description": "Purpose."},
+        {"name": "endState", "type": "string", "required": false, "description": "End state."},
+        {"name": "operationId", "type": "string", "required": false, "description": "Parent operation."},
+        {"name": "startTime", "type": "timestamp", "required": false, "description": "Planned start."},
+        {"name": "endTime", "type": "timestamp", "required": false, "description": "Planned end."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "battleRhythmEvent",
+      "displayName": "Battle Rhythm Event",
+      "description": "A recurring or scheduled event in the headquarters battle rhythm (board, bureau, cell, working group, OPT).",
+      "category": "operations_process",
+      "primaryKey": "battleRhythmEventId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "battleRhythmEventId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Event name (e.g., Targeting Working Group)."},
+        {"name": "cadence", "type": "string", "required": false, "description": "Recurrence cadence."},
+        {"name": "chair", "type": "string", "required": false, "description": "Chair / lead."},
+        {"name": "purpose", "type": "string", "required": false, "description": "Purpose."},
+        {"name": "outputs", "type": "array<string>", "required": false, "description": "Typical outputs."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "staffSection",
+      "displayName": "Staff Section",
+      "description": "A staff section of a headquarters (G/S element).",
+      "category": "organizations",
+      "primaryKey": "staffSectionId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "staffSectionId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Section name."},
+        {"name": "code", "type": "enum:staffSectionCode", "required": false, "description": "Standard code."},
+        {"name": "headquartersId", "type": "string", "required": false, "description": "Parent headquarters."},
+        {"name": "leadPosition", "type": "string", "required": false, "description": "Lead position title."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["FM_3_94", "ADP_5_0"]
+    },
+    {
+      "apiName": "jtcPhase",
+      "displayName": "JTC Phase",
+      "description": "A phase in the Joint Targeting Cycle.",
+      "category": "joint_targeting_cycle",
+      "primaryKey": "jtcPhaseId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "jtcPhaseId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Phase name."},
+        {"name": "phaseNumber", "type": "enum:jtcPhaseNumber", "required": true, "description": "Phase number 1-6."},
+        {"name": "purpose", "type": "string", "required": false, "description": "Purpose statement."},
+        {"name": "keyOutputs", "type": "array<string>", "required": false, "description": "Key outputs of this phase."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01", "JTS_SYLLABUS_2023"]
+    },
+    {
+      "apiName": "targetingGuidance",
+      "displayName": "Targeting Guidance",
+      "description": "Commander's targeting guidance establishing objectives, priorities, restrictions, and desired effects (JTC Phase 1 output).",
+      "category": "joint_targeting_cycle",
+      "primaryKey": "targetingGuidanceId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "targetingGuidanceId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "issuingCommander", "type": "string", "required": false, "description": "Issuing commander."},
+        {"name": "issuanceTimestamp", "type": "timestamp", "required": false, "description": "Time issued."},
+        {"name": "objectives", "type": "array<string>", "required": false, "description": "Linked objectives."},
+        {"name": "priorities", "type": "array<string>", "required": false, "description": "Stated priorities."},
+        {"name": "restrictions", "type": "array<string>", "required": false, "description": "ROE/legal/operational restrictions."},
+        {"name": "desiredEffects", "type": "array<string>", "required": false, "description": "Desired effects."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01", "JTS_SYLLABUS_2023"]
+    },
+    {
+      "apiName": "targetSet",
+      "displayName": "Target Set",
+      "description": "A logical grouping of targets (e.g., enemy IADS, sustainment) associated with a target system.",
+      "category": "joint_targeting_cycle",
+      "primaryKey": "targetSetId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "targetSetId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Set name."},
+        {"name": "description", "type": "string", "required": false, "description": "Description."},
+        {"name": "targetSystemId", "type": "string", "required": false, "description": "Parent target system."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "targetSystem",
+      "displayName": "Target System",
+      "description": "A functional system in the adversary force or society, examined as part of target system analysis.",
+      "category": "joint_targeting_cycle",
+      "primaryKey": "targetSystemId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "targetSystemId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "System name."},
+        {"name": "description", "type": "string", "required": false, "description": "Description."},
+        {"name": "category", "type": "enum:targetCategory", "required": false, "description": "Category."},
+        {"name": "criticalNodes", "type": "array<string>", "required": false, "description": "Identified critical nodes."},
+        {"name": "vulnerabilities", "type": "array<string>", "required": false, "description": "Identified vulnerabilities."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "target",
+      "displayName": "Target",
+      "description": "An entity or object considered for possible engagement or other action.",
+      "category": "joint_targeting_cycle",
+      "primaryKey": "targetId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "targetId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "bei", "type": "string", "required": false, "description": "Basic Encyclopedia Identifier (if assigned)."},
+        {"name": "name", "type": "string", "required": true, "description": "Target name."},
+        {"name": "description", "type": "string", "required": false, "description": "Description."},
+        {"name": "category", "type": "enum:targetCategory", "required": false, "description": "Functional category."},
+        {"name": "status", "type": "enum:targetStatus", "required": false, "description": "Lifecycle status."},
+        {"name": "location", "type": "geopoint", "required": false, "description": "Geocoordinates."},
+        {"name": "targetSystemId", "type": "string", "required": false, "description": "Parent target system."},
+        {"name": "targetSetId", "type": "string", "required": false, "description": "Parent target set."},
+        {"name": "noStrike", "type": "boolean", "required": false, "description": "On the NSL?"},
+        {"name": "restrictions", "type": "array<string>", "required": false, "description": "Restrictions."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceConfidence", "type": "enum:sourceConfidence", "required": false, "description": "Source confidence."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "targetDevelopmentRecord",
+      "displayName": "Target Development Record",
+      "description": "Working analytic record produced during JTC Phase 2 target development; contains target system analysis, identification, characterization, validation, and prioritization artifacts.",
+      "category": "joint_targeting_cycle",
+      "primaryKey": "targetDevelopmentRecordId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "targetDevelopmentRecordId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "targetId", "type": "string", "required": false, "description": "Target under development."},
+        {"name": "analystId", "type": "string", "required": false, "description": "Analyst."},
+        {"name": "characterization", "type": "string", "required": false, "description": "Functional, physical, technical characterization summary."},
+        {"name": "vettingStatus", "type": "string", "required": false, "description": "Vetting status."},
+        {"name": "validationStatus", "type": "string", "required": false, "description": "Validation status."},
+        {"name": "lastUpdated", "type": "timestamp", "required": false, "description": "Last update."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceConfidence", "type": "enum:sourceConfidence", "required": false, "description": "Source confidence."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01", "JTS_SYLLABUS_2023"]
+    },
+    {
+      "apiName": "targetNomination",
+      "displayName": "Target Nomination",
+      "description": "Nomination of a target for placement on a prioritized target list (e.g., JIPTL).",
+      "category": "joint_targeting_cycle",
+      "primaryKey": "targetNominationId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "targetNominationId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Nomination title."},
+        {"name": "targetId", "type": "string", "required": true, "description": "Nominated target."},
+        {"name": "nominator", "type": "string", "required": false, "description": "Nominating organization or staff element."},
+        {"name": "desiredEffectId", "type": "string", "required": false, "description": "Desired effect."},
+        {"name": "priority", "type": "enum:priority", "required": false, "description": "Priority."},
+        {"name": "justification", "type": "string", "required": false, "description": "Why the target should be engaged."},
+        {"name": "submittedAt", "type": "timestamp", "required": false, "description": "Submission time."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "effect",
+      "displayName": "Effect",
+      "description": "A desired or achieved effect on a target or system.",
+      "category": "joint_targeting_cycle",
+      "primaryKey": "effectId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "effectId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Effect name."},
+        {"name": "effectType", "type": "enum:effectType", "required": false, "description": "Effect type."},
+        {"name": "objectiveId", "type": "string", "required": false, "description": "Objective served."},
+        {"name": "narrative", "type": "string", "required": false, "description": "Description."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "objective",
+      "displayName": "Objective",
+      "description": "A clearly defined, decisive, and attainable goal toward which an operation is directed.",
+      "category": "operations_process",
+      "primaryKey": "objectiveId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "objectiveId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Objective name."},
+        {"name": "description", "type": "string", "required": false, "description": "Description."},
+        {"name": "endState", "type": "string", "required": false, "description": "Linked end state."},
+        {"name": "priority", "type": "enum:priority", "required": false, "description": "Priority."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "JP_3_60"]
+    },
+    {
+      "apiName": "collectionRequirement",
+      "displayName": "Collection Requirement",
+      "description": "A requirement to collect information against a target, NAI, or TAI to support targeting or assessment.",
+      "category": "joint_targeting_cycle",
+      "primaryKey": "collectionRequirementId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "collectionRequirementId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Requirement title."},
+        {"name": "purpose", "type": "string", "required": false, "description": "Purpose / supported task."},
+        {"name": "ltiov", "type": "timestamp", "required": false, "description": "Latest time information of value."},
+        {"name": "linkedTargetId", "type": "string", "required": false, "description": "Linked target."},
+        {"name": "linkedNAIId", "type": "string", "required": false, "description": "Linked NAI."},
+        {"name": "linkedTAIId", "type": "string", "required": false, "description": "Linked TAI."},
+        {"name": "priority", "type": "enum:priority", "required": false, "description": "Priority."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "namedAreaOfInterest",
+      "displayName": "Named Area of Interest (NAI)",
+      "description": "Geographic area where information that will satisfy a specific information requirement can be collected.",
+      "category": "geography_mission_context",
+      "primaryKey": "naiId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "naiId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "NAI name."},
+        {"name": "description", "type": "string", "required": false, "description": "Description."},
+        {"name": "geometry", "type": "geoshape", "required": false, "description": "Geographic boundary."},
+        {"name": "associatedDecisionPointId", "type": "string", "required": false, "description": "DP this NAI supports."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_1_02", "FM_5_0"]
+    },
+    {
+      "apiName": "targetAreaOfInterest",
+      "displayName": "Target Area of Interest (TAI)",
+      "description": "Geographic area or point where the commander can engage with lethal or nonlethal effects to influence enemy actions.",
+      "category": "geography_mission_context",
+      "primaryKey": "taiId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "taiId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "TAI name."},
+        {"name": "description", "type": "string", "required": false, "description": "Description."},
+        {"name": "geometry", "type": "geoshape", "required": false, "description": "Geographic boundary."},
+        {"name": "associatedDecisionPointId", "type": "string", "required": false, "description": "DP this TAI supports."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_1_02", "FM_5_0", "JP_3_60"]
+    },
+    {
+      "apiName": "armyOrganization",
+      "displayName": "Army Organization",
+      "description": "Generic Army organization (any echelon) used as a parent type for units, formations, headquarters, and staff elements.",
+      "category": "organizations",
+      "primaryKey": "organizationId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "organizationId", "type": "string", "required": true, "description": "Unique identifier (UIC if applicable)."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "echelon", "type": "enum:echelon", "required": false, "description": "Echelon."},
+        {"name": "organizationType", "type": "enum:organizationType", "required": false, "description": "Organization type."},
+        {"name": "parentOrganizationId", "type": "string", "required": false, "description": "Parent (higher) organization."},
+        {"name": "headquartersId", "type": "string", "required": false, "description": "Owning headquarters."},
+        {"name": "warfightingFunction", "type": "enum:warfightingFunction", "required": false, "description": "Primary warfighting function."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["FM_3_94", "FM_3_96", "ATP_3_21_8", "ADP_3_0"]
+    },
+    {
+      "apiName": "headquarters",
+      "displayName": "Headquarters",
+      "description": "A unit headquarters (e.g., Corps HQ, Division HQ, BCT HQ).",
+      "category": "organizations",
+      "primaryKey": "headquartersId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "headquartersId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "echelon", "type": "enum:echelon", "required": false, "description": "Echelon."},
+        {"name": "ownedOrganizationId", "type": "string", "required": false, "description": "The organization this HQ commands."},
+        {"name": "commanderName", "type": "string", "required": false, "description": "Commander name or position."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["FM_3_94", "FM_3_96", "ADP_5_0"]
+    },
+    {
+      "apiName": "commandPost",
+      "displayName": "Command Post",
+      "description": "A unit's headquarters where the commander and staff perform their activities (Main, Tactical, Mobile CP).",
+      "category": "organizations",
+      "primaryKey": "commandPostId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "commandPostId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name (e.g., Main CP, Tactical CP)."},
+        {"name": "cpType", "type": "string", "required": false, "description": "Main, Tactical, Mobile, Rear, Early Entry."},
+        {"name": "headquartersId", "type": "string", "required": false, "description": "Parent HQ."},
+        {"name": "location", "type": "geopoint", "required": false, "description": "Location."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["FM_3_94", "FM_3_96", "ADP_5_0"]
+    },
+    {
+      "apiName": "unit",
+      "displayName": "Unit",
+      "description": "A specific tactical unit (battalion, company, platoon, squad).",
+      "category": "organizations",
+      "primaryKey": "unitId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "unitId", "type": "string", "required": true, "description": "Unique identifier (UIC)."},
+        {"name": "name", "type": "string", "required": true, "description": "Unit name."},
+        {"name": "echelon", "type": "enum:echelon", "required": false, "description": "Echelon."},
+        {"name": "organizationType", "type": "enum:organizationType", "required": false, "description": "Type."},
+        {"name": "parentOrganizationId", "type": "string", "required": false, "description": "Parent organization."},
+        {"name": "currentReadiness", "type": "enum:readinessStatus", "required": false, "description": "Current readiness."},
+        {"name": "currentLocation", "type": "geopoint", "required": false, "description": "Current location."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["FM_3_94", "FM_3_96", "ATP_3_21_8"]
+    },
+    {
+      "apiName": "formation",
+      "displayName": "Formation",
+      "description": "A higher tactical formation (BCT, Division, Corps) treated as a single object for graph purposes.",
+      "category": "organizations",
+      "primaryKey": "formationId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "formationId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "echelon", "type": "enum:echelon", "required": false, "description": "Echelon."},
+        {"name": "subtype", "type": "string", "required": false, "description": "Subtype (IBCT, SBCT, ABCT, light/heavy division, etc.)."},
+        {"name": "headquartersId", "type": "string", "required": false, "description": "Owning HQ."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["FM_3_94", "FM_3_96"]
+    },
+    {
+      "apiName": "staffElement",
+      "displayName": "Staff Element",
+      "description": "A staff cell, working group, or board within a headquarters.",
+      "category": "organizations",
+      "primaryKey": "staffElementId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "staffElementId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name (e.g., Targeting Working Group)."},
+        {"name": "kind", "type": "string", "required": false, "description": "Cell, working group, board, OPT."},
+        {"name": "headquartersId", "type": "string", "required": false, "description": "Parent HQ."},
+        {"name": "leadStaffSectionCode", "type": "enum:staffSectionCode", "required": false, "description": "Lead staff section."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_3_94", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "jointForceElement",
+      "displayName": "Joint Force Element",
+      "description": "A joint force component, element, or staff cell external to the Army organization but operating in concert (e.g., JFE, JTCB, JTWG, JFACC).",
+      "category": "organizations",
+      "primaryKey": "jointForceElementId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "jointForceElementId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "elementType", "type": "string", "required": false, "description": "JFE, JTCB, JTWG, JFACC, etc."},
+        {"name": "service", "type": "string", "required": false, "description": "Service or joint."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "sustainmentOrganization",
+      "displayName": "Sustainment Organization",
+      "description": "Sustainment organization providing logistics, personnel services, or health service support (e.g., TSC, ESC, BSB, FSC, CSSB, BCT support battalion).",
+      "category": "organizations",
+      "primaryKey": "sustainmentOrganizationId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "sustainmentOrganizationId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "echelon", "type": "enum:echelon", "required": false, "description": "Echelon."},
+        {"name": "subtype", "type": "string", "required": false, "description": "TSC, ESC, BSB, FSC, CSSB, etc."},
+        {"name": "supportedOrganizationId", "type": "string", "required": false, "description": "Supported organization."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42", "ATP_4_42_2"]
+    },
+    {
+      "apiName": "supplySupportActivity",
+      "displayName": "Supply Support Activity (SSA)",
+      "description": "A specific Army Supply Support Activity that performs receipt, storage, and issue of classes of supply.",
+      "category": "sustainment",
+      "primaryKey": "ssaId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "ssaId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "supportedOrganizationId", "type": "string", "required": false, "description": "Supported organization."},
+        {"name": "location", "type": "geopoint", "required": false, "description": "Location."},
+        {"name": "supportedSupplyClasses", "type": "array<string>", "required": false, "description": "Classes of supply handled."},
+        {"name": "ddsm", "type": "string", "required": false, "description": "Doctrine reference (Distribution & Supply Mgmt)."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ATP_4_42_2", "AR_710_2"]
+    },
+    {
+      "apiName": "equipment",
+      "displayName": "Equipment Item",
+      "description": "An individual piece of equipment held by a unit, with serial number where applicable.",
+      "category": "equipment_readiness",
+      "primaryKey": "equipmentId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "equipmentId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Display name."},
+        {"name": "equipmentTypeId", "type": "string", "required": false, "description": "Type reference."},
+        {"name": "serialNumber", "type": "string", "required": false, "description": "Serial number."},
+        {"name": "nsn", "type": "string", "required": false, "description": "National Stock Number."},
+        {"name": "ownerOrganizationId", "type": "string", "required": false, "description": "Owning organization (UIC)."},
+        {"name": "currentReadiness", "type": "enum:readinessStatus", "required": false, "description": "Current readiness."},
+        {"name": "currentMaintenanceStatus", "type": "enum:maintenanceStatusCode", "required": false, "description": "Current maintenance posture."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["AR_750_1", "DA_PAM_750_3"]
+    },
+    {
+      "apiName": "equipmentType",
+      "displayName": "Equipment Type",
+      "description": "A model/type of equipment (e.g., M1A2 SEPv3, M109A6).",
+      "category": "equipment_readiness",
+      "primaryKey": "equipmentTypeId",
+      "titleProperty": "modelName",
+      "properties": [
+        {"name": "equipmentTypeId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "modelName", "type": "string", "required": true, "description": "Model name."},
+        {"name": "category", "type": "string", "required": false, "description": "Category (vehicle, weapon, sensor, comms, etc.)."},
+        {"name": "lin", "type": "string", "required": false, "description": "Line Item Number."},
+        {"name": "manufacturer", "type": "string", "required": false, "description": "Manufacturer."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["AR_750_1"]
+    },
+    {
+      "apiName": "weaponSystem",
+      "displayName": "Weapon System",
+      "description": "A weapon system (kinetic or non-kinetic) with engagement characteristics.",
+      "category": "equipment_readiness",
+      "primaryKey": "weaponSystemId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "weaponSystemId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "type", "type": "string", "required": false, "description": "Type (small arms, indirect fire, missile, etc.)."},
+        {"name": "platformId", "type": "string", "required": false, "description": "Hosting platform if any."},
+        {"name": "rangeMetersMin", "type": "double", "required": false, "description": "Minimum effective range (m)."},
+        {"name": "rangeMetersMax", "type": "double", "required": false, "description": "Maximum effective range (m)."},
+        {"name": "munitionTypes", "type": "array<string>", "required": false, "description": "Munition types."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_3_0", "AR_750_1"]
+    },
+    {
+      "apiName": "sensorSystem",
+      "displayName": "Sensor System",
+      "description": "An ISR sensor system (EO/IR, SAR, SIGINT, MASINT, etc.).",
+      "category": "equipment_readiness",
+      "primaryKey": "sensorSystemId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "sensorSystemId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "phenomenology", "type": "string", "required": false, "description": "EO/IR, SAR, SIGINT, MASINT, RF, acoustic."},
+        {"name": "platformId", "type": "string", "required": false, "description": "Hosting platform."},
+        {"name": "rangeMetersMax", "type": "double", "required": false, "description": "Maximum effective range (m)."},
+        {"name": "resolution", "type": "string", "required": false, "description": "Resolution descriptor."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_3_0"]
+    },
+    {
+      "apiName": "platform",
+      "displayName": "Platform",
+      "description": "A vehicle/aircraft/vessel platform that hosts weapons, sensors, or comms (e.g., M1 Abrams, MQ-9, AH-64).",
+      "category": "equipment_readiness",
+      "primaryKey": "platformId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "platformId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "domain", "type": "string", "required": false, "description": "Land, air, maritime, space, cyber."},
+        {"name": "subtype", "type": "string", "required": false, "description": "Wheeled, tracked, rotary-wing, fixed-wing, surface, subsurface."},
+        {"name": "ownerOrganizationId", "type": "string", "required": false, "description": "Owner organization."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_3_0"]
+    },
+    {
+      "apiName": "communicationsSystem",
+      "displayName": "Communications System",
+      "description": "A communications system (e.g., SATCOM terminal, JBC-P, Link-16 terminal).",
+      "category": "equipment_readiness",
+      "primaryKey": "communicationsSystemId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "communicationsSystemId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "waveform", "type": "string", "required": false, "description": "Waveform / standard."},
+        {"name": "platformId", "type": "string", "required": false, "description": "Hosting platform."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_3_0"]
+    },
+    {
+      "apiName": "maintenanceStatus",
+      "displayName": "Maintenance Status",
+      "description": "A point-in-time maintenance status record for a piece of equipment.",
+      "category": "equipment_readiness",
+      "primaryKey": "maintenanceStatusId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "maintenanceStatusId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": false, "description": "Title or summary."},
+        {"name": "equipmentId", "type": "string", "required": true, "description": "Subject equipment."},
+        {"name": "statusCode", "type": "enum:maintenanceStatusCode", "required": true, "description": "Status code."},
+        {"name": "readiness", "type": "enum:readinessStatus", "required": false, "description": "Readiness rating."},
+        {"name": "deadlineFault", "type": "string", "required": false, "description": "Deadline fault description."},
+        {"name": "asOf", "type": "timestamp", "required": false, "description": "As-of time."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["AR_750_1", "DA_PAM_750_3"]
+    },
+    {
+      "apiName": "equipmentReadinessReport",
+      "displayName": "Equipment Readiness Report",
+      "description": "Roll-up readiness report for an organization at a point in time.",
+      "category": "equipment_readiness",
+      "primaryKey": "equipmentReadinessReportId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "equipmentReadinessReportId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "organizationId", "type": "string", "required": true, "description": "Reporting organization."},
+        {"name": "reportTime", "type": "timestamp", "required": false, "description": "Report time."},
+        {"name": "fmcCount", "type": "integer", "required": false, "description": "Count of FMC items."},
+        {"name": "pmcCount", "type": "integer", "required": false, "description": "Count of PMC items."},
+        {"name": "nmcCount", "type": "integer", "required": false, "description": "Count of NMC items."},
+        {"name": "summary", "type": "string", "required": false, "description": "Narrative summary."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["AR_750_1", "DA_PAM_750_3"]
+    },
+    {
+      "apiName": "maintenanceWorkOrder",
+      "displayName": "Maintenance Work Order",
+      "description": "A maintenance work order opened against a piece of equipment.",
+      "category": "equipment_readiness",
+      "primaryKey": "maintenanceWorkOrderId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "maintenanceWorkOrderId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "equipmentId", "type": "string", "required": true, "description": "Subject equipment."},
+        {"name": "openedAt", "type": "timestamp", "required": false, "description": "Opened time."},
+        {"name": "closedAt", "type": "timestamp", "required": false, "description": "Closed time."},
+        {"name": "category", "type": "enum:maintenanceStatusCode", "required": false, "description": "Field or sustainment maintenance."},
+        {"name": "faultDescription", "type": "string", "required": false, "description": "Fault description."},
+        {"name": "partsRequired", "type": "array<string>", "required": false, "description": "Required parts (NSNs)."},
+        {"name": "status", "type": "enum:taskStatus", "required": false, "description": "Status."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["AR_750_1", "DA_PAM_750_3"]
+    },
+    {
+      "apiName": "capability",
+      "displayName": "Capability",
+      "description": "A military capability (functional ability), provided by equipment, units, or combinations thereof.",
+      "category": "equipment_readiness",
+      "primaryKey": "capabilityId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "capabilityId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Capability name."},
+        {"name": "description", "type": "string", "required": false, "description": "Description."},
+        {"name": "warfightingFunction", "type": "enum:warfightingFunction", "required": false, "description": "Warfighting function served."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_3_0", "JP_3_60"]
+    },
+    {
+      "apiName": "classOfSupply",
+      "displayName": "Class of Supply",
+      "description": "An Army class of supply (I-X).",
+      "category": "sustainment",
+      "primaryKey": "classOfSupplyId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "classOfSupplyId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "code", "type": "enum:supplyClassCode", "required": true, "description": "Class code (I-X)."},
+        {"name": "title", "type": "string", "required": true, "description": "Class title."},
+        {"name": "description", "type": "string", "required": false, "description": "Description."},
+        {"name": "examples", "type": "array<string>", "required": false, "description": "Example items."},
+        {"name": "planningNotes", "type": "string", "required": false, "description": "Planning notes."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42", "ATP_4_42_2", "AR_710_2"]
+    },
+    {
+      "apiName": "supplyItem",
+      "displayName": "Supply Item",
+      "description": "A specific supply item identifiable by NSN/LIN.",
+      "category": "sustainment",
+      "primaryKey": "supplyItemId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "supplyItemId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Item nomenclature."},
+        {"name": "nsn", "type": "string", "required": false, "description": "National Stock Number."},
+        {"name": "lin", "type": "string", "required": false, "description": "Line Item Number."},
+        {"name": "classOfSupplyCode", "type": "enum:supplyClassCode", "required": false, "description": "Class of supply."},
+        {"name": "unitOfIssue", "type": "string", "required": false, "description": "Unit of issue."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ATP_4_42", "AR_710_2"]
+    },
+    {
+      "apiName": "supplyRequirement",
+      "displayName": "Supply Requirement",
+      "description": "A forecast supply requirement supporting a task, mission, or operation.",
+      "category": "sustainment",
+      "primaryKey": "supplyRequirementId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "supplyRequirementId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "supplyItemId", "type": "string", "required": false, "description": "Required item."},
+        {"name": "quantity", "type": "double", "required": false, "description": "Quantity required."},
+        {"name": "requiredBy", "type": "timestamp", "required": false, "description": "Required-by time."},
+        {"name": "supportedTaskId", "type": "string", "required": false, "description": "Supported task."},
+        {"name": "supportedOperationId", "type": "string", "required": false, "description": "Supported operation."},
+        {"name": "priority", "type": "enum:priority", "required": false, "description": "Priority."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42", "FM_5_0"]
+    },
+    {
+      "apiName": "supplyRequest",
+      "displayName": "Supply Request",
+      "description": "A submitted request for supply (e.g., SARSS request).",
+      "category": "sustainment",
+      "primaryKey": "supplyRequestId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "supplyRequestId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "requestingOrganizationId", "type": "string", "required": false, "description": "Requesting organization."},
+        {"name": "supplyItemId", "type": "string", "required": false, "description": "Item requested."},
+        {"name": "quantity", "type": "double", "required": false, "description": "Quantity."},
+        {"name": "priority", "type": "enum:priority", "required": false, "description": "Priority."},
+        {"name": "submittedAt", "type": "timestamp", "required": false, "description": "Submission time."},
+        {"name": "approvedAt", "type": "timestamp", "required": false, "description": "Approval time."},
+        {"name": "status", "type": "enum:taskStatus", "required": false, "description": "Lifecycle status."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ATP_4_42_2", "AR_710_2"]
+    },
+    {
+      "apiName": "supplyPoint",
+      "displayName": "Supply Point",
+      "description": "A specific point that issues supplies (e.g., ATHP, ROM, ASP, FARP).",
+      "category": "sustainment",
+      "primaryKey": "supplyPointId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "supplyPointId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "subtype", "type": "string", "required": false, "description": "ATHP, ROM, ASP, FARP, ROWPU, etc."},
+        {"name": "supportedSupplyClasses", "type": "array<string>", "required": false, "description": "Classes supported."},
+        {"name": "location", "type": "geopoint", "required": false, "description": "Location."},
+        {"name": "operatingOrganizationId", "type": "string", "required": false, "description": "Operating organization."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ATP_4_42", "ATP_4_42_2"]
+    },
+    {
+      "apiName": "authorizedStockageList",
+      "displayName": "Authorized Stockage List (ASL)",
+      "description": "Authorized stockage list maintained by an SSA listing items, levels, and stockage.",
+      "category": "sustainment",
+      "primaryKey": "aslId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "aslId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "ssaId", "type": "string", "required": false, "description": "Owning SSA."},
+        {"name": "lineCount", "type": "integer", "required": false, "description": "Number of lines."},
+        {"name": "lastReviewedAt", "type": "timestamp", "required": false, "description": "Last review."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ATP_4_42_2", "AR_710_2"]
+    },
+    {
+      "apiName": "basicLoad",
+      "displayName": "Basic Load",
+      "description": "Basic load of supplies a unit carries to commence operations (Class V, Class IX, etc.).",
+      "category": "sustainment",
+      "primaryKey": "basicLoadId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "basicLoadId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "organizationId", "type": "string", "required": true, "description": "Owning organization."},
+        {"name": "classOfSupplyCode", "type": "enum:supplyClassCode", "required": false, "description": "Class of supply."},
+        {"name": "lines", "type": "array<string>", "required": false, "description": "Line summaries."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ATP_4_42", "AR_710_2"]
+    },
+    {
+      "apiName": "logisticsPackage",
+      "displayName": "Logistics Package (LOGPAC)",
+      "description": "A logistics package built to deliver supplies to a unit during operations.",
+      "category": "sustainment",
+      "primaryKey": "logpacId",
+      "titleProperty": "title",
+      "properties": [
+        {"name": "logpacId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "title", "type": "string", "required": true, "description": "Title."},
+        {"name": "destinationOrganizationId", "type": "string", "required": false, "description": "Destination unit."},
+        {"name": "originSupplyPointId", "type": "string", "required": false, "description": "Origin supply point."},
+        {"name": "departureTime", "type": "timestamp", "required": false, "description": "Departure time."},
+        {"name": "arrivalTime", "type": "timestamp", "required": false, "description": "Arrival time."},
+        {"name": "lpoc", "type": "string", "required": false, "description": "LOGPAC commander / LPOC."},
+        {"name": "linkedSupplyRequestIds", "type": "array<string>", "required": false, "description": "Supply requests fulfilled."},
+        {"name": "status", "type": "enum:taskStatus", "required": false, "description": "Status."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ATP_4_42", "ADP_4_0"]
+    },
+    {
+      "apiName": "distributionNode",
+      "displayName": "Distribution Node",
+      "description": "A node in the distribution network (port, airfield, railhead, MSR junction, supply point).",
+      "category": "sustainment",
+      "primaryKey": "distributionNodeId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "distributionNodeId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "nodeType", "type": "string", "required": false, "description": "Port, airfield, railhead, junction, supply point."},
+        {"name": "location", "type": "geopoint", "required": false, "description": "Location."},
+        {"name": "throughputUnitsPerDay", "type": "double", "required": false, "description": "Throughput capacity."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42"]
+    },
+    {
+      "apiName": "transportationAsset",
+      "displayName": "Transportation Asset",
+      "description": "A transportation asset (truck, rail car, aircraft, watercraft) used to move supplies/personnel.",
+      "category": "sustainment",
+      "primaryKey": "transportationAssetId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "transportationAssetId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name / vehicle ID."},
+        {"name": "assetType", "type": "string", "required": false, "description": "Truck, rail car, aircraft, watercraft."},
+        {"name": "capacityWeightKg", "type": "double", "required": false, "description": "Capacity by weight (kg)."},
+        {"name": "capacityVolumeM3", "type": "double", "required": false, "description": "Capacity by volume (m^3)."},
+        {"name": "ownerOrganizationId", "type": "string", "required": false, "description": "Owner."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42"]
+    },
+    {
+      "apiName": "areaOfOperations",
+      "displayName": "Area of Operations (AO)",
+      "description": "Operational area defined by a higher commander for a subordinate force, who has primary responsibility within it.",
+      "category": "geography_mission_context",
+      "primaryKey": "aoId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "aoId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "geometry", "type": "geoshape", "required": false, "description": "Boundary geometry."},
+        {"name": "responsibleOrganizationId", "type": "string", "required": false, "description": "Responsible organization."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_1_02", "ADP_3_0"]
+    },
+    {
+      "apiName": "areaOfInterest",
+      "displayName": "Area of Interest (AOI)",
+      "description": "Area of concern to the commander, including those areas outside the AO that affect mission accomplishment.",
+      "category": "geography_mission_context",
+      "primaryKey": "aoiId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "aoiId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "geometry", "type": "geoshape", "required": false, "description": "Geometry."},
+        {"name": "associatedOperationId", "type": "string", "required": false, "description": "Associated operation."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_1_02"]
+    },
+    {
+      "apiName": "operationalEnvironment",
+      "displayName": "Operational Environment",
+      "description": "Composite of conditions, circumstances, and influences (PMESII-PT) affecting the employment of capabilities.",
+      "category": "geography_mission_context",
+      "primaryKey": "operationalEnvironmentId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "operationalEnvironmentId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "summary", "type": "string", "required": false, "description": "Summary."},
+        {"name": "pmesiipt", "type": "string", "required": false, "description": "PMESII-PT narrative."},
+        {"name": "associatedOperationId", "type": "string", "required": false, "description": "Associated operation."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_3_0", "FM_3_0"]
+    },
+    {
+      "apiName": "location",
+      "displayName": "Location",
+      "description": "A named geographic location relevant to operations (terrain feature, town, key infrastructure).",
+      "category": "geography_mission_context",
+      "primaryKey": "locationId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "locationId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name."},
+        {"name": "point", "type": "geopoint", "required": false, "description": "Point geometry."},
+        {"name": "geometry", "type": "geoshape", "required": false, "description": "Polygon geometry."},
+        {"name": "country", "type": "string", "required": false, "description": "Country."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_1_02"]
+    },
+    {
+      "apiName": "route",
+      "displayName": "Route",
+      "description": "A designated route used for movement (MSR, ASR, air corridor).",
+      "category": "geography_mission_context",
+      "primaryKey": "routeId",
+      "titleProperty": "name",
+      "properties": [
+        {"name": "routeId", "type": "string", "required": true, "description": "Unique identifier."},
+        {"name": "name", "type": "string", "required": true, "description": "Name (e.g., MSR JADE)."},
+        {"name": "routeType", "type": "string", "required": false, "description": "MSR, ASR, air corridor."},
+        {"name": "geometry", "type": "geoshape", "required": false, "description": "Geometry."},
+        {"name": "regulatedBy", "type": "string", "required": false, "description": "Movement regulator."},
+        {"name": "classificationMarking", "type": "enum:classificationMarking", "required": false, "description": "Classification."},
+        {"name": "sourceDoctrineIds", "type": "array<string>", "required": false, "description": "Doctrine sources."}
+      ],
+      "sourceDoctrine": ["ADP_1_02", "ATP_4_42"]
+    }
+  ]
+}

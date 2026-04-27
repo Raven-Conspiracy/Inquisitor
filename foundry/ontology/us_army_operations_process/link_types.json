@@ -1,0 +1,596 @@
+{
+  "linkTypes": [
+    {
+      "apiName": "organizationSubordinateOf",
+      "displayName": "Organization Subordinate Of",
+      "description": "Subordinate (child) organization is subordinate to a parent organization.",
+      "category": "organizations",
+      "fromObjectType": "armyOrganization",
+      "toObjectType": "armyOrganization",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [
+        {"name": "relationshipType", "type": "string", "required": false, "description": "OPCON, TACON, ADCON, attached, organic."},
+        {"name": "effectiveTime", "type": "timestamp", "required": false, "description": "Effective time."},
+        {"name": "expirationTime", "type": "timestamp", "required": false, "description": "Expiration time."}
+      ],
+      "sourceDoctrine": ["ADP_3_0", "FM_3_94", "FM_3_96"]
+    },
+    {
+      "apiName": "headquartersCommandsOrganization",
+      "displayName": "Headquarters Commands Organization",
+      "description": "A headquarters commands an Army organization (one HQ to one organization).",
+      "category": "organizations",
+      "fromObjectType": "headquarters",
+      "toObjectType": "armyOrganization",
+      "cardinality": "ONE_TO_ONE",
+      "properties": [
+        {"name": "since", "type": "timestamp", "required": false, "description": "Since when."}
+      ],
+      "sourceDoctrine": ["FM_3_94", "ADP_5_0"]
+    },
+    {
+      "apiName": "commanderStaffMembership",
+      "displayName": "Commander/Staff Membership",
+      "description": "Staff section is part of a headquarters; this link binds them.",
+      "category": "organizations",
+      "fromObjectType": "staffSection",
+      "toObjectType": "headquarters",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_3_94"]
+    },
+    {
+      "apiName": "staffElementInHeadquarters",
+      "displayName": "Staff Element in Headquarters",
+      "description": "A staff element (cell, working group, board) belongs to a headquarters.",
+      "category": "organizations",
+      "fromObjectType": "staffElement",
+      "toObjectType": "headquarters",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_3_94", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "organizationExecutesOperation",
+      "displayName": "Organization Executes Operation",
+      "description": "Organization is executing or assigned to an operation.",
+      "category": "operations_process",
+      "fromObjectType": "armyOrganization",
+      "toObjectType": "operation",
+      "cardinality": "MANY_TO_MANY",
+      "properties": [
+        {"name": "role", "type": "string", "required": false, "description": "Main effort, supporting effort, reserve, etc."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "ADP_3_0"]
+    },
+    {
+      "apiName": "operationHasPhase",
+      "displayName": "Operation Has Phase",
+      "description": "Operation is divided into phases.",
+      "category": "operations_process",
+      "fromObjectType": "operation",
+      "toObjectType": "phase",
+      "cardinality": "ONE_TO_MANY",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "phaseHasTask",
+      "displayName": "Phase Has Task",
+      "description": "Tasks belong to a phase.",
+      "category": "operations_process",
+      "fromObjectType": "phase",
+      "toObjectType": "task",
+      "cardinality": "ONE_TO_MANY",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "planGovernsOperation",
+      "displayName": "Plan or Order Governs Operation",
+      "description": "A plan/order (OPLAN/OPORD/etc.) governs an operation.",
+      "category": "operations_process",
+      "fromObjectType": "planOrder",
+      "toObjectType": "operation",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["FM_5_0", "ADP_5_0"]
+    },
+    {
+      "apiName": "missionAssignedToOrganization",
+      "displayName": "Mission Assigned To Organization",
+      "description": "A mission has been assigned to an organization.",
+      "category": "operations_process",
+      "fromObjectType": "mission",
+      "toObjectType": "armyOrganization",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [
+        {"name": "assignedAt", "type": "timestamp", "required": false, "description": "Assignment time."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "coaSupportsObjective",
+      "displayName": "COA Supports Objective",
+      "description": "A course of action is intended to support an objective.",
+      "category": "operations_process",
+      "fromObjectType": "courseOfAction",
+      "toObjectType": "objective",
+      "cardinality": "MANY_TO_MANY",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "decisionPointTriggersAction",
+      "displayName": "Decision Point Triggers Action",
+      "description": "Decision point, when triggered, drives execution of a task or plan branch.",
+      "category": "operations_process",
+      "fromObjectType": "decisionPoint",
+      "toObjectType": "task",
+      "cardinality": "MANY_TO_MANY",
+      "properties": [
+        {"name": "branch", "type": "string", "required": false, "description": "Branch or sequel name."}
+      ],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "assessmentPlanMeasuresObjective",
+      "displayName": "Assessment Plan Measures Objective",
+      "description": "Assessment plan covers measurement of progress toward an objective.",
+      "category": "operations_process",
+      "fromObjectType": "assessmentPlan",
+      "toObjectType": "objective",
+      "cardinality": "MANY_TO_MANY",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "moeMeasuresObjective",
+      "displayName": "MOE Measures Objective",
+      "description": "Measure of Effectiveness measures progress toward an objective.",
+      "category": "operations_process",
+      "fromObjectType": "measureOfEffectiveness",
+      "toObjectType": "objective",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "mopMeasuresTask",
+      "displayName": "MOP Measures Task",
+      "description": "Measure of Performance measures task accomplishment.",
+      "category": "operations_process",
+      "fromObjectType": "measureOfPerformance",
+      "toObjectType": "task",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "indicatorInformsMeasure",
+      "displayName": "Indicator Informs Measure",
+      "description": "Indicator informs an MOE/MOP.",
+      "category": "operations_process",
+      "fromObjectType": "indicator",
+      "toObjectType": "measureOfEffectiveness",
+      "cardinality": "MANY_TO_MANY",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "runningEstimateOwnedByStaffSection",
+      "displayName": "Running Estimate Owned By Staff Section",
+      "description": "Running estimate is maintained by a staff section.",
+      "category": "operations_process",
+      "fromObjectType": "runningEstimate",
+      "toObjectType": "staffSection",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "targetBelongsToTargetSet",
+      "displayName": "Target Belongs To Target Set",
+      "description": "Target is grouped under a target set.",
+      "category": "joint_targeting_cycle",
+      "fromObjectType": "target",
+      "toObjectType": "targetSet",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "targetBelongsToTargetSystem",
+      "displayName": "Target Belongs To Target System",
+      "description": "Target is part of a functional target system.",
+      "category": "joint_targeting_cycle",
+      "fromObjectType": "target",
+      "toObjectType": "targetSystem",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "targetSetBelongsToTargetSystem",
+      "displayName": "Target Set Belongs To Target System",
+      "description": "Target set rolls up to a target system.",
+      "category": "joint_targeting_cycle",
+      "fromObjectType": "targetSet",
+      "toObjectType": "targetSystem",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "targetingGuidanceDrivesTargetDevelopment",
+      "displayName": "Targeting Guidance Drives Target Development",
+      "description": "Targeting guidance issued in JTC Phase 1 drives target development records produced in Phase 2.",
+      "category": "joint_targeting_cycle",
+      "fromObjectType": "targetingGuidance",
+      "toObjectType": "targetDevelopmentRecord",
+      "cardinality": "ONE_TO_MANY",
+      "properties": [],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01", "JTS_SYLLABUS_2023"]
+    },
+    {
+      "apiName": "targetDevelopmentCoversTarget",
+      "displayName": "Target Development Covers Target",
+      "description": "Target development record analyzes a specific target.",
+      "category": "joint_targeting_cycle",
+      "fromObjectType": "targetDevelopmentRecord",
+      "toObjectType": "target",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "targetNominationNominatesTarget",
+      "displayName": "Target Nomination Nominates Target",
+      "description": "A nomination is for a specific target.",
+      "category": "joint_targeting_cycle",
+      "fromObjectType": "targetNomination",
+      "toObjectType": "target",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01"]
+    },
+    {
+      "apiName": "targetingGuidanceForOperation",
+      "displayName": "Targeting Guidance For Operation",
+      "description": "Targeting guidance applies to an operation.",
+      "category": "joint_targeting_cycle",
+      "fromObjectType": "targetingGuidance",
+      "toObjectType": "operation",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["JP_3_60"]
+    },
+    {
+      "apiName": "effectAchievesObjective",
+      "displayName": "Effect Achieves Objective",
+      "description": "Achieving an effect contributes to an objective.",
+      "category": "joint_targeting_cycle",
+      "fromObjectType": "effect",
+      "toObjectType": "objective",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["JP_3_60"]
+    },
+    {
+      "apiName": "effectAppliedToTarget",
+      "displayName": "Effect Applied To Target",
+      "description": "Effect is desired or applied against a target.",
+      "category": "joint_targeting_cycle",
+      "fromObjectType": "effect",
+      "toObjectType": "target",
+      "cardinality": "MANY_TO_MANY",
+      "properties": [],
+      "sourceDoctrine": ["JP_3_60"]
+    },
+    {
+      "apiName": "collectionRequirementCoversNAI",
+      "displayName": "Collection Requirement Covers NAI",
+      "description": "Collection requirement is to collect against an NAI.",
+      "category": "joint_targeting_cycle",
+      "fromObjectType": "collectionRequirement",
+      "toObjectType": "namedAreaOfInterest",
+      "cardinality": "MANY_TO_MANY",
+      "properties": [],
+      "sourceDoctrine": ["JP_3_60", "FM_5_0"]
+    },
+    {
+      "apiName": "collectionRequirementCoversTAI",
+      "displayName": "Collection Requirement Covers TAI",
+      "description": "Collection requirement is to collect against a TAI.",
+      "category": "joint_targeting_cycle",
+      "fromObjectType": "collectionRequirement",
+      "toObjectType": "targetAreaOfInterest",
+      "cardinality": "MANY_TO_MANY",
+      "properties": [],
+      "sourceDoctrine": ["JP_3_60", "FM_5_0"]
+    },
+    {
+      "apiName": "collectionRequirementCoversTarget",
+      "displayName": "Collection Requirement Covers Target",
+      "description": "Collection requirement is to collect against a specific target.",
+      "category": "joint_targeting_cycle",
+      "fromObjectType": "collectionRequirement",
+      "toObjectType": "target",
+      "cardinality": "MANY_TO_MANY",
+      "properties": [],
+      "sourceDoctrine": ["JP_3_60"]
+    },
+    {
+      "apiName": "phaseInJTC",
+      "displayName": "JTC Phase Object Reference",
+      "description": "Targeting guidance, target development record, etc. are produced in a particular JTC phase.",
+      "category": "joint_targeting_cycle",
+      "fromObjectType": "targetDevelopmentRecord",
+      "toObjectType": "jtcPhase",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["JP_3_60", "CJCSM_3108_01", "JTS_SYLLABUS_2023"]
+    },
+    {
+      "apiName": "equipmentAssignedToOrganization",
+      "displayName": "Equipment Assigned To Organization",
+      "description": "Equipment is assigned to (held by) an organization.",
+      "category": "equipment_readiness",
+      "fromObjectType": "equipment",
+      "toObjectType": "armyOrganization",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [
+        {"name": "assignedAt", "type": "timestamp", "required": false, "description": "Assignment time."},
+        {"name": "handReceiptHolder", "type": "string", "required": false, "description": "Hand receipt holder."}
+      ],
+      "sourceDoctrine": ["AR_710_2", "AR_750_1"]
+    },
+    {
+      "apiName": "equipmentProvidesCapability",
+      "displayName": "Equipment Provides Capability",
+      "description": "Equipment provides a military capability.",
+      "category": "equipment_readiness",
+      "fromObjectType": "equipment",
+      "toObjectType": "capability",
+      "cardinality": "MANY_TO_MANY",
+      "properties": [],
+      "sourceDoctrine": ["ADP_3_0"]
+    },
+    {
+      "apiName": "equipmentHasReadiness",
+      "displayName": "Equipment Has Readiness",
+      "description": "Equipment has a readiness/maintenance status record at a point in time.",
+      "category": "equipment_readiness",
+      "fromObjectType": "equipment",
+      "toObjectType": "maintenanceStatus",
+      "cardinality": "ONE_TO_MANY",
+      "properties": [],
+      "sourceDoctrine": ["AR_750_1", "DA_PAM_750_3"]
+    },
+    {
+      "apiName": "weaponSystemHostedOnPlatform",
+      "displayName": "Weapon System Hosted On Platform",
+      "description": "Weapon system is hosted on a platform.",
+      "category": "equipment_readiness",
+      "fromObjectType": "weaponSystem",
+      "toObjectType": "platform",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_3_0"]
+    },
+    {
+      "apiName": "sensorSystemHostedOnPlatform",
+      "displayName": "Sensor System Hosted On Platform",
+      "description": "Sensor system is hosted on a platform.",
+      "category": "equipment_readiness",
+      "fromObjectType": "sensorSystem",
+      "toObjectType": "platform",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_3_0"]
+    },
+    {
+      "apiName": "communicationsSystemHostedOnPlatform",
+      "displayName": "Communications System Hosted On Platform",
+      "description": "Communications system is hosted on a platform.",
+      "category": "equipment_readiness",
+      "fromObjectType": "communicationsSystem",
+      "toObjectType": "platform",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_3_0"]
+    },
+    {
+      "apiName": "supplyRequirementSupportsTask",
+      "displayName": "Supply Requirement Supports Task",
+      "description": "Supply requirement supports a planned task.",
+      "category": "sustainment",
+      "fromObjectType": "supplyRequirement",
+      "toObjectType": "task",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_4_0", "FM_5_0"]
+    },
+    {
+      "apiName": "supplyRequestForSupplyItem",
+      "displayName": "Supply Request For Supply Item",
+      "description": "Supply request is for a specific supply item.",
+      "category": "sustainment",
+      "fromObjectType": "supplyRequest",
+      "toObjectType": "supplyItem",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ATP_4_42_2", "AR_710_2"]
+    },
+    {
+      "apiName": "supplyRequestFromOrganization",
+      "displayName": "Supply Request From Organization",
+      "description": "Organization that submitted the supply request.",
+      "category": "sustainment",
+      "fromObjectType": "supplyRequest",
+      "toObjectType": "armyOrganization",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ATP_4_42_2", "AR_710_2"]
+    },
+    {
+      "apiName": "supplyItemInClassOfSupply",
+      "displayName": "Supply Item In Class Of Supply",
+      "description": "Supply item is categorized in a class of supply.",
+      "category": "sustainment",
+      "fromObjectType": "supplyItem",
+      "toObjectType": "classOfSupply",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42"]
+    },
+    {
+      "apiName": "ssaStocksAsl",
+      "displayName": "SSA Stocks ASL",
+      "description": "Supply Support Activity stocks an authorized stockage list.",
+      "category": "sustainment",
+      "fromObjectType": "supplySupportActivity",
+      "toObjectType": "authorizedStockageList",
+      "cardinality": "ONE_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ATP_4_42_2", "AR_710_2"]
+    },
+    {
+      "apiName": "logpacResuppliesUnit",
+      "displayName": "LOGPAC Resupplies Unit",
+      "description": "LOGPAC delivers supplies to a unit.",
+      "category": "sustainment",
+      "fromObjectType": "logisticsPackage",
+      "toObjectType": "armyOrganization",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [
+        {"name": "scheduledArrival", "type": "timestamp", "required": false, "description": "Scheduled arrival."}
+      ],
+      "sourceDoctrine": ["ATP_4_42", "ADP_4_0"]
+    },
+    {
+      "apiName": "routeConnectsDistributionNodes",
+      "displayName": "Route Connects Distribution Nodes",
+      "description": "A route connects two distribution nodes.",
+      "category": "sustainment",
+      "fromObjectType": "route",
+      "toObjectType": "distributionNode",
+      "cardinality": "MANY_TO_MANY",
+      "properties": [
+        {"name": "endpointRole", "type": "string", "required": false, "description": "Origin or destination."},
+        {"name": "distanceKm", "type": "double", "required": false, "description": "Segment distance."}
+      ],
+      "sourceDoctrine": ["ADP_4_0", "ATP_4_42"]
+    },
+    {
+      "apiName": "transportationAssetMovesLogpac",
+      "displayName": "Transportation Asset Moves LOGPAC",
+      "description": "A transportation asset moves a logistics package.",
+      "category": "sustainment",
+      "fromObjectType": "transportationAsset",
+      "toObjectType": "logisticsPackage",
+      "cardinality": "MANY_TO_MANY",
+      "properties": [],
+      "sourceDoctrine": ["ATP_4_42", "ADP_4_0"]
+    },
+    {
+      "apiName": "supplyPointAtDistributionNode",
+      "displayName": "Supply Point At Distribution Node",
+      "description": "Supply point is co-located with or co-equivalent to a distribution node.",
+      "category": "sustainment",
+      "fromObjectType": "supplyPoint",
+      "toObjectType": "distributionNode",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ATP_4_42", "ATP_4_42_2"]
+    },
+    {
+      "apiName": "operationInAreaOfOperations",
+      "displayName": "Operation In Area Of Operations",
+      "description": "Operation is conducted in an area of operations.",
+      "category": "geography_mission_context",
+      "fromObjectType": "operation",
+      "toObjectType": "areaOfOperations",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_3_0", "ADP_1_02"]
+    },
+    {
+      "apiName": "naiInAreaOfOperations",
+      "displayName": "NAI In Area Of Operations",
+      "description": "NAI is located in an AO.",
+      "category": "geography_mission_context",
+      "fromObjectType": "namedAreaOfInterest",
+      "toObjectType": "areaOfOperations",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_1_02", "FM_5_0"]
+    },
+    {
+      "apiName": "taiInAreaOfOperations",
+      "displayName": "TAI In Area Of Operations",
+      "description": "TAI is located in an AO.",
+      "category": "geography_mission_context",
+      "fromObjectType": "targetAreaOfInterest",
+      "toObjectType": "areaOfOperations",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_1_02", "FM_5_0"]
+    },
+    {
+      "apiName": "battleRhythmEventOwnedByHeadquarters",
+      "displayName": "Battle Rhythm Event Owned By Headquarters",
+      "description": "Battle rhythm event is owned by a headquarters.",
+      "category": "operations_process",
+      "fromObjectType": "battleRhythmEvent",
+      "toObjectType": "headquarters",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_3_94"]
+    },
+    {
+      "apiName": "riskOnOperation",
+      "displayName": "Risk On Operation",
+      "description": "Risk identified on an operation.",
+      "category": "operations_process",
+      "fromObjectType": "risk",
+      "toObjectType": "operation",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "assumptionOnPlanOrder",
+      "displayName": "Assumption On Plan/Order",
+      "description": "Assumption is recorded on a plan or order.",
+      "category": "operations_process",
+      "fromObjectType": "assumption",
+      "toObjectType": "planOrder",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "constraintOnPlanOrder",
+      "displayName": "Constraint On Plan/Order",
+      "description": "Constraint is recorded on a plan or order.",
+      "category": "operations_process",
+      "fromObjectType": "constraint",
+      "toObjectType": "planOrder",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_5_0", "FM_5_0"]
+    },
+    {
+      "apiName": "controlMeasureInOperation",
+      "displayName": "Control Measure In Operation",
+      "description": "Control measure applies in an operation.",
+      "category": "operations_process",
+      "fromObjectType": "controlMeasure",
+      "toObjectType": "operation",
+      "cardinality": "MANY_TO_ONE",
+      "properties": [],
+      "sourceDoctrine": ["ADP_1_02", "FM_5_0"]
+    }
+  ]
+}

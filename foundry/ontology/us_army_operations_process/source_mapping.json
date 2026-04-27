@@ -1,0 +1,290 @@
+{
+  "sources": [
+    {
+      "sourceId": "ADP_5_0",
+      "title": "ADP 5-0, The Operations Process",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2019-07 (C1 incorporated)",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": "https://irp.fas.org/doddir/army/adp5_0.pdf",
+      "relevantOntologyAreas": [
+        "operations_process",
+        "planning",
+        "preparing",
+        "executing",
+        "assessing",
+        "MDMP",
+        "TLP",
+        "running_estimate",
+        "assessment_plan",
+        "decision_point"
+      ],
+      "notes": "Foundational Army doctrine on the operations process: planning, preparing, executing, and assessing. Defines the operations process as the major mission command activities used by commanders and staff to drive the conduct of operations. Source for MDMP step list (mission receipt, mission analysis, COA development, COA analysis, COA comparison, COA approval, orders production) and for TLP step list (receive mission, issue WARNO, make tentative plan, initiate movement, conduct recon, complete plan, issue order, supervise/refine)."
+    },
+    {
+      "sourceId": "FM_5_0",
+      "title": "FM 5-0, Planning and Orders Production",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2024-11",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": "https://aviation-assets.info/wp-content/uploads/ARN42404-FM_5-0-000-WEB-1.pdf",
+      "relevantOntologyAreas": [
+        "planning",
+        "MDMP",
+        "TLP",
+        "orders_production",
+        "WARNORD",
+        "OPORD",
+        "FRAGORD",
+        "assessment_planning"
+      ],
+      "notes": "Comprehensive Army reference for planning, problem solving, MDMP, TLP, assessment planning, and order formats. Public PDF mirror provided as alternate URL; APD is the authoritative source."
+    },
+    {
+      "sourceId": "ADP_3_0",
+      "title": "ADP 3-0, Operations",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2019-07 (C1 incorporated)",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": "https://irp.fas.org/doddir/army/adp3_0.pdf",
+      "relevantOntologyAreas": [
+        "multidomain_operations",
+        "operational_framework",
+        "warfighting_functions",
+        "joint_operations"
+      ],
+      "notes": "Army's operational doctrine; defines warfighting functions (Command and Control, Movement and Maneuver, Intelligence, Fires, Sustainment, Protection) and the operational framework (deep, close, rear; decisive/shaping/sustaining)."
+    },
+    {
+      "sourceId": "FM_3_0",
+      "title": "FM 3-0, Operations",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2022-10 (with 2025 updates)",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": "https://smallwarsjournal.com/jrnl/art/fm-3-0-operations",
+      "relevantOntologyAreas": [
+        "multidomain_operations",
+        "operational_framework",
+        "echelons_above_corps"
+      ],
+      "notes": "Capstone operations doctrine for multidomain operations. Use APD for the authoritative current version."
+    },
+    {
+      "sourceId": "FM_3_94",
+      "title": "FM 3-94, Armies, Corps, and Division Operations",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2021-07",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": "https://irp.fas.org/doddir/army/fm3_94.pdf",
+      "relevantOntologyAreas": [
+        "echelons",
+        "theater_army",
+        "field_army",
+        "corps",
+        "division",
+        "headquarters",
+        "command_post"
+      ],
+      "notes": "Roles and organization of theater army, field army, corps, and division. Source for echelon hierarchy and headquarters structure."
+    },
+    {
+      "sourceId": "FM_3_96",
+      "title": "FM 3-96, Brigade Combat Team",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2021-01",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": "https://www.army.mil/article/158747/field_manual_3_96_the_brigade_combat_team_published_last_month",
+      "relevantOntologyAreas": [
+        "BCT",
+        "IBCT",
+        "SBCT",
+        "ABCT",
+        "echelons",
+        "organizations"
+      ],
+      "notes": "BCT doctrine for IBCT/SBCT/ABCT relationships, roles, capabilities, and limitations."
+    },
+    {
+      "sourceId": "ATP_3_21_8",
+      "title": "ATP 3-21.8, Infantry Rifle Platoon and Squad",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2024-01",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": "https://commons.wikimedia.org/wiki/File:ATP_3-21.8_Infantry_Rifle_Platoon_and_Squad_January_2024.pdf",
+      "relevantOntologyAreas": [
+        "small_unit",
+        "platoon",
+        "squad",
+        "organizations"
+      ],
+      "notes": "Small-unit organization, roles, capabilities, and responsibilities at platoon and squad level."
+    },
+    {
+      "sourceId": "ADP_4_0",
+      "title": "ADP 4-0, Sustainment",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2019-07",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": "https://cascom.army.mil/asrp/doctrine-pubs.html",
+      "relevantOntologyAreas": [
+        "sustainment",
+        "logistics",
+        "personnel_services",
+        "health_service_support",
+        "operational_reach",
+        "freedom_of_action",
+        "endurance"
+      ],
+      "notes": "Sustainment doctrine: logistics, financial management, personnel services, and health service support. Establishes that sustainment provides the support and services to maintain operations until mission accomplishment, enabling operational reach, freedom of action, and prolonged endurance."
+    },
+    {
+      "sourceId": "ATP_4_42",
+      "title": "ATP 4-42, General Supply and Field Services Operations",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2014-07",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": "https://www.bits.de/NRANEU/others/amd-us-archive/ATP4-42(14).pdf",
+      "relevantOntologyAreas": [
+        "supply_operations",
+        "class_II",
+        "class_III_packaged",
+        "class_IV",
+        "class_VI",
+        "configured_loads",
+        "retrograde",
+        "field_services"
+      ],
+      "notes": "General supply operations and field services across classes of supply, configured loads, and retrograde operations."
+    },
+    {
+      "sourceId": "ATP_4_42_2",
+      "title": "ATP 4-42.2, Supply Support Activity Operations",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2014-07",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": "https://www.bits.de/NRANEU/others/amd-us-archive/ATP4-42x2(14).pdf",
+      "relevantOntologyAreas": [
+        "SSA",
+        "supply_support",
+        "classes_of_supply",
+        "stock_management",
+        "ASL"
+      ],
+      "notes": "Supply Support Activity doctrine: receipt, storage, safeguarding, turn-in, and issue across classes of supply. Source for Class I-X table content. A 2024 update has been referenced informally; use APD for the current edition."
+    },
+    {
+      "sourceId": "AR_710_2",
+      "title": "AR 710-2, Supply Policy Below the National Level",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2008 (with revisions)",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": null,
+      "relevantOntologyAreas": [
+        "supply_policy",
+        "accountability",
+        "ASL",
+        "basic_load",
+        "stock_management"
+      ],
+      "notes": "Policy for accountability and management of stocks below the national level. Use APD for current version."
+    },
+    {
+      "sourceId": "AR_750_1",
+      "title": "AR 750-1, Army Materiel Maintenance Policy",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2023",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": "https://aviation-assets.info/wp-content/uploads/ARN32929-AR_750-1-000-WEB-1.pdf",
+      "relevantOntologyAreas": [
+        "maintenance_policy",
+        "field_maintenance",
+        "sustainment_maintenance",
+        "readiness"
+      ],
+      "notes": "Establishes Army materiel maintenance policies and responsibilities, including field and sustainment maintenance categories."
+    },
+    {
+      "sourceId": "DA_PAM_750_3",
+      "title": "DA PAM 750-3, Soldiers' Guide for Field Maintenance Operations",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2013 (with revisions)",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": "https://www.benning.army.mil/infantry/199th/2-16/ABOLC/content/pdf/p750_3.pdf",
+      "relevantOntologyAreas": [
+        "field_maintenance",
+        "PMCS",
+        "TAMMS",
+        "equipment_records",
+        "maintenance_work_orders"
+      ],
+      "notes": "Field maintenance operations, PMCS, The Army Maintenance Management System (TAMMS), and equipment records."
+    },
+    {
+      "sourceId": "JP_3_60",
+      "title": "JP 3-60, Joint Targeting",
+      "publisher": "Joint Chiefs of Staff",
+      "date": "2018 (most recent public reference; check JS for current edition)",
+      "url": "https://www.jcs.mil/",
+      "alternateUrl": "https://www.jcs.mil/Portals/36/Documents/Doctrine/training/jts/2023joint_target_staff_course_syllabus.pdf?ver=bXDtvS7rwbmnfI28cXro3g%3D%3D",
+      "relevantOntologyAreas": [
+        "joint_targeting",
+        "JTC_phases",
+        "target_development",
+        "capabilities_analysis",
+        "JIPTL",
+        "JTL",
+        "NSL"
+      ],
+      "notes": "Core joint targeting doctrine. Source for the six-phase Joint Targeting Cycle. JP 3-60 itself may be controlled distribution; the 2023 Joint Targeting Staff Course syllabus on jcs.mil is publicly accessible and references JP 3-60 phase content."
+    },
+    {
+      "sourceId": "CJCSM_3108_01",
+      "title": "CJCSM 3108.01, Joint Fires Element",
+      "publisher": "Joint Chiefs of Staff",
+      "date": "Public PDF",
+      "url": "https://www.jcs.mil/Portals/36/Documents/Library/Manuals/CJCSM%203108.01.pdf",
+      "alternateUrl": null,
+      "relevantOntologyAreas": [
+        "joint_fires_element",
+        "JFE",
+        "JTCB",
+        "JTWG",
+        "JIPTL",
+        "JTL",
+        "NSL",
+        "combat_assessment"
+      ],
+      "notes": "Defines the Joint Fires Element (JFE) and its role in managing the joint targeting process; introduces the JTCB and JTWG; defines JIPTL/JTL/NSL terminology; addresses combat assessment support."
+    },
+    {
+      "sourceId": "JTS_SYLLABUS_2023",
+      "title": "Joint Targeting Staff Course 2023 Syllabus",
+      "publisher": "Joint Targeting School, Joint Chiefs of Staff",
+      "date": "2023",
+      "url": "https://www.jcs.mil/Portals/36/Documents/Doctrine/training/jts/2023joint_target_staff_course_syllabus.pdf?ver=bXDtvS7rwbmnfI28cXro3g%3D%3D",
+      "alternateUrl": null,
+      "relevantOntologyAreas": [
+        "JTC_phase_objectives",
+        "training",
+        "supplementary_reference"
+      ],
+      "notes": "Supplementary reference enumerating JTC phase objectives. Use as orientation material, not as primary doctrine."
+    },
+    {
+      "sourceId": "ADP_1_02",
+      "title": "ADP 1-02, Operational Terms and Military Symbols",
+      "publisher": "Headquarters, Department of the Army",
+      "date": "2018 (with revisions)",
+      "url": "https://armypubs.army.mil/",
+      "alternateUrl": "https://irp.fas.org/doddir/army/adp1_02.pdf",
+      "relevantOntologyAreas": [
+        "operational_terms",
+        "military_symbols",
+        "control_measures",
+        "task_verbs",
+        "tactical_mission_tasks"
+      ],
+      "notes": "Common language and symbology for units, equipment, installations, and control measures. Anchor for control measure types and tactical mission task vocabulary."
+    }
+  ]
+}

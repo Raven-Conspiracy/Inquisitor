@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "source_mapping.schema.json",
+  "title": "Doctrine Source Mapping",
+  "type": "object",
+  "required": ["sources"],
+  "properties": {
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["sourceId", "title", "publisher", "url", "relevantOntologyAreas"],
+        "properties": {
+          "sourceId": {"type": "string"},
+          "title": {"type": "string"},
+          "publisher": {"type": "string"},
+          "date": {"type": "string"},
+          "url": {"type": "string"},
+          "alternateUrl": {"type": ["string", "null"]},
+          "relevantOntologyAreas": {"type": "array", "items": {"type": "string"}},
+          "notes": {"type": "string"}
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "classes_of_supply.schema.json",
+  "title": "Classes of Supply Seed Data",
+  "type": "object",
+  "required": ["classesOfSupply"],
+  "properties": {
+    "classesOfSupply": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["code", "title", "description", "sourceDoctrine"],
+        "properties": {
+          "code": {"type": "string", "enum": ["I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"]},
+          "title": {"type": "string"},
+          "description": {"type": "string"},
+          "examples": {"type": "array", "items": {"type": "string"}},
+          "planningNotes": {"type": "string"},
+          "sourceDoctrine": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    }
+  }
+}
