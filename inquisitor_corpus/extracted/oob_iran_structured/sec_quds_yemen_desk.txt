@@ -1,0 +1,12 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Quds Force Arabian Peninsula Corps (6th Corps)
+
+**Unit ID**: quds_yemen_desk
+**Service**: Quds
+**Type**: regional_desk
+**Headquarters**: Tehran (forward liaison Yemen)
+**Parent**: IRGC Quds Force (IRGC-QF) (quds)
+**Strength (% authorized)**: 100%
+**Notes**: Responsible for Persian Gulf countries, Arabian Peninsula, Yemen Houthi (Ansar Allah) support. Led by BG Abdolreza Shahlaei (responsible for arms/training to Houthis). [Wikipedia Quds Force] [WINEP Knights]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

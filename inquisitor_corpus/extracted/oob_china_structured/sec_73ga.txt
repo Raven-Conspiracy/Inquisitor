@@ -1,0 +1,20 @@
+# Chinese PLA — Group Army / Fleet / Base: 73rd Group Army (第七十三集团军)
+
+**Unit ID**: 73ga
+**Service**: PLAA
+**Type**: group_army
+**Headquarters**: Xiamen
+**Parent**: Eastern Theater Command (东部战区) (etc)
+**Strength (% authorized)**: 100%
+**Notes**: Formerly 31st Group Army (Nanjing MR); redesignated Apr 2017. Contains 2 amphibious brigades for Taiwan strait contingency; first-tier amphibious force. [DOD CMPR 2024 p.97] [Wikipedia 73rd GA 2024]
+
+## Subordinate Brigade / Division / Flotillas
+- **73rd GA Amphibious Combined Arms Brigade (1st Amphibious)** (elite) (73ga_1amphibcab) — type: amphibious, HQ: Xiamen area, strength: 100%. ZBD-05 amphibious IFV. First-tier amphibious unit; critical to Taiwan contingency. Brigade number not confirmed in public sources. [Wikipedia 73rd GA 2024] [DOD CMPR 2024 p.97]
+- **73rd GA Amphibious Combined Arms Brigade (2nd Amphibious)** (elite) (73ga_2amphibcab) — type: amphibious, HQ: Xiamen area, strength: 100%. ZBD-05 amphibious IFV. First-tier amphibious unit. Brigade number not confirmed in public sources. [Wikipedia 73rd GA 2024] [DOD CMPR 2024 p.97]
+
+## Authorized Equipment (estimated)
+- **apc** — ZBD-05 amphibious IFV, ZTD-05 assault gun — authorized: 200, estimated lost: 0
+- **lst** — Type 271 landing craft, Type 074A landing craft — authorized: 24, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

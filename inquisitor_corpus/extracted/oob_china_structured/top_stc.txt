@@ -1,0 +1,18 @@
+# Chinese PLA — Theater Command: Southern Theater Command (南部战区)
+
+**ID**: STC
+**Headquarters**: Guangzhou
+**Commander (current)**: Gen. Wu Yanan (status uncertain — absent from PRC events late 2025; under investigation as of Nov 2025)
+**Map color code**: #e67e22
+**Notes**: Responsible for South China Sea, Vietnam border, support to ETC amphibious ops. Commander Wu Yanan and two Southern TC Navy commanders (Li Pengcheng, Ju Xinchun) reportedly under investigation as of late 2025. [POST-PURGE STATUS UNCERTAIN] [DOD CMPR 2024 p.95] [CNA 2025-11-19] [LinkedIn Erickson 2025-12-28]
+
+## Subordinate Group Army / Fleet / Bases
+- **74th Group Army (第七十四集团军)** [PLAA] (74ga) — type: group_army, HQ: Huizhou, strength: 100%. Formerly 42nd Group Army (Guangzhou MR); redesignated Apr 2017. Contains 2 amphibious brigades with ZTD-05/ZBD-05 systems; probable secondary amphibious force supporting ETC Taiwan ops. [DOD CMPR 2024 p.97] [Wikipedia 74th GA]
+- **75th Group Army (第七十五集团军)** [PLAA] (75ga) — type: group_army, HQ: Kunming, strength: 100%. Formerly 41st Group Army (Guangzhou MR); redesignated Apr 2017. Includes mountain combined arms brigade for highland/Vietnam border terrain. [DOD CMPR 2024 p.97] [Wikipedia 75th GA]
+- **Southern Theater Command Fleet (South Sea Fleet, 南部战区海军)** [PLAN] (ssf_plan) — type: fleet, HQ: Zhanjiang, strength: 100%. HQ Zhanjiang, Guangdong. Yulin/Sanya bases house SSBNs (Type 094). Home to Shandong (CV-17, commissioned 2019), Fujian (CV-18, commissioned Nov 2025), and 6 marine brigades. Two STCN commanders (Li Pengcheng, Ju Xinchun) reportedly purged/under investigation 2025; replacement status unclear. [POST-PURGE STATUS UNCERTAIN] [DOD CMPR 2024 p.45] [LinkedIn Erickson 2025-12-28] [NavalNews 2026-01-03]
+- **Southern Theater Command Air Force (南部战区空军)** [PLAAF] (stcaf) — type: air_force_base, HQ: Guangzhou, strength: 100%. Manages PLAAF units in STC AOR. J-20 at 4th and 5th Bdes; J-16 at 6th and 26th Bdes. Includes 8th Bomber Division (H-6K) at Shaodong/Leiyang. [Heritage Foundation 2026-01-20] [CASI/PLAAF Overview 2023]
+- **PLARF Base 62 (第六十二基地, Unit 96602)** [PLARF] (plarf_b62) — type: rocket_force_base, HQ: Kunming, strength: 100%. HQ Kunming, Yunnan. Covers southeastern China/South China Sea approaches. 7 brigades: DF-31AG (nuclear), DF-26 (dual), DF-17 (conventional hypersonic), DF-21D (anti-ship), DF-10A (cruise). [POST-PURGE STATUS UNCERTAIN] [CNS PLARF OOB 2023] [Grey Dynamics 2024-07-30]
+- **PLARF Base 63 (第六十三基地, Unit 96603)** [PLARF] (plarf_b63) — type: rocket_force_base, HQ: Huaihua, strength: 100%. HQ Huaihua, Hunan. Southern inland coverage. 6 brigades: DF-5B/5C silo-based ICBM (nuclear), DF-31AG (nuclear), DF-17 (conventional), DF-16A (conventional). Silo expansion ongoing per CNS 2023. [POST-PURGE STATUS UNCERTAIN] [CNS PLARF OOB 2023] [Wikipedia PLARF]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:THEATER] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

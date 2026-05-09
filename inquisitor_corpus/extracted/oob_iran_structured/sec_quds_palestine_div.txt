@@ -1,0 +1,12 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Quds Force Palestine Division
+
+**Unit ID**: quds_palestine_div
+**Service**: Quds
+**Type**: regional_desk
+**Headquarters**: Tehran
+**Parent**: IRGC Quds Force (IRGC-QF) (quds)
+**Strength (% authorized)**: 100%
+**Notes**: Led by BG Saeed Izadi. Responsible for Hamas and Palestinian Islamic Jihad support. Includes Abu Jihad Foreign Operations Unit (Gaza tunnels, IED networks). [Wikipedia Quds Force]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

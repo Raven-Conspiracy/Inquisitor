@@ -1,0 +1,17 @@
+# Chinese PLA — Group Army / Fleet / Base: 81st Group Army (第八十一集团军)
+
+**Unit ID**: 81ga
+**Service**: PLAA
+**Type**: group_army
+**Headquarters**: Zhangjiakou
+**Parent**: Central Theater Command (中部战区) (ctc)
+**Strength (% authorized)**: 100%
+**Notes**: Formerly 27th Group Army (Beijing MR); redesignated Apr 2017. Capital region ground defense; 3 heavy CABs. [DOD CMPR 2024 p.97] [Wikipedia PLAGF]
+
+## Subordinate Brigade / Division / Flotillas
+- **7th Heavy Combined Arms Brigade** (81ga_7cab) — type: heavy_combined_arms_bde, HQ: Zhangjiakou area, strength: 100%. [Wikipedia 81st GA]
+- **194th Heavy Combined Arms Brigade** (81ga_194cab) — type: heavy_combined_arms_bde, HQ: Zhangjiakou area, strength: 100%. [Wikipedia 81st GA]
+- **195th Heavy Combined Arms Brigade** (81ga_195cab) — type: heavy_combined_arms_bde, HQ: Zhangjiakou area, strength: 100%. [Wikipedia 81st GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

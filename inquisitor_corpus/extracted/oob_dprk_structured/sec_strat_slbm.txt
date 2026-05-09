@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: Strategic Force SLBM Unit (Pukguksong-series)
+
+**Unit ID**: strat_slbm
+**Service**: KPA Strategic Force
+**Type**: missile_bureau
+**Headquarters**: Sinpo, South Hamgyong Province (Sinpo South Shipyard / Mayang sub base)
+**Parent**: KPA Strategic Force / Missile General Bureau (Jeonnyakgun) (strategic)
+**Strength (% authorized)**: 70.0%
+**Notes**: SLBM capability. 8.24 Yongung (Sinpo-class SSB, 1 x Pukguksong tube) + Hero Kim Kun Ok (multi-tube SSB, commissioned Sep 2023). Nuclear-powered SSBN announced Mar 2025 — construction stage only [POST-2021 UPDATE: Wikipedia KPN 2025]. Pukguksong-1/3/4/5 variants in inventory; -1 tested 2016, -3 tested Oct 2019, -4/-5 paraded 2021. Operational readiness of multi-tube SSBN unconfirmed. [Wikipedia KPN; DIA NKMP 2021]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

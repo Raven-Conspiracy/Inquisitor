@@ -1,0 +1,16 @@
+# Chinese PLA — Brigade / Division / Flotilla: 611th Missile Brigade (DF-26 IRBM) (ELITE / first-tier)
+
+**Unit ID**: plarf_611bde
+**Type**: rocket_brigade
+**Headquarters**: Chizhou/Qingyang, Anhui
+**Parent**: Group Army / Fleet / Base: PLARF Base 61 (第六十一基地, Unit 96601) (plarf_b61)
+**Higher echelon**: Eastern Theater Command (东部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: DF-26 dual-capable (nuclear/conventional) IRBM. ~36 launchers. Major upgrade underway. MUCD 96711. First-tier strategic unit. [CNS PLARF OOB 2023] [Wikipedia PLARF] [POST-PURGE STATUS UNCERTAIN]
+
+## Authorized Equipment (estimated)
+- **irbm** — DF-26 — authorized: 36, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

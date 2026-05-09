@@ -1,0 +1,15 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: 10th Tactical Air Base — Chahbahar (Konarak)
+
+**Unit ID**: tab10_chahbahar
+**Service**: IRIAF
+**Type**: air_force_base
+**Headquarters**: Chahbahar/Konarak
+**Parent**: Islamic Republic of Iran Air Force (IRIAF) (iriaf)
+**Strength (% authorized)**: 55%
+**Notes**: F-4D, Mirage F-1EQ/BQ (ex-Iraqi). Mirages relocated from TAB14 2011-2012. [Scramble.nl IRIAF OOB Feb 2026] [DIA IMP 2019 p.24]
+
+## Subordinate Division / Brigade / Squadrons
+- **101st/102nd Tactical Fighter Squadrons (F-4D / Mirage F-1)** (sqn101_mirage) — type: fighter_brigade, HQ: Chahbahar, strength: 50%. F-4D Phantom II (101st TFS) and Mirage F-1EQ/BQ (102nd TFS; ex-Iraqi, relocated from TAB14 2011-12). [Scramble.nl IRIAF OOB Feb 2026]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

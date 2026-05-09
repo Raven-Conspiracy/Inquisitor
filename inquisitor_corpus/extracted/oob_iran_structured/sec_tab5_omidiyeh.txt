@@ -1,0 +1,15 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: 5th Tactical Air Base — Omidiyeh (Shahid Ardestani)
+
+**Unit ID**: tab5_omidiyeh
+**Service**: IRIAF
+**Type**: air_force_base
+**Headquarters**: Omidiyeh, Khuzestan
+**Parent**: Islamic Republic of Iran Air Force (IRIAF) (iriaf)
+**Strength (% authorized)**: 65%
+**Notes**: F-7N/FT-7N (3 squadrons). Was due to transfer to IRGC in 2008; reverted to IRIAF. [Scramble.nl IRIAF OOB Feb 2026] [DIA IMP 2019 p.24]
+
+## Subordinate Division / Brigade / Squadrons
+- **51st/52nd/53rd Tactical Fighter Squadrons (F-7N)** (sqn51_f7) — type: fighter_brigade, HQ: Omidiyeh, strength: 65%. Three squadrons of F-7N/FT-7N (license-built MiG-21). [Scramble.nl IRIAF OOB Feb 2026]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

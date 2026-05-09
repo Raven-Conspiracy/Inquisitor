@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: 2nd Tactical Air Base — Tabriz (Shaheed Fakouri)
+
+**Unit ID**: tab2_tabriz
+**Service**: IRIAF
+**Type**: air_force_base
+**Headquarters**: Tabriz, East Azerbaijan
+**Parent**: Islamic Republic of Iran Air Force (IRIAF) (iriaf)
+**Strength (% authorized)**: 45%
+**Notes**: F-5E/F, MiG-29A/UB, Saeghe variants. Attacked Jun 13, 2025. Northern Helicopter Command HQ and UAV Logistics Support Command co-located. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+## Subordinate Division / Brigade / Squadrons
+- **21st Tactical Fighter Squadron (F-5E)** (sqn21_f5) — type: fighter_brigade, HQ: Tabriz, strength: 40%. F-5E/F Tiger II. Some transferred to TAB14/Mashhad. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **22nd Tactical Fighter Squadron (MiG-29)** (sqn22_mig29) — type: fighter_brigade, HQ: Tabriz, strength: 40%. MiG-29A (8) MiG-29UB (3); air superiority in NW Iran. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **23rd Tactical Fighter Squadron (Saeghe/F-5 variant)** (sqn23_saeghe) — type: fighter_brigade, HQ: Tabriz, strength: 40%. F-5E Saeghe and Saeghe II (indigenous F-5 variant). [Scramble.nl IRIAF OOB Feb 2026]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

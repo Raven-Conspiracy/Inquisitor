@@ -1,0 +1,16 @@
+# Chinese PLA — Group Army / Fleet / Base: PLARF Base 64 (第六十四基地, Unit 96604)
+
+**Unit ID**: plarf_b64
+**Service**: PLARF
+**Type**: rocket_force_base
+**Headquarters**: Lanzhou
+**Parent**: Western Theater Command (西部战区) (wtc)
+**Strength (% authorized)**: 100%
+**Notes**: HQ Lanzhou, Gansu. NW China/Central Asia coverage. 6-7 brigades: DF-41 (nuclear), DF-31AG (nuclear), DF-26 (dual). Large silo fields at Yumen (~110 silos) and Hami (~120 silos) associated with Base 64 AOR. [POST-PURGE STATUS UNCERTAIN] [CNS PLARF OOB 2023] [Wikipedia PLARF]
+
+## Subordinate Brigade / Division / Flotillas
+- **641st Missile Brigade (DF-31/DF-41 ICBM)** (elite) (plarf_641bde) — type: rocket_brigade, HQ: Hancheng, Shaanxi, strength: 100%. DF-31AG / transitioning to DF-41 nuclear road-mobile ICBM. New base completed 2024. MUCD 96741. [CNS PLARF OOB 2023] [Wikipedia PLARF] [POST-PURGE STATUS UNCERTAIN]
+- **644th Missile Brigade (DF-41 ICBM)** (elite) (plarf_644bde) — type: rocket_brigade, HQ: Hanzhong, Shaanxi, strength: 100%. DF-41 nuclear road-mobile ICBM. 12 launchers. Called 'New Generation 1st Dongfeng Brigade'. MUCD 96744. [CNS PLARF OOB 2023] [Wikipedia PLARF]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

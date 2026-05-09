@@ -1,0 +1,98 @@
+Preliminary Lessons in Conventional Warfighting from Russia’s Invasion of Ukraine: February–July 2022 | Royal United Services Institute
+pdf
+Read Full Report
+(PDF 4MB)
+Ukrainian servicemen fire a BM-21 Grad multiple rocket launch system, Luhansk Region, Ukraine, April 2022. Courtesy of Reuters / Serhii Nuzhnenko / Alamy Stock Photo
+This study of the early phases of the 2022 war sheds light on Ukraine's strengths and vulnerabilities, and the need for further Western support.
+Executive Summary
+The full-scale invasion of Ukraine on 24 February 2022 has provided an invaluable opportunity to assess the capabilities of the Armed Forces of the Russian Federation (AFRF) and the implications of a range of capabilities for modern warfare. Many publicly made judgements on these issues have lacked supporting data or insight into Ukrainian operational planning and decision-making. To ensure that those drawing lessons from the conflict do so from a solid foundation, this report seeks to outline key lessons, based on the operational data accumulated by the Ukrainian General Staff, from the fighting between February and July 2022. As the underlying source material for much of this report cannot yet be made public, this should be understood as testimony rather than as an academic study. Given the requirements for operational security, it is necessarily incomplete.
+Russia planned to invade Ukraine over a 10-day period and thereafter occupy the country to enable annexation by August 2022. The Russian plan presupposed that speed, and the use of deception to keep Ukrainian forces away from Kyiv, could enable the rapid seizure of the capital. The Russian deception plan largely succeeded, and the Russians achieved a 12:1 force ratio advantage north of Kyiv. The very operational security that enabled the successful deception, however, also led Russian forces to be unprepared at the tactical level to execute the plan effectively. The Russian plan’s greatest deficiency was the lack of reversionary courses of action. As a result, when speed failed to produce the desired results, Russian forces found their positions steadily degraded as Ukraine mobilised. Despite these setbacks, Russia refocused on Donbas and, since Ukraine had largely expended its ammunition supply, proved successful in subsequent operations, slowed by the determination – rather than the capabilities – of Ukrainian troops. From April, the West became Ukraine’s strategic depth, and the Ukrainian Armed Forces (UAF) only robbed Russia of the initiative once long-range fires brought Russian logistics under threat.
+The tactical competence of the Russian military proved significantly inferior compared with the expectations of many observers based within and outside Ukraine and Russia. Nevertheless, Russian weapons systems proved largely effective, and those units with a higher level of experience demonstrated that the AFRF have considerable military potential, even if deficiencies in training and the context of how they were employed meant that the Russian military failed to meet that potential. Factoring in the idiosyncrasies of the Russian campaign, there are five key areas that should be monitored to judge whether the Russian military is making progress in resolving its structural and cultural deficiencies. These areas should be used to inform assessments of Russian combat power in the future.
+The AFRF currently operate with a hierarchy of jointery in which the priorities of the land component are paramount, and the military as a whole is subordinate to the special services. This creates sub-optimal employment of other branches.
+The AFRF force-generation model is flawed. It proposes the creation of amalgamated combined arms formations in wartime but lacks the strength of junior leadership to knit these units together.
+There is a culture of reinforcing failure unless orders are changed at higher levels. This appears less evident in the Russian Aerospace Forces than in the Ground Forces and Navy.
+The AFRF are culturally vulnerable to deception because they lack the ability to rapidly fuse information, are culturally averse to providing those who are executing orders with the context to exercise judgement, and incentivise a dishonest reporting culture.
+The AFRF’s capabilities and formations are prone to fratricide. Electronic warfare (EW) systems and other capabilities rarely deconflict, while processes for identifying friend from foe and establishing control measures are inadequate. The result is that capabilities that should magnify one another’s effects must be employed sequentially.
+Beyond assessments of the Russian armed forces, there are significant lessons to be drawn from the conflict for the British and other NATO militaries. The foremost of these are:
+In due course, it will be possible to extend this study to cover the later phase of the war when Ukraine moved on to offensive operations. As the UAF expend significant ammunition, however, and now depend on their international partners for equipment, it is important that those partners draw the appropriate lessons from the war so far, not least so that they can prepare themselves to deter future threats and to best support Ukraine. Ukraine’s victory is possible, but it requires significant heavy fighting. With appropriate support, Ukraine can prevail.
+There is no sanctuary in modern warfare. The enemy can strike throughout operational depth. Survivability depends on dispersing ammunitions stocks, command and control, maintenance areas and aircraft. Ukraine successfully evaded Russia’s initial wave of strikes by dispersing its arsenals, aircraft and air defences. Conversely, the Russians succeeded in engaging 75% of static defence sites in the first 48 hours of the war. Nor is setting up a headquarters in a civilian building sufficient to make it survivable. The British Army must consider the vulnerability of higher-echelon enablement. The RAF must consider how many deployable spares kits it has to enable dispersion of its fleets.
+Warfighting demands large initial stockpiles and significant slack capacity. Despite the prominence of anti-tank guided weapons in the public narrative, Ukraine blunted Russia’s attempt to seize Kyiv using massed fires from two artillery brigades. The difference in numbers between Russian and Ukrainian artillery was not as significant at the beginning of the conflict, with just over a 2:1 advantage: 2,433 barrel artillery systems against 1,176; and 3,547 multiple-launch rocket systems against 1,680. Ukraine maintained artillery parity for the first month and a half and then began to run low on munitions so that, by June, the AFRF had a 10:1 advantage in volume of fire. Evidently, no country in NATO, other than the US, has sufficient initial weapons stocks for warfighting or the industrial capacity to sustain largescale operations. This must be rectified if deterrence is to be credible and is equally a problem for the RAF and Royal Navy.
+Uncrewed aerial systems (UAS) and counter-UAS (CUAS) are essential across all branches and at all echelons. Although critical to competitiveness by providing situational awareness, 90% of UAS employed are lost. For the most part, UAS must be cheap and attritable. For land forces, they must be organic to units for the purposes of both situational awareness and target acquisition. The primary means of CUAS is EW. Another critical tactical requirement is to be alerted to the presence of UAS. For the Royal Navy, CUAS is critical for protecting vessels operating beyond the protection of a task force. For the RAF, the provision of look-down sensing to locate UAS to contribute to air defence is critical. This allows defensive resources to be prioritised on the right axes.
+The force must fight for the right to precision. Precision is not only vastly more efficient in the effects it delivers but also allows the force to reduce its logistics tail and thereby makes it more survivable. Precision weapons, however, are scarce and can be defeated by EW. To enable kill chains to function at the speed of relevance, EW for attack, protection and direction finding is a critical element of modern combined arms operations. Sequencing fires to disrupt EW and create windows of opportunity for precision effects is critical and creates training requirements. In modern warfare, the electromagnetic spectrum is unlikely to be denied, but it is continually disrupted, and forces must endeavour to gain advantage within it.
+For land forces, the pervasive ISTAR on the modern battlefield and the layering of multiple sensors at the tactical level make concealment exceedingly difficult to sustain. Survivability is often afforded by being sufficiently dispersed to become an uneconomical target, by moving quickly enough to disrupt the enemy’s kill chain and thereby evade engagement, or by entering hardened structures. Shell scrapes and hasty defences can increase immediate survivability but also risk the force becoming fixed by fire while precision fires and specialist munitions do not leave these positions survivable. Forces instead should prioritise concentrating effects while only concentrating mass under favourable conditions – with an ability to offer mutual support beyond line of sight – and should give precedence to mobility as a critical component of their survivability.
+Related event
+keywords
+Topics
+Air Power
+Land Warfare
+Sea Power
+Conflict and Security
+Regions and Country Groups
+Europe
+Ukraine
+Russia and Eurasia
+Russia
+Research Groups
+Military Sciences
+WRITTEN BY
+Mykhaylo Zabrodskyi
+View profile
+Dr Jack Watling
+Senior Research Fellow for Applied Military Sciences
+Military Sciences
+View profile
+Oleksandr V Danylyuk
+RUSI Associate Fellow, Military Sciences
+View profile
+Nick Reynolds
+Research Fellow, Land Warfare
+Military Sciences
+View profile
+Ukrainian servicemen fire a BM-21 Grad multiple rocket launch system, Luhansk Region, Ukraine, April 2022. Courtesy of Reuters / Serhii Nuzhnenko / Alamy Stock Photo
+WRITTEN BY
+Mykhaylo Zabrodskyi
+View profile
+Dr Jack Watling
+Senior Research Fellow for Applied Military Sciences
+Military Sciences
+View profile
+Oleksandr V Danylyuk
+RUSI Associate Fellow, Military Sciences
+View profile
+Nick Reynolds
+Research Fellow, Land Warfare
+Military Sciences
+View profile
+Media Enquiries
+Jim McLean
+Media Relations Manager
++44 (0)7917 373 069
+JimMc@rusi.org
+Reading options
+pdf
+Read Full Report
+(PDF 4MB)
+print
+Print this page
+Share this page
+facebook
+twitter
+linkedin
+email
+bluesky
+Media Enquiries
+Jim McLean
+Media Relations Manager
++44 (0)7917 373 069
+JimMc@rusi.org
+Reading options
+pdf
+Read Full Report
+(PDF 4MB)
+print
+Print this page
+Footnotes
+Explore our related content
+Stay up to date with RUSI
+Receive updates on publications and events from RUSI straight into your inbox.
+Sign up

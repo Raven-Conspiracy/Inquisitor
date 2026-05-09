@@ -1,0 +1,17 @@
+# Chinese PLA — Group Army / Fleet / Base: 77th Group Army (第七十七集团军)
+
+**Unit ID**: 77ga
+**Service**: PLAA
+**Type**: group_army
+**Headquarters**: Chengdu
+**Parent**: Western Theater Command (西部战区) (wtc)
+**Strength (% authorized)**: 100%
+**Notes**: Formerly 13th Group Army (Chengdu MR); redesignated Apr 2017. 2 mountain CABs; 3 brigades repositioned to Tibet since 2017 for India LAC operations per SSI 2024. [DOD CMPR 2024 p.97] [US Army SSI 2024]
+
+## Subordinate Brigade / Division / Flotillas
+- **40th Mountain Combined Arms Brigade** (77ga_40mcab) — type: mountain_inf_bde, HQ: Tibet (relocated post-2017), strength: 100%. Relocated to Tibet. India LAC forward posture. [US Army SSI 2024]
+- **39th Heavy Combined Arms Brigade** (77ga_39cab) — type: heavy_combined_arms_bde, HQ: Chengdu area, strength: 100%. [Wikipedia 77th GA]
+- **150th Mountain Combined Arms Brigade** (77ga_150mcab) — type: mountain_inf_bde, HQ: Tibet/Sichuan (partially relocated), strength: 100%. Partial relocation to Tibet post-2017. [US Army SSI 2024]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

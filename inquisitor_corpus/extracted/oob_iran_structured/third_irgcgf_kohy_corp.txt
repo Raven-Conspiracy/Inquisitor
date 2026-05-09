@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: Sepah-e Fath (Kohgiluyeh and Boyer-Ahmad Corps)
+
+**Unit ID**: irgcgf_kohy_corp
+**Type**: light_cab
+**Headquarters**: Yasuj, Kohgiluyeh and Boyer-Ahmad
+**Parent**: Region / Provincial Corps / Base: Karbala Operational HQ (South) (irgcgf_karbala_hq)
+**Higher echelon**: IRGC Ground Forces (IRGCGF)
+**Elite designation**: No
+**Strength (% authorized)**: 80%
+**Notes**: Commander: Hamid Khoramdel. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

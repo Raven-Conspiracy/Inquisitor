@@ -1,0 +1,22 @@
+# Chinese PLA — Theater Command: Central Theater Command (中部战区)
+
+**ID**: CTC
+**Headquarters**: Beijing
+**Commander (current)**: Gen. Han Shengyan (promoted December 2025)
+**Map color code**: #27ae60
+**Notes**: Capital region defense; includes Beijing garrison forces, 81st/82nd/83rd Group Armies, strategic reserve function. Han Shengyan confirmed Dec 2025. [DOD CMPR 2024 p.95] [Chinese Govt release 2025-12-22]
+
+## Subordinate Group Army / Fleet / Bases
+- **81st Group Army (第八十一集团军)** [PLAA] (81ga) — type: group_army, HQ: Zhangjiakou, strength: 100%. Formerly 27th Group Army (Beijing MR); redesignated Apr 2017. Capital region ground defense; 3 heavy CABs. [DOD CMPR 2024 p.97] [Wikipedia PLAGF]
+- **82nd Group Army (第八十二集团军)** [PLAA] (82ga) — type: group_army, HQ: Baoding, strength: 100%. Formerly 38th Group Army (Beijing MR); redesignated Apr 2017. 3 heavy CABs; historically one of the PLA's premier armored formations. [DOD CMPR 2024 p.97] [Wikipedia 82nd GA]
+- **83rd Group Army (第八十三集团军)** [PLAA] (83ga) — type: group_army, HQ: Xinxiang, strength: 100%. Formerly 54th Group Army (Jinan MR); redesignated Apr 2017. Includes 161st Air Assault CAB, making it a first-tier rapid reaction force. [DOD CMPR 2024 p.97] [Wikipedia 83rd GA]
+- **Central Theater Command Air Force (中部战区空军)** [PLAAF] (ctcaf) — type: air_force_base, HQ: Beijing, strength: 100%. Manages PLAAF in CTC AOR. J-20 at 56th Bde (Zhengzhou). Wuhan base. Transport SAR brigade directly subordinate. [CASI J-20 Status 2024-04-29] [CASI/PLAAF Overview 2023]
+- **PLARF Base 66 (第六十六基地, Unit 96606)** [PLARF] (plarf_b66) — type: rocket_force_base, HQ: Luoyang, strength: 100%. HQ Luoyang, Henan. Central China; concentrates silo-based ICBMs and some road-mobile. 6 brigades: DF-5B/5C (silo nuclear), DF-31A/AG (mobile nuclear), DF-41 (mobile nuclear), DF-26 (dual). [POST-PURGE STATUS UNCERTAIN] [CNS PLARF OOB 2023] [Grey Dynamics 2024-07-30] [Wikipedia PLARF]
+- **PLARF Base 67 (第六十七基地) — Nuclear Weapons Storage** [PLARF] (plarf_b67) — type: rocket_force_base, HQ: Baoji, strength: 100%. HQ Baoji, Shaanxi. Formerly Base 22. Nuclear warhead storage, maintenance, and distribution; directly subordinate to CMC (not a standard firing base). Underground storage at Taibai County (Qin Mountains). Special security unit (96038). Not a combat missile firing base. [CNS PLARF OOB 2023] [Wikipedia PLARF]
+- **PLA Aerospace Force (航天部队)** [PLASSF] (pla_asf) — type: air_force_base, HQ: Beijing, strength: 100%. Established April 19, 2024 from PLASSF Aerospace Systems Department. Commands PLA space forces (reconnaissance, navigation, communications satellites, ASAT). Deputy Theater Command Leader grade; directly under CMC. [PLASSF was disbanded 2024-04-19] [Air University CASI 2024-04-22]
+- **PLA Cyberspace Force (网络空间部队)** [PLASSF] (pla_csf) — type: air_force_base, HQ: Beijing, strength: 100%. Established April 19, 2024 from PLASSF Network Systems Department. Handles offensive/defensive cyber operations. Deputy Theater Command Leader grade; directly under CMC. [Air University CASI 2024-04-22]
+- **PLA Information Support Force (信息支援部队)** [PLASSF] (pla_isf) — type: air_force_base, HQ: Beijing, strength: 100%. Established April 19, 2024; the primary successor formation to PLASSF. Commander: LtGen Bi Yi; Political Commissar: Gen Li Wei. Responsible for PLA communications networks and network defense (formerly Information Communications Base). Directly commanded by CMC. [Air University CASI 2024-04-22]
+- **PLA Air Force Airborne Corps (空降兵军)** [PLAAF] (airborne) — type: group_army, HQ: Xiaogan, strength: 100%. HQ Xiaogan, Hubei. Reports to CMC via PLAAF; wartime placed under theater commands. 5 airborne brigades + 1 air assault brigade; SOF brigade; aviation transport brigade. IISS 2025 confirms current structure. [Wikipedia PLAAF Airborne Corps] [IISS Military Balance 2025]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:THEATER] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

@@ -1,0 +1,12 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: IRIN 4th Naval District — Bandar Anzali (Caspian)
+
+**Unit ID**: irin_nd4
+**Service**: IRIN
+**Type**: naval_district
+**Headquarters**: Bandar Anzali, Gilan
+**Parent**: Islamic Republic of Iran Navy (IRIN) (irin)
+**Strength (% authorized)**: 80%
+**Notes**: Caspian Sea flotilla. Separate threat environment from southern naval forces. Operates Bayandor-class corvettes and patrol craft on Caspian. [DIA IMP 2019 p.27]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

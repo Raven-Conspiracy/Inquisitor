@@ -1,0 +1,12 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: IRGC Aerospace Force UAV Command
+
+**Unit ID**: irgcaf_uav
+**Service**: IRGC-AF
+**Type**: uav_command
+**Headquarters**: Tehran (dispersed bases)
+**Parent**: IRGC Aerospace Force (IRGCASF / IRGC-AF) (irgc_af)
+**Strength (% authorized)**: 100%
+**Notes**: Primary operator of Iran's Shahed-129/136, Mohajer-6, Ababil, Fotros, Karrar UAV families. Supplies Shahed-136 to Russia for Ukraine war. Technical support from Rayan Roshd Afzar. [DIA IMP 2019 p.21] [Iran Watch IRGC-AF 2020]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

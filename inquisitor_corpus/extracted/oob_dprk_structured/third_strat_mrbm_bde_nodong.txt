@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Hwasong-7 (Nodong/Rodong) MRBM Brigade (ELITE / first-tier)
+
+**Unit ID**: strat_mrbm_bde_nodong
+**Type**: rocket_brigade
+**Headquarters**: Sino-ri (regiment-sized unit confirmed at Sino-ri, 39°38'42"N 125°21'19"E); Panghyon area
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: Strategic Force MRBM/IRBM Brigade Group (Hwasong-7/12/Pukguksong-2) (strat_mrbm_bde_group)
+**Higher echelon**: KPA Strategic Force / Missile General Bureau (Jeonnyakgun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 88.0%
+**Notes**: ELITE. 200-300 Hwasong-7 missiles, 30 TELs. Targeting US forces in Japan (1,200-1,500km range). Sino-ri confirmed unit per Wikipedia Strategic Force. Brigade numbers not in unclassified open sources. [Wikipedia Strategic Force; DIA NKMP 2021]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

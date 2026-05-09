@@ -1,0 +1,13 @@
+# Russian Army — 35th Combined Arms Army
+
+**Unit ID**: 35ca
+**Type**: combined_arms_army
+**Headquarters**: Belogorsk
+**Parent District**: Eastern Military District (EMD)
+**Strength (% authorized)**: 58.0%
+**Notes**: South Donetsk
+
+## Subordinate Brigades (direct)
+- **36th Combined Arms Rgt** (36mrb_35) — type: motor_rifle, strength: 60.0%. None
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

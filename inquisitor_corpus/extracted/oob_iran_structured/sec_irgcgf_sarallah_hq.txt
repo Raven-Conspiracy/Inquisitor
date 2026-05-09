@@ -1,0 +1,16 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Sarallah Operational Headquarters (Tehran region)
+
+**Unit ID**: irgcgf_sarallah_hq
+**Service**: IRGC-GF
+**Type**: operational_headquarters
+**Headquarters**: Tehran
+**Parent**: IRGC Ground Forces (IRGCGF) (irgc_gf)
+**Strength (% authorized)**: 60%
+**Notes**: Multi-provincial HQ overseeing Tehran region IRGC GF, including Mohammad Rasoul Allah Provincial Corps (Tehran City) and Imam Hassan Mojtaba Corps (Alborz). Oversees 22 Basij regional bases in Tehran City. Sarallah HQ struck by IDF Mar 1, 2026. [CTP Mar 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+## Subordinate Division / Brigade / Squadrons
+- **Muhammad Rasoul Allah Provincial Corps (Tehran City)** (irgcgf_tehran_corp) — type: light_cab, HQ: Tehran City, strength: 65%. Largest IRGC provincial command. Commander: Mohammadreza Yazdi. Oversees 22+ Basij regional bases in Tehran City. Deployed elements to Syria during civil war. Sarallah HQ struck IDF Mar 1, 2026. [Wikipedia IRGC GF] [CTP Mar 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **Sepah-e Imam Hassan Mojtaba (Alborz Provincial Corps)** (irgcgf_alborz_corp) — type: light_cab, HQ: Karaj, Alborz, strength: 80%. Commander: Yousef Molaei. Part of Sarallah HQ which oversees capital region. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

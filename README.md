@@ -1,11 +1,12 @@
 # Omnissiah's Cypher — Mentor Training Corpus
 
-A 24,196-chunk / 22.2M-token corpus across two layered subtrees:
+A 30,677-chunk / 31.1M-token corpus across three layered subtrees:
 
 - **`corpus/`** — 17,241 chunks of US/NATO intelligence, military, and threat-equipment doctrine, plus a 490-pair mentor-style Q&A dataset for supervised fine-tuning a 0.6B-parameter "senior IC/military mentor" model.
 - **`joint_fires_corpus/`** — 6,955 chunks of joint fires & targeting analyst tradecraft (US Army 131A + USAF 13F/14N/Weapons School + USN Strike/NSFS curricula + deep PLA/PLAN/PLARF/PLAAF coverage + full kill-chain platforms & sensors). Designed to feed an AIP Agent in Palantir Foundry.
+- **`inquisitor_corpus/`** — 6,481 chunks for the **Inquisitor** Intel Support to Targeting orchestrator (350F persona): China + CT primary, with Ukraine 2022–2025 lessons-learned, structured OOB (CN/IR/DPRK/RU), and DPRK/Iran depth. Includes 413 hand-curated structured OOB unit records across 4 adversaries.
 
-See [`joint_fires_corpus/README.md`](joint_fires_corpus/README.md) for the second subtree's full bucket list and provenance.
+See [`joint_fires_corpus/README.md`](joint_fires_corpus/README.md) and [`inquisitor_corpus/README.md`](inquisitor_corpus/README.md) for full subtree provenance.
 
 ## What this is
 

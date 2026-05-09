@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 73rd GA Amphibious Combined Arms Brigade (1st Amphibious) (ELITE / first-tier)
+
+**Unit ID**: 73ga_1amphibcab
+**Type**: amphibious
+**Headquarters**: Xiamen area
+**Parent**: Group Army / Fleet / Base: 73rd Group Army (第七十三集团军) (73ga)
+**Higher echelon**: Eastern Theater Command (东部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: ZBD-05 amphibious IFV. First-tier amphibious unit; critical to Taiwan contingency. Brigade number not confirmed in public sources. [Wikipedia 73rd GA 2024] [DOD CMPR 2024 p.97]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

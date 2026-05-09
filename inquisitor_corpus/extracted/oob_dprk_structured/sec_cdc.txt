@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: Capital Defense Command (91st Corps)
+
+**Unit ID**: cdc
+**Service**: KPA Ground Forces
+**Type**: corps
+**Headquarters**: Pyongyang outskirts
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 85.0%
+**Notes**: ELITE. Protects Pyongyang from external attack (distinct from Pyongyang Defense Command which is regime protection). Designated as 91st Capital Defense Corps in some ROK sources. Sub-brigade composition not confirmed in unclassified open sources. [ROK DWP 2022; factsanddetails.com citing ROK MoD]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

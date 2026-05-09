@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Southwestern Regional Headquarters
+
+**Unit ID**: artesh_sw_rhq
+**Service**: Artesh
+**Type**: regional_headquarters
+**Headquarters**: Ahvaz, Khuzestan Province
+**Parent**: Islamic Republic of Iran Army (Artesh / IRIGF) (artesh)
+**Strength (% authorized)**: 85%
+**Notes**: Commander: BG2 Hossein Mohammad Shafiei (since Jan 2025). Covers Khuzestan, Lorestan. [CTP Artesh OOB Aug 2025]
+
+## Subordinate Division / Brigade / Squadrons
+- **92nd Armored Division** (div92_armd) — type: tank, HQ: Ahvaz, Khuzestan, strength: 85%. Commander: BG2 Mehrdad Amjadian (since Jan 2023). Iran's premier armored formation in southwest; guards Khuzestan oil fields. Brigades: 192nd Armored (Ahvaz), 292nd Armored (Dezful), 392nd Armored (Dasht-e Azadegan), 72nd Bde (Khorramshahr). [CTP Artesh OOB Aug 2025]
+- **84th Infantry Division** (div84_inf) — type: mountain, HQ: Khorramabad, Lorestan, strength: 80%. Commander: BG2 Bakhtiyar Karaminia (since Aug 2024). Brigades: 184th MAB (Khorramabad). Three deaths reported after Israeli drone strike June 19, 2025. [CTP Artesh OOB Aug 2025] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **45th Special Forces Brigade** (elite) (bde45_sf) — type: mountain, HQ: Shushtar, Khuzestan Province, strength: 85%. Commander: BG2 Mohammad Ebrahimi (since Dec 2022). [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

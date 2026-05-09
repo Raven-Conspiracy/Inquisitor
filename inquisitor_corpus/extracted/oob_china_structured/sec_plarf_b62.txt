@@ -1,0 +1,18 @@
+# Chinese PLA — Group Army / Fleet / Base: PLARF Base 62 (第六十二基地, Unit 96602)
+
+**Unit ID**: plarf_b62
+**Service**: PLARF
+**Type**: rocket_force_base
+**Headquarters**: Kunming
+**Parent**: Southern Theater Command (南部战区) (stc)
+**Strength (% authorized)**: 100%
+**Notes**: HQ Kunming, Yunnan. Covers southeastern China/South China Sea approaches. 7 brigades: DF-31AG (nuclear), DF-26 (dual), DF-17 (conventional hypersonic), DF-21D (anti-ship), DF-10A (cruise). [POST-PURGE STATUS UNCERTAIN] [CNS PLARF OOB 2023] [Grey Dynamics 2024-07-30]
+
+## Subordinate Brigade / Division / Flotillas
+- **621st Missile Brigade (DF-31AG ICBM, nuclear)** (elite) (plarf_621bde) — type: rocket_brigade, HQ: Yibin, Sichuan, strength: 100%. DF-31AG nuclear road-mobile ICBM. ~12 launchers. MUCD 96721. [CNS PLARF OOB 2023] [POST-PURGE STATUS UNCERTAIN]
+- **624th Missile Brigade (DF-21D ASBM)** (elite) (plarf_624bde) — type: rocket_brigade, HQ: Danzhou, Hainan, strength: 100%. DF-21D anti-ship ballistic missile ('carrier killer'). ~24 launchers. Possibly upgrading. MUCD 96724. [CNS PLARF OOB 2023] [Wikipedia PLARF]
+- **625th Missile Brigade (DF-26 IRBM)** (elite) (plarf_625bde) — type: rocket_brigade, HQ: Jianshui, Yunnan, strength: 100%. DF-26 dual-capable IRBM. ~36 launchers. MUCD 96725. [CNS PLARF OOB 2023]
+- **627th Missile Brigade (DF-17 HGV)** (elite) (plarf_627bde) — type: rocket_brigade, HQ: Puning, Guangdong, strength: 100%. DF-17 hypersonic glide vehicle. Base expansion underway 2025. MUCD 96727. [Wikipedia PLARF]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

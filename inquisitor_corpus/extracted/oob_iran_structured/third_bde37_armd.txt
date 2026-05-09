@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 37th Armored Brigade
+
+**Unit ID**: bde37_armd
+**Type**: tank
+**Headquarters**: Khaneh Khamis-e Sofla, Fars Province
+**Parent**: Service Branch: Islamic Republic of Iran Army (Artesh / IRIGF) (artesh)
+**Higher echelon**: —
+**Elite designation**: No
+**Strength (% authorized)**: 85%
+**Notes**: Commander: Col. Karam Ghorbani (since May 2025). Independent brigade in Fars; not under regional HQ. [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

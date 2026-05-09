@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 6th Marine Brigade (海军陆战队第6旅) (ELITE / first-tier)
+
+**Unit ID**: planmc_6mb
+**Type**: marine
+**Headquarters**: Sanya area (Hainan)
+**Parent**: Group Army / Fleet / Base: PLA Marine Corps (陆战队, PLANMC) (planmc)
+**Higher echelon**: ?
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: Formed 2017 expansion. Amphibious combined arms. First-tier. [Gunners Shot 2024-01-18]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

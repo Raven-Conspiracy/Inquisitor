@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: 2nd Air Combat Command (2nd ACC) / 2nd Air Combat Division
+
+**Unit ID**: kpaf_2acc
+**Service**: KPAF
+**Type**: air_division
+**Headquarters**: Toksan, East Coast
+**Parent**: Korean People's Army Air Force (Konggun) (kpaf)
+**Strength (% authorized)**: 50.0%
+**Notes**: East coast sector. Units include 56th Fighter Rgt (MiG-21PF/J-7/F-7 at Toksan), 25th Bomber Rgt (Il-28/H-5 at Changjin-Up), 46th Fighter Rgt (MiG-21PFM/F-5 at Wonsan), 66th Helicopter Rgt (Mi-14PL at Wonsan), 71st Fighter Rgt (MiG-21PFM at Kuum-ni), 72nd Fighter Rgt (MiG-21PFM at Hwangsuwon). [Wikipedia KPAF]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

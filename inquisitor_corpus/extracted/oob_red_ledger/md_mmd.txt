@@ -1,0 +1,12 @@
+# Russian Military District — Moscow Military District
+
+**District ID**: MMD
+**Headquarters**: Moscow
+**Commander (as of 2026-04-10)**: Col Gen Sergey Kuzovlev
+**Map color code**: #1a3a6b
+
+## Subordinate Field Armies / Corps
+- **1st Guards Tank Army** (1gta) — type: tank_army, HQ: Odintsovo, strength: 55.0%. Severely attrited; multiple divisions rebuilt from remnants
+- **20th Guards Combined Arms Army** (20gca) — type: combined_arms_army, HQ: Voronezh, strength: 60.0%. Deployed to Lyman sector
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:MD] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

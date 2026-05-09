@@ -1,0 +1,16 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Hamze-ye Sayyed al-Shohada Operational HQ (West/NW)
+
+**Unit ID**: irgcgf_hamze_hq
+**Service**: IRGC-GF
+**Type**: operational_headquarters
+**Headquarters**: Tabriz / Urmia area
+**Parent**: IRGC Ground Forces (IRGCGF) (irgc_gf)
+**Strength (% authorized)**: 80%
+**Notes**: Oversees Ashura (E. Azerbaijan), Shohada (W. Azerbaijan), Kurdistan Beit-ol-Moqaddas corps. [Wikipedia IRGC GF]
+
+## Subordinate Division / Brigade / Squadrons
+- **Sepah-e Shohada (West Azerbaijan Provincial Corps)** (irgcgf_w_az_corp) — type: light_cab, HQ: Urumia, West Azerbaijan, strength: 80%. Commander: Habib Shahsavari. [Wikipedia IRGC GF]
+- **Kurdistan Beit-ol-Moqaddas Corps** (irgcgf_kurd_corp) — type: light_cab, HQ: Sanandaj, Kurdistan, strength: 80%. Commander: Sadegh Hosseini. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

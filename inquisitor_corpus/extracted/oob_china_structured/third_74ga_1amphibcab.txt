@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 1st Amphibious Combined Arms Brigade (ELITE / first-tier)
+
+**Unit ID**: 74ga_1amphibcab
+**Type**: amphibious
+**Headquarters**: Huizhou area
+**Parent**: Group Army / Fleet / Base: 74th Group Army (第七十四集团军) (74ga)
+**Higher echelon**: Southern Theater Command (南部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: ZTD-05 amphibious assault guns, ZBD-05 IFV. First-tier amphibious unit. [Wikipedia 74th GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

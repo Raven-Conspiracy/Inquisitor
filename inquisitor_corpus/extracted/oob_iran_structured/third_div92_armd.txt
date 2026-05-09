@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 92nd Armored Division
+
+**Unit ID**: div92_armd
+**Type**: tank
+**Headquarters**: Ahvaz, Khuzestan
+**Parent**: Region / Provincial Corps / Base: Southwestern Regional Headquarters (artesh_sw_rhq)
+**Higher echelon**: Islamic Republic of Iran Army (Artesh / IRIGF)
+**Elite designation**: No
+**Strength (% authorized)**: 85%
+**Notes**: Commander: BG2 Mehrdad Amjadian (since Jan 2023). Iran's premier armored formation in southwest; guards Khuzestan oil fields. Brigades: 192nd Armored (Ahvaz), 292nd Armored (Dezful), 392nd Armored (Dasht-e Azadegan), 72nd Bde (Khorramshahr). [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

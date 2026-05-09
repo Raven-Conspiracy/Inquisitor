@@ -1,0 +1,15 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: IRGCN 5th Naval Region — Bandar Lengeh (Imam Mohammad Bagher)
+
+**Unit ID**: irgcn_nd5
+**Service**: IRGCN
+**Type**: naval_district
+**Headquarters**: Bandar Lengeh, Hormozgan
+**Parent**: IRGC Navy (IRGCN) (irgcn)
+**Strength (% authorized)**: 70%
+**Notes**: Southern Persian Gulf; controls access to disputed islands (Lesser Tunb, Greater Tunb, Abu Musa). Not targeted as of Mar 2026 per Alma Research. [DIA IMP 2019 p.28] [Wikipedia IRGCN]
+
+## Subordinate Division / Brigade / Squadrons
+- **IRGCN Sepah Navy Special Force (SNSF) — Forur Island** (elite) (irgcn_snsf) — type: amphibious, HQ: Forur Island, Persian Gulf, strength: 80%. Combat diving, direct action, counterterrorism, VBSS, amphibious assault. Analogous to MARSOF. Forur Island forward base in central Gulf. [DIA IMP 2019 p.29]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

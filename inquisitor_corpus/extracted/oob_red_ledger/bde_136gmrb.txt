@@ -1,0 +1,15 @@
+# Russian Brigade / Regiment — 136th Guards Motor Rifle Brigade (Guards)
+
+**Unit ID**: 136gmrb
+**Type**: motor_rifle
+**Parent**: Field Army: 58th Guards Combined Arms Army (58gca)
+**Parent District**: Southern Military District
+**Guards designation**: Yes
+**Strength (% authorized)**: 58.0%
+**Notes**: None
+
+## Authorized Equipment (with estimated combat losses)
+- **tank** — T-72B3 — authorized: 40, estimated lost: 18
+- **ifv** — BMP-2 — authorized: 100, estimated lost: 38
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:BDE] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

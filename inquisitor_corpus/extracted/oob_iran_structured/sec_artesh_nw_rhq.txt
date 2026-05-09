@@ -1,0 +1,18 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Northwestern Regional Headquarters
+
+**Unit ID**: artesh_nw_rhq
+**Service**: Artesh
+**Type**: regional_headquarters
+**Headquarters**: Urumiyeh, West Azerbaijan Province
+**Parent**: Islamic Republic of Iran Army (Artesh / IRIGF) (artesh)
+**Strength (% authorized)**: 85%
+**Notes**: Commander: BG2 Amir Hossein Shafiei (since Jul 2024). Covers Ardabil, East Azerbaijan, Ghazvin, Hamedan, West Azerbaijan, Zanjan provinces. [CTP Artesh OOB Aug 2025]
+
+## Subordinate Division / Brigade / Squadrons
+- **16th Armored Division** (div16_armd) — type: tank, HQ: Ghazvin City, Ghazvin Province, strength: 85%. Commander: BG2 Ali Karimi (since Feb 2025). Subordinate brigades: 116th Mechanized Assault Bde (Ghazvin), 316th Armored Bde (Hamedan). Post-2008 reorganization variant of older 16th Armored Division. [CTP Artesh OOB Aug 2025]
+- **21st Infantry Division** (div21_inf) — type: mountain, HQ: Tabriz, East Azerbaijan, strength: 85%. Commander: BG2 Issa Bayat (since Sep 2024). Subordinate brigades: 121st Bde (Tabriz), 221st Bde (Maragheh), 321st Mobile Assault Bde (Marand). [CTP Artesh OOB Aug 2025]
+- **64th Infantry Division** (div64_inf) — type: mountain, HQ: Urumiyeh, West Azerbaijan, strength: 85%. Commander: BG2 Abbas Jamshidi (since Jan 2024). Three mobile assault subordinate brigades: 164th (Piranshahr), 264th (Salmas), 364th (Mahabad). [CTP Artesh OOB Aug 2025]
+- **25th Special Forces Brigade** (elite) (bde25_sf) — type: mountain, HQ: Tabriz, East Azerbaijan, strength: 85%. Commander: Col. Hossein Sadegh Zadeh (since Jan 2025). Special Forces; part of Northwest command. [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,19 @@
+# Russian Division — 4th Guards 'Kantemirovskaya' Tank Division
+
+**Unit ID**: 4gtd
+**Type**: tank
+**Headquarters**: Naro-Fominsk
+**Parent Army**: 1st Guards Tank Army (1gta)
+**Parent District**: Moscow Military District
+**Strength (% authorized)**: 45.0%
+**Notes**: Severe losses; partially rebuilt
+
+## Subordinate Brigades / Regiments
+- **6th Tank Regiment (former brigade)** (Guards) (6tb) — type: tank, strength: 42.0%. None
+
+## Authorized Equipment (with estimated combat losses)
+- **tank** — T-80U/BVM, T-72B3 — authorized: 250, estimated lost: 138
+- **ifv** — BMP-2, BMP-3 — authorized: 180, estimated lost: 72
+- **artillery_sp** — 2S19 Msta-S, 2S3 Akatsiya — authorized: 72, estimated lost: 28
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:DIV] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

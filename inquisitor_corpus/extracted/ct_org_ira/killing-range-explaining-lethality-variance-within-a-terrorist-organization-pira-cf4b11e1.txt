@@ -1,0 +1,1538 @@
+Killing Range: Explaining Lethality Variance within a Terrorist Organization - PMC
+Skip to main content
+Official websites use .gov
+A
+.gov
+website belongs to an official
+                            government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock icon
+) or
+https://
+means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+Search PMC Full-Text Archive
+Search in PMC
+Journal List
+User Guide
+PERMALINK
+Copy
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+Learn more:
+PMC Disclaimer
+|
+PMC Copyright Notice
+J Conflict Resolut
+. 2015 Apr;59(3):401–427. doi:
+10.1177/0022002713508927
+Killing Range
+Explaining Lethality Variance within a Terrorist Organization
+Victor Asal
+Victor Asal
+1
+University at Albany, Albany, NY, USA
+Find articles by
+Victor Asal
+1
+,
+Paul Gill
+Paul Gill
+2
+Department of Security and Crime, University College London, London, UK
+Find articles by
+Paul Gill
+2,
+✉
+,
+R Karl Rethemeyer
+R Karl Rethemeyer
+1
+University at Albany, Albany, NY, USA
+Find articles by
+R Karl Rethemeyer
+1
+,
+John Horgan
+John Horgan
+3
+School of Criminology and Justice Studies, University of Massachusetts, MA, USA
+Find articles by
+John Horgan
+3
+Author information
+Article notes
+Copyright and License information
+1
+University at Albany, Albany, NY, USA
+2
+Department of Security and Crime, University College London, London, UK
+3
+School of Criminology and Justice Studies, University of Massachusetts, MA, USA
+✉
+Paul Gill, Department of Security and Crime, University College London, 35 Tavistock Square, London WC1H 9EZ, UK. Email:
+paul.gill@ucl.ac.uk
+Issue date 2015 Apr.
+© The Author(s) 2013
+This article is distributed under the terms of the Creative Commons Attribution-NonCommercial 3.0 License (
+http://www.creativecommons.org/licenses/by-nc/3.0/
+) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access page (
+http://www.uk.sagepub.com/aboutus/openaccess.htm
+).
+PMC Copyright notice
+PMCID: PMC4361499  PMID:
+25838603
+Abstract
+This paper presents an analysis of the Provisional Irish Republican Army's (PIRA) brigade level behavior during the Northern Ireland Conflict (1970-1998) and identifies the organizational factors that impact a brigade's lethality as measured via terrorist attacks. Key independent variables include levels of technical expertise, cadre age, counter-terrorism policies experienced, brigade size, and IED components and delivery methods. We find that technical expertise within a brigade allows for careful IED usage, which significantly minimizes civilian casualties (a specific strategic goal of PIRA) while increasing the ability to kill more high value targets with IEDs. Lethal counter-terrorism events also significantly affect a brigade's likelihood of killing both civilians and high-value targets but in different ways. Killing PIRA members significantly decreases IED fatalities but also significantly decreases the possibility of zero civilian IED-related deaths in a given year. Killing innocent Catholics in a Brigade's county significantly increases total and civilian IED fatalities. Together the results suggest the necessity to analyze dynamic situational variables that impact terrorist group behavior at the sub-unit level.
+Keywords:
+terrorism, improvised explosive device, Provisional IRA, lethality
+There is substantial evidence that, on average, terrorist organizations that are more capable and have more access to resources and information will be more lethal. Conversely, those that lack such abilities are likely to perform less well when they try to kill (
+Drake 1998a
+;
+Asal and Rethemeyer 2008b
+,
+2008c
+). These generalizations, while true for the aggregate, obscure the fact that different organizations do not always use their expertise to kill. Terrorist organizations engage in a wide variety of functional behaviors, not all of which are directly related to efforts to kill or cause destruction. Some organizations specifically plan attacks so that they are likely to kill no one (
+Taylor 1998
+;
+Ackerman 2003
+;
+Earth Liberation Front 2006
+). To effectively identify what specific factors affect organizational strategies, it is important to look inside organizations and identify those factors that push a specific organization to be lethal, not to be lethal, and perhaps most importantly to be
+selectively
+lethal. While there is a great deal of case study research on terrorist organizations, most of this work is qualitative in nature and is focused on situational factors that limit generalization (
+Drake 1991
+;
+Ross 1995
+;
+David 2003
+).
+Another key limitation of the current literature is a tremendous focus in the last decade on Islamist organizations (
+Whine 1999
+;
+Israeli 2002
+;
+Jones, Smith, and Weeding 2003
+;
+Lia and Hegghammer 2004
+;
+Zahab and Roy 2004
+;
+Sageman 2004
+,
+2008
+;
+Dalacoura 2006
+). While the Islamist terrorist threat is an important and obvious current concern, it is not the only type of ideology associated with terrorism. Also, the religious ideology that drives Islamist political violence is likely to create different factors that affect the lethality of the organizations under investigation (
+Asal and Rethemeyer 2008c
+). Specifically, Asal and Rethemeyer found that religious organizations are much more likely to be lethal than nonreligious organizations—which during the period they study is referring primarily to Islamist organizations (
+Horowitz and Potter 2013
+;
+Asal and Rethemeyer 2008a
+) and that certain other organizations (like environmental organizations) actively try to avoid killing (
+Asal and Rethemeyer 2008a
+). In addition to broadening the literature beyond a focus on Islamist terrorism, our efforts to examine the Provisional Irish Republican Army (PIRA) specifically allow us to tease out the internal organizational-level factors that moderate or increase the likelihood that an organization will be lethal, how lethal they will be, and who they are likely to target. The ability to gain some traction on the choice of targets—be they military or civilian—is also important given the divergence in the literature that exists on what terrorism actually means and how violent organizations differ (
+Schmid 1988
+;
+Schmid and Jongman 2005
+;
+Goodwin 2006
+). There is a huge normative argument about the utility of the term
+terrorist organization
+and how it should be applied (
+Schmid 1988
+;
+Schmid and Jongman 2005
+), with some saying the term is pointless (or used to normatively to delegitimize your opponents), while others see it as a powerful normative tool to identify those that are purposively targeting civilians on purpose (
+Chomsky 2002
+;
+Coady 2004
+). Although the normative aspect of targeting is not the primary focus of our research here, our analysis does allow us to shed some light (within one organization at least) on factors that impact how an organization makes targeting choices.
+1
+Our effort here is to disaggregate the efforts of one terrorist organization, PIRA, across geographic operational domains. We focus specifically at the factors that make improvised explosive devices (IEDs) and shooting attacks more or less lethal within a given geographic territory within a given year. IED types, brigade experience, size, and experiences of counterterrorism (CT) should all have an effect, but we believe the impact of these explanatory variables will differ in important ways. Although structural aspects (such as ideology) of a conflict matter, explanations of a terrorist organization’s lethality rates at the local level are rooted in dynamic situational variables. Through understanding which types of dynamic variables matter, it may provide policy makers and practitioners with an empirically informed understanding of what environmental factors influence the tempo and trajectory of violent terrorist campaigns and what subunit traits matter for threat assessments at the group level. However, we should also note at the outset the advantages and disadvantages of our particular focus on PIRA activity. By focusing on one specific organization over an extended time, we were able to gather a great deal of quantitative intraorganizational data that we were able to use to tease out the relative importance of organizational capabilities and the organizational action/state reaction cycle. At the same time, it is important to be modest in our claims: this analysis is for only one organization (prominent as it has been in the history of twentieth-century terrorism), and thus, we need to be careful drawing conclusions that are too broad in scope. We see this analysis as a first quantitative step in better understanding the internal factors that impact an organization’s lethality across space and time.
+The Northern Ireland Conflict
+This study focuses upon the ethnopolitical conflict in Northern Ireland from 1970 to 1998. Although a number of Republican militant groups were active in this time, including the Official Irish Republican Army (IRA), the Irish National Liberation Army, the Continuity IRA, the Real IRA, and the Irish People’s Liberation Organization, we narrow our focus solely to PIRA. PIRA were the most prolific nonstate militant grouping during this period in terms of both terrorist events and fatalities caused. Through a protracted campaign of violence, PIRA’s overall objective was to force the removal of Northern Ireland as part of the United Kingdom, thereby paving the way for the reestablishment of a thirty-two county Republic of Ireland.
+Following a split in the Republican movement in December 1969, PIRA was formed. Originally, PIRA strategy sought to quickly force British troops out of Northern Ireland by inflicting a high death toll and substantial economic costs and thereby swaying British public opinion against maintaining an active presence in Northern Ireland. By 1977, PIRA’s plans became more long term, and they started plotting a longer war of attrition that eventually led to an increased emphasis upon mainstream political mobilization through their political wing, Sinn Féin. In the years that followed, the Republican movement came to embrace what it internally referred to as
+Tactical Use of the Armed Struggle
+. Its attacks would become increasingly discriminate, surgical, and strategically oriented.
+PIRA were active for twenty-nine years and had a long time to get very good at killing people. Even if we only trace the development of skills and ties that could be exploited to target their enemies from the birth of PIRA in 1970 following state violence against protestors demanding civil rights (
+Moloney 2003
+), by 1979 the organization had ten years of active and successful practice (
+Sutton 1994
+). That year, PIRA operatives detonated a concealed trailer full of milk churns that had been packed with 227 kg of ammonium nitrate explosives as a convoy of five British Army vehicles passed. Revealing a great deal of malevolent creativity, the trailer had been surrounded by petrol cans that further enhanced the explosion’s ferocity (
+Oppenheimer 2009
+, 113). This detonation blew up the second truck in the convoy, killing six soldiers of the Parachute Regiment that had been responsible for the Bloody Sunday massacre that killed thirteen innocent civil rights marchers seven years prior. Immediately, PIRA snipers fired on the rest of the convoy. The surviving soldiers sought cover behind the gates of a nearby gatehouse. Anticipating this retreat ahead of time, PIRA had already placed an even larger 450-kg IED using a homemade mixture of ammonium nitrate, nitroglycerine, and coal. Upon additional rescue teams arriving to save the retreating survivors, PIRA operatives detonated the second bomb using a remote control trigger, killing a further twelve soldiers (
+Oppenheimer 2009
+, 113-14).
+Such examples however mask the fact that a large proportion of PIRA’s acts of violence caused zero fatalities. For example, of the 5,461 PIRA IEDs, we coded as part of the bigger data-driven project from which this article draws (“From Bomb to Bomb-Maker”), only 8.7 percent killed at least one person (on many occasions at the beginning of the conflict, the sole victim was the IED planter who died due to a premature explosion—such incidents are not counted in the following analyses). The relatively discriminative impression these results produce are a reflection of PIRA’s strategy of aiming to limit civilian deaths (through the provision of advanced warnings), bombing economic targets in the middle of the night, and increasing the economic costs of the United Kingdom’s continued presence within Northern Ireland.
+Our analysis focuses largely upon PIRA’s IED usage. We define an explosive device as an IED if any or all of the following are modified in any respect from its original expressed or intended function: explosive ingredient, initiation, triggering or detonation mechanism, delivery system. IED components can incorporate military grade munitions, commercial explosives, or homemade explosives. An explosive device is not considered an IED when “no aspect of its deployment or fabrication is innovated” upon (
+Gill, Horgan, and Lovelace, 2011
+, 742). PIRA’s use of Soviet-manufactured rocket-propelled grenades called RPG-7s was not included in our analysis.
+As
+Figures 1
+through 3 illustrate, PIRA’s use of IEDs ebbed and flowed over the course of its twenty-nine-year conflict. The biggest spike occurred over the opening two years as violence on both sides reached its peak. During this time, PIRA’s use of car bombs dramatically accelerated upon developing ammonium nitrate explosives requiring a delivery system capable of carrying hundreds of kilos of the mixture. The subsequent dip from 1972 to 1975 is largely attributable to British counterterrorism policy of blocking off PIRA’s supply of commercial explosives (which were largely obtained through mining companies and robberies south of the border). Also, PIRA’s strategy of a quick military victory began to give way to a strategy based on a war of attrition. As such, the scale and intensity of IED attacks began to decrease in lethality but increased in frequency through the late 1970s as PIRA began to regularly use small, timer-based incendiary devices against commercial business premises. The idea behind these attacks was to minimize the possibility of civilian casualties by timing the ignition in the middle of the night but still to allow for maximum economic damage. PIRA hoped that the increasing costs of maintaining a visible British presence in Northern Ireland would ultimately tempt British voters to pressurize incumbent regimes to withdraw political and territorial interest from Northern Ireland. The growing politicization of the Republican movement through the 1980s accompanied a perceived downgrading in PIRA’s ability to consistently engage in fatal attacks (
+Moloney 2010
+). Interestingly, while private negotiations for peace with the British (between 1990 and 1994) were at their peak, PIRA’s use of IEDs gradually rose with 1993 experiencing the fourth-highest number of IED events in any given year of the conflict. In effect, PIRA had learned from previous negotiations that the only way to strengthen their position at the bargaining table while keeping active supporters and rank and file recruits happy was to gradually step up their violent (but not necessarily fatal) activities. The ability of PIRA to “turn…bombing[s] on and off like a tap” came to represent one of their signature capabilities throughout both formal and informal negotiations (
+Coogan 2002
+, 399).
+Figure 1.
+Open in a new tab
+PIRA IED events across time. Note: PIRA = Provisional Irish Republican Army; IED = improvised explosive device.
+The remaining figures in this section disaggregate PIRA’s campaign into five discrete phases of activity. Our intention is to illustrate how organizational changes in structure and strategy impact the trajectory of violent events, types of events typically engaged upon, and their outcomes. The first phase is from 1969 to 1976. During this period, PIRA structured themselves like an army composed of various brigades, battalions, and companies. Each unit was responsible for specific geographical areas of operation, both combat and noncombat related. Indiscriminate violence by both sides of the conflict marked this period, the most defining moment being “Bloody Sunday” when the British Army shot and killed thirteen innocent civil rights marchers. This was an unprecedented propaganda coup for PIRA and led to mass recruitment and mobilization. Civilian fatalities attributed to PIRA also peaked during this phase and included the events of “Bloody Friday” where, in under two hours, 22 IEDs killed 9 (6 civilians, 2 British Soldiers, and 1 Ulster Defence Association member) and injured a further 130.
+The second phase, from 1977 to 1980, is significant for a number of reasons. First, there was a large-scale reorganization of PIRA’s structure to a tighter cellular based network in which cells acted independently of one another. This change placed far less emphasis on the quantity of volunteers and far more emphasis on secrecy and discipline. Almost instantly, the effects of the structural changes were noticeable. Four hundred sixty-five fewer charges for paramilitary offences occurred within a year (
+Smith, 1997
+, 145). Second, a number of leadership changes occurred whereby younger Northern born-and-bred members (such as Gerry Adams and Martin McGuinness) became PIRA chiefs of staff in the late 1970s (
+Moloney 2003
+, 513).
+The third phase covered the period from 1981 to 1989 and encompasses the growing politicization of the Republican movement that occurred after the Hunger Strikes. In total, ten Republicans died during hunger strikes in 1981; seven were PIRA members. Additionally, PIRA’s Bobby Sands was elected to Westminster after winning a by-election while on a hunger strike. Sympathy for PIRA began to rise again, and this was largely channeled toward PIRA’s political wing,
+Sinn Fein
+, by organizational elites.
+Phase 4 (1990–1994) includes the negotiations and pathway toward ceasefires undertaken secretly by organizational elites. Much of this was carried on unbeknownst to the wider cadre. Phase 5 (1995–1998) incorporates the period in which the negotiations were made public and the march toward the final ceasefire and Good Friday Agreement that symbolized for many the end of the Northern Ireland conflict.
+Figure 2
+neatly illustrates the substantial drop in the numbers of fatalities and injuries through PIRA’s IED activity across time. Phase 1 averages 70.57 fatalities a year, while the figures for phases 2 through 5 are 28, 32.5, 20.8, and 4.125, respectively.
+Figure 2.
+Open in a new tab
+Attacks, fatalities, and injuries, by period.
+However,
+Figure 3
+illustrates that when calculated as a ratio, the average number of injuries attributed to PIRA IEDs increases in the final phases of the conflict.
+Figure 3.
+Open in a new tab
+Mean fatalities and injuries per attack.
+Theory
+One of the major findings in the quantitative analysis of the lethality of terrorist organizations is that organizational factors do indeed matter (
+Asal and Rethemeyer 2008c
+). Asal and Rethemeyer found that organizational size, connections, and ideology all had a significant impact on the lethality of terrorist organizations. However, their analysis reflects an aggregate cross-organizational perspective focusing upon a wide array of ideologies and does not take differences in tactics into account. What may be true of organizations in the aggregate may not be true if we disaggregate organizations (
+Helfstein and Wright 2011
+). One confounding factor may be that ideological differences hide important differences at the suborganizational level.
+Drake (1998a
+, 53) notes that ideology relates to targeting practices of terrorist organizations because “it sets out the moral framework within which they operate.” Similarly, a number of scholars note that the “new terrorist” organizations are more lethal and attribute this difference in lethality to religious ideology: religious ideologies are in some cases “more permissive of violent and deadly acts” (
+Laqueur 1998
+).
+Further,
+Asal and Rethemeyer (2008a
+, 438) argue that two factors shape how intrinsically linked any ideology is to deadliness. The first point relates to whether the organization’s audience is earthly or supernatural. The second point relates to an organization’s ability to “clearly and cleanly define an ‘other.’” Ideology, however, cannot explain divergences in lethality within a single organization. Within a terrorist organization, the ideology’s audience and ability to “other” the enemy remain relatively constant (although it must be stated that components of PIRA were more sectarian than others while some politicized earlier than others). The same is true for other variables often labeled “root causes” of terrorism, such as rates of democracy and state sponsorship (
+Helfstein and Wright 2011
+). The reasons for varying rates of lethality within an organization must lay elsewhere. Our contention is that subunit capability (conceptualized as unit size, levels of professional training, and experience) and blue team (e.g., those actors charged with countering terrorism such as the military or police) activity combine to make particular forms of fatal violence more likely within particular components of a terrorist organization.
+When Smarter Is Better than Bigger: Human Capital
+The social movement literature has long established that resources are key to the success of organizations (
+McCarthy and Zald 1977
+) and the lack of resources has been seen to limit what terrorist organizations can do (
+Boyns and Ballard 2004
+). Human capital is often depicted as the key resource (
+Boyns and Ballard 2004
+;
+Asal and Rethemeyer 2008c
+). Jackson points out that larger terrorist organizations should be better at adopting and making effective use of new technologies (
+Jackson 2001
+). All else being equal we would expect larger organizations to be more lethal. Contrary to
+Jackson (2001
+),
+Oots (1986
+, 69-72) makes the case that when it comes to carrying out attacks, larger organizational structures are likely to be less effective because they require resources to maintain them.
+McCormick (2003)
+makes a similar argument about the tensions between an organization trying to protect itself while still trying to carry out its attacks.
+These arguments treat terrorist organizations as single entities and do not examine them as coexisting subunits. While we can measure terrorist attack counts by whole organizations, if the organization is big enough it is misleading to say that an attack is conducted by an entire organization. Thus, when we look at a terrorist organization’s component parts the logic may be different than for the organization as a whole. In the case of PIRA, attacks were carried out by different brigades (who themselves had specialized roles and responsibilities) and rarely as attacks orchestrated by the organization as a whole (
+Horgan and Taylor 1997
+). Indeed, PIRA’s claims of responsibility often attributed attacks to particular brigades or battalions.
+Another possibility to consider is that the size of an organizational component will have a differential impact depending on the type of attack that is carried out. The level of expertise that a type of attack demands should have an impact on how human resources impact the success of that kind of attack (
+Jackson 2009
+, 12-13). The level of technical expertise needed for an average shooting attack for example could be considered low—so the impact of having more people with technical skills should be minimal. On the other hand, complex attacks demand a higher level of organization, expertise, and security (if you assume that complex attacks have the potential to be more spectacular in their consequences;
+Drake 1998a
+,
+1998b
+;
+Jackson 2009
+, 12-13). Firsthand accounts of PIRA training suggest that a disproportionate amount of time was spent on IED training compared to shooting (see
+O’Callaghan 1999
+), which leads us to suggest that IEDs are generally more complex than shooting attacks and their successful execution depends more on knowledge at the individual bomb maker and his or her network affiliates’ level. Further to this,
+Johnson and Braithwaite (2009)
+illustrate that IED attacks form tighter space-time clusters than do non-IED events, which indicates that IED attacks involve more planning, training, materials, expertise, and local support.
+Knowledge at the individual level, rather than group size, may therefore be a more important factor for determining the effectiveness of IEDs compared to shooting attacks. In fact, complex attacks have the potential to be more spectacular in their consequences, and certainly are more likely to portray the group responsible as more sophisticated with the ability to coordinate multiple, simultaneous efforts. However, group size also matters. On one hand, the larger the group, the more likely a group is to have in its ranks an individual with the requisite knowledge to build a sophisticated IED. On the other hand, larger groups are more likely to leak information to counterterrorism agencies and thus increase the chances of early detection. On balance, we believe the relationship is likely to be in favor of larger groups: larger groups contain more knowledge, and more knowledge leads to greater success. Thus, group size and total knowledge should be related positively to one another from this perspective.
+Separate from the knowledge argument is one based in experience.
+Asal and Rethemeyer (2008a)
+have found that
+lack
+of experience reduces lethality in their cross-national study, as has
+Jackson (2001
+; though Jackson used the age of the organization as a proxy). As
+Hoffman (1999
+, 25) argues, “An almost Darwinian principle of natural selection…seems to affect terrorist organizations, whereby every new terrorist generation learns from its predecessors…Terrorists often analyze the mistakes made by former comrades who have been killed or apprehended.” Thus, we expect that having more experienced cadre in a brigade should also allow for an organization to be more effective in its use of IEDs. Given the relative lack of sophistication needed to perpetrate shooting attacks, the same should not hold true for such attacks at the brigade level.
+Human capital can also be measured in outputs and not just inner traits such as experience and technical expertise. Not all IEDs and their constituent initiation systems are created equally, with some being more difficult than others.
+2
+Similarly, not all target types are equal. High-value targets such as military personnel, military infrastructure, police, or politicians are far more target hardened than most areas heavily frequented by civilian populations. While attacks against high-value targets may have a much higher pay off if they succeed, attacks that are easier (in both their deployment and who they target) should be more successful on average (
+Jackson 2009
+;
+Drake 1998a
+,
+1998b
+). In other words, when a brigade tries to carry off an attack using a device that is harder to construct the likelihood of success should fall. By the same token, brigades intent on using an IED (as opposed to opting for a shooting attack with multiple offenders) to attack a hardened target are more likely to fail but also need a more sophisticated device to succeed. Organizational decision makers are therefore constrained when choosing attack types and targets. Having limited resources (i.e., IED components and personnel), decision makers must choose between attacking soft or hard targets using complex or simple IEDs and IED components. Given the relative ease of attacking civilians, simple IEDs are likely to be chosen. Given the relative difficulty of attacking high-value targets, multifaceted IEDs and complex attacks (defined as attacks involved more than one attack type) are more likely to be chosen despite the higher chance of failure. While the most lethal attacks are likely to be complex ones targeting civilians, there are fewer incentives to use such tactics given the fact that simpler means can also cause a great deal of death and destruction against weakly guarded targets (
+Dolnik and Bhattacharjee 2002
+).
+We derive the following hypotheses from this discussion:
+Hypothesis 1:
+Larger brigades should kill more.
+Hypothesis 2:
+Brigades with more knowledge (measured as age and training) should kill more people with IED attacks.
+Hypothesis 3:
+Brigades with more knowledge (measured as age and training) should kill fewer people with shooting attacks.
+Hypothesis 4:
+Complex attacks should kill more than simple attacks.
+The Impact of Counterterrorism
+Counterterrorism efforts are designed to impact how terrorists behave. Yet, whether and how this precisely happens is often less than clear. A report from 2006 found that (1) very little rigorous empirical research exists, (2) what does exist provides little support for most common policies, and (3) the one policy that does seem to have an effect works in the wrong direction: retaliatory raids
+increased
+terrorism (
+Lum, Kennedy, and Sherley 2006
+). More recent work focusing on particular cases or surveys of the literature has found either a complicated picture or a nonproductive: counterterrorism activities are ineffective or counterproductive (
+Duyvesteyn 2008
+;
+Feridun and Shahbaz 2010
+;
+Fielding and Shortland 2010
+). An analysis of PIRA terrorism found that most counterterrorist efforts resulted in an increase in terrorist activity and thereby could be characterized by a “backlash” model of counterterrorism (
+LaFree, Dugan, and Korte 2009
+). We should note that due to a specific interest in the impact of discriminate (e.g., the killing of PIRA members) versus indiscriminate (e.g., the killing of Catholic noncombatants) violence our focus here is on proactive offensive state attacks and not on other types of repression that are not specifically violent in nature like situational crime prevention measures such as checkpoints and curfews or judicial deterrence measures such as punitive sentencing.
+Benmelech, Berrebi, and Klor (2010
+) suggest an important distinction when it comes to counterterrorism. They found that targeted house demolitions that destroyed the homes of people engaged in suicide terrorism reduced suicide attacks, while house demolitions that were carried out against property not directly associated with the specific suicide attack increased subsequent terrorism. Byman, examining Israel’s policies of targeted killing found that such assassinations reduced the effectiveness of Hamas terrorism against Israel (
+Byman 2006
+), although others have found no effect (
+Hafez and Hatfield 2006
+). The
+Benmelech, Berrebi, and Klor (2010
+) and
+LaFree, Dugan, and Korte (2009
+) articles both suggest that counterterrorism actions can create a backlash. Benmelech et al. and Byman’s articles introduce an interesting and potentially very important caveat. While we can assume that both kinds of attacks are likely to hurt the brigade, indiscriminate attacks compensate for this pain by making the group more popular and creating more support.
+McCauley and Moskalenko (2008
+) argue that this is exactly one of the reasons why terrorist organizations stage attacks: attacks provoke repression and make terrorist organizations more popular and stronger—something they label Jujitsu Politics (a term first coined by
+Sharp [1965
+] in the context of
+non
+violent conflict resolution). On the other hand, violence directed specifically at the organization appears to lower the amount of subsequent terrorism. We derive the following hypotheses from this discussion:
+Hypothesis 5:
+Indiscriminate counterterrorism killings should increase the number of people killed by IEDs and shootings.
+Hypothesis 6:
+Discriminate counterterrorism killings should reduce the number of people killed by IEDs and shootings.
+Data
+The data are an aggregation of 5,461 PIRA IED events, all fatal PIRA shootings, and the sociodemographic and operational behaviors of 1,240 PIRA members for the years 1970 to 1998. Similar to many quantitative studies of terrorism and political violence, there exist a number of data constraints in this study. However, after an eighteen-month data collection effort across multiple data sources, we feel that this is the best data available. From a research perspective, focusing upon intraorganizational dynamics allows us to hold constant many of the environmental and systemic variables that may confound other studies.
+For this article, PIRA is disaggregated into six discrete subunits, each of which encompasses a county of Northern Ireland. Although not an exact fit to PIRA’s command and functional structure, it acts as the only realizable proxy measure. PIRA was largely structured along geographic lines in a number of ways. First, PIRA was split into two command areas: southern and northern. Northern Command includes both the six counties of Northern Ireland and the border counties of Cavan, Donegal, Leitrim, Louth, and Monaghan. Northern Command therefore covered the main theater of conflict. In turn, Northern Command was composed of brigadiers, brigades, operations commanders, and active service units of typically four individual PIRA members. Southern Command constituted the other twenty-one counties of the Republic of Ireland and its duties largely encompassed logistical support for Northern Command activities. Tasks included training, funding, storing, and moving arms as well as provision of safehouses (
+Horgan and Taylor 1997
+). Often, active service units (ASUs) operated within their own locality (
+Horgan and Taylor 1997
+, 20).
+White and White’s (1991)
+interviews with former senior PIRA figures explain why. “Reasons for this would be to avail of local facilities before, during and after operations, such as safehouses where they would be recognized without difficulty, and also because of familiarity with the operational area (a vital aspect of the operational ‘cycle’—target selection, planning, escape routes, etc.). Perhaps, however, this may be seen to have a detrimental effect on the internal security of ASUs—after all, it is far more difficult being required not to know the identity of one’s ASU colleague if, in fact, Volunteers are operating in their ‘own’ locality” (
+Horgan and Taylor, 1997
+, 22). When questioned what makes a successful member of PIRA, Sean MacStiofain (a former member of PIRA Chief of Staff), noted that “A person has got to be from the locality, right?…He’s got to be respected within his own community, right? So therefore he has the protection of the community. Like he becomes a fish who can swim…He has got to have an intimate knowledge of his—the areas he’s going to operate in. He has got to be considerate about the needs of his own community” (
+White and White 1991
+, 107).
+The prime location of PIRA violence occurred within the six counties of Northern Ireland. For this study, we aggregated yearly counts of aspects of IED usage, fatal PIRA shooting events, fatal counterterrorism events, and a database of convicted PIRA members for each county. While PIRA’s repertoires of violence also incorporated punishment beatings, kidnappings, and bank robberies, we specifically focus upon aggregate counts of IEDs and shootings because they were the tactics most associated with lethal forms of violence. In total, there are 174 observations (6 counties × 29 years). Each observation contains yearly counts of the IEDs detonated as intended or were “duds.” We also count the number of each of the following: initiations systems used within a county in a given year: timer-initiated, wire-initiated, remote-initiated, projectile-initiated, booby trap–initiated, impact-initiated, and victim-initiated devices. Counts of the following IED types were also included in the analysis: letter bombs, pipe bombs, grenades, homemade bombs, static munitions, buried IEDs, undervehicle IEDs, car bombs, mortars, and rockets. We also tallied the number of complex IED events. We defined complex IED events as those where the IED was used in conjunction with another types of violent event such as machine gun fire or sniper fire.
+Our metric of counterterrorism activity is a count of the PIRA members and innocent Catholics killed by the British Army and the Royal Ulster Constabulary. It should be noted that these two counts do not reflect the whole counterterrorism picture. Policies such as internment did not directly cause fatalities but caused a later backlash from the Catholic community and ultimately increased PIRA’s ability to recruit new individuals and mobilize mass support. On the other hand, prison-related policy changes such as the withdrawal of the Special Category Status eventually led to the 1981 Hunger Strikes in which seven PIRA and three Irish National Liberation Army members died. When counterterrorism policies
+indirectly
+lead to the deaths of PIRA members (such as the Hunger Strikes) these deaths were not counted in our analysis. Other counterterrorism policies and actions such as the use of informants and the capture of bomb-making facilities would also impinge upon PIRA’s ability to engage in lethal IED attacks, but such data were difficult to collect in a systematic way.
+Our data set included a set of PIRA subunit traits, including a count of members in the Brigade each year; a measure of how big the subunit was in relation to the other five units each year; the mean age of the subunits’ members; the proportion of subunit members who possessed professional skills that could be applied to bomb making; and the number of fatalities the subunit caused through IEDs and shootings across target types (including civilians and high-value targets). High-value targets encompass a collection of Northern Ireland security forces such as the British Army, the Royal Ulster Constabulary (the Northern Ireland police force), the Ulster Defence Regiment, and the Royal Irish Regiment as well as government officials (both elected and unelected) and other political figures.
+The aggregate measures for the IED-related variables stem from a newly constructed data set of 5,461 events collected as part of the “From Bomb to Bomb-Maker” project. The data were collected through a mixture of LexisNexis and Irish Times archival stories. The aggregate measures for deaths by the British Army and other counterterrorism forces are collected through McKittrick et al.’s definitive list of war dead from the Northern Ireland conflict. The subunit trait variables were aggregated by brigade from a database of 1,240 individuals who were either convicted of PIRA-related activities (including membership) or died on “active service,” a term used by PIRA to describe a member’s involvement in PIRA-related activities. For the purposes of the data collection, being engaged in “active service” included both violent activities (e.g. bombing attacks) and nonviolent activities (e.g., training accidents). The individuals were identified from a number of open sources: (1) statements by PIRA including their annual Roll of Honor, which commemorates their war dead; (2) the Belfast Graves publication that offers an account of Republicans killed in combat; (3) McKittrick et al. mentioned earlier; and (4) historical accounts of PIRA from academic sources. These names were subsequently coded for a number of sociodemographic, operational, and network variables using the Irish Times archives. Each piece of data (IED event, blue team activity, PIRA militant) was coded twice by separate coders and cross-checked for validity.
+Method
+The unit of analysis is brigade-year. Four dependent variables were studied: total fatalities, civilian fatalities, fatalities among high-value targets (such as security forces, politicians, etc.), and fatalities from shootings. Each dependent variable is a count of the fatalities attributed to each brigade during a year between 1970 and 1998.
+Given that the dependent variables are counts generated by a rare event—deaths from a terrorist attack—count models were employed. The data have two potential issues that must be accommodated during technique selection: (1) there is evidence of overdispersion of the dependent variable—in all four cases, the mean of the counts is smaller than the standard deviation and (2) the presence of a large number of zeros in the dependent variable (
+Long 1997
+;
+Cameron and Trivedi 1998
+;
+Long and Freese 2003
+). Problem (1) suggests using a negative binomial model. However, when we modeled the data using a zero-inflated negative binomial technique, the coefficient on α, which captures the overdispersion, was not statistically significant in three of the four models. In the one case where α was significant, the results were not materially different from those generated by a Poisson model. For simplicity, we have thus used a Poisson distribution for models reported below.
+With respect to Problem (2), we compared the results from both the standard and the zero-inflated Poisson (ZIP) models. The ZIP model incorporates a two-step decision process into the model assumptions. The decision whether to kill or not is separated (analytically speaking) from the decision regarding how many people to kill. ZIP allows for the possibility that zeros in the model are present because brigades have chosen not to kill or because they were incapable of executing a fatal attack during a given year. ZIP is attractive precisely because it can accommodate these complexities in the data. In order to verify that the decisions are independent and should be modeled simultaneously but independently, a
+Vuong (1989
+) test, which compares the fit of the zero-inflated model to the standard negative binomial regression model, was executed and is reported in the results table. In all four models, the Vuong statistic clearly indicates that a zero-inflated model is superior.
+In all four models, we attempted to include “phase” and brigade controls to account for panel fixed effects. We also included controls for the mix of device and initiation types used in IEDs over time, which could covary with our key training and age variables. However, because some types of attacks were highly correlated with brigade, phase, or type of attacks being modeled, the controls could not always be included. Unlike other count models, there is no difference in “exposure”—that is, length of time over which the count would be accumulated—so there are no controls for exposure in these models.
+Because there are clear reasons to believe there are commonalities across time in the behaviors of brigades, we adjusted the standard errors for brigade-level clustering (
+Rogers 1993
+). The resulting standard errors trade some efficiency for greater robustness.
+All four models reported χ
+2
+tests that were statistically significant at
+p
+< .001. That is, all models were better than a simple mean. Statistical significance of coefficients was measured at the 0.1 percent, 1 percent, and 5 percent levels, except as otherwise noted.
+Each of the four dependent variables was modeled independently, and the zero-inflation and count components of the estimations were modeled using a selection of variables that accorded to the understanding of factors that drove the respective dependent variables. Across all four models, we also discovered that some variables had to be deleted to cope with high collinearity or problems with convergence of the model, and the IED-related controls are, of course, not included in the modeling of shooting fatalities. Thus, the results tables include a large number of controls. The central findings for each model revolve around a set of key variables—see the first eight variables listed in both the count and zero-inflation components of the estimations. These eight variables are the ones we were most interested in exploring. They capture the role of training, participation in PIRA, counterterrorism activities by British authorities, membership size, membership age, and number of members killed during a given brigade-year. However, in our analysis, we point to some interesting findings for each of the models that are not necessarily found across all four estimations. See
+Table 1
+for a descriptive analysis of each independent variable.
+Table 1.
+Descriptive Analysis of Independent Variables.
+Variable
+N
+M
+SD
+Minimum
+Maximum
+Antrim
+174
+0.166667
+0.373754
+0
+1
+Armagh
+174
+0.166667
+0.373754
+0
+1
+Not a complex attack (1 =
+no
+)
+174
+8.413793
+8.323033
+0
+60
+Complex attack (
+ct
+)
+174
+4.954023
+7.149774
+0
+40
+Detonated as intend
+174
+9.787356
+10.74323
+0
+78
+Count, IEDs that failed to detonate
+174
+0.563218
+1.701418
+0
+16
+Down
+174
+0.166667
+0.373754
+0
+1
+Phase 1
+174
+0.241379
+0.429155
+0
+1
+Phase 2
+174
+0.137931
+0.345823
+0
+1
+Phase 3
+174
+0.310345
+0.46397
+0
+1
+Phase 4
+174
+0.172414
+0.37883
+0
+1
+Phase 5
+174
+0.137931
+0.345823
+0
+1
+Killing by CT, PIRA members (
+ct
+)
+174
+0.954023
+2.568858
+0
+25
+Killings by CT, civilians (
+ct
+)
+174
+0.948276
+3.1223
+0
+23
+Fatalities, civilians
+174
+0.844828
+2.251281
+0
+14
+Fatalities, by shooting
+174
+5.172414
+8.14352
+0
+74
+Fatalities among targeted groups
+174
+1.465517
+2.520773
+0
+18
+Total fatalities
+174
+2.557471
+3.863962
+0
+19
+Fermanagh
+174
+0.166667
+0.373754
+0
+1
+IED type: Grenade
+174
+0.247126
+0.655671
+0
+4
+IED type: “homemade”
+174
+1.655172
+2.969314
+0
+24
+IED type: letter
+174
+0.218391
+1.002024
+0
+11
+IED type: mortar
+174
+1.362069
+2.907226
+0
+19
+IED type: rocket
+174
+0.08046
+0.363617
+0
+3
+Initiation type: booby trap
+174
+1.155172
+1.803674
+0
+11
+Initiation type: impact
+174
+1.413793
+2.820453
+0
+14
+Initiation type: Projectile
+174
+0.16092
+1.257335
+0
+16
+Initiation type: remote
+174
+0.316092
+0.727713
+0
+5
+Initiation type: timer
+174
+0.534483
+1.105146
+0
+7
+Londonderry
+174
+0.166667
+0.373754
+0
+1
+Member average age
+168
+25.84527
+9.281119
+0
+50.28
+Membership size (
+ct
+)
+174
+15.52299
+20.42545
+0
+114
+Number of members killed
+174
+1.45977
+3.9088
+0
+44
+Number of initiation types used
+174
+3.534483
+2.094989
+0
+9
+Number of IED types used
+174
+2.798851
+1.594716
+0
+7
+Relative size of brigade in PIRA
+174
+17.0008
+18.28748
+0
+78.37
+% of brigade professionally trained
+173
+15.80613
+17.34554
+0
+100
+Target: civilians
+174
+0.568966
+1.049835
+0
+5
+Target: military
+174
+1.672414
+2.211802
+0
+11
+Target: transportation
+174
+0.597701
+1.637422
+0
+12
+Tyrone
+174
+0.166667
+0.373754
+0
+1
+Open in a new tab
+Note:
+PIRA = Provisional Irish Republican Army; IED = improvised explosive device.
+Analysis
+Table 2
+contains the estimated coefficients for the count component of the ZIP models for all four dependent variables.
+Table 2.
+Zero-inflated Poisson (ZIP) Estimates, Total Fatalities, Civilian Fatalities, Fatalities among Targeted Groups, and Fatalities for Shootings.
+Count component
+Total IED fatalities
+Civilian IED fatalities
+High-value target IED fatalities
+Shooting fatalities
+Relative size of brigade in PIRA
+−0.0352*** (0.00197)
+0.0364 (0.0768)
+−0.0400 (0.0469)
+−0.00852 (0.00697)
+Complex attack (
+ct
+)
+0.0113 (0.0118)
+0.196*** (0.0338)
+−0.0454*** (0.0135)
+0.0220*** (0.00539)
+% of brigade professionally trained
+−0.0152*** (0.00432)
+−0.0696*** (0.0194)
+−0.00500 (0.0120)
+−0.00535 (0.00561)
+Member average age
+0.0170 (0.00978)
+0.0477 (0.0427)
+0.0196 (0.0169)
+0.00788 (0.0198)
+Number of members killed
+0.00287 (0.0151)
+−0.123 (0.132)
+−0.121 (0.0876)
+−0.0100 (0.00835)
+Killing by CT, PIRA members (
+ct
+)
+−0.0495* (0.0235)
+−0.0549 (0.0332)
+0.0655 (0.0352)
+0.0198 (0.0179)
+Killings by CT, civilians (
+ct
+)
+0.154*** (0.0285)
+0.249*** (0.0475)
+−0.0181 (0.0390)
+0.0326*** (0.00762)
+Membership size (
+ct
+)
+−0.0896* (0.0434)
+0.0196 (0.0310)
+0.0194*** (0.00379)
+IED type: rocket
+−0.496** (0.151)
+0.760* (0.359)
+IED type: “homemade”
+−0.0433 (0.0228)
+−0.0385* (0.0191)
+IED type: grenade
+0.335*** (0.0910)
+0.262 (0.220)
+0.114 (0.134)
+IED type: mortar
+0.0937*** (0.0173)
+−0.0263 (0.0455)
+0.00930 (0.0302)
+Initiation type: timer
+0.225 (0.231)
+0.0974*** (0.0257)
+Initiation type: booby trap
+0.337 (0.198)
+0.121 (0.0618)
+Initiation type: impact
+−0.100 (0.0534)
+0.0391 (0.0224)
+Initiation type: remote
+0.169 (0.0961)
+0.290* (0.122)
+Initiation type: projectile
+0.0875* (0.0387)
+Target: transportation
+−0.0589 (0.0348)
+−0.0696 (0.196)
+−0.0889** (0.0317)
+Target: civilians
+−0.270* (0.127)
+Epoch 1
+0.975 (0.753)
+0.521*** (0.137)
+Epoch 2
+−0.445 (0.343)
+Epoch 3
+−0.958** (0.293)
+Epoch 4
+−0.402* (0.162)
+Epoch 5
+−4.278*** (0.996)
+−1.901** (0.737)
+Antrim
+−1.268*** (0.170)
+−0.103 (3.985)
+0.254 (0.241)
+Down
+−0.246 (0.149)
+−0.449 (0.663)
+0.495 (0.305)
+−0.467* (0.221)
+Fermanagh
+−0.218 (0.246)
+0.341 (0.598)
+−0.658*** (0.117)
+Londonderry
+−0.200 (0.153)
+−1.850** (0.650)
+0.195 (0.210)
+−0.515*** (0.132)
+Tyrone
+−0.210* (0.0866)
+1.569*** (0.425)
+−0.180* (0.0726)
+Armagh
+0.327 (0.190)
+Detonated as intend
+−0.0893*** (0.0230)
+0.0417*** (0.00821)
+Number of initiation types used
+0.130** (0.0491)
+Number of IED types used
+−0.0504 (0.0447)
+Constant
+1.929*** (0.318)
+0.249 (1.303)
+−0.105 (0.180)
+0.960** (0.357)
+Open in a new tab
+Note:
+PIRA = Provisional Irish Republican Army; IED = improvised explosive device.
+*<.05, **<.01, ***<.001.
+Table 3
+provides the zero-inflation estimation results plus standard model quality statistics such as
+N
+, χ
+2
+, log likelihood, and the Vuong statistics that pertain to the entire model (count and zero inflation).
+Table 3.
+Zero-inflated Poisson (ZIP) Estimates, Total Fatalities, Civilian Fatalities, Fatalities among Targeted Groups, and Fatalities for Shootings (Zero-inflation Component).
+Zero-inflation component
+Total IED fatalities
+Civilian IED fatalities
+High-value target IED fatalities
+Shooting fatalities
+% of brigade professionally trained
+−0.0198* (0.00817)
+−0.0952 (0.0917)
+−0.0320*** (0.00816)
+−0.00504 (0.0148)
+Relative size of brigade in PIRA
+−0.0929* (0.0396)
+0.206* (0.0871)
+0.00964 (0.0863)
+0.0285 (0.0393)
+Killing by CT, PIRA members (
+ct
+)
+−0.154 (0.190)
+−0.653*** (0.146)
+−0.0569 (0.445)
+−0.411 (0.419)
+Killings by CT, civilians (
+ct
+)
+0.595*** (0.112)
+0.430* (0.209)
+0.360 (0.205)
+0.640* (0.218)
+Membership size (
+ct
+)
+0.0257 (0.0503)
+−0.423*** (0.113)
+−0.0627 (0.129)
+−0.281 (0.184)
+Member average age
+−0.0162 (0.0248)
+0.0313 (0.0779)
+0.0684 (0.0392)
+−0.0354 (0.0267)
+Number of members killed
+−0.412 (0.243)
+0.0476 (0.136)
+−0.307** (0.109)
+0.274 (0.268)
+Count, IEDs that failed to detonate
+0.360 (0.380)
+−0.227 (0.840)
+Initiation type: timer
+0.195 (0.189)
+Initiation type: remote
+−1.355* (0.662)
+1.028 (0.660)
+−2.476** (0.776)
+Initiation type: booby trap
+−0.841** (0.259)
+IED type: letter
+−0.936 (0.758)
+−0.109 (0.200)
+0.534 (0.294)
+Complex attack (1 =
+yes
+)
+0.0530 (0.0505)
+−0.439* (0.175)
+Not a complex attack (1 =
+no
+)
+−0.179* (0.0812)
+−0.200* (0.0927)
+Target: military
+−0.954 (0.639)
+0.315 (0.233)
+Epoch 1
+−0.771 (0.979)
+−1.002 (0.856)
+Epoch 2
+0.469 (0.600)
+Epoch 3
+1.510*** (0.208)
+Epoch 4
+3.914*** (1.175)
+Epoch 5
+0.690 (0.981)
+Armagh
+−8.387 (4.800)
+−0.101 (1.381)
+Antrim
+8.572 (5.341)
+0.759 (0.637)
+Down
+−0.214 (4.307)
+−0.986 (0.697)
+−0.389 (0.315)
+Fermanagh
+−1.326 (3.344)
+−1.766 (1.189)
+Londonderry
+0.727 (2.885)
+0.0900 (1.365)
+0.405 (0.390)
+Tyrone
+4.660*** (1.256)
+0.641 (0.602)
+Number of initiation types used
+−0.812** (0.297)
+Number of IED types used
+0.311 (0.198)
+Constant
+0.438 (0.753)
+2.031 (2.731)
+0.507 (0.638)
+3.311** (1.123)
+N
+168
+168
+168
+168
+Log likelihood
+−285.7
+−128.5
+−217.1
+−348.6
+Chi-square
+198.47***
+147.05***
+94.70***
+709.60***
+Vuong (
+z
+statistics)
+3.49***
+3.42***
+2.13*
+4.03***
+Open in a new tab
+Note:
+PIRA = Provisional Irish Republican Army; IED = improvised explosive device.
+*<.05, **<.01, ***<.001.
+The block of eight key variables at the top of the count component of the analysis tells an interesting story. Turning to Hypotheses 2 and 3 first, knowledge matters to fatalities, but not in the manner most expect and as we anticipated originally. The variable
+% of brigade professionally trained
+is statistically significant and
+negative
+for both total and civilian IED casualties and unrelated to high-value IED and shooting casualties. In fact, this variable is negative across all four models, though not statistically significant in the models for IED high-value targets and fatalities for shootings. In all cases, training kept the body count
+down
+rather than causing it to go up. Note that when the relative size of a brigade as compared to the rest of PIRA’s Northern Command brigades went
+up
+, the total fatalities count also went
+down.
+Thus, Hypothesis 2 is contradicted fairly convincingly and there is no support for Hypothesis 3 with respect to professional training.
+Also contrary to expectations, brigade size does not tend to increase fatalities uniformly across all attack types. Instead, the variable
+Membership size (ct)
+has
+no effect
+on total IED fatalities and high-value target IED fatalities, a
+negative
+effect on civilian IED fatalities, but a
+positive
+effect on shooting fatalities. Thus, Hypothesis 1 is only supported in the narrow case of shooting fatalities.
+The results from the zero-inflation component of the estimation further nuance our findings. As the percentage of the brigade professionally trained (e.g., with training from professional occupations that can be turned to bomb making) increased, the probability that a brigade would kill no one went
+down
+and the probability that no members of the high-value target group (i.e., British security forces) also went
+down
+. Stated another way, training made it more likely a brigade would kill a nonzero number of people with IEDs and especially more likely that a nonzero number of high-value targets would be killed with IEDs, but training did not drive up the number particularly. Similarly, as brigade size increased, the probability that a brigade would kill a nonzero number of civilians would increase—but again, membership size did not drive up the civilian body count. Instead, the effect of size was to make it likely
+some
+civilians would be killed.
+A complementary pattern emerged in the zero-inflation results for the
+Relative size of brigade in PIRA
+variable. As size of the Brigade goes up in comparison to the other Brigades in that year, the probability that the brigade killed nobody went
+down
+, but the probability that the brigade killed no civilians went
+up.
+The relatively larger brigades in the PIRA were more likely to kill a nonzero number of people in a given year, but being large did not translate into a drive to maximize killing, as the
+Relative size of brigade in PIRA
+variable in the count model demonstrated.
+Finally, in Hypotheses 2 and 3, we suggested that age and/or professional training could be an important factor in driving IED fatalities. In fact, member average age was not a factor here (in either the count or the zero-inflation components), meaning that maturity and/or experience in the movement seemed to have little effect on fatality rates one way or the other. Of our two hypothesized human capital factors, training was the dominant factor.
+The upshot of this complex set of outcomes is that professional training and size create a capability for killing. As brigades become larger and more professionally trained, the likelihood that this instrument
+will
+be used for
+some
+killing increases. However, size and training
+does not
+lead inexorably to prolific killing with IEDs or shooting attacks. Instead, it appears that professional training may allow brigades to kill those people they wish to kill rather than to kill indiscriminately. The question is why PIRA killing was professionally modulated. If the capability existed, why not use it more often?
+The answer lies in the strategic choices of PIRA. PIRA was more generally committed to selected killings—especially of British security forces—rather than indiscriminate lethality. As
+Asal and Rethemeyer (2008a)
+found in their cross-national analyses, organizations can shape their lethality. Looking cross-nationally between the years 1998 and 2005, Asal and Rethemeyer found that organizations with a religious ideology were more likely to kill prolifically, while organizations that had a combined ideology of religion and ethnonationalism were likely to kill even more. While an argument exists that the role of religion has not been given enough credence in the analysis of the Northern Ireland conflict (
+Mitchell 2005
+), there is a more widely held position that religion merely differentiated Catholics and Protestants and acted as a proxy for what were essentially ethnonational identities (
+McGarry and O’Leary 1995
+). Our theoretical position largely concurs with the latter and our empirical analysis suggests that operational and ideological commitments helped to shape the impact of training—toward focused,
+discriminate
+killing.
+Hypothesis 4 addressed that nature of attacks: do complex attacks—attacks that include both an IED and shooting component—increase the body count? Our analysis suggests that when the number of complex attacks attempted went up, there was a particular pattern to fatalities (see the coefficients on
+Complex attack (ct)
+). Complex attacks did not affect the total number of fatalities. However, complex attacks tended to include a shooting component, so fatalities from shootings tended to increase. Because such attacks involve additional terrorist actions (e.g., an IED attack and a shooting attack), the civilian fatality count tended to increase, but the fatality count among high-value target groups tended to
+decrease
+. Ambitious attacks may be important for symbolic purposes and for recruiting, but the cost was a tendency for brigades to move away from the general preference for targeted killing of security personnel as outline above.
+Turning now to counterterrorism effects (Hypotheses 5 and 6), there are strong effects from the nature of British counterterrorism efforts. The data set contains two counterterrorism variables: a count of PIRA members killed by British forces (
+Killing by CT
+, PIRA members (ct)
+) and a count of Catholic civilian noncombatants killed by British forces (
+Killings by CT, civilians (ct)
+). British killing of PIRA members—what we term
+discriminate killing
+—had a rather straightforward effect on total fatalities—it decreased them—and had no relationship with other fatality measures. With respect to total fatalities, Hypothesis 6 is supported. However, there is one twist from the zero-inflation component of the model: British killing of PIRA members tended to increase the probability that a brigade would kill a nonzero number of civilians in that period. Thus, there is a two-step explanation: killing PIRA members reduced effectiveness and tended to reduce total killings (per Hypothesis 6), but it made it
+more
+likely that a given brigade would lash out in retaliation that would end up killing civilians, which is more in line with the backlash models of
+Benmelech, Berrebi, and Klor (2010
+) and
+LaFree, Dugan, and Korte (2009
+). PIRA retaliation became less targeted on security personnel as killing of PIRA members increased. A topic for future research is to disentangle whether civilians were killed as a backlash or because the counterterrorism killings degraded the “quality” of PIRA members who were left, making the overall organization unable to carry out discriminate violence.
+Killing of civilians by counterterrorism forces—killings we term indiscriminate—had a quite different effect: it tended to increase total fatalities, civilian fatalities, and fatalities from shootings, as anticipated in Hypothesis 5. The implication from this finding is that killing of civilians by British counterterrorism authorities seemed to engender a more violent, less targeted response. However, the zero-inflation results also add a twist regarding counterterrorism activities. Killing of civilians tended to make it
+more
+likely that a brigade would kill
+no one
+during a given brigade year. So, we have contradictory results: British killing of civilians made it
+more
+likely that a brigade would kill no civilians during a given year, but if the brigade did kill civilians, it was likely to kill quite a few.
+Drawing together these findings, this suggests that brigades may have acted like capacitors: British killing of civilians would generate a desire to retaliate that was held in check until a level of outrage was reached that triggered a response. Once a response was triggered, it tended to be less planned and targeted than was the general norm for brigade activity. Concurrent discriminate killing of PIRA members could have exacerbated the tendency toward civilian killings in response by degrading the quality of members left such that a discriminate, security-focused response became less possible. The zero-inflation results hint that brigades may have avoided tit-for-tat killing of civilians, possibly because there was a fear of triggering a cycle of violence. But the count component clearly indicates that civilian killings eventually sparked a more general, indiscriminate round of violence.
+Conclusion
+Violent terrorist acts culminate from a process of human social interaction and organization. Often this process begins with underlying systemic causes and is often sustained and driven by more proximate counterterrorism initiatives that feed the recruitment and mobilization of new cadre. Within the cadre itself, individuals with technical expertise may facilitate particular forms of violence that the group could not engage in absence of this individual. The culmination of a terrorist attack is often preceded by tactical decisions such as who should be targeted, what methods should be used and in the case of an IED attack, what IED type and initiation system would be most effective. All of these processes occur within groups and subgroups of varying sizes and we illustrated that variations across these processes impact a terrorist organization’s deadliness.
+While the scale and intensity of terrorist campaigns is often related in the literature to distal factors such as rates of poverty, unemployment, and democracy indicators, there remains a distinct lack of awareness that not all violence is equal in terms of the technical proficiency and psychological conditioning needed. Similarly, not all IEDs are equal, and some aspects may drive lethality indicators up or down dependent upon the prevailing strategic orientation of the terrorist group itself. In other words, existing studies tend to aggregate terrorist organizations as collective wholes and treat violent methods and fatality types homogeneously. Our findings suggest that (1) rates of fatal attacks differ depending upon the type of oppressive counterterrorism policies employed, (2) fatality rates differ intraorganizationally, and finally (3) subunit variables such as membership age, professional technical expertise, and brigade size also affect lethality rates but in different ways dependent upon the type of violence, who is targeted, and the strategic choices the organization makes corporately. There are caveats to these findings, not the least of which is that our measures of CT activity are rather aggregated and cannot fully capture intelligence interventions that reduce the number of attacks brought to fruition, thus also reducing the total fatalities.
+3
+This issue affects our finding that killing of PIRA members reduces body counts. However, this issue does not affect the finding that killing of civilians by counterterrorism forces leads to increased violence—if anything, our findings
+underestimate
+the increase in fatalities after CT forces kill civilians.
+Together, the results may help inform both policy and operational decision making. At the policy level, the results show the negative impact likely to occur when nonaligned civilians are killed in the course of counterterrorism operations. Such events embolden terrorist organizations to strike back, usually in an equally indiscriminate fashion. Even more so, the results suggest that when organizations do decide to strike back in retaliation, it is likely to be at the local level, a finding that
+Braithwaite and Johnson (2012
+) and
+Linke, Witmer, and O’Loughlin (2012
+) also found in relation to insurgent activities in Iraq. Although the targeted killing of PIRA members reduces a brigade’s ability to kill within a given year, there is no data available to suggest whether such events also lead to an increase in constituency support, and future recruits for the organization that may later breathe life into a depleted subunit. Moreover, targeted killings may even have the perverse effect of making civilian casualties
+more
+likely if the net result is to reduce the skill level of the unit (though further research is needed to confirm this inference).
+The results also suggest that although PIRA can be described as a coherent, hierarchical organization, the variance among its subunits in terms of composition, capabilities, and targeting policies requires nuanced counterterrorism policies—policies that are tailored to the local subunit’s capacity for lethal activities. The results also hold much promise for aggregate level risk assessment. While there has been much theorizing about the structure of terrorist organizations, our results indicate that perhaps we should be more concerned with the composition and qualities inherent within a network of subunits. Those subunits with a higher number of individuals with professional skills relevant to bomb making more often caused casualties, and those casualties are more likely to be among high-value targets rather than civilians. Such findings may aid in decisions concerning what segments of a terrorist network should be prioritized for immediate postevent investigation and intelligence gathering.
+Finally, we recognize that findings are not directly generalizable: we focused here upon one terrorist organization. Generalizations to other groups may be difficult to make. That said, we believe the logic behind the relationship between counterterrorism killings and the lethality of units and subunits may apply more broadly. Killing those whom the terrorist organization claims to represent is likely to encourage retaliation in the form of indiscriminate violence against civilians for a number of reasons elaborated upon above, whereas killing members of the group is likely to lead (at least in the short run) to reductions in the group’s capacity to striking back. In terms of subunit composition, generalizations are more difficult. Higher levels of skilled bomb makers within PIRA brigades led to both a higher likelihood of high-value targets being killed and civilians being spared—both of which were long-standing strategic policies of PIRA. Not every terrorist organization resembles PIRA in this regard, with many being far less reluctant to kill civilians. We might therefore expect that the more technical expertise within any given subunit in any terrorist organization, the closer that subunits fatality rates will mirror the organization’s strategic logic as a whole.
+Notes
+1.
+We thank our anonymous reviewers for pointing out this key issue related to the very use of the term
+terrorism
+and the conundrums that any discussion of targeting cause.
+2.
+The same is also true for shooting attacks. For example, a sniper would need more training than a spree shooter. Despite this, we treat all shooting attacks equally for the purposes of this study. Further coding effort is planned for future research endeavors to test whether different factors help drive lethal and complex shootings versus lethal and noncomplex shootings.
+3.
+We are indebted to an anonymous reviewer for pointing out this issue.
+Footnotes
+Authors’ Note:
+The data collection for this project was undertaken at International Center for the Study of Terrorism at Pennsylvania State University.
+Declaration of Conflicting Interests:
+The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+Funding:
+The author (s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: The work presented in this project was supported by the Office of Naval Research under Grant #N00014-09-1-0667.
+References
+Ackerman Gary A.
+2003. 
+“Beyond Arson? A Threat Assessment of the Earth Liberation Front.”
+Terrorism & Political Violence
+15 (4): 143–70.
+[
+Google Scholar
+]
+Asal Victor H., Karl Rethemeyer R.
+2008a. 
+“The Nature of the Beast: Organizational Structures and the Lethality of Terrorist Attacks.”
+Journal of Politics
+70 (2): 437–49.
+[
+Google Scholar
+]
+Asal Victor, Karl Rethemeyer R.
+2008b. 
+“Dilettantes, Ideologues, and the Weak: Terrorists Who Don’t Kill.”
+Conflict Management and Peace Science
+25 (3): 244–63.
+[
+Google Scholar
+]
+Asal Victor, Karl Rethemeyer R.
+2008c. 
+“The Nature of the Beast: Terrorist Organizational Characteristics and Organizational Lethality.”
+Journal of Politics
+70 (2): 437–49.
+[
+Google Scholar
+]
+Benmelech E., Berrebi C., Klor E.
+2010. 
+Counter-Suicide-Terrorism: Evidence from House Demolitions. Washington, DC: National Bureau of Economic Research.
+[
+Google Scholar
+]
+Boyns David, Ballard James David.
+2004. 
+“Developing a Sociological Theory for the Empirical Understanding of Terrorism.”
+American Sociologist
+35 (2): 5–25.
+[
+Google Scholar
+]
+Braithwaite A., Johnson S. D.
+2012. 
+“Space-Time Modelling of Insurgency and Counterinsurgency in Iraq.”
+Journal of Quantitative Criminology
+28 (1): 31–48.
+[
+Google Scholar
+]
+Byman D.
+2006. 
+“Do Targeted Killings Work.”
+Foreign Affairs
+85:95.
+[
+Google Scholar
+]
+Cameron Colin A., Trivedi Previn K.
+1998. 
+Regression Analysis of Count Data. New York: Cambridge University Press.
+[
+Google Scholar
+]
+Chomsky Noam.
+2002. 
+Pirates and Emperors, Old and New: International Terrorism in the Real World. Cambridge, MA: South End Press.
+[
+Google Scholar
+]
+Coady C. A. J.
+2004. 
+“Terrorism, Morality, and Supreme Emergency.”
+Ethics
+114 (4): 772–89.
+[
+Google Scholar
+]
+Coogan T. P.
+2000. 
+The IRA. New York: Palgrave.
+[
+Google Scholar
+]
+Dalacoura K.
+2006. 
+“Islamist Terrorism and the Middle East Democratic Deficit: Political Exclusion, Repression and the Causes of Extremism.”
+Democratization
+13 (3): 508–25.
+[
+Google Scholar
+]
+David Steven R.
+2003. 
+“Fatal Choices: Israel’s Policy of Targeted Killing.”
+Review of International Affairs
+2 (3):138–58.
+[
+Google Scholar
+]
+Dolnik A., Bhattacharjee A.
+2002. 
+“Hamas: Suicide Bombings, Rockets, or WMD?”
+Terrorism and Political Violence
+14 (3): 109–28.
+[
+Google Scholar
+]
+Drake C. J. M.
+1991. 
+“The Provisional IRA: A Case Study.”
+Terrorism & Political Violence
+3 (2): 43–60.
+[
+Google Scholar
+]
+Drake C. J. M.
+1998a. 
+Terrorists’ Target Selection. New York: St. Martin’s Press.
+[
+Google Scholar
+]
+Drake C. J. M.
+1998b. 
+“The Role of Ideology in Terrorists’ Target Selection.”
+Terrorism & Political Violence
+10 (2): 53.
+[
+Google Scholar
+]
+Duyvesteyn I.
+2008. 
+“Great Expectations: The Use of Armed Force to Combat Terrorism.”
+Small Wars & Insurgencies
+19 (3): 328–51.
+[
+Google Scholar
+]
+Earth Liberation Front. 2006. 
+“Earth Liberation Front 2006.”
+Accessed June 1, 2006
+www.earthliberationfront.com
+.
+Feridun M., Shahbaz M.
+2010. 
+“Fighting Terrorism: Are Military Measures Effective? Empirical Evidence from Turkey.”
+Defence and Peace Economics
+21 (2): 193–205.
+[
+Google Scholar
+]
+Fielding D., Shortland A.
+2010. 
+“‘An Eye for an Eye, a Tooth for a Tooth’: Political Violence and Counter-insurgency in Egypt.”
+Journal of Peace Research
+47 (4): 433–47.
+[
+Google Scholar
+]
+Gill P., Horgan J., Lovelace J.
+2011. 
+“Improvised Explosive Devices—The Problem of Definition.”
+Studies in Conflict and Terrorism
+34 (9): 732–48.
+[
+Google Scholar
+]
+Goodwin J.
+2006. 
+“A Theory of Categorical Terrorism.”
+Social Forces
+84 (4): 2027–46.
+[
+Google Scholar
+]
+Hafez M. M., Hatfield J. M.
+2006. 
+“Do Targeted Assassinations Work? A Multivariate Analysis of Israel’s Controversial Tactic during Al-Aqsa Uprising 1.”
+Studies in Conflict & Terrorism
+29 (4): 359–82.
+[
+Google Scholar
+]
+Helfstein S., Wright D.
+2011. 
+“Success, Lethality, and Cell Structure across the Dimensions of Al Qaeda.”
+Studies in Conflict & Terrorism
+34 (5): 367–82.
+[
+Google Scholar
+]
+Hoffman Bruce.
+1999. 
+“Terrorism Trends and Prospects.” In Countering the New Terrorism, edited by Lesser Ian O., Hoffman Bruce, Arquilla John, Ronfeldt David, Zanini Michele.
+7–38
+Santa Monica, CA: Rand.
+[
+Google Scholar
+]
+Horgan J., Taylor M.
+1997. 
+“The Provisional Irish Republican Army: Command and Functional Structure.”
+Terrorism and Political Violence
+9 (3): 1–32.
+[
+Google Scholar
+]
+Horowitz M.C., Potter P. B. K.
+2011. 
+“Allying to Kill: Terrorist Intergroup Cooperation and the Consequences for Lethality.”
+Journal of Conflict Resolution. Accessed October 13 2013,
+http://jcr.sagepub.com/content/early/2013/01/02/0022002712468726.abstract
+.
+Israeli Raphael.
+2002. 
+“A Manual of Islamic Fundamentalist Terrorism.”
+Terrorism-and-Political-Violence
+14 (4): 23–40.
+[
+Google Scholar
+]
+Jackson B. A.
+2001. 
+“Technology Acquisition by Terrorist Groups: Threat Assessment Informed by Lessons from Private Sector Technology Adoption.”
+Studies in Conflict & Terrorism
+24 (3): 183–213.
+[
+Google Scholar
+]
+Jackson B. A.
+2009. 
+“Understanding Why Terrorist Operations Succeed or Fail.” DTIC Document.
+http://www.rand.org/content/dam/rand/pubs/occasional_papers/2009/RAND_OP257.pdf
+.
+Johnson S., Braithwaite A.
+2009. 
+“Spatio-Temporal Distribution of Insurgency in Iraq.” in Freilich J., Newman G. (eds.), ‘Countering Terrorism through SCP.’
+Crime Prevention Studies
+25: 9–32.
+[
+Google Scholar
+]
+Jones David Martin, Smith Michael L. R., Weeding Mark.
+2003. 
+“Looking for the Pattern: Al Qaeda in Southeast Asia—The Genealogy of a Terror Network.”
+Studies in Conflict & Terrorism
+29 (6): 399–411.
+[
+Google Scholar
+]
+LaFree G., Dugan L., Korte R.
+2009. 
+“The Impact of British Counterterrorist Strategies on Political Violence in Northern Ireland: Comparing Deterrence and Backlash Models*.”
+Criminology
+47 (1): 17–45.
+[
+Google Scholar
+]
+Laqueur W.
+1998. 
+The New Terrorism: Fanaticism and the Arms of Mass Destruction. New York: Oxford University Press.
+[
+Google Scholar
+]
+Lia Brynjar, Hegghammer Thomas.
+2004. 
+“Jihadi Strategic Studies: The Alleged Al Qaida Policy Study Preceding the Madrid Bombings.”
+Studies in Conflict & Terrorism
+27 (4): 355–75.
+[
+Google Scholar
+]
+Linke Andrew, Witmer Frank, O’Loughlin John.
+2012. 
+“Space-Time Granger Analysis of the War in Iraq: A Study in Coalition and Insurgent Action-Reaction,”
+International Interactions: Empirical and Theoretical Research in International Relations
+38:402–25.
+[
+Google Scholar
+]
+Long Scott J.
+1997. 
+Regression Models for Categorical and Limited Dependent Variables. Thousand Oaks, CA: Sage.
+[
+Google Scholar
+]
+Long Scott J., Freese Jeremy.
+2003. 
+Regression Models for Categorical Dependent Variables using Stata. Rev. ed. College Station, TX: Stata Press.
+[
+Google Scholar
+]
+Lum Cynthia, Kennedy Leslie W., Sherley Alison J.
+2006. 
+“The Effectiveness of Counter-terrorism Strategies.”
+A Campbell Systematic Review 2006:2, the Campbell Collaboration, Oslo.
+[
+Google Scholar
+]
+McCarthy John D., Zald Mayer N.
+1977. 
+“Resource Mobilization and Social Movements: A Partial Theory.”
+American Journal of Sociology
+82 (6): 1212–41.
+[
+Google Scholar
+]
+McCauley C., Moskalenko S.
+2008. 
+“Mechanisms of Political Radicalization: Pathways toward Terrorism.”
+Terrorism and Political Violence
+20 (3): 415–33.
+[
+Google Scholar
+]
+McCormick G. H.
+2003. 
+“Terrorist Decision Making.”
+Political Science
+6 (1): 473.
+[
+Google Scholar
+]
+McGarry J., O’Leary B.
+1995. 
+Explaining Northern Ireland. Oxford, UK: Blackwell.
+[
+Google Scholar
+]
+McKittrick D., Thornton C., Kelters S., Feeney B.
+2007. 
+Lost lives. Edinburgh: Mainstream Publishing.
+[
+Google Scholar
+]
+Mitchell C.
+2005. 
+Religion, Identity and Politics. London: Ashgate.
+[
+Google Scholar
+]
+Moloney E.
+2003. 
+A Secret History of the IRA. New York: W. W. Norton.
+[
+Google Scholar
+]
+Moloney E.
+2010. 
+Voices from the Grave: Two Men’s War in Ireland. New York: Faber and Faber.
+[
+Google Scholar
+]
+O’Callaghan S.
+1999. 
+The Informer. London: Corgi Books.
+[
+Google Scholar
+]
+Oots Kent Layne.
+1986. 
+A Political Organization Approach to Transnational Terrorism. 141 ed. Book, Whole vols, Contributions in political science. New York: Greenwood Press.
+[
+Google Scholar
+]
+Oppenheimer A. R.
+2009. 
+The Bombs and the Bullets: A History of Deadly Ingenuity. Dublin: Irish Academic Press.
+[
+Google Scholar
+]
+Rogers William H.
+1993. 
+“Regression Standard Errors in Clustered Samples.”
+Stata Technical Bulletin
+13:1923–28.
+[
+Google Scholar
+]
+Ross Jeffrey Ian.
+1995. 
+“The Rise and Fall of Quebecois Separatist Terrorism: A Qualitative Application of Factors from Two Models.”
+Studies in Conflict & Terrorism
+18 (4): 285–97.
+[
+Google Scholar
+]
+Sageman M.
+2004. 
+Understanding Terror Networks. Philadelphia: University of Pennsylvania Press.
+[
+Google Scholar
+]
+Sageman M.
+2008. 
+Leaderless Jihad: Terror Networks in the Twenty-first Century
+Philadelphia: University of Pennsylvania Press.
+[
+Google Scholar
+]
+Schmid A. P.
+1988. 
+Political Terrorism: A New Guide to Actors, Authors, Concepts, Databases, Theories, and Literature. New Brunswick, NJ: Transaction.
+[
+Google Scholar
+]
+Schmid A. P., Jongman A. J.
+2005. 
+Political Terrorism: A New Guide to Actors, Authors, Concepts, Databases, Theories, and Literature. 2nd ed
+New Brunswick, NJ: Transaction.
+[
+Google Scholar
+]
+Sharp Gene.
+1965. 
+The Political Equivalent of War-Civilian Defense, International Concilhtion. New York: Carnegie Endowment for International Peace.
+[
+Google Scholar
+]
+Smith M. L. R.
+1997. 
+Fighting for Ireland: The Military Strategy of the Irish Republican Movement. London: Routledge.
+[
+Google Scholar
+]
+Sutton M.
+1994. 
+An Index of Deaths from the Conflict in Ireland 1969-1993. Belfast: Beyond the Pale.
+[
+Google Scholar
+]
+Taylor Bron.
+1998. 
+“Religion, Violence, and Radical Environmentalism: From Earth First! to the Unabomber to the Earth Liberation Front.”
+Terrorism and Political Violence
+10 (4): 10–42.
+[
+Google Scholar
+]
+Vuong Q.
+1989. 
+“Likelihood Ratio Tests for Model Selection and Non-nested Hypotheses.”
+Econometrica
+57 (2): 307–33.
+[
+Google Scholar
+]
+Whine Michael.
+1999. 
+“Islamist Organizations on the Internet.”
+Terrorism & Political Violence
+11 (9): 123–32.
+[
+Google Scholar
+]
+White R., White T. F.
+1991. 
+“Revolution in the City: On the Resources of Urban Guerrillas.”
+Terrorism and Political Violence
+3 (4): 100–32.
+[
+Google Scholar
+]
+Zahab Miriam Abou, Roy Olivier.
+2004. 
+Islamist Networks. New York: Columbia University Press.
+[
+Google Scholar
+]
+ACTIONS
+View on publisher site
+PDF (375.0 KB)
+Cite
+Collections
+Permalink
+PERMALINK
+Copy
+RESOURCES
+Similar articles
+Cited by other articles
+Links to NCBI Databases
+Cite
+Copy
+Download .nbib
+.nbib
+Format:
+AMA
+APA
+MLA
+NLM
+Add to Collections
+Create a new collection
+Add to an existing collection
+Name your collection
+*
+Choose a collection
+Unable to load your collection due to an error
+Please try again
+Add
+Cancel
+Back to Top

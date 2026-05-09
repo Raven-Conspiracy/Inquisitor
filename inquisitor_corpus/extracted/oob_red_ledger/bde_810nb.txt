@@ -1,0 +1,15 @@
+# Russian Brigade / Regiment — 810th Guards Naval Infantry Brigade (Guards)
+
+**Unit ID**: 810nb
+**Type**: naval_infantry
+**Parent**: Field Army: 18th Combined Arms Army (18ca)
+**Parent District**: Southern Military District
+**Guards designation**: Yes
+**Strength (% authorized)**: 55.0%
+**Notes**: Black Sea Fleet; Sumy / Kherson
+
+## Authorized Equipment (with estimated combat losses)
+- **tank** — T-72B3 — authorized: 31, estimated lost: 16
+- **ifv** — BMP-3 — authorized: 90, estimated lost: 40
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:BDE] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

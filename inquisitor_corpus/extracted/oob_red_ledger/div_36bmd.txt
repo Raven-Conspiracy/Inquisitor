@@ -1,0 +1,11 @@
+# Russian Division — 36th Combined Arms Brigade / Division
+
+**Unit ID**: 36bmd
+**Type**: motor_rifle
+**Headquarters**: Ulan-Ude
+**Parent Army**: 36th Combined Arms Army (36ca)
+**Parent District**: Eastern Military District
+**Strength (% authorized)**: 60.0%
+**Notes**: Vuhledar axis
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:DIV] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 81st/82nd/83rd Tactical Fighter Squadrons (F-14A)
+
+**Unit ID**: sqn81_f14
+**Type**: fighter_brigade
+**Headquarters**: Isfahan
+**Parent**: Region / Provincial Corps / Base: 8th Tactical Air Base — Isfahan (Shahid Beheshti) (tab8_isfahan)
+**Higher echelon**: Islamic Republic of Iran Air Force (IRIAF)
+**Elite designation**: No
+**Strength (% authorized)**: 5%
+**Notes**: Three squadrons of F-14A/AM Tomcat — Iran's longest-range air superiority fighter. IDF reportedly destroyed the entire F-14 fleet in March 2026 attacks on Isfahan. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN: assessed destroyed Mar 2026]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

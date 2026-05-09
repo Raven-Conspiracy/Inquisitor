@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: IRGCN Sepah Navy Special Force (SNSF) — Forur Island (ELITE / first-tier)
+
+**Unit ID**: irgcn_snsf
+**Type**: amphibious
+**Headquarters**: Forur Island, Persian Gulf
+**Parent**: Region / Provincial Corps / Base: IRGCN 5th Naval Region — Bandar Lengeh (Imam Mohammad Bagher) (irgcn_nd5)
+**Higher echelon**: IRGC Navy (IRGCN)
+**Elite designation**: Yes
+**Strength (% authorized)**: 80%
+**Notes**: Combat diving, direct action, counterterrorism, VBSS, amphibious assault. Analogous to MARSOF. Forur Island forward base in central Gulf. [DIA IMP 2019 p.29]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

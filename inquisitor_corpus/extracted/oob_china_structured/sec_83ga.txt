@@ -1,0 +1,17 @@
+# Chinese PLA — Group Army / Fleet / Base: 83rd Group Army (第八十三集团军)
+
+**Unit ID**: 83ga
+**Service**: PLAA
+**Type**: group_army
+**Headquarters**: Xinxiang
+**Parent**: Central Theater Command (中部战区) (ctc)
+**Strength (% authorized)**: 100%
+**Notes**: Formerly 54th Group Army (Jinan MR); redesignated Apr 2017. Includes 161st Air Assault CAB, making it a first-tier rapid reaction force. [DOD CMPR 2024 p.97] [Wikipedia 83rd GA]
+
+## Subordinate Brigade / Division / Flotillas
+- **11th Heavy Combined Arms Brigade** (83ga_11cab) — type: heavy_combined_arms_bde, HQ: Xinxiang area, strength: 100%. [Wikipedia 83rd GA]
+- **131st Heavy Combined Arms Brigade** (83ga_131cab) — type: heavy_combined_arms_bde, HQ: Xinxiang area, strength: 100%. [Wikipedia 83rd GA]
+- **161st Air Assault Combined Arms Brigade** (elite) (83ga_161aab) — type: air_assault, HQ: Xinxiang area, strength: 100%. First-tier air assault unit; rapid reaction force. [Wikipedia 83rd GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

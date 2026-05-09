@@ -1,0 +1,15 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: RGB 5th Bureau (Technical Reconnaissance / Cyber)
+
+**Unit ID**: rgb_5thbureau
+**Service**: RGB
+**Type**: sof_corps
+**Headquarters**: Pyongyang; operators in China (Shenyang/Chilbosan Hotel, Macau, Beijing)
+**Parent**: Reconnaissance General Bureau (Jeonggal Chongguk, KPA Unit 586) (rgb)
+**Strength (% authorized)**: 95.0%
+**Notes**: Controls 121st Bureau (Lazarus/APT38/Hidden Cobra, ~6,000 hackers), Bluenoroff (~1,700), Andariel (~1,600). 110th Research Institute (hacking sub-stations 31st-56th). Electronic Warfare Jamming Regiment (Pyongyang, 3 battalions). Total ~5,900-12,000 cyber operatives (various estimates). $1.7B crypto theft 2022; WannaCry 2017; Sony Pictures 2014. [HRNK RGB Final 2026; Wikipedia Bureau 121]
+
+## Subordinate Division / Brigade / Flotillas
+- **121st Bureau / Lazarus Group (APT38)** (elite) (rgb_lazarus) — type: mountain, HQ: Pyongyang; operators at Chilbosan Hotel Shenyang China and other overseas locations, strength: 98.0%. ELITE CYBER. ~6,000 personnel (grew from ~1,000 in 2010). Lead RGB cyber unit. Sub-groups: Lazarus/APT38 (social chaos/malware; Sony 2014, WannaCry 2017, $1.7B crypto 2022, Axie Infinity $620M), Bluenoroff (~1,700; financial theft), Andariel (~1,600; military/industrial espionage). Director 5th Bureau: Cho Il-u (EU sanctioned 2017). [HRNK RGB Final 2026; Wikipedia Bureau 121]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

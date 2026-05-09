@@ -1,0 +1,1656 @@
+Article
+Scattered Attacks: The Collective
+Dynamics of Lone-Actor Terrorism
+Stefan Malthaner, Francis O ’Connor and Lasse Lindekilde
+The proliferation of lone-actor terrorist attacks over the pa st decade has led to a rapidly expanding literature and a sub ﬁeld of
+research. However, this research has only to a limited degree been brought into wider discussions on political violence and
+social movements. In the present article, we take up this synt hetic challenge and argue the need to theorize the social and
+collective dynamics of lone-actor terrorism. The article propose s a novel analytical framework for understanding lone-actor
+terrorism. We provide a conceptualization that draws atte ntion to the social embeddedness of terrorist lone-actor
+radicalization and the collective dynamic of lone-ac tor attacks. Our point of departure is the recurrent ﬁnding that lone-
+actor terrorists are in fact not that alone, and that their attacks tend to cluster in time and space. First, we propose to conceive
+of lone-actor radicalization as a relation al pathway shaped by social ties and intera ctions with radical milieus/movements.
+Second, taking inspiration from Charles Tilly ’s notion of “scattered attacks ” as a pattern of dispersed, loosely coordinated
+collective violence, we suggest three complementary ways of a nalyzing these processes and their temporal and interactive
+dynamic. We argue that theorizing the social and collectiv e dynamics of lone-actor politi cal violence is not only about
+addressing an empirical puzzle (the abundance of social ties; the clustered pattern of violent attacks), but about
+analytically capturing an entirely di ﬀerent and potentially increasingly relevant logic of violent processes. Thereby, and
+paradoxically, the very notion of “lone actors ” can help us to understand the social dynamics of collective political violence
+more generally.
+Introduction
+W
+hy do we speak of “lone-actor terrorism ”?O rt o
+put it di ﬀerently: why do we ﬁnd it conspicuous
+that a person would carry out an act of terrorism
+alone and on their own initiative? After all, individual
+perpetrators of most other types of crime or violence do
+not seem enigmatic or to require explanation: we do not
+speak of “lone-actor thieves ” or “lone-actor rapists. ” The
+answer to this question is, of course, that these attacks are
+understood —by perpetrators, victims, authorities, and
+*Data replication sets are available in Harvard Dataverse at: https://doi.org/10.7910/DVN/LZXQ6E
+Stefan Malthaner ( Stefan.Malthaner@his-online.de, Germany) is a senior researcher at the Hamburg Institute for Social
+Research and visiting professor at Leuphana University, Lüneburg. His research focuses on militant movements, political violence
+and collective urban violence, processes of radicalization, and civil wars, with a particular focus on the relationship between
+armed groups and their social environment.
+Francis O’Connor
+(francis.oconnor@wur.nl, Germany) is a Marie Skłodowska-Curie Postdoctoral Fellow in Rural Sociology
+at Wageningen University in the Netherlands. His research addresses the gray area between violent and nonviolent mobilization.
+He particularly focuses on the relationship between insurgent movements and their supporters: his current project, Routinised
+Insurgent Space, looks at the spatial dynamics of insurgent support in the cases of the PKK in Turkey and the M-19 in Colombia.
+He has published on insurgent movements in Turkey, Mexico, and Colombia; anti-austerity protest in Europe; lone-actor
+radicalization; and social movement mobilization in secessionist referendums.
+Lasse Lindekilde (lindekilde@ps.au.dk, Denmark) is a professor in the Department of Political Science, Aarhus University. He
+holds a PhD from the European University Institute. His research is focused on political mobilization, political violence,
+radicalization, and the implementation and eﬀects of countering violent extremism policies. His most recent research has focused
+on online political hostility and bystander reactions. In the fall of 2020, he received an ERC Consolidator Grant for the project
+Standing By: Pro-Social Bystander Reactions to Online Political Hostility.
+doi:10.1017/S1537592723002852
+© The Author(s), 2023. Published by Cambridge University Press on behalf of the American Political Science Association. This is an Open
+Access article, distributed under the terms of the Creative Commons Attribution licence (http://creativecommons.org/licenses/by/4.0), which
+permits unrestricted re-use, distribution and reproduction, provided the original article is properly cited.
+June 2024 | Vol. 22/No. 2 463
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+observers—to be acts of political violence, and that there
+is a relational element in the way political meanings are
+constructed in violent action. Political violence is vio-
+lence “in the name ” (Heath-Kelly 2013): violence that
+claims legitimacy based on a notion of representation, of
+ﬁghting for the sake of some religious or ethnic commu-
+nity, the “white race, ” or an equal and just future society.
+When it comes to political violence, the targets of attacks
+symbolically represent larger groups or categories of
+people, entities such as “the state, ” or certain values or
+lifestyles (Goodwin 2006). Violence is perceived as polit-
+ical when it is linked to broader radical movements that
+are acknowledged as the collective protagonists (however
+incoherent and constructed) in episodes of violent con-
+tention, and which, in their countercultural work, pro-
+duce the identities and categories toward which violent
+acts are oriented.
+Lone-actor terrorism, thus, is a confusing phenomenon,
+but at the same time one that is illuminating for political
+analysis. Lone-actor attacks are positioned in a relational
+matrix of political meanings and motives. But the fact that
+the perpetrators planned and carried out the attack on
+their own, that their relationships to militant groups are
+more diﬀuse and contradictory, and that their ideological
+references are at times more idiosyncratic is unsettling for
+the way we are accustomed to conceive of political vio-
+lence. Therefore, the question of the extent to which lone
+actors are embedded in and “speak for” a movement and in
+what way their violent acts form part of broader violent
+campaigns is crucial for understanding the mechanics of
+lone-actor radicalization and the threat of future attacks. It
+also allows us to examine the elementary social and
+political dynamics that shape this phenomenon and polit-
+ical violence more generally.
+In this article, we o ﬀer a novel approach to theorizing
+the social embeddedness of terrorist lone actors and the
+collective dynamics of lone-actor political violence.
+While its purpose is mainly theoretical, we draw on
+extensive empirical data —including the Lone Actor
+Radicalisation and Terrorism (LART) dataset as well as
+an u m b e ro fi n - d e p t hc a s es t u d i e s—to illustrate and
+develop our theoretical arguments.
+1 Our point of depar-
+ture is the recurrent ﬁnding in the literature that most
+terrorist lone actors 2 are not that alone, and that their
+attacks tend to cluster in time and space. Many perpe-
+trators not only identify with broader political move-
+ments but also have direct, personal ties to radical
+networks or have participated in radical movements in
+the past (Gill 2015; Gill, Horgan, and Deckert 2014;
+Hofmann 2020; Lindekilde, Malthaner, and O ’Connor
+2019; Schuurman et al. 2018). Yet, even if lone-actor
+political violence is rarely a matter of isolated loners,
+theories of group-based radicalization or organized ter-
+rorist campaigns are ill suited to analyzing lone-actor
+terrorism, given their focus on intragroup dynamics,
+leaders’ strategic decision making, and linear-like radical-
+ization toward political violence. This leads to the two-
+fold challenge that this article seeks to address. First, to
+develop an understanding of lone actors as linked to
+radical milieus
+3 and movements while recognizing the
+conﬂictive, discontinuous, and often contradictory
+nature of this relationship. Second, to analyze lone-actor
+attacks not as singular events but as connected and as a
+part of “waves” of attacks, while taking seriously their
+autonomous, decentralized, and emergent character. In
+sum, we argue that we need to move beyond an individ-
+ualizing notion of lone-actor terrorism, while capturing
+the inherent tension in this phenomenon between a
+detached form of radicalization and autonomous attacks
+and a collective dimension of imbibing others ’ ideas,
+interacting with political movements (extremist or oth-
+erwise), and the connectivity of otherwise scattered epi-
+sodes of lone-actor attacks.
+The analytical framework that we suggest seeks to out-
+line ways of theorizing the social and collective dynamic of
+lone-actor terrorism at two interconnected levels. The ﬁrst
+section of this article addresses the question: how are
+individual perpetrators and trajectories of lone-actor radicali-
+zation socially embedded in radical milieus, networks, and
+personal relationships? We conceive of lone-actor radicaliza-
+tion as a relational pathway that is driven and shaped by
+particular patterns of interaction within (or on the margins
+of) online and o ﬄ ine settings, and that is facilitated and to
+some extent “produced” by the structure and legitimizing
+discourses of particular radical milieus and movements. The
+second section shifts the focus away from individual trajec-
+tories to the collective dynamics of episodes of lone-actor
+political violence. Taking inspiration from Charles Tilly ’s
+work on collective violence —and his notion of “scattered
+attacks” as a pattern of dispersed, loosely coordinated
+collective violence (Tilly 2003)—we seek answers to the
+following questions: How does lone-actor political violence
+“spread”? And how do violent incidents tend to become con-
+nected in sequences or “waves” of lone-actor attacks? We
+suggest three complementary approaches to theorize these
+processes and their temporal and interactive dynamics.
+First, the clustering of attacks in time and space can be
+understood as resulting from parallel responses by discon-
+nected individuals to a particular event or changes in their
+political and sociocultural environment. Second, episodes
+of lone-actor violence can be analyzed by focusing on
+processes of di ﬀusion, in which tactics and ideas are trans-
+mitted across movements and societies, thus accounting for
+the spread of particular violent practices. Finally, a third
+way of explaining the dynamics of violent episodes is to
+examine patterns of interactive coordination ,i nw h i c h
+autonomous perpetrators display what we call “microstra-
+tegic agency,” by linking their actions to prior attacks and
+broader movements, thereby collectively (and interactively)
+constructing a common, interconnected violent campaign.
+464 Perspectives on Politics
+Article | Scattered Attacks: The Collective D ynamics of Lone-Actor Terrorism
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+Table 1 summarizes our approach to theorizing the collec-
+tive nature of lone-actor terrorism, both in terms of the
+social embeddedness of the actor and the collective dynam-
+ics of clusters of violent attacks.
+With this framework, we seek to provide tools for
+theorizing what has been called “post-organizational vio-
+lent extremism ” or “stochastic terrorism ” (see, inter alia,
+Hamm and Spaaij 2017;H oﬀman and Clarke 2020), the
+more di ﬀuse, decentralized patterns of political violence
+that currently seem to be proliferating across the United
+States and Europe. These pose a particular challenge to
+security services by undermining traditional methods of
+intelligence gathering. Paradoxically, the strength and
+sophistication of contemporary intelligence agencies in
+inﬁltrating and surveilling organized extremist movements
+may have contributed to the proliferation of lone-actor
+terrorist attacks. Movements responded to successful
+policing operations by decentralizing their control and
+command structures, shifting the onus onto individuals
+to act according to broader ideological goals rather than
+speciﬁc leadership orders. Emphasizing the social dynam-
+ics that shape these phenomena must not be misunder-
+stood as discounting the relevance of personal
+backgrounds and psychological processes (Corner and Gill
+2015). On the contrary, we aim to chart new ways of
+analyzing how they interact. This article ’s approach
+implies a fundamental shift in how we conceive of lone-
+actor terrorism, which is not merely about the fact that
+perpetrators are “not that alone. ” It demonstrates that
+lone-actor terrorism —as a particular form of political
+violence perpetrated by autonomous individuals —is nev-
+ertheless a collective phenomenon , shaped by processes of
+interaction and di ﬀusion within networks and move-
+ments, which are no less e ﬀectual for being decentralized,
+emergent, and sometimes con ﬂictive and discontinuous.
+We contend that by theorizing the collective nature of
+lone-actor terrorism, we oﬀer a vantage point better suited
+to analytically grasping this phenomenon, which can
+potentially help social and security services to deal with
+it more eﬀectively. It is only by recognizing trajectories of
+lone-actor radicalization as relational pathways shaped by
+decentralized and discontinuous interactions with extrem-
+ist communities and milieus, and considering episodes of
+lone-actor attacks as scattered, albeit to some extent
+coordinated, that authorities can hope to identify patterns
+of intelligence that will enable prevention and interdiction
+of lone-actor terrorism.
+This article is organized into two main sections,
+following the structure outlined in table 1 .T h e ﬁrst
+section addresses the social embeddedness of lone-actor
+radicalization and outlines a conception of lone-actor
+radicalization as a relational pathway. We do so by
+drawing upon extant relational approaches to the study
+of political activism and militancy developed primarily
+within social movement studies. The second
+section moves from the analytical level of individual
+radicalization to the level of violent attacks and their
+clustering in space and time. Here we address the
+collective nature of lone-actor terrorist attacks by o ﬀer-
+ing three complementary explanations of how lone-actor
+violence spreads and becomes connected —“parallel
+responses, ”“ processes of di ﬀusion,” and
+“interactive
+coordination ”—which draw inspiration from Charles
+Tilly’s( 2003)n o t i o no f “scattered attacks ” as weakly
+or indirectly coordinated violence. In both sections we
+review the relevant literature used to build our theoret-
+ical argument and integrate empirical data to illustrate
+this. We conclude by summarizing the suggested theo-
+retical approach and discussing its implications, limita-
+tions, and relevance for practical counterterrorism work.
+The Social Embeddedness of Lone-Actor
+Terrorists
+During the past decade, lone-actor terrorism became the
+subject of a rapidly expanding literature—and a subﬁeld of
+research in its own right. This research has certainly
+yielded valuable results (for overviews, see Holzer et al.
+2022; Kenyon, Baker-Beall, and Binder 2023). Several
+systematic studies based on large datasets identi ﬁed dispo-
+sitional factors, as well as patterns of radicalization and
+attack preparation (see, inter alia, Gill 2015; Gill, Horgan,
+and Deckert 2014; Hamm and Spaaij 2017; Pitcavage
+2015; Spaaij 2012). In-depth research on smaller samples
+of cases produced various typologies of lone actors and
+insights into mechanisms of radicalization (Bakker and de
+Graaf 2011; Borum, Fein, and Vossekuil 2012; Feldman
+2013; Gartenstein-Ross 2014; Hewitt 2014; McCauley
+and Moskalenko 2014; Nesser 2012; Pantucci 2011).
+Even if the paradigm of the “lone actor” (or “lone wolf”)
+Table 1
+Overview of Approach to Theorizing the Collective Dynamics of Lone-Actor Terrorism
+Level of analysis Suggested conceptualization
+Individual Actors: the social embeddedness of lone actors (I) Radicalization as a relational pathway
+Clusters of Attacks: the collective dynamic of lone-actor
+terrorist attacks
+(II) Parallel responses
+(III) Processes of diffusion
+(IV) Interactive coordination
+June 2024 | Vol. 22/No. 2 465
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+led some researchers to (overly) focus on the perpetrators ’
+personal characteristics and social backgrounds, early
+empirical studies found that lone actors were, in di ﬀerent
+forms and to varying degrees, linked to radical milieus and
+movements. Gill and his colleagues found that in 79% of
+the cases in their dataset, acquaintances had knowledge of
+the perpetrator ’s radical beliefs; more than half of the
+perpetrators had personal contacts with members of rad-
+ical networks; and another 35% had contacts with radical
+milieus via digital media (Gill, Horgan, and Deckert2014,
+433–34). Schuurman and colleagues (2018, 3) found that
+the majority of lone actors referred to or even received
+some kind of justiﬁcation from radical leaders. Building on
+these insights, subsequent research started to examine
+processes of lone-actor radicalization in the context of
+broader radical milieus (Lindekilde, Malthaner, and
+O’Connor 2019; Malthaner and Lindekilde 2017;
+McCauley and Moskalenko 2014); the role of ideological
+and support networks (Berntzen and Sandberg 2014;
+Bright, Whelan, and Harris-Hogan 2020; Hofmann
+2020; Weimann 2012); the impact of extremist discourse;
+or strategies of “leaderless resistance” propagated by move-
+ment ideologues (e.g., Joosse 2007; Joosse, Bucerius, and
+Thompson 2015; Kaplan 1997; Pitcavage 2015). For
+example, Berntzen and Sandberg ( 2014) convincingly
+show how Anders Behring Breivik drew ideological inspi-
+ration for his manifesto ’s rationalization of violence from
+the broader anti-Islamic movement, although this move-
+ment, for the most part, is opposed to lethal political
+violence. Yet, despite this shift toward emphasizing social
+context, conceptual advances have been limited, and most
+studies have con ﬁned themselves to identifying some sort
+of connection to or support from others, or relying on a
+generic notion of “contextual factors.” More recently, the
+focus seems to have shifted, again, to the individual level
+and the character traits of the perpetrator, in particular the
+role of mental illness.
+Building on advances in this ﬁeld, we argue that to
+understand lone-actor radicalization —and to link it ana-
+lytically with the broader dynamics of violent episodes —
+we must go beyond adding context to an individualizing
+explanatory paradigm focusing on single perpetrators ’
+backgrounds and motivations. Starting from the empir-
+ical puzzle that many lone-actor terrorists act alone while
+having ties to radical milieus and online communities, we
+propose an approach that analyzes lone-actor radicaliza-
+tion as a relational pathway , which draws on, among other
+things, social movement theory on micromobilization.
+Lone-Actor Radicalization as a Relational Pathway
+Conceiving of radicalization as a relational pathway
+means, for one thing, examining how individual trajecto-
+ries are facilitated, driven, and shaped by relationships and
+interactions with other activists, networks, and radical
+milieus. The basic idea, developed in the literature on
+micromobilization, is that “radical” motivations and
+mindsets do not precede (and thus cannot explain) path-
+ways toward activism. Instead, preexisting social ties
+enable recruitment by connecting individuals to activist
+milieus. Newly formed activist friendships then channel
+new recruits toward more militant forms of action, as
+attitudes and ideas are gradually transformed through
+processes of socialization in activist groups (McAdam
+1986; McAdam and Paulsen 1993; Passy 2001; Snow,
+Zurcher, and Ekland-Olson 1980). Applying this
+approach to the study of jihadist terrorism, Mark Sageman
+and Quintan Wiktorowicz similarly ﬁnd that friendship
+and kinship ties are instrumental in linking individuals to
+jihadist networks (Sageman 2004), and that radicalization
+is driven by dense interactions and “learning” within
+radical milieus (Wiktorowicz 2005; for an overview, see
+Malthaner 2017, 376 –82). Thus, this literature stresses
+what Florence Passy ( 2001, 174, 180 –82) calls the
+structural-connection function of networks, as well as their
+socialization function (174, 178). Moreover, it shows that
+micromobilization often unfolds in a sequential pattern,
+with “low-risk activism” facilitating and “paving the way ”
+toward “high-risk” forms of activism (McAdam 1986,6 9–
+70). Within this dynamic, the transition from nonviolent
+political activism to clandestine violence is frequently
+inadvertent rather than a conscious decision (McCauley
+and Moskalenko 2017, 49).
+How, then, can this perspective help us to capture the
+social and collective dynamics of lone-actor terrorism?
+Existing research on the social embeddedness of lone-actor
+radicalization charts the relational connections of a sample
+of perpetrators (n = 30) over time (Lindekilde, Malthaner,
+and O’Connor 2019; Malthaner and Lindekilde 2017). It
+ﬁnds that most pathways of lone-actor radicalization are, in
+fact, embedded in various types of social environments,
+with at times intensive social ties to other radical activists
+and radical milieus, online and oﬄ ine. Yet, these trajectories
+do not correspond to known patterns of radicalization into
+terrorist groups. Instead, the radicalization of lone actors
+seems to follow more discontinuous, conﬂictive, and overall
+more complex trajectories, which often evolve on the
+periphery rather than at the center of radical networks
+and milieus. While some individuals are socially embedded
+in groups or movements at least for some period of time,
+other lone actors fail to join or are rejected from milieus,
+drift in the margins, or withdraw after conﬂicts with others
+from these settings. Thus, Lindekilde and colleagues ﬁnd
+that while almost all lone actors are, indeed, not “that
+alone,” they diﬀer signiﬁc a n t l yi nt h ew a ya n dt h ed e g r e e
+to which they are embedded in radical groups or milieus,
+which leads them to identify a set of di ﬀerent but recurring
+relational patterns in lone-actor radicalization (see table 2
+,
+and Lindekilde, Malthaner, and O ’Connor 2019). One
+pattern is that individuals at some earlier point in time
+became members of radical milieus or even terrorist groups
+466 Perspectives on Politics
+Article | Scattered Attacks: The Collective D ynamics of Lone-Actor Terrorism
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+but for some reason left, were expelled, or were cast adrift
+after groups disintegrated. Thisformerly embeddedsubset of
+cases includes “Abdi,”4 a Danish man of Somali origin,
+respected in his local community, who, after becoming part
+of jihadist networks in Denmark, had joined the al-Shabab
+militia to ﬁght in Somalia. He was later arrested in Kenya
+and had to leave the group. Upon his return to Denmark, he
+withdrew in frustration from personal as well as political/
+religious networks and eventually decided to carry out an
+attack on his own. A second, slightly more common pattern
+involves autonomous lone actors who are more or less well
+integrated into broader movements or radical milieus but
+carry out a terrorist attack alone and on their own initiative
+—either because they believe that their comrades are inca-
+pable or unwilling to put their beliefs into action or to
+protect the milieu by taking individual responsibility for
+violence. A good example of such a pattern is Timothy
+McVeigh,
+5 who was an active and well-connected ﬁgure in
+the US patriot militia milieu before planning and perpe-
+trating the Oklahoma City bombing in 1995. Whereas
+these embedded and formerly embedded types account for
+around half of the cases in the sample, the other half
+comprise lone actors who remained on the periphery of
+radical groups or milieus without ever becoming full mem-
+bers or engaging in more serious activism before their
+attacks. The reasons and the resulting trajectories, however,
+are quite diﬀerent across several subtypes of peripheral lone
+actors. A withdrawn subtype is characterized by passivity
+and indecisiveness in their relations with radical groups,
+refraining from becoming more active members even when
+they potentially have the opportunity. An example of this
+radicalization pattern can be seen in the case of “Fedja,”
+who frequented a radical jihadist milieu and had relatively
+close personal contacts with jihadist activists but never
+managed to take the step to solidify these ties into a
+meaningful involvement with other radicals. In stark con-
+trast to this “withdrawn” pattern, the antisocial subtype is
+overly self-conﬁdent and persistently engages with radical
+milieus, but because of their poor social skills is marginal-
+ized by others within these milieus. Finally, volatile lone
+actors alternate in an erratic pattern between engagement
+and withdrawal, being too impulsive and unstable to
+uphold their commitment for long or to be trusted by other
+militants. One example of this latter type is “Kyrill,” a
+Belgian of Chechen descent, close to his family and friends;
+a boxer who got into street ﬁghts and became part of
+criminal networks but eventually found his way to religion.
+While he at times led a pious life, he time and again reverted
+to criminal activities, sexual a ﬀairs, and partying, before
+spontaneously deciding to plant an explosive device in
+revenge for what he saw as an insult against his religion
+(see Lindekilde et al. 2018 and their supplement detailing
+patterns of radicalization in 30 empirical cases).
+Theorizing lone-actor radicalization as a relational path-
+way can inform our understanding of the social and
+collective nature of this phenomenon in several ways.
+First, it highlights the paradoxical fact that “lone” perpe-
+trators, who end up carrying out acts of terrorism on their
+own, emerge in a fundamentally social process. We ﬁnd
+trajectories in which interactive processes in the context of
+radical online and o ﬄ ine milieus produce varying degrees
+and forms of “loneness.” Rather than complete social
+isolation, “loneness” thereby often seems to consist of
+complex, discontinuous, and conﬂictive relationships with
+militant groups and movements. Distinguishing between
+diﬀerent types of lone-actor trajectories, based on di ﬀerent
+relational patterns, allows us not only to capture variation
+in the degree of social embeddedness, but also to identify
+diﬀerent mechanisms (and combinations of mechanisms)
+that drive and shape these pathways (see also Lindekilde,
+Malthaner, and O ’Connor 2019; Malthaner and Linde-
+kilde 2017). Furthermore, the typology suggests ways of
+specifying the impact of personality traits (or mental
+disorders); not necessarily as factors that directly a ﬀect
+individuals’ radicalization or violent acts, but as factors
+that shape how perpetrators form and sustain (di ﬀ
+erent
+types of) relationships with their social environment.
+Second, and crucially, analyzing and specifying the
+distinctive features of lone actors ’ social embeddedness
+allows us to address the forms of in ﬂuence, identiﬁcation,
+and connectivity that these relationships produce. The
+paradox, therefore, is that weak and contradictory ties can
+have strong relational e ﬀects. Even peripheral integration
+into networks and weak or con ﬂictive social relations can
+serve to develop and maintain collective identities and
+radical frameworks of interpretation (the socialization
+Table 2
+Relational Patterns of Lone-Actor Radicalization
+Embedded Peripheral
+Formerly embedded: involuntary or voluntary departure
+from radical group before attack.
+Withdrawn: selective commitment and self-withdrawal.
+Autonomous: remains embedded in radical group until
+attack.
+Anti-social: social rejection and inability to engage
+socially.
+Volatile: unstable commitment and lifestyle.
+Note: Based on tables 2 and 3 in Lindekilde, Malthaner, and O ’Connor (2019).
+June 2024 | Vol. 22/No. 2 467
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+function of networks [Passy 2001]). Moreover, networks of
+(weak) social ties are conduits for the ﬂow of information
+and communication (and spaces for the reinterpretation of
+external information). Because lone-actor terrorists rely on
+identities and legitimations to link their actions to broader
+movements and causes, and devise their actions in
+response to information about prior events, variance in
+social embeddedness a ﬀects the dynamics of episodes of
+lone-actor terrorism. In other words, the typology of
+relational pathways also points to di ﬀerent capacities and
+limitations of collective coordination and connectivity.
+Finally, we argue that to fully grasp the extent to which
+lone-actor radicalization constitutes a social phenomenon,
+we should not individualize these pathways. A compre-
+hensive analysis should also investigate how relational
+pathways are embedded in radical milieus and movements,
+and how they are facilitated, stabilized, and shaped by the
+discourses, interpretative frameworks, and structural
+characteristics of these environments. We do not unpack
+this additional level of analysis here but limit ourselves to
+highlighting its relevance by pointing to the empirical
+observation that lone-actor radicalization and attacks do
+not occur evenly across di ﬀerent movements. Rather,
+particular types of movements and (local) milieus seem
+more prone to “producing” lone actors than others , and, in
+some cases, tend to produce speciﬁc pathway patterns. For
+one thing, the vast majority of lone-actor attacks emerge in
+the context of jihadist and right-wing movements (as well
+as single-issue movements, e.g., anti-abortion), but rarely
+in the context of left-wing militant activism or separatist
+movements (see ﬁgure 1 ). In terms of geographic distri-
+bution, countries such as Italy, with burgeoning far-right
+scenes and periodic instances of collective violence, see
+comparatively few lone-actor attacks, whereas lone-actor
+attacks dominate in countries such as Austria, or coexist
+alongside other forms of violence —for example, in
+Figure 1
+Lone-Actor Terrorist Incidents per Ideology, Europe and North America
+Source: LART dataset, N = 328.
+468 Perspectives on Politics
+Article | Scattered Attacks: The Collective D ynamics of Lone-Actor Terrorism
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+Germany and the UK (Castelli Gattinara, O ’Connor, and
+Lindekilde 2018; Ravndal 2017; see also O ’Connor,
+Lindekilde, and Malthaner 2023).
+The Collective Dynamics of Lone-Actor
+Terrorist Attacks
+We now turn our analytical attention away from the level
+of individual lone actors and their social embeddedness to
+the level of collective dynamics of lone-actor attacks. The
+need to think of lone-actor political violence as a collective
+phenomenon—and ﬁnd ways to theorize its social and
+collective dynamics—becomes even more apparent when
+we make this analytical shift and consider that these attacks
+are rarely isolated incidents but frequently occur in clusters
+or “waves” and are part of broader episodes of violent
+mobilization. To some extent, this is re ﬂected in the
+signiﬁcant increase in the overall number of lone-actor
+terrorist attacks since 2009 (see ﬁgure 2). This increase was
+driven by several distinct (but overlapping) developments:
+the proliferation of al-Qaeda-related jihadist attacks after
+2008 (e.g., the Fort Hood shooting in 2009, and the
+attacks in Frankfurt in 2011 and Montauban in 2012); an
+upsurge of ISIS-related lone-actor incidents in 2014 –18,
+which accompanied the group ’s rapid expansion and
+subsequent decline in Syria and Iraq (the attacks in Nice
+in July 2016, Berlin in December 2016, and Manchester
+in May 2017, to name only a few); and a parallel surge in
+right-wing extremist attacks in the context of antirefugee
+violence. A third peak, in 2019–20, comprised a cluster of
+right-wing extremist attacks on mosques and synagogues
+following the Christchurch massacre, and overlapped with
+a smaller resurgence of jihadist attacks during the same
+period.
+Moreover, certain episodes of lone-actor violence (with
+respect to geography or the perpetrators ’ ideological aﬃ l-
+iation) often seem to unfold in a similarly clustered,
+wavelike pattern. For example, when we look at ISIS-
+related lone-actor jihadist attacks in Europe between 2014
+and 2019, the number of incidents increased gradually
+between 2014 and 2016, culminated in 2017, and then
+declined in 2018 and 2019, which mirrors a parallel, albeit
+smaller, cluster of ISIS-related group attacks (see ﬁgure 3).
+Figure 2
+Lone-Actor Terrorist Incidents per Year, Europe and North America
+Source: LART database, N = 331.
+June 2024 | Vol. 22/No. 2 469
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+Zooming in on lone-actor violence in the four most
+aﬀected countries —France, the UK, Belgium, and Ger-
+many—we again see that the overall wavelike pattern is an
+aggregate of several local clusters/waves, with temporally
+slightly o ﬀset peaks. In Germany and Belgium, violent
+incidents culminated in 2016, while Britain saw a peak of
+attacks in 2017 and France experienced a more prolonged
+plateau of attacks in 2015 –17 (see ﬁgure 4).
+As these examples show, lone-actor political violence
+tends to unfold in collective patterns in which individual
+attacks are clustered in time and space and are part of
+broader episodes of violent contention.
+The idea that episodes of terrorist violence can be
+composed of dispersed and largely autonomous attacks
+by lone actors or cells is not alien to the literature on
+political violence. After all, the ﬁrst (anarchist) “wave” of
+modern terrorism in the late nineteenth century corre-
+sponded to this pattern (Kaplan 2016; Rapoport 2004).
+Yet, as terrorism was understood to have since evolved into
+more organized violent campaigns by clandestine groups,
+research well into the 1990s considered it to be a
+phenomenon of the past,
+6 leading scholars to focus on
+terrorist groups ’ strategic choices or organizational struc-
+tures. In the late 1990s, studies on “leaderless resistance”
+(Kaplan 1997; 2011) reopened a debate on the social
+formations behind terrorist campaigns. Dismissing cen-
+tralized, hierarchical forms of organization as too vulner-
+able to government surveillance, leaders of right-wing
+extremist groups in the US had promoted “leaderless
+resistance” as a strategy of dispersed violent attacks by
+individuals or autonomous groups, “independent of any
+movement, leader, or network of support ” (Kaplan 1997,
+80), mobilized and held together by their common ideol-
+ogy and strong personal commitment, and coordinated via
+organs of information distribution such as newsletters
+(Kaplan 1997, 88; Michael 2012, 260). Initially consid-
+ered a symptom of the decline and isolation of the militant
+right-wing movement (Kaplan 1997, 80, 91; Rapoport
+2001, xii), the notion of autonomous individual attacks as
+part of a broader campaign of political violence then found
+its way into the “new terrorism” literature around the turn
+of the millennium. It predicted the advent of more
+Figure 3
+Jihadist Terrorist Incidents in Europe, 2014 –19
+Note:N=6 6 .
+470 Perspectives on Politics
+Article | Scattered Attacks: The Collective D ynamics of Lone-Actor Terrorism
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+decentralized terrorist networks and individual perpetra-
+tors (and violent campaigns as “netwars”;H oﬀman 2006,
+292) but interpreted this transformation not as a sign of
+decline, but as a harbinger of increasingly unpredictable,
+uncontrollable, and potentially more dangerous violent
+threats (see, inter alia, Ho ﬀman 2006; Lesser et al. 1999).
+Marc Sageman’s( 2008) famous Leaderless Jihad alludes to
+these earlier debates but with a di ﬀerent analytical focus,
+analyzing emerging patterns of “homegrown” jihadist
+terrorism in Europe and the US after 2005. Against the
+background of weakening organizational leadership and
+increasing constraints on open radical activism, jihadism,
+as Sageman (vii) argues, increasingly took the form of more
+dispersed “grassroots radicalization” by small, loosely con-
+nected groups.
+In short, even before the emergence of a more focused
+literature on lone actors, an idea that episodes or cam-
+paigns of political violence can consist of and be driven by
+autonomous attacks by individuals or small cells did exist.
+Yet, even if some studies on lone actors did prominently
+discuss the impact of “leaderless resistance ” (Gill 2015;
+Joosse 2017; Michael 2012), attempts to conceptualize
+these phenomena were limited to notions of movement
+ideologues “instigating” lone-actor attacks, or the idea that
+individual perpetrators are somehow linked by their shared
+ideology. While not incorrect, this does not help us much
+to understand the collective and interactive dynamics that
+shape the expansion and temporal patterns of episodes of
+lone-actor political violence.
+Research on organized terrorism could arguably provide
+some clues as to how to explain the dynamics of lone-actor
+attacks. A number of studies have examined spatial and
+temporal patterns of violence by terrorist organizations
+(LaFree et al. 2012; Tench, Fry, and Gill 2016; Townsley,
+Johnson, and Ratcli ﬀe 2008), highlighting di ﬀerences in
+local conditions that favor or constrain terrorism, as well as
+the strategic choices made by these organizations and their
+adaptation to these environments. Another relevant line of
+research is studies on clusters of hate crimes related to
+triggering or antecedent events (King and Sutton 2013).
+In a sense, the subjects addressed by these two literatures
+mark the opposite extreme poles of a spectrum of collective
+Figure 4
+Jihadist Lone-Actor and Group-Based Terrorist Incidents per Country, 2014 –19
+Note:N=4 7 .
+June 2024 | Vol. 22/No. 2 471
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+violence: terrorist organizations with central control on the
+one hand; hate crime as aggregate individual behavior on
+the other. Thus, these approaches provide an important
+frame of reference for the phenomena studied here. How-
+ever, their contribution to answering the questions raised
+—the emergent dynamics of weak coordination in epi-
+sodes of collective violence (somewhere “in-between” on
+this spectrum)—is limited.
+So, how can we account for clusters or “waves” of lone-
+actor attacks? The analytical perspective that we develop in
+this section focuses on the collective dynamics of lone-actor
+political violence. This approach is inspired by Charles
+Tilly’s( 2003) Politics of Collective Violence , in which he
+develops a way of conceptualizing collective violence that
+refers not primarily to the fact that violence is committed
+by collective actors such as organizations or movements
+but focuses on forms and patterns of coordination (3).
+Therefore, Tilly considers not only centrally organized
+violence but also weakly or indirectly coordinated violent
+phenomena, such as “scattered attacks,” comprising “sab-
+otage, clandestine attacks on symbolic objects or places,
+assaults on governmental agents, and arson, ” in the form
+of dispersed acts of violence accompanying broader epi-
+sodes of contention (15). Even if lone-actor terrorism
+cannot be placed neatly in any of Tilly ’s categories, his
+notion of “weakly coordinated collective action ” is, as we
+argue, of great heuristic value, because it opens up new
+ways of conceiving of the interactive processes that con-
+nect lone-actor attacks and produce “waves” of violence.
+To chart ways of theorizing these processes, we turn to
+approaches from social movement theory, in particular
+research on protest cycles (or protest waves) and studies of
+diﬀusion, which have sought to account for the episodic
+expansion and decline of mobilization, as well as the spread
+of innovations across and among movements.
+7 We draw
+on Alberto Melucci’s( 1996) notion of collective action as
+interactively constructed by heterogeneous and fragmen-
+ted movements, as well as Tilly ’s( 2003; 2005) concept of
+signaling spirals to capture communicative processes in the
+emergence of collective action. On this basis, we propose
+to distinguish ideal-typically three ways of conceptualizing
+the collective dynamics of episodes of lone-actor violence.
+First, violent incidents can be understood to cluster in time
+and space because they represent parallel individual
+responses to particular events or changes in the social and
+political environment. Second, collective dynamics can be
+explained as resulting from processes of di ﬀusion, in which
+frames of interpretation and tactical repertoires are trans-
+mitted within and across movements. Finally, multiple
+violent incidents may be seen as interconnected and as
+forming part of a violent campaign due to processes of
+interactive coordination among autonomous individual
+perpetrators. These are ideal types in the sense that they
+capture diﬀerent aspects of collective processes or diﬀerent
+causal dynamics that may explain the sequential, temporal,
+and spatial patterns of lone-actor political violence. Spe-
+ciﬁc violent episodes can exhibit —and be analyzed as —a
+particular combination of several of these ideal-type pro-
+cesses.
+Parallel Responses
+The notion that clusters of lone-actor attacks may result
+from a dynamic in which individuals without any direct or
+indirect interconnection respond in similar ways to a
+particular event or to changes in their broader political
+and sociocultural environment is, in a way, the most basic
+pattern of noninteractive “coordination.” According to this
+type of explanation, attacks take similar forms and cluster
+in time and space not because of any kind of (interactive)
+dynamic within the cluster of attackers or movements, but
+because of external events or factors, which trigger inde-
+pendent reactions from a sample of individuals. This
+notion of “parallel response” is useful as a baseline hypoth-
+esis to formalize our thinking by contrasting it with other
+types of coordination —social and interactive. But it also
+highlights important, observable e ﬀects of events and
+changes in contextual factors (opportunity structures) that
+cannot be explained by looking only at dynamics that are
+endogenous to the process of mobilization. Waves of
+protest may indeed, as Oliver and Myers (2003, 175) have
+noted, arise “from common responses to external events ”
+(see also Tarrow 2011). Or as Koopmans ( 2004,2 2–23)
+argues, from sudden or gradual sociostructural changes
+that a ﬀect political opportunities and available resources.
+For example, when examining urban disturbances such as
+“bread riots,” the rise and fall of prices for basic commod-
+ities clearly in ﬂuence the temporal pattern of these inci-
+dents. Similarly, the series of lone-actor terrorist attacks in
+various European countries in the aftermath of the pub-
+lication of caricatures depicting the prophet Mohammed
+by Danish newspapers in 2005/6, or right-wing extremist
+attacks in the wake of a rapid in ﬂux of refugees into
+Germany in 2015, might simply be conceived of as
+independent responses to these events —if not in terms
+of underlying causes, then at least with respect to their
+timing and, thus, their co-occurrence.
+8
+Interestingly, in Tilly ’s “low-coordination” types of
+collective violence we also ﬁnd elements of a “parallel
+response” dynamic. “Scattered attacks” occur when some
+individuals respond—independently from one another —
+to obstacles or challenges in their environment with
+violent means (2003, 14 –15). Episodes of violence (and
+their temporal patterns), then, may be shaped by changes
+in environmental conditions (in particular, political
+opportunities and threats) or mobilize around particular
+events (14, 131 –32, 172 –73; on changes in political
+opportunities and waves of xenophobic violence, see also
+Koopmans and Olzak 2004). Yet, Tilly ’s way of linking
+violent episodes to political environments also highlights
+472 Perspectives on Politics
+Article | Scattered Attacks: The Collective D ynamics of Lone-Actor Terrorism
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+the limitations of a mere “parallel response ” explanation,
+because events, opportunities, and threats, as Tilly and his
+collaborators repeatedly make clear, are not objective
+conditions, but ones that need to be perceived and inter-
+preted and are subject to processes of “collective
+attribution” (McAdam, Tarrow, and Tilly 2001,4 3 –
+45). In other words, “events” and “threats” need to be
+recognized as such and given political relevance to trigger a
+response and mobilize action. Moreover, reactions by
+disconnected individuals depend on collective identities
+and take similar forms only when they draw on a shared
+repertoire of action. The outrage against the Mohammed
+cartoons in Danish newspapers is a particularly instructive
+case, as the cartoons became a focus of mobilization —and
+triggered lone-actor terrorist attacks —only after a lengthy
+and complex process of collective attribution by Muslim
+activists and movements, in which they were transformed
+into a symbol of injustice (Lindekilde2008; Olesen 2011).
+In sum, the temporal dynamic of episodes of lone-actor
+political violence cannot be understood without examin-
+ing their relation to events or changes in their political and
+social environment. However, the notion of lone-actor
+terrorist attacks as parallel responses has its limits. It leaves
+us in the dark about the processes by which certain events
+are constructed as triggering events, through which prac-
+tices become available and “waves” of attacks become
+connected in the wake of events (or even independently
+of them). To shed light on these, we must turn to
+dynamics of di ﬀusion and interactive coordination and
+examine how they are intertwined.
+Processes of Di ﬀusion
+Originally developed in the study of innovations (Rogers
+2003), “diﬀusion” refers to the processes through which
+ideas and practices are transmitted and spread, across a
+society or from one place to another, as a way to account
+for the expansion or clustering in time and space of
+particular forms of behavior. Students of social movements
+and collective violence, intrigued by dramatic “waves” of
+protests—for example, the Arab Spring or the prolifera-
+tion of urban rioting in the US in 1964 –71—have
+emphasized that these phenomena need to be conceived
+of as a series of interconnected events. They have examined
+the way “rioting” spread from one city to another, and how
+symbols and tactics traveled between di ﬀerent sites of
+protests and between movements (see Givan, Roberts,
+and Soule 2010; Koopmans 2004; Myers 2000; Soule
+and Roggeband 2018; Tarrow 2005; 2011). Realizing that
+the spread of protest, and of particular forms of action, had
+to do with the fact that “(a)ctivists operating in di ﬀerent
+contexts took inspiration and learned from the successes
+and failures of other movements ” (Soule and Roggeband
+2018, 236), this strand of research studied behavioral
+diﬀusion, including the spread of tactical repertoires, as
+well as (and as intertwined with) ideational di ﬀusion,i n
+particular the transmission of collective action frames
+(Givan, Roberts, and Soule 2010,3 –6). Moreover, by
+emphasizing that the diﬀusion of ideas and practices is not
+only driven by the dissemination of information via mass
+media and similar forms of communication (indirect or
+nonrelational di ﬀusion) but also often depends on per-
+sonal bonds between individuals and organizations (direct
+or relational di ﬀusion), scholars have shown how inter-
+personal networks (strong and weak ties) act as conduits
+for ideas, and how relationships in ﬂuence individual deci-
+sions to adopt innovations (with the rise of the internet
+and new social media increasingly blurring the boundaries
+between relational and nonrelational di ﬀusion) (Givan,
+Roberts, and Soule 2010,7 –12; Soule and Roggeband
+2018, 237–40; Tarrow 2011, 252–54).
+From this perspective, the proliferation of lone-actor
+attacks, as an overall trend as well as during particular
+episodes, can be analyzed as a process of behavioral
+diﬀusion, in which the spread of a repertoire of action is
+driven and reinforced by the dispersion of frames and
+narratives that legitimize this form of violence and make it
+available as a practice. This also means that the temporal
+pattern and expansionary dynamic of clusters, such as the
+“wave” of attacks following on from the Mohammed
+cartoons, is shaped not merely by the event itself but by
+the processes in which particular narratives and symbols—
+as well as speci ﬁc repertoires of violent action —are pro-
+duced and disseminated. Furthermore, processes of di ﬀu-
+sion can be observed when speci ﬁc forms of violence or
+tactical innovations spread or travel across settings. For
+example, lone-actor vehicle and knife attacks as a tactical
+repertoire emerged in Israel and the occupied Palestinian
+territories, were adopted by jihadist terrorists, and became
+a hallmark of the wave of lone-actor attacks in Europe
+linked to ISIS, particularly after 2016 (Schneckener
+2019). Vehicle attacks were even adopted across the
+political divide, by right-wing extremists (e.g., the 2017
+attacks in Charlottesville and Finsbury Park in London),
+which con ﬁrms the transferability —or modularity
+(Tarrow 2011,3 7 –41)—of this tactic. In other words,
+the di ﬀusion of pieces of information or techniques that
+can inspire or shape terrorist acts is not limited to one
+movement but can traverse ideological boundaries. As a
+result, waves of lone-actor terrorist attacks with di ﬀ
+erent
+political leanings may trigger or intensify each other and
+become interlinked.
+Approaches from social movement studies need to be
+adapted to the study of lone-actor political violence, of
+course, as clusters of autonomous violent actions are not
+the same as conventional protest campaigns. Nevertheless,
+we argue that diﬀusion theory oﬀers important conceptual
+advantages and tools to capture the processes that drive
+this phenomenon. First, di ﬀusion theory links the spread
+of ideas (and repertoires) with the spread of forms of
+June 2024 | Vol. 22/No. 2 473
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+behavior and thus addresses the connection between, for
+example, extremist narratives or conspiracy theories, on
+the one side, and violent action, on the other. By pointing
+to the role of social networks not only in transmitting
+information (about events and innovations, as well as in
+the form of interpretative frames and practices) but also in
+the crucial steps of making this information relevant,
+assessing its applicability, and translating it into action
+(Rogers 2003, 300 –5), di ﬀusion theory enables us to
+connect the social embeddedness of individual pathways
+of radicalization —the ﬁrst part of our framework —with
+the collective dynamics that shape episodes of lone-actor
+violence. Network ties —however peripheral, discontinu-
+ous, or conﬂictive—are the “connective tissue” (Soule and
+Roggeband 2018, 236) through which information and
+practices become available. Moreover, even when individ-
+uals become aware of ideas and techniques via nonrela-
+tional di ﬀusion, they typically need some degree of
+conﬁrmation and reinforcement through personal rela-
+tionships to make these ideas relevant and translate them
+into action.
+Second, di ﬀusion theory o ﬀers ways to explain the
+wavelike patterns in which lone-actor attacks proliferate
+by pointing to network- and critical-mass e ﬀects (Rogers
+2003, 342–51, 360–62). Indeed, the puzzle at the heart of
+many di ﬀusion studies is that the spread of innovations
+does not evolve evenly but often accelerates rapidly at a
+certain point in time (Rogers 2003, 11). Applied to the
+analysis of lone-actor violence, di ﬀusion approaches thus
+allow us to examine points in time when certain narratives
+or repertoires spread into particular communication spaces
+(or when they are disseminated by particular opinion
+leaders) as critical junctures that lead to sudden accelera-
+tion in a wave of lone-actor attacks. And it makes us look
+for critical-mass e ﬀects—for example, by examining how
+the number of previous attacks, the media attention they
+received, as well as certain characteristics of the perpetra-
+tors (e.g., similar social background) lower the threshold
+for subsequent lone actors and, consequently, lead to an
+upsurge in the rate of proliferation.
+Third, and linked to this notion of critical mass, studying
+the proliferation of lone-actor attacks as a process of di ﬀu-
+sion also allows us to link di ﬀerent phases in a “wave” of
+lone-actor attacks to diﬀerent types of perpetrators. Distin-
+guishing between “innovators,”“ early adopters,” and “late
+adopters” not only allows us to capture their di ﬀ
+erent
+functions in the process of di ﬀusion; it also points to
+diﬀerent individual thresholds (e.g., moral justiﬁcation, risk
+aversion, expectation of success) to lone-actor attacks at
+diﬀerent points in the process, as well as potential di ﬀer-
+ences in personal characteristics, network embeddedness,
+etc., among these types.
+In sum, in the case of lone-actor political violence, the
+notion of “diﬀusion” allows us to explore the collective
+processes in which narratives, frames, and practices are
+produced and disseminated. It also makes it possible to
+link these processes to diﬀerent types of “adopters,” as well
+as to the di ﬀering patterns of relationships that connect
+lone actors to radical networks and milieus —and to
+develop an understanding of the dynamics of waves of
+lone-actor attacks based on the interaction of these ele-
+ments. Yet, debates in research on diﬀusion have also made
+clear that there are limits to the extent to which waves of
+mobilization can be analyzed based on a notion of di ﬀu-
+sion as the spread of an innovation to “adopters.” Various
+studies have not only shown that not all ideas and tactics
+diﬀuse easily, but that they also di ﬀer in modularity
+(Givan, Roberts, and Soule 2010,4 –6). The more recent
+literature also has started to develop a more nuanced
+understanding of the process of perceiving, selecting,
+and acting upon frames and repertoires. Instead of reduc-
+ing individuals to passive adopters, these studies emphasize
+the agency of actors who not only strategically select
+innovations from “transmitters” but also experiment with
+these repertoires, redeploy frames, and creatively adjust
+them to their needs (Chabot 2012, 106 –8; Soule and
+Roggeband 2018, 241–42, 244). In other words, the way
+individuals use and act upon signals and repertoires trans-
+mitted through diﬀusion processes involves an element of
+purposeful deliberation and adaptation. To capture this
+element in episodes of lone-actor political violence, we
+propose to examine how di ﬀusion dynamics intersect and
+combine with a third type of collective dynamic: “inter-
+active coordination, ” which emerges from what could be
+termed the “microstrategic agency ” of dispersed, autono-
+mous actors who jointly construct a campaign of collective
+violent action.
+Interactive Coordination
+In his seminal book Challenging Codes , Alberto Melucci
+(1996
+, 4) argues against the common misconception of
+social movements as unitary phenomena, which he argues
+is inadequate to capture the “reality of reticular and diﬀuse
+forms of collective action. ” Instead, he calls on us to
+examine how individuals and groups actually manage to
+act together, how they construct collective action via inter-
+pretative processes that enable them to “deﬁne a ‘situation’
+as a ﬁeld of shared action, ” and to “recognize each other
+and become part of a ‘we’” (15–16).
+Our third type of collective dynamics shaping episodes
+of lone-actor political violence —dynamics of interactive
+coordination—refers to analogue processes in clusters of
+autonomous perpetrators who interactively construct a
+notion of a common identity (being part of a radical
+movement) and of their violent acts as part of a collective
+violent campaign. Lone actors plan and carry out violent
+attacks autonomously and on their own initiative, but they
+often conceive of their actions as following in the footsteps
+of prior lone actors, as being part of a broader movement
+474 Perspectives on Politics
+Article | Scattered Attacks: The Collective D ynamics of Lone-Actor Terrorism
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+and of a broader struggle against a common enemy.
+Moreover, many lone-actor attacks implicitly or explicitly
+seek to inspire and mobilize others to follow their lead and
+to demonstrate the feasibility and e ﬀectiveness of lone-
+actor attacks (or particular tactics or technologies) as part
+of a repertoire of political violence. In other words, the
+perpetrators, in their communications and manifestos as
+well as in the symbolism of their violent attacks (timing,
+weapons, other references), set themselves in relation to
+prior (and potential subsequent) lone actors or broader
+movements, refer to a common enemy and purpose, and
+construct an image of their terrorist act as part of some
+collective violent campaign.
+We propose to distinguish two di ﬀerent patterns in
+which this process of interactive coordination can play out,
+depending on the nature of the relationship between lone
+actors and radical movements and milieus. One common
+pattern is that individual perpetrators conceive of them-
+selves and their violent attacks as being part of a movement
+and an ongoing violent campaign that is driven not only by
+lone actors, but also (or mainly) by terrorist groups or even
+larger armed organizations. For example, numerous jihad-
+ist lone actors in Europe and the US from 2015 onward
+proclaimed their acts to be part of the broader war waged
+by the so-called Islamic State in Syria and Iraq, referring to
+other lone-actor attacks, but identifying especially with
+ISIS and the jihadist movement, which in many cases then
+recognized or claimed these attacks as their own (Hansen
+2021). However, interactive coordination is not just about
+individuals aspiring to become part of a larger movement
+and terrorist groups “absorbing” lone-actor attacks. A
+second pattern is composed of sequences of lone-actor
+attacks, where the perpetrators primarily refer to and take
+their cues from other lone perpetrators, in more or less self-
+contained and self-referential episodes of lone-actor ter-
+rorism that are only loosely connected to broader radical
+movements. An example of this “self-referential” pattern is
+the cluster of lone actors in one way or another following
+“in the footsteps ” of Anders Behring Breivik. The perpe-
+trators of a number of far-right extremist attacks —includ-
+ing those in Charleston, USA (June 2015); Munich,
+Germany (July 2016); Christchurch, New Zealand
+(March 2019); Poway, USA (April 2019); El Paso, USA
+(August 2019); Baerum, Norway (August 2019); and
+Halle, Germany (October 2019) —explicitly referenced
+Breivik and his 2011 attack, with subsequent attacks in
+this same sequence further acknowledging one another as
+well as deliberately seeking to inspire future attacks,
+leading to the consolidation of an increasingly interlinked
+narrative (see, inter alia, Baele, Brace and Coan 2023;
+Macklin 2022; Macklin and Bjørgo 2021; Ware 2020).
+The distinction between self-referential sequences of
+lone-actor attacks and those more directly related to
+organized terrorist campaigns is, of course, an analytical
+distinction, and empirical episodes of lone-actor terrorism
+may exhibit features of both. Moreover, in some cases
+lone-actor attacks may become the predominant form of
+violence within a terrorist campaign that was originally
+driven by an armed organization (like jihadist lone-actor
+attacks in Europe at a certain point in time), reshaping the
+logic of the overall episode of terrorist violence. Neverthe-
+less, the distinction is important, because it points to a
+potential link between di ﬀerent types of lone-actor social
+embeddedness (see the ﬁrst section) and patterns of inter-
+active coordination.
+So, what are the processes by which decentralized
+attacks are coordinated and a notion of being part of a
+collective violent campaign is constructed in these various
+patterns of lone-actor episodes? How do lone actors
+“communicate”? We argue that Charles Tilly ’s notion of
+“signaling spirals” can help to conceptualize this dynamic.
+According to Tilly’s( 2003, 176) analysis, signaling spirals
+are particularly relevant in low-coordination forms of
+collective violence, as they “communicate the current
+feasibility and e ﬀectiveness” of certain forms of violent
+action.
+9 Applied to the phenomenon of lone-actor terror-
+ism, this notion of “signaling spirals” points to the fact that
+in the absence of direct channels of communication
+between perpetrators and without organizational direc-
+tion, the violent attacks themselves become a means of
+conveying information about threats and “enemies,” but
+also of communicating the claim to be part of a common
+eﬀort and a means of “proposing” a form of action by
+demonstrating its eﬀectiveness. In other words, lone actors
+not only “send a message ” through their manifestos or
+statements, but the violent attack itself also becomes a
+signal that shows others that a certain tactic is viable and
+justiﬁed—that it is possible “to do something.” The attack
+as a signal —to refer and connect to prior and subsequent
+attacks and to a larger struggle —only works within some
+forms of collective identity, of course, and with reference
+to interpretative frames shared among perpetrator and
+addressees (Melucci 1996,6 4 –67). It thus relies on and
+“invokes” identities formed in pathways of radicalization
+embedded (weakly and discontinuously) in radical milieus
+as well as in frames and practices di ﬀused across move-
+ments. In episodes of lone-actor terrorism, signaling spirals
+therefore not only activate and reinforce identities and
+notions of a common struggle, but by conveying the
+message of timeliness and opportunity (or threat) and by
+inspiring others to follow in their footsteps, they also create
+a coordinative dynamic that contributes to shaping wave-
+like patterns of violence.
+In sum, we suggest exploring how, through processes
+of interactive coordination, autonomous and organiza-
+tionally independent perpetrators produce a shared imag-
+ination of their violent acts as a collective campaign —and
+how by acting on this imagination they make it real. This
+perspective equally allows us to link individual perpetra-
+tors and their attacks to the collective dynamics that they
+June 2024 | Vol. 22/No. 2 475
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+jointly produce. As this introduces a strategic logic to
+emergent collective processes (and individual delibera-
+tions), it enables us to capture a di ﬀerent type of thresh-
+old or critical-mass e ﬀect. Tipping points leading to the
+proliferation of attacks, then, can be expected when
+shared interpretations of the situation (or political oppor-
+tunity structure) as favorabl e to lone-actor political vio-
+lence become dominant, when attacks are widely
+interpreted as successes, and when a notion that lone
+actors are part of broader movements and campaigns
+becomes normalized.
+Conclusions
+The proliferation of lone-actor terrorist attacks over the
+past decade can be understood as part of a broader
+transformation of the landscape of political violence in
+Western countries, which seems to entail a shift toward
+more decentralized, weakly coordinated, and emergent
+phenomena of violence (also including collective urban
+violence, such as the January 6th Capitol attacks in
+Washington, DC), as well as borderline and hybrid
+phenomena at the intersection of political violence,
+nonpolitical violence, and organized crime. Thus, explor-
+ing ways of theorizing the social and collective dynamics
+of lone-actor political violence is not only about addres-
+sing an empirical puzzle (the presence of social ties; the
+uneven occurrence across milieus and movements; the
+clustered pattern of violent attacks), but about analyti-
+cally capturing an entirely di ﬀerent and potentially
+increasingly relevant logic of violent processes. Yet, ana-
+lyzing the social and collective dynamics of lone-actor
+political violence poses considerable challenges. The task
+is to develop an understanding of lone-actor radicaliza-
+tion as embedded in radical milieus and movements
+while emphasizing the discontinuous, incomplete, and
+conﬂictive nature of these relations, and to theorize the
+coordinative dynamics that shape episodes of lone-actor
+violence—all without neglecting the disparate, autono-
+mous, and at times idiosyncratic nature of lone-actor
+attacks.
+This article outlines an approach that analyzes lone-
+actor political violence at two interconnected levels. First,
+with respect to the social embeddedness of lone-actor
+radicalization as relational pathways, we suggest that these
+are shaped by ties to and interactions with radical online
+and o ﬄ ine milieus and movements, but also that these
+relational patterns vary considerably between embedded
+and peripheral lone-actor radicalization trajectories. Sec-
+ond, we propose to ideal-typically distinguish three kinds
+of collective dynamics that shape the temporal patterns of
+episodes of lone-actor attacks: lone-actor violence as result-
+ing from a parallel response to an external event or changes
+in the social or political environment; the increase and
+spread of lone-actor violence as driven by processes of
+diﬀusion, in which frames and repertoires are transmitted
+across movements and settings; and processes of interactive
+coordination through which lone actors actively interlink
+their attacks to construct a notion of a common identity,
+enemy, and collective action. These levels are inherently
+interconnected. The frames, narratives, and repertoires
+that facilitate and “produce” pathways of radicalization
+in the context of milieus and movements are subject to
+processes of di ﬀusion, which help to explain their uneven
+and changing availability over time and across milieus. The
+social networks in which lone-actor pathways are (par-
+tially) embedded form the “connective tissue ” through
+which ideas and practices are spread and which enables
+individuals to act on them. Finally, “microstrategic
+agency” shapes coordinative processes in collective epi-
+sodes as well as individual pathways.
+The shift in perspective that this framework entails —
+toward the social and collective dynamicsof lone-actor terror-
+ism—might be heuristically useful in opening new ways of
+exploring violent phenomena more generally, by decenter-
+ing the analysis from the perpetrators. It suggests an analyt-
+ical logic similar to experiments in particle physics, which
+use the trajectory of a single particle to make visible the
+structure and dynamics of an electromagnetic ﬁeld. Quite
+similarly, from this perspective, lone actors represent a
+window into the structure of radical movements and net-
+works, as well as into the cultural and interpretative pro-
+cesses that construct lone-actor attacks as a repertoire of
+violence. Therefore, and paradoxically, the very notion of
+“lone actors” can help us to understand the social dynamics
+of collective violence more generally by questioning and
+thereby highlighting the nature of social ties, and it lays bare
+the referential logic in which violence is perpetrated and
+perceived as political. As such, our theoretical framework
+may aid counterterrorism e ﬀorts by highlighting the link
+between threats from lone-actor terrorists and larger violent
+movements and campaigns, which have tended to be
+assessed and approached separately.
+Notes
+1 The data on which this article is based (Malthaner,
+O’Connor and Lindekilde 2023) was originally com-
+piled for a collaborative research project (PRIME —
+Preventing, Mitigating, and Interdicting Lone-Actor
+Extremist Events, 2014 –17). This dataset was subse-
+quently extended chronologically and geographically
+and transformed into the Lone Actor Radicalization and
+Terrorism (LART) dataset (N = 331), which includes
+the majority of known instances of lone-actor terrorism
+in Europe and North America between 1991 and 2021.
+See also O ’Connor, Lindekilde, and Malthaner ( 2023)
+and Lindekilde, Malthaner, and O ’Connor (2019).
+2 Lone-actor terrorists are deﬁned here as individuals
+threatening to carry out or carrying out acts of terrorist
+violence who (1) operate as a single perpetrator in the
+preparation and the execution of the attack, (2) do not
+476 Perspectives on Politics
+Article | Scattered Attacks: The Collective D ynamics of Lone-Actor Terrorism
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+belong to a terrorist organization or group at the time of
+the attack, and (3) do not act on direct orders or under
+the direct inﬂuence of a leader or group (see Lindekilde,
+Malthaner, and O ’Connor 2019, as well as Borum,
+Fein, and Vossekuil 2012; Gill 2015). For the purpose
+of this article, terrorism is deﬁned as the use of violence,
+or the threat of violence, often (but not exclusively)
+against civilian targets, as a means of creating fear
+among particular target audiences to e ﬀect (or resist)
+political change (see Ho ﬀman 2006; Schmid 2011).
+3 The term “radical milieu” refers to the “formative and
+supportive social environment ” of terrorist groups and
+individuals, which is also the context in which they
+form radical perspectives and understandings
+(Malthaner and Waldmann 2014).
+4 In order to comply with data protection obligations,
+names of perpetrators in inverted commas, such as
+“Abdi,” are pseudonyms.
+5 Not all authors agree with the classi ﬁcation of McVeigh
+as a lone-actor terrorist (see Hamm and Spaaij 2017), as
+he did receive a degree of assistance in the making of
+the bomb.
+6 As David Rapoport ( 2001, xi) conceded: “we thought it
+would never be resuscitated in our lifetime and did not
+give it much attention. ”
+7 A thorough discussion of the social movement literature
+on diﬀusion would go beyond the scope of this article.
+For an overview, see Givan, Roberts, and Soule ( 2010),
+Soule and Roggeband ( 2018), and Tarrow ( 2005;
+2011).
+8 Interestingly, in the strategy of “leaderless resistance” as
+devised by right-wing extremist Louis R. Beam ( 1992),
+we ﬁnd elements of this idea: “Since the entire purpose
+of Leaderless Resistance is to defeat state tyranny … all
+members of phantom cells or individuals will tend to
+react to objective events in the same way through usual
+tactics of resistance. Organs of information distribution
+such as newspapers, lea ﬂets, computers, etc. … keep
+each person informed.” One must emphasize, however,
+that Beam—a radical activist —describes a theoretical
+(imagined) strategy of “leaderless” attacks, rather than
+an empirical analysis.
+9 The notion of “signaling” in a dynamic of decentralized,
+emergent, and interactive coordination can also be
+found in (symbolic) interactionist accounts of how
+“crowds” establish shared understandings and common
+objectives via processes of communication based on
+visible, performed, and observed action; a process that
+Turner and Killian (1987,5 0–59, 77–78, 84–85) have
+called “keynoting.” The concept of keynoting, thus,
+also allows us to capture the contingent nature of these
+processes, resulting from competition among violent
+actors signaling diﬀerent interpretations of the situation
+and projecting diﬀerent lines of action, and it points to
+the role of particular audiences in making particular
+“keynotes” dominant (59, 88 –89).
+References
+Baele, Stephane J., Lewys Brace, and Travis G. Coan.
+2023. “The ‘Tarrant Eﬀect’: What Impact Did Far-
+Right Attacks Have on the 8chan Forum? ” Behavioral
+Sciences of Terrorism and Political Aggression 15 (1):
+1–23. DOI: 10.1080/19434472.2020.1862274.
+Bakker, Edwin, and Beatrice De Graaf. 2011. “Preventing
+Lone Wolf Terrorism: Some CT Approaches
+Addressed.” Perspectives on Terrorism 5 (5/6): 43 –50.
+Beam, Louis. 1992. “Leaderless Resistance.” The
+Seditionist 12 (February).
+Berntzen, Lars Erik, and Sveinung Sandberg. 2014. “The
+Collective Nature of Lone Wolf Terrorism: Anders
+Behring Breivik and the Anti-Islamic Social
+Movement.” Terrorism and Political Violence 26 (5):
+759–79. DOI: 10.1080/09546553.2013.767245.
+Borum, Randy, Robert Fein, and Bryan Vossekuil. 2012.
+“A Dimensional Approach to Analyzing Lone Oﬀender
+Terrorism.” Aggression and Violent Behavior 17 (5):
+389–96. DOI: 10.1016/j.avb.2012.04.003.
+Bright, David, Chad Whelan, and Shandon Harris-
+Hogan. 2020. “Exploring the Hidden Social Networks
+of ‘Lone Actor’ Terrorists.” Crime, Law and Social
+Change 74 (5): 491 –508. DOI: 10.1007/s10611-020-
+09905-2.
+Castelli Gattinara, Pietro, Francis O ’Connor, and Lasse
+Lindekilde. 2018. “Italy, No Country for Acting Alone?
+Lone Actor Radicalisation in the Neo-Fascist Milieu. ”
+Perspectives on Terrorism 12 (6): 136 –49.
+Chabot, Sean. 2012. Transnational Roots of the Civil Rights
+Movement: African American Explorations of the
+Gandhian Repertoire. Lanham, MD: Lexington Books.
+Corner, Emily, and Paul Gill. 2015. “A False Dichotomy?
+Mental Illness and Lone-Actor Terrorism.
+” Law and
+Human Behavior 39 (1): 23 –34. DOI: 10.1037/
+lhb0000102.
+Feldman, Matthew. 2013. “Comparative Lone Wolf
+Terrorism: Toward a Heuristic De ﬁnition.” Democracy
+and Security 9 (3): 270 –86. DOI:
+10.1080/17419166.2013.792252.
+Gartenstein-Ross, David. 2014. “Lone Wolf Islamic
+Terrorism: Abdulhakim Mujahid Muhammad (Carlos
+Bledsoe) Case Study. ” Terrorism and Political Violence
+26 (1): 110 –28. DOI:
+10.1080/09546553.2014.849921.
+Gill, Paul. 2015. Lone-Actor Terrorists: A Behavioural
+Analysis. London: Routledge. DOI:
+10.4324/9781315766348.
+Gill, Paul, John Horgan, and Paige Deckert. 2014.
+“Bombing Alone: Tracing the Motivations and
+Antecedent Behaviors of Lone-Actor Terrorists. ”
+June 2024 | Vol. 22/No. 2 477
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+Journal of Forensic Sciences 59 (2): 425 –35. DOI:
+10.1111/1556-4029.12312.
+Givan, Rebecca Kolins, Kenneth M. Roberts, and Sarah A.
+Soule. Eds. 2010. The Diﬀusion of Social Movements:
+Actors, Mechanisms, and Political E ﬀects. Cambridge:
+Cambridge University Press. DOI: 10.1017/
+CBO9780511761638.
+Goodwin, Jeﬀ. 2006. “A Theory of Categorical
+Terrorism.” Social Forces 84 (4): 2027 –46. DOI:
+10.1353/sof.2006.0090.
+Hamm, Mark S., and Ramón Spaaij. 2017. The Age of
+Lone Wolf Terrorism . New York: Columbia University
+Press. DOI: 10.7312/hamm18174.
+Hansen, Tanja Marie. 2021. “Fifty Shades of Terrorist
+Credit-Taking: A Review of the Existing Scholarship on
+Terrorist Credit-Taking.” International Studies Review
+23 (4): 1370 –98. DOI: 10.1093/isr/viab011.
+Heath-Kelly, Charlotte. 2013. Politics of Violence:
+Militancy, International Politics, Killing in the Name .
+London: Routledge. DOI: 10.4324/9780203727560.
+Hewitt, Christopher. 2014. “Law Enforcement Tactics
+and Their E ﬀectiveness in Dealing with American
+Terrorism: Organizations, Autonomous Cells, and
+Lone Wolves.” Terrorism and Political Violence 26 (1):
+58–68. DOI: 10.1080/09546553.2014.849913.
+Hoﬀman, Bruce. 2006. Inside Terrorism, revised and
+expanded edition. New York: Columbia University Press.
+Hoﬀman, Bruce, and Colin Clarke. 2020. “The Next
+American Terrorist.” The Cipher Brief , July 2. https://
+www.thecipherbrief.com/the-next-american-terrorist.
+Retrieved May 17, 2023.
+Hofmann, David C. 2020. “How ‘Alone’ are Lone-
+Actors? Exploring the Ideological, Signaling, and
+Support Networks of Lone-Actor Terrorists.” Studies in
+Conﬂict & Terrorism 43 (7): 657 –78. DOI:
+10.1080/1057610X.2018.1493833.
+Holzer, Jacob C., Andrea J. Dew, Patricia R. Recupero, and
+Paul Gill. Eds. 2022.Lone-Actor Terrorism: An Integrated
+Framework. Oxford: Oxford University Press. DOI:
+10.1093/med/9780190929794.001.0001.
+Joosse, Paul. 2007. “Leaderless Resistance and Ideological
+Inclusion: The Case of the Earth Liberation Front. ”
+Terrorism and Political Violence 19 (3): 351 –68. DOI:
+10.1080/09546550701424042.
+Joosse, Paul. 2017. “Leaderless Resistance and the
+Loneliness of Lone Wolves: Exploring the Rhetorical
+Dynamics of Lone Actor Violence. ” Terrorism and
+Political Violence 29 (1): 52 –78. DOI:
+10.1080/09546553.2014.987866.
+Joosse, Paul, Sandra M. Bucerius, and Sara K. Thompson.
+2015. “Narratives and Counternarratives: Somali-
+Canadians on Recruitment as Foreign Fighters to
+Al-Shabaab.” British Journal of Criminology 55 (4):
+811–32. DOI: 10.1093/bjc/azu103.
+Kaplan, Jeﬀrey. 1997. “Leaderless Resistance.” Terrorism
+and Political Violence 9 (3): 80 –95. DOI:
+10.1080/09546559708427417.
+Kaplan, Jeﬀrey. 2011. “History and Terrorism. ” The
+Journal of American History 98 (1): 101 –5. DOI:
+10.1093/jahist/jar112.
+Kaplan, Jeﬀrey. 2016. “Waves of Political Terrorism. ” In
+The Oxford Research Encyclopedia of Politics , eds.
+William R. Thomspon, Jóhanna K. Birnir, Erik
+Martinez Kuhonta, Verlan Lewis, and Regina Smyth.
+New York: Oxford University Press. DOI: 10.1093/
+acrefore/9780190228637.013.24.
+Kenyon, Jonathan, Christopher Baker-Beall, and Jens
+Binder. 2023. “Lone-Actor Terrorism—A Systematic
+Literature Review.” Studies in Con ﬂ
+ict & Terrorism 46
+(10): 2038–65.
+King, Ryan D., and Gretchen M. Sutton. 2013. “High
+Times for Hate Crimes: Explaining the Temporal
+Clustering of Hate-Motivated Oﬀending.” Criminology
+51 (4): 871 –94. DOI: 10.1111/1745-9125.12022.
+Koopmans, Ruud. 2004. “Protest in Time and Space:
+The Evolution of Waves of Contention. ” In The
+Blackwell Companion to Social Movements ,e d s .
+D a v i dA . S n o w ,S a r a hA .S o u l e ,a n dH a n s p e t e rK r i e s i ,
+19–46. Oxford: Blackwell. DOI: 10.1002/978047
+0999103.ch2 .
+Koopmans, Ruud, and Susan Olzak. 2004. “Discursive
+Opportunities and the Evolution of Right-Wing
+Violence in Germany. ” American Journal of Sociology
+110 (1): 198 –230. DOI: 10.1086/386271.
+LaFree, Gary, Laura Dugan, Min Xie, and Piyusha Singh.
+2012. “Spatial and Temporal Patterns of Terrorist
+Attacks by ETA 1970 to 2007.” Journal of Quantitative
+Criminology 28 (1): 7–29. DOI: 10.1007/s10940-011-
+9133-y.
+Lesser, Ian O., Bruce Ho ﬀman, John Arquilla, David F.
+Ronfeldt, Michele Zanini, and Brian Michael Jenkins.
+1999. Countering the New Terrorism . Santa Monica,
+CA: RAND Corporation.
+Lindekilde, Lasse. 2008. “In the Name of the Prophet?
+Danish Muslim Mobilization during the Muhammad
+Caricatures Controversy.” Mobilization: An
+International Quarterly 13 (2): 219 –38. DOI:
+10.17813/maiq.13.2.4732n40t027q8244.
+Lindekilde, Lasse, Stefan Malthaner, and Francis
+O’Connor. 2019. “Peripheral and Embedded:
+Relational Patterns of Lone-Actor Terrorist
+Radicalization.” Dynamics of Asymmetric Conﬂict 12 (1):
+20–41. DOI: 10.1080/17467586.2018.1551557.
+Lindekilde, Lasse, Stefan Malthaner, Francis O ’Connor,
+and Noémie Bouhana. 2018. “Lone Actor
+Radicalisation Subscript.” London: PRIME
+(Preventing, Interdicting and Mitigating Extremism)
+Project. Deliverable D5.4.
+478 Perspectives on Politics
+Article | Scattered Attacks: The Collective D ynamics of Lone-Actor Terrorism
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+Macklin, Graham. 2022. “‘Praise the Saints ’: The
+Cumulative Momentum of Transnational Extreme-
+Right Terrorism.” In A Transnational History of Right-
+Wing Terrorism, eds. Johannes Da ﬁnger and Moritz
+Florin, 215–40. London: Routledge. DOI:
+10.4324/9781003105251-16.
+Macklin, Graham, and Tore Bjørgo. 2021. “Breivik’s
+Long Shadow? The Impact of the July 22, 2011 Attacks
+on the Modus Operandi of Extreme-Right Lone Actor
+Terrorists.” Perspectives on Terrorism 15 (3): 14 –36.
+Malthaner, Stefan. 2017. “Radicalization: The Evolution
+of an Analytical Paradigm. ” European Journal of
+Sociology 58 (3): 369 –401. DOI: 10.1017/
+s0003975617000182.
+Malthaner, Stefan, and Lasse Lindekilde. 2017.
+“Analyzing Pathways of Lone-Actor Radicalization: A
+Relational Approach.” In Constructions of Terrorism ,
+eds. Michael Stohl, Richard Burchill, and Scott
+Howard Englund, 163 –80. Berkeley: University
+of California Press. DOI: 10.1525/9780520967397-
+014.
+Malthaner, Stefan, Francis Patrick O ’Connor, and Lasse
+Lindekilde. 2023. “Replication Data for: Scattered
+Attacks: The Collective Dynamics of Lone-Actor
+Terrorism.” Harvard Dataverse. DOI: 10.7910/DVN/
+LZXQ6E.
+Malthaner, Stefan, and Peter Waldmann. 2014. “The
+Radical Milieu: Conceptualizing the Supportive Social
+Environment of Terrorist Groups. ” Studies in Con ﬂict
+& Terrorism 37 (12): 979 –98. DOI:
+10.1080/1057610X.2014.962441.
+McAdam, Doug. 1986. “Recruitment to High-Risk
+Activism: The Case of Freedom Summer. ” American
+Journal of Sociology 92 (1): 64 –90. DOI:
+10.1086/228463.
+McAdam, Doug, and Ronnelle Paulsen. 1993.
+“Specifying the Relationship between Social Ties and
+Activism.
+” American Journal of Sociology 99 (3): 640 –
+67. DOI: 10.1086/230319.
+McAdam, Doug, Sidney Tarrow, and Charles Tilly. 2001.
+Dynamics of Contention . Cambridge: Cambridge
+University Press. DOI: 10.1017/cbo9780511805431.
+McCauley, Clark, and Sophia Moskalenko. 2014.
+“Toward a Pro ﬁle of Lone Wolf Terrorists: What
+Moves an Individual from Radical Opinion to
+Radical Action.” Terrorism and Political Violence 26 (1):
+69–85. DOI: 10.1080/09546553.2014.849916.
+McCauley, Clark, and Sophia Moskalenko. 2017.
+“Understanding Political Radicalization: The Two-
+Pyramids Model.” American Psychologist 72 (3): 205 –
+16. DOI: 10.1037/amp0000062.
+Melucci, Alberto. 1996. Challenging Codes: Collective
+Action in the Information Age . Cambridge:
+Cambridge University Press. DOI: 10.1017/
+cbo9780511520891.
+Michael, George. 2012. “Leaderless Resistance: The New
+Face of Terrorism. ” Defence Studies 12 (2): 257 –82.
+DOI: 10.1080/14702436.2012.699724.
+Myers, Daniel J. 2000. “The Diﬀusion of Collective
+Violence: Infectiousness, Susceptibility, and Mass
+Media Networks.” American Journal of Sociology 106
+(1): 173–208. DOI: 10.1086/303110.
+Nesser, Petter. 2012. “Single Actor Terrorism: Scope,
+Characteristics and Explanations. ” Perspectives on
+Terrorism 6 (6): 61 –73.
+O’Connor, Francis, Lasse Lindekilde, and Stefan
+Malthaner. 2023. “Radicalisation of ‘Lone Actors. ’”
+In The Routledge Handbook on Radicalisation and
+Countering Radicalisation , eds. Joel Busher,
+Leena Malkki, and Sarah Marsden. London:
+Routledge.
+Olesen, Thomas. 2011. “Transnational Injustice Symbols
+and Communities: The Case of al-Qaeda and the
+Guantanamo Bay Detention Camp. ”
+Current Sociology
+59 (6): 717 –34. DOI: 10.1177/0011392111419757.
+Oliver, Pamela, and Myers, Daniel. 2003. “The
+Coevolution of Social Movements. ” Mobilization: An
+International Quarterly 8 (1): 1 –24. DOI: 10.17813/
+maiq.8.1.d618751h524473u7.
+Pantucci, Raﬀaello. 2011. “A Typology of Lone Wolves:
+Preliminary Analysis of Lone Islamist Terrorists.” ICSR
+paper, Developments in Radicalisation and Political
+Violence series. London: International Centre for the
+Study of Radicalisation and Political Violence. https://
+icsr.info/wp-content/uploads/2011/04/130200299
+2ICSRPaper_ATypologyofLoneWolves_Pantucci.pdf.
+Passy, Florence. 2001. “Socialization, Connection, and
+the Structure/Agency Gap: A Speci ﬁcation of the
+Impact of Networks on Participation in Social
+Movements.” Mobilization: An International Quarterly
+6 (2): 173 –92. DOI: 10.17813/maiq.6.2.
+v6u4wg67x87w943h.
+Pitcavage, Mark. 2015. “Cerberus Unleashed: The Three
+Faces of the Lone Wolf Terrorist.” American Behavioral
+Scientist 59 (13): 1655 –80. DOI:
+10.1177/0002764215588817.
+Rapoport, David C. 2001. “The Fourth Wave: September
+11 in the History of Terrorism. ” Current History 100
+(650): 419–24. DOI: 10.1525/
+curh.2001.100.650.419.
+Rapoport, David C. 2004. “The Four Waves of Modern
+Terrorism.” In Attacking Terrorism: Elements of a Grand
+Strategy, eds. Audrey Kurth Cronin and James M.
+Ludes, 46–73. Washington, DC: Georgetown
+University Press.
+Ravndal, Jacob. 2017. “Right-Wing Terrorism and Violence
+in Western Europe: A Comparative Analysis .” PhD diss.
+University of Oslo, Norway.
+Rogers, Everett M. 2003. Diﬀusion of Innovations , 5th
+edition. New York: Free Press.
+June 2024 | Vol. 22/No. 2 479
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press
+
+Sageman, Marc. 2004. Understanding Terror Networks .
+Philadelphia: University of Pennsylvania Press. DOI:
+10.9783/9780812206791.
+Sageman, Marc. 2008. Leaderless Jihad: Terror Networks in
+Twenty-First Century. Philadelphia: University of
+Pennsylvania Press. DOI: 10.9783/9780812206784.
+Schmid, Alex P. 2011. “The Deﬁnition of Terrorism.” In
+The Routledge Handbook of Terrorism Research ¸ ed. Alex
+Schmid, 39–98. London: Routledge. DOI:
+10.4324/9780203828731.ch2.
+Schneckener, Ulrich. 2019. “Die Individualisierung des
+Attentats. Charakteristika der terroristischen
+Gewaltstrategie des Islamischen Staates in
+Westeuropa.” Leviathan 47 (4): 445 –73. DOI:
+10.5771/0340-0425-2019-4-445.
+Schuurman, Bart, Edwin Bakker, Paul Gill, and Noémie
+Bouhana. 2018. “Lone Actor Terrorist Attack Planning
+and Preparation: A Data-Driven Analysis. ” Journal of
+Forensic Sciences 63 (4): 1191 –1200. DOI:
+10.1111/1556-4029.13676.
+Snow, David A., Louis A. Zurcher, and Sheldon Ekland-
+Olson. 1980. “Social Networks and Social Movements:
+A Microstructural Approach to Di ﬀerential
+Recruitment.” American Sociological Review 45 (5):
+787–801. DOI: 10.2307/2094895.
+Soule, Sarah A., and Roggeband, Conny. 2018.
+“Diﬀusion Processes within and across Movements.” In
+The Wiley Blackwell Companion to Social Movements ,
+2nd edition, eds. David A.Snow, Sarah A. Soule,
+Hanspeter Kriesi, and Holly J. McCammon, 236 –51.
+Oxford: Wiley Blackwell. DOI: 10.1002/
+9781119168577.ch13.
+Spaaij, Ramón. 2012. Understanding Lone Wolf Terrorism:
+Global Patterns, Motivations and Prevention . Dordecht:
+Springer Science and Business Media. DOI:
+10.1007/978-94-007-2981-0_3.
+Tarrow, Sidney. 2005. The New Transnational Activism .
+Cambridge: Cambridge University Press. DOI:
+10.1017/cbo9780511791055.
+Tarrow, Sidney. 2011. Power in Movement: Social
+Movements and Contentious Politics . Cambridge:
+Cambridge University Press. DOI: 10.1017/
+CBO9780511973529.
+Tench, Stephen, Hannah Fry, and Paul Gill. 2016.
+“Spatio-Temporal Patterns of IED Usage by the
+Provisional Irish Republican Army. ” European Journal
+of Applied Mathematics 27 (3): 377 –402. DOI:
+10.1017/s0956792515000686.
+Tilly, Charles. 2003. The Politics of Collective Violence .
+Cambridge: Cambridge University Press. DOI:
+10.1017/CBO9780511819131.
+Tilly, Charles. 2005. “Terror as Strategy and Relational
+Process.” International Journal of Comparative
+Sociology 46 (1 –2): 11 –32. DOI: 10.1177/
+0020715205054468 .
+Townsley, Michael, Shane D. Johnson, and Jerry H.
+Ratcliﬀe. 2008. “Space Time Dynamics of Insurgent
+Activity in Iraq.” Security Journal 21 (3): 139–46. DOI:
+10.1057/palgrave.sj.8350090.
+Turner, Ralph H., and Lewis M. Killian. 1987.
+Collective Behavior , 3rd edition. Eaglewood Cli ﬀs:
+Prentice Hall.
+Ware, Jacob. 2020. “Testament to Murder: The Violent
+Far-Right’s Increasing Use of Terrorist Manifestos. ”
+ICCT Policy Brief, March 17. The Hague:
+International Centre for Counter-Terrorism.
+Weimann, Gabriel. 2012. “Lone Wolves in Cyberspace. ”
+Journal of Terrorism Research 3 (2). DOI: 10.15664/
+jtr.405.
+Wiktorowicz, Quintan. 2005. Radical Islam Rising:
+Muslim Extremism in the West. Lanham, MD: Rowman
+& Littleﬁeld.
+480 Perspectives on Politics
+Article | Scattered Attacks: The Collective D ynamics of Lone-Actor Terrorism
+https://doi.org/10.1017/S1537592723002852 Published online by Cambridge University Press

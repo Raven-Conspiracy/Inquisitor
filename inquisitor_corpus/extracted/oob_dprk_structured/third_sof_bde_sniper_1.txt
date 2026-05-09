@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Sniper/Reconnaissance Brigade No. 1 (General Sniper Brigade) (ELITE / first-tier)
+
+**Unit ID**: sof_bde_sniper_1
+**Type**: mountain
+**Headquarters**: Location unknown
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: 11th Storm Corps (XI Corps) (sof_11corps)
+**Higher echelon**: KPA Special Operations Forces (Teuksu Jjakjeon'gun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 88.0%
+**Notes**: ELITE. One of ~3 General Sniper Brigades per Grey Dynamics 2024. FAS notes these are 'elite of the nKPA SOF'; chain of command runs to Ministry of People's Armed Forces in peacetime, transfers to VII SPC/11th Corps in wartime. One brigade is reportedly all-female ('Peony Brigade'). [FAS KPA Guide Part 3; Grey Dynamics Oct 2024]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

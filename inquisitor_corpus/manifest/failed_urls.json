@@ -1,0 +1,1129 @@
+[
+  {
+    "url": "https://beyondparallel.csis.org/north-korea-and-russia-cooperation/",
+    "title": "North Korea and Russia Military Cooperation (Tracker)",
+    "bucket": "dprk_csis_beyondparallel",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://beyondparallel.csis.org/north-korea-and-russia-cooperation/"
+  },
+  {
+    "url": "https://beyondparallel.csis.org/north-koreas-choe-hyon-class-destroyers/",
+    "title": "North Korea's Choe Hyon-class Guided Missile Destroyers",
+    "bucket": "dprk_csis_beyondparallel",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://beyondparallel.csis.org/north-koreas-choe-hyon-class-destroyers/"
+  },
+  {
+    "url": "https://csbaonline.org/research/publications/beyond-the-wall-chinese-far-seas-operations",
+    "title": "Beyond the Wall: Chinese Far Seas Operations",
+    "bucket": "china_csba",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://csbaonline.org/research/publications/beyond-the-wall-chinese-far-seas-opera"
+  },
+  {
+    "url": "https://csbaonline.org/uploads/documents/CSBA8226_(Which_Way_The_Dragon_Report",
+    "title": "Which Way the Dragon? Sharpening Allied Perceptions of China's Strategic Trajectory",
+    "bucket": "china_csba",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://csbaonline.org/uploads/documents/CSBA8226_(Which_Way_The_Dragon_Report"
+  },
+  {
+    "url": "https://csbaonline.org/uploads/documents/CSBA8336_(Chinese_Lessons_from_the_Pacific_War",
+    "title": "Chinese Lessons from the Pacific War: Implications for PLA Warfighting",
+    "bucket": "china_csba",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://csbaonline.org/uploads/documents/CSBA8336_(Chinese_Lessons_from_the_Pacific"
+  },
+  {
+    "url": "https://ctc.usma.edu/wp-content/uploads/2018/12/Allied-Lethal-final.pdf",
+    "title": "Allied & Lethal: ISKP's Network and Organizational Capacity in Afghanistan and Pakistan",
+    "bucket": "ct_org_is_family",
+    "priority": "P1",
+    "error": "HTTPSConnectionPool(host='ctc.usma.edu', port=443): Max retries exceeded with url: /wp-content/uploads/2018/12/Allied-Le"
+  },
+  {
+    "url": "https://ctc.westpoint.edu/wp-content/uploads/2022/08/Milton_Ubaydi_Complaint_Box.pdf",
+    "title": "The Caliphate Complaint Box: Stories of IS Governance",
+    "bucket": "ct_org_is_family",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://ctc.westpoint.edu/wp-content/uploads/2022/08/Milton_Ubaydi_Complaint_Box.pd"
+  },
+  {
+    "url": "https://d2071andvip0wj.cloudfront.net/174-yemen-s-al-qaeda-expanding-the-base.pdf",
+    "title": "Yemen's al-Qaeda: Expanding the Base",
+    "bucket": "ct_org_aq_family",
+    "priority": "P1",
+    "error": "HTTPSConnectionPool(host='d2071andvip0wj.cloudfront.net', port=443): Max retries exceeded with url: /174-yemen-s-al-qaed"
+  },
+  {
+    "url": "https://fas.org/sgp/crs/mideast/IF11659.pdf",
+    "title": "Iranian Proxies in Iraq Report",
+    "bucket": "ct_org_hezbollah",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://fas.org/sgp/crs/mideast/IF11659.pdf"
+  },
+  {
+    "url": "https://fas.org/sgp/crs/mideast/RL34055.pdf",
+    "title": "CRS Report: Hamas",
+    "bucket": "ct_org_hamas",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://fas.org/sgp/crs/mideast/RL34055.pdf"
+  },
+  {
+    "url": "https://fas.org/sgp/crs/row/R43612.pdf",
+    "title": "CRS Report: Boko Haram and the Islamic State's West Africa Province",
+    "bucket": "ct_org_is_family",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://fas.org/sgp/crs/row/R43612.pdf"
+  },
+  {
+    "url": "https://fas.org/sgp/crs/row/R45122.pdf",
+    "title": "CRS Report: Taliban and the Islamic State in Afghanistan",
+    "bucket": "ct_org_is_family",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://fas.org/sgp/crs/row/R45122.pdf"
+  },
+  {
+    "url": "https://fas.org/sgp/crs/terror/R43612.pdf",
+    "title": "Congressional Research Service: Al-Qaeda in the Arabian Peninsula (AQAP)",
+    "bucket": "ct_org_aq_family",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://fas.org/sgp/crs/terror/R43612.pdf"
+  },
+  {
+    "url": "https://iranprimer.usip.org/resource/nuclear-program",
+    "title": "Iran Primer \u2014 Nuclear Timeline and Nuclear Program Status",
+    "bucket": "iran_usip_iranprimer",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://iranprimer.usip.org/resource/nuclear-program"
+  },
+  {
+    "url": "https://media.defense.gov/2023/Jan/09/2003143087/-1/-1/1/2022-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-NORTH-KOREA.PDF",
+    "title": "Military and Security Developments Involving the DPRK (DOD Report to Congress)",
+    "bucket": "dprk_dod_osd",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://media.defense.gov/2023/Jan/09/2003143087/-1/-1/1/2022-MILITARY-AND-SECURITY"
+  },
+  {
+    "url": "https://ndupress.ndu.edu/Media/News/Article/577571/understanding-the-enemy-the-enduring-value-of-technical-and-forensic-exploitati/",
+    "title": "Understanding the Enemy: The Enduring Value of Technical and Forensic Exploitation",
+    "bucket": "ct_tradecraft_ic",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://ndupress.ndu.edu/Media/News/Article/577571/understanding-the-enemy-the-endu"
+  },
+  {
+    "url": "https://news.usni.org/2025/01/01/report-to-congress-on-iran",
+    "title": "Report to Congress on Iran (CRS, via USNI News)",
+    "bucket": "iran_crs",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://news.usni.org/2025/01/01/report-to-congress-on-iran"
+  },
+  {
+    "url": "https://project2049.net/wp-content/uploads/2018/05/P2049_Stokes_Hsiao_PLAGSD.pdf",
+    "title": "The People's Liberation Army General Staff Department: Organizational Structure and Key Personnel",
+    "bucket": "china_project2049",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://project2049.net/wp-content/uploads/2018/05/P2049_Stokes_Hsiao_PLAGSD.pdf"
+  },
+  {
+    "url": "https://researchcentre.army.gov.au/library/australian-army-journal-aaj/volume-10-number-1-autumn/f3ea-targeting-paradigm-contemporary-warfare",
+    "title": "F3EA: A Targeting Paradigm for Contemporary Warfare",
+    "bucket": "ct_doctrine_us_army",
+    "priority": "P1",
+    "error": "HTTPSConnectionPool(host='researchcentre.army.gov.au', port=443): Read timed out. (read timeout=60)"
+  },
+  {
+    "url": "https://thesoufancenter.org/research/hezbollah/",
+    "title": "Hezbollah: The Global Footprint of Lebanon's Party of God",
+    "bucket": "ct_org_hezbollah",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://thesoufancenter.org/research/hezbollah/"
+  },
+  {
+    "url": "https://thesoufancenter.org/research/iskp-after-the-fall-of-the-caliphate/",
+    "title": "ISKP After the Fall of the Caliphate",
+    "bucket": "ct_org_is_family",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://thesoufancenter.org/research/iskp-after-the-fall-of-the-caliphate/"
+  },
+  {
+    "url": "https://www.38north.org/category/cyber/",
+    "title": "38 North \u2014 Cyber Operations Analysis (Category Hub)",
+    "bucket": "dprk_38north",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.38north.org/category/cyber/"
+  },
+  {
+    "url": "https://www.38north.org/category/missiles/",
+    "title": "38 North \u2014 Missile Program Analysis (Category Hub)",
+    "bucket": "dprk_38north",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.38north.org/category/missiles/"
+  },
+  {
+    "url": "https://www.38north.org/category/nuclear-weapons/",
+    "title": "38 North \u2014 Nuclear Weapons Program Analysis (Category Hub)",
+    "bucket": "dprk_38north",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.38north.org/category/nuclear-weapons/"
+  },
+  {
+    "url": "https://www.38north.org/dprk-digital-atlas/",
+    "title": "38 North \u2014 DPRK Digital Atlas (Satellite Imagery Map)",
+    "bucket": "dprk_38north",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.38north.org/dprk-digital-atlas/"
+  },
+  {
+    "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Infrastructure/2026-03-09%20PLARF%20Nuclear%20Warhead%20Management.pdf",
+    "title": "PLA Rocket Force Nuclear Warhead Management",
+    "bucket": "oob_casi",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Infrastructure/"
+  },
+  {
+    "url": "https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/PLARF/2022-01-05%20PLARF%20Organization%20ExecSum.pdf",
+    "title": "PLA Rocket Force Organization",
+    "bucket": "oob_casi",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/PLARF/2022-01-0"
+  },
+  {
+    "url": "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/May-June-2019/Borne-Targeting-Multi-domain/",
+    "title": "Targeting in Multi-Domain Operations",
+    "bucket": "ct_doctrine_us_army",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/M"
+  },
+  {
+    "url": "https://www.aspi.org.au/report/chinas-defence-budget-2024",
+    "title": "ASPI China's Defence Budget Analysis",
+    "bucket": "china_au_aspi",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.aspi.org.au/report/chinas-defence-budget-2024"
+  },
+  {
+    "url": "https://www.aspi.org.au/report/cost-command",
+    "title": "The Cost of Command: The PLA's Approach to Command and Control",
+    "bucket": "china_au_aspi",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.aspi.org.au/report/cost-command"
+  },
+  {
+    "url": "https://www.aspi.org.au/report/latest-flashpoint-india-china-border-zooming-tawang-border-skirmishes/",
+    "title": "Borderlands: ASPI India-China Border Analysis",
+    "bucket": "china_au_aspi",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.aspi.org.au/report/latest-flashpoint-india-china-border-zooming-tawang-"
+  },
+  {
+    "url": "https://www.aspi.org.au/report/mapping-chinas-tech-giants/",
+    "title": "Mapping China's Tech Giants",
+    "bucket": "china_au_aspi",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.aspi.org.au/report/mapping-chinas-tech-giants/"
+  },
+  {
+    "url": "https://www.aspi.org.au/report/mapping-more-chinas-tech-giants/",
+    "title": "Mapping More of China's Tech Giants: AI and Surveillance",
+    "bucket": "china_au_aspi",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.aspi.org.au/report/mapping-more-chinas-tech-giants/"
+  },
+  {
+    "url": "https://www.aspi.org.au/report/tipping-balance",
+    "title": "Tipping the Balance: China's Military Build-up in the Asia-Pacific and What Australia Can Do About It",
+    "bucket": "china_au_aspi",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.aspi.org.au/report/tipping-balance"
+  },
+  {
+    "url": "https://www.aspi.org.au/report/trust-and-verify",
+    "title": "Trust and Verify: Assessing China's Military Capabilities in the Indo-Pacific",
+    "bucket": "china_au_aspi",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.aspi.org.au/report/trust-and-verify"
+  },
+  {
+    "url": "https://www.aspi.org.au/report/vampire-vampire-vampire-plas-anti-ship-cruise-missile-threat-australian-and-allied-naval/",
+    "title": "VAMPIRE VAMPIRE VAMPIRE: The PLA's Anti-Ship Cruise Missile Threat to Australian and Allied Naval Forces",
+    "bucket": "china_au_aspi",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.aspi.org.au/report/vampire-vampire-vampire-plas-anti-ship-cruise-missil"
+  },
+  {
+    "url": "https://www.aspi.org.au/report/xis-ambition",
+    "title": "Xi's Ambition: China's Future Plans for Its Military Forces",
+    "bucket": "china_au_aspi",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.aspi.org.au/report/xis-ambition"
+  },
+  {
+    "url": "https://www.cnas.org/publications/reports/coal-coke-and-conflict",
+    "title": "Coal, Coke, and Conflict: The Geoeconomics of a Taiwan Contingency",
+    "bucket": "china_cnas",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.cnas.org/publications/reports/coal-coke-and-conflict"
+  },
+  {
+    "url": "https://www.cnas.org/publications/reports/dangerous-strait",
+    "title": "Dangerous Strait: The US-Taiwan-China Crisis",
+    "bucket": "china_cnas",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.cnas.org/publications/reports/dangerous-strait"
+  },
+  {
+    "url": "https://www.cnas.org/publications/reports/preventing-the-unthinkable",
+    "title": "Preventing the Unthinkable: A US-China War in the Taiwan Strait",
+    "bucket": "china_cnas",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.cnas.org/publications/reports/preventing-the-unthinkable"
+  },
+  {
+    "url": "https://www.conflictarm.com/dispatches/evolution-of-uavs-employed-by-houthi-forces-in-yemen/",
+    "title": "CAR \u2014 Evolution of UAVs Employed by Houthi Forces in Yemen",
+    "bucket": "iran_car",
+    "priority": "P1",
+    "error": "failed after retries: https://www.conflictarm.com/dispatches/evolution-of-uavs-employed-by-houthi-forces-in-yemen/"
+  },
+  {
+    "url": "https://www.counterextremism.com/threat/isis-greater-sahara",
+    "title": "ISIS-Sahel Province Profile",
+    "bucket": "ct_org_is_family",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.counterextremism.com/threat/isis-greater-sahara"
+  },
+  {
+    "url": "https://www.criticalthreats.org/analysis/iran-update",
+    "title": "Critical Threats \u2014 Iran Update (Daily Special Reports)",
+    "bucket": "iran_ctp",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.criticalthreats.org/analysis/iran-update"
+  },
+  {
+    "url": "https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment",
+    "title": "Critical Threats \u2014 ISW/AEI Russian Offensive Campaign Assessment (Context: Iranian UAV supply to Russia)",
+    "bucket": "iran_ctp",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.criticalthreats.org/analysis/russian-offensive-campaign-assessment"
+  },
+  {
+    "url": "https://www.criticalthreats.org/teams/iran-file",
+    "title": "Critical Threats \u2014 Iran File Archive",
+    "bucket": "iran_ctp",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.criticalthreats.org/teams/iran-file"
+  },
+  {
+    "url": "https://www.csbaonline.org/uploads/documents/CSBA8393_(Focused_Force_Report",
+    "title": "Focused Force: China's Military Challenge and Australia's Response",
+    "bucket": "china_csba",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.csbaonline.org/uploads/documents/CSBA8393_(Focused_Force_Report"
+  },
+  {
+    "url": "https://www.dia.mil/Military-Power-Publications/",
+    "title": "DIA Military Power Publications",
+    "bucket": "oob_dia_dprk",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dia.mil/Military-Power-Publications/"
+  },
+  {
+    "url": "https://www.dia.mil/News-Features/Articles/Article-View/Article/3662325/dia-report-confirms-the-houthis-use-of-iranian-missiles-and-unmanned-aerial-veh/",
+    "title": "DIA \u2014 Houthis' Use of Iranian Missiles and UAVs (2024 Report)",
+    "bucket": "iran_dia",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dia.mil/News-Features/Articles/Article-View/Article/3662325/dia-report-"
+  },
+  {
+    "url": "https://www.dia.mil/Portals/110/Documents/News/NKMP.pdf",
+    "title": "DIA \u2014 2021 North Korean Military Power Report",
+    "bucket": "dprk_dia",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dia.mil/Portals/110/Documents/News/NKMP.pdf"
+  },
+  {
+    "url": "https://www.dia.mil/Portals/110/Documents/News/North_Korea_Military_Power.pdf",
+    "title": "North Korea Military Power: A Growing Regional and Global Threat",
+    "bucket": "oob_dia_dprk",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dia.mil/Portals/110/Documents/News/North_Korea_Military_Power.pdf"
+  },
+  {
+    "url": "https://www.dia.mil/Portals/110/Images/News/Military_Powers_Publications/Nuclear_Challenges_2024.pdf",
+    "title": "Nuclear Challenges 2024",
+    "bucket": "oob_dia_dprk",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dia.mil/Portals/110/Images/News/Military_Powers_Publications/Nuclear_Ch"
+  },
+  {
+    "url": "https://www.dia.mil/portals/110/images/news/military_powers_publications/iran_military_power_lr.pdf",
+    "title": "Iran Military Power",
+    "bucket": "oob_dia_iran",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dia.mil/portals/110/images/news/military_powers_publications/iran_milit"
+  },
+  {
+    "url": "https://www.dni.gov/files/NCTC/documents/guidetoanalysis/guide_to_the_analysis_of_insurgency2012.pdf",
+    "title": "NCTC Guide to the Analysis of Insurgency",
+    "bucket": "ct_doctrine_us_sof",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dni.gov/files/NCTC/documents/guidetoanalysis/guide_to_the_analysis_of_i"
+  },
+  {
+    "url": "https://www.dni.gov/files/NCTC/documents/news_documents/NCTC-Al-Qaida-Recent-Calls-to-Conduct-Attacks-Highlights-Enduring-Threat-Sept2025.pdf",
+    "title": "Al Qa'ida's Recent Calls to Conduct Attacks Highlights Enduring Threat",
+    "bucket": "ct_org_aq_family",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dni.gov/files/NCTC/documents/news_documents/NCTC-Al-Qaida-Recent-Calls-"
+  },
+  {
+    "url": "https://www.dni.gov/files/NCTC/documents/news_documents/NCTC_Watchlisting_Counterterrorism_Lexicon.pdf",
+    "title": "Counterterrorism Lexicon",
+    "bucket": "ct_doctrine_us_sof",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dni.gov/files/NCTC/documents/news_documents/NCTC_Watchlisting_Counterte"
+  },
+  {
+    "url": "https://www.dni.gov/files/ODNI/documents/assessments/ATA-2022-Unclassified-Report.pdf",
+    "title": "Annual Threat Assessment of the US Intelligence Community 2022",
+    "bucket": "china_odni_ata",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dni.gov/files/ODNI/documents/assessments/ATA-2022-Unclassified-Report.p"
+  },
+  {
+    "url": "https://www.dni.gov/files/ODNI/documents/assessments/ATA-2023-Unclassified-Report.pdf",
+    "title": "Annual Threat Assessment of the US Intelligence Community 2023",
+    "bucket": "china_odni_ata",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dni.gov/files/ODNI/documents/assessments/ATA-2023-Unclassified-Report.p"
+  },
+  {
+    "url": "https://www.dni.gov/files/ODNI/documents/assessments/ATA-2024-Unclassified-Report.pdf",
+    "title": "Annual Threat Assessment of the US Intelligence Community 2024",
+    "bucket": "china_odni_ata",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dni.gov/files/ODNI/documents/assessments/ATA-2024-Unclassified-Report.p"
+  },
+  {
+    "url": "https://www.dni.gov/files/ODNI/documents/assessments/ATA-2025-Unclassified-Report.pdf",
+    "title": "Annual Threat Assessment of the US Intelligence Community 2025",
+    "bucket": "china_odni_ata",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dni.gov/files/ODNI/documents/assessments/ATA-2025-Unclassified-Report.p"
+  },
+  {
+    "url": "https://www.dni.gov/files/ODNI/documents/assessments/ATA-2026-Unclassified-Report.pdf",
+    "title": "Annual Threat Assessment of the US Intelligence Community 2026",
+    "bucket": "china_odni_ata",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dni.gov/files/ODNI/documents/assessments/ATA-2026-Unclassified-Report.p"
+  },
+  {
+    "url": "https://www.dni.gov/files/documents/ICD/ICD-203.pdf",
+    "title": "ICD 203 Analytic Standards",
+    "bucket": "ct_doctrine_us_sof",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dni.gov/files/documents/ICD/ICD-203.pdf"
+  },
+  {
+    "url": "https://www.dni.gov/files/documents/ICD/ICD_206.pdf",
+    "title": "ICD 206 Sourcing Requirements for Disseminated Analytic Products",
+    "bucket": "ct_doctrine_us_sof",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.dni.gov/files/documents/ICD/ICD_206.pdf"
+  },
+  {
+    "url": "https://www.fdd.org/projects/iran-program/",
+    "title": "FDD \u2014 Iran Program (Comprehensive Research Hub)",
+    "bucket": "iran_fdd",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.fdd.org/projects/iran-program/"
+  },
+  {
+    "url": "https://www.hstoday.us/featured/column-terrorist-threat-assessment-boko-haram-and-iswap-in-nigeria/",
+    "title": "Terrorist Threat Assessment: Boko Haram and ISWAP",
+    "bucket": "ct_org_is_family",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.hstoday.us/featured/column-terrorist-threat-assessment-boko-haram-and-i"
+  },
+  {
+    "url": "https://www.hstoday.us/subject-matter-areas/counterterrorism/jnims-expansion-in-the-sahel-and-coastal-west-africa/",
+    "title": "JNIM's Expansion in the Sahel and Coastal West Africa",
+    "bucket": "ct_org_aq_family",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.hstoday.us/subject-matter-areas/counterterrorism/jnims-expansion-in-the"
+  },
+  {
+    "url": "https://www.icct.nl/wp-content/uploads/2016/05/ICCT-Reed-Al-Qaeda-in-the-Indian-Subcontinent-May2016.pdf",
+    "title": "AQIS: A New Frontline in the Global Jihadist Movement?",
+    "bucket": "ct_org_aq_family",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://icct.nl/wp-content/uploads/2016/05/ICCT-Reed-Al-Qaeda-in-the-Indian-Subcont"
+  },
+  {
+    "url": "https://www.iiss.org/publications/the-military-balance/",
+    "title": "The Military Balance 2025: Russia/Ukraine Chapter",
+    "bucket": "ukr_p3_usawc",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.iiss.org/publications/the-military-balance/"
+  },
+  {
+    "url": "https://www.intelligence.gov/assets/documents/archive/ATA-2021-Unclassified-Report.pdf",
+    "title": "Annual Threat Assessment of the US Intelligence Community 2021",
+    "bucket": "china_odni_ata",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.intelligence.gov/assets/documents/archive/ATA-2021-Unclassified-Report."
+  },
+  {
+    "url": "https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp2_0.pdf",
+    "title": "JP 2-0 Joint Intelligence",
+    "bucket": "ct_doctrine_us_joint",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp2_0.pdf"
+  },
+  {
+    "url": "https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp3_26.pdf",
+    "title": "JP 3-26 Counterterrorism",
+    "bucket": "ct_doctrine_us_joint",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp3_26.pdf"
+  },
+  {
+    "url": "https://www.lineofdeparture.army.mil/Portals/144/PDF/Journals/Intelligence/2024/Alternate-Targeting-UA.pdf",
+    "title": "Optimizing the Alternate Targeting Methodology F3EAD",
+    "bucket": "ct_doctrine_us_army",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://www.lineofdeparture.army.mil/Portals/144/PDF/Journals/Intelligence/2024/Alt"
+  },
+  {
+    "url": "https://www.milsuite.mil/book/docs/DOC-92003",
+    "title": "ATP 3-05.20 Special Operations Intelligence",
+    "bucket": "ct_doctrine_us_army",
+    "priority": "P1",
+    "error": "HTTPSConnectionPool(host='www.milsuite.mil', port=443): Max retries exceeded with url: /book/docs/DOC-92003 (Caused by S"
+  },
+  {
+    "url": "https://www.mnd.go.kr/user/mnd/upload/pblictn/PBLICTNEBOOK_201412180344595510.pdf",
+    "title": "Republic of Korea 2022 Defense White Paper (English Edition)",
+    "bucket": "dprk_rok_govt",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.mnd.go.kr/user/mnd/upload/pblictn/PBLICTNEBOOK_201412180344595510.pdf"
+  },
+  {
+    "url": "https://www.rand.org/pubs/research_reports/RR1445.html",
+    "title": "Employing Land-Based Anti-Ship Missiles in the Western Pacific",
+    "bucket": "china_rand",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.rand.org/pubs/research_reports/RR1445.html"
+  },
+  {
+    "url": "https://www.rand.org/pubs/research_reports/RRA413-2.html",
+    "title": "Characterizing the Risks of North Korean Chemical and Biological Weapons, EMP, and Cyber Threats (RAND/Asan)",
+    "bucket": "dprk_rand",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.rand.org/pubs/research_reports/RRA413-2.html"
+  },
+  {
+    "url": "https://www.rand.org/topics/islamic-state.html",
+    "title": "RAND IS Defeat and Aftermath Reports",
+    "bucket": "ct_org_is_family",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.rand.org/topics/islamic-state.html"
+  },
+  {
+    "url": "https://www.rusi.org/explore-our-research/publications/special-resources/tactical-developments-third-year-russo-ukrainian-war",
+    "title": "Tactical Developments During the Third Year of the Russo\u2013Ukrainian War",
+    "bucket": "ukr_p1_rusi",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.rusi.org/explore-our-research/publications/special-resources/tactical-d"
+  },
+  {
+    "url": "https://www.stimson.org/project/north-korea-program/",
+    "title": "Stimson Center \u2014 38 North Program Archive (Pre-2022)",
+    "bucket": "dprk_38north",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.stimson.org/project/north-korea-program/"
+  },
+  {
+    "url": "https://www.un.org/securitycouncil/sanctions/1267/monitoring-team",
+    "title": "ISWAP-ISSP Coordination Analysis",
+    "bucket": "ct_org_is_family",
+    "priority": "P1",
+    "error": "403 Client Error: Forbidden for url: https://main.un.org/securitycouncil/sanctions/1267/monitoring-team"
+  },
+  {
+    "url": "https://www.uscc.gov/sites/default/files/2019-11/2019_Annual_Report_to_Congress.pdf",
+    "title": "USCC 2019 Annual Report to Congress",
+    "bucket": "china_uscc_new",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.uscc.gov/sites/default/files/2019-11/2019_Annual_Report_to_Congress.pdf"
+  },
+  {
+    "url": "https://www.washingtoninstitute.org/policy-analysis/militia-spotlight",
+    "title": "WINEP \u2014 Militia Spotlight (Michael Knights \u2014 Iraqi Proxy Tracker)",
+    "bucket": "iran_winep",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.washingtoninstitute.org/policy-analysis/militia-spotlight"
+  },
+  {
+    "url": "https://www.whitehouse.gov/wp-content/uploads/2018/10/NSCT.pdf",
+    "title": "National Strategy for Counterterrorism 2018",
+    "bucket": "ct_doctrine_us_sof",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.whitehouse.gov/wp-content/uploads/2018/10/NSCT.pdf"
+  },
+  {
+    "url": "https://www.wilsoncenter.org/publication/hts-al-qaeda-affiliate-syrian-governing-authority",
+    "title": "HTS: From al-Qaeda Affiliate to Syrian Governing Authority",
+    "bucket": "ct_org_aq_family",
+    "priority": "P1",
+    "error": "404 Client Error: Not Found for url: https://www.wilsoncenter.org/publication/hts-al-qaeda-affiliate-syrian-governing-au"
+  },
+  {
+    "url": "http://fas.org/sgp/crs/terror/RL34194.pdf",
+    "title": "Terrorism in Southeast Asia (includes JI)",
+    "bucket": "ct_org_se_asia",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://fas.org/sgp/crs/terror/RL34194.pdf"
+  },
+  {
+    "url": "https://academic.oup.com/jcsl/article/18/2/259/821647",
+    "title": "Targeted Killings: Contemporary Challenges, Risks and Opportunities",
+    "bucket": "ct_tradecraft_targeted_killing",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://academic.oup.com/jcsl/article/18/2/259/821647"
+  },
+  {
+    "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1164906/JDP_0-01_6th_Edition.pdf",
+    "title": "JDP 0-01 UK Defence Doctrine (6th Ed)",
+    "bucket": "ct_doctrine_uk",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachme"
+  },
+  {
+    "url": "https://crsreports.congress.gov/product/pdf/IF/IF10275",
+    "title": "Taiwan: Defense and Military Issues (IF10275)",
+    "bucket": "china_crs",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://crsreports.congress.gov/product/pdf/IF/IF10275"
+  },
+  {
+    "url": "https://crsreports.congress.gov/product/pdf/R/R44361",
+    "title": "China's Military Actions in the Taiwan Strait: Issues for Congress (R44361)",
+    "bucket": "china_crs",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://crsreports.congress.gov/product/pdf/R/R44361"
+  },
+  {
+    "url": "https://crsreports.congress.gov/product/pdf/R/R45861",
+    "title": "China's Nuclear Forces: Overview and Issues for Congress (RL33153-related)",
+    "bucket": "china_crs",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://crsreports.congress.gov/product/pdf/R/R45861"
+  },
+  {
+    "url": "https://csbaonline.org/uploads/documents/CSBA8379_(Russia_Report",
+    "title": "More of the Same? The Future of the Russian Military",
+    "bucket": "ukr_p1_csba",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://csbaonline.org/uploads/documents/CSBA8379_(Russia_Report"
+  },
+  {
+    "url": "https://csbaonline.org/uploads/documents/CSBA8411_(Navy_of_Necessity_Report",
+    "title": "A Navy of Necessity: Ukraine's Unmanned Surface Vessels at War",
+    "bucket": "ukr_p2_csba",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://csbaonline.org/uploads/documents/CSBA8411_(Navy_of_Necessity_Report"
+  },
+  {
+    "url": "https://fas.org/sgp/crs/row/R43245.pdf",
+    "title": "CRS Report: Al Shabaab",
+    "bucket": "ct_org_shabaab",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://fas.org/sgp/crs/row/R43245.pdf"
+  },
+  {
+    "url": "https://indsr.org.tw/en/respublications?uid=16",
+    "title": "2021 Report on Development of CCP's Politics and Military Affairs",
+    "bucket": "china_au_govt",
+    "priority": "P2",
+    "error": "HTTPSConnectionPool(host='indsr.org.tw', port=443): Max retries exceeded with url: /en/respublications?uid=16 (Caused by"
+  },
+  {
+    "url": "https://jamestown.org/program/the-plas-joint-logistics-support-force-six-years-on/",
+    "title": "The PLA's Joint Logistics Support Force: Six Years On",
+    "bucket": "china_jamestown",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://jamestown.org/the-plas-joint-logistics-support-force-six-years-on/"
+  },
+  {
+    "url": "https://jamestown.org/program/the-plas-new-multi-domain-precision-warfare-concept/",
+    "title": "The PLA's New Multi-Domain Precision Warfare Concept",
+    "bucket": "china_jamestown",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://jamestown.org/the-plas-new-multi-domain-precision-warfare-concept/"
+  },
+  {
+    "url": "https://jamestown.org/programs/chinabrief/",
+    "title": "China Brief Archive (all issues, searchable)",
+    "bucket": "china_jamestown",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://jamestown.org/publications/chinabrief/"
+  },
+  {
+    "url": "https://mil.ee/en/defence-forces/publications/",
+    "title": "Estonian Defence Forces Annual Yearbook 2023",
+    "bucket": "ukr_p1_usawc",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://mil.ee/en/defence-forces/publications/"
+  },
+  {
+    "url": "https://news.usni.org/2024/12/11/report-to-congress-on-u-s-north-korea-relations-2",
+    "title": "Report to Congress on U.S.-North Korea Relations (CRS/USNI)",
+    "bucket": "dprk_crs",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://news.usni.org/2024/12/11/report-to-congress-on-u-s-north-korea-relations-2"
+  },
+  {
+    "url": "https://nllp.jallc.nato.int/iks/sharing%20public/rand_rra2950-1.pdf",
+    "title": "Lessons from the War in Ukraine for Space Operations",
+    "bucket": "ukr_p1_rand",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://nllp.jallc.nato.int/iks/sharing%20public/rand_rra2950-1.pdf"
+  },
+  {
+    "url": "https://nso.nato.int/nso/zPublic/ap/PROM/AJP-2.1%20EDB%20V1%20E.pdf",
+    "title": "AJP-2.1 Allied Joint Doctrine for Intelligence Procedures",
+    "bucket": "ct_doctrine_nato",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://nso.nato.int/nso/zPublic/ap/PROM/AJP-2.1%20EDB%20V1%20E.pdf"
+  },
+  {
+    "url": "https://publications.armywarcollege.edu/Regional-Issues/Europe-Russia/",
+    "title": "A Long, Hard Year: Russia-Ukraine War Lessons Learned 2023",
+    "bucket": "ukr_p1_usawc",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://publications.armywarcollege.edu/Regional-Issues/Europe-Russia/"
+  },
+  {
+    "url": "https://theforge.defence.gov.au/war-college-papers-2022/lessons-2022-russian-ukraine-war",
+    "title": "Lessons from the 2022 Russian-Ukraine War (ADF War College Paper)",
+    "bucket": "ukr_p2_australia",
+    "priority": "P2",
+    "error": "HTTPSConnectionPool(host='theforge.defence.gov.au', port=443): Read timed out. (read timeout=60)"
+  },
+  {
+    "url": "https://www.airuniversity.af.edu/CASI/",
+    "title": "China Aerospace Studies Institute (CASI)",
+    "bucket": "oob_casi",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.airuniversity.af.edu/CASI/"
+  },
+  {
+    "url": "https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/Online-Exclusive/2024/Lessons-Ukraine-Russia-War/Lessons-Ukraine-Russia-War-UA.pdf",
+    "title": "Lessons from the Ukraine-Russia War (Military Review Online)",
+    "bucket": "ukr_p1_usawc",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/Online-E"
+  },
+  {
+    "url": "https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/so25/Lessons-from-Ukraine/Lessons-from-Ukraine-ua.pdf",
+    "title": "Russia's Changes in the Conduct of War Based on Lessons from Ukraine (Military Review)",
+    "bucket": "ukr_p1_usawc",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/so25/Les"
+  },
+  {
+    "url": "https://www.aspi.org.au/strategist-posts/old-and-new-lessons-from-the-ukraine-war/",
+    "title": "Old and New Lessons from the Ukraine War",
+    "bucket": "ukr_p2_australia",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.aspi.org.au/strategist-posts/old-and-new-lessons-from-the-ukraine-war/"
+  },
+  {
+    "url": "https://www.aspi.org.au/strategist-posts/seven-lessons-from-ukraine-for-australias-defence-organisation/",
+    "title": "Seven Lessons from Ukraine for Australia's Defence Organisation",
+    "bucket": "ukr_p2_australia",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.aspi.org.au/strategist-posts/seven-lessons-from-ukraine-for-australias-"
+  },
+  {
+    "url": "https://www.aspi.org.au/strategist-posts/ukraines-drone-attack-offers-fearful-lessons-for-a-chinese-invasion-force/",
+    "title": "Ukraine's Drone Attack Offers Fearful Lessons for a Chinese Invasion Force",
+    "bucket": "ukr_p2_australia",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.aspi.org.au/strategist-posts/ukraines-drone-attack-offers-fearful-lesso"
+  },
+  {
+    "url": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-chinese-militarys-evolving-cyber-operations/",
+    "title": "The Chinese Military's Evolving Cyber Operations",
+    "bucket": "china_atlantic_council",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-chinese-m"
+  },
+  {
+    "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/blue-skies-china-air-power-and-the-contest-for-dominance-in-the-indo-pacific/",
+    "title": "Blue Skies: China, Air Power, and the Contest for Dominance in the Indo-Pacific",
+    "bucket": "china_atlantic_council",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://www.atlanticcouncil.org/in-depth-research-reports/report/blue-skies-china-a"
+  },
+  {
+    "url": "https://www.atlanticcouncil.org/in-depth-research-reports/report/frozen-out/",
+    "title": "Frozen Out: How a Taiwan Conflict Could Reshape the Arctic",
+    "bucket": "china_atlantic_council",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://www.atlanticcouncil.org/in-depth-research-reports/report/frozen-out/"
+  },
+  {
+    "url": "https://www.chathamhouse.org/2025/03/chinas-military-build-indicates-it-serious-about-taking-taiwan",
+    "title": "China's Military Build-up Indicates it is Serious about Taking Taiwan",
+    "bucket": "china_tw_govt",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.chathamhouse.org/2025/03/chinas-military-build-indicates-it-serious-abo"
+  },
+  {
+    "url": "https://www.defence.gov.au/about/publications/2020-defence-strategic-update",
+    "title": "2020 Defence Strategic Update",
+    "bucket": "china_au_govt",
+    "priority": "P2",
+    "error": "HTTPSConnectionPool(host='www.defence.gov.au', port=443): Read timed out. (read timeout=60)"
+  },
+  {
+    "url": "https://www.defence.gov.au/about/reviews-inquiries/defence-strategic-review",
+    "title": "Defence Strategic Review 2023",
+    "bucket": "china_au_govt",
+    "priority": "P2",
+    "error": "HTTPSConnectionPool(host='www.defence.gov.au', port=443): Read timed out. (read timeout=60)"
+  },
+  {
+    "url": "https://www.defence.gov.au/about/strategic-planning/2024-national-defence-strategy-2024-integrated-investment-program",
+    "title": "2024 National Defence Strategy (NDS)",
+    "bucket": "china_au_govt",
+    "priority": "P2",
+    "error": "HTTPSConnectionPool(host='www.defence.gov.au', port=443): Read timed out. (read timeout=60)"
+  },
+  {
+    "url": "https://www.defence.gov.au/adfwc/Documents/DoctrineLibrary/ADDP/ADDP3.14.pdf",
+    "title": "Australian ADDP 3.14 Counterterrorism (reference)",
+    "bucket": "ct_doctrine_australia",
+    "priority": "P2",
+    "error": "HTTPSConnectionPool(host='www.defence.gov.au', port=443): Read timed out. (read timeout=60)"
+  },
+  {
+    "url": "https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-2/3-2-AFDP-IRREGULAR-WARFARE.pdf",
+    "title": "AFDP 3-2 Irregular Warfare (US Air Force)",
+    "bucket": "ct_doctrine_us_air",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.doctrine.af.mil/Portals/61/documents/AFDP_3-2/3-2-AFDP-IRREGULAR-WARFAR"
+  },
+  {
+    "url": "https://www.fdd.org/analysis/2026/04/25/think-were-losing-the-war-in-iran-consider-where-things-really-stand/",
+    "title": "FDD \u2014 Iran's Ballistic Missile Enterprise Assessment (2026)",
+    "bucket": "iran_fdd",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.fdd.org/analysis/2026/04/25/think-were-losing-the-war-in-iran-consider-"
+  },
+  {
+    "url": "https://www.hudson.org/defense-strategy/can-us-regain-battlefield-superiority-against-china",
+    "title": "Can the United States Regain Battlefield Superiority Against China?",
+    "bucket": "china_hudson",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://www.hudson.org/defense-strategy/can-us-regain-battlefield-superiority-again"
+  },
+  {
+    "url": "https://www.hudson.org/defense-strategy/sustaining-undersea-advantage-disrupting-chinas-undersea-surveillance-network",
+    "title": "Sustaining the Undersea Advantage: Disrupting China's Undersea Surveillance Network",
+    "bucket": "china_hudson",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://www.hudson.org/defense-strategy/sustaining-undersea-advantage-disrupting-ch"
+  },
+  {
+    "url": "https://www.jallc.nato.int/JALLC-UKR-Initiative",
+    "title": "JALLC-UKR Initiative (portal)",
+    "bucket": "ukr_p1_usawc",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.jallc.nato.int/JALLC-UKR-Initiative"
+  },
+  {
+    "url": "https://www.jallc.nato.int/articles/jallc-publishes-report-two-years-lessons-relating-russias-war-against-ukraine",
+    "title": "Two Years of NATO Lessons Learned Portal: Lessons Relating to Russia's War Against Ukraine",
+    "bucket": "ukr_p1_usawc",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.jallc.nato.int/articles/jallc-publishes-report-two-years-lessons-relati"
+  },
+  {
+    "url": "https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp3_63.pdf",
+    "title": "JP 3-63 Detainee Operations",
+    "bucket": "ct_tradecraft_pol",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp3_63.pdf"
+  },
+  {
+    "url": "https://www.mac.gov.tw/en/",
+    "title": "Cross-Strait Situation and Response (Annual Report)",
+    "bucket": "china_tw_govt",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.mac.gov.tw/en/"
+  },
+  {
+    "url": "https://www.marines.mil/Portals/1/Publications/FM%202-22.3%20%20Human%20Intelligence%20Collector%20Operations_1.pdf",
+    "title": "FM 2-22.3 (Marine Corps version)",
+    "bucket": "ct_tradecraft_humint",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.marines.mil/Portals/1/Publications/FM%202-22.3%20%20Human%20Intelligenc"
+  },
+  {
+    "url": "https://www.mnd.gov.tw/Publish.aspx?cnid=617&p=78007",
+    "title": "2021 National Defense Report (16th Edition)",
+    "bucket": "china_tw_govt",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://www.mnd.gov.tw/Publish.aspx?cnid=617&p=78007"
+  },
+  {
+    "url": "https://www.odni.gov/nctc/groups/abu_sayyaf.html",
+    "title": "Abu Sayyaf Group (ASG) Terrorist Group Profile",
+    "bucket": "ct_org_se_asia",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.odni.gov/nctc/groups/abu_sayyaf.html"
+  },
+  {
+    "url": "https://www.odni.gov/nctc/terrorist_groups/asg.html",
+    "title": "Abu Sayyaf Group (ASG) Profile",
+    "bucket": "ct_org_se_asia",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.odni.gov/nctc/terrorist_groups/asg.html"
+  },
+  {
+    "url": "https://www.prcleader.org/china-leadership-monitor",
+    "title": "China Leadership Monitor (full archive, issues #1\u2013present)",
+    "bucket": "china_hoover_clm",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://www.prcleader.org/china-leadership-monitor"
+  },
+  {
+    "url": "https://www.prcleader.org/post/assessing-xi-s-grip-on-the-pla-after-the-rocket-force-purge",
+    "title": "Assessing Xi's Grip on the PLA after the Rocket Force Purge (CLM #77)",
+    "bucket": "china_hoover_clm",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://www.prcleader.org/post/assessing-xi-s-grip-on-the-pla-after-the-rocket-forc"
+  },
+  {
+    "url": "https://www.prcleader.org/post/chinas-defense-budget-under-xi-jinping",
+    "title": "China's Defense Budget Under Xi Jinping (CLM #65)",
+    "bucket": "china_hoover_clm",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://www.prcleader.org/post/chinas-defense-budget-under-xi-jinping"
+  },
+  {
+    "url": "https://www.prcleader.org/post/pla-corruption",
+    "title": "PLA Corruption and the Threat to Chinese Military Effectiveness (CLM #76)",
+    "bucket": "china_hoover_clm",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://www.prcleader.org/post/pla-corruption"
+  },
+  {
+    "url": "https://www.prcleader.org/post/the-plas-new-generation-of-leaders",
+    "title": "The PLA's New Generation of Leaders (CLM #70)",
+    "bucket": "china_hoover_clm",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://www.prcleader.org/post/the-plas-new-generation-of-leaders"
+  },
+  {
+    "url": "https://www.rusi.org/explore-our-research/regions/china",
+    "title": "RUSI China Research Programme (ongoing publications)",
+    "bucket": "china_uk_rusi",
+    "priority": "P2",
+    "error": "404 Client Error: Not Found for url: https://www.rusi.org/explore-our-research/regions/china"
+  },
+  {
+    "url": "https://www.tandfonline.com/doi/abs/10.1080/10576100701558620",
+    "title": "PKK as Criminal Syndicate",
+    "bucket": "ct_org_pkk",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.tandfonline.com/doi/abs/10.1080/10576100701558620"
+  },
+  {
+    "url": "https://www.tandfonline.com/doi/full/10.1080/08850607.2024.2382029",
+    "title": "Signature Strikes and the Ethics of Targeted Killing",
+    "bucket": "ct_tradecraft_targeted_killing",
+    "priority": "P2",
+    "error": "403 Client Error: Forbidden for url: https://www.tandfonline.com/doi/full/10.1080/08850607.2024.2382029"
+  },
+  {
+    "url": "https://ctc.westpoint.edu/ct-sentinel-issues/",
+    "title": "CTC Sentinel Far-Right Issues",
+    "bucket": "ct_far_right",
+    "priority": "P3",
+    "error": "404 Client Error: Not Found for url: https://ctc.westpoint.edu/ct-sentinel-issues/"
+  },
+  {
+    "url": "https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1501&context=jss",
+    "title": "Provisional IRA Mortar Development: RAND",
+    "bucket": "ct_org_ira",
+    "priority": "P3",
+    "error": "403 Client Error: Forbidden for url: https://digitalcommons.usf.edu/cgi/viewcontent.cgi?article=1501&context=jss"
+  },
+  {
+    "url": "https://fas.org/sgp/crs/row/R43813.pdf",
+    "title": "CRS Report: FARC and ELN Colombia",
+    "bucket": "ct_org_farc",
+    "priority": "P3",
+    "error": "404 Client Error: Not Found for url: https://fas.org/sgp/crs/row/R43813.pdf"
+  },
+  {
+    "url": "https://gsd.msu.edu.tr/Content/sayilar/dokuman/GSD_31/GSD_31_Art_2_092019.pdf",
+    "title": "The Cases of Rote Armee Fraktion and Brigate Rosse",
+    "bucket": "ct_org_red_brigades",
+    "priority": "P3",
+    "error": "HTTPSConnectionPool(host='gsd.msu.edu.tr', port=443): Max retries exceeded with url: /Content/sayilar/dokuman/GSD_31/GSD"
+  },
+  {
+    "url": "https://icct.nl/publication/eln-colombia",
+    "title": "ICCT Research on ELN",
+    "bucket": "ct_org_eln",
+    "priority": "P3",
+    "error": "404 Client Error: Not Found for url: https://icct.nl/publication/eln-colombia"
+  },
+  {
+    "url": "https://inss.ndu.edu/Portals/82/Documents/CSCMA/CSCMA%20Publications%20List%2021%20August%202025.pdf",
+    "title": "China's Pursuit of Dominance in Cyberspace and Electronic Warfare",
+    "bucket": "china_ndu_new",
+    "priority": "P3",
+    "error": "403 Client Error: Forbidden for url: https://inss.ndu.edu/Portals/82/Documents/CSCMA/CSCMA%20Publications%20List%2021%20"
+  },
+  {
+    "url": "https://nautilus.org/napsnet/napsnet-special-reports/",
+    "title": "Nautilus Institute NAPSNet \u2014 DPRK Nuclear Strategy Special Reports",
+    "bucket": "dprk_nautilus",
+    "priority": "P3",
+    "error": "404 Client Error: Not Found for url: https://nautilus.org/napsnet/napsnet-special-reports/"
+  },
+  {
+    "url": "https://publications.gc.ca/collections/collection_2018/mdn-dnd/D2-252-307-2005-eng.pdf",
+    "title": "Canadian CF Joint Doctrine on Counterterrorism (B-GJ-005-307/FP-040)",
+    "bucket": "ct_doctrine_canada",
+    "priority": "P3",
+    "error": "404 Client Error: Not Found for url: https://publications.gc.ca/collections/collection_2018/mdn-dnd/D2-252-307-2005-eng."
+  },
+  {
+    "url": "https://publications.parliament.uk/pa/ld5804/ldselect/ldintrel/20/2002.htm",
+    "title": "Ukraine: A Wake-Up Call (House of Lords IRDC Report)",
+    "bucket": "ukr_p3_uk_parliament",
+    "priority": "P3",
+    "error": "403 Client Error: Forbidden for url: https://publications.parliament.uk/pa/ld5804/ldselect/ldintrel/20/2002.htm"
+  },
+  {
+    "url": "https://repository.lsu.edu/cgi/viewcontent.cgi?article=2815&context=gradschool_theses",
+    "title": "Sendero Luminoso and Peruvian Counterinsurgency",
+    "bucket": "ct_org_sendero",
+    "priority": "P3",
+    "error": "403 Client Error: Forbidden for url: https://repository.lsu.edu/cgi/viewcontent.cgi?article=2815&context=gradschool_thes"
+  },
+  {
+    "url": "https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/March-April-2021/Kwoun-Tradecraft-Standards/",
+    "title": "Analytic Tradecraft Standards",
+    "bucket": "ct_tradecraft_other",
+    "priority": "P3",
+    "error": "403 Client Error: Forbidden for url: https://www.armyupress.army.mil/Journals/Military-Review/English-Edition-Archives/M"
+  },
+  {
+    "url": "https://www.ausa.org/publications/russo-ukrainian-war-strategic-assessment-two-years-conflict",
+    "title": "The Russo-Ukrainian War: A Strategic Assessment Two Years into the Conflict",
+    "bucket": "ukr_p3_ausa",
+    "priority": "P3",
+    "error": "403 Client Error: Forbidden for url: https://www.ausa.org/publications/russo-ukrainian-war-strategic-assessment-two-year"
+  },
+  {
+    "url": "https://www.chathamhouse.org/2025/03/competing-visions-international-order/02-china-balancing-us-increasing-global-influence",
+    "title": "Competing Visions of International Order: China",
+    "bucket": "china_uk_chatham",
+    "priority": "P3",
+    "error": "403 Client Error: Forbidden for url: https://www.chathamhouse.org/2025/03/competing-visions-international-order/02-china"
+  },
+  {
+    "url": "https://www.fpri.org/article/2020/07/chinas-military-strategy-doctrine-for-winning-wars/",
+    "title": "China's Military Strategy: Doctrine for Winning Wars",
+    "bucket": "china_fpri",
+    "priority": "P3",
+    "error": "404 Client Error: Not Found for url: https://www.fpri.org/article/2020/07/chinas-military-strategy-doctrine-for-winning-"
+  },
+  {
+    "url": "https://www.fpri.org/article/2022/08/the-dragon-extends-its-reach-chinese-military-power-goes-global/",
+    "title": "The Dragon Extends Its Reach: Chinese Military Power Goes Global",
+    "bucket": "china_fpri",
+    "priority": "P3",
+    "error": "404 Client Error: Not Found for url: https://www.fpri.org/article/2022/08/the-dragon-extends-its-reach-chinese-military-"
+  },
+  {
+    "url": "https://www.heritage.org/military-strength/assessing-threats-us-vital-interests/china",
+    "title": "2024 Index of U.S. Military Strength \u2014 China Threat Assessment",
+    "bucket": "china_heritage",
+    "priority": "P3",
+    "error": "403 Client Error: Forbidden for url: https://www.heritage.org/military-strength/assessing-threats-us-vital-interests/chi"
+  },
+  {
+    "url": "https://www.iiss.org/publications/armed-conflict-survey/",
+    "title": "Armed Conflict Survey 2024: Ukraine",
+    "bucket": "ukr_p3_iiss",
+    "priority": "P3",
+    "error": "403 Client Error: Forbidden for url: https://www.iiss.org/publications/armed-conflict-survey/"
+  },
+  {
+    "url": "https://www.iiss.org/research-paper/2021/11/china-military-modernisation",
+    "title": "China's Military Modernisation: Reshaping the Indo-Pacific Strategic Order (Dossier)",
+    "bucket": "china_uk_iiss",
+    "priority": "P3",
+    "error": "403 Client Error: Forbidden for url: https://www.iiss.org/research-paper/2021/11/china-military-modernisation"
+  },
+  {
+    "url": "https://www.mitre.org/sites/default/files/2023-01/PR-22-3927-china-ai-autonomy-development.pdf",
+    "title": "China's AI and Autonomy Development: Implications for US Competitiveness",
+    "bucket": "china_mitre",
+    "priority": "P3",
+    "error": "403 Client Error: Forbidden for url: https://www.mitre.org/sites/default/files/2023-01/PR-22-3927-china-ai-autonomy-deve"
+  },
+  {
+    "url": "https://www.start.umd.edu/data-tools/GTD",
+    "title": "Global Terrorism Database (GTD)",
+    "bucket": "ct_other",
+    "priority": "P3",
+    "error": "HTTPSConnectionPool(host='www.start.umd.edu', port=443): Max retries exceeded with url: /data-tools/GTD (Caused by SSLEr"
+  },
+  {
+    "url": "https://www.start.umd.edu/gtd/groups/17N",
+    "title": "17 November Revolutionary Organization",
+    "bucket": "ct_org_17n",
+    "priority": "P3",
+    "error": "HTTPSConnectionPool(host='www.start.umd.edu', port=443): Max retries exceeded with url: /gtd/groups/17N (Caused by SSLEr"
+  },
+  {
+    "url": "https://www.start.umd.edu/research",
+    "title": "START Research Publications",
+    "bucket": "ct_other",
+    "priority": "P3",
+    "error": "HTTPSConnectionPool(host='www.start.umd.edu', port=443): Max retries exceeded with url: /research (Caused by SSLError(SS"
+  },
+  {
+    "url": "https://www.start.umd.edu/research-projects/lone-offender-terrorism",
+    "title": "START Lone Actor Research",
+    "bucket": "ct_lone_actor",
+    "priority": "P3",
+    "error": "HTTPSConnectionPool(host='www.start.umd.edu', port=443): Max retries exceeded with url: /research-projects/lone-offender"
+  },
+  {
+    "url": "https://www.start.umd.edu/research-projects/profiles-individual-radicalization-united-states-pirus",
+    "title": "START Far-Right Extremism Research",
+    "bucket": "ct_far_right",
+    "priority": "P3",
+    "error": "HTTPSConnectionPool(host='www.start.umd.edu', port=443): Max retries exceeded with url: /research-projects/profiles-indi"
+  },
+  {
+    "url": "https://www.usmcu.edu/Outreach/Marine-Corps-University-Press/China-Military-Studies-Review/CMSR-2025-Understanding-Weishe/",
+    "title": "China Military Studies Review 2025: Understanding Weishe (Strategic Coercion)",
+    "bucket": "china_ndu_new",
+    "priority": "P3",
+    "error": "403 Client Error: Forbidden for url: https://www.usmcu.edu/Outreach/Marine-Corps-University-Press/China-Military-Studies"
+  }
+]

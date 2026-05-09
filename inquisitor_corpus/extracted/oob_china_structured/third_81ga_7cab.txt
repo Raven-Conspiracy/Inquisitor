@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 7th Heavy Combined Arms Brigade
+
+**Unit ID**: 81ga_7cab
+**Type**: heavy_combined_arms_bde
+**Headquarters**: Zhangjiakou area
+**Parent**: Group Army / Fleet / Base: 81st Group Army (第八十一集团军) (81ga)
+**Higher echelon**: Central Theater Command (中部战区)
+**Elite designation**: No
+**Strength (% authorized)**: 100%
+**Notes**: [Wikipedia 81st GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

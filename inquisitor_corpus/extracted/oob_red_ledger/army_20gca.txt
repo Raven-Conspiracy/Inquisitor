@@ -1,0 +1,13 @@
+# Russian Army — 20th Guards Combined Arms Army
+
+**Unit ID**: 20gca
+**Type**: combined_arms_army
+**Headquarters**: Voronezh
+**Parent District**: Moscow Military District (MMD)
+**Strength (% authorized)**: 60.0%
+**Notes**: Deployed to Lyman sector
+
+## Subordinate Divisions
+- **144th Guards Motor Rifle Division** (144gmd) — type: motor_rifle, HQ: Yelnya, strength: 58.0%. Lyman / Kreminna sector
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

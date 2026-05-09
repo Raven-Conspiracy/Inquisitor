@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 16th Heavy Combined Arms Brigade
+
+**Unit ID**: 74ga_16cab
+**Type**: heavy_combined_arms_bde
+**Headquarters**: Huizhou area
+**Parent**: Group Army / Fleet / Base: 74th Group Army (第七十四集团军) (74ga)
+**Higher echelon**: Southern Theater Command (南部战区)
+**Elite designation**: No
+**Strength (% authorized)**: 100%
+**Notes**: ZTZ-96 MBTs, ZBD-86A IFVs. [Wikipedia 74th GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

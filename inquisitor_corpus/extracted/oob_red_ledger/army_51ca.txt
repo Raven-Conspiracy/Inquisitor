@@ -1,0 +1,18 @@
+# Russian Army — 51st Combined Arms Army
+
+**Unit ID**: 51ca
+**Type**: combined_arms_army
+**Headquarters**: Donetsk
+**Parent District**: Southern Military District (SMD)
+**Strength (% authorized)**: 55.0%
+**Notes**: Former DNR I Corps; Donetsk central
+
+## Subordinate Brigades (direct)
+- **1st Motor Rifle Brigade** (1mrb_51) — type: motor_rifle, strength: 52.0%. None
+- **5th Motor Rifle Brigade** (5mrb_51) — type: motor_rifle, strength: 50.0%. None
+- **9th Motor Rifle Brigade** (9mrb_51) — type: motor_rifle, strength: 50.0%. None
+- **110th Motor Rifle Brigade** (110mrb_51) — type: motor_rifle, strength: 48.0%. None
+- **114th Motor Rifle Brigade** (114mrb_51) — type: motor_rifle, strength: 48.0%. None
+- **132nd Motor Rifle Brigade** (132mrb_51) — type: motor_rifle, strength: 50.0%. None
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

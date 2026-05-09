@@ -1,0 +1,11 @@
+# Russian Brigade / Regiment — 128th Guards Motor Rifle Brigade (Guards)
+
+**Unit ID**: 128mrb
+**Type**: motor_rifle
+**Parent**: Field Army: 44th Army Corps (44ac)
+**Parent District**: Leningrad Military District
+**Guards designation**: Yes
+**Strength (% authorized)**: 62.0%
+**Notes**: Sumy Oblast
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:BDE] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

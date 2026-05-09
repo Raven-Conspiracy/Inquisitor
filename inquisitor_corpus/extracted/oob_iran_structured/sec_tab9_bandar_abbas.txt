@@ -1,0 +1,15 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: 9th Tactical Air Base — Bandar Abbas
+
+**Unit ID**: tab9_bandar_abbas
+**Service**: IRIAF
+**Type**: air_force_base
+**Headquarters**: Bandar Abbas, Hormozgan
+**Parent**: Islamic Republic of Iran Air Force (IRIAF) (iriaf)
+**Strength (% authorized)**: 45%
+**Notes**: F-4E; Su-35E on order. Also operates dispersed underground base Oghab 44 in Zagros Mountains (unveiled Jan 2023). [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+## Subordinate Division / Brigade / Squadrons
+- **91st Tactical Fighter Squadron (F-4E)** (sqn91_f4) — type: fighter_brigade, HQ: Bandar Abbas, strength: 45%. F-4E Phantom II; Su-35E on order 2025. Also operates dispersal Oghab 44 underground base in Zagros (unveiled Jan 2023). [Scramble.nl IRIAF OOB Feb 2026]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

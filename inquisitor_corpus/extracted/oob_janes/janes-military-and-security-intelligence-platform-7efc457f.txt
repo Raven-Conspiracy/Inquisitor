@@ -1,0 +1,101 @@
+Janes | Open Source Defence and Security Intelligence
+skip to main content
+Decision-Grade Intelligence
+Featured Insights
+Live Webinar
+14.05.2026
+The Evolution of Unmanned Systems: Use, Counters, Future Capabilities, and Market Dynamics.
+Read More
+The Janes Difference.
+Truth among conflicting feeds:
+Experts collect, analyze, and validate data no web scraper will ever see.
+Connected context:
+Visualize connections across forces, equipment, places, and events to move from “what happened” to “what it means.”
+Shared reality:
+Shareable unclassified intelligence across domains and partners enables interoperability and rapid alignment by design.
+Machine readable:
+Janes data is AI-ready and ready to integrate into any system or workflow.
+Explore Janes
+One living picture
+View All
+Intelligence That Feeds Your Workflow.
+Janes connects the data that matters and makes it usable wherever decisions happen.
+Datasets:
+Equipment, Weapons & Sensors
+Military Capabilities
+Geoeconomic Threat Intelligence
+Country & CBRN Profiles
+Defense Budgets, Programs & Forecasts
+News, Events & Analysis
+Tradecraft That Drives Decision Advantage.
+Janes applies proven tradecraft to deliver validated intelligence so teams can move from fragmented reporting to a defensible, connected view of capability, intent, and risk.
+Collect
+Analyze
+Validate
+Contextualize
+Deliver
+01
+Collect
+Janes experts collect information from a range of sources   including vetted on-the-ground and industry specialists, exclusive interviews, and events. They act as human sensors collecting data no web crawler could ever access.
+02
+Analyze
+Using deep expertise, transparent analytic tradecraft, imagery analysis, and advanced modeling, Janes transforms raw information into deeper understanding — moving from what happened to what it means.
+03
+Validate
+Every data point is verified against reliable, vetted sources. Janes applies strict criteria for source credibility to ensure accuracy and impartiality.
+04
+Contextualize
+As the largest global dataset of its type, Janes applies a rigorous data governance and advanced technology to connect millions of data points to uncover patterns, signals, and trajectories.
+05
+Deliver
+Final content is peer reviewed to ensure alignment with Janes quality and accuracy standard and meet our customers’ need for decision-grade intelligence.
+Built for How
+Real Teams Operate.
+Use Janes to plan, analyze, and forecast with the flexibility to access our validated data in our portal or fuse it with multiple sources in your system.
+Intelligence & Analysis
+Give teams a single, trusted view of adversaries, capabilities, and intent before anything moves.
+Operational Planning & Execution
+Anticipate threats, coordinate troops, and plan strategically using a unified, continuously updated picture.
+Logistics
+Rapidly shape deployment plans with validated orders of battle, equipment specifications, and inventory data.
+Personnel & Force Readiness
+Shape future forces, training, and equipment plans using deep, structured understanding of current and future threats.
+Wargaming & Strategic Planning
+Run realistic, data-driven scenarios that let commanders rehearse decisions before they face them for real.
+Economic & Strategic Forecasting
+Anticipate instability, sanctions impact, emerging needs, and defense-relevant economic shifts.
+Explore our products
+Janes in
+Action
+Real missions. Real clarity.
+All Use Cases
+01
+How Janes supports operational planning
+Janes provides the validated foundational data and analysis you need to inform the Joint Intelligence Preparation of the Operational Environment process.
+Read more
+02
+Explore any question from any direction
+With Janes interconnected data, you can approach any intelligence question from any direction, understand connections between actors, equipment and events to develop your course of action analysis and discover previously hidden connections.
+Read more
+03
+Using Janes to explore the Shandong
+Beginning with a typical report an analyst might receive, this demonstration highlights how Janes digital portal allows you to seamlessly navigate through validated data to quickly uncover the insights you need.
+Read more
+Move Faster With Validated Intelligence.
+See how Janes supports your mission, from first question to briefing-ready clarity.
+Book A Demo
+Learn How Janes Can Improve Your Workflow.
+Explore procurement pathways, integrations, services, and authorized partners.
+Visit Janes Partners
+Sign Up for Janes Newsletter.
+Receive the latest developments in defense and security.
+Contact Our Team to Explore the Value of Partnering with
+Janes
+Immediate Time to Value:
+Validated data that’s AI-ready and can easily integrate into any platform.
+Structured Intelligence Datasets:
+Janes knowledge graph; equipment, sensors, and weapons; military capabilities; country and chemical, biological, radiological, and nuclear profiles; geoeconomic threat intelligence; defence budgets, programmes, and forecasts; and news, events, and analysis.
+Data Delivery Mechanisms:
+Janes Data-as-a Service delivered in multiple formats, including File GeoDB, Parquet, RDBMS, XML, and Label/Property Graph, with flexible delivery options. API delivery is also available.
+Analytical Value:
+Enables enriched cross-source fusion when combined with GEOINT, SIGINT, HUMINT, and OSINT, significantly enhancing operational outcomes.

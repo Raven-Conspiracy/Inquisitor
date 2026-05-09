@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: IRIN Submarine Force (Kilo-class / Fateh-class) (ELITE / first-tier)
+
+**Unit ID**: irin_kilo_sqn
+**Type**: submarine_flotilla
+**Headquarters**: Bandar Abbas
+**Parent**: Region / Provincial Corps / Base: IRIN 1st Naval District — Bandar Abbas (SNFHQ) (irin_nd1)
+**Higher echelon**: Islamic Republic of Iran Navy (IRIN)
+**Elite designation**: Yes
+**Strength (% authorized)**: 60%
+**Notes**: 3x Kilo-class (877EKM) attack submarines + 1x Fateh-class coastal submarine. Kilo-class range extends to Indian Ocean. Bandar Abbas base struck Mar 2026. [DIA IMP 2019 p.27] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,10 @@
+# Russian Army — 68th Army Corps
+
+**Unit ID**: 68ac
+**Type**: army_corps
+**Headquarters**: Yuzhno-Sakhalinsk
+**Parent District**: Eastern Military District (EMD)
+**Strength (% authorized)**: 78.0%
+**Notes**: Sakhalin / Pacific defense
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

@@ -1,0 +1,22 @@
+# Chinese PLA — Group Army / Fleet / Base: Southern Theater Command Fleet (South Sea Fleet, 南部战区海军)
+
+**Unit ID**: ssf_plan
+**Service**: PLAN
+**Type**: fleet
+**Headquarters**: Zhanjiang
+**Parent**: Southern Theater Command (南部战区) (stc)
+**Strength (% authorized)**: 100%
+**Notes**: HQ Zhanjiang, Guangdong. Yulin/Sanya bases house SSBNs (Type 094). Home to Shandong (CV-17, commissioned 2019), Fujian (CV-18, commissioned Nov 2025), and 6 marine brigades. Two STCN commanders (Li Pengcheng, Ju Xinchun) reportedly purged/under investigation 2025; replacement status unclear. [POST-PURGE STATUS UNCERTAIN] [DOD CMPR 2024 p.45] [LinkedIn Erickson 2025-12-28] [NavalNews 2026-01-03]
+
+## Subordinate Brigade / Division / Flotillas
+- **South Sea Fleet Submarine Flotilla** (elite) (ssf_subflot) — type: submarine_flotilla, HQ: Yulin Naval Base, Sanya, strength: 100%. Yulin (Longpo) base at Hainan. Houses Type 094 SSBN and Type 093/093A SSN. Underground submarine facility. Critical for SSBN deterrence patrols into South Pacific. [DOD CMPR 2024 p.55] [Wikipedia PLAN] [USNWC CMSI submarine forces report]
+- **South Sea Fleet Destroyer/Frigate/Carrier Flotilla** (ssf_surfaceflot) — type: surface_flotilla, HQ: Zhanjiang/Sanya, strength: 100%. Houses Shandong (CV-17 Type 002, commissioned 2019) and Fujian (CV-18 Type 003, commissioned Nov 2025). 4 Type 055 DDGs at Sanya/Longpo. Type 071 LPD, Type 075 LHD. [NavalNews 2026-01-03] [DOD CMPR 2024 p.45] [Wikipedia Chinese carrier programme]
+
+## Authorized Equipment (estimated)
+- **destroyer** — Type 055, Type 052DL, Type 052C — authorized: 10, estimated lost: 0
+- **frigate** — Type 054A — authorized: 10, estimated lost: 0
+- **submarine** — Type 094 (SSBN), Type 093 (SSN), Type 039B (SSK) — authorized: 20, estimated lost: 0
+- **lst** — Type 075 LHD, Type 071 LPD, Type 072A LST — authorized: 8, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

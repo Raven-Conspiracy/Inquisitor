@@ -1,0 +1,15 @@
+# Russian Military District — Eastern Military District
+
+**District ID**: EMD
+**Headquarters**: Khabarovsk
+**Commander (as of 2026-04-10)**: Col Gen Andrey Ivanayev
+**Map color code**: #5c3a1a
+
+## Subordinate Field Armies / Corps
+- **5th Guards Combined Arms Army** (5gca) — type: combined_arms_army, HQ: Ussuriysk, strength: 62.0%. South Donetsk
+- **29th Guards Combined Arms Army** (29gca) — type: combined_arms_army, HQ: Chita, strength: 55.0%. South Donetsk / Velyka Novosilka
+- **35th Combined Arms Army** (35ca) — type: combined_arms_army, HQ: Belogorsk, strength: 58.0%. South Donetsk
+- **36th Combined Arms Army** (36ca) — type: combined_arms_army, HQ: Ulan-Ude, strength: 60.0%. Deployed Vuhledar / Zaporozhye
+- **68th Army Corps** (68ac) — type: army_corps, HQ: Yuzhno-Sakhalinsk, strength: 78.0%. Sakhalin / Pacific defense
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:MD] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

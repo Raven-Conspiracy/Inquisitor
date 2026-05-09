@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Samen al-Aeme Operational HQ (Northeast)
+
+**Unit ID**: irgcgf_samen_hq
+**Service**: IRGC-GF
+**Type**: operational_headquarters
+**Headquarters**: Mashhad area
+**Parent**: IRGC Ground Forces (IRGCGF) (irgc_gf)
+**Strength (% authorized)**: 80%
+**Notes**: Oversees Imam Reza (Razavi Khorasan), Javad al-Aeme (N. Khorasan), Ansar al-Reza (S. Khorasan) corps. [Wikipedia IRGC GF]
+
+## Subordinate Division / Brigade / Squadrons
+- **Sepah-e Imam Reza (Razavi Khorasan Provincial Corps)** (irgcgf_rk_corp) — type: light_cab, HQ: Mashhad, Razavi Khorasan, strength: 80%. Commander: YaghoubAli Nazari. [Wikipedia IRGC GF]
+- **Sepah-e Javad al-Aeme (North Khorasan Provincial Corps)** (irgcgf_nk_corp) — type: light_cab, HQ: Bojnourd, North Khorasan, strength: 80%. Commander: Aboulghasem Chaman. [Wikipedia IRGC GF]
+- **Sepah-e Ansar al-Reza (South Khorasan Provincial Corps)** (irgcgf_sk_corp) — type: light_cab, HQ: Birjand, South Khorasan, strength: 80%. Commander: Ali Ghasemi. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

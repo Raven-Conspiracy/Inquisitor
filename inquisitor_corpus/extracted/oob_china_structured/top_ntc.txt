@@ -1,0 +1,18 @@
+# Chinese PLA — Theater Command: Northern Theater Command (北部战区)
+
+**ID**: NTC
+**Headquarters**: Shenyang
+**Commander (current)**: Gen. Huang Ming (took office August 2024)
+**Map color code**: #2980b9
+**Notes**: Responsible for northeastern China, Korean Peninsula, Russian border, Mongolian border. Commands primary ground forces facing Russia/DPRK. Huang Ming confirmed as commander Aug 2024. [DOD CMPR 2024 p.95] [Wikipedia Northern Theater Command]
+
+## Subordinate Group Army / Fleet / Bases
+- **78th Group Army (第七十八集团军)** [PLAA] (78ga) — type: group_army, HQ: Harbin, strength: 100%. Formerly 16th Group Army (Shenyang MR); redesignated Apr 2017. Primary heavy armored force in NTC; 4 heavy CABs; retains some legacy tank-heavy formations. [DOD CMPR 2024 p.97] [Wikipedia 78th GA]
+- **79th Group Army (第七十九集团军)** [PLAA] (79ga) — type: group_army, HQ: Liaoyang, strength: 100%. Formerly 39th Group Army (Shenyang MR); redesignated Apr 2017. Has 4 armored brigades; 79th Special Forces Brigade 'Amur Tigers'. [DOD CMPR 2024 p.97] [Wikipedia 79th GA]
+- **80th Group Army (第八十集团军)** [PLAA] (80ga) — type: group_army, HQ: Weifang, strength: 100%. Formerly 26th Group Army (Jinan MR); redesignated Apr 2017. 80th Special Operations Brigade 'Taishan Eagles'. [DOD CMPR 2024 p.97] [Wikipedia 80th GA]
+- **Northern Theater Command Fleet (North Sea Fleet, 北部战区海军)** [PLAN] (nsf) — type: fleet, HQ: Qingdao, strength: 100%. HQ at Qingdao, Shandong. Patrols Yellow Sea and northern approaches. Home to Liaoning (CV-16 Type 001) carrier and SSBN/SSN nuclear submarine bases at Jianggezhuang. [DOD CMPR 2024 p.45] [Wikipedia PLAN] [NavalNews 2026-01-03]
+- **Northern Theater Command Air Force (北部战区空军)** [PLAAF] (ntcaf) — type: air_force_base, HQ: Shenyang, strength: 100%. Manages PLAAF in NTC AOR. J-20 at 1st Bde (Anshan) and 55th Bde (Jining/Qufu). J-16 at 15th Bde (Weifang). Bases at Dalian, Changchun (command post), Jinan, Shenyang. [Heritage Foundation 2026-01-20] [CASI J-20 Status 2024-04-29]
+- **PLARF Base 65 (第六十五基地, Unit 96605)** [PLARF] (plarf_b65) — type: rocket_force_base, HQ: Shenyang, strength: 100%. HQ Shenyang, Liaoning. Formerly Base 51. NE China/Shandong coverage. 6-7 brigades: DF-41 (nuclear), DF-31AG (nuclear), DF-26 (dual), DF-21D (anti-ship), DF-17 (conventional), CJ-100/DF-100 (LACM). [POST-PURGE STATUS UNCERTAIN] [CNS PLARF OOB 2023] [Grey Dynamics 2024-07-30]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:THEATER] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 112th Heavy Combined Arms Brigade (ELITE / first-tier)
+
+**Unit ID**: 82ga_112cab
+**Type**: heavy_combined_arms_bde
+**Headquarters**: Baoding area
+**Parent**: Group Army / Fleet / Base: 82nd Group Army (第八十二集团军) (82ga)
+**Higher echelon**: Central Theater Command (中部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: First-tier heavy armored. [Wikipedia 82nd GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

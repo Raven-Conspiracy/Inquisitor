@@ -1,0 +1,21 @@
+# Chinese PLA — Group Army / Fleet / Base: Northern Theater Command Fleet (North Sea Fleet, 北部战区海军)
+
+**Unit ID**: nsf
+**Service**: PLAN
+**Type**: fleet
+**Headquarters**: Qingdao
+**Parent**: Northern Theater Command (北部战区) (ntc)
+**Strength (% authorized)**: 100%
+**Notes**: HQ at Qingdao, Shandong. Patrols Yellow Sea and northern approaches. Home to Liaoning (CV-16 Type 001) carrier and SSBN/SSN nuclear submarine bases at Jianggezhuang. [DOD CMPR 2024 p.45] [Wikipedia PLAN] [NavalNews 2026-01-03]
+
+## Subordinate Brigade / Division / Flotillas
+- **North Sea Fleet Submarine Flotilla** (elite) (nsf_subflot) — type: submarine_flotilla, HQ: Jianggezhuang (Qingdao), strength: 100%. Houses SSBN (Type 094A Jin-class) and SSN (Type 093 Shang-class) at Jianggezhuang nuclear submarine base near Qingdao. Type 094 assigned 72 JL-3 warheads per PLAN nuclear deterrence posture. [DOD CMPR 2024 p.55] [Wikipedia PLAN]
+- **North Sea Fleet Destroyer/Frigate Flotilla** (nsf_surfaceflot) — type: surface_flotilla, HQ: Qingdao, strength: 100%. Includes Liaoning (CV-16 Type 001) Carrier Strike Group. Type 055 DDGs (4 hulls assigned NTC per NavalNews 2026). Type 052D, Type 054A frigates. [NavalNews 2026-01-03] [DOD CMPR 2024 p.45]
+
+## Authorized Equipment (estimated)
+- **destroyer** — Type 055, Type 052D — authorized: 8, estimated lost: 0
+- **frigate** — Type 054A — authorized: 8, estimated lost: 0
+- **submarine** — Type 094A (SSBN), Type 093A (SSN), Type 039A (SSK) — authorized: 12, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

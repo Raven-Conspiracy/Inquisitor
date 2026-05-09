@@ -1,0 +1,15 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: 8th Tactical Air Base — Isfahan (Shahid Beheshti)
+
+**Unit ID**: tab8_isfahan
+**Service**: IRIAF
+**Type**: air_force_base
+**Headquarters**: Isfahan
+**Parent**: Islamic Republic of Iran Air Force (IRIAF) (iriaf)
+**Strength (% authorized)**: 20%
+**Notes**: F-14A/AM (3 sqns). Under heavy attack Mar 2026; IDF reportedly destroyed entire F-14 fleet plus Su-22s, P-3s, C-130s. Also base for Yak-130 trainers (2 delivered Sep 2023) and PC-7/S-68 training. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN: F-14 fleet assessed destroyed]
+
+## Subordinate Division / Brigade / Squadrons
+- **81st/82nd/83rd Tactical Fighter Squadrons (F-14A)** (sqn81_f14) — type: fighter_brigade, HQ: Isfahan, strength: 5%. Three squadrons of F-14A/AM Tomcat — Iran's longest-range air superiority fighter. IDF reportedly destroyed the entire F-14 fleet in March 2026 attacks on Isfahan. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN: assessed destroyed Mar 2026]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,10 @@
+# Iranian Armed Forces — Service Branch: Basij Resistance Force
+
+**ID**: BASIJ
+**Headquarters**: Tehran (Sarallah HQ coordinates Tehran Basij)
+**Commander (current)**: —
+**Map color code**: #2e1a5e
+**Notes**: IRGC paramilitary/mobilization force. Active reserve ~450,000; inactive reserve up to 1 million; total nominal strength 4-5 million with basic training. 32 provincial commands (mirrors IRGC corps + Tehran). Core unit types: Ashura/Al Zahra (local), Beyt ol Moghaddas/Kowsar (rapid reaction), Imam Ali (internal), Imam Hossein (light infantry), Fatehin (SF). [DIA IMP 2019 p.19] [CTP Mar 2026].
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:SVC] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

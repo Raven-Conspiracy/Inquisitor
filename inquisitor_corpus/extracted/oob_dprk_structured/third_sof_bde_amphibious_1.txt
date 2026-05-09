@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Amphibious Light Infantry Brigade No. 1 (ELITE / first-tier)
+
+**Unit ID**: sof_bde_amphibious_1
+**Type**: amphibious
+**Headquarters**: Coastal location (east coast approximate)
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: 11th Storm Corps (XI Corps) (sof_11corps)
+**Higher echelon**: KPA Special Operations Forces (Teuksu Jjakjeon'gun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 83.0%
+**Notes**: ELITE. FAS confirms 2 amphibious light infantry brigades for two-front coastal operations. Mission: seaborne infiltration of ROK rear areas. Uses high-speed boats (30+ knots), air-cushioned hovercraft (7,000+ SOF per coastline per US Army 1998 estimate). [FAS KPA Guide Part 3; KPASOF Wikipedia]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

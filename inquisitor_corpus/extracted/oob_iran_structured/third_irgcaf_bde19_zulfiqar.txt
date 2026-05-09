@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 19th Zulfiqar Missile Brigade (ELITE / first-tier)
+
+**Unit ID**: irgcaf_bde19_zulfiqar
+**Type**: rocket_brigade
+**Headquarters**: Undisclosed (southwest Iran)
+**Parent**: Region / Provincial Corps / Base: Al-Ghadir Missile Command (AGMC) (irgcaf_agmc)
+**Higher echelon**: IRGC Aerospace Force (IRGCASF / IRGC-AF)
+**Elite designation**: Yes
+**Strength (% authorized)**: 85%
+**Notes**: Likely Zolfaghar (750km solid fuel) and Fateh-313 SRBM. Subordinate to AGMC. [Iran Watch IRGC-AF 2020]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,12 @@
+# Chinese PLA — Group Army / Fleet / Base: PLA Information Support Force (信息支援部队)
+
+**Unit ID**: pla_isf
+**Service**: PLASSF
+**Type**: air_force_base
+**Headquarters**: Beijing
+**Parent**: Central Theater Command (中部战区) (ctc)
+**Strength (% authorized)**: 100%
+**Notes**: Established April 19, 2024; the primary successor formation to PLASSF. Commander: LtGen Bi Yi; Political Commissar: Gen Li Wei. Responsible for PLA communications networks and network defense (formerly Information Communications Base). Directly commanded by CMC. [Air University CASI 2024-04-22]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

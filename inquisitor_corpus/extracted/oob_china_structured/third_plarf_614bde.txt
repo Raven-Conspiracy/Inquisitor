@@ -1,0 +1,16 @@
+# Chinese PLA — Brigade / Division / Flotilla: 614th Missile Brigade (DF-17 MRBM) (ELITE / first-tier)
+
+**Unit ID**: plarf_614bde
+**Type**: rocket_brigade
+**Headquarters**: Yong'an, Fujian
+**Parent**: Group Army / Fleet / Base: PLARF Base 61 (第六十一基地, Unit 96601) (plarf_b61)
+**Higher echelon**: Eastern Theater Command (东部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: DF-17 conventional hypersonic glide vehicle MRBM. ~27-36 launchers. Transitioning from DF-11. MUCD 96714. [CNS PLARF OOB 2023] [Wikipedia PLARF]
+
+## Authorized Equipment (estimated)
+- **mrbm** — DF-17 — authorized: 36, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

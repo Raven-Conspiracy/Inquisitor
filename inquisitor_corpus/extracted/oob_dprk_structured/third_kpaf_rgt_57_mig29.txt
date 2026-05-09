@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: 57th Air Fighter Wing (MiG-29 regiment) (ELITE / first-tier)
+
+**Unit ID**: kpaf_rgt_57_mig29
+**Type**: fighter_brigade
+**Headquarters**: Sunchon Airport, South Pyongan Province
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: 1st Air Combat Command (1st ACC) / 1st Air Combat Division (kpaf_1acc)
+**Higher echelon**: Korean People's Army Air Force (Konggun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 72.0%
+**Notes**: ELITE. Primary air superiority regiment; operates MiG-29B/SE (35 aircraft total KPAF). Highest annual flight hours in KPAF relative to other units. Receives more fuel/maintenance priority. [Wikipedia KPAF; DIA NKMP 2021 'most modern assets are MiG-29 and MiG-23']
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

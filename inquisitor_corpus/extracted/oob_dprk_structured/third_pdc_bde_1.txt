@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Bodyguard Command Brigade (Pyongyang Defense Command element) (ELITE / first-tier)
+
+**Unit ID**: pdc_bde_1
+**Type**: light_cab
+**Headquarters**: Pyongyang
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: Pyongyang Defense Command (pdc)
+**Higher echelon**: KPA Ground Forces (Ryukgun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 95.0%
+**Notes**: ELITE / REGIME PROTECTION. Multiple brigade-sized elements under Bodyguard Command per DIA NKMP 2021. Leadership replaced Jan 2026 (Song Jun-sol: Guard Office; Ro Kyong-chol: Guard Dept; Ra Chol-jin: KPA Bodyguard Command) [POST-2021 UPDATE: ROK MND/Yonhap Jan 2026]. Specific brigade designations classified. [DIA NKMP 2021 '300,000 personnel'; ROK MND 2025]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

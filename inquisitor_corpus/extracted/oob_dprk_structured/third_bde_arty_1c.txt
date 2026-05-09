@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Artillery Brigade (unidentified, I Corps)
+
+**Unit ID**: bde_arty_1c
+**Type**: artillery
+**Headquarters**: Kumgang County area (approximate)
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: I Corps (1st Corps) (corps_1)
+**Higher echelon**: KPA Ground Forces (Ryukgun)
+**Elite designation**: No
+**Strength (% authorized)**: 82.0%
+**Notes**: NAME UNKNOWN. KPA has ~21 artillery brigades per IISS MB 2017. Forward corps have organic arty brigades. [DIA NKMP 2021; IISS MB 2017]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

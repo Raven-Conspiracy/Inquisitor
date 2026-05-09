@@ -1,0 +1,16 @@
+# Chinese PLA — Theater Command: Western Theater Command (西部战区)
+
+**ID**: WTC
+**Headquarters**: Chengdu
+**Commander (current)**: Gen. Wang Haijiang (absent from key events late 2025; status uncertain)
+**Map color code**: #8e44ad
+**Notes**: Largest geographic theater; covers Xinjiang, Tibet, borders with India, Russia (partial), Central Asia. Wang Haijiang reportedly among generals absent from key events Nov 2025, suggesting possible investigation. [POST-PURGE STATUS UNCERTAIN] [DOD CMPR 2024 p.95] [CNA 2025-11-19]
+
+## Subordinate Group Army / Fleet / Bases
+- **76th Group Army (第七十六集团军)** [PLAA] (76ga) — type: group_army, HQ: Xining, strength: 100%. Formerly 21st Group Army (Lanzhou MR); redesignated Apr 2017. Covers Xinjiang, Qinghai border regions; has elements repositioned toward India LAC per 2024 SSI study. [DOD CMPR 2024 p.97] [US Army SSI 2024]
+- **77th Group Army (第七十七集团军)** [PLAA] (77ga) — type: group_army, HQ: Chengdu, strength: 100%. Formerly 13th Group Army (Chengdu MR); redesignated Apr 2017. 2 mountain CABs; 3 brigades repositioned to Tibet since 2017 for India LAC operations per SSI 2024. [DOD CMPR 2024 p.97] [US Army SSI 2024]
+- **Western Theater Command Air Force (西部战区空军)** [PLAAF] (wtcaf) — type: air_force_base, HQ: Chengdu, strength: 100%. Manages PLAAF in WTC AOR. J-20 at 97th Bde (Dazu) and 111th Bde (Korla). Western TC has transport regiment (not brigade) directly subordinate. Bases at Lhasa, Urumqi, Lanzhou, Kunming. [CASI J-20 Status 2024-04-29] [CASI/PLAAF Overview 2023] [_gaps: limited public brigade-level data for WTC]
+- **PLARF Base 64 (第六十四基地, Unit 96604)** [PLARF] (plarf_b64) — type: rocket_force_base, HQ: Lanzhou, strength: 100%. HQ Lanzhou, Gansu. NW China/Central Asia coverage. 6-7 brigades: DF-41 (nuclear), DF-31AG (nuclear), DF-26 (dual). Large silo fields at Yumen (~110 silos) and Hami (~120 silos) associated with Base 64 AOR. [POST-PURGE STATUS UNCERTAIN] [CNS PLARF OOB 2023] [Wikipedia PLARF]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:THEATER] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

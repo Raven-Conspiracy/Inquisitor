@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: SSB Hero Kim Kun Ok (multi-tube SLBM submarine) (ELITE / first-tier)
+
+**Unit ID**: kpn_hero_kim_kun_ok
+**Type**: submarine_flotilla
+**Headquarters**: Sinpo, South Hamgyong Province
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: East Sea Fleet (East Coast Fleet) (kpn_east_fleet)
+**Higher echelon**: Korean People's Navy (Haegun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 75.0%
+**Notes**: POST-2021 ADDITION. Commissioned 6 Sep 2023. Multi-tube SLBM carrier; larger than 8.24 Yongung. Largest NK submarine built to date (~67m+ with wider beam). Specific tube count not officially confirmed. [Wikipedia KPN Sep 2023; CSIS Beyond Parallel 2023] [POST-2021 UPDATE]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

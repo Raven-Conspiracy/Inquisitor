@@ -1,0 +1,18 @@
+# Chinese PLA — Group Army / Fleet / Base: PLA Air Force Airborne Corps (空降兵军)
+
+**Unit ID**: airborne
+**Service**: PLAAF
+**Type**: group_army
+**Headquarters**: Xiaogan
+**Parent**: Central Theater Command (中部战区) (ctc)
+**Strength (% authorized)**: 100%
+**Notes**: HQ Xiaogan, Hubei. Reports to CMC via PLAAF; wartime placed under theater commands. 5 airborne brigades + 1 air assault brigade; SOF brigade; aviation transport brigade. IISS 2025 confirms current structure. [Wikipedia PLAAF Airborne Corps] [IISS Military Balance 2025]
+
+## Subordinate Brigade / Division / Flotillas
+- **127th Airborne Brigade** (elite) (airborne_127bde) — type: airborne, HQ: Hubei / wartime STC, strength: 100%. Air assault type per 2024 Taiwan publication. Wartime assigned to Southern Theater Command. First-tier airborne unit. [Wikipedia PLAAF Airborne Corps] [IISS 2025]
+- **128th Airborne Brigade** (elite) (airborne_128bde) — type: airborne, HQ: Hubei / wartime WTC, strength: 100%. Air assault type per 2024 Taiwan publication. Wartime WTC. First-tier. [Wikipedia PLAAF Airborne Corps]
+- **133rd Airborne Brigade** (elite) (airborne_133bde) — type: airborne, HQ: Hubei / wartime NTC, strength: 100%. Airborne. Wartime NTC. First-tier. [Wikipedia PLAAF Airborne Corps] [IISS 2025]
+- **134th Airborne Brigade** (elite) (airborne_134bde) — type: airborne, HQ: Hubei / wartime ETC, strength: 100%. Airborne. Wartime ETC (Taiwan contingency). First-tier. [Wikipedia PLAAF Airborne Corps]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

@@ -1,0 +1,13 @@
+# Russian Army — 2nd Guards Combined Arms Army
+
+**Unit ID**: 2gca
+**Type**: combined_arms_army
+**Headquarters**: Samara
+**Parent District**: Central Military District (CMD)
+**Strength (% authorized)**: 60.0%
+**Notes**: Deployed Kupyansk sector
+
+## Subordinate Divisions
+- **90th Guards Tank Division** (90gtd) — type: tank, HQ: Chelyabinsk, strength: 52.0%. Heavy losses; Kupyansk
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

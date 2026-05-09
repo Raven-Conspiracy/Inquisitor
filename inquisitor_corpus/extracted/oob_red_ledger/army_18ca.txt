@@ -1,0 +1,13 @@
+# Russian Army — 18th Combined Arms Army
+
+**Unit ID**: 18ca
+**Type**: combined_arms_army
+**Headquarters**: Sevastopol
+**Parent District**: Southern Military District (SMD)
+**Strength (% authorized)**: 70.0%
+**Notes**: Kherson / Dnieper axis
+
+## Subordinate Brigades (direct)
+- **810th Guards Naval Infantry Brigade** (Guards) (810nb) — type: naval_infantry, strength: 55.0%. Black Sea Fleet; Sumy / Kherson
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

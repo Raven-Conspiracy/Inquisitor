@@ -1,0 +1,12 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: IRGC Aerospace Force Air Defense Component
+
+**Unit ID**: irgcaf_irad
+**Service**: IRGC-AF
+**Type**: air_defense_command
+**Headquarters**: Tehran (KADHQ coordinates with IRIADF)
+**Parent**: IRGC Aerospace Force (IRGCASF / IRGC-AF) (irgc_af)
+**Strength (% authorized)**: 40%
+**Notes**: Operates Raad/3rd Khordad, Talash/15th Khordad, Misagh MANPADS. Works in tandem with IRIADF (Artesh) under KADHQ. All 4 S-300 PMU2 batteries assessed inoperable after Apr and Oct 2024 Israeli strikes. [ISW Oct 2024 PDF] [DIA IMP 2019 p.22] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

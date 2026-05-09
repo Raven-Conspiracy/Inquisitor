@@ -1,0 +1,15 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: 5th Transport Division
+
+**Unit ID**: kpaf_5td
+**Service**: KPAF
+**Type**: air_division
+**Headquarters**: Taechon, North Pyongan Province
+**Parent**: Korean People's Army Air Force (Konggun) (kpaf)
+**Strength (% authorized)**: 55.0%
+**Notes**: Primary SOF infiltration lift and transport. HQ Taechon. Units include An-2 transport wings at Taechon, Kwaksan; helicopter wings (Mi-8T/Mi-26) at Pukchang East (65th Helo Rgt); MD-500 helicopters (64th Rgt at Pukchang East — 84 aircraft, illegally obtained 1980s via West German sanctions busting). An-2 Colt is primary SOF insertion platform (invisible to radar, cloth/wood construction). [DIA NKMP 2021; Wikipedia KPAF; FAS KPA Guide Part 3]
+
+## Subordinate Division / Brigade / Flotillas
+- **64th Helicopter Regiment (MD-500D)** (elite) (kpaf_rgt_64_md500) — type: fighter_brigade, HQ: Pukchang East airbase, South Pyongan Province, strength: 60.0%. ELITE SOF SUPPORT. 84 MD-500D helicopters illegally obtained via West German merchants through Soviet vessels in 1980s circumventing US export controls. Some equipped with Soviet AT-3 Sagger ATGMs. Used for SOF airmobile infiltration (range 600km per 4 troops). [Wikipedia KPAF; FAS KPA Guide Part 3]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

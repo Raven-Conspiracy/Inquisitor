@@ -1,0 +1,15 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Southeastern Regional Headquarters
+
+**Unit ID**: artesh_se_rhq
+**Service**: Artesh
+**Type**: regional_headquarters
+**Headquarters**: Kerman City, Kerman Province
+**Parent**: Islamic Republic of Iran Army (Artesh / IRIGF) (artesh)
+**Strength (% authorized)**: 85%
+**Notes**: Commander: BG Amir Gholam Alian (since Aug 2020). Covers Hormozgan, Kerman, Sistan and Baluchistan, parts of Yazd. [CTP Artesh OOB Aug 2025]
+
+## Subordinate Division / Brigade / Squadrons
+- **88th Armored Division** (div88_armd) — type: tank, HQ: Zahedan, Sistan and Baluchistan, strength: 80%. Commander: BG2 Adel Heydari (since Oct 2023). Border-focused; SE Iran vs. Pakistan/Afghanistan threat axes. Brigades: 188th Armored (Zahedan), 288th Armored (Khash), 388th Mechanized Assault (Iranshahr). [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 23rd Tactical Fighter Squadron (Saeghe/F-5 variant)
+
+**Unit ID**: sqn23_saeghe
+**Type**: fighter_brigade
+**Headquarters**: Tabriz
+**Parent**: Region / Provincial Corps / Base: 2nd Tactical Air Base — Tabriz (Shaheed Fakouri) (tab2_tabriz)
+**Higher echelon**: Islamic Republic of Iran Air Force (IRIAF)
+**Elite designation**: No
+**Strength (% authorized)**: 40%
+**Notes**: F-5E Saeghe and Saeghe II (indigenous F-5 variant). [Scramble.nl IRIAF OOB Feb 2026]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

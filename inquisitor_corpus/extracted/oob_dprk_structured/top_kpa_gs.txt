@@ -1,0 +1,10 @@
+# Korean People's Army — General Staff Directorate: KPA General Staff Department (Chongch'am Mobu)
+
+**ID**: KPA_GS
+**Headquarters**: Pyongyang
+**Commander (current)**: Vice Marshal Ri Yong-gil (Chief of General Staff, appointed 10 Aug 2023)
+**Map color code**: #1a1a6e
+**Notes**: Principal administrative and operational command of the entire KPA. Coordinates all service branches. The Chief of General Staff is the highest uniformed military position below Supreme Commander Kim Jong Un. RGB commander also serves as KPA Vice-Chief of General Staff. Post-2025 restructuring expanded the first vice-chief role to two positions. [Wikipedia GSD KPA; Yonhap/ROK MND 2025 annual assessment Jan 2026]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:GSD] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

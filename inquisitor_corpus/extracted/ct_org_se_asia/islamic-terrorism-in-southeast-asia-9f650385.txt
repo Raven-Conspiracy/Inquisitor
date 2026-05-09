@@ -1,0 +1,1956 @@
+Islamic Terrorism in Southeast Asia: An Effects-
+Based U.S. Regional Strategy against Jemaah 
+Islamiyah and Abu Sayyaf 
+ 
+A Monograph 
+by 
+Major Michael E. Carter 
+United States Air Force 
+ 
+School of Advanced Military Studies 
+United States Army Command and General Staff College 
+Fort Leavenworth, Kansas 
+ 
+AY 04-05 
+Approved for Public Release; Distribution is Unlimited 
+
+ 
+ 
+REPORT DOCUMENTATION PAGE 
+Form Approved 
+OMB No. 074-0188 
+Public reporting burden for this collection of information is estimated to average 1 hour per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining 
+the data needed, and completing and reviewing this collection of information.  Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for 
+reducing this burden to Washington Headquarters Services, Directorate for Information Operations and Reports, 1215 Jefferson Davis Highway, Suite 1204, Arlington, VA  22202-4302, and to the Office of 
+Management and Budget, Paperwork Reduction Project (0704-0188), Washington, DC 20503 
+1. AGENCY USE ONLY (Leave blank)
+ 
+2. REPORT DATE
+ 
+3. REPORT TYPE AND DATES COVERED
+MONOGRAPH
+4. TITLE AND SUBTITLE
+Islamic Terrorism in Southeast Asia: An Effects-Based  U.S. Regional Strategy against 
+Jemaah Islamiyah and Abu Sayyaf 
+5.  FUNDING NUMBERS
+ 
+6. AUTHOR(S)
+MAJOR Michael E. Carter 
+ 
+7. PERFORMING ORGANIZATION NAME(S) AND ADDRESS(ES)
+ 
+8. PERFORMING ORGANIZATION 
+   REPORT NUMBER
+School of Advanced Military Studies 
+250 Gibbon Ave 
+Fort Leavenworth, KS 66027 
+  
+9.  SPONSORING / MONITORING AGENCY NAME(S) AND ADDRESS(ES) 10. SPONSORING / MONITORING 
+     AGENCY REPORT NUMBER
+U.S. Army Command and General Staff 
+College 
+Fort Leavenworth, KS 66027 
+  
+11. SUPPLEMENTARY NOTES
+ 
+12a. DISTRIBUTION / AVAILABILITY STATEMENTT
+Approved for public release; distribution is unlimited 
+12b. DISTRIBUTION CODE
+       A 
+13. ABSTRACT (Maximum 200 Words)   
+Islamic Terrorism in Southeast Asia constitutes the second front in the Global War on Terrorism. Jemaah Islamiyah and Abu 
+Sayyaf, transnational terrorist organizations with ties to Al Qaeda, have frustrated U.S. efforts to eradicate terrorism and provide 
+regional stability. Thus far, they have successfully adapted to concerted, international efforts to reduce their sphere of influence. 
+This monograph examined these terrorist groups through the lens of Dr. Bard O’Neill’s insurgency framework, with the aim of 
+providing an effects-based counterterrorism strategy. The findings highlight an ineffective, regional strategy, with deficiencies in 
+regional diplomacy, economic reform, financial and judicial practices and military organization. The findings recommend 
+prioritized improvements in these areas, along with more efficient maritime control and customs procedures. The study also 
+indicates the lack of an effective regional information campaign against terrorism. The compilation of these recommendations 
+form an effects-based counterterrorism strategy needed to win in the Global War on Terrorism. 
+ 
+14. SUBJECT TERMS  Joint and Service Pre-positioning Programs
+ 
+15. NUMBER OF PAGES
+61
+GWOT, Islamic, Jemaah Islamiyah, Abu Sayyaf 16. PRICE CODE
+17. SECURITY CLASSIFICATION 
+     OF REPORT
+U 
+18. SECURITY CLASSIFICATION 
+     OF THIS PAGE
+U 
+19. SECURITY CLASSIFICATION 
+     OF ABSTRACT
+U 
+20. LIMITATION OF ABSTRACT 
+none 
+NSN 7540-01-280-5500   Standard Form 298 (Rev. 2-89)
+Prescribed by ANSI Std. Z39-18 
+298-102
+
+SCHOOL OF ADVANCED MILITARY STUDIES 
+MONOGRAPH APPROVAL 
+Major Michael E. Carter 
+Title of Monograph: Islamic Terrorism in Southeast Asia: An Effects-Based  U.S. 
+Regional Strategy against Jemaah Islamiyah and Abu Sayyaf 
+Approved by: 
+__________________________________ Monograph Director 
+Smith, Forrest, LTC, AD 
+___________________________________ Director, 
+Kevin C.M. Benson, COL, AR School of Advanced 
+  Military Studies 
+___________________________________ Director, 
+Robert F. Baumann, Ph.D. Graduate Degree 
+ Programs  
+ ii
+
+ABSTRACT 
+ISLAMIC TERRORISM IN SOUTHEAST ASIA: AN EFFECTS-BASED U.S. REGIONAL 
+STRATEGY AGAINST JEMAAH ISLAMIYAH AND ABU SAYYAF, by Major Michael E. 
+Carter, USAF, 60 pages. 
+Islamic Terrorism in Southeast Asia constitutes the second front in the Global War on 
+Terrorism. Jemaah Islamiyah and Abu Sayyaf, transnational terrorist organizations with ties to Al 
+Qaeda, have frustrated U.S. efforts to eradicate terrorism and provide regional stability. Thus far, 
+they have successfully adapted to concerted, international efforts to reduce their sphere of 
+influence. This monograph examined these terrorist groups through the lens of Dr. Bard O’Neill’s 
+insurgency framework, with the aim of providing an effects-based counterterrorism strategy. The 
+findings highlight an ineffective, regional strategy, with deficiencies in regional diplomacy, 
+economic reform, financial and judicial practices and military organization. The findings 
+recommend prioritized improvements in these areas, along with more efficient maritime control 
+and customs procedures. The study also indicates the lack of an effective regional information 
+campaign against terrorism. The compilation of these recommendations form an effects-based 
+counterterrorism strategy needed to win in the Global War on Terrorism. 
+ 
+ iii
+
+TABLE OF CONTENTS 
+INTRODUCTION........................................................................................................................... 1  
+Jemaah Islamiyah—“Islamic Community” ..................................................................................... 9 
+Abu Sayyaf—“The Bearer of the Sword” ..................................................................................... 11 
+Insurgency Type and Aim ............................................................................................................. 13  
+Form of Warfare............................................................................................................................ 16  
+Strategy............................................................................................................................... ........... 22 
+Environment ............................................................................................................................... ... 24 
+Popular Support............................................................................................................................. 29  
+Organization ............................................................................................................................... ... 31 
+External Support............................................................................................................................ 36  
+Government Response................................................................................................................... 38  
+Countering Adaptations: An Effects-Based U.S. Regional Strategy............................................. 41 
+Southeast Asian Complexities ................................................................................................... 41  
+An Adapting Enemy .................................................................................................................. 43  
+Current Strategies ...................................................................................................................... 44  
+Southeast Asian Effects-Based Counterterrorism Strategy ........................................................... 45 
+Information............................................................................................................................... .4 7 
+Diplomatic ............................................................................................................................... .. 48 
+Economic............................................................................................................................... .... 50 
+Financial ............................................................................................................................... ..... 51 
+Law Enforcement ...................................................................................................................... 52  
+Customs/Maritime ..................................................................................................................... 53  
+Judicial............................................................................................................................... ........ 55 
+Militarily............................................................................................................................... ..... 56 
+CONCLUSION ............................................................................................................................. 58  
+BIBLIOGRAPHY ......................................................................................................................... 60  
+ 4
+
+INTRODUCTION 
+President George Bush quickly responded to Al-Qaeda’s 11 September 2001 attacks on 
+the World Trade Center and the Pentagon. Employing a full compliment of diplomatic, economic, 
+military and informational efforts, the Bush Administration declared a Global War on Terrorism 
+that continues today. Within two weeks of the attacks, President Bush signed Executive Order 
+13224, authorizing the United States government “to designate and block the assets of foreign 
+individuals and entities that commit, or pose a significant risk of committing, acts of terrorism.”1 
+On 7 October 2001, President Bush announced military air strikes against Al-Qaeda terrorist 
+camps and military installations located in Afghanistan. The subsequent military Operation 
+ENDURING FREEDOM expelled the Taliban regime from power and led to the capture or death 
+of numerous Al-Qaeda core operatives. Diplomatically, the Bush administration coordinated 
+efforts with Pakistan President Pervez Musharraf to expose and eliminate Al-Qaeda operatives. 
+Acknowledging a dismal intelligence performance in preventing the September 2001 catastrophe, 
+President Bush created the National Commission on Terrorist Attacks Upon the United States 
+(9/11 Commission). Led by Republican Thomas Kean, the 9/11 Commission investigated 
+intelligence shortfalls and recommended actions to increase America’s ability to defend its 
+homeland from further terrorist attacks. 
+In July 2004, the President reiterated his commitment to countering global terrorism by 
+outlining his strategy for peace, “First we are defending the peace by taking the fight to the 
+enemy; second, we’re protecting the peace by working with friends and allies and international 
+institutions to isolate and confront terrorist and outlaw regimes and third, by “extending the peace 
+by supporting the rise of democracy, and the hope and progress that democracy brings, as the 
+                                                      
+1 U.S. State Department, available from http://www.state.gov/s/ct/rls/fs/2002/16181.htm. 
+ 1
+
+alternative to hatred and terror in the broader Middle East.2” The President’s strategy for peace 
+has resulted in impressive gains against global terrorism. Yet the accomplishments to date in the 
+Middle East merely address a portion of the global terrorism threat. Far from the cities of 
+Karbarla and Kabul, distanced from the explosive insurgencies engulfing Najaf and Fallujah, 
+Islamic terrorist organizations operating in Southeast Asia have joined the global jihad against the 
+West. The existence of these organizations and their confirmed role in recent local and 
+international terrorist attacks has opened up a second front in the war on terrorism. To date, these 
+resourceful and adaptive Islamic terrorist organizations have rendered U.S. regional 
+counterterrorism strategy ineffective. And while an understanding of their adaptive nature is no 
+predictor of future behavior, it nonetheless is essential in developing a cohesive, counterterrorism 
+regional strategy. 
+Southeast Asia is home to an expansive network of violent non-state actors. Operating 
+from Mindanao and neighboring islands in the Southern Philippines, the Moro Islamic Liberation 
+Front (MILF) has battled the Philippine government for a separate homeland since the 1970s. 
+Soldiers of Laskar Jihad lend continued support to Muslims fighting Christian rivals on the 
+Indonesian islands of Moluccas and Sulawesi. In Malaysia, Kumpulan Mujahidin Malaysian 
+(KMM) insurgents aim to transform Malaysia into an Islamic state. In Thailand, the New Pattani 
+United Liberation Organization is working to establish independence for Muslims in the 
+country’s southern states. Further north in Laos and Vietnam, “freedom fighters drawn from 
+among the countries’ disenfranchised ethnic nationalities continue to protest, sometimes 
+violently, against their governments.”
+3 Cambodia authorities arrested four members of Jemaah 
+Islamiyah suspected of planning terrorist attacks within the country’s borders. While this 
+                                                      
+2 President George Bush, “Progress in the War on Terror” (speech at Oak Ridge National 
+Laboratory) in Oak Ridge, Tennessee on 12 July 2004. Available from 
+http://www.whitehouse.gov/news/realeases/2004/07/print/20040712-5.html. 
+3 Bristow, Damon. “The War on Terrorism and Its Impact on the Security Situation in the Asia 
+Pacific,”,Asian Defence Journal (January/February 2002): 6. 
+ 2
+
+monograph focuses solely on Islamic regional terrorism, Southeast Asia is not without other 
+ideological insurgencies, the most threatening being Communism. In 2004, the United States 
+Department of State included The Communist Party of the Philippines/New People’s Army on 
+their Foreign Terrorist Organization list. The growing number of regional insurgents and their 
+ideological variations create a complex environment. The regional instability created by these and 
+other non-state groups, combined with an ever-expanding international reach, threatens the 
+success of America’s war on global terrorism.  
+Adding to this complexity, Southeast Asia presents unique challenges for those 
+prosecuting the war on terror. A region comprised of eleven countries (Burma, Brunei, 
+Cambodia, East Timor, Indonesia, Laos, Malaysia, Philippines, Singapore, Thailand and 
+Vietnam), and over 17,000 islands, Southeast Asia’s efforts to curb terrorism have been 
+encumbered by the existence of porous maritime borders. The relative short distances separating 
+these nations, making transnational terrorism a reality, exacerbate difficulties maintaining border 
+security. Certainly more damaging has been a documented regional history of corrupt government 
+administrations and military organizations, making it difficult for America to engage in militarily-
+to-military assistance without appearing to condone past human rights abuses. A potential 
+obstruction to fighting terrorism in Southeast Asia in 2004 is presidential and parliamentary 
+elections, which threaten a sustained regional commitment fighting terrorism. Finally, Southeast 
+Asia is home to an extremely large portion of the world’s Muslim population, including 
+Indonesia, the most populous Muslim country in the world. Anti-American sentiments arising 
+from the ongoing war in Iraq threaten America’s ability to affect change in the region and garner 
+support for global counterterrorism. 
+The impact of transnational terrorism in Southeast Asia is potentially quite devastating. 
+The United States can ill afford to allow Southeast Asia’s moderate Islamic community to fall 
+prey to a miniscule, but growing Islamic fundamentalist movement. The Philippines, a major U.S. 
+ally in the region, welcomes U.S. assistance combating national Moro insurgencies endemic to its 
+ 3
+
+southern islands. Indonesia and Malaysia, though staunchly opposed to an increased U.S. regional 
+presence, benefit in their struggle against terrorism by cooperating with U.S. intelligence 
+agencies. Economically, transnational terrorism threatens not only regional markets, but also the 
+global economy. Thirty percent of the world’s trade goods pass through the Malacca Straits on at 
+least 50,000 ships per year—more than double the volume transitioning the Suez Canal and three 
+times that sailing through Panama. Additionally, Japan receives eighty percent of its oil needs 
+through the Malacca Straits.  Without the use of this waterway flowing between Malaysia, 
+Singapore and Indonesia, these tankers would travel an additional thousand miles from the Gulf 
+to reach their destinations.
+4
+The Bush administration is certainly aware of the growing terrorist threat residing in the 
+vast Southeast Asia archipelago. In February 2004, Secretary of State Colin Powell released the 
+latest listing of Foreign Terrorist Organizations, which included three Southeast Asian terrorist 
+organizations including Jemaah Islamiyah (JI), Abu Sayyaf Group (ASG), and the Communist 
+Party of the Philippines/New People’s Army. Operating from within Manila, The New People’s 
+Army (the guerrilla arm of the Communist Party of the Philippines) seeks the violent overthrow 
+of the Philippine government. Jemaah Islamiyah and Abu Sayyaf ambitions extend beyond the 
+borders of Indonesia and the Philippines. These transnational insurgents seek to impose their 
+ideologies on a much wider audience, and their terrorist acts have consistently infringed upon 
+other Southeast Asian nations. JI and ASG are both Islamic fundamentalist organizations with 
+established ties with Osama bin Laden and Al-Qaeda. As such, JI and ASG members have been 
+implicated in several major Al-Qaeda plots, to include the 1993 World Trade Center bombing and 
+September 2001 attacks on the United States. Singapore’s Senior Minister Lee Kuan Yew, 
+commenting on Al-Qaeda’s influence in the region, stated, “Osama bin Laden has successfully 
+                                                      
+4 Ramachandran, Sudha. “Divisions over Terror Threat in Malacca Straits”, Asia Times Online, 
+2004.; Kuppuswamy, C.S. “Straits of Malacca: Security Implications”, South Asia Analysis Group, Paper 
+No. 1033, 18 June 2004. 
+ 4
+
+twined together a broad range of local groups, each with its own history of struggle for its own 
+objectives, into a common universal jihad against the enemies of Islam.” Of the region’s terrorist 
+organizations, including Jemaah Islamiyah and Abu Sayyaf, Yew notes, “Al-Qaeda has co-opted 
+them into a larger common jihad.”5 These organizations present an ever-expanding threat to the 
+United States and its allies. 
+The United States faces a daunting task in Southeast Asia. Developing an effective 
+counterterrorism strategy to deal with the plethora of unique, yet intertwined terrorist 
+organizations requires capabilities beyond pure military might. Admiral Fargo, Commander, U.S. 
+Pacific Command, during testimony to the House Armed Services Committee in March 2004 
+stated, “Clearly, we don’t see military action as the sole or even primary instrument of national 
+power in this fight – intelligence sharing and law enforcement lead much of this effort.”6 
+Integrated interaction between U.S. Department of State agencies, but more importantly, 
+cooperation among Southeast Asian states is a must. Military action in the region must follow the 
+lead of clearly defined political objectives, a challenging feat in light of ongoing U.S. Presidential 
+elections.  
+The adaptive nature of terrorism makes developing a counter strategy extremely difficult. 
+CNN journalist Maria Ressa clearly articulates this difficulty in her latest book. In Seeds of 
+Terror, Ressa compares fighting terrorism to the Heisenberg Uncertainty Principle. This principle 
+of quantum physics states, “you cannot find the location of an electron at this precise moment 
+because the very act of trying to locate it pushes it somewhere else.”
+7 Ressa concludes, “That’s 
+exactly what it’s like to try to predict Al-Qaeda’s next moves. Every arrest, every new piece of 
+                                                      
+5 Senior Minister Lee Kuan Yew, address at the 1st International Institute for Strategic Studies 
+Asia Security Conference; 31 May 2002. 
+6 United States Department of State. “Patterns of Global Terrorism: 2003”. Available from 
+http://www.state/gov/s/ct/rls/pgtrpt/2003/31611pf.html 
+7 Ressa, Maria A. Seeds of Terror: An eyewitness Account of Al-Qaeda’s Newest Center of 
+Operations in Southeast Asia. New York: Free Press, 2003: 203. 
+ 5
+
+information that’s released into the public domain…changes the way the group operates.”8 The 
+analogy applies equally to terrorist organizations in Southeast Asia. Speaking of the region’s 
+insurgents, the Australian Government wrote, “They have demonstrated a capacity to identify and 
+exploit weaknesses in security arrangements and they continually seek new methods to defeat 
+countermeasures. The adaptive nature of these terrorists means that their past actions will not 
+always be a useful indicator of their future plans.” 9 It is impossible to predict the exact nature of 
+these adaptive groups, yet through a detailed study of adaptive trends and tendencies, one can 
+better prepare an adequate strategy for defeating them. Dr. Bard E. O’Neill, Professor of National 
+Security Strategy and Director of Studies of Political Violence and Terrorism at the National War 
+College has offered one such methodology. 
+In his book entitled Insurgency and Terrorism, Dr. O’Neill introduces a method of 
+systematically analyzing insurgent organizations. Dr. O’Neill’s comprehensive framework aligns 
+insurgencies with one of three general forms of warfare: terrorism, guerrilla war or conventional 
+war. Subsequent analysis seeks to identify an insurgency’s intended political targets, its aims and 
+goals, and the strategic approach adapted to accomplishing these goals. O’Neill uses five criteria 
+to evaluate an insurgency’s progress: Environment, Popular Support, External Support, 
+Organization and Unity and Government Response. Environmental factors include both physical 
+and social aspects of Indonesia. These criteria will be used to analyze Jemaah Islamiyah and Abu 
+Sayyaf’s inherent strengths and weaknesses in order to identify those critical vulnerabilities that 
+can be exploited by United States regional strategy. 
+This monograph will utilize Dr. O’Neill’s framework to define counterterrorism effects 
+essential to developing a counterterrorism strategy for Southeast Asia’s Islamic transnational 
+terrorist insurgencies, Jemaah Islamiyah and Abu Sayyaf. Jemaah Islamiyah and Abu Sayyaf are 
+                                                      
+8 Ibid, 203. 
+9 Australian Government Department of Foreign Affairs and Trade White Paper. Transnational 
+Terrorism: The Threat to Australia. 2004:18 
+ 6
+
+two distinct terrorist organizations, yet they share many connections. In addition to being Islamic 
+groups, their operations and influences interact in dynamic fashion. It is impossible to fully 
+consider Islamic terrorism in Southeast Asia without a clear understanding of the present nature 
+of these organizations. Admittedly, this monograph does not discuss other ideologically based 
+insurgencies, such as the Communist New People’s Party. The vast distinctions between 
+ideologies necessitate individual research efforts. While Islamic terrorism is but a part of the 
+insurgency threat in Southeast Asia, its understanding is a critical component to an effective U.S. 
+strategy for the region.  
+Thus far, I have used the terms insurgency and terrorism interchangeably. In Insurgency 
+and Terrorism, Dr. O’Neill defines an insurgency as “a struggle between a non-ruling group and 
+the ruling authorities in which the non-ruling group consciously uses political resources and 
+violence to destroy, reformulate, or sustain the basis of legitimacy of one or more aspects of 
+government.”10 U.S. Joint Publication 1-02 provides a similar, though leaner definition of an 
+insurgency as “an organized movement aimed at the overthrow of a constituted government 
+through use of subversion and armed conflict.”11 Jemaah Islamiyah and Abu Sayyaf fit the 
+description of an insurgency based upon these definitions. The link between insurgency and 
+terrorism, according to Dr. O’Neill, lies in the form of warfare insurgents use to accomplish their 
+goals.  
+When insurgent organizations use terrorism, they exact violence “directed primarily 
+against noncombatants (usually unarmed civilians), rather than operational military and police 
+forces or economic assets (public or private).”
+12 In the long term, terrorism serves to alter aspects 
+of politics O’Neill refers to as political community, political system, ruling authorities or the 
+                                                      
+10 O’Neill, Bard E., Insurgency and Terrorism: Inside Modern Revolutionary Warfare. Dulles, 
+Virginia: Brassey’s Inc., 1990: 13 
+11 Joint Publication 1-02, “DoD Dictionary of Military and Associated Terms”, 7 October 
+2004:260. 
+12 O’Neill, 24. 
+ 7
+
+policies these authorities decree. An intermediate objective of terrorism is to erode government 
+support while short-term objectives include  
+Exacting particular concessions (e.g, payment of ransom or the release of prisoners), gaining 
+publicity, demoralizing the population through the creation of widespread disorder, provoking repression 
+by the government, enforcing obedience and cooperation from those inside and outside the movement, 
+fulfilling the need to avenge losses inflicted upon the movement, and enhancing the political stature of 
+specific factions within an insurgent movement.13
+ 
+Islamic terrorist organizations in Southeast Asia share many of these objectives and 
+espouse many more. Joint Publication 3-07.2 defines terrorism as “the calculated use of violence 
+or threat of violence to include fear; intended to coerce or to intimidate governments or societies 
+in the pursuit of goals that are generally political, religious, or ideological.”14 A dominant feature 
+of both definitions involves changing the existent political governance through violence. Jemaah 
+Islamiyah and Abu Sayyaf both seek to change, through violence, the political apparatuses of 
+most regional countries. Through increased operational reach, these once localized insurgencies 
+have become transnational terrorist.  
+The purpose of this monograph is to identify a U.S. regional counterterrorism strategy to 
+use in the Global War on Terrorism against Jemaah Islamiyah and Abu Sayyaf. Throughout the 
+paper, both historical and current empirical data on these two insurgent groups is infused into Dr. 
+Bard O’Neill’s conceptual insurgency framework. Widely respected as an authority on 
+insurgencies, Dr. O’Neill’s framework provides a manner in which to dissect and analyze 
+insurgents in an effort to increase understanding and develop effective countermeasures. This 
+monograph aims to use this framework to highlight a variety of adaptations that have allowed 
+Southeast Asia’s Islamic terrorist organizations to operate successfully in the face of America’s 
+resolve to eliminate them. These adaptations have kept these groups not only relevant, but also 
+effective. An examination of these adaptations identifies key effects the United States must create 
+through the use of its instruments of national power.  
+                                                      
+13 O’Neill, 25. 
+14 Joint Pub 3-07.2, “Joint Tactics, Technique and Procedures for Antiterrorism”, 17 March 1998: 
+I-1 
+ 8
+
+Jemaah Islamiyah—“Islamic Community” 
+On 12 October 2002, three near simultaneous explosions ripped through Kuta, Bali, a 
+crowded tourist town located in Indonesia. Paddy’s Irish Pub and the Sari Club were partially 
+destroyed while the U.S. Consulate sustained minor damage. Over two hundred people, mostly 
+foreign tourist, lost their lives during the attacks. The Bali bombing forced Indonesia’s 
+government into action. After denying the existence of terrorists operating within Indonesian’s 
+borders, President Megawati Sukarnoputri could no longer dismiss the existence of local 
+insurgents working in conjunction with Al Qaeda. U.S. efforts to entice Megawati to openly 
+confront transnational terrorism increased in intensity. Within two weeks of the attack, U.S. 
+Secretary of State Colin Powell publicly announced the addition of Jemaah Islamiyah to the 
+administration’s Foreign Terrorist Organizations list, the designation of JI under Executive Order 
+13224, and requested the United Nations subject the organization to financial restrictions of UN 
+Security Council Resolutions 1267 and 1390. With these actions, the United States welcomed 
+Jemaah Islamiyah into the global war on terrorism. 
+Jemaah Islamiyah (JI) is one of the longest standing Islamic insurgencies in Southeast 
+Asia. Originating in Indonesia in the early 1970s, JI has steadily expanded its operational reach 
+throughout Southeast Asia, establishing cells in Malaysia, Singapore, Philippines and Thailand. 
+The impetus for JI comes from the Darul Islam rebellions of Indonesia, which began in the late 
+1940s. Sekarmadji Maridjan Kartosuwirjo led Darul Islam, an Islamic movement in opposition to 
+imperial Dutch rule, from West Java. Following national independence, Darul Islam members 
+waged a fierce armed insurgency in West Java against President Sukarno’s secular government 
+from 1948-1962. In the mid 1960s, Sukarno subdued the rebellion and remaining members 
+fortunate to avoid death or imprisonment went underground. 
+President Sukarno’s regime began disintegrating in the early 1960s and in 1965, he was 
+deposed by Major General Suharto. Under President Suharto, Indonesia’s Muslim population 
+suffered greatly. His restrictive political system, which recognized only three political parties, 
+ 9
+
+was aimed at “eliminating opposition before it even became public.”15 Using a cleverly disguised 
+political rouge, Suharto encouraged a split of the Muslim United Development Party (PPD), the 
+only recognized Muslim political voice, into two distinct factions, PPD and Komando Jihad. 
+During the 1977 presidential elections, President Suharto sprung his trap by arresting 185 
+Komando Jihad members, accusing them of attempting to establish an Islamic state in 
+Indonesia.16 Arrests continued the following year, including the detention of Abu Bakar Ba’asyir 
+and his associated Abdullah Sungkar, passionate followers of Darul Islam. Ba’asyir and Sungkar 
+were also the founders of Al Mukmin, “a boarding school in Solo, on the main island of Java, that 
+preached the puritanical Wahhabi interpretation of Islam founded and propagated in Saudi 
+Arabia.”17 Ba’asyir and Sungkar would become the founders of the modern Jemaah Islamiyah.  
+The development of Jemaah Islamiyah accelerated in 1982, following Ba’asyir and 
+Sungkar’s early release from prison and their return home to Pondok Ngruki. From 1982 to 1984, 
+Ba’asyir and Sungkar taught at Al Mukmin. The school would eventually become a center for 
+Muslim radical activity, a place of study for many of Jemaah Islamiyah’s leaders to include Bali 
+bombers Amrozi and Mukhlas. The terrorist who would later drive the bomb in front of the JW 
+Marriott Hotel in Jakarta was also a former Ngruki student.
+18 In 1985, fearing a second 
+imprisonment, Ba’asyir and Sungkar fled to Malaysia, taking their fledgling organization with 
+them. In Malaysia, JI aligned itself with other dissident Muslims and “rubbed elbows with other 
+Muslim militants with their own causes and broadened the scope of their jihad, giving them 
+common cause with Muslims in Egypt, Chechnya and the Philippines.”
+19 With the fall of 
+President Suharto in 1998, Ba’aysir and Sungkar returned to Indonesia. In less than a year, 
+                                                      
+15 Ressa, 47. 
+16 Ibid. 48 
+17 Manyin, Mark. “Terrorism in Southeast Asia”, Congressional Research Service (CRS) Report 
+for Congress, 13 August 2004: CRS-5. 
+18 Australian Government White Paper, 43 
+19 Ressa, 50. 
+ 10
+
+Jemaah Islamiyah I would conduct its first terrorist attack aimed at an unsuspecting Indonesian 
+government. 
+Abu Sayyaf—“The Bearer of the Sword” 
+On the morning of 27 May 2001, eighteen tourists were kidnapped from Dos Palmas 
+Resort on the Philippine island of Palawan. Escorted aboard a high-speed motorboat at gunpoint, 
+they were greeted with the following words: “We’re the Abu Sayyaf, Some people call us 
+terrorists. We want you to know, we’re not terrorists. We are simply people whom the Philippine 
+government has robbed of our homeland, and we just want it back. No one in the government will 
+listen to us, and so we have to do things like this to gain notice.”20  These words amounted to 
+more than the incoherent ramblings of a band of criminal renegades or local thugs. History 
+provides meaning and context to Abu Sayyaf’s plight. 
+Islam arrived in the Philippines in 1380 by Arab missionaries. By the time Spanish 
+explorers reached the area in 1578, the Moro (Muslim) people were well into the reign of their 
+sixth Sultanate. Initial efforts at pacifying Moro populations achieved limited success. “Spain’s 
+original foothold in the Philippines came through conversion of pagan tribes and not after contact 
+with the Mohammedans. The conversion of the north was a simple matter, and it was 
+accomplished with very little bloodshed.”
+21 In the south, however, progress halted in the face of 
+Islamic Moros determined to maintain control of their lands. For the next three hundred and 
+twenty years, Spaniards fought to extend their dominance throughout Philippines southern 
+islands. Yet by 10 December 1898, when Spain ceded the Philippines to the United States, 
+                                                      
+20 Burnahm, Gracia, In the Presence of My Enemies, Wheaton, Illinois: Tyndale House Publishers, 
+Inc., 2003: 10. 
+21 Hurley, Vic. Swish of the Kris: The Story of the Moros. New York: E.P. Dutton & Co., Inc. 
+1936: 42-43. 
+ 11
+
+“Spanish control over the Moros was never completed, and the Muslim struggle carried over into 
+the United States colonial era.”22
+From 1899-1914, U.S. efforts to suppress Muslim insurrections achieved limited success 
+and resulted in extremely high civilian causalities and continued resistance. Following Philippine 
+independence in 1946, government reforms encouraged Catholic Filipinos to migrate from 
+crowded, northern cities to the wide expanses of Muslim dominated Mindanao. “These programs 
+altered the ethnic and religious balance in Mindanao—from an overall Muslim majority in 
+Mindanao and the Sulu archipelago at the end of the nineteenth century to less than 17 percent of 
+the population today—and precipitated bitter conflicts over land distribution and ownership.”23 
+The migrations evoked strong reactions from Mindanao’s Moro population and eventually lead to 
+violent clashes between the two religious groups. Government intervention only increased 
+existing tensions as Muslims accused Philippine army troops, sent to restore peace and order, as 
+siding with the Christians. Religious turmoil continued into the 1970s, when organized Muslim 
+insurgencies arose. In 1972, the Moro National Liberation Front (MNLF), led by Nur Misuari and 
+Salamat Hashim, consolidated a majority of partisan Moro forces into a loose political framework 
+aimed at obtaining an independent Moro nation. For several years, Misuari and Hashim matured 
+their organization with assistance from Islamic leaders throughout the world, most notably Libya 
+and Egypt. Ideological differences between MNLF’s leaders soon resulted in Hashim’s ouster and 
+the emergence in 1984 of a new, more religiously driven insurgent group, the Moro Islamic 
+Liberation Front (MILF). While the secularly educated and strongly nationalistic Misuari steered 
+the MNLF toward talks of peach and concessions of autonomy with the Philippine government, 
+Hashim’s MILF continued to fight for independence. According to Hashim, the political objective 
+of the MILF was “the creation of a separate Islamic state in all areas where Muslims are a 
+                                                      
+22 Dolan, Ronald E. Philippines: A Country Study. Washington D.C.: Library of Congress 1993: 
+290. 
+23 Rabasa, Angel and Peter Clark. Indonesia’s Transformation and the Stability of Southeast Asia. 
+86 
+ 12
+
+majority in the southern Philippines.” Hashim’s political entity, referred to as the Mindanao 
+Islamic Republic (MIR), sought to “establish a system of government that upholds and applies 
+sharia law in all aspects of daily life.”24
+While Misuari and Hashim struggled to lead the Moro Islamic struggle on Mindanao, a 
+third insurgent organization, Abu Sayyaf, arose from amid their shadows. Abu Sayyaf’s founder 
+Abdurajak Abu Bakr Janjalani, a native of Basilan Island of the southern Philippines, began his 
+adult life employed as a fisherman. In the early 1980s, Janjalani received financial support from 
+Al Islamic Tabligh (a Muslim fundamentalist movement) to study in the Middle East. For the 
+next several years, Abdurajak Janjalani studied theology and Arabic in Libya, Syria and Saudi 
+Arabia. A veteran of the Afghanistan-Soviet war, he fought under the leadership of legendary 
+Pushtun warlord Abdul Rasul Abu Sayyaf and personally met Osama bin Laden. Janjalani 
+returned to Basilan Island in the summer of 1991 and organized Abu Sayyaf, named in honor of 
+Abdul Rasul. Ramzi Yousef (convicted of the1993 World Trade Center bombing) provided 
+Janjalani’s initial recruits basic military and explosives training. Financially, Mohammed Jamal 
+Khalifa, a Saudi and brother-in-law of bin Laden, provided Janjalani start up funds. From the 
+group’s inception, Janjalani preached a radical Islamic message similar to that of bin Laden. He 
+enticed younger Filipinos to help him establish an Islamic state in Mindanao “where Muslims can 
+follow Islam in its purest and strictest form as the only path to Allah.”25  
+Insurgency Type and Aim 
+Categorizing insurgents into well-defined groups provides a way to identify fundamental 
+characteristics of goal formulation and political focus. Once formulated, these groupings facilitate 
+insightful analysis regarding composition, aspirations, and predicted lines of operation. In 
+Insurgency and Terrorism, O’Neill identifies seven insurgency types. Anarchist insurgents seek 
+                                                      
+24 Ibid., 87. 
+25 Ressa, 26. 
+ 13
+
+to eliminate all institutionalized political arrangements. They view authoritative entities as either 
+illegitimate or not required. Egalitarians seek to radically transform societal structures, through 
+centralized control and “distributive equality,” into a completely new social system. O’Neill’s 
+third group of insurgents, traditionalist, are similar to egalitarians in that they seek to impose a 
+new societal structure. However, unlike their counterparts, traditionalists generally attempt to roll 
+back the clock and reestablish a social system that existed in the past.  Pluralists make up 
+O’Neill’s fourth insurgency type. Pluralists seek “to establish a system in which the values of 
+individual freedom, liberty and compromise are emphasized and in which political structures are 
+differentiated and autonomous.”26 Secessionist, similar to the Confederate States in the American 
+Civil War, desire to separate themselves from the existing political community and create a 
+independent political community. In regards to Islamic terrorism, this new entity is typically 
+based upon Sharia. In contrast to secessionist, reformists stop short of denouncing the current 
+political community, but instead look for more autonomy and political strength within it. These 
+insurgents often cede to accepting autonomy vice independence. Dr. O’Neill’s final insurgency 
+type is labeled preservationist. Unlike the previous six categories, preservationists look to 
+maintain the status quo. Their acts of aggression are directed at those attempting to change to the 
+existing political structure. 
+Of the seven types of insurgencies identified by Dr. O’Neill, Jemaah Islamiyah most 
+closely aligns itself with those categorized as traditionalist. Traditionalist insurgents seek to 
+displace the political system in revolutionarily fashion. The values they articulate are “primordial 
+and sacred ones, rooted in ancestral ties and religion.” Furthermore, “the political structures they 
+seek to establish are characterized by limited or guided participation and low autonomy, with 
+                                                      
+26 O’Neill, 19. 
+ 14
+
+political power in the hands of an autocratic leader supported by the nobility, army, and clergy.”27 
+Mass participation in the political system is not encouraged.  
+Following the Bali terrorist bombing of 2002, Secretary of State Colin Powell articulated 
+Jemaah Islamiyah’s aim stating, “JI’s stated goal is to create an Islamic state comprising 
+Malaysia, Singapore, Indonesia, and the southern Philippines.”28 Jemaah Islamiyah seeks to 
+completely exchange the current, secular Indonesian political structure with one based solely on 
+sharia law. The true aim of Jemaah Islamiyah rings clear in the radical rhetoric of the group’s 
+reported leader, Abu Bakar Ba’asyir:  
+Brothers and sisters, according to the examples of the Prophet Mohammed, Islam must be wedded 
+to the government, to the nation. It must take in the law of the State. This was the example of the Prophet. 
+It must not be a purely personal matter. Don’t follow the police. Don’t follow the nation. Don’t separate 
+Islam from the nation. This is wrong. According to the Prophet Mohammed, Muslims must adhere to 
+Shaira law. Sharia law is more important that life itself. Sharia is priceless as compared to life itself. Life 
+without Sharia is nothing.29
+ 
+The type of insurgency Abu Sayyaf adopted is a mix between traditionalist and 
+secessionist. Similar to Jemaah Islamiyah, Abu Sayyaf desires the establishment of a nation ruled 
+by Islamic law. Abdurajak Janjalani brought back from the Middle East visions of an Islamic 
+Mindanao in the purest sense of the religion. Abu Sayyaf is not interested in having a 
+predominately populated Muslim nation shared with a Catholic minority; they desire a purely 
+Islamic nation under which all inhabitants, without exception, adhere to sharia. Yet where Jemaah 
+Islamiyah seeks to displace the existing Southeast Asian governments, Abu Sayyaf wishes to 
+completely withdraw from the Philippine government and establish an independent Islamic 
+community. O’Neill labels insurgencies of these type secessionists. Regarding secessionists, Dr. 
+O’Neill writes, “they renounce the political community of which they are formally a part. They 
+seek to withdraw from it and constitute a new and independent political community.”
+30  
+                                                      
+27 O’Neill, 18. 
+28 U.S. Embassy Tokyo, Japan, “U.S. Designates Jemaah Islamiya as Terrorist Organization”. 23 
+October 2002. Available from http://www.japan.usembassy.gov/e/p/tp-sec20021023a6.html. 
+29 Ressa, 49. 
+30 O’Neill. 19. 
+ 15
+
+Similar to Jemaah Islamiyah, Abu Sayyaf is strictly motivated by an Islamic ideology. 
+“The overall objective of Abu Sayyaf is the establishment of an independent and exclusive 
+Islamic state in Mindanao.”31 Unlike JI, however, the political aim of Abu Sayyaf has undergone 
+revisions since the group’s inception. “After the death of Abu Sayyaf’s founder Abdurajak 
+Janjalani in a firefight with police in December 1998, its religious and political goals were 
+dropped in favor of kidnapping for ransom.”32 Following the 2002 rescue of U.S. citizen Gracia 
+Burnham, Abu Sayyaf  “is returning to its Islamic roots and is using the familiar weapons of 
+terror—bombing and assassination—in an attempt to achieve an independent Muslim republic in 
+the southern Philippines.”
+33 Abu Sayyaf eschews the nationalistic tendencies of the larger, more 
+secular MNLF. Many believe Abu Sayyaf’s message was directly imported from the Middle East, 
+specifically from Osama bin Laden. Indeed, Janjalani’s rhetoric mirrored bin Laden’s global plea 
+for an Islamic struggle against all infidels. In conjunction with efforts to secure an Islamic state in 
+Mindanao, Abu Sayyaf “also sees its objectives in Mindanao as intimately tied to an integrated 
+effort aimed at asserting the global dominance of Islam through armed struggle and an extreme 
+religious fervor.” Abu Sayyaf is also expanding operations to include global jihad, aligning 
+themselves with bin Laden’s zeal in attacking infidels throughout the world. 
+Form of Warfare 
+In Insurgency and Terrorism, Dr. O’Neill states all insurgencies subscribe to one of three 
+forms of warfare: terrorism, guerilla war, or conventional warfare, as delineated by the type of 
+armed forces employed and their choices of weapons, targets and tactics. Defined by O’Neill as 
+“the form of warfare in which violence is directed primarily against noncombatants rather than 
+operational military and police forces or economic assets,” terrorism has been and continues to be 
+                                                      
+31Rabasa, 89-90. 
+32 O’Neill, 19. 
+33 Elegant, Simon. “The Return of Abu Sayyaf”,  Time Asia Magazine, (Internet edition), 23 
+August 2004. Available from http://www.time.com/time/asia/magazine/printout/0,13675,501040830-
+686107,00.html. 
+ 16
+
+the form of warfare espoused by Jemaah Islamiyah.34 In 1995, JI was implicated in planning to 
+bomb eleven U.S. commercial airliners in Asia. Operation Bojinka, as it was referred to, was an 
+Al Qaeda operation under the leadership of Ramzi Yousef. Yousef, Al-Qaeda’s point man in 
+Southeast Asia, was later arrested for his role in the 1993 World Trade Center attack. Six years 
+later, Omar Al-Faruq testified to CIA agents he “organized a series of bombings across the 
+country, sanctioned and approved by Abu Bakar Ba’asyir and carried out by operatives of JI and 
+Al-Qaeda.”35 On 19 April 1999, JI members bombed the Istiqlal mosque in Jakarta, Indonesian’s 
+largest mosque. The bomb that exploded in the mosque’s basement wounded three people but 
+more importantly, created fears echoed by Indonesian President B.J. Habibie who shortly 
+thereafter warned, “this action could invite conflict between different religions.”36 President 
+Habibie’s fears quickly turned into reality when large mobs destroyed a church complex in the 
+city of Ujung Pandang. Presidential elections scheduled for 7 June 1999 were believed by many 
+analysts to be the target of the attacks.  
+On 2 August 2000, the New York Times reported, “A powerful bomb at the residence of 
+the Philippine ambassador in the Indonesian capital, Jakarta, killed 3 people and injured at least 
+21, including the ambassador.”37 Jemaah Islamiyah was implicated in the bombing. On 24 
+December 2000, a wave of bombing attacks on Christian churches across Indonesia left eighteen 
+people dead and over one hundred wounded. In these attacks, thirty-eight bombs were planted in 
+eleven cities. Twenty of the bombs exploded within thirty minutes of each other in ten different 
+cities, including one outside Jakarta’s main Roman Catholic Church. The timing of the bombings, 
+set to occur as Christmas Eve services were about to begin, was set to exact a high casualty count. 
+Six days later, a series of simultaneous bombing in Manila killed an additional twenty-two 
+people.  
+                                                      
+34 O’Neill, 24. 
+35 Ressa, 101. 
+36 Mydans, Seth. “Indonesia: Bomb Blast in Mosque”, New York Times, 20 April 1999: A,6:3. 
+37 Mydans, Seth. “Indonesia Bomb Kills 3”, New York Times, 2 August 2000: A,6:4. 
+ 17
+
+Jemaah Islamiyah continued planning and executing terrorist operations the following 
+year. In December 2001, months after Al-Qaeda’s attack on the U.S. homeland, authorities in 
+Singapore uncovered a JI plot to attack the U.S. and Israeli Embassies and British and Australian 
+diplomatic buildings in Singapore. The following October, three near simultaneous explosions in 
+the resort town of Kuta, Bali killed over two hundred people, the majority of which were foreign 
+tourists. In what became the nation’s first open acknowledgement of internal terrorism, 
+Indonesian Defense Minister Matori Abdul Djalil stated “The Bali bomb blast is linked to Al 
+Qaeda with the cooperation of local terrorist.”38 These local terrorists would eventually be 
+identified as Jemaah Islamiyah. On 5 August 2003, Jemaah Islamiyah operatives detonated a 
+sports utility vehicle filled with explosives in front of the J.W. Marriott hotel in Jakarta, leaving 
+twelve people dead and injuring more than 150. JI committed their latest terrorist attack on the 
+Australian embassy in Jakarta. On the morning of 9 September 2004, a Daihatsu pickup truck 
+filled with two hundred kilograms of potassium chlorate detonated outside the embassy, killing 
+nine people and wounding two hundred twelve others. 
+Jemaah Islamiayh’s latest attacks, the J.W. Marriott attack and the bombing of the 
+Australian embassy, indicate an ideological shift in operations. These two attacks marked the first 
+times the majority of casualties were Indonesians. While thirty-four Indonesians were among the 
+two hundred deaths in Bali, all eleven deaths at the Australian embassy were Indonesian, a group 
+including Muslims and Hindus. Sidney Jones, Asia director of the International Crisis Group 
+stated, “They (JI) knew there would be Indonesian victims, but they didn’t care. They only cared 
+about the symbolic value of being able to say, we’re still here, we can do this even with a huge 
+                                                      
+38 Bumiller, Elisabeth. “Bush Ties Bombing at Bali Nightclub to Qaeda Network”, New York 
+Times, 15 October 2002. 
+ 18
+
+manhunt going on for our two most wanted bombmakers.”39 The attacks also ushered in the 
+advent of JI suicide bombers, a trend many analysts feel will continue to develop. 
+It would be easy to mistake Abu Sayyaf’s form of warfare as guerrilla operations instead 
+of terrorism. The group operates in familiar guerrilla fashion: small groups of soldiers operating 
+within a rural environment, searching for targets of opportunity while avoiding major clashes 
+with the Armed Forces of the Philippines (AFP). Yet guerrilla warfare, defined by O’Neill as 
+“highly mobile hit-and-run attacks by lightly to moderately armed groups that seek to harass the 
+enemy and gradually erode his will and capability,” is not Abu Sayyaf’s preferred method of 
+warfare. Though occasional “striking forces” directly attack AFP units, a quick examination of 
+Abu Sayyaf’s past operations reveal a dominant terrorist theme: attacking non-combatants to 
+obtain ransoms and inculcate an atmosphere of fear. 
+Under the direction and financial support of Al Qaeda, Abu Sayyaf committed its first 
+terrorist attack in 1991. On 23 December, Abu Sayyaf members bombed a Catholic church on 
+Jolo Island using hand grenades, killing two foreign missionary women. The following year, 
+Abdurajak Janjalani received over six thousand dollars from Al Qaeda to carry out two attacks: 
+the assassination of Italian Father Carzedda and the bombing of a Basilan market for the purpose 
+of disrupting provincial elections. Guerrillas assassinated Father Carzedda, a missionary for The 
+Silsilah Movement, in Zamboanga in May 1992. On 28 August 1993 Abu Sayyaf guerillas 
+bombed Fort Pillar in Zamboanga City, killing five people wounded forty-one others. 
+The event that propelled Abu Sayyaf into the national limelight was the 4 April 1995 
+massacre in the coastal town Ipil. During the attack, guerrillas raided seven banks and in the 
+process burned the town center to the ground. Fifty-four civilians died in the attack and hundreds 
+more were wounded. 
+                                                      
+39 Elegant, Simon, The Fire This Time, Time Asia Magazine (Internet edition), Vol. 164, No.12, 
+20 September 2004. Available from 
+http://www.time.com/time/asia/magazine/printout/0,13675,501040920-695932,00.html. 
+ 19
+
+On 20 March 2000, Khaddafy Janjalani’s faction attacked an Army outpost and seized 
+more than fifty people from two Basilan schools for use as human shields during their escape. 
+The group withdrew with twenty-seven hostages including many young children.40 At this point, 
+Abu Sayyaf shifted tactics from bombings and assassinations to kidnappings for ransom. On 23 
+April 2000, seven insurgents led by Ghalib Andang, alias Commander Robot raided a diving 
+resort in Sipadan, an island off the western coast of Malaysia. Ten Western tourists from 
+Germany, France, Finland and South Africa were kidnapped in the raid. Along with the 
+Westerners, Abu Sayyaf guerillas kidnapped eleven Asian resort workers and escorted the group 
+across the Sulu Sea to Jolo Island near Mindanao. Commander Robot demanded one million 
+dollars for the return of each hostage. In August, Janjalani’s guerrillas abducted American 
+Muslim Jeffrey Schilling during an arranged visit to a guerilla camp. Accused of being an 
+American spy, Schilling was held for more than seven months before he managed to escape, 
+ending Janjalani’s hopes of receiving a requested ten million in ransom money. 
+On 27 May 2001, Janjalani struck again by raiding Dos Palmas vacation resort located on 
+Palawan Island. Three Americans, fifteen Filipino tourists and three Filipino workers were 
+captured and taken to Basilan. For the next thirteen months, Janjalani led the hostages through 
+Basilan’s canopied jungles, evading capture while simultaneously arranging ransom payments. 
+On 3 June, Commander Robot’s faction kidnapped ten Western journalists and released them ten 
+hours later for $25,000.41
+In February 2002, on the eve of the United States’ military deployment to Basilan, Abu 
+Sayyaf members exploded a bomb at a public market on the southern island of Jolo. The attack 
+killed five people and wounded more than forty others. On 2 October, Abu Sayyaf detonated an 
+explosive device in Zamboanga City, killing four, including an American Special Forces soldier. 
+                                                      
+40 “Filipino Army Attacks Rebel Holding Hostages”, New York Times, 23 April 2000, I,10:4. 
+41 Ressa, 115. 
+ 20
+
+Additionally, CNN correspondent Maria Ressa reported the explosion injured a dozen others.42 
+Abu Sayyaf followed this attack with another on 17 October 2002 in which six people died and 
+more than a hundred others suffered injuries when multiple bombs exploded in two department 
+stores in Zamboanga City. Police authorities reportedly defused up to five additional bombs 
+described as incendiary explosive devices, each set to detonate by timers. The following year, 
+authorities implicated Abu Sayyaf in the Davao International Airport bombing that left twenty-
+one dead and over one hundred injured.  
+Abu Sayyaf shocked president Arroyo and her administration when it detonated 3.6 kg of 
+TNT in the passenger section of the Superferry 14 on 26 February 2004. The explosive device, 
+installed within a television set, exploded around midnight, one hour into the ship’s planned trip 
+from Manila to Bacolod and Davao. According to investigators, Abu Sayyaf member Redendo 
+Dellosa confessed, “the explosion was triggered by a timing device—and that he chose the cheap 
+seats to maximize panic and loss of life.”43 Over one hundred civilians died in the explosion off 
+Corregidor Island. The Superferry 14 bombing indicates increased operational capability for Abu 
+Sayyaf. As reported by the Australian Government’s Department of Foreign Affairs and Trade, 
+“it would signal a new capability to conduct attacks of a significant scale on ‘soft’ targets outside 
+Mindanao and the Sulu Archipelago.”44
+This short examination of Abu Sayyaf’s chosen form of warfare reveals many adaptations 
+made over the course of a few years: 1) an increase in bombing attacks against civilians; 2) 
+expansion of operations into the urban areas of Mindanao and Luzon; 3) a preference for soft vs. 
+hard targets; and 4) use of increased technological weaponry and increased war fighting skills. 
+                                                      
+42 Ressa, Maria, “Extremist Blamed for Philippine Blast”, CNN (Internet edition) 17 October 
+2002. Available from 
+http://edition/cnn.com/2002/WORLD/asiapcf/southeast/10/17/philippines.bomb/index.html. 
+43 Elegant, Simon. “The Return of Abu Sayyaf”.  
+44 Australian Government White Paper. Transnational Terrorism: The Threat to Australia 
+ 21
+
+Strategy 
+The strategy adopted by Jemaah Islamiyah has been and continues to be one of urban-
+warfare. Attacks within Indonesian’s urban centers offer key advantages exploited by JI. First, 
+they offer a variety of lucrative hard and soft international target sets. Diplomats and Western 
+tourist are frequent visitors to Southeast Asia’s urban cities. Embassies and economic institutions 
+provide additional targets within Jakarta, Manila, Kuala Lumpur and Singapore. Secondly, an 
+urban warfare strategy does not require an initial surge of popular support, which JI currently 
+lacks. It does, however, provide a means of garnering this support over time. In Insurgence and 
+Terrorism, Dr. O’Neill articulates this dynamic: 
+The essential strategy of the urban terrorist, according to Carlos Marighella, one of the foremost 
+proponents, is to ‘turn political crisis into armed conflict by performing violent actions that will force those 
+in power to transform the political situation of the country into a military situation.’ That will alienate the 
+masses, who from then on will revolt against the army and police and thus blame them for this state of 
+things.
+45
+ 
+Regional history supports JI’s attempt to transform the current political struggle into a military 
+crisis. Indonesian citizens are all too familiar dealing with a corrupt national military and police 
+force. Indonesians watched military-to-military relations between the United States and Indonesia 
+deteriorate in 1991 when Indonesian troops opened fire and killed more than 200 demonstrators 
+during a protest rally in Dili.46 The distant cries of East Timorese from 1999 can still be heard, 
+while ongoing trials of corrupt military officers litter the front pages of Indonesian newspapers. 
+Thirdly, urban warfare provides a means to further overall organizational goals. Dr. 
+O’Neill states, “Although their ultimate goals may vary, insurgents engaged in urban violence all 
+pursue the intermediate aim of eroding the government’s will to resist.” One way to erode 
+governmental will is to jeopardize the nation’s economic security as demonstrated by the attack in 
+Bali. The Australian Government estimates the Bali bombings resulted in a loss of 1.5 percent of 
+                                                      
+45 O’Neill, 46. 
+46 Smith, Anthony L., “Reluctant Partner: Indonesia”, Asian Affairs: An American Review, Vol. 
+30, No.2, Summer 2003: 146. 
+ 22
+
+Indonesian’s gross domestic product.47 JI terrorist attacks constantly jeopardize economic 
+recovery efforts aimed at enticing foreign investors back into the region. Following the 5 August 
+2003 attack on the J.W. Marriott, the Jakarta Post editorialized, “Experience with the Bali 
+bombings tell us that, with the reputation of the country and government in tatters, investors and 
+potential investors will stay away from Indonesia, as will tourists and regular visitors.”48 In June 
+2004, Admiral Fargo, Commander U.S. Pacific Command, stated his belief that the likelihood of 
+Jemaah Islamiyah achieving their overall objectives using urban warfare was nil. Yet he also 
+acknowledged JI’s negative impact upon regional economic systems. To that extent, Admiral 
+Fargo stated JI’s “willingness to use mass terror threatens the stability and prosperity of all of 
+Southeast Asia. So the economic and political success of Southeast Asian nations, and the 
+security upon which they depend, is being directly challenged.”
+49
+Historically speaking, urban warfare has rarely proven a decisive insurgent strategy. For 
+this reason, many believe Jemaah Islamiyah’s urban focus is certain to change. Evidence of an 
+adaptive shift is already evident. Reports have shown a divisive tremor shaking the foundation of 
+JI. A large portion of JI argues against further attacking soft targets in favor of a period of 
+organizational growth and mass mobilization; a concerted shift towards a policy of protracted 
+warfare. Others advocate continued terrorist operations in Indonesian’s populated cities and 
+indeed have continued planning subsequent attacks. Additionally, some elements focus 
+exclusively on bringing about an Islamic state in Indonesia, while others work to an anti-Western 
+or anti-US agenda.50
+                                                      
+47 Australian Government White Paper, 48 
+48 Taylor, Rachel S., “Indonesia: Terrorism’s Reverberations”, World Press Review, Vol 50, 
+No.10, October 2003. Available from 
+http://www.worldpress.org/article_model.cfm?article_id=1613&don’t=yes. 
+49 Admiral Tom Fargo, US Pacific Command address at APCSS Biennial Conference, 16 June 
+2004. 
+50 Australian Government White Paper, 48. 
+ 23
+
+In the early 1990s, Abdurajak Abu Bakr Janjalani adopted a military-focus strategy for 
+the fledgling Abu Sayyaf. As Dr. O’Neill describes, this strategy “gives primacy to military 
+action and makes political action subordinate.”51 For Abu Sayyaf, military action is asymmetric 
+out of necessity; AFP’s conventional military capabilities greatly surpass those of Janjalani’s 
+guerilla force. The military-focus strategy is not reliant upon popular support or existing political 
+institutions. Similar to Che Guevera’s foco insurgency model, Abu Sayyaf uses military actions 
+(terrorism) to initiate discontent and revolution prior to establishing any political entity. Indeed, 
+the political apparatus Abu Sayyaf desires to govern an Islamic Mindanao has yet to be clearly 
+articulated. The implications, however, of an exclusively Islamic Mindanao infer the 
+establishment of a ruling Caliph, governing a predominate Muslim population through Islamic 
+law. 
+Abu Sayyaf’s military-focus strategy will remain unchanged in the near term. Political 
+objectives will remain subservient to military actions. What will change are the strategic 
+dynamics. The relationships between Abu Sayyaf, MNLF, MILF and Jemaah Islamiyah will 
+increasingly gain importance. Should President Arroyo reach a negotiated peace with Salamat 
+Husean, MILF members intent on continued jihad against the Philippine secular government may 
+join forces with Abu Sayyaf. Comments by top Abu Sayyaf leaders bear this out: “If this sell-out 
+succeeds, more blood will flow because the young are more determined jihadis. We will soon 
+find out there are more Osama bin Ladens in our midst.”52
+Environment 
+The environment Jemaah Islamiyah faces varies significantly throughout Southeast Asia. 
+Non-contiguous national borders prevent many Southeastern governments from exercising 
+absolute control. Generally speaking, the island complex offers unimpeded transnational access. 
+                                                      
+51 O’Neill, 41. 
+52 Elegant, Simon. “The Return of Abu Sayyaf”. 
+ 24
+
+Short travel distances between neighboring nations create opportunities to quickly transport 
+personnel and resources to carry out operations or evade capture. 
+Singapore, located along the southern tip of the Malaysian peninsula, spans a mere two 
+hundred forty-four square miles, roughly the size of Chicago. Originally an area covered with 
+rainforest, by 1988 only 2.5% of Singapore remained forested.
+53 As a result, Singapore’s 
+population overwhelmingly resides in urban areas. Indonesia, conversely, is a mixture of large 
+urban localities with rural highlands and low-lying marshes. Extreme variations in rainfall are 
+characteristic of Indonesia. Western Sumatra, Java, Bali and the interiors of Kalimantan receive 
+large amounts of rain, typically 2,000 millimeters per year. Indonesian islands close to Australia, 
+however, tend to be dry, with some areas receiving less than 1,000 millimeters per year.
+54 
+Malaysia boasts the region’s highest elevation with Mount Kinabalu stretching 13, 455 feet. The 
+South China Sea separates Malaysia’s two landmasses, which together cover over 127,300 square 
+miles, and the Strait of Malacca separates the peninsula from Indonesia. Forested mountains 
+extend down the center of Peninsula Malaysia, giving way to coastal plains along the western and 
+eastern coastlines. Both Malaysian landmasses contain numerous rivers of considerable volume. 
+The Philippines contain more than seven thousand islands, of which only twenty-five have 
+towns.55 The climate is considerably cooler than its southern neighbors and the islands are 
+subjected to typhoons throughout the year. The topography of southern Philippines is rugged and 
+mountainous. Located in the south, Mindanao is the second largest Philippine island and the 
+second most populous, including the majority of the country’s Muslim citizens.  
+The demographics of Southeast Asia are particularly important in evaluating Jemaah 
+Islamiyah. With a population of 224 million (88% Muslim), Indonesia boasts the world’s fourth 
+                                                      
+53 LePoer, Barbara Leitch. Singapore: A Country Study. Washington D.C.: Library of Congress. 
+1991. 68. 
+54 Frederick, William H. and Robert L. Worden. Indonesia: A Country Study. Washington D.C: 
+Library of Congress. 1993. 77 
+55 CultureGrams World Edition: Asia and Oceania, Volume 4, 2003: 149. 
+ 25
+
+largest population and is the world’s largest Muslim nation.56 Eight percent of Indonesians are 
+Christian, two percent are Hindu and one percent is Buddhist. Muslims in Indonesia subscribe to 
+a moderate version of the Islamic faith. Islam is also the official religion of Malaysia. A culturally 
+diverse nation of over twenty-two million, Malaysia comprises two separate landmasses. 
+Peninsula Malaysia is located at the southern tip of Thailand; East Malaysia is located on the 
+island of Borneo. Ethnic Malays constitute fifty-eight percent of the population; twenty-seven 
+percent are Chinese.57 Singapore, located on the southern tip of Malaysia, is quite small 
+compared to its Muslim neighbors. Singapore’s population of over four million lives exclusively 
+in urban areas. Singapore’s Chinese citizens amount to seventy-seven percent of the nation’s 
+population. Singaporean Chinese dominate the political and state administrative structures and 
+exhibit the widest range of occupational, educational, and class status.58 Other major Asian 
+cultures include Malay (14 %) and Indian (8).59 The remaining Southeast Asian country 
+encompassed in JI’s goal of Pan-Islamic state is the Philippines. Over eighty-four million people 
+reside in the Philippine islands and the majority of them (81%) claim membership in the Roman 
+Catholic Church. Other Christian religions account for an additional 12 percent while Muslims 
+constitute five percent. 60 Twenty percent of the Philippine’s Muslim population resides on 
+Mindanao island, while other large contingents live in the capital city of Manila.  
+Economically, Indonesia is still struggling to rebound from Southeast Asia’s economic 
+and financial crisis of 1997-1998. An Asian Development Bank study indicated “real earnings per 
+worker declined by 27 percent from the pre-crisis level by the end of 1999, when inflation 
+                                                      
+56 CultureGrams, 66. 
+57 CultureGrams, 106. 
+58 LePoer, 82 
+59 Ibid, 169. 
+60 U.S. State Department, International Religious Freedom Report, 2004 (Philippines), Available 
+from http://www.state.gov/g/drl/rls/irf/2004/35425pf.htm. 
+ 26
+
+jumped sharply, especially in urban areas.”61 Socially, the cost of financial ruin has been 
+extremely high. Indonesian’s youth suffer from high unemployment rates, “contributing to the 
+aggravation of social problems and to the general breakdown of law and order.”62 In the 
+Philippines, Jemaah Islamiyah encounters another struggling economy. The Philippine economy 
+is primarily agriculturally based, producing such crops as rice, corn and coconuts. Income 
+distribution is uneven; a third of the population lives below the poverty level.63 Hardest hit are 
+southern islands to include Mindanao. In contrast to the Philippines and Indonesia, Singapore and 
+Malaysia’s strong economies present challenges to Jemaah Islamiyah. Singapore boasts the 
+regions most prosperous economy. Unemployment is extremely low, and most citizens have 
+access to economic prosperity and opportunities for advancement.
+64 Likewise, Malaysia enjoys 
+low unemployment rates and possesses a strong GDP. All Southeast Asian countries are 
+dependent upon tourism. 
+The transportation network dramatically affects insurgent operations in Southeast Asia. 
+As previously mentioned, maritime lines of communication exist throughout the region. 
+Singapore has a robust urban transportation and communication network. Malaysia and Indonesia 
+both have adequate urban transportation systems, but poor networks in rural areas. The Southern 
+Philippines lacks viable transportation networks throughout Mindanao of other southern islands. 
+The major environmental element impacting Abu Sayyaf’s insurgency is the history of 
+the Philippine’s Islamic Moro culture. On the southern island of Mindanao, the battle between 
+Islam and Christianity continues despite three decades of continual conflict. Regional autonomy 
+attained by MNLF and cries for independence from MILF rebels have not quelled Abu Sayyaf’s 
+                                                      
+61 Rabasa, Angel and Peter Chalk. Indonesian’s Transformation and the Stability of Southeast 
+Asia. Santa Monica:Rand, 2001: 16. 
+62 Ibid., 16. 
+63 CultureGrams, 152. 
+64 Ibid. 172 
+ 27
+
+thirst for an Islamic state governed by Islamic law.  The Moro culture of resistance to non-Islamic 
+rule fans the flames of insurrection. For Abu Sayyaf, concessions are not an option. 
+As previously mentioned, the southern Philippine islands offer rural insurgents 
+advantages that include havens and isolated training locations. The rugged terrain favors small-
+sized military units over the larger, unwieldy mechanized government army. Abu Sayyaf 
+members repeatedly evade capture by fleeing into canopied jungles of the country’s southern 
+islands. Their increased mobility allows them to traverse difficult terrain with relative ease. 
+Conversely, AFP soldiers find the same terrain restrictive as they attempt to mass firepower in a 
+timely fashion against a fleeing enemy. In addition to using terrain to their advantage, Abu 
+Sayyaf guerrillas benefit from the short distances between neighboring islands. Recent reports 
+indicate a migration from Mindanao to Jolo and other southern islands as Abu Sayyaf seeks to 
+frustrate government pursuit.  
+The Philippine’s southern islands offer Abu Sayyaf numerous lines of communication. 
+Supplies and arms arriving from Indonesia, Malaysia and Singapore represent a logistical 
+stronghold for Abu Sayyaf. Multiple islands relieve the insurgent group of a requirement for a 
+logistical base or large caches of weapons, eliminating potential critical vulnerabilities. 
+The environment does place some constraints on Abu Sayyaf. One drawback is the lack 
+of political targets within the rural areas of Mindanao and among Philippine’s southern islands. 
+While offering excellent areas for hiding hostages and seeking refuge, the rural settings lack 
+politically sensitive target sets and offer limited international exposure. Consequently, as Abu 
+Sayyaf returns to a politically oriented agenda, we are witnessing more and more terror attacks in 
+the populated cities of Zamboanga and Davoa on Mindanao and more recently, a push into the 
+capital city of Manila. This urban encroachment will continue. 
+ 28
+
+Popular Support 
+A level of popular support is important to all insurgencies. Dr. O’Neill reminds his 
+audience of Mao Tse-tung’s words: “The richest source of power to wage war lies in the masses 
+of the people.”65 Yet, while many insurgent strategies require high initial levels of popular 
+support, for others, such as the strategy of urban warfare used by Jemaah Islamiyah, popular 
+support is not a prerequisite. O’Neill divides popular support into two categories, passive and 
+active. He describes passive support as “including individuals who quietly sympathize with the 
+insurgents but are unwilling to provide material assistance.”
+66 Army Field Manual Interim 3-
+07.22 entitled Counterinsurgency Operations refers to passive support as the Mass Base. 
+According to Army doctrine, members of the mass base do not actively fight for the insurgency; 
+however they do provide intelligence and supplies.
+67 Jemaah Islamiyah enjoys very limited 
+passive support. That which they did possess is slowly eroding in the face of indiscriminate 
+terrorist attacks that increasingly result in Muslim deaths. Indiscriminate targeting reduces the 
+passive support of those infused with strong anti-Western sentiments.  Successful urban guerillas, 
+according to Robert Moss, “have gone to considerable pains to try to rationalize their crimes and 
+have been very selective in choosing their targets. Terrorist can never win popular support unless 
+they can explain their actions as something more than random criminal assaults or lunatic 
+gestures.”
+68
+There does appear to be a degree of active support for Jemaah Islamiyah within Southeast 
+Asian countries. People in this category include those involved in transferring weapons and 
+explosives throughout the region. It would also include money handlers responsible for 
+transnational financial transactions. Jordan Mamso Abdullah is an example of an active JI 
+                                                      
+65 O’Neill., 70. 
+66 Ibid., 71. 
+67 Department of the Army, Field Manual Interim 3-07.22. Counterinsurgency Operations, 
+October 2004: 1-3. 
+68 Sarkesian, Sam C. Revolutionary Guerilla Warfare. Chicago: Precedent Publishing, Inc. 1975, 
+477. 
+ 29
+
+supporter. Arrested on 3 April 2004, Abdullah was charged with receiving Al Qaeda funds, 
+exchanging them to pesos, and distributing the money to Jemaah Islamiyah terrorist accounts for 
+use in upcoming terror acts in the Philippines.69 Jemaah Islamiyah operatives also receive active 
+support from abroad, receiving help securing travel arrangements and lodging accommodations. 
+However, similar to waning passive support, the latest JI terrorist attacks may result in active 
+supporters distancing themselves from the group. The Washington Report on Middle East Affairs 
+indicated the majority of Muslim organizations in Southeast Asian condemned JI’s terrorist 
+tactics. The magazine reports “Among activists who have pushed for a wider application of 
+Islamic law, there is a feeling that their cause has been harmed: even though they are not 
+organizationally tied to the JI terrorist network, there is a ‘guilt by association’ effect.”70
+Dr. Bard O’Neill links popular support and the military-focus strategy by saying, 
+“Though fully aware of the value of popular support, the insurgents make no systematic, 
+sustained effort to acquire it through extensive political organizing efforts in the rural areas. 
+Instead proponents of the military-focus believe that popular support either is sufficient or will be 
+a by-product of military victories.”71 In the two decades of their existence, Abu Sayyaf, has yet to 
+conjure up any large scale support within the southern Muslim community. Support that does 
+exist among the minority Muslim population is mainly derived out of fear. Yet even faced with 
+the prospect of violent reprisals, the majority of Mindanao’s Muslim population disapproves of 
+and is growing tired of the terror. The frustration of local citizens is evident in a plea from 
+Basilan’s governor who in April 2000 offered his citizens a $730 bounty for each Abu Sayyaf 
+guerrilla they could kill.”
+72
+Fully aware of its importance to their campaign, Abu Sayyaf looks for opportunities to 
+increase popular support. Insurgents offer new recruits large sums of money to join hands in jihad 
+                                                      
+69 Newflash.org, 7 May 2004. 
+70 Gee, John. Washington Report for Middle East Affairs, Vol. 22, No. 8.October 2003. 37. 
+71 O’Neill, 41. 
+72 “Philippine Troops Press Attack on Rebels,” New York Times, 28 April 2000, A,8:1. 
+ 30
+
+against the Philippine government and Western nations. Initial payments of fifteen hundred 
+dollars per recruit are not uncommon. These payments resonate among a poverty stricken 
+population with few prospects for improvement. When possible, Abu Sayyaf injects additional 
+funds into Muslim communities by paying for goods and services well in excess of their market 
+value. Civilians who agree to deliver supplies and warn of approaching AFP soldiers are paid 
+handsomely. Additionally, Abu Sayyaf has been known to fund community projects for Muslim 
+villages. In a December 2001 interview with the New York Times, AFP Major General Cimatu 
+commented, “The secret of the Abu Sayyaf is that the people are poor. With the ransom money 
+that they give to villagers they become Robin Hoods. The people support them.”
+73
+Government efforts to reduce the amount of support Abu Sayyaf receives from MILF 
+threaten to further hamper popular support. In order for MILF to remain a legitimate contributor 
+to ongoing governmental peace talks, they must distance themselves from suggestions of 
+collusion with Abu Sayyaf. President Arroyo’s administration is maintaining an uncomfortable 
+level of pressure on MILF to not only remain aloof, but to condemn the terrorist tactics of Abu 
+Sayyaf guerrillas. Within the Muslim community, lack of implicit support from MNLF and MILF 
+could reduce what little passive support Abu Sayyaf currently enjoys. 
+Organization 
+The exact size of Jemaah Islamiyah remains difficult to accurately ascertain. Initial 
+estimates range from a few hundred to upwards of five thousand. Regional efforts to detain JI 
+members have significantly reduced the number of active operatives and leaders. Through 
+February 2004, two hundred and fifty JI members have been arrested.
+74 Despite these efforts, 
+authorities feel the group is still strong. Recent estimates report about three thousand JI members, 
+two thousand of which reside in Indonesia. 
+                                                      
+73 Mydans, Seth, “Philippine Troops Hunt Elusive Foes,” New York Times, 30 December 2001, 
+A,8:1. 
+74 Abuza, Zachary, “Learning by Doing: Al Qaeda’s Allies in Southeast Asia”, Current History, 
+April 2004, 173. 
+ 31
+
+The spiritual leader, the amir of Jemaah Islamiyah is Abu Bakar Ba’asyir. With the 
+exception of the late Abdullah Sungkar, Ba’aysir is the only one to have held this position. A 
+charismatic leader and religious teacher, Abu Bakar Ba’asyir has been dubbed by many as the 
+Asian Osama bin Laden.75 Ba’asyir is currently on trial in Jakarta, charged with masterminding 
+the bombing of the J.W. Marriott Hotel on 5 August 2003. 
+Indonesian Riduan Issamuddin, more commonly known as Hambali, served as Jemaah 
+Islamiyah’s Operations Chief until he was arrested in Thailand in August 2003. Hambali, a three-
+year veteran of the Soviet-Afghanistan War, served as the coordinating link between Al Qaeda 
+and Jemaah Islamiyah from the groups inception. He is believed to be the “only non-Arab in Al 
+Qaeda’s military committee.”76 In addition to Ops Chief, Hambali served as chairman of a five-
+member shura, a Regional Advisory Council consisting of four regional commanders and several 
+functional department heads. Hambali’s impact on global terrorism is well known. President Bush 
+has referred to him as “one of the world’s most lethal terrorist,” and Australian Prime Minister 
+Howard claimed Hambali was “the main link between Al-Qaeda and Jemaah Islamiyah.”
+77 
+Within weeks of Hambali’s arrest, Aris Sumarsono, known locally as Zulkarnaen, replaced him. 
+Unlike his predecessor, Zulkarnaen is an educated man, a former student of biology at an 
+Indonesian university. Officials say behind his quiet demeanor, “Belies a ferocious commitment 
+to radical Islam and a determination to wage violent jihad to replace Indonesia’s secular 
+government with an Islamic one.”
+78 As reported in the Taipei Times, Zulkarnaen was a protégé of 
+Abdullah Sungkar and a student of Al Mukmim Islamic boarding school.79 Of particular note, 
+Jane’s Intelligence Review reported the forty-year-old Zulkarnaen “is one of the few Southeast 
+                                                      
+75 Ressa, 45. 
+76 Kuppusamy, Baradan. “Hambali: The Driven Man”, Asia Times (Internet edition), 19 August 
+2003. Available at http://www.atimes.com/atimes/Southeast_Asia/EH19Ae06.html. 
+77 Ibid. 
+78 Taipei Times (Internet version), 20 November 2003. Available from 
+http://www.taipeitimes.com/News/world/archives/2003/11/20/2003076548. 
+79 Ibid. 
+ 32
+
+Asian activists to have trained in Afghanistan under Osama bin Laden.”80 Thus with Zulkarnaen 
+in charge of operations, Jemaah Islamiyah retains its critical link with Al-Qaeda’s leadership, 
+finances, training and occasionally, directive guidance.  
+Jemaah Islamiyah’s organization structure has undergone several iterations throughout 
+the years. In 1996, Jemaah Islamiyah divided Southeast Asia into four operational territorial 
+groups referred to as mantiqis: Mantiqi 1 encompasses Malaysia, Singapore and Southern 
+Thailand. Mantiqi 2 is comprises of Indonesia, with the exception of Sulawesi and Kalimantan 
+Mantiqi 3 includes Philippines Brunei, Sulawesi and Kalimantan. The fourth territorial region, 
+Mantiqi 4, includes Indonesia’s Irian Jaya and Australia. Constructed along functional lines, 
+Jemaah Islamiyah mantiqis generally possess the following divisions: Missionary, Training and 
+Jihad; Economics; Front Organizations; and International Affairs. 
+The Global War on Terrorism has forced Jemaah Islamiyah to reshape its command 
+structure. Recent information indicates Jemaah Islamiyah’s organization has changed 
+substantially, becoming much more decentralized. On 12 October 2004, Asia Times Online 
+reported, “There is no longer a regional shura (an assembly that meets for mutual consultation). 
+Nor are there the mantiqis, districts or territories, made up of several branches, or wakalahs, that 
+once composed the JI organization.”
+81 Evidence indicates JI has evolved into a series of smaller 
+independent cells under the leadership of a few key individuals working for a central command. 
+These largely autonomous cells report to fewer commanders, eliminating multiple levels of 
+bureaucracy and accelerating decision-making. Southeast Asian analyst Sidney Jones believes 
+JI’s decentralized focus goes even further. Jones believes “Individual units of JI may be acting on 
+their own initiative, without going through a central command structure.” She further states, 
+                                                      
+80 Blanche, Ed. “Terrorism and Insurgency”, Jane’s Intelligence Review, Vol. 16, No.8, August 
+2004: 39. 
+81 Yeo Wei Meng, “Bali in the Shadow of Terror”, Asia Times (Internet edition); 13 October 
+2004. Available from http://wwwatimes.com/atimes/Southeast_Asia/FJ13Ae03.html. 
+ 33
+
+“Individual members may be farming out their services to other, newly formed organizations.”82 
+There are also strong indications that Jemaah Islamiyah is breaking into smaller independent 
+splinter groups.83
+In addition to forming smaller, decentralized units, Jemaah Islamiyah developed a 
+Special Forces unit referred to as Laskar Khos. Led by Zulkarnaen, its objective is to carry out 
+assassinations and suicide bombing operations. The Associated Press reported “Asmar Latin 
+Sani, an alleged bomber whose severed head was found in the wreckage of the Marriott Hotel 
+blast in Jakarta in August (2003), was believed to have been a Laskar Khos militant working for 
+Zulkarnaen.84  
+Successes in the Global War on Terror placed temporary constraints upon Jemaah 
+Islamiyah’s leadership. The arrests of formative JI leaders possessing ties to Al Qaeda have 
+forced the next generation of guerillas to the forefront of the organization. This upcoming 
+leadership class may be the last among JI members to have trained and fought in Afghanistan, 
+and the last to enjoy personal ties with bin Laden.  This bodes well for governments trying to 
+eliminate them, though the excitement is tempered with the understanding that many senior 
+members remain at large. These leaders include operations chiefs, JI’s Chief Financier, top 
+explosives experts and central command members.  
+The size of Abu Sayyaf has varied widely throughout the organization’s brief history. At 
+its inception in 1991, Abdurjarak Janjalani mustered up around thirty operatives, a combination 
+of dissidents from the MNLF and Filipinos who had fought with the Afghan mujaheedin against 
+the Soviets.85 By 1996, Abu Sayyaf’s membership had climbed to three hundred and fifty.86 
+                                                      
+82 Jones, Sydney. “Easy Assumptions No Key to Diabolical Problem”. International Crisis Group. 
+11 September 2004. Available from http://www.icg.org/home/index.cfm?id=2975&1=1. 
+83 Yeo Wei Meng, “Bali in the Shadow of Terror. 
+84 Gutkin, Steven. “New Terror Chief Planning Attacks”. Associated Press (Internet edition), 
+November 2003. Available from http://209.157.64.200/focus/f-news/1024694/posts. 
+85 Linden, Edward V., World Terrorism. New York: Nova Science Publishers, Inc. 2002: 51. 
+86 Parry, Richard Lloyd. Independent. 29 August 2000. 
+ 34
+
+Periodic recruiting drives increased membership, but only temporarily. Successful ransom 
+negotiations in 2001-2002 spurred a recent recruiting push, aided by promises of lucrative salaries 
+and new weaponry. Analysts at the Center for Defense Information (CDI) believe membership 
+rose to roughly 1,200 during those years.87 Since the beginning of GWOT, its numbers have once 
+again fallen. Large numbers of Abu Sayyaf soldiers have been arrested while many others have 
+died in clashes with AFP soldiers. Current estimates are hampered by organizational splits and 
+increasingly independent operations.  
+Abu Sayyaf is a mix of foreign trained guerrillas and younger soldiers who have yet to 
+travel beyond the Southeast Asian area. “The majority of the group’s members are Muslim 
+youths, with many of the older cadres reportedly veterans of the Afghan war.”88 At the individual 
+level, the motivations for joining Abu Sayyaf appear to vary widely. Gracia Burnham noted 
+numerous examples of defections throughout the ranks, which indicates waning or lack of support 
+for organizational goals.   
+Following the death of Abdurajak Janjalani, Abu Sayyaf split into at least two factions, 
+each operating independently of the other. Of the members who struggled to obtain overall 
+leadership responsibilities, Ghalib Andang and Khadaffy Janjalani enjoyed widespread support. A 
+defining moment for Abu Sayyaf occurred in December 2003 when Andang, a.k.a. Commander 
+Robot, was captured on the island of Jolo. Analysts at CDI believe, “His arrest and death of key 
+supporters in the group opened the way for an internal coup by another Abu Sayyaf leader, 
+Khadaffy Janjalani, who is the younger brother of Abu Sayyaf’s founder and a veteran of the war 
+against the Soviets in Afghanistan.”
+89 Though multiple factions still exist, the Philippine 
+government recognizes Janjalani as Abu Sayyaf’s leader and holds him responsible for the 
+group’s political agenda.  
+                                                      
+87 Clark, Emily. CDI Terrorism Project. 5 March 2002. Available from 
+http://cdi.org/terrorism/sayyaf-pr.cfm 
+88 Ibid., 90. 
+89 Ibid. 
+ 35
+
+The organizational structure of Abu Sayyaf is simplistic. Each group operates 
+independently in cells typically numbering from twenty to thirty members. As highlighted by 
+Gracia Burnham, the groups often converge and remain together for days and at times weeks. 
+Most likely these meetings facilitate overall strategy development and operational planning.  A 
+recent addition to the cellular structure has been the development of a group of specially trained 
+assassins. In an attempt to adapt to AFP counterterrorism campaigns, Kit Colliers of the 
+Australian National University of Canberra says Abu Sayyaf established an urban assassination 
+squad known as Fisabillilah, or the ‘Path of God’. 
+External Support 
+Critical to Jemaah Islamiyah’s success is the amount of external support required to 
+remain functional. Dr. O’Neill emphasizes the role of outside aid by stating “Unless governments 
+are utterly incompetent, devoid of political will, and lacking resources, insurgent organizations 
+normally must obtain outside assistance if they are to succeed.”90 JI’s small size, extensive 
+operational reach and complex missions require a substantial amount of assistance in the form of 
+finances, military training and technical expertise, access to explosives and small arms and safe 
+havens. Thus far, JI has succeeded in receiving aid from state and non-state actors from across the 
+globe. Access to external aid must continue for JI to sustain its insurgency. 
+Jemaah Islamiyah’s external donors are both local and international. U.S. State 
+Department investigations revealed, “JI receives money and logistic assistance from Middle 
+Eastern and South Asian contacts, nongovernmental organizations, and other groups—including 
+Al Qaeda.”91 Singaporean sources report, “scores of JI members received military training in 
+Afghanistan, and that JI members received over $140,000 over three years from Al Qaeda.”92 
+                                                      
+90 O’Neill, 111. 
+91 U.S. State Department. Patterns of Global Terrorism: 2003. Appendix B. Available from 
+http://wwwstate.gov/s/ct/rls/pgtrpt/2003/31711.html. 
+92 Huang, Reyko and Colin McCullough. “In the Spotlight: Jemaah Islamiyah”, CDI Terrorism 
+Project. 18 October 2002. Available from http://cdi.org/terrorism/ji-pr.cfm. 
+ 36
+
+Last year, the Associated Press reported, “cash believed to come in from Al Qaeda to finance 
+attacks is hand carried to Indonesia via Malaysia and arms and explosives are entering Indonesia 
+through the largely unpatrolled waterways between Mindanao Island in the southern Philippines 
+and Indonesia’s Sulawesi island.”93 In terms of military training, JI members not sent to 
+Afghanistan received military instruction primarily in Moro Islamic Liberation Front camps in the 
+Philippines. Here they receive training from instructors belonging to MILF, Al Qaeda, and their 
+own organization. Mohamed Nasir Abbas, a Malaysian who commanded Mantiqi 3, confessed to 
+interrogators that after studying warfare and weaponry in Afghanistan, he taught at several 
+Jemaah Islamiyah training camps in the southern Philippines and Afghanistan.94 Philippine 
+General Victor Corpus recently arrested seven militants in Indonesia’s North Sulawesi region 
+who admitted plans to train with Moros guerillas in Mindanao.95
+Similar to Jemaah Islamiyah, Abu Sayyaf enjoys extensive external support from a 
+variety of actors, both state and non-state. During her captivity, Gracia Burnham stated the group 
+received continual supplies of arms and ammunition. When asked how the arms were acquired, 
+her captors replied, “Oh, the army. We pay a lot more than it should cost, of course. So 
+somebody’s making a lot of money. But at least we get what we need.”
+96 Claims of government 
+corruption and collusion with Abu Sayyaf are all too common. In June 2001, local residents 
+testified government forces allowed Abu Sayyaf guerrillas to escape following a daylong siege of 
+rural Lamitan. Hostages held during the siege added testimony to substantiate these claims, yet no 
+AFP soldiers were found to be at fault. Burnham recalls the period of early 2002 when she and 
+fellow captives noticed a dramatic increase in the group’s food quantity and supply. Much to her 
+surprise, AFP soldiers delivered rice, fish, coffee and sugar to Abu Sayyaf members on multiple 
+                                                      
+93 Gutkin, Steven. “Al-Qaida Replacing Leaders”, Associated Press (Internet edition), 2003. 
+Available from http://crisis.wakeful.net/2003/indonesia/html. 
+94 “Malaysian Jemaah Islamiyah suspect claims he Took Orders from Bashir”, Asia News (Internet 
+edition), 2 April 2004. Available from http://asia.news.yahoo.com/040402/ap/d81mhj5o0.html. 
+95 Gutkin, Steven. “Al-Qaida Replacing Leaders”. 
+96 Burnham, 150. 
+ 37
+
+occasions. Burnham reports, “We were being told that it was because Sabaya (Abu Sayyaf 
+spokesman) was wheeling and dealing with the AFP general of that area over how to split up any 
+ransom that might be paid.” She also relates a negotiation where, “Sabaya was willing to give the 
+general 20 percent of the action. But the messenger reported back that this wasn’t enough. The 
+general wanted 50 percent.”
+97
+Abu Sayyaf benefits from relationships with other insurgencies, namely, Al Qaeda, Moro 
+Islamic Liberation Front (MILF) and Jemaah Islamiyah. Burnham explained how in July 2001 her 
+captors brought her and other hostages to a MILF camp for refuge from pursuing AFP soldiers. 
+MILF camps also provided basic and advanced military training for Abu Sayyaf insurgents. 
+Abu Sayyaf’s external connections extend beyond Philippine borders. On 6 November 
+2003, the Manila Times reported the arrest and deportation of a Filipino-American accused of 
+selling weapons to Abu Sayyaf guerrillas.  The newspaper reported United States Customs agents 
+seized a package of Victor Moore Infante containing weapons parts addressed to his safe house in 
+Zamboanga City. Immigration Commissioner Andrea Domingo told the Manila Times Infante 
+received the illegal weapons from associates in Oakland, CA and distributed them to Abu Sayyaf 
+in both Zamboanga and Basilan. Prior to his arrest, Victor Infante was listed as one of America’s 
+most wanted fugitives.98
+Government Response 
+Following 9/11, President Megawati completed a previously planned trip to Washington 
+for a meeting with President Bush. During the visit, President Megawati offered her country’s 
+support against global terrorism. Yet, even as she committed her government to the fight against 
+terror, party leaders in Indonesia condemned her stance and generated great internal friction. 
+Upon returning to Indonesia, President Megawati’s initial commitment to action wavered in the 
+                                                      
+97 Ibid. 222-223. 
+98 Depasupil, William B., “Abu’s Arms Supplier Nabbed”, Manila Times (Internet edition). 6 
+November 2003. Available from 
+http://www.manilatimes.net/national/2003/nov/06/top_stories/20031106top8.html. 
+ 38
+
+face of fierce political debate. In the end, Indonesia was the last Southeast Asian country to 
+officially acknowledge the existence of terrorism within its borders. Malaysia, Singapore and the 
+Philippines, nations infested with JI cells, quickly demonstrated steady resolve to combat 
+transnational terrorism. In December 2001, Singapore uncovered a mature JI cell operating 
+established within its borders and detained thirteen of its members. Indonesia, on the other hand, 
+received harsh local and international scrutiny for its failure to address overwhelming evidence 
+indicating JI’s presence within its borders. 
+Three years after the 9/11 attacks, Sydney Jones remains skeptical about Indonesia’s 
+commitment to eradicating Jemaah Islamiyah. In a recent article published in the Far Eastern 
+Economic Review, Jones commented, “We’ve heard vigorous condemnations of terrorism and 
+violence, but the words “Jemaah Islamiyah” have hardly been mentioned by anyone in authority. 
+And if you can’t name it, you can’t fight it.”
+99 Government reluctance to publicly denounce JI 
+and failure to introduce effective counterinsurgency measures has resulted in limited gains. Jones’ 
+admonitions to combat ongoing recruitment campaigns, eliminate administrative corruption, and 
+educate Indonesians on Jemaah Islamiyah appear to be falling on deaf ears.  
+Dr. O’Neill would sympathize with Ms. Jones, for he believes “Of all the variables that 
+have a bearing on the progress and outcome of insurgencies, none is more important than 
+government response.”100 Without a firm and consistent government stance against JI, young 
+Indonesians will be receptive to insurgent recruiting efforts; thus the next generation of JI 
+operatives emerges as a consequence of Indonesia’s failure to act immediately and decisively. 
+While Indonesia seeks to galvanize governmental resolve against terrorism, the 
+Philippines continue its determined counterterrorism campaign against Abu Sayyaf. A country 
+embroiled in insurgency since its independence from American rule, the Philippines is no stranger 
+                                                      
+99 Jones, Sydney, What Indonesians Must Explain. Far Eastern Economic Review, 23 September 
+2004. Available from http://www.icg.org/home/index.cfm?id=3016&1=1. 
+100 O’Neill, 125. 
+ 39
+
+to terrorism. Philippine president Gloria Macapagal Arroyo wasted no time in condemning the 
+9/11 attacks. Weeks following the Al Qaeda attack, President Arroyo’s administration passed a 
+law against money laundering in an attempt to address antiquated banking legislation.101  The 
+new laws require disclosure of bank deposits in excess of $80,000, eight times the threshold of 
+U.S. banks. Though considerably larger than the $10,000 disclosure clause found in U.S. courts, 
+this legislation is a leap in the right direction. 
+The Philippine government is working with both regional neighbors and international 
+state actors to eliminate Abu Sayyaf. As reported in an October edition of Arab News, the 
+government recently helped U.S. officials pay three Filipino informants $330,000 each for 
+information leading to the death of Hamsiraji Sali, a senior Abu Sayyaf leader.102 Sali was 
+wanted by U.S. officials for the deaths of Americans Guillermo Sobero and Martin Burnham, 
+both killed while being held captive by the Abu Sayyaf Group. 
+Despite achieving considerable success against Abu Sayyaf, the Philippine government 
+has occasionally stumbled. President Arroyo’s administration has thus far willingly facilitated the 
+transfer of ransom money for several Abu Sayyaf hostages. This controversial policy has 
+succeeded in securing the release of several prisoners, yet simultaneously spurred Abu Sayyaf to 
+continue the practice of kidnapping Westerners. In August 2000, six Westerners received their 
+freedom after the Qadhafi International Foundation for Charity Associations, headed by the son 
+of Libyan President Mu’ammar Qadhafi, delivered $25 million to Abu Sayyaf for their release. 
+On at least one occasion, ransom money did not result in hostage releases.  The family of 
+Americans Mark and Gracia Burnham paid $300,000 to the Abu Sayyaf Group in March 2002, 
+yet the guerillas did not release their hostages. 
+                                                      
+101 Landler, Mark. “The Philippine Moves Against Bank Secrecy”, New York Times, 13 October 
+2001, C,1:5. 
+102 Arab News, 26 October 2004. 
+ 40
+
+Despite setbacks, the counterterrorism campaign against Abu Sayyaf continues today. 
+Philippine Armed Forces Chief of Staff General Narciso Abaya believes ASG leader Khadafy 
+Janjalani is hiding in Mindanao, protected by members of Jemaah Islamiya and soldiers 
+belonging to MILF’s Special Operations Group. General Abaya also stated “about 400 Abu 
+Sayyaf members were still on the prowl in Mindanao and other parts of the country.”103 In regard 
+to the MILF, President Arroyo spearheaded the organization of an international monitoring team 
+led by Malaysia and assisted by other regional governments. These observers monitor MILF—
+Abu Sayyaf interactions and report inconsistencies with ongoing peace initiatives. In regards to 
+the ongoing insurgency, the Philippine government continues its pursuit of Abu Sayyaf members 
+throughout the country and retains its commitment to bringing them to justice and stopping the 
+violence. 
+Countering Adaptations: An Effects-Based U.S. Regional 
+Strategy 
+In developing a comprehensive counterterrorism strategy for Southeast Asia, one must 
+balance unique regional complexities with the adaptive nature of Jemaah Islamiyah and Abu 
+Sayyaf. By examining these two data points in light of current U.S. policy, it becomes possible to 
+devise a set of effects necessary for the United States to succeed regionally in the Global War on 
+Terrorism.  
+Southeast Asian Complexities 
+Jemaah Islamiyah, Abu Sayyaf and through association, Al Qaeda, successfully exploit 
+vulnerabilities inherent to Southeast Asia. The fledgling democracy of Indonesia and weak 
+governmental control over the southern Philippine islands create opportunities for insurgents to 
+operate with limited impunity. Combined with an absence of rule of law on sparsely populated 
+                                                      
+103 Labog-Javellana, Juliet, Christian V. Esguerra and Alcuin Papa, “Metro Bomb Plot Foiled; 4 
+Abu Men Nabbed”, Inquirer News Service, 30 March 2004. Available from 
+http://www.inq7.net/nat/2004/mar/31/text/nat_1-2p.htm 
+ 41
+
+islands, the region offers a population susceptible to campaigns of terror. Additionally, well-
+established transnational criminal activity provides functioning infrastructures for use by terrorist 
+organizations. Throughout the region, outdated judicial procedures frustrate efforts to detain and 
+question suspected terrorist. An additional concern facing Southeast Asian governments is 
+inadequate maritime controls. 
+Porous borders, combined with massive inbound tourist and business flows, open immigration 
+regimes, limited identity and document fraud detection, inadequately trained or corrupt officials, poor 
+coordination between border control agencies and various security agencies, and limited immigration and 
+customs control capacities all provide an environment in which terrorist can flourish.104
+ 
+Substandard education systems provide additional vulnerabilities to regional 
+governments. Many madrassas and pesantren within Southeast Asia teach violent strains of Islam. 
+As explained in the Australian Government’s White Paper regarding terrorism in Southeast Asia, 
+“many South Asian and Middle Eastern madrassas teach only a rigid and doctrinaire 
+interpretation of the Quran, with a strong emphasis on militant jihad.” Outside of the formal 
+Islamic education system, community-run Islamic boarding schools, or pesantrens, are often used 
+by Muslim extremist as a “vehicle to propagate extremist ideology and for recruitment 
+purposes.”105 For families lacking financial means, few opportunities exist to receive a secular or 
+moderate Islamic education. 
+As in the Middle East, ongoing regional violence serves as a recruiting tool and a source 
+of on-the-job training for young insurgents. For the past several decades, Southeast Asia has 
+housed several active Islamic insurgencies. Muslims living on Mindanao have resisted 
+government rule since the nation declared independence in 1946. In Indonesia, fierce fighting has 
+embroiled Muslim and Christian citizens of Ambon for the past ten years and separatist unrest 
+continues in Aceh. These ongoing conflicts serve as proving grounds, places where war-fighting 
+tactics are refined, command structures are developed, and advanced technology is fielded. Many 
+                                                      
+104 Australian Government White Paper. 42. 
+105 Australian Government White Paper, 41. 
+ 42
+
+of Jemaah Islamiyah and Abu Sayyaf guerrillas received their initial battlefield experiences 
+participating in these conflicts. Additionally, Southeast Asia is home to thousands of Afghan-
+Soviet War veterans. These soldiers bring to Southeast Asia not only military expertise, but 
+perhaps more importantly, a link to global Islamic jihad. 
+An Adapting Enemy 
+The Global War on Terrorism in Southeast Asia has achieved limited success. Hundreds 
+of Jemaah Islamiyah and Abu Sayyaf members are either dead or behind bars. Financial wells are 
+drying out, safe havens and training camps are rapidly disappearing, and regional partners are 
+cooperating on a scale not previously witnessed. These efforts have forced both insurgent groups 
+to either adapt to their changing environments, or face elimination. Abu Sayyaf and Jemaah 
+Islamiyah have thus far succeeded in meeting the increased threats head-on. They have proven to 
+be a resilient bunch. They have evolved, and thus remain viable insurgencies.  
+Jemaah Islamiayah and Abu Sayyaf are both adapting to the Global War on Terrorism. 
+Both have incorporated suicide bombings into their repertoire of terrorist acts, and as reported by 
+Australian government officials, this trend is likely to continue. Targets of terrorist attacks 
+increasingly include Catholic Filipinos and westerners in Indonesia, Singapore and Malaysia. The 
+Australian Government’s White Paper also reports, “Economic, religious, entertainment and 
+political targets, especially those identified with the West or Christianity, are high on Jemaah 
+Islamiyah’s target list. So are symbols of secularism and democratic change.”
+ 106 The recent Abu 
+Sayyaf shift away from hostage taking is aided by increased external financial aid and an 
+extremely low cost of terrorist operations. Abu Sayyaf and Jemaah Islamiyah will increasingly 
+rely on external support from non-state actors such as Al Qaeda, and state actors when 
+opportunities present themselves.   
+                                                      
+106 Ibid. 53. 
+ 43
+
+Jemaah Islamiyah and Abu Sayyaf demonstrate a propensity to operate within Southeast 
+Asia’s urban settings. Populated cities provide internationally relevant target sets, a variety of 
+Western actors, and the potential for mass casualties. The attack on Superferry 14 reveals Abu 
+Sayyaf’s willingness to extend its operational reach beyond the borders of Mindanao and Basilan 
+islands, while Jemaah Islamiyah operational reach remains unquestioned. Organizationally, both 
+insurgent groups experienced tremendous leadership turnover in the last few years. Out of 
+necessity, the role of operational leaders in providing direction and organizational guidance will 
+diminish. In a similar vein, each group will continue decentralizing their organizational structures 
+to add redundancy and stability. These autonomous insurgent groups will increasingly cooperate 
+with other terrorists, leveraging intelligence, material resources, and financial assets.  An 
+expansive network-of-networks of terrorist is quickly emerging. 
+To succeed against Jemaah Islamiyah and Abu Sayyaf, the U.S. regional counterterrorism 
+strategy must reflect the following adaptations within these two insurgencies: 1) increasing 
+reliance on Al Qaeda and like transnational terrorists; 2) decentralized operations; 3) increased 
+use of suicide bombers; 4) increased emphasis on bombing soft targets and assassinations; 5) Abu 
+Sayyaf’s return to initially stated political agenda; 6) more discriminate targeting by Jemaah 
+Islamiyah; 7) increased focus on urban warfare; 8) swell of new recruits for both Jemaah 
+Islamiyah and Abu Sayyaf. 
+Current Strategies 
+The September 2002 National Security Strategy provides the outline for the Global War 
+on Terrorism. The strategy, enumerated in Section III, is directed to first “disrupt and destroy 
+terrorist organizations of global reach and attack their leadership; command control and 
+communications; material support; and finances.” To achieve this objective the U.S. is committed 
+to 1) direct and continuous action using all elements of national power; 2) identifying and 
+destroying the threat before it reaches the United States; and 3) denying further sponsorship, 
+ 44
+
+support, and sanctuary to terrorists by convincing or compelling states to accept their sovereign 
+responsibilities.  
+The National Strategy for Combating Terrorism dated February 2003 adds fidelity to the 
+nation’s focus on countering global terrorism. As stated in this document, “the intent of our 
+national strategy is to stop terrorist attacks against the United States, its citizens, its interest, and 
+our friends and allies around the world and ultimately, to create an international environment 
+inhospitable to terrorists and all those who support them.”107 To accomplish these tasks, the 
+United States committed itself to a four-prong policy of defeat, deny, diminish and defend. The 
+U.S. is intent on defeating terrorist organizations by attacking sanctuaries; leadership; command, 
+control, and communications; material support; and finances. It is committed to denying further 
+sponsorship, support and sanctuary to terrorist while simultaneously diminishing the underlying 
+conditions terrorist seek to exploit. Finally, the U.S. Counterterrorism strategy is set to defend the 
+United States, its citizens and interest at home and abroad. 
+Southeast Asian Effects-Based Counterterrorism Strategy  
+The United States counterterrorism strategy in Southeast Asia is failing. Though U.S. 
+efforts against Jemaah Islamiyah and Abu Sayyaf have yielded limited gains, both insurgent 
+groups continue to operate, applying increased pressure upon regional governments and the 
+international community.  Nearly three and half years following the inception of GWOT, these 
+insurgencies have grown in capability and operational reach. Their adaptive, resourceful nature 
+warrants an updated strategic approach employing the full arsenal of U.S. instruments of national 
+power, prioritized for maximum effectiveness. The importance of a prioritized approach is best 
+articulated by Admiral Thomas Fargo, Commander, Pacific Command, who during testimony 
+before the House Armed Services Committee stated, 
+                                                      
+107 Pope, William P., Principle Deputy Director for Counterterrorism, address at Carnegie 
+Endowment for International Peace at the National Bureau of Asian Research, 22 September 2004. 
+ 45
+
+Philosophically, our approach to the terror threat has both near-term and long-term components. In 
+the near term, we have to stop immediate threats against our citizens, our friends, our property, and vital 
+infrastructure – in short, we have to stop the violence. So this near-term effort included proactive defensive 
+measures. Clearly, we don’t see military action as the sole or even primary instrument of national power in 
+this fight – intelligence sharing and law enforcement lead much of this effort. These near-term efforts are 
+an essential but incomplete solution, because the war on terrorism, like the fight against other transnational 
+threats, cannot be won by attrition alone. Terrorist can multiply faster than they can be captured or killed. 
+So our long-term effort is focused on strengthening the region’s democratic institutions that provide 
+security at the economic, social, and physical (i.e. education, law enforcement, basic services) levels.108
+ 
+As Admiral Fargo insists, military action in Southeast Asia is a supporting effort. Primarily, it 
+provides a basic short-term security environment needed for the development of long-term 
+economic and political infrastructure changes. A more accurate prioritized list of instruments of 
+national power critical to success in Southeast Asia include information/intelligence, diplomatic, 
+economic, judicial, law enforcement, customs and military training. Elements of these 
+instruments of power can be seen in ongoing U.S. efforts to pursue regional terrorists and to assist 
+Southeast Asian countries develop capabilities needed to subdue Jemaah Islamiyah and Abu 
+Sayyaf. To date, their inefficient employment has minimized their cumulative affect. Critical of 
+U.S. efforts in the Philippines, Bishop Felixberto Calang, of the advocacy group InPeace 
+Mindanao remarked, “Obviously, the U.S.’s role in the so-called war against terror here has not 
+eliminated the Abu Sayyaf, which has been giving Islam a bad name. The question I’d like to ask 
+the Americans is this: Did they make Filipinos safe from terrorists or did they, in fact, only make 
+us more vulnerable?”
+109
+In order to succeed against Jemaah Islamiyah and Abu Sayyaf, the U.S. regional 
+counterterrorism strategy requires additional effects from the following national instruments of 
+national power, prioritized in the following order: information, diplomatic, economic, financial, 
+law enforcement, customs/maritime, judicial and military.  
+                                                      
+108 Admiral Thomas B. Fargo, Commander U.S. Pacific Command , testimony to the House 
+Armed Services Committee regarding U.S. Pacific Command Posture, 31 March 3, 2004. 
+109 Conde, Carlos H. New Analysis: Reawakening of Philippine rebels, International Herald 
+Tribune online, 22 February 2005.  
+ 46
+
+Information 
+An effective information campaign is arguably the most important deterrent to regional 
+terrorism.  As such, the regional strategy must develop a more effective information campaign 
+designed to win the hearts and minds of Southeast Asia’s Muslim population. Following the U.S. 
+invasion of Iraq, anti-American sentiment has steadily risen within the world’s Muslim 
+communities. These attitudes must be defused at all cost. One manner of accomplishing this aim 
+is to promote good news stories of positive U.S.—Islamic interactions. The United States should 
+strive to broadcast messages of success, security and emerging democratic processes throughout 
+the world. The December 2004 election of Afghanistan President Hamid Karzai and successful 
+2005 Iraqi parliamentary elections demonstrate the ability of Islamic societies to succeed despite 
+the presence of regional terrorism. Likewise, messages of human rights victories and women 
+suffrage should flood Southeast Asian media outlets. Likewise, efforts to publicly acknowledge 
+policy failures are equally important. These open statements build trust, defuse anti-American 
+sentiments and proactively mitigate adversarial media usage. To further trust, declarations of 
+failure should also identify corrective action. The United States must defuse the myth of a secular 
+America at war with Islam, challenging the very existence of Muslims worldwide. 
+A regional strategy should reflect the fact that Abu Sayyaf and Jemaah Islamiyah 
+represent a small minority of Southeast Asia’s expansive Muslim population. As reported a recent 
+Australian government study, “The vast majority of the population of South-East Asia rejects not 
+only the callous violence of terrorist groups but also their goals and ideology.”
+110 United States 
+officials must leverage moderate Muslim clerics, an extended history of tolerant Islam in 
+Southeast Asia and existing Islamic institutions. Muhammadiyah and Nahdlatul Ulama, 
+Indonesian’s two largest Muslim organizations help provide welfare and education to their fellow 
+citizens and both organizations are firmly opposed to terrorism and support new anti-terrorism 
+                                                      
+110 Australian Government White Paper, 38. 
+ 47
+
+decrees for Indonesia.111 The exploits of these groups need to reverberate throughout Muslim 
+societies. 
+Equally important is regional acceptance and public recognition of the existence of Abu 
+Sayyaf and Jemaah Islamiyah. Critical of Indonesia’s response to terrorism, Analyst Sydney 
+Jones points out “more than four years after JI first undertook bombings on Indonesian soil—in 
+May 2000 in Medan—no one in the Indonesian government has gone on national television at 
+prime time and carefully laid out the case against JI, the nature of the threat they pose, and what 
+concrete steps the government is prepared to undertake to counter it.”112 The fight against 
+transnational terrorism must be taken to the people.  
+During a time when neither Abu Sayyaf nor Jemaah Islamiyah is successfully mobilizing 
+popular support, it is imperative U.S. and Asian government officials aggressively educate 
+moderate Muslims on the current nature of local insurgencies. Linkages between Abu Sayyaf and 
+Jemaah Islamiyah, and the destructive results of their terror campaigns provide identifiable, 
+indisputable evidence of the negative nature of Islamic extremism. 
+Diplomatic 
+Most analysts are in agreement the war on terrorism in Southeast Asia will fail in the 
+absence of regional cooperation. Successes within one country can be quickly negated through 
+the inaction of neighboring nations. Known and undiscovered connections between Abu Sayyaf 
+and Jemaah Islamiyah make regional cooperation essential in disabling the transnational network. 
+Analysts Huang and McCullough believe, “it is perhaps here that Washington can play a critical 
+role—by strengthening diplomatic relations and providing economic and political incentives 
+                                                      
+111 Ibid. 
+112 Jones, Sydney, “Buying guns, explosives, passport as easy as buying rice”, Jakarta Post, 11 
+September 2004, Available from http://www.icg.org/home/index.cfm?id=2972&1=1. 
+ 48
+
+bilaterally and through regional organizations such as Association of Southeast Asian Nations 
+(ASEAN).” 113  
+Diplomacy in Southeast Asia is wholly inadequate to bring about lasting success in the 
+GWOT. No where is this more evident than the dismal performance of Southeast Asian nations to 
+ratify the twelve protocols and conventions regarding terrorism. Through various channels, the 
+United States must encourage Southeast Asian countries to become signatories to the twelve 
+terrorism conventions and protocols. As of 2003, only three of Southeast Asia’s countries were 
+signatories to six or more conventions/protocols, and only the Philippines had ratified them all. 
+Cambodia and Thailand recorded the worst performance with four conventions ratified, while 
+Indonesia ratified only five. A member of the ASEAN Regional Forum (ARF), the United States 
+is strategically poised to galvanize the collective strength of fellow members, namely China, 
+Japan, Australia and Russia, to assist Southeast Asian nations convert supportive rhetoric into 
+actions that actually fulfill their ratifying obligations.    
+Through aggressive diplomacy, the United States must pressure coalition partners to 
+refrain from negotiating with terrorists. In 2000, Libya, Germany and France negotiated a hostage 
+release with Abu Sayyaf. Four Western hostages gained their freedom to the tune of $25 million 
+dollars with which Abu Sayyaf used “to purchase new weapons and equipment, such as state-of-
+the-art speedboats, advanced communications devices, and even weapons obtained from corrupt 
+Filipino troops.”
+114 As long as coalition partners are willing to pay ransoms for hostages, 
+kidnapping will continue to be a lucrative option for Abu Sayyaf. Incredibly large ransom sums 
+fund increased patronage and undermine the belief that local governments can eradicate 
+terrorism. 
+                                                      
+113 Huang, Reyko and Colin McCullough. “In the Spotlight: Jemaah Islamiyah”. 
+114 Desker, Barry and Kumar Ramakrishna. Forging an Indirect Strategy in Southeast Asia, The 
+Washington Quarterly, Vol. 25, No. 2, Spring 2002. 165. 
+ 49
+
+Economic  
+Southeast Asia’s economic infrastructure is broken and will remain so unless aggressive 
+counterterrorism strategies focus on its long-term repair. Economic decay is particularly evident 
+in the southern Philippines and sparsely populated islands of Indonesian and Malaysia. For the 
+Global War on Terrorism to succeed, this infrastructure must be built to withstand a continuous 
+onslaught from Abu Sayyaf and Jemaah Islamiyah guerillas. U.S. economic elements of national 
+power can help revitalize regional economies. For this reason, the U.S. counterterrorism strategy 
+in Southeast Asia must lead with economic reform. 
+ Southeast Asia is home to a large portion of the world’s Muslim population. Indeed, 
+every country within the region contains a Muslim population. The majority of the region’s 
+Muslims, from the 197 million living in Indonesia to the 5,600 inhabiting Laos, practice a 
+moderate form of Islam. They staunchly condemn terrorist attacks, yet most of the focus of the 
+war on terrorism is aimed at the smaller percentage of radicalized Muslims. More focus should be 
+on helping the larger percentage of moderate Muslims; meeting their basic needs of food and 
+shelter, ensuring economic opportunity and providing security from terrorist attacks. Before 
+expending effort to strengthen government institutions, the people of Southeast Asia deserve the 
+basic necessities of life: food, shelter, and security.  
+A regional strategy must include educational reform throughout Southeast Asia. A 
+pervasive lack of schools force parents to send their children to madrassas, religious schools 
+taught by instructors steeped in Saudi Wahhabi tenets. Wahhabism, “an extremely fundamentalist 
+and exclusionary form of Islam that originated in eighteenth century Saudi Arabia,” needs to be 
+countered by alternative forms of moderate Islam.
+115 Jessica Stern believes, “In countries where 
+                                                      
+115 Desker, 172. 
+ 50
+
+extremist religious schools promote terror, Washington should help develop alternative schools 
+rather than attempt to persuade the legal government to shut down radical madrasah’s.”116
+Every effort to eradicate terrorism in Southeast Asia demands a focused examination of 
+potential economic impacts. Balikitan 02-1, the U.S.—AFP military exercise presented 
+opportunities beyond military assistance. During the exercise, American forces began “rebuilding 
+Basilan’s airfield for the Philippine military, while working on 11 other engineering projects that 
+have injected around $4 million into the local economy.117 US troops have also conducted free 
+health care clinics for Basilan’s citizens. On 28 June 2004, Admiral Fargo marked the opening of 
+Fort Magsaysay runway in Palayan City. A by-product of Balikitan (Shoulder-to-Shoulder) 
+exercises, the airstrip offers AFP soldiers greater mobility and presents commanders a wider 
+range of military options when dealing with Abu Sayyaf. While noting the obvious military 
+advantages of the Balikitan exercises, Admiral Fargo stated “This recurring event is important 
+and allows our integrated military teams the opportunities to not only train to realistic and 
+productive standards, but too, it gives us a chance to provide much needed infrastructure for the 
+surrounding communities.”118
+Financial  
+Thus far, financial success at thwarting transnational terrorism in Southeast Asia has 
+proven extremely difficult to achieve. Regional nations like the Philippines operate using 
+antiquated banking and regulatory systems totally inadequate in the current global environment. 
+Progress is further complicated by the extremely low cost of terrorist activity; the bombing of the 
+Australian embassy by Jemaah Islamiyah is believed to have cost a mere $20,000.119 As 
+                                                      
+116 Stern, Jessica. “The Protean Enemy”, Foreign Affairs. July/August 2003. Vol 82, No. 4: 39. 
+117 Burgess, Mark. “The U.S. Deployment in the Philippines: Expand the Mission”. CDI Terrorism 
+Project. 7 June 2002. Available from http://cdi.org/terrorism/philippines-expansion-pr.cfm. 
+118 Admiral Tom Fargo, Commander, U.S. Pacific Command address at Fort Magsaysay Runway 
+Opening. 28 June 2004. 
+119 Australian Government White Paper, 55. 
+ 51
+
+previously mentioned, external financing is extremely important to both Abu Sayyaf and Jemaah 
+Islamiyah. More needs to be done to regulate the money these groups receive from outside 
+sources.  
+A great step forward in the financial domain occurred in August 2003, when Malaysia 
+hosted the first South East Asia Regional Center for Counter Terrorism (SEARCCT) training 
+program in Kuala Lumpur. Developed to provide training and increase regional counterterrorism 
+capabilities, SEARCCT combined the expertise of the Central Bank of Malaysia and the U.S. 
+Financial Crimes Enforcement Network to host its first Basic Analysis and Suspicious 
+Transaction Workshop. U.S. officials participated in SEARCCT 2004 and should continue this 
+commitment to ensure regional governments have the financial expertise needed to combat 
+terrorism.  
+The benefits of increased maritime controls will be felt immediately in the financial 
+domain. Currently, a major source of funding for Abu Sayyaf and Jemaah Islamiyah comes in the 
+form of halawa, hand-to-hand money exchanges. Difficult to control because of porous borders 
+and lax border control, this source of funding will suffer from the effects of regional maritime 
+reform.  
+Law Enforcement 
+Law enforcement represents another critical instrument of national power that deserves 
+increased financial resources and robust training reforms. Particularly in Southeast Asia, the 
+existence of effective law enforcement is invaluable. Regional law enforcement agencies are 
+better poised to combat terrorism than are military or police units. Past abuses committed by 
+armed forces and police, as previous discussed, often create high levels of distrust among local 
+citizens that hamper effective counterterrorism campaigns. Additionally, law enforcement 
+agencies operate most effectively in urban environments where Jemaah Islamiyah and Abu 
+Sayyaf members conduct the majority of terrorist activities.  
+ 52
+
+A regional U.S. strategy should more aggressively support ongoing efforts to enhance the 
+region’s law enforcement capabilities and interoperability. Since the advent of GWOT, Southeast 
+Asian governments have instituted several law enforcement programs the U.S. can leverage. The 
+joint Australian-Indonesian Jakarta Center for Law Enforcement Cooperation (JCLEC), 
+established in February 2004, comes on the heels of outstanding law enforcement cooperation 
+following JI’s attack on Bali. The Center’s key objective is to enhance the operational expertise 
+of regional law enforcement agencies in dealing with transnational crime by strengthening 
+regional cooperation and developing counterterrorism skills.120 In Bangkok, the U.S.-Thailand 
+joint International Law Enforcement Academy offers courses emphasizing the rule of law, and 
+seeks to improve coordination between regional law enforcement agencies. These are examples 
+of existing institutions designed to increase Southeast Asia’s ability to counter transnational 
+criminal and terrorist activities. Increased support for these institutions is an important component 
+of a U.S. regional counterterrorism strategy.  
+As recently as November 2004, U.S. Federal Bureau of Investigation agents held a 
+seminar for twenty senior Filipino officers of the Criminal Investigation and Detection Group 
+aimed at improving the capabilities of Manila’s police in regards to terrorism. The benefits of 
+these training programs ripple throughout the region, as these trained Filipino Police in turn pass 
+these experiences and skills to other regional police agencies.  
+Customs/Maritime 
+In October 2004, Philippine Assistant Secretary of Defense Honorable Alejandro P. 
+Melchor III, speaking to representatives from Australia, Indonesia, Malaysia, Philippines, 
+Thailand and the United States, identified five Southeast Asia maritime security challenges as 
+piracy, maritime terrorism, transnational criminal trafficking operations, refugees and illegal 
+                                                      
+120 Australian Government White Paper, 90. 
+ 53
+
+migration, and protecting energy routes. Hon. Melchor stated, “Maritime transnational threats are 
+global in nature,” and added “protection of the maritime domain is growing in importance as 
+world energy consumption is expected to increase 60 percent by 2020 and 93 percent of Asia’s oil 
+will come from the Middle East by 2010. The role of the military in protecting energy routes, sea-
+lines of communication, and chokepoints will increase.”121
+The Regional Maritime Security Initiative (RMSI) devised by Pacific Command is a 
+major leap towards mitigating Southeast Asia’s maritime threats. The goal of RMSI is to 
+“develop a partnership of willing regional nations with varying capabilities and capacities to 
+identify, monitor, and intercept transnational maritime threats under existing international and 
+domestic laws.”122 Critical to the success of RMSI is increased situational awareness between 
+nations, agile and rapid decision making based upon regional standard operating procedures, 
+enhanced maritime interdiction capabilities, regional coast guard presence, increased port security 
+and interagency cooperation. RMSI stresses a level of regional cooperation not yet present among 
+Southeast Asia’s nations. In order to become a viable method of denying maritime access to Abu 
+Sayyaf and Jemaah Islamiyah, RMSI needs unfettered U.S. support and backing.  
+U.S. Customs is a source of national power not traditionally leveraged in the global 
+community. In Southeast Asia, limited littoral security presents insurgents prime opportunities to 
+quickly and safely transfer funds, material and personnel across national borders. Lax border 
+controls invite transnational insurgents to participate in ongoing sectarian violence between 
+Christians and Muslims in Ambon, Indonesia. Preventing Abu Sayyaf and Jemaah Islamiyah 
+jihadis from entering these conflict-ridden areas should be a major part of any regional strategy. 
+                                                      
+121 Commander Robert Wohlschlegel, Lieutenant Colonel Curtis W. Turner and Dr. Kent Butts, 
+covering 2004 Maritime Threats Workshop, Cebu, Republic of Philippines, 26-30 July 2004. Available 
+from http://www.carlisle.army.mil/usacsl/index.asp. 
+ 
+122 Admiral Thomas B. Fargo, Commander U.S. Pacific Command, address to Military Operations 
+and Law Conference in Victoria, British Columbia on 3 May 2004. Available from 
+http://www.pacom.mil/speeches/sst2004/040503milops.shtml.  
+ 54
+
+As occurred in Afghanistan throughout the 1980s, access to ongoing military conflicts provides 
+inexperienced guerillas the opportunity to receive invaluable, hands-on training.  
+Judicial 
+Successes in law enforcement must be met with equaled progress in the judicial systems 
+of Southeast Asia. Current regional legislation is inadequate to curb terrorist activities. 
+Legislations must give law enforcement agents the authority to detain suspected insurgents for 
+questioning and ongoing investigations. The importance of eliminating violence cannot be 
+overstated. Yet many countries lack the legislative powers to detain suspected insurgents. These 
+nations are by default forced into a reactive mode, arresting only those accused of actual terrorist 
+activity.   
+Many Southeast Asian countries are making considerable strides in judicial reform. In 
+2003, Indonesia “adopted a comprehensive terrorism law defining various acts of terror and 
+providing police and prosecutors with broader powers to combat terrorism—such as extended 
+pretrial detention periods and the use of electronic evidence in court.”
+123 Malaysia aggressively 
+initiated judicial reform shortly after 9/11. Its parliament beefed up anti-money laundering 
+legislation, increased penalties for terrorist acts and allowed for the prosecution of individuals 
+providing material support to terrorist.124 These and the judicial reforms instituted by other 
+Southeast Asian countries should not only be encouraged, but also rewarded with economic aid. 
+For those countries slow to embrace judicial restructuring, economic aid packages provide 
+lucrative incentives to hasten reforms and should be included in a regional strategy.  
+                                                      
+123 U.S. Department of State, Patterns of Global Terrorism: 2003, released by the Office of the 
+Coordinator for Counterterrorism on 29 April 2004. 
+124 Patterns of Global Terrorism: 2003. 
+ 55
+
+Militarily 
+United States military-to military cooperation with Southeast Asian countries is essential 
+to the success of the Global War on Terrorism.  Unfortunately the road to cooperation is rugged 
+and the path frequently obscure. The nature of U.S. military assistance is complicated by the 
+existence of corruptness found within many of the regions military organizations.  More 
+importantly, Jakarta, Manila and Kuala Lumpur “have rejected the U.S. administration’s offers of 
+direct combat assistance to fight terrorist groups within their national borders.”125 For those 
+opportunities to conduct military training with willing participants, U.S. military officials should 
+consider the political backlash these activities may have on other regional counterterrorism 
+efforts. In all cases, the military role, as noted by Admiral Fargo, should be primarily in the form 
+of training, assisting and providing intelligence. In a statement to AFP senior officers, Admiral 
+Fargo commented, “This is your fight against those that threaten your citizens and their peace and 
+stability. We are glad to help in ways the AFP finds useful.”126 This is the approach the U.S. 
+should maintain and extend to other regional nations interested in training with U.S. soldiers.  
+Bilateral and multilateral training exercises have proven an effective method to heighten 
+counterterrorism capabilities throughout the region. The U.S. and the Philippines successfully 
+intertwined recurring bilateral training with counterterrorism efforts against Abu Sayyaf on 
+Basilan Island. Balikitan 2002-01 pitted Philippine soldiers, in conjunction with U.S. advisors 
+and trainers, in direct combat with the Moro insurgent group. During Balikatan 2002-02, 
+Philippine military forces received training in a variety of military specialties to include 
+helicopter, amphibious and urban operations, artillery training, humanitarian relief and civil 
+engineering. As explained in the Asian Defense Journal, “The aim of the US counter-terrorism 
+training exercise is to help the Philippine armed forces develop the skills and maintain the 
+                                                      
+125 Desker, 169. 
+126 www.pacom.mil/articles/articles2004/040630phil1.shtml 
+ 56
+
+determination to eradicate the Abu Sayyaf in the insurgency-wrecked south”127 To enhance 
+regional maritime capabilities, U.S. Naval and Coast Guard sailors recently teamed with the 
+Philippines, Malaysia, Thailand, Brunei and Singapore in executing Cooperation Afloat 
+Readiness and Training (CARAT) 2004. An ongoing series of bilateral exercises, CARAT is 
+designed to “enhance interoperability of the U.S. sea services and those of friends and allies 
+throughout the region in a variety of mission areas of mutual benefit.”128 These exercises are 
+excellent ways to encourage regional military cooperation and enhance counterterrorism 
+capabilities. Bilateral and multilateral exercises empower Southeast Asian countries to fight 
+global terrorism without threatening national sovereignty, a major concern for Malaysia and 
+Indonesia.  
+In a 2002 issue of Current History, Joshua Kurlantzick issues a relevant warning 
+regarding U.S. efforts to assist Southeast Asian militaries. Kurlantzick warns “Backing Southeast 
+Asia’s often brutal and compromised militaries, which themselves contain elements linked to 
+Islamist radicals will only boost human rights abuses, breeding popular resentment and setting the 
+stage for more terror.”
+129 It is imperative U.S. officials heed his admonition as they revise and 
+update the nation’s regional strategy. As previously mentioned, AFP soldiers received close 
+scrutiny in 2002 on reports of collusion with Abu Sayyaf guerillas during the siege of Lamitan. 
+Kurlantzick reports, “Journalist in Lamitan heard the army warning Abu Sayyaf by radio that they 
+were planning to attack, and saw the military wait until Abu members had evacuated a building 
+before ‘capturing’ it.”
+130 The Indonesian Army (TNI) received world-wide criticism for its 
+handling of East Timor’s bid for independence and in Malaysia, former president Mahathir is 
+                                                      
+127 Asian Defense Journal, January/February 2002. “Deployment of US Special Forces in the 
+Philippines a Return to Déjà vu? 
+128 Virtual Information Center, “Cooperation Afloat Readiness and Training (CARAT)”,  2004. 
+Available from http://www.vic-info.org/RegionsTop.nsf/0/c3a9e3666476ef550a256eb3006fdd4f?Open. 
+129 Kurlantzick, Joshua. “Tilting at Dominos: America and Al Qaeda in Southeast Asia”, Current 
+History: A Journal of Contemporary World Affairs, December 2002: 421. 
+130 Ibid., 424. 
+ 57
+
+accused of using its Internal Security Act to arrest and detain members of the opposition Party 
+Islam Se-Malaysia (PAS). U.S. military-to-military assistance and training is necessary to 
+empower Southeast Asian governments to eradicate transnational terrorism. Assistance, however, 
+must be carefully administered and monitored to ensure its appropriate usage. 
+CONCLUSION 
+Southeast Asia is the second front in the Global War on Terrorism. Immature democratic 
+governments, ineffective maritime controls, poor border securities and a large Islamic population 
+combine to make this region particularly susceptible to transnational terrorism. Home to a host of 
+violent non-state actors like Jemaah Islamiyah and Abu Sayyaf, Southeast Asia is embroiled in a 
+battle to eradicate these threats and exploit its strategic position in today’s global market. 
+Combined efforts of the region’s nations have thus far scored limited success. Jemaah Islamiyah 
+and Abu Sayyaf are crippled, but not broken. They continue to spread terror and threaten the 
+existence and viability of the entire area. Their adaptive nature frustrates efforts to eradicate 
+transnational terrorism. 
+Following the 9/11 terror attacks on America’s homeland, President Bush committed the 
+nation to a global war against terrorism, an effort to protect not only the United States, but its 
+citizens, allies and interest throughout the world. Today, the United States is heavily engaged in 
+Southeast Asia. Its strategic direction has achieved some success, but must receive continual 
+updates to match the ever-evolving nature of the region’s insurgencies. Recent terrorist attacks by 
+Abu Sayyaf, and collusion between them and Jemaah Islamiyah highlight the supporting role of 
+military assistance to the more permanent effects provided by political and economic reforms. To 
+defeat Abu Sayyaf and Jemaah Islamiyah, the United States must use its full compliment of 
+instruments of national power in a prioritized fashion. Collectively, these enablers assist 
+Southeast Asian governments develop and execute effective counterterrorism strategies.  
+ 58
+
+Identifying the aims of Jemaah Islamiyah and Abu Sayyaf is the first step to establishing 
+an effective U.S. regional counterterrorism policy. Accurately assessing each insurgency’s 
+adopted strategic focus and predominant forms of warfare lays the foundation for additional 
+analysis. Examining the environment, level of popular support, the organization, dependence on 
+external support and governmental responses to insurgencies provides a methodology for 
+evaluating an insurgency’s relative strengths and weaknesses. This monograph has used this 
+framework to identify essential effects a regional strategy must encompass in order to remain 
+relevant and effective against Abu Sayyaf and Jemaah Islamiyah.    
+Abu Sayyaf and Jemaah Islamiyah will continue to evolve and adapt. As a result, U.S. 
+officials must continually revisit their analysis and reformulate regional strategies to match the 
+adapting threat. In an article entitled “The Protean Enemy,” Jessica Stern so aptly remarked, 
+“Only by matching the radical innovation shown by professional terrorist and by showing a 
+similar willingness to adapt and adopt new methods and new ways of thinking can the United 
+States and its allies make themselves safe from the ongoing threat of terrorist attacks.”131
+                                                      
+131 Stern, Jessica. “The Protean Enemy”, Foreign Affairs, Vol 82, No. 4, July/August 2003: 40. 
+ 59
+
+BIBLIOGRAPHY 
+Abuza, Zachary, “Learning by Doing: Al Qaeda’s Allies in Southeast Asia”, Current History: A 
+Journal of Contemporary World Affairs, April 2004, 171-176. 
+Armstrong, Karen, Islam: A Short History. New York: Modern Library, 2002. 
+Australian Government Department of Foreign Affairs and Trade White Paper. Transnational 
+Terrorism: The Threat to Australia. 2004. 
+Bristow, Damien, “The War on Terrorism and Its Impact on the Security Situation in the Asia-
+Pacific”, Asian Defence Journal, January/February 2002, 4-7. 
+Burnham, Gracia, In the Presence of My Enemies. Wheaton, Illinois:Tyndale House Publishers, 
+Inc. 2003. 
+Burke Jason, Al Qaeda: Casting a Shawdow of Terror. London: I.B. Tauris, 2003. 
+CultureGrams World Edition: Asia and Oceania. Vol 4, Axiom Press. 2003. 
+Desker, Barry and Kumar Ramakrishna, “Forging an Indirect Strategy in Southeast Asia”, The 
+Washington Quarterly, Vol. 25, No. 2, Spring 2002, 161-176. 
+Department of the Army. Field Manual Interim 3-07.22, Counterinsurgency Operations. 1 
+October 2004. 
+Frederick, William H. and Robert L. Worden. Indonesia: A Country Study. Washington D.C.: 
+Library of Congress. 1993. 
+Gee, John, “Conviction of Balinese Bomber Amrozi Recalls Rabin Assassin Yigal Amir”, The 
+Washington Report on Middle East Affairs, Vol.22, No.8, October 2003, 36-37. 
+Hurley, Vic. Swish of the Kris: The Story of the Moros, New York: E.P. Dutton & Co., Inc., 
+1936. 
+Huxley, Tim. Disintegrating Indonesia? Implications for Regional Security, Oxford: Oxford 
+University Press, 2002. 
+Kurlantzick, Joshua. “Tilting at Dominos: America and Al Qaeda in Southeast Asia”, Current 
+History: A Journal of Contemporary World Affairs, December 2002, 421-426. 
+Lapore, Barbara Leitch. Singapore: A Country Study. Washington D.C.: Library of Congress. 
+1991. 
+Linden, Edward V.  World Terrorism. New York: Nova Science Publishers, Inc. 2002. 49-59. 
+O’Neill, Bard E., Insurgency and Terrorism: Inside Modern Revolutionary Warfare. Dulles, 
+Virginia: Brassey’s, Inc, 1990. 
+Rashid, Ahmed. Taliban: Militant Islam, Oil and Fundamentalism in Central Asia, New Haven: 
+Yale University Press, 2000. 
+Ressa, Maria, Seeds of Terror: An eyewitness Account of Al-Qaeda’s Newest Center of 
+Operations in Southeast Asia. New York: Free Press, 2003. 
+Peters, Ralph. Beyond Terror: Strategy in a Changing World. Mechanicsburg, PA: Stackpole 
+Books, 2002. 
+Rabasa, Angel and Peter Chalk. Indonesia’s Transformation and the Stability of Southeast Asia. 
+Santa Monica, CA: RAND. 2001. 
+ 60
+
+Sarkesian, Sam C., Revolutionary Guerrilla Warfare. Chicago: Precedent Publishing, Inc.1975. 
+Spiers, Ronald. “The Anatomy of Terrorism.” Foreign Service Journal, September 2004, 43-50. 
+Stern, Jessica, “The Protean Enemy”, Foreign Affairs, Vol. 82, No. 4, July/August 2003, 27-40 
+Strasser, Steven, The 9/11 Investigations. New York: Public Affairs, 2004. 
+United States Department of State, Foreign Terrorist Organizations, 2004 
+United States Department of State, Patterns of Global Terrorism: 2002. 
+United States Department of State, Patterns of Global Terrorism: 2003. 
+United States Joint Staff, JP-07.2 “Joint Tactics, Techniques and Procedures for Antiterrorism, 17 
+March 1998. 
+ 
+Periodicals 
+Arab News 
+Asia Times (Internet edition) 
+Associated Press 
+BBC News 
+The Jakarta Post (Internet edition) 
+The International Herald Tribune (Internet edition)  
+Manila Times (Internet edition) 
+New York Times 
+Newsweek 
+Taipei Times (Internet edition) 
+Washington Post 
+ 
+ 61

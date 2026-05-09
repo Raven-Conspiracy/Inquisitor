@@ -1,0 +1,2732 @@
+Harmony Program
+Letters from Abbottabad:
+Bin Ladin Sidelined?
+
+ 
+ 
+ 
+ 
+ 
+ 
+Letters from Abbottabad: Bin Ladin Sidelined? 
+ 
+Nelly Lahoud 
+Stuart Caudill 
+Liam Collins 
+Gabriel Koehler-Derrick 
+Don Rassler 
+Muhammad al-`Ubaydi 
+ 
+HARMONY PROGRAM 
+THE COMBATING TERRORISM CENTER AT WEST POINT 
+ 
+www.ctc.usma.edu 
+ 
+3 May 2012 
+ 
+ 
+The views expressed in this report are the authors’ and do not necessarily reflect those of the Combating 
+Terrorism Center, U.S. Military Academy, Department of Defense or U.S. government.
+
+May 3, 2012 
+ 
+Foreword 
+The death of Usama bin Ladin one year ago understandably generated a significant 
+amount of interest in the professionals who carried out the raid in Abbottabad, 
+Pakistan, on the night of May 2
+nd. Lost in the focus on this single mission is the fact that 
+United States Special Operations Forces (SOF) have conducted thousands of 
+comparable missions in Afghanistan and Iraq since 2001. The success of “Neptune 
+Spear” was the cumulative result of the experience, relentless focus and professionalism 
+of a community that has been conducting these types of missions for over ten years. 
+  
+A second feature of the raid and one much less apparent to the general public is that the 
+professionals conducting this operation were trained to survey the site and collect any 
+electronic media, papers, or pocket litter that might inform future operations. As 
+discussed in the report, this process, known as F3EA (Find, Fix, Finish, Exploit and 
+Analyze), has helped to revolutionize the fight against al-Qa`ida and created a cyclical 
+operational process for combating networked actors. The end of the raid in Abbottabad 
+was the beginning of a massive analytical effort as experts from across the Intelligence 
+Community (IC) worked to exploit these captured documents, which in turn 
+undoubtedly contributed to additional operations. 
+ 
+The Combating Terrorism Center, housed within the Department of Social Sciences at 
+West Point, has long recognized that captured battlefield documents have enormous 
+value to students of terrorism. Since 2005 the longstanding partnership between the 
+CTC and our colleagues who manage the Harmony database has facilitated the release 
+of hundreds of documents to the public, with the intention of advancing the study of 
+terrorism and political violence. In its own small way, this report and the release of 
+some documents from the Abbottabad compound to the public are simply a 
+continuation of this partnership. 
+ 
+The CTC is proud to continue in this role by publishing these documents, and as with 
+previous releases two cautions are worth highlighting. First and most importantly is 
+that these documents likely represent only a fraction of the materials reportedly taken 
+from the compound. If declassification of  subsequent documents from Abbottabad or 
+new caches of materials from other locations is forthcoming, this would inevitably 
+necessitate additional analysis and reflecti on. Thus, the report that accompanies the 
+documents must be understood as an effort  to help reassess what we know about the 
+group, but not as a definitive commentary on al-Qa`ida’s evolution or the group’s 
+current status, and we should be extremely cautious of the notion that al-Qa`ida has 
+
+been defeated. Rather, the problems presented by jihadism and violent extremism more 
+broadly will continue to shift and mutate.  
+ 
+Second, as with all Harmony projects, analysis based on captured documents alone is 
+fraught with risk. While they may offer unique insights, these are most valuable when 
+contextualized with information drawn from other sources. It is our sincere hope that 
+the initial commentary and the release of these documents will not be the last word on 
+the subject but simply the opening foray into a much larger academic debate and 
+discussion which will further our understanding of al-Qa`ida and terrorism more 
+broadly. 
+ 
+The decision to release these documents to the CTC is an affirmation of the values of 
+West Point and the Center’s mission. It is my expectation that as long as the Center 
+continues to focus on its core competencies — embracing the unique responsibility to 
+prepare cadets to think critically about the challenges they will face during war and 
+peace; producing academically rigorous and theoretically sound research; and 
+leveraging its deep expertise to further the public’s understanding of terrorism — it will 
+continue as an enduring national resource for the study of terrorism.  
+ 
+ 
+
+
+ 
+Acknowledgements 
+ 
+While this report was authored by a small team of researchers at the CTC, we are 
+conscious of the enormous debt of gratitude we owe to the "army" of supporters and 
+institutions that helped make this project possible. We are indebted to Dr. Thomas 
+Hegghammer who provided a masterful review and detailed critique of the draft in 
+light of the documents. We are also grateful to colleagues and friends who provided 
+internal reviews of the report: Lieutenant Colonel Jon Brickey, Brian Dodwell, Colonel 
+Cindy Jebb, Colonel Mike Meese, Dr. Arie Perliger, Dr. Roland Rich, Major Todd 
+Schultz and Rachel Yon. We are particularly thankful to Erich Marquardt who was 
+peerless in his meticulous editing and proofing of the report. 
+ 
+Though self-evident, it is important to ac knowledge that this project would not have 
+been possible without the support of some la rger institutional friends of the CTC. We 
+are thankful to the office of the Director of  National Intelligence for entrusting us with 
+the analysis and release of these documents to the public for the first time. Thanks also 
+to U.S. Special Operations Command (USSOCOM); to our colleagues who manage the 
+HARMONY project; and to our friends at the Norwegian Defense Research Institute 
+(FFI) for their support of the CTC and contributions to the study of terrorism. 
+
+1 
+ 
+ 
+Executive Summary 
+ 
+This report is a study of 17 declassified documents captured during the Abbottabad 
+raid and released to the Combating Terrorism Center (CTC). They consist of electronic 
+letters or draft letters, totaling 175 pages in the original Arabic and 197 pages in the 
+English translation. The earliest is dated September 2006 and the latest April 2011. Some 
+of the letters are incomplete and/or are missing their dates, and not all of the letters 
+explicitly attribute their author(s) and/or indicate the addressee. In addition to Bin 
+Ladin, the recognizable individuals who appear  in the letters either as authors or as 
+recipients are `Atiyyatullah and Abu Yahya al-L ibi, both of whom are al-Qa`ida leaders; 
+Adam Yahya Gadahn, the American al-Qa`ida spokesman and media advisor; Mukhtar 
+Abu al-Zubayr, the leader of the Somali militant group Harakat al-Shabab al-Mujahidin; 
+Abu Basir (Nasir al-Wuhayshi), the leader of the Yemen-based al-Qa`ida in the Arabian 
+Peninsula (AQAP); and Hakimullah Mahsud, the leader of Tehrik-e-Taliban Pakistan 
+(TTP). Given the small collection of documents released to the CTC, it is impossible to 
+construct a coherent evolution of al-Qa`ida or its current state. “Letters from 
+Abbottabad” is an initial exploration and contextualization of 17 documents that will be 
+the grist for future academic debate and discussion. 
+ 
+In contrast to Bin Ladin’s public statements that focused on the injustice of those he 
+believed to be the “enemies” ( a`da’) of Muslims, namely corrupt “apostate” Muslim 
+rulers and their Western “overseers,” the focus of his private letters is Muslims’ 
+suffering at the hands of his jihadi “brothers” ( ikhwa). He was at pains advising them to 
+abort domestic attacks that cause Muslim civilian casualties and instead focus on the 
+United States, “our desired goal.” Bin Ladi n’s frustration with regional jihadi groups 
+and his seeming inability to exercise control over their actions and public statements is 
+the most compelling story to be told on the basis of the 17 declassified documents. The 
+main points from each of the report’s four sections are briefly summarized below. 
+ 
+Al-Qa`ida and Regional Jihadi Groups 
+Al-Qa`ida 
+•  On the basis of these documents, the relationship between what has been labeled 
+“al-Qa`ida Central” (AQC) under the leadership of Bin Ladin is not in sync on 
+the operational level with its so-calle d “affiliates.” Bin Ladin enjoyed little 
+control over either groups affiliated with al-Qa`ida in name (e.g., AQAP or 
+AQI/ISI) or so-called “fellow travelers” such as the TTP. 
+•  The documents show that al-Qa`ida’s relati onship with its so-called “affiliates” is 
+a contested one among the senior leaders, and three different positions exist 
+
+2 
+ 
+within al-Qa`ida on this subject. Some urge senior leaders to declare their 
+distance, and even to dissociate themselves, from groups whose leaders do not 
+consult with al-Qa`ida but act in its name. Others urge the opposite, believing 
+that the inclusion of regional jihadi groups in the fold contributes to al-Qa`ida’s 
+growth and expansion. Bin Ladin represented a third position; he wanted to 
+maintain communication, through his own pen or that of others in his circle, 
+with “brothers” everywhere, to urge restraint and provide advice even if it fell 
+on deaf ears, without granting them formal unity with al-Qa`ida. 
+ 
+The Affiliates  
+Rather than a source of strength, Bin Ladin was burdened by what he viewed as the 
+incompetence of the “affiliates,” including thei r lack of political acumen to win public 
+support, their media campaigns and their poor ly planned operations which resulted in 
+the unnecessary deaths of thousands of Muslims.  
+•  Islamic State of Iraq/Al-Qa`ida in Iraq (ISI/AQI) : The documents conclusively 
+demonstrate that the failures of ISI/AQI weighed heavily on Bin Ladin, as he 
+urged other groups not to repeat their mistakes. Adam Gadahn advised that al-
+Qa`ida should publicly dissociate itself from ISI/AQI. 
+•  Al-Qa`ida in the Arabian Peninsula (AQAP) : While routinely described as “the 
+most dangerous” al-Qa`ida affiliate, as of 2010-2011 Bin Ladin seemed to have 
+spent more time worrying about this group than appreciating its contributions. 
+In a strongly worded letter, the leader of AQAP, Nasir al-Wuhayshi, was directly 
+warned against pursuing any expansionist plan, such as declaring an Islamic 
+state in Yemen, and was urged to refocus his efforts on attacking the United 
+States, not the Yemeni government or security forces. 
+•  Tehrik-e-Taliban Pakistan (TTP) :  The TTP seems to have come incredibly close to 
+provoking a direct and public confrontation with al-Qa`ida’s leadership. Its 
+indiscriminate attacks against Muslims caused `Atiyyatullah and Abu Yahya al-
+Libi to write to TTP leader Hakimullah Mahsud to express their displeasure with 
+the group’s “ideology, methods and behavi or.” They also threatened to take 
+public measures “unless we see from you serious and immediate practical and 
+clear steps towards reforming [your ways] and dissociating yourself from these 
+vile mistakes [that violate Islamic Law].” 
+•  Al-Shabab: Bin Ladin appeared to have seen little practical value in formally 
+recognizing the group’s pledge of loyalty ( bay`a). His motivations for 
+withholding this recognition were largely pragmatic and reflected his concern 
+over their poor governance and inflexible administration of hudud (deterrent 
+penalties for certain crimes). He also wanted them to focus on “construction and 
+
+3 
+ 
+development” and feared that a formal merger with al-Qa`ida would prevent 
+investment and foreign aid in Somalia. 
+•  Al-Qa`ida in the Islamic Maghreb (AQIM), the Taliban and Jaysh al-Islam : While there 
+is mention of these groups in the documents released to the CTC, these 
+discussions are not substantive enough to inform an understanding of the 
+relationship between al-Qa`ida’s senior leaders and these groups.   
+ 
+Al-Qa`ida Ties to Iran and Pakistan? 
+While not extensive, the discussions of Iran and Pakistan in the documents suggest that 
+al-Qa`ida’s relations with both countries were fraught with difficulties.   
+•  References to Iran show that the relationship is not one of alliance, but of indirect 
+and unpleasant negotiations over the release of detained jihadis and their 
+families, including members of Bin Ladin ’s family. The detention of prominent 
+al-Qa`ida members seems to have sparked a campaign of threats, taking hostages 
+and indirect negotiations between al-Qa`ida and Iran that have been drawn out 
+for years and may still be ongoing. 
+•  The discussion of Pakistan is scarce and inconclusive. Although references are 
+made about “trusted Pakistani brothers,” there are no explicit references to any 
+institutional Pakistani support for al-Qa`ida or its operatives. 
+ 
+Bin Ladin’s Plans 
+One of the 17 documents is a letter dated A pril 2011 authored by Bin Ladin in response 
+to the “Arab Spring,” which he considered to be a “formidable event” ( hadath ha’il) in 
+the modern history of Muslims. This letter re flected his intended strategy of responding 
+to the new political landscape that was emerging in the Middle East and North Africa. 
+•  In the Arab world, Bin Ladin wanted al -Qa`ida to focus its efforts on media 
+outreach and “guidance.” He believed that a media campaign should be 
+launched to incite “people who have not yet revolted and exhort them to rebel 
+against the rulers” ( khuruj ‘ala al-hukkam ) .  B u t  h e  a l s o  w a n t e d  t o  i n v e s t  i n  
+guidance, “educating and warning Muslim people from those [who might tempt 
+them to settle for] half solutions,” such as engaging in the secular political 
+process by forming political parties. 
+•  In Afghanistan, Bin Ladin wanted jihadis to continue their fight against the 
+United States. He believed that their efforts weakened the United States, enabling 
+Muslims elsewhere to revolt against their rulers, no longer fearing that the 
+United States would be in a powerful position to support these rulers. 
+•  It is possible that Ayman al-Zawahiri is the author of one or more of the 
+anonymous letters (see Appendix). Base d on the 17 documents, `Atiyya was 
+closest to Bin Ladin. 
+
+4 
+ 
+Introduction 
+ 
+“I plan to release a statement [announcing] that we are starting a new phase to correct 
+[the mistakes] we made; in doing so, we sha ll reclaim, God willing, the trust of a large 
+segment of those who lost their trust in the jihadis,”
+1 wrote Usama bin Ladin in 2010. In 
+contrast to his public statements that focused on the injustice of those he believed to be 
+the “enemies” ( a`da’) of Muslims, namely corrupt “apostate” Muslim rulers and their 
+Western “overseers,” the focus of Bin Ladin’s private letters was Muslims’ suffering at 
+the hands of his jihadi “brothers” ( ikhwa). He was at pains advising them to abort 
+domestic attacks that caused Muslim civilian casualties and, instead, focus on the 
+United States, “our desired goal.” Bin Ladi n’s frustration with regional jihadi groups 
+and his seeming inability to exercise control over their actions and public statements is 
+the most compelling story to be told on the basis of the 17 declassified documents 
+captured during the Abbottabad raid in May 2011.  
+ 
+This report is a study of these 17 document s, but it is by no means an exhaustive 
+analysis of the information revealed in them. It consists of four sections. The first section 
+describes the documents’ format, the typi cal journey captured battlefield documents 
+undergo before declassification, and the limitations imposed on assessing the state of al-
+Qa`ida today in light of these 17 documents alone. The second section argues that on 
+the basis of these documents, the relationship between what has been dubbed “al-
+Qa`ida Central” (AQC) under the leadership of Bin Ladin is not in sync on the 
+operational level with its so-called “affiliates.” The third section discusses al-Qa`ida’s 
+relationship with Iran and Pakistan. With respect to Iran, the documents show that it is 
+an antagonistic relationship, largely based on  indirect and unpleasant negotiations over 
+the release of detained jihadis and their families, including members of Bin Ladin’s 
+family. Relations with the Pakistani government are not discussed; the documents do 
+not explicitly point to any institutional Pakistani support for Bin Ladin. The fourth 
+section covers miscellaneous subjects raised in the documents that point to what the 
+future might hold for al-Qa`ida, including Bin Ladin’s response to the “Arab Spring” 
+and how he planned to convert jihadi activities into missionary activities in the Middle 
+East and North Africa, but not in Afghanista n, as well as the conspicuous distance of 
+                                                           
+1 SOCOM-2012-0000019, 15. The pages of the documents received by the CTC are not all numbered in the 
+original Arabic version. The English translation numbers the pages to correspond to the content of each 
+page of the Arabic version. As a result, most Arabic pages take more than a single page when translated 
+(except when the Arabic font is very large as with SOCOM-2012-0000016), so the reader will find that the 
+page number of the Arabic version is included on a separate line in the text of the English translation. To 
+avoid confusion, this report refers to the page number in the Arabic version so that the reader can easily 
+find it in the English translation. 
+
+5 
+ 
+Ayman al-Zawahiri from Bin Ladin in the documents released to the Combating 
+Terrorism Center (CTC) at West Point.  
+ 
+I- From Abbottabad to the CTC: The 17 Declassified Documents 
+It was reported that “thousands of item s” were captured from Usama bin Ladin’s 
+compound during the Abbottabad raid.
+2 To date, however, only 17 documents have 
+been declassified and provided to the CTC, all of which are hereby released with the 
+publication of this report.
+3 They consist of electronic letters or draft letters, totaling 175 
+pages in the original Arabic and 197 pages in  the English translation. They were written 
+over several years. The earliest is dated September 2006 and the latest April 2011, a 
+week before Bin Ladin’s death. Some of the letters are incomplete and/or are missing 
+their dates, and not all the letters explicitly attribute the author(s) and/or indicate the 
+addressee. Given that they are all electr onic documents presumably saved on thumb 
+drives, memory cards or the hard drive of hi s computer, except for the letters addressed 
+to Bin Ladin it cannot be ascertained that letters explicitly authored by him reached 
+their intended destinations. 
+ 
+In addition to Bin Ladin,
+4 the recognizable individuals who appear in the letters either 
+as authors or as recipients of letters are Mahmud/`Atiyya 5 and Abu Yahya al-Libi, 6 both 
+                                                           
+2 David Ignatius, “A Lion in Winter,” Washington Post, 18 March 2012. 
+3 The quality of the English translation provided to the CTC is not adequate throughout. When the 
+translation was deemed inadequate, quotations cited in this report have either been amended or 
+translated anew by Nelly Lahoud. Furthermore, the conversion of the dating of the letters from the Hijri 
+to the Gregorian calendar is inaccurate in some places. The Appendix provides corrected dates to some of 
+the letters, along with some pointers on how some letters relate to others. 
+4 Usama bin Muhammad bin `Awad bin Ladin was born on 10 March 1957, in Riyadh, Saudi Arabia. He 
+is the founder of Tandhim al-Qa`ida (al-Qa`ida Organization), which carried out the attacks on the World 
+Trade Center and the Pentagon on 11 September 2001. The literature on Bin Ladin is extensive. For an 
+informative account of his early life, see Jonathan Randal, Osama: The Making of a Terrorist (New York: 
+Vintage, 2005). On 2 May 2011, President Barack Obama announced that Usama bin Ladin was killed in 
+his compound in Abbottabad, Pakistan. For details, see “Remarks by the President on Osama Bin Laden,” 
+Office of the Press Secretary, 2 May 2011. 
+5 He is also known by the alias Abu `Abd al-Rahman and `Atiyyatullah, and is one of the leading public 
+faces of al-Qa`ida. His real name is Jamal Ibrahim Ishtiwi al-Misrati. He was born in 1970 in Misrata, 
+Libya. `Atiyya pursued Islamic religious studies in Mauritania, then joined jihad in Algeria. He went to 
+Afghanistan in the late 1990s and was killed in a drone strike in Pakistan on 22 August 2011. For details, 
+see the biography Ayman al-Zawahiri provided in his eulogy for `Atiyya: “Risalat al-amal wa al-bishr li 
+ahlina fi Misr,” 8th episode, http://www.aljahad.com/vb/showthread.php?t=14008 (accessed 25 April 
+2012). 
+6 Hasan Qa’id/Abu Yahya al-Libi is an al-Qa`ida leader and ideologue, as well as a former member of the 
+Libyan Islamic Fighting Group. Al-Libi is believed to have traveled to Afghanistan in the early 1990s, 
+then to Mauritania to study Islamic religious sciences before returning to Afghanistan. He was captured a 
+
+6 
+ 
+of whom are al-Qa`ida leaders; Adam Yahya Gadahn, the American al-Qa`ida 
+spokesman and media advisor; 7 Mukhtar Abu al-Zubayr, 8 the leader of the Somali 
+militant group Harakat al-Shabab al-Mujahidin — whose 2009 pledge of allegiance to 
+al-Qa`ida was recognized by Ayman al-Zawahiri in February 2012;
+9 Abu Basir (Nasir al-
+Wuhayshi), the leader of the Yemen-based al-Qa`ida in the Arabian Peninsula 
+(AQAP);10 and Hakimullah Mahsud, the leader of Tehrik-e-Taliban Pakistan (TTP).11 
+ 
+Before delving into an analysis of the docume nts, it is critical to address the academic 
+limitations of studying declassified captur ed battlefield documents. Such a study is 
+fraught with risks, not least because the academic community is not involved in the 
+process of declassification and is therefore unaware of the larger classified corpus of 
+documents. The academic community’s access to captured battlefield documents is at 
+the end of a journey that often starts with Special Operations Forces (SOF)
+12 capturing 
+                                                                                                                                                                                             
+year after 9/11 by Pakistani authorities and handed to U.S. authorities. He was sent to Bagram prison 
+from where he and several other high-profile captives escaped on the night of 10 July 2005. For details, 
+see Michael Moss and Souad Mekhennet, “Rising Leader for Next Phase of Al Qaeda’s War,” New York 
+Times, 4 April 2008. 
+7 Adam Gadahn was born on 1 September 1978, in California. Gadahn converted to Islam in 1995 and 
+subsequently traveled to Pakistan to study. Gadahn made his first public appearance as an al-Qa`ida 
+member in a videotape in 2004 under the kunya `Azzam al-Amriki. For details, see John M. Broder, 
+“American Being Sought by the FBI Found his Place in Islam, Relatives Say,” New York Times, 28 May 
+2004. 
+8 His name is Ahmed Abdi Godane. For details, see “Who are Somalia’s Shabaab?” BBC, 23 February 
+2012.  
+9 Nelly Lahoud, “The Merger of Al-Shabab and Qa`idat al-Jihad,” CTC Sentinel 5, no. 2 (2012). 
+10 Nasir `Abd al-Karim al-Wuhayshi is a Yemeni citizen and the leader of al-Qa`ida in the Arabian 
+Peninsula. Al-Wuhayshi served as a private secretary to Usama bin Ladin for years in Afghanistan but 
+left in 2001 and was soon arrested by Iranian authorities. Two years later, they transferred him to Yemen 
+where he was imprisoned without charges. In February 2006, Nasir al-Wuhayshi was one of 23 Yemeni 
+captives who escaped from custody from a maximum security prison in Sana`a and was acknowledged as 
+the group’s leader shortly thereafter. For details, see Gabriel Koehler-Derrick, ed., “A False Foundation? 
+AQAP, Tribes, and Ungoverned Spaces in Yemen,” Combating Terrorism Center at West Point (2011), 35, fn 
+82, 36.  
+11 Zulfiqar Mahsud was born in 1981. He was elevated to the position of amir (leader) of Tehrik-e-Taliban 
+Pakistan (TTP) after its previous leader, Baitullah Mahsud, was killed in a drone strike in August 2009. 
+See “Profile: Hakimullah Mahsud,” BBC, 3 May 2010.  
+12 SOF is often confused with Special Forces (SF). The term Special Forces or SF applies to only a small 
+subset of Special Operations Forces which consist of U.S. Army Green Berets. Special Operations Forces 
+consist of forces from all four services including (1) Special Forces (SF), Ranger, Army Special Operations 
+aviation, Special Operations MISO, and Special Operations Civil Affairs units from the Army; (2) SEAL, 
+SEAL delivery vehicle, and special boat teams from the Navy; (3) Special Operations flying units 
+(includes unmanned aircraft systems), special tactics elements (includes combat control, pararescue, 
+weather, and select tactical air control party units), and aviation FID units from the U.S. Air Force; and (4) 
+
+7 
+ 
+them. The captured data is then passed to the intelligence community for (further) 
+exploitation before it is declassified, in part or in its entirety, and released to the public 
+or to an academic center such as the CTC to contextualize before its public release.  
+ 
+What then is the path that characterizes the journey of declassified captured battlefield 
+documents?  
+Underlying the mystique that Navy SEALs and other SOF hold in the public’s common 
+perception is their superior ability to conduct “direct action” (DA) raids like the one 
+carried out in Abbottabad to capture or kill Us ama bin Ladin. In reality, direct action is 
+only one of eleven core activities or tasks conducted by SOF.
+ 13  Since 9/11, one of their 
+major core activities has been counterterrorism operations, which include conducting 
+sensitive site exploitation (SSE). An SSE is similar to gathering evidence during a 
+domestic criminal investigation, although the period allowed for military forces to 
+gather information is much shorter, consisting  of minutes as opposed to hours, days or 
+weeks. Much like a criminal investigation where the information is used to build a case 
+against a suspect, the information gathered from a military target is analyzed for 
+tactical, operational and strategic purposes. For example, the information may provide 
+details on an impending attack, or specific s about the larger network that provides new 
+leads or insight into the individual’s or the organization’s strategic plans.  
+ 
+The military in general and SOF in particular have always recognized the importance of 
+capturing information about the enemy on the battlefield. Indeed, starting from the first 
+operations in Afghanistan in October 2001, SOF built an SSE into every operation it 
+carried out, seizing countless computers, phones, photographs, paper documents and 
+other electronic media. When the SEALs conducted Operation Neptune Spear on 2 May 
+2011,
+14 capturing or killing Bin Ladin was only  one of their objectives; another main 
+objective was the SSE of the compound to gather everything that could be exploited 
+from an intelligence perspective.  
+ 
+The SSE often yields unique and valuable information. Sometimes the information can 
+be exploited immediately, but often it will ta ke additional time and capabilities in order 
+                                                                                                                                                                                             
+Marine Special Operations battalions. See Joint Publication 3-05, Special Operations, 18 April 2011, II-1, II-
+2. 
+13 SOF Core Activities or Tasks include the following: direct action (DA), special reconnaissance (SR), 
+counter-proliferation of weapons of mass destruction (CP of WMD), counterterrorism (CT), 
+unconventional warfare (UW), foreign internal defense (FID), security force assistance (SFA), 
+counterinsurgency (COIN), information operations (IO), military information support operations (MISO), 
+civil affairs operations (CAO). See Joint Publication 3-05, Special Operations, May 5, 2011, II-5, II-19. 
+14 It should be noted that the Abbottabad raid fell on May 1 in the United States and May 2 in Pakistan. 
+
+8 
+ 
+for it to be properly exploited. The collected data is then shared with the broader 
+intelligence community for further analysis. Typically, the government agency that 
+acquires the data effectively “owns” it and determines its classification, as well as 
+controls its distribution and declassification . The standard procedure is to classify the 
+data in the immediate phase following the SOF operation. From the intelligence 
+community’s perspective, many reasons just ify immediate classification, including the 
+possibility that its public release could cause other elements of the terrorist network to 
+move or go into hiding, making it harder to  locate and capture them. In the case of the 
+Abbottabad raid, it is possible that declassification of additional documents or items is 
+forthcoming. It is also possible that the remaining items are of no value to the public 
+(e.g., books, movies, or grocery lists), and the intelligence agency that owns them made 
+the decision that declassifying such items did not warrant the cost involved, or the time 
+and energy of its staff.  
+ 
+It is only after the intelligence community has exhausted the data for tactical and 
+strategic purposes that it is declassified. Therefore, when an academic center, such as 
+the CTC, is provided declassified documents to study and analyze before releasing 
+them to the public, its researchers have no part in the selection of documents to be 
+declassified and are privy only to declassified documents. Like with any research 
+project, a researcher does not always have at their disposal all the materials to study a 
+given topic and must therefore extrapolate that which is unknown from that which is 
+known. In some cases, such extrapolations may le ad to firm conclusions. In other cases, 
+however, conclusions reached on the basis of extrapolations — even when these are 
+based on well-founded research — may need  revision when previously unavailable 
+materials are declassified. When scholars pursue a research topic that involves materials 
+subject to classification by the government, they face what one may term the 
+“(de)classification challenge.” They have no choice but to wait for materials to be 
+declassified, however frustrating the waiting period may be. The process of 
+declassifying materials could occur all at once or in different stages; if it is the latter, it is 
+even harder to reach firm or even plausible conclusions.  
+ 
+Whereas in the eyes of the SOF commun ity the Abbottabad raid was successfully 
+completed, the academic community studying al-Qa`ida has much work ahead before 
+an authoritative study of al-Qa`ida can be expected. If the mission of the SEALs met all 
+of its objectives – find, fix, finish, exploit, and analyze (F3EA)
+15 – the academic 
+community is still in the find stage of the necessary documents to accomplish its task. 
+                                                           
+15 Michael T. Flynn, Rich Juergens and Thomas L. Cantrell, “Employing ISR: SOF Best Practices,” Joint 
+Forces Quarterly, no. 50 (2008), 56-61. F3EA describes the processes of finding a particular individual; fixing 
+
+9 
+ 
+ 
+From an academic perspective, in view of the thin volume of the documents and their 
+spread over a period of six years, there is little hope of writing a coherent study of the 
+evolution of al-Qa`ida since 2006 based exclusively on these letters. As it stands, 
+analyzing the state of al-Qa`ida on the basis of the documents is like commenting on the 
+tailoring of a jacket when only a sleeve is available. Although a sleeve cannot substitute 
+for the remaining parts of the jacket, it can still offer important features about the 
+overall jacket: it can indicate its color, its te xtile design, and most likely the quality of its 
+stitches and lining.  
+ 
+II-  Al-Qa`ida and Regional Jihadi Groups 
+To appreciate the new insights gained from the documents, it is helpful to place them in 
+the context of what is previously known about al-Qa`ida as an organization through the 
+lens of publicly available documents meant to be internal to the organization.
+16 The 
+founders of al-Qa`ida envisaged their organizat ion as an international entity, serving as 
+a “wellspring for expertise in military training and [the art of] fighting.” 17 Al-Qa`ida’s 
+“by-laws” are explicit that this “wellspring of expertise” would also serve to enable 
+other jihadi groups around the world, stating that “our relationship with sincere jihadi 
+groups and movements is premised on cooperation [to advance] righteousness and 
+piety.”
+18 In this collaborative spirit, when al-Qa`ida was operating in the open in the late 
+1980s and throughout the 1990s, it made its guesthouses ( madafat) and its training 
+camps in Pakistan and Afghanistan availabl e to anyone who sought military training 
+(i`dad) before engaging in fighting ( jihad) either in Afghanistan or other locations. This, 
+however, did not mean that those who received training in al-Qa`ida’s camps 
+                                                                                                                                                                                             
+the precise location of the enemy target; finishing the target by either capturing or killing it; exploiting data 
+or information on target or at a later date; and finally analyze the data, in combination with existing 
+intelligence to identify new lines of operation and new starting points to continue the cycle. 
+16 Following the U.S.-led invasion of Afghanistan in 2001, materials were captured on the battlefield and 
+have since been stored in the Department of Defense’s Harmony database. While they are illuminating, 
+analyzing them is fraught with certain risks since it is difficult to assess how representative they are of the 
+larger corpus of materials that exist. 
+17 AFGP-2002-000078, page one of the Arabic document, but the document starts on page nine. 
+18 AFGP-2002-600048, 4-5. Translation amended. It is worth noting that the by-laws state different types of 
+relationships that al-Qa`ida can or cannot have: “our  relationship with Islamic non-jihadi groups is 
+premised upon love, friendship and advice; we ackn owledge their good deeds but, if need be, make 
+evident to them what we believe to be their shortcom ings.” Also see: “our position with respect to the 
+idols, secular and national parties and their ilk is to dissociate from them and to declare our ongoing 
+enmity against their unbelief until they believe in nothing but God. We shall not [compromise] with them 
+on the basis of half-solutions, or [agree] to a dialog ue with them or even flatter them [to further our 
+agenda].” 
+
+10 
+ 
+automatically became members of the group; 19 by the same token, when al-Qa`ida 
+assisted other jihadi groups it did not make its collaboration conditional on the group 
+joining al-Qa`ida. In practical terms, the collaboration meant that al-Qa`ida and another 
+jihadi group could come to a mutual agreement to carry out a joint operation or another 
+militant activity together, yet the same jihadi group maintained its own autonomy, 
+including its ideology (fikr) and activities.
+20 The relationship between Indonesia’s Jema`a 
+Islamiyya (JI) and al-Qa`ida typifies this dynamic. In the words of a JI member who 
+personally liaised with al-Qa`ida, the dynamic is like that of “a business affiliate, we can 
+ask them (i.e., al-Qa`ida) for an opinion but they have no authority over us. We are free. 
+We have our own funds, our own men. We ar e independent, like Australia and the U.S. 
+But when it comes to an operation we can join together.”
+21 
+ 
+Despite its collaboration with various jihadi groups around the world, al-Qa`ida did not 
+seek to formalize these relationships in to a unified command under its umbrella. 
+Indeed, members of al-Qa`ida see themselves as part of a distinct entity that is separate 
+from and even superior to other jihadi groups.
+22 It was only when al-Qa`ida lost its 
+sanctuary following the U.S.-led invasion of Afghanistan in 2001 that a trend of regional 
+jihadi groups pledging allegiance to al-Qa`ida or acting in its name emerged. 
+Paradoxically, this may have been due to the fame that the 9/11 attacks generated in the 
+jihadi world and at the same time al-Qa`ida’s inability to be in control of its 
+organization after it lost its sanctuary. More precisely, it was in 2003 that the branding 
+al-Qa`ida took off when Saudi militants adopted the name “al-Qa`ida on the Arabian 
+Peninsula” (QAP).
+23 In 2004, Abu Mus`ab al-Zarqawi’s Jama`at al-Tawhid wa-al-Jihad 
+group pledged allegiance to al-Qa`ida, an d Usama bin Ladin publicly acknowledged 
+the group as “al-Qa`ida in Mesopotamia,” or  al-Qa`ida in Iraq (AQI). Al-Zarqawi’s 
+group was the only regional group that Bin Ladin formally admitted into al-Qa`ida; 
+others were later announced publicly by Ayman al-Zawahiri.
+24 
+                                                           
+19 Fadil Harun, al-Harb ‘ala al-Islam: Qissat Fadil Harun  1, 71. On the dynamics of collaboration but not 
+union between al-Qa`ida and other jihadi groups, see Lahoud’s forthcoming report that examines 
+Harun’s autobiography. 
+20 Fadil Harun, al-Harb ‘ala al-Islam 2, 426. 
+21 Quinton Temby, “Informal Networks – Unraveling Al-Qaeda’s Southeast Asia Alliances,” IHS 
+Defense, Security and Risk Consulting, March 2012. Nelly Lahoud is grateful to Quinton Temby for 
+making his research available to her prior to its publication. 
+22 Fadil Harun, al-Harb ‘ala al-Islam 1, 9. 
+23 Thomas Hegghammer, Jihad in Saudi Arabia: Violence and Pan-Islamism since 1979 (Cambridge: 
+Cambridge University Press, 2010), 37. 
+24 In 2012, Ayman al-Zawahiri announced al-Qa`ida’s merger with al-Shabab. See Ayman al-Zawahiri, 
+“Bushra Sarra” (Glad Tidings), http://as-ansar.com/vb/showthread.php?t=55735 (accessed 26 April 2012). 
+In November 2007, al-Zawahiri and Abu al-Layth al-Libi announced al-Qa`ida’s merger with the Libyan 
+
+11 
+ 
+ 
+The proliferation of regional jihadi groups affiliating themselves with al-Qa`ida and the 
+continued existence of core al-Qa`ida leaders believed to be based in Pakistan and/or 
+Afghanistan led to the perception that al-Qa`ida was expanding. It was assumed that al-
+Qa`ida was able to rebuild across Pakistan’s northwest frontier following the losses it 
+suffered in the immediate aftermath of the U.S.-led military campaign in Afghanistan in 
+2001. Rejuvenated, al-Qa`ida is believed to have been able to “act as an organization,”
+25 
+and the intelligence community labeled this revived entity “al-Qa`ida Central” (AQC) – 
+both in reference to the geographical presence of the core senior leaders who were said 
+to report to Bin Ladin to seek his approval for major decisions,
+26 and also to indicate 
+that there is at least a symbiotic relati onship between “AQC” and regional jihadi 
+groups, dubbed as AQC’s “affiliates.” According to this argument, AQC  “gives 
+strategic guidance to its regional affiliates”  and it is assumed that the affiliates act 
+largely in compliance with AQC’s directives.27  
+ 
+The Construction of an “Al-Qa`ida Central” 
+The documents reveal a different story about the relationship between AQC and the 
+affiliates, and about Bin Ladin’s role in global jihadi activities. The documents show that 
+this relationship is a contested one among se nior leaders, and three different positions 
+exist within al-Qa`ida on this subject. Adam Gadahn’s letter to an unknown “shaykh” 
+represented those who want to remain faithful to the principles for which they believe 
+al-Qa`ida stands, and urged senior leaders to declare their distance or dissociate 
+themselves from groups whose leaders do not consult with al-Qa`ida yet have the 
+chutzpa to act in its name. Others, represented by an anonymous letter, urge the 
+opposite, believing that the inclusion of region al jihadi groups in the fold contributes to 
+al-Qa`ida’s growth and expansion. Bin Ladin represented a third position, as he wanted 
+to maintain communication, through his own pen or that of his inner circle, with 
+                                                                                                                                                                                             
+Islamic Fighting Group. See “Wahdat al-Saff,” http://www.paldf.net/forum/showthread.php?t=185737 
+(accessed 26 April 2012). In May 2006, al-Zawahiri and Muhammad Khalil al-Hakaymah announced al-
+Qa`ida’s merger with the Egyptian Islamic Group, “Communiqué from Those Adhering to the Covenant 
+in the Egyptian Islamic Group,” http://al-qimmah.net/showthread.php?t=6224&langid=2 (accessed 26 
+April 2012). In September 2006, al-Zawahiri announced al-Qa`ida’s merger with the Salafist Group for 
+Preaching and Combat (GSPC). See “Qadaya Sakhinah ma’ al-Sheikh Ayman al-Zawahiri,” 
+http://www.tawhed.ws/r?i=efaperre (accessed 26 April 2012). 
+25 Craig Whitlock, ‘The New al-Qaeda Central,” Washington Post, 9 September 2007. Whitlock based his 
+argument on interviews he had with senior U.S. intelligence officials. 
+26 Ibid. 
+27 Eric Schmitt, “Jet Plot Shows Growing Ability of Qaeda Affiliates,” New York Times, 31 December 2009. 
+Schmitt based his article on interviews with U.S. counterterrorism officials. 
+
+12 
+ 
+“brothers” everywhere, to urge restraint and provide advice, without granting them 
+formal unity with al-Qa`ida. 
+ 
+The documents show that some of the affiliate s sought Bin Ladin’s blessing on symbolic 
+matters, such as declaring an Islamic state, and wanted a formal union to acquire the al-
+Qa`ida brand. On the operational front, ho wever, the affiliates either did not consult 
+with Bin Ladin or were not prepared to follow his directives. Therefore, the framing of 
+an “AQC” as an organization in control of regional “affiliates” reflects a conceptual 
+construction by outsiders rather than the messy reality of insiders. Judging by the 
+letters, a relationship, at least via correspondence, clearly existed between Bin Ladin 
+and regional jihadi leaders. But it is in the second half of 2010,
+28 in a long and detailed 
+letter addressed to `Atiyya, that Bin Ladin, alarmed by the “increased mistakes” 
+committed by the “brothers” who are spread over “many regions,” 29 s o u g h t  t o  b r i n g  
+regional jihadi groups in line with al-Qa`ida’s  vision and code of conduct. The reader 
+should note that when Bin Ladin used terms such as “brothers” ( al-ikhwa) or “we,” he 
+was not always referring to members of al-Qa`ida. Except for the “apostates” 
+(murtaddun), by which he meant Muslims who act as the West’s agents ( wukala’) against 
+the interests of the umma (global community of Muslims),
+30 all Muslims were 
+considered to be “we” in his eyes. 31 In the same spirit of unity, all jihadis were 
+“brothers” in Bin Ladin’s parlance — including those whose actions he chastised (e.g., 
+TTP, AQAP),32 and those whose request for formal un ity with al-Qa`ida he denied (e.g., 
+al-Shabab).33  
+ 
+                                                           
+28 SOCOM-2012-0000019. The content of the letter makes it evident that it is authored by Bin Ladin. The 
+letter, however, is not dated, but the author referred to a statement released by Sa`id al-Shihri concerning 
+the arrest of Hayla al-Qasir in Saudi Arabia, who was accused of collecting money for the jihadis. The 
+author also referred to the following report by the satellite channel al-‘Arabiyya, which is dated 4 July 
+2010: “‘Nisa’ al-Qa`ida,” al-‘Arabiyya, http://www.alarabiya.net/articles/2010/06/04/110439.html (accessed 
+26 April 2012). Therefore, the letter must have been composed after 4 July 2010 but before 21 October 2010 
+because parts of SOCOM-2012-0000015 (which is dated 21 October 2010) follow up on issues raised in 
+SOCOM-2012-0000019. 
+29 SOCOM-2012-0000019, 3.  
+30 See SOCOM-2012-0000016, 16, for an explanation of the connotation associated with the term “agents.” 
+31 In Islam, the spirit of unity among Muslims is an important tenet of the faith. That is why it is common 
+for Muslims to highlight that believers are brothers in religion (cf. Q. 49:10). Thus, Bin Ladin’s use of 
+“brothers” is in reference to being brothers in religion, but not necessarily “brothers”/members in the 
+same organization. 
+32 See section below on the “Affiliates.” 
+33 SOCOM-2012-0000005, and discussion of al-Shabab below. 
+
+13 
+ 
+In 2010, Bin Ladin asked `Atiyya to prepare a memorandum of understanding 
+(mudhakkira) that would require regional jihadi groups to consult with AQC before they 
+act.34 It is ironic that Bin Ladin deemed it fitting to appropriate the expression “AQC” 
+from the media to clarify the plan he sought  to implement. “This expression [AQC],” he 
+wrote to `Atiyya, “is a technical term ( istilah) used in the media to distinguish between 
+al-Qa`ida in Afghanistan and Pakistan and al-Qa`ida in the rest of the regions ( aqalim). I 
+do not object to using it initially to clarify the objective [of the centralization 
+endeavor].”
+35  
+ 
+Far from being in control of the operational side of regional jihadi groups, the tone in 
+several letters authored by Bin Ladin makes it  clear that he was struggling to exercise 
+even a minimal influence over them. It is further evident that although he did not 
+consider publicly dissociating ( tabarru’ min ) himself and al-Qa`ida from the actions of 
+regional groups, as Adam Gadahn strongly urged the senior leadership to do,
+36 Bin 
+Ladin largely disapproved of their conduct. High on his list of concerns was their 
+flexible understanding of tatarrus, which resulted in the unnecessary deaths of Muslim 
+civilians.37 Tatarrus refers to special circumstances when it is permissible, from an 
+Islamic law of war perspective, for a military commander to attack enemy territory, 
+even if the attack may result in the deaths of non-combatants, including Muslim women 
+and children.
+38 In modern political parlance, it is comparable to civilians dying in war as 
+collateral damage. Bin Ladin was concerned th at regional jihadi groups had expanded 
+the meaning of a classical legal concept meant to be applied in rare circumstances and 
+turned it from an exception into the norm. As a result, the jihadis, he worried, have lost 
+considerable sympathy from the Muslim public; this loss was compounded when “the 
+mistakes of the jihadis were exploited by the enemy, [further] distorting the image of 
+the jihadis in the eyes of the umma’s general public and separating them from their 
+popular bases.”
+39 
+ 
+                                                           
+34 SOCOM-2012-0000019, 9. 
+35 Ibid., 17. Linguistically, the Arabic expression Bin Ladin uses for AQC is rather sloppy. He uses “al-
+Qa`ida fi al-markaz.” A more appropriate designation would be ‘Tanzim al-Qa`ida al-Markazi,” or 
+“Qiyadat al-Qa`ida al-Markaziyya.” 
+36 SOCOM-2012-0000004. 
+37 SOCOM-2012-0000019, 4. 
+38 See, for example, the discussion in Shaybani’s Siyar in Majid Khadduri, The Islamic Law of Nations: 
+Shaybani’s Siyar (Baltimore: The Johns Hopkins Press, 1966), 101-102. The term tatarrus is not used in this 
+classical text, but the context of the legal discussion is the same. 
+39 SOCOM-2012-0000019, 4. 
+
+14 
+ 
+In practical terms, Bin Ladin wanted the memorandum to include broad guidelines 
+concerning both the global military activities of the jihadis and their media releases. The 
+two, he believed, should go hand in hand, so that “we do not violate our words with 
+some of our practices.”
+40 The memorandum should then be sent to the regional 
+leaders,41 requesting their responses, 42 and ultimately demanding their “formal 
+commitment” ( iltizam).43 As for the military activities, the memorandum should 
+stipulate that every regional amir (leader) should take all necessary measures to 
+maintain control and discipline over the military activities of his group and avoid a 
+flexible approach to the question of tatarrus.
+44 In the event that mistakes involuntarily 
+occur and non-combatants die as a result, apologies and explanations should follow, 
+even if those fallen are sinners ( fussaq). Should the regional leaders fail to apologize, “it 
+would be necessary for us [presumably AQC] to take responsibility [for their errors] 
+and apologize for what happened.”
+45 
+ 
+As for media releases, Bin Ladin wanted the memorandum to include a commitment to 
+centralize all jihadi media releases. The importance of having a sophisticated and 
+coherent media strategy was critical for Bi n Ladin, believing it to be “a principal 
+element of the battle.”
+46 In a different letter, he (and possibly `Atiyya) stressed that 
+winning “the media occupies the greater portion of the battle today,” wittily adding 
+that “the satellite channels today are worse than the satiric poets ( shu`ara’ al-hija’) of the 
+pre-Islamic era.”
+47 The poetic genre of hija’ to which he is referring had a powerful 
+                                                           
+40 Ibid., 15. 
+41 Ibid., 9. 
+42 Ibid., 15. 
+43 Ibid., 14. 
+44 Ibid., 9. 
+45 Ibid., 10. 
+46 SOCOM-2012-0000015, 5. 
+47 SOCOM-2012-0000016, 18. This letter may not have been authored by Bin Ladin. It may be helpful to 
+understand it in the context of the following: SOCOM-2012-0000015, authored by Bin Ladin, noted on 
+page 5 that he is enclosing a file consisting of parts of a letter that he would like `Atiyya to edit for the 
+purpose of sending to Abu Basir (Nasir al-Wuhayshi), the leader of AQAP. He indicated that `Atiyya is 
+better placed than him to draft it because he knows the “brothers” there in Yemen. He also asked him to 
+share with him the final format of the letter. SOCOM-2012-0000017 consists of many paragraphs and 
+notes that do not form an internally coherent essay/letter. Some of these are identical to paragraphs 
+included in Letter 13. It is therefore possible that SOCOM-2012-0000017 was the draft that Bin Ladin 
+enclosed to `Atiyya; in turn, `Atiyya used parts of SOCOM-2012-0000017 and transformed them into a 
+coherent letter to Abu Basir, and this coherent letter is SOCOM-2012-0000016 – which is not signed – to 
+share with Bin Ladin before sending. It is not clear whether Bin Ladin wanted `Atiyya to sign it in his or 
+Bin Ladin’s name. The line on “hija” is not included in SOCOM-2012-0000017; if it is `Atiyya who edited 
+it, then this would be his colorful language, not Bin Ladin’s. 
+
+15 
+ 
+resonance in that distant era, and Arabs today understand too well the connotations it 
+imparts. In the words of Pellat, the purpose of hija’ “was to stigmatize the failings that 
+were the antithesis of the qualities glorified.”48 
+ 
+Bin Ladin explained to `Atiyya that “we are in need of sincere internal advice and a 
+constructive critical evaluation of all our politics and [media] releases be they from 
+AQC or from regional groups.” He advised that two “competent brothers,” internal to 
+the organization, should devote all their en ergy to this task and also seek help 
+externally to find a trusted and learned person to assist in “correcting and developing” 
+our politics.
+49 Bin Ladin was not alone in being concerned about the mediocre state of 
+jihadi media. Adam Gadahn was highly critical of the inadequate level, even vulgarity, 
+he found to be characteristic of jihadi media. In a letter composed in early 2011 and 
+forwarded to Bin Ladin,
+50 Gadahn wrote about jihadi forums with utter disdain, 
+believing them to be “repulsive to most Muslims” and a liability to al-Qa`ida. He 
+argued that most of their participants are characterized by religious fanaticism and 
+biases, and therefore “distort to some extent the image of al-Qa`ida.”
+51 
+ 
+Beyond centralizing jihadi releases, Bin Ladin was keen to create a credible jihadi media 
+so that it becomes a reference point for ma instream Muslims interested in learning 
+about jihad and jihadis. It bothered him that he watched a television program on al-
+Jazeera, al-Islamiyyun, which ran an episode littered with factual errors about him.
+52 
+Although Bin Ladin did not generally come across  as egotistical, in this instance it is 
+clear that he worried about his legacy. “He who does not make known his own history 
+                                                           
+48 Ch. Pellat, “Hidja’,” Encyclopedia of Islam, second edition. There is also a poetic genre for the purpose of 
+glorification, the genre of “madh.” 
+49 SOCOM-2012-0000019, 15. 
+50 SOCOM-2012-0000004. This letter does not explicitly indicate who the author is or to whom it is 
+addressed. Since the author remarked that the American television channel ABC broadcast a part of a 
+statement he gave on the fourth anniversary of 9/11, this suggests that it was authored by Adam Gadahn 
+who did indeed release a statement then, part of which was broadcast on ABC. The content suggests that 
+it was not addressed to Bin Ladin since Gadahn refers to him in the third person. It is also not dated, but 
+it must have been authored either in January 2011 or soon thereafter, since the author referred to the 
+resignation of Keith Olbermann from MSNBC on 21 January 2011. The letter is in essence responding to 
+many of the requests/queries that Bin Ladin made in SOCOM-2012-0000015, particularly those 
+concerning a media strategy for the ten year anniversary of 9/11. It is likely that `Atiyya shared SOCOM-
+2012-0000015 with Gadahn, and SOCOM-2012-0000004 basically addressed the questions in SOCOM-
+2012-0000015. 
+51 SOCOM-2012-0000004, 4. 
+52 Bin Ladin is referring to a program on al-Jazeera. The specific episode to which he is referring is entitled 
+“Man huwa Bin Ladin” (Who is Bin Ladin). It may be viewed at 
+http://www.youtube.com/watch?v=0Yd2NPKuJJA (accessed 30 April 2012). 
+
+16 
+ 
+[to the world],” he wrote to `Atiyya, “[runs the risk that] some in the media and among 
+historians will construct a history for him, using whatever information they have, 
+regardless of whether their information is accurate or not.”
+53 
+ 
+Bin Ladin clearly sought to centralize global jihadi activities so that AQC could oversee 
+the affairs of regional groups and, if needed, ve to certain decisions. It is possible that he 
+wanted to make the most out of a bad, perhaps even doomed situation that al-Qa`ida 
+was confronting after almost ten years of war. Indeed, the letter in which he proposed a 
+blueprint for centralization is one of two letters that stand out for their reflective tone.
+54 
+Not only is it the longest, consisting of 44 pages, but also because Bin Ladin comes 
+across as someone taking stock of world events since the 9/11 attacks, burdened by the 
+plethora of mistakes committed by regional  jihadi groups, and eager to engage in a 
+serious “assessment of jihadi activities” ( taqyim al-`amal al-jihadi ) as well as ways to 
+ensure its sound “development/evolution” (tatwir).
+55  
+ 
+It is also possible that Bin Ladin may have had other strategic considerations in mind, 
+namely to find an alternative framework for mounting operations from outside 
+Afghanistan and Pakistan. That is because the year 2010, during which he put these 
+reflections in writing, witnessed the deaths  of numerous senior al-Qa`ida leaders in 
+Afghanistan and Pakistan. The same letter in which Bin Ladin proposed centralization 
+was also a letter of condolences to `Atiyya whom he notified of several leadership 
+appointments, including his own as the successor of Mustafa Abu’l-Yazid.
+56 Abu’l-
+Yazid had served as the operational leader of al-Qa`ida in Afghanistan, 57 and had 
+recently been killed in May 2010.58 
+ 
+This must have been a particularly tough period for al-Qa`ida because another letter 
+that Bin Ladin wrote to `Atiyya shortly after also started with lines of condolences, 
+indicating additional losses.
+59 Thus, the losses al-Qa`ida suffered in 2010 in Waziristan 
+and the poor conduct of regional jihadi groups compelled Bin Ladin to reassess existing 
+                                                           
+53 SOCOM-2012-0000019, 44. 
+54 The other letter is SOCOM-2012-0000010 in response to the Arab Spring, likely the last one he wrote. 
+55 SOCOM-2012-0000019, 3. 
+56 SOCOM-2012-0000019, 1-2. 
+57 He was announced as leader of al-Qa`ida in Afghanistan in 2007. See the following report about him by 
+al-Sharq al-Awsat, 25 May 2007. 
+58 Frank Gardner, “Death of Mustafa Abu al-Yazid ‘Setback’ for al-Qaeda,” BBC, 1 June 2010. It was 
+reported that a U.S.-operated unmanned aerial vehicle (UAV) killed him in Pakistan’s North Waziristan 
+tribal area. 
+59 SOCOM-2012-0000015, 1. 
+
+17 
+ 
+strategies. Two major concerns seem to have preoccupied him. First, he was keen for the 
+talented “brothers” either to be evacuated safely from Waziristan or, if they must stay, 
+to take stringent measures to avoid being captured or killed.
+60 Bin Ladin’s letter was 
+littered with detailed instructions to be followed to ensure the safety and security of the 
+remaining “brothers” even if the work “sho uld proceed at a slower pace during this 
+period.”61  
+ 
+Bin Ladin’s second main concern was to find alternative places outside Afghanistan and 
+Pakistan to mount “external operations.” He had received a letter from a “Shaykh 
+Yunis” presenting him with a strategy on  how al-Qa`ida could focus on putting 
+together a secret operational force that could evade the eyes of the authorities. It is not 
+clear whether this operational force was alread y in existence or whether it was meant to 
+be a new one that Yunis developed and Bin Ladin should work on establishing. This 
+force, Yunis explained, required coordination between AQC leaders and leaders of 
+jihadi regional groups, but such a plan, he  added, involves positive and negative 
+consequences. On the positive front, the coordination between the leadership in 
+Khurasan/Waziristan and the leaders of jihadi regional groups could yield productive 
+results in operational terms.
+62 In Yunis’ words: 
+ 
+We (i.e., the operational force) do not need to claim/announce our [jihadi] 
+activities – i.e., the activities that we carry out. There is a side [by which he 
+implicitly refers to Bin Ladin] that is the focus of the eyes and hearts’ 
+attention…that could claim [our jihadi activities]; alternatively you could advise 
+[jihadi leaders] in the regions to claim it…this would allow the party involved in 
+the [operational] work the freedom of movement, not to mention [the possibility] 
+of perfecting means and ways of forgery ( tazwir) and smuggling ( tahrib) to 
+become proficient in such skills. [We would also] train members to blend in with 
+the public. All of this would allow us to melt/disappear ( dhawaban) whenever we 
+want, and this would have a more profound impact on covering our tracks after 
+[we carry out] attacks.
+63 
+ 
+                                                           
+60 Ibid., 2. 
+61 Ibid., 3. 
+62 The term Khurasan is often used in jihadi literature to designate Central Asia, but it is also used to refer 
+to Afghanistan. See the discussion: al-Malahim wa-al-Fitan, “Khurasan: hal hiya Afghanistan?” 
+http://alfetn.net/vb3/showthread.php?t=17231 (accessed 26 April 2012). Although it could not be asserted, 
+the location of Yunis was likely Waziristan.  
+63 SOCOM-2012-0000019, 46. 
+
+18 
+ 
+Yunis then added some concerns. The first concern pertained to some of the “brothers’” 
+unproductive enthusiasm for jihad which causes failures in security; the other pertained 
+to extremism and fanaticism in religion by some “brothers” who claim to be affiliated 
+with al-Qa`ida. Yunis was referring to takfiris, i.e., jihadis who readily declare fellow 
+Muslims to be unbelievers liable to be killed if they disagree with them over religious 
+doctrines.
+64 “You [i.e., Bin Ladin] experienced th is problem [first hand] in Peshawar [in 
+the 1980s] and you [also] saw its outcome in [Algeria],” 65 he warned Bin Ladin. In other 
+words, Yunis warned Bin Ladin that unless th e enthusiasts and religious extremists are 
+brought in line, they would be a liability for such a strategy.  
+ 
+Shaykh Yunis is probably Yunis al-Muritani who was captured in Quetta, Pakistan, in 
+September 2011.
+66 He is reported to be in his mid-30s, and if he is indeed the same 
+“Shaykh Yunis” it suggests that al-Qa`ida  has managed during the past decade to 
+attract jihadis who are distinguished by their strategic and operational visions. Yunis’ 
+letter clearly left a powerful mark on Bin Ladin; Yunis’ strategic operational vision and 
+his erudition, evidenced by citing examples  from Islamic history in the appropriate 
+places, must have immediately impressed Bi n Ladin. He referred to Yunis as “shaykh,” 
+not “brother” ( akh), bestowing upon him a seniority status that Bin Ladin seemed to 
+reserve for leaders of AQC, compared with the brotherly language he used when 
+referring to regional jihadi leaders. He further shared Yunis’ letter with `Atiyya and 
+instructed him to let Yunis know that he is to be dispatched to Africa and West Asia 
+and be responsible for the “external work”
+67 t o  b e  c a r r i e d  o u t  “ i n s i d e  W e s t e r n  
+countries.”68  
+ 
+Bin Ladin’s appointment of Yunis to head al-Qa`ida’s “external work” is a testament to 
+his appreciation of Yunis’ letter. It is re markable that Bin Ladin, who did not take 
+appointing leaders lightly, nominated Yunis to  a highly sensitive post even though he 
+appeared to have known little about his bac kground. In the same letter where he asked 
+                                                           
+64 On the liability of takfiris to jihadism, see Nelly Lahoud, The Jihadis’ Path to Self-Destruction (New 
+York/London: Columbia University Press/Hurst, 2010), 1-14. 
+65 SOCOM-2012-0000019, 48. For an expanded discussion of al-Qa`ida’s ideology as understood by its 
+members in comparison with the rigid/extremist religious ideology as espoused by other jihadi groups, 
+see Nelly Lahoud’s forthcoming CTC report based on Fadil Harun’s autobiography al-Harb ‘ala al-Islam 
+(The War Against Islam: The Story of Fadil Harun). 
+66 “Al-Qaeda Chief Younis al-Mauritani Held, Says Pakistan,” BBC, 5 September 2011; Mazin Aman, “al-
+‘Arabiyya tazur usrat ‘Yunis al-Muritani’,” al-‘Arabiyya, 7 September 2011; “I`tiqal fi Pakistan ma` 
+`Unsurayn Barizayn bi-al-Tanzim,” al-‘Arabiyya, 5 September 2011. 
+67 SOCOM-2012-0000019, 31. 
+68 SOCOM-2012-0000015, 5. This reference suggests that Bin Ladin is clarifying what he wrote before, 
+which suggests that the document was composed after SOCOM-2012-0000019. 
+
+19 
+ 
+`Atiyya to appoint him to head the “external work,” he also asked him to send “at the 
+earliest convenience a report about Shaykh Yunis that would include his date of birth, 
+upbringing, academic studies, social status, experiences and skills; and also include 
+[description] about his character and his manner of dealings with the jihadis and his 
+relationship with them; and also the date when he joined [al-Qa`ida] ( dukhulihi ma` al-
+multazimin) and when he began to take part in jihad [on the battlefield] ( nafiruhu 
+liljihad).”
+69 
+ 
+Other letters authored by Bin Ladin suggest th at he was quite selective in his choice of 
+leaders. It seems that Abu Basir (the alias of Nasir al-Wuhayshi) had suggested Anwar 
+al-`Awlaqi to be his replacement as the leader of AQAP in Yemen, but Bin Ladin 
+politely rejected the suggestion. If ever a slap and a kiss could be combined, Bin Ladin’s 
+response to Abu Basir could count as on e. He complimented Abu Basir on being 
+“qualified and competent” to manage the affairs of Yemen, but added that although his 
+“positive attestation of al-`Awlaqi is duly acknowledged, we would like further 
+assurances; for example, over here we are generally assured after people go to the 
+battlefield and are tested there.”
+70 Despite the preoccupation with al-`Awlaqi among 
+U.S. analysts and the intelligence community, this in itself does not appear to have 
+earned him recognition in Bin Ladin’s mi nd. Bin Ladin, wanting more evidence about 
+al-`Awlaqi’s suitability, asked that Abu Basir, Abu Sufyan, Sa`id al-Shihri and al-
+`Awlaqi write him separately with a “detailed conceptualization” of the way they each 
+conceived of the events in Yemen. It is as if Bin Ladin was getting his red pen ready to 
+grade, and even fail, the essays of each of these leaders. 
+ 
+How might centralization of global jihadi media and operational activities serve Bin 
+Ladin’s strategy? The plethora of mistakes that Bin Ladin enumerated about the 
+conduct of regional jihadi groups suggests that he would partner with them only if they 
+agreed to play by AQC’s rules, hence th e need for a memorandum. Bin Ladin perhaps 
+reasoned that he would withhold the symbolic public blessing that seemed to matter to 
+regional leaders in return for their compliance; since he was prepared to apologize for 
+mistakes such as unintended civilian casualties, he may have even been willing to 
+bestow the brand “al-Qa`ida” publicly if they would commit to the memorandum in 
+writing. 
+ 
+The documents suggest that Bin Ladin also needed regional groups to give cover to al-
+Qa`ida’s “external work” since the landscape of Waziristan was too closely monitored 
+                                                           
+69 SOCOM-2012-0000019, 33. 
+70 SOCOM-2012-0000003, 2. 
+
+20 
+ 
+by U.S. intelligence to permit the safe work of the “brothers.” Bin Ladin, therefore, 
+looked for alternative geographical arenas to facilitate either the continuation of 
+“external work” in Western countries, with the United States on the top of his list, or 
+start a new initiative. His immediate plan was to dispatch Yunis either to Yemen or 
+Algeria or the surrounding areas of these two countries and wanted the leaders of 
+AQAP, Nasir al-Wuhayshi, and AQIM, Abu Mus`ab al-Wadud, to give Yunis their full 
+cooperation. Specifically, Bin Ladin instructed `Atiyya to write to these two leaders 
+asking them “to make their utmost efforts to cooperate with Shaykh Yunis in 
+everything he asks of them,” and further asked the “brothers in the Islamic Maghrib to 
+provide Yunis the financial support he n eeds, which may reach 200,000 euros in the 
+next six months.”
+71 The request for such a sum may suggest that AQC’s financial 
+situation was not self-sufficient if it needed to  seek the assistance of the “affiliates,” and 
+it may also suggest that Bin Ladin had a specific operation in mind that he wanted 
+Yunis to carry out.  
+ 
+If the above speculations are plausible, the documents suggest that an AQC in sync 
+with the affiliates on the operational level was being forged in 2010 to advance al-
+Qa`ida’s “external operations.” Even if the speculations are not entirely plausible, AQC 
+and the affiliates appear to have had more differences than commonalities.  
+ 
+It is difficult to speculate on the prospects of Bin Ladin’s strategy. Still, even if its 
+chances of success are slim, Bin Ladin’s strategy to centralize the public statements and 
+activities of regional jihadi groups in the interest of efficiently advancing “external 
+operations” is carefully considered. This strategy, along with Bin Ladin’s detailed 
+instructions on the kind of measures the “brothers” must adopt to evade the authorities, 
+are far more developed than the explicit oper ation he outlined to assassinate President 
+Barack Obama and/or General David Petraeus who, at the time, was serving as the 
+NATO commander of the International Securi ty Assistance Force. Bin Ladin had asked 
+`Atiyya’s predecessor, Mustafa Abu al-Yazid, to task Ilyas, presumably Ilyas Kashmiri, 
+to set up two units, one in Pakistan and another in Bagram, Afghanistan, to target 
+airplanes known to be carrying President Obama and/or General Petraeus on their visits 
+to these areas. He only wanted President Obama and General Petraeus to be targeted. 
+He explained that the death of President Obama would see the “utterly unprepared” 
+Vice President Joe Biden automatically assu me the presidency, which would cause the 
+United States to enter into crisis mode, and “the killing of Petraeus would have a 
+serious impact on the course of the war,” as Bin Ladin considered him to be “ the man of 
+                                                           
+71 SOCOM-2012-0000019, 32. 
+
+21 
+ 
+this [critical] phase.” 72 Bin Ladin did not explain, however, why he did not want 
+“Secretary of Defense Gates or the Joint Chiefs  of Staff Mullen or the Special Envoy to 
+Pakistan and Afghanistan Holbrooke” to be targeted. 73 It is possible that Bin Ladin had 
+prepared a more detailed plan in a previous letter, which might explain why the brief 
+description available reads as an amateurish plot or just wishful thinking. 
+ 
+The Affiliates 
+The documents show that the so-called “affiliates” have not just been a problem for al-
+Qa`ida in terms of harming its image in the eyes of the majority of Muslims who have 
+been the primary victims of their attacks, but the affiliates have also caused internal 
+debates among the senior leadership. A panoramic view of the documents points to 
+three different positions within al-Qa`ida on the subject. There are what one may term 
+the “principled,” represented by Adam Gadahn, urging senior leaders to declare their 
+distance and even to dissociate themselves from groups whose leaders do not consult 
+with al-Qa`ida yet still act in its name. There are those represented by an anonymous 
+author urging the opposite, believing that the inclusion of regional jihadi groups into 
+the fold contributes to al-Qa`ida’s growth and expansion.
+74 Bin Ladin represented a 
+third position. Bin Ladin wanted to maintain  communication, through his own pen or 
+that of `Atiyya, with “brothers” everywhere, at least to urge restraint and provide 
+advice even if it fell on deaf ears, but without franchising the brand. 
+ 
+The groups for which there is enough substantive content in the documents to gain a 
+meaningful understanding of al-Qa`ida’s relationship with them are: Islamic State of 
+Iraq (ISI/AQI), al-Qa`ida in the Arabian Peninsula (AQAP), Tehrik-e-Taliban Pakistan 
+(TTP) and to a lesser extent al-Shabab. AQIM  is mentioned in a number of letters, but 
+not as a separate subject of discussion that discerns how Bin Ladin viewed the group. 
+There is also a letter dated 2006 forwarded to a certain `Abd al-Hamid. The actual letter 
+was addressed to `Atiyya, consisting of legal questions from the group called Army of 
+Islam ( Jaysh al-Islam ) based in Gaza.
+75 The gist of the letter makes it known that the 
+group is in need of financial assistance “to support jihad,” and the questions largely 
+                                                           
+72 SOCOM-2012-0000019, 35-36. 
+73 Ibid. 
+74 SOCOM-2012-0000006, 1. 
+75 SOCOM-2012-0000008. The letter is forwarded to a certain `Abd al-Hamid. Jaysh al-Islam emerged on 
+the political scene in 2006 when it mounted a joint operation (with the support of the military wings of 
+both Hamas and Fatah) that resulted in the kidnapping of the Israeli soldier Gilad Shalit. See the analysis 
+by Marwan Shehade, “Jaysh al-Islam al-Filastini `ala Khuta al-Qa‘ida al-`Alami,” Majallat al-`Asr, 5 July 
+2006. Their relationship with Hamas quickly deteriorated and their questions to `Atiyya makes this clear; 
+their global religious ideology was not compatible with Hamas’ nationalist focus. 
+
+22 
+ 
+pertain to the permissibility of accepting financial assistance from other militant 
+Palestinian groups that are not purely fighting to establish God’s Law in the eyes of 
+Jaysh al-Islam (e.g., groups that are nationalists or supported by Iran).
+76 The significance 
+of the letter pertains to `Atiyya’s legal knowledge, but it does not point to a firm 
+relationship between al-Qa`ida and Jaysh al-Islam. 77 `Atiyya comes across as cordial but 
+distant. He responded strictly to the questions posed but refrained from giving any 
+strategic advice. It is possible that Jaysh al -Islam was “testing the water” to see whether 
+al-Qa`ida would lend them financial suppo rt, not least because Hamas was fighting 
+against them.
+78  
+ 
+Given that the documents leave out many jihadi groups, the rest of the discussion in 
+this section is thus limited to ISI/AQI, AQAP, TTP and al-Shabab.  
+ 
+Islamic State of Iraq/AQI 
+It should not come as a surprise to learn that Bin Ladin’s public admission of Abu 
+Mus`ab al-Zarqawi’s group in Iraq
+79 into the al-Qa`ida fold in December 2004 80 referred 
+to in the secondary literature as AQI, became a liability, not an asset. 81 Al-Zarqawi’s 
+group launched several indiscriminate attack s against Shi’ite civilians, and when Iraqi 
+Sunni militants disapproved of his tactics he turned against them. 82 The group’s 
+                                                           
+76 SOCOM-2012-0000008, 1. 
+77 It is noteworthy that `Atiyya refrained from answering questions that he did not deem himself qualified 
+to address, such as whether it is lawful to invest money in the stock market if the profit is used to 
+advance the cause of jihad. `Atiyya confessed that this question required expertise he lacked and advised 
+them to seek the opinion of learned legal scholars who specialize in these technical issues. He did not 
+suggest the names of any legal scholars who have the necessary expertise, which may be an additional 
+indication that he wanted to maintain a cordial but distant relationship with the group. 
+78 See, for instance, Hamas’s actions against Jaysh al-Islam over the kidnapping of the BBC reporter Alan 
+Johnston, whose release Hamas secured. “Hamas Arrests over BBC Reporter,” BBC, 2 July 2007. 
+79 Al-Zarqawi’s group was called Jama`at al-Tawhid wa-al-Jihad; when it was admitted into al-Qa`ida, it 
+became known as al-Qa`ida in Mesopotamia. After he was killed in 2006, and Abu Hamza al-Muhajir and 
+Abu `Umar al-Baghdadi succeeded him, the group declared itself as the Islamic State of Iraq. The new 
+name was highly controversial in jihadi circles. 
+80 Usama bin Ladin, “Risala ila al-Muslimin fi al-‘Iraq Khasatan wa-al-Umma al-Islamiyya ‘Ammatan,” 
+December 2004 (CTC Library). 
+81 See, for instance, Ayman al-Zawahiri’s letter to Abu Mus`ab al-Zarqawi, 
+http://www.ctc.usma.edu/posts/zawahiris-letter-to-zaraqawi-original, and `Atiyyatullah al-Libi’s letter to 
+al-Zarqawi, http://www.ctc.usma.edu/posts/atiyahs-letter-to-zarqawi-original.  
+82 The Islamic Army of Iraq, “Rad al-Jaysh al-Islami fi al-`Iraq `ala Khitabat al-akh Abi Omar al-
+Baghdadi,” http://www.arab-eng.org/vb/showthread.php/50571-رد-الجي-الاس-ف-الع-عل-
+القاعs=26ba96a7fa433f7ed50ff41cd2654c96 (accessed 25 April 2012). See the discussion in Nelly Lahoud, 
+The Jihadis’ Path to Self-Destruction, 205-211. 
+
+23 
+ 
+indiscriminate attacks did not improve with al-Zarqawi’s death; Abu `Umar al-
+Baghdadi and Abu Ayyub al-Misri, who succeeded him and declared an Islamic State of 
+Iraq (ISI), were perceived by jihadi leaders to be more repulsive and dangerous than al-
+Zarqawi.
+83 By 2007, Bin Ladin was publicly expre ssing his disappointment with jihadis 
+in Iraq, urging them to form a unified front.84  
+ 
+The documents confirm and provide additional insight into the grief ISI/AQI caused in 
+many jihadi circles. A letter dated 28 March 2007,
+85 addressed to a legal scholar by the 
+name of Hafiz Sultan, 86 and authored by someone who is clearly of Egyptian origin, 87 
+shows that the author was alarmed by AQI’s conduct and urged Sultan to write to its 
+leaders to correct their ways: “I fear for the brothers from committing political mistakes, 
+you have no doubt heard Abu `Umar [al-Bagh dadi’s] recent speech; in my view, it 
+contains obvious mistakes.” In his mind, not only was the speech unfitting for a leader 
+to make, but it also revealed that “they are extremists ( mutashaddidun)…[and that his 
+speech] is repulsive and lacks wisdom.”
+88 The author was by no means a distant or 
+otiose observer; he assured Sultan that “I [already] wrote to them and rebuked them.” 
+H e  w a s  a p p e a l i n g  t o  S u l t a n  b e c a u s e  h e  k n e w  h i m  t o  b e  r e s p e c t e d  b y  a n d  p o s s i b l y  
+related to “al-Karrumi,” presumably Abu Hamza al-Muhajir/Abu Ayyub al-Misri, and 
+wanted Sultan to exert pressure on him.
+89  
+ 
+The author of the letter also urged Sultan to respond to the letters and grievances of 
+“our brothers [Jaysh] Ansar al-Sunna, for they await your correspondence and 
+responses to their complaints and letters.”
+90 It seems that Ansar al-Sunna, the temporary 
+                                                           
+83 SOCOM-2012-0000011, 1. This letter is incorrectly dated in the English translation as 28 March 2011. It 
+should be 28 March 2007. It was composed a few months before Ansar al-Sunna formed an alliance with 
+other Sunni militant groups excluding AQI. The new alliance was formed in July 2007. 
+84 Usama bin Ladin, “Ila Ahlina bi-al-‘Iraq,” http://www.iraqipa.net/10_07/21_25/News/a1_25okt07.htm 
+(accessed 13 April 2012) 
+85 SOCOM-2012-0000011.  
+86 Hafiz Sultan is probably the same person who wrote articles for the magazine Vanguards of Khurasan. 
+The magazine can be accessed on Minbar al-Tawhid wa-al-Jihad at http://www.tawhed.ws. 
+87 SOCOM-2012-0000011. The author uses Egyptian colloquial terms, such as “aw haddi min ikhwanina,” 
+and “ma ykhissinash.” 
+88 Ibid., 1. 
+89 Abu Hamza al-Muhajir/Abu Ayyub al-Misri is not reported to be known by the name al-Karrumi. 
+However, since his name is used in the same sentence as Abu `Umar al-Baghdadi and since he is 
+presumed to be in a leadership position, it would not be farfetched to assume that al-Karrumi is the same 
+man.  
+90 SOCOM-2012-0000011, 1. 
+
+24 
+ 
+name of Ansar al-Islam, 91 had threatened to denounce AQI, and the author wanted to 
+prevent this by asking Sultan to write to th em, sympathize with their concerns, but also 
+warn them that fitna (sedition/division) is worse and they must therefore stick with 
+their fellow jihadis. His concerns were well placed. Within a few months of his letter, 
+Ansar al-Sunna returned to using its original name Ansar al-Islam and formed an 
+alliance with other Sunni militant groups, an alliance that excluded AQI.92  
+ 
+A few months before Hafiz Sultan was urged to write to and counsel the leaders of AQI, 
+it seems that a dispute was raging among religious scholars in Saudi Arabia. The 
+dispute is discussed in one of the letters au thored by an intermediary between some of 
+these scholars and `Atiyya, to whom the letter is addressed.
+93 The letter was authored in 
+early 2007 shortly after private meetings th e intermediary held with several religious 
+scholars during the Hajj (December 2006-January 2007). What is known publicly is a 
+statement released in November 2006 and signed by 38 Saudi scholars in support of 
+Iraq’s Sunnis. It is characterized by a highly sectarian tone, accusing the Twelver Shi’ites 
+of Iraq, whom they consider to be rafida (rejectionists), of “embracing the Crusaders and 
+protecting their backs,” putting into practice their “hateful creeds” (` aqa’iduhum al-
+baghida) against Sunnis.
+94 This was followed by a statement that `Atiyya released 
+praising these scholars, taking it to mean support for jihadis, and singling out two of 
+them, `Abd al-Rahman al-Barrak and `Abdallah al-Ghunayman. `Atiyya then added 
+what was missing in their statement, calling on Sunnis in Iraq to join and support the 
+                                                           
+91 The group is based in Kurdistan. According to Abu `Abdallah al-Shafi`i, the leader of Ansar al-Islam, 
+the group was established in 2001, but it had to change its name to Ansar al-Sunna because it was the 
+target of U.S. occupation forces in 2003. For some time, he explained, the group changed its tactics and 
+expanded its operations to cover all of Iraq, and as of November 2007 the group resumed using its 
+original name, Ansar al-Islam. The changing of its name in 2007 may have been to signal its separation 
+from AQI. His statement is available on Archive al-Jihad, 
+https://www.jarchive.net/b/details.php?item_id=3511 (accessed 22 April 2012). He was reported to have 
+been arrested by the U.S. Army in May 2010. See Shirzad Sheikhani, “Za`im ‘Ansar al-Islam’ Yantahi fi 
+Qabdat al-Jaysh al-Amriki,” al-Sharq al-Awsat, 5 May 2010. 
+92 Brian Fishman, Dysfunction and Decline: Lessons Learned from Inside al-Qa`ida in Iraq, Combating 
+Terrorism Center at West Point (2009). 
+93 SOCOM-2012-0000014. 
+94 “Nida’ li-Ahl al-Sunna fi al-`Iraq wa-ma Yajibu `ala al-Umma min Nasratihim,” al-Muslim, 
+http://almoslim.net/node/46629 (accessed 22 April 2012). The term rafida is literally “those who reject.” It 
+is used in a pejorative way against Shi’ites to denote that they reject the legitimacy of the first three 
+caliphs the Sunnis consider to have been lawful. The Twelver Shi’ites consider that `Ali (the fourth caliph 
+from the Sunnis’ perspective) to have been the first lawful imam. For an academic study of the evolution 
+of sects in Islam, see Patricia Crone, God’s Rule - Government and Islam: Six Centuries of Medieval Political 
+Thought (New York: Columbia University Press, 2005), chapters 2-11. 
+
+25 
+ 
+Islamic State of Iraq (i.e., AQI).  95  The Islamic State of Iraq also released its own 
+statement “blessing” the scholars’ statement.96 
+ 
+According to the account of `Atiyya’s intermediary, the meeting during which Saudi 
+scholars signed the statement was attended by 70 scholars, 32 of whom abstained from 
+signing. Some, he related, disagreed with its wording, while others cited their fear of 
+being suppressed or closely monitored by the authorities to justify their abstention.
+97 
+More importantly, `Atiyya’s intermediary was told that the statement originally 
+included four additional lines that were critic al of the Islamic State of Iraq, declaring it 
+to be unlawful. However, a group of scholars, led by al-Barrak, insisted on deleting 
+these lines, which forced others to concede in view of the importance of releasing the 
+statement against the “Rafida” and ensuring that al-Barrak was among the signatories 
+to the statement.
+98 
+ 
+A biography of al-Barrak available on the internet indicates that he is a retired professor 
+of religious sciences, who supervised many doctoral and masters’ theses, but refused 
+several offers to become a member on the council that delivers formal legal opinions.
+99 
+The explicit reference to his refusal is another way of making known that he refuses to 
+hold an office that might compromise his principles and render him accountable to the 
+ruling Saud family. In his meeting with `Atiyya’s intermediary, al-Barrak expressed that 
+he was touched and honored when `Atiyya singled him out in his statement and prayed 
+for “victory for and consolidation of the Islamic State of Iraq.”
+100 `Atiyya’s intermediary 
+could not meet in person with `Abdallah al-Ghunayman, the other scholar singled out 
+in `Atiyya’s statement, but he met with one of his students. He was told that al-
+                                                           
+95 `Aityyatullah, “Tabshir Qulub al-Mujahidin bi-Talahumi ahli al-`Ilmi wa-al-Mujahidin,” Multaqa 
+Hadramut, http://www.hdrmut.net/vb/t227524.html (accessed 22 April 2012). 
+96 Islamic State of Iraq, “Dawlat al-‘Iraq al-Islamiyya tubarik bayan ‘Nida’ li-Ahl al-Sunna fi al-‘Iraq wa-
+ma Yajibu ‘ala al-Umma,” 
+http://www.alaqsagate.org/vb/showthread.php?t=726&s=0c7651228409936e43d02f96df7fc84b (accessed 26 
+April 2012). 
+97 A number of the scholars who signed the statement are reported to be imprisoned by Saudi authorities. 
+See Minbar al-Tawhid wa-al-Jihad. 
+98 SOCOM-2012-0000014, 4. This is a highly difficult text to read in Arabic; it was written in a hurry, it is 
+littered with spelling mistakes and it lacks clarity in several critical places. 
+99 “Nabdha Mukhtasara `an al-Sira al-Dhatiyya li-al-Sheikh `Abd al-Rahman al-Barrak Hafizahu Allah,” 
+http://www.saaid.net/Warathah/1/albarak.htm (accessed 22 April 2012). For informative background of 
+the role of al-Barrak and other Saudi scholars in supporting jihadis, see Stephane Lacroix, Awakening 
+Islam: The Politics of Religious Dissent in Contemporary Saudi Arabia (Cambridge: Harvard University Press, 
+2011), particularly chapter 5. Also see Hegghammer, Jihad in Saudi Arabia, particularly chapter 7. 
+100 SOCOM-2012-0000014, 4. 
+
+26 
+ 
+Ghunayman had made a promise not to publish his books during his lifetime, but 
+happily changed his mind when one of his students suggested that he should publish 
+them and donate the proceeds to the jihadis.
+101 Al-Ghunayman is a renowned religious 
+scholar, having occupied several prestigi ous faculty positions, and his classes are 
+reported to be highly sought after.102 
+ 
+It is not clear from the letter if the support of these religious scholars extended beyond 
+preaching and writing in support of jihadis. Yet the letter points to a certain “Shaykh 
+Abu Zifr/Zafr” who is clearly in contact with `Atiyya on a more operational level 
+through a different intermediary. His relati onship with `Atiyya must have involved 
+sensitive matters because he complained that the current intermediary through whom 
+he communicated with `Atiyya was not trustworthy and could not be trusted with 
+secrets if arrested.
+103 He also indicated that of the 38 scholars who signed the statement 
+in support of Iraq’s Sunnis, they do not all deserve to be praised, remarking that they 
+are likely to “turn against you”; however, he did not object to singling out al-Barrak and 
+al-Ghunayman, both of whom are deserving of his praise.
+104 Shaykh Abu Zifr/Zafr’s 
+name does not appear in the statement; it is possible that it is an alias and that is why he 
+could not be identified. 
+ 
+Three years after these debates, Bin Ladin remained concerned about divisions among 
+jihadi groups in Iraq and hoped that they wo uld re-unite after the killing of Abu `Umar 
+al-Baghdadi and Abu Ayyub al-Misri. He asked `Atiyya to write him a report about 
+Abu Bakr al-Baghdadi and his deputy, Abu Sulayman al-Nasir, the new leaders of 
+AQI.
+105 He further added that “I would like for you to ask our brothers in Ansar al-
+Islam about their stance vis-à-vis the new leaders…and remind them to exert their 
+utmost efforts to seek unity and resolve differences between the different jihadi entities 
+in Iraq.”
+106  
+ 
+In view of AQI’s liability to the image of jihad generally and of al-Qa`ida in particular, it 
+stands to reason that it should serve as a point of contention among senior AQC 
+leaders. No one among the main personalities who star in the documents comes across 
+                                                           
+101 Ibid., 5. 
+102 `Abdallah bin Muhammad al-Ghunayman, http://www.alukah.net/Web/goniman/CV/ (accessed 22 
+April 2012). 
+103 SOCOM-2012-0000014, 1-2. 
+104 Ibid., 2. 
+105 SOCOM-2012-0000019, 34. They were announced as leaders on 15 May 2010. See al-Shumukh, 
+http://www.shamikh1.info/vb/showthread.php?t=62187 (accessed 12 April 2012). 
+106 SOCOM-2012-0000019, 34. 
+
+27 
+ 
+more righteously critical than America’s own Adam Gadahn. Gadahn’s letter was 
+meant to respond to Bin Ladin’s queries about an effective media strategy, including 
+engineering a way that would get American television channels to broadcast a speech 
+by Bin Ladin on the tenth anniversary of 9/11.
+107 Among the reasons Bin Ladin wanted a 
+new strategy was to “make known the justice of our cause” to the world. 108 Gadahn 
+c a p i t a l i z e d  o n  t h e  “ j u s t i c e  o f  o u r  c a u s e ”  a n d  u s e d  i t  a s  a n  o p e n i n g  t o  h i g h l i g h t  t h e  
+injustices he believed the jihadis are committing, with AQI and TTP occupying the 
+lion’s share of his criticism. 
+ 
+Gadahn had planned to prepare an Arabic statement addressed to Christian Arabs. He 
+wanted to warn them against collaborating with  “the enemies of Islam,” invite them to 
+join Islam, and welcome today’s “Islamic conquest,” presumably by the jihadis, just as 
+their ancestors did when the second Caliph `Umar conquered Jerusalem.
+109 In the 
+collective memory of Muslims and Arab Christians, `Umar is reputed for his respect of 
+the religious rights of Christians. It is reported that on his tour of Jerusalem, `Umar 
+visited Christian churches but refrained from  performing the Muslim prayer in one of 
+them, likely the Holy Sepulcher, lest it be tu rned into an Islamic shrine after his death; 
+he thus prayed outside the church where al-Aqsa Mosque was later built.
+110 Gadahn 
+wanted to invoke the spirit of Islamic tolerance that `Umar’s reign evokes. His plan was 
+thwarted, however, when a Catholic church in Baghdad was attacked by AQI, the 
+organization “that we support and which – like it or not […] – is known to the people as 
+an Iraqi branch of the organization of al-Qa`ida.”
+111 He thus cancelled his plan because 
+his appeal to Arab Christians would have no credibility in view of ISI/AQI’s attacks 
+targeting Christian churches. 112 He compared AQI’s policy to that of President George 
+W. Bush, who, in his mind, repelled the Europeans and the intellectuals of the world. In 
+a perhaps constructive criticism of Bin Ladin, and to highlight the need for al-Qa`ida to 
+dissociate itself from ISI/AQI, Gadahn passio nately asked: “is this the justice that we 
+preach and that Shaykh [Bin Ladin] preaches in his statements and letters?”
+113 
+ 
+Gadahn was clearly highlighting to AQC’s leaders that they were just as guilty of the 
+double standards they accused the West of perpetuating in the Muslim world. He was 
+                                                           
+107 SOCOM-2012-0000004. 
+108 SOCOM-2012-0000015, 8. 
+109 SOCOM-2012-0000004, 6. 
+110 S.D. Goitein, “al-Kuds,” Encyclopaedia of Islam, second edition, online edition (accessed 28 April 2012). 
+111 SOCOM-2012-0000004, 6. 
+112 Ibid. On attacks against churches in Iraq, see Anthony Shadid, “Church Attack Seen as Strike at Iraq’s 
+Core,” New York Times, 1 November 2010. 
+113 SOCOM-2012-0000004, 7. 
+
+28 
+ 
+alarmed by the gap between “the statements of our leaders and religious scholars and 
+the actions of those who are said to be affiliated to or allied with them.” 114 He thus 
+advised that al-Qa`ida should take decisive p ublic measures to dissociate itself from the 
+“ignorant/ungodly criminality” ( al-ijram al-jahili ) of jihadi groups. 115 In his words, al-
+Qa`ida should publicly: 
+ 
+…declare its disapproval of these and other actions that the organization so-
+called the Islamic State of Iraq (i.e., AQI) is carrying. [It should be made clear that 
+AQI’s actions are being taken] without the orders of or consultation with al-
+Qa`ida. I believe that sooner or later – hopefully sooner – it is necessary that al-
+Qa`ida publicly announces that it severs  its organizational ties with the Islamic 
+State of Iraq, and [to make known] that the relationship between its leadership 
+and that of the State [i.e., ISI/AQI] have not existed for several years, and that the 
+decision to declare a State was taken without consultation with the leadership, 
+and this [ill-considered] innovation ( qarar ijtihadi) led to divisions among jihadis 
+and their supporters inside and outside Iraq. [Thus] all that remains between al-
+Qa`ida and the State (i.e., AQI) is the tie that unites Muslims on the basis of faith, 
+namely Islam, which makes it incumbent up on us Muslims to give advice [to our 
+fellow Muslims when we deem it necessary], to command right and forbid 
+wrong, and support and encourage doing good deeds.
+116 
+ 
+To date, none of the senior leaders have followed Gadahn’s advice, and it seems that he 
+would not act unilaterally. He assured the pers on to whom he addressed his letter that 
+“I only discuss this subject with shaykhs lik e you and occasionally with my brothers at 
+al-Sahab.”
+117 By April 2011, it does not look like progress was made on the Iraq front. 
+Bin Ladin was eager for `Atiyya to inform him about “correspondence with the brothers 
+in Iraq, the details of its progress and the reasons behind its scarcity.”
+118 It  is possible 
+that this scarcity was due to security cons traints facing AQI in Iraq. Alternatively, 
+communicating with AQC leaders may not have been a priority for the “brothers” in 
+Iraq, or they may have responded but `Atiyya did not share their letters with Bin Ladin. 
+ 
+ 
+ 
+ 
+                                                           
+114 Ibid., 8. 
+115 Ibid., 18. 
+116 Ibid., 8. 
+117 Ibid., 5. 
+118 SOCOM-2012-0000010, 4. 
+
+29 
+ 
+AQAP 
+If the criticisms of AQI in the documents ar e not particularly surprising, the concerns 
+Bin Ladin expressed about AQAP will  no doubt be revealing to many. 119 It is widely 
+believed that AQAP is a success story from al-Qa`ida’s perspective, especially since it is 
+regularly described by senior U.S. government officials as the “most dangerous” of al-
+Qa`ida’s affiliates. 120 Yet the documents show that at least in 2010 Bin Ladin was far 
+from being impressed with the “brothers in Ye men.” He comes across as critical of both 
+their words and deeds, in particular the group’s  attacks in Yemen, its lack of acumen to 
+win the Yemeni people’s support, and the ill-adv ised public statements of its leaders. In 
+fact, with the possible exception of AQI, none of the other “affiliates” appear to be more 
+of a source of concern for Bin Ladin than AQAP.  
+ 
+To start with, Bin Ladin was anxious that AQAP was attempting to accomplish more 
+ambitious actions than it was capable of sustaining. Even before the protests of 
+February and March 2011 paralyzed the country,  as thousands of Yemenis inspired by 
+events in Tunisia and Egypt took to the streets,
+121 AQAP was feeling emboldened. It 
+appears that Abu Basir (Nasir al-Wuhayshi) had sent a letter either to Bin Ladin or 
+`Atiyya in which he wrote that “if ever you wanted Sana`a, today is the day,”
+122 by 
+which he meant that AQAP was ready to declare an Islamic state in Yemen and was 
+possibly seeking a public blessing from AQC for its takeover plan. It also seems that 
+Abu Basir had requested that a senior leader be dispatched to Yemen to help in the 
+operational work.
+123 Before responding to Abu Basir, 124 Bin Ladin had written at length 
+to `Atiyya about Yemen and told him that, in his mind, such an Islamic state, if 
+prematurely declared before developing a firm foundation, is doomed to fail
+125 and is 
+likely to lead “to aborting the work [of jihad].” 126 At the time Bin Ladin was writing, in 
+2010, he believed that the circumstances were not yet ripe for declaring an Islamic state; 
+                                                           
+119 For further discussion of AQAP in light of the “documents,” see forthcoming CTC paper by Gabriel 
+Koehler-Derrick. 
+120 “CIA Chief: Yemen Qaeda Affiliate Most Dangerous,” Reuters, 13 September 2011.   
+121 These events culminated in former President Salih’s formal ceding of power in late November 2011 in a 
+deal negotiated by the Gulf Cooperation Council (GCC). See Brian Whitaker, “Yemen’s Ali Abdullah 
+Saleh Resigns—But it Changes Little,” Guardian, 24 November 2011.  
+122 SOCOM-2012-0000016, 1. The letter is authored either by Bin Ladin or `Atiyya and the way it is 
+composed makes it evident that the author was responding to several queries already put to him by Abu 
+Basir in a letter that is not available. 
+123 Ibid., 4. 
+124 SOCOM-2012-0000016 is a letter addressed to Abu Basir, but it cannot be ascertained whether the letter 
+reached him or not. 
+125 SOCOM-2012-0000019, 19. 
+126 Ibid., 23. 
+
+30 
+ 
+instead, Yemen should serve as a reserve and support base for jihadis engaged in 
+warfare on the open fronts (i.e., occupi ed Muslim countries such as Iraq and 
+Afghanistan).127 
+ 
+Underlying Bin Ladin’s concern was a seeming distrust of AQAP’s competence as a 
+jihadi entity, not least its lack of a sound understanding of politics. It is possible that the 
+2003 premature campaign in Saudi Arabia by QAP — the group that merged with the 
+Yemeni group in 2009 to form AQAP — weighed on his mind.
+128 It would be naïve to 
+assume, Bin Ladin wrote to `Atiyya, that the general public would be prepared to fight 
+simply because a group declared jihad to  bring down the regime/state. Unless the 
+timing is correct and the jihadis are capable of governing, he warned, a fragile Islamic 
+state would let people down, “burdening them with pressure they cannot handle,” and 
+expecting them to suffer this pressure would have grave consequences.
+129 People are 
+likely to fight, Bin Ladin explained, when there is an external enemy, whose enmity 
+they understand, occupying their country. Ab sent that, the tribal character of Yemen 
+and the tribes’ disposition to fight among themselves makes it highly likely that a civil 
+war would erupt if AQAP entered into a long fight with the government.
+130 AQI’s loss 
+of the tribes’ support in Iraq appears to have been on Bin Ladin’s mind. The 2003 U.S.-
+led occupation of Iraq saw Iraqi tribes jo ining forces with AQI to fight against the 
+Americans, but when AQI began targeting members of the Anbar tribes, Bin Ladin 
+lamented, the tribes turned against AQI with a vengeance.
+131  
+ 
+The Saudi government’s response to an Isla mic state in Yemen was an additional risk 
+that entered Bin Ladin’s calculations. Saudi rulers, he wrote to `Atiyya, are already 
+concerned about the jihadis’ presence in ne ighboring Yemen, believing them to be 
+“their worst enemies.” Should the jihadis go on  to declare an Islamic state, Saudi rulers 
+would interpret such a declaration to be a threat to their stability; accordingly, they are 
+sure to “pump vast amounts of money to mobilize Yemeni tribes to fight against us.”
+132 
+The documents make clear that as of 2010, Bin Ladin believed that AQAP had neither 
+the financial resources nor the manpower to withstand a sustained assault from the 
+Yemeni government, Saudi money, and U.S. support. In the end, an ongoing civil war, 
+                                                           
+127 Ibid., 19. 
+128 Ibid., 6. 
+129 Ibid., 23-24. 
+130 Ibid., 26-27. 
+131 SOCOM-2012-0000016, 12. 
+132 SOCOM-2012-0000019, 29-30. 
+
+31 
+ 
+he feared, would make secular governments appealing to the general public since they 
+promote the slogan of compromise to appease the interests of all parties.133  
+ 
+Beyond domestic considerations, Bin Ladin was worried about the amateurish, ill-
+advised and badly timed public statements rele ased by AQAP’s leaders, which is one of 
+the reasons he suggested centralizing media releases. He was particularly disappointed 
+with a public statement by one of the deputi es of Abu Basir, Sa`id al-Shihri (known as 
+Abu Sufyan al-Azdi), in which he demanded the release of Hayla al-Qasir who was 
+arrested in Saudi Arabia for collecting money — more than $500,000 according to media 
+reports — to support jihadis.
+134 Bin Ladin did not object to al-Shihri wanting to protect 
+jealously the honor of Muslim women, but he was furious that al-Shihri chose to release 
+his public statement at the same time the “Freedom Flotilla” was heading to Gaza to 
+break Israel’s blockade and bring aid to the people of Gaza. When Israeli forces killed 
+some of the activists onboard, Bin Ladin obse rved, “Western politicians were forced to 
+talk about this and criticize the Israelis.”
+135 In Bin Ladin’s mind, the cause al-Shihri was 
+voicing, notwithstanding his “praiseworthy jealousy,” should not compete or even 
+compare with the plight of a million and a half Palestinians in Gaza, many of whom are 
+women and children, in addition to the 10,000 prisoners in Israeli jails.
+136  
+ 
+On the basis of Bin Ladin’s concerns and po ssibly those of `Atiyya, the letter addressed 
+to Abu Basir
+137 is unambiguous and somewhat condescending in its tone. On the 
+question of declaring a state, the author wrote: “[of course] we want [an Islamic state] in 
+which we would establish God’s Law,” but only if “we are capable of holding on to 
+it.”
+138 As if AQAP does not follow the news, the author deemed it necessary to explain 
+the basics, namely that the United States, “despite it being weakened militarily and 
+economically before and after [the attacks of 9/11], continues to have capabilities that 
+would enable it to bring down any state that we might establish, even if the United 
+States is incapable of maintaining the stability [of the countries it invades].”
+139 The 
+author reminded Abu Basir that if jihadis were unable to hold on to Afghanistan as an 
+Islamic state in the face of the U.S.-led inva sion in 2001, the chances of jihadis holding 
+on to Yemen are even slimmer. The author warned that if jihadis do not learn from their 
+                                                           
+133 Ibid., 26. 
+134 Nasir al-Haqabani, “Hayla al-Qasir tajma` al-tabarru`at li-al-Qa `ida wa-ta’wi al-matlubin wa-tujannid 
+al-Nisa’,” al-Hayat, 4 June 2010. 
+135 SOCOM-2012-0000019, 12. 
+136 Ibid., 11-13. 
+137 SOCOM-2012-0000016. 
+138 Ibid., 1. 
+139 Ibid., 2. 
+
+32 
+ 
+past mistakes, it “would make us like he  who builds [a building] on the path of a 
+torrential stream. If the building is swept away by the torrent and the owner decides to 
+rebuild it on the same path, the people would run away.”
+140 As to Abu Basir’s request 
+for a senior leader to be dispatched to Yemen to assist in the operational work, this was 
+politely denied, citing security related reasons that necessitated the avoidance of any 
+movement except under special circumstances. This denial is quite telling. Although Bin 
+Ladin was planning on dispatching Shaykh Yunis to the region and wanted him to link 
+up with AQAP’s representatives so that they would give him money, Bin Ladin was not 
+prepared to compromise the autonomy of Shaykh Yunis’ mission and ask him to 
+“work” with them.  
+ 
+In practical terms, the letter to Abu Basir (Nasir al-Wuhayshi) advised him to reach, 
+through the mediation of scholars and tribal leaders, “a fair truce to bring stability to 
+Yemen,”
+141 without agreeing to being disarmed. 142 It is possible that the author feared 
+that in the event that AQAP agreed to be disarmed, the group might be tempted to turn 
+itself into a political party. 143 In reality, the author of letter 13 is not optimistic that such 
+a truce would be successful; in fact, he is confident that `Ali `Abdallah Salih, Yemen’s 
+president until 27 February 2012, would not agree to it. The intent, however, was to 
+show the Yemeni public that jihadis seek peace and stability unlike the Yemeni 
+government. More precisely, the author of the letter was confident that external 
+pressures on the Yemeni government, particularly from the United States, would make 
+it prone to making more mistakes, especially  in its dealings with the tribes; thus, if 
+jihadis forge good relationships with the tribes, they would stand to gain from the 
+government’s losses.
+144  
+ 
+In the meantime, and on the domestic front,  jihadis should devote their energy not to 
+jihad but to i`dad, or “preparing for jihad,” and the longer the regime clings to power 
+and fails the people, the more time jihadis have for i`dad and to win the sympathy of the 
+public.
+145 At the same time, work must continue “to exhaust [economically and 
+militarily] America from outside Yemen”; in this respect, Yemen would serve as a base 
+from where jihadis could leave to mount “external operations.”
+146 Lest he is 
+misunderstood, the author of letter 13 specifically warned against targeting the Yemeni 
+                                                           
+140 Ibid. 
+141 Ibid., 3. 
+142 Ibid., 5. 
+143 Ibid., 18-19. 
+144 Ibid., 14. 
+145 Ibid., 3. 
+146 Ibid. 
+
+33 
+ 
+army and its police force: “The Americans are our desired goal,” 147 he stressed, and any 
+work that is not directed against them weakens the mission. The author patiently 
+explained this strategy to Abu Basir, using the metaphor of a tree: 
+ 
+The enemies of the umma today are like a malignant tree: it has a 50 cm American 
+trunk and branches that differ in sizes, consisting of NATO members and many 
+[apostate] regimes in the [Middle East and North Africa] region. We want to 
+bring down the tree by sawing [its trunk], but our force and capability is limited. 
+Thus, the sound and effective way to bring the tree down would be to focus our 
+saw on its American root. [To be precise] if while [our energy] is focused on the 
+trunk and we reach say 30 cms into its depth, should the opportunity of sawing 
+into the British branch of the tree present s itself, we would not take it. [That is 
+because preoccupying ourselves with the branches] would disrupt our efforts 
+and energy; that is why we should stick to sawing the American trunk, for when 
+the trunk is [sawn], the [branches] would all fall, if God so pleases.
+148 
+ 
+The fact that AQAP continues to mount attacks against the Yemeni army and police 
+since the letter was composed suggests that al-Wuhayshi either did not receive the letter 
+or, if he did, was displeased with its content and ignored its directives.
+149 
+ 
+Despite the clarity of Bin Ladin’s (and possib ly `Atiyya’s) strategic vision, there is an 
+aura of insincerity or perhaps partial amnesia to the claim that al-Qa`ida has always 
+focused on mobilizing the jihadis’ energy exclusively against the United States. While it 
+is true that on the operational level al-Qa`ida’s attacks focused on the United States 
+(e.g., 1998 East Africa embassy bombings, 2000 USS Cole bombing, the 9/11 attacks), Bin 
+Ladin’s public statements have often called on the youth in Muslim countries to rebel 
+against their rulers, and jihad inside Saudi Arabia was the focus of one of his most 
+aggressive statements. In December 2004, Bin Ladin confronted the “ruling family” 
+directly, accusing it of “oppressing eve ry reformist movement…on behalf of America 
+and its allies.” He proceeded to say that “it is not permitted for Muslims to agree to be 
+governed by such rulers,” concluding that the solution to the situation, “as explicitly 
+stated in [God]’s Law,” entails “deposing the ruler.” If the ruler refuses to step aside, 
+Bin Ladin explained, “it would be necessary to rise up against him with arms to depose 
+                                                           
+147 Ibid., 4. 
+148 Ibid., 7. 
+149 For attacks in Yemen since then, see, for example, Robert Worth, “Chaos in Yemen Creates Opening for 
+Islamist Gangs,” New York Times, 27 June 2011; Laura Kasinof, “Death Toll Rises in Attack on Yemeni 
+Army Base,” New York Times, 5 March 2012. 
+
+34 
+ 
+him.” He further encouraged the jihadis to focus their attacks on what hurts most, 
+namely oil infrastructure in the region.150  
+ 
+One of the letters (document 15) dated September 2006 from a “loving brother” 
+addressed to Bin Ladin is a serious rebuke of this policy, including the December 2004 
+statements that focused on Saudi Arabia, the place where the author of the letter was 
+residing at the time (Riyadh).
+151 The author included all the necessary respectful 
+rhetorical tools, referring to Bin Ladin as “Honorable Shaykh,” acknowledged that Bin 
+Ladin’s gift to and precedence in the field of jihad “does not escape anyone during this 
+era,” and expressed his “continued love and appreciation” despite circumstances 
+preventing “ongoing correspondence” between the two.
+152 The author’s tone quickly 
+changed, however, as he alerted Bin Ladin that  when one is distant from reality, as Bin 
+Ladin was because of security measures he was forced to take, the soundness of one’s 
+judgment was bound to be impaired. 153 In a more aggressive tone, the author asked Bin 
+Ladin about the rationale of focusing his energy on “Islamic countries in general and 
+the Arabian Peninsula in particular.” The author reminded Bin Ladin that the Arabian 
+Peninsula has a number of features that distinguish it, not least its financial support of 
+the jihadis, serving “as the rear base of all jihadi activities around the world, from 
+Afghanistan to Chechnya, Iraq and Palestine.”
+154 Among the numerous negative 
+consequences of engaging in jihad inside Saudi Arabia, the author informed Bin Ladin 
+that people are now repulsed by the technical term “jihad” and it is even forbidden to 
+use it in lectures. The author strongly advised Bin Ladin to change his policy, consoling 
+him that even the seventh century commander Khalid bin al-Walid erred; in other 
+words, Bin Ladin would still be in good company but only if he took measures to rectify 
+his recent mistakes.
+155 
+ 
+Despite its damning critique of hi s policy, Bin Ladin kept the letter.
+156 While the 
+anonymous author’s advice is echoed in Bi n Ladin’s letters composed in 2010, the letter 
+did not cause him to alter his public statements and does not explain the inherent 
+                                                           
+150 Usama bin Ladin, “Risala ila Ahl Bilad al-Haramayn Khasatan wa-Bilad al-Muslimin ‘Ammatan’,” 16 
+December 2004 (CTC Library). 
+151 It is difficult to guess the identity of this “loving brother.” Is it possible that he might be AFGP-2002-
+003251 (Harmony document), Abu Hudhayfa, ‘ila al-Akh al-Fadil al-Sheikh al-Jalil Abi `Abdallah, dated 
+20 June 2000. He has a similar style: cordial but does not hesitate to criticize in a blunt manner. 
+Regardless, the author clearly knows Bin Ladin well. 
+152 SOCOM-2012-0000018, p. 1. 
+153 Ibid. 
+154 Ibid., 4. 
+155 Ibid., 8. 
+156 Unless the document was deleted and recovered. 
+
+35 
+ 
+contradiction between his earlier speeches and his disapproval of rebelling against the 
+Yemeni government as the letter to Abu Basir makes clear. That is because as late as 
+2009, almost three years after receiving this le tter, Bin Ladin continued to call on people 
+to depose their rulers. In March 2009 and in a statement he released about Palestine, Bin 
+Ladin warned that “unless we understand that our countries are occupied in the 
+interests of the rulers and their mandators/overseers ( muwakkilihim),” by which he 
+meant Western powers, “and unless we work to uncover the truth of [these rulers], fight 
+against them, depose them and liberate ourselves from their dominion, we shall never 
+be able to liberate Palestine.”
+157 
+ 
+One cannot help but wonder whether Abu Basir responded to Bin Ladin’s (or `Atiyya’s) 
+letter, if he ever received it. If he did not receive it, the public release of the letter with 
+this report might give him the opportun ity to reflect not just on Bin Ladin’s 
+inconsistencies, but also on how little the “shaykh” thought of AQAP. It was probably 
+the lack of discipline among AQAP’s members and the enthusiasm and ignorance of 
+“the new generations of young men who joined the path of jihad”
+158 t h a t  c a u s e d  B i n  
+Ladin to conclude that AQAP could not be trusted to mount qualitative attacks inside 
+Yemen without massive civilian casualties.  
+ 
+TTP 
+Tehrik-e-Taliban Pakistan (TTP) is believed to be one of al-Qa`ida’s primary partners in 
+that region. Although the TTP has not pledged allegiance to al-Qa`ida, it is reported that 
+al-Qa`ida fighters active in the Waziristan region have had operational ties to factions of 
+the TTP and have conducted joint operations in Afghanistan.
+159 Al-Qa`ida leaders active 
+in the Waziristan region have also operated in the same social orbit as former TTP 
+leader Baitullah Mahsud (and, after his de ath, current leader Hakimullah Mahsud) and 
+worked together to address disputes.
+160 
+ 
+Letters authored by Bin Ladin did not discu ss at length his views of the TTP, but the 
+few scattered references in which he ment ioned the group are far from flattering. 161 The 
+documents make it clear that Bin Ladin was not informed of the TTP’s planned 
+                                                           
+157 Usama bin Ladin, “Khutuwat `Amaliyya li-Tahrir Filastin,” March 2009 (CTC Library). 
+158 SOCOM-2012-0000016, 6 
+159 For example, see “Hearing to Continue to Receive Testimony on the Situation in Afghanistan,” Senate 
+Armed Services Committee, 16 June 2010, 14. 
+160 For example, see Joby Warrick, The Triple Agent: The al-Qaeda Mole who Infiltrated the CIA (New York: 
+Doubleday, 2011), 72.  
+161 For further analysis of the TTP in light of the “documents,” see forthcoming CTC paper by Don 
+Rassler. 
+
+36 
+ 
+bombing of Times Square in New York City, a failed attack on U.S. soil attempted by 
+Faisal Shahzad in May 2010. Bin Ladin was fo llowing Shahzad’s trial in the news and 
+was disappointed by his performance, which he thought distorted the image of jihadis: 
+ 
+You have perhaps followed the media trial of brother Faisal Shahzad, may God 
+release him, during which the brother was asked to explain his attack [against 
+the United States] in view of having taken an oath [not to harm it] when he was 
+awarded his American citizenship. He responded that he lied [when he took the 
+oath]. It does not escape you [Shaykh `Atiyya] that [Shahzad’s lie] amounts to 
+betrayal (ghadr) and does not fall under  permissible lying to [evade] the enemy 
+[during times of war]…please request from our Pakistani Taliban brothers to 
+redress this matter…also draw their attent ion to the fact that brother Faisal 
+Shahzad appeared in a photograph alongside Commander Mahsud. I would like 
+to verify whether Mahsud knew that when a person acquires an American 
+citizenship, this involves taking an oath, swearing not to harm America. If he is 
+unaware of this matter, he should be informed of it. Unless this matter is 
+addressed, its negative consequences ar e known to you. [We must therefore act 
+swiftly] to remove the suspicion that jihadis violate their oath and engage in 
+ghadr.
+162 
+ 
+This is not the only instance that Bin Ladin  worried about jihadis violating their oaths. 
+The letter addressed to Abu Basir in which he is asked to focus on operations inside the 
+United States (instead of Yemen) alerted him to focus on Yemenis “who hold either 
+visas or U.S. citizenships to carry out operations inside America as long as they did not 
+take an oath not to harm America.”
+163 Underlying Bin Ladin’s thinking is a distinction 
+between a visa ( ishara), acquired citizenship — which involves taking an oath (` ahd) — 
+and citizenship by birth — which does not entail taking an oath. From an Islamic law 
+perspective, it is not lawful to violate one’s oath ( naqd al-`ahd  or naqd al-mithaq ). 
+Accordingly, Bin Ladin wanted to promote th e image that jihadis are disciplined and 
+conform to Islamic Law. Faisal Shahzad’s boasting that he lied during his oath not to 
+harm the United States, therefore, is antithet ical to the image of jihadis that Bin Ladin 
+wanted the world to see.
+164 
+                                                           
+162 SOCOM-2012-0000015, 7. 
+163 SOCOM-2012-0000016, 4. 
+164 Bin Ladin may also have had in mind the debate between Ayman al-Zawahiri and his former mentor, 
+Dr. Fadl. The latter reneged on his jihadi views and among the accusations he made was that the 9/11 
+hijackers violated the terms of their visa, interpreting it as a form of aman (safe passage) from an Islamic 
+law of war perspective. Thus, from Bin Ladin’s perspective, it is only when a Muslim takes an oath that 
+he must be bound by it; a visa and citizenship by birth do not qualify as an oath. 
+
+37 
+ 
+ 
+It is not just the lapses in the public statements of TTP that worried Bin Ladin. The 
+group’s indiscriminate attacks against Muslims are also a subject of concern that he 
+raised with `Atiyya. In particular, he drew his attention to an operation the TTP carried 
+out against one of the tribes on the basis th at the tribe was against the Taliban. “Even if 
+this were to be proven, it does not justify the operation in view of the non-combatants 
+who died, for that would contradict the [Isl amic] legal basis of our politics,” Bin Ladin 
+wrote. “I therefore urge you to continue advising TTP [to reform their ways].”
+165 This 
+TTP attack was not an isolated incident; their indiscriminate attacks, including targeting 
+Muslims in mosques, is the subject of a long list of serious concerns that Adam Gadahn 
+enumerated in his letter.166  
+ 
+It was left to `Atiyya and Abu Yahya al-Libi to write a letter addressed to the “respected 
+brother” Hakimullah Mahsud, the leader of the TTP. Its content hardly reflected any 
+respect for Mahsud. The authors did not mince words, explicitly stating their 
+dissatisfaction with the TTP’s “ideology, methods and behavior.” These, they stated, are 
+marred with “clear legal errors and dangerous lapses,” and unless the group changes its 
+ways, its errors would be a “cause of great corruption of the jihadi movement in 
+Pakistan.” News had reached `Atiyya and al-L ibi that Mahsud had declared himself to 
+be “the singular leader to whom everyone must pledge allegiance and declaring anyone 
+who rebels against him ( kharij `alyhi) or is not in his Tehrik to be a rebel ( baghi).”
+167 In 
+classical Islamic political parlance, dissenters ( khawarij) and rebels ( bughat) who 
+renounce the authority of the legitimate imam are subject to jihad and liable to be killed. 
+Thus, Mahsud’s announcement amounted to declaring himself to be the great imam 
+with political authority over all Muslims, so `Atiyya and al-Libi found it necessary to 
+point out to him that there is a difference “between the [minor] position of leader of 
+jihad and that of great imam,” a distinction with which Mahsud should familiarize 
+himself.
+168 
+ 
+It also seems that Mahsud or members of his group had referred to al-Qa`ida as 
+“guests.” In response, `Atiyya and al-Libi explained to Mahsud that “we in al-Qa`ida 
+(Tanzim Qa`idat al-Jihad) are an international Islamic-jihadi organization, we are not 
+bound by country or race. In Afghanistan, we pledged allegiance to the Commander of 
+the Faithful Mullah Muhammad `Umar, [we recognize him to be] a mujahid and the 
+                                                           
+165 SOCOM-2012-0000010, 9. 
+166 SOCOM-2012-0000004, 11-13. 
+167 See Khadduri, Islamic Law of Nations, 230, footnote 1. 
+168 SOCOM-2012-0000007, p. 1. 
+
+38 
+ 
+commander of the faithful of the Islamic Emirate of Afghanistan. From his side, it is 
+permitted for us to be involved in general jihadi work…we would like to make clear to 
+you that this description [of ‘guests’] lacks a legal basis, and that Muslims are brothers 
+in religion.”
+169 The letter concluded with an unambiguous threat: “unless we see from 
+you serious and immediate practical and clear steps towards reforming [your ways] 
+and dissociating yourself from these vile mistakes [that violate Islamic Law], we shall 
+be forced to take public and firm legal steps from our side.”
+170 `Atiyya’s and al-Libi’s 
+letter was not the first warning issued to the TTP by the leadership of al-Qa`ida. In light 
+of its rebuking tone, an examination of some of `Atiyya’s and Mustafa Abu’l-Yazid’s 
+statements a year prior to the drafting of the letter makes it clear that their 
+condemnation of the indiscriminate targeting  of Muslims in mosques and marketplaces 
+was an implicit criticism of the TTP.
+171 It is either that the TTP was too slow to 
+understand that these public statements were implicitly criticizing their actions or 
+simply pretended that they did not understand. 
+ 
+Al-Shabab  
+Al-Shabab is not extensively discussed in the documents, but there are enough 
+references that reflect Bin Ladin’s displeasure with the group’s style of governance. 
+There is also a letter authored by Bin Ladin and addressed to the leader of al-Shabab, 
+Mukhtar Abu al-Zubayr. It seems that Abu al -Zubayr had sent a letter to Bin Ladin in 
+which he requested formal unity with al -Qa`ida and either consulted him on the 
+question of declaring an Islamic state in Somalia or informed him that he was about to 
+declare one.  
+ 
+On the question of formal unity with al-Qa`ida, Bin Ladin politely declined, although he 
+acknowledged that this is a “legal duty” ( wajib shar`i), by which he meant that such a 
+duty is incumbent upon all Muslims to work towards and implement when 
+circumstances are conducive. Bin Ladin cited two reasons to explain why he 
+discouraged formal unity. First, he indicated  that it would give the “enemy” the excuse 
+to mobilize its forces against Somalia; further, without formal unity, it would remain 
+feasible for foreign aid to reach Muslims in need in Somalia.
+172 The second reason Bin 
+Ladin cited is the extreme poverty in Somalia as a result of ongoing wars. He further 
+wanted to promote economic development to enhance people’s lives. “I am 
+                                                           
+169 Ibid. 
+170 Ibid., 2. 
+171 Mustafa Abu’l-Yazid, “Blackwater and the Pesh awar Bombings,” al-Sahab, 11 November 2009; 
+“Statement by Shaykh Atiyatallah about the Pesh awar Bombings,” November 2009 (Released by Al-
+Fallujah Islamic Forum in January 2010).    
+172 SOCOM-2012-0000005, pp. 1-2. 
+
+39 
+ 
+determined,” he wrote to Abu al-Zubayr, “to urge merchants in the Gulf states in one of 
+my public statements to [invest] in effective and important developmental projects. 
+These would not be too costly, we have already tested such projects in Sudan. Thus the 
+absence of a public affiliation between the jihadis [in Somalia] with al-Qa`ida would 
+strengthen the position of merchants who de sire to help their [Muslim] brothers in 
+Somalia.”
+173 
+ 
+On the question of declaring a state ( dawla), Bin Ladin advised against it. Yet if al-
+Shabab believed it was necessary to formaliz e their authority in Islamic terms, Bin 
+Ladin suggested that the group declare an imara, an emirate/province, not a state, and 
+call it “the Islamic Emirate of Somalia.”
+174 In Islamic political parlance, an imara is part 
+of a broader Islamic state/dynasty; it is headed by an amir who is a representative of the 
+caliph/greater imam. As with Yemen, Bin Ladin urged Abu al-Zubayr to restrain his 
+ambitious plans. He concluded his letter to Abu al-Zubayr with gentle advice on 
+governance: “[just as] I urge myself, I urge you to hold on to piety, patience, and 
+perseverance and to adhere to noble characters, those to which when an amir adhere, 
+the affairs of his citizenry would improve.” He further explained to Abu al-Zubayr that 
+the leader’s wisdom is manifest through “his forgiveness, justice, patience and good 
+relationship with his citizenry.”
+175 Bin Ladin’s advice is not for stylistic flourish; it is 
+intended to signal to Abu al-Zubayr that his leadership is ultimately measured by how 
+well Somalis are governed and their needs met.  
+ 
+Bin Ladin’s concern over al-Shabab’s mode of governance was explicitly articulated in a 
+letter to `Atiyya. He asked `Atiyya to enquire from “the brothers in Somalia” about the 
+economic situation of the states under their authority: “it does not escape you [Shaykh 
+`Atiyya] that attending to people’s livelihood is an important objective, according to the 
+Law, and it is one of the most important duties of the leader. It is therefore necessary to 
+seek to create an economic force [in Somalia towards achieving this end].” Bin Ladin 
+had apparently sent `Atiyya some suggestions on how to improve the economy, but 
+`Atiyya either ignored them or had not attended to them.
+176  
+ 
+In addition to al-Shabab’s neglect of building a viable economy, Bin Ladin was also 
+worried about the group’s rigid approach to Islamic Law, specifically its inflexible 
+                                                           
+173 Ibid., 2. 
+174 Ibid., 1. 
+175 Ibid., 3. 
+176 SOCOM-2012-0000010, 5. 
+
+40 
+ 
+application of the hudud, or deterrent penalties for certain crimes. 177 He must have 
+thought that the group was applying penalties with excess and asked `Atiyya to write 
+“to our brothers in Somalia with some advice on how to deal with those whose offenses 
+are ambiguous ( al-mushtabah bihim ) so that they may heed the prophetic hadith ‘avert 
+the hadd penalties by means of ambiguous cases’ ( idra’u al-hudud bi-al-shubuhat ).”
+178 Bin 
+Ladin was referring here to a hadith, a report attributed to the Prophet Muhammad, 
+which has served as a basis for jurists to avoid the imposition of severe penalties.
+179  
+ 
+Bin Ladin’s letter to Abu al-Zubayr has echoes of the “it’s not you, it’s me” excuse. Why 
+should he deny al-Shabab official membership in al-Qa`ida yet still honor Abu al-
+Zubayr with a personal and cordial letter that  he could have asked `Atiyya to write on 
+his behalf? It is possible that he had been sending personal letters to other regional 
+leaders, believing that even though he could not control them, it was still his duty to 
+continue to advise them to change their way s, in which case his letter to Abu al-Zubayr 
+would fit this pattern. It is also possible th at Bin Ladin’s reasoning may not have been 
+entirely noble; it may be that al-Shabab was trying to purchase its way into al-Qa`ida. In 
+what was probably his last letter, Bin Ladin asked `Atiyya to inform him of the “sums 
+of money in support of jihadis coming from inside and outside Pakistan, and to itemize 
+separately the sums arriving from each re gion; and of these to explain what happened 
+with respect to the sum from the brothers in Somalia mentioned in your letter.”
+180 In 
+itself, the reference to a distinct sum from Somalia is obviously not conclusive that al-
+Shabab was attempting to purchase use of the brand, but it may suggest that the sum 
+from Somalia stood out in relation to others. If this is a plausible observation, then it 
+might explain Bin Ladin’s position: although he was not prepared to “franchise” al-
+Qa`ida’s brand, fearing that al-Shabab’s shortcomings would be a liability, he still 
+deemed it necessary to be cordial to the le ader of al-Shabab to ensure the group’s 
+continued financial support of jihadi activities, (mis)leading Abu al-Zubayr to think that 
+al-Shabab could eventually be granted membership. Nine months after Bin Ladin’s 
+death, Ayman al-Zawahiri delivered to al-Shabab what Bin Ladin had denied them. Al-
+Zawahiri and Abu al-Zubayr released a public statement announcing the union 
+                                                           
+177 On al-Shabab’s rigid application of the hudud, see Al-Qimmah Islamic Network, “Tatbiq Hadd al-Rajm 
+wa-Hadd al-Harabah bi-Wilayat Shbili al-Wista al-Islamiya,” http://al-
+qimmah.net/showthread.php?t=24727&langid=2 (accessed 26 April 2010). 
+178 SOCOM-2012-0000010, 5. 
+179 See E.K. Rowson, “Shubha,” Encyclopaedia of Islam, Second Edition (Brill, 2012). Edited by: P. Bearman; 
+Th. Bianquis; C.E. Bosworth; E. van Donzel; and W.P. Heinrichs. 
+180 SOCOM-2012-0000010, 8. 
+
+41 
+ 
+between the two groups as a testimony that the “jihadi movement is growing with 
+God’s help.”181 
+ 
+Bin Ladin’s decision not to grant al-Shabab a public union with al-Qa`ida is intriguing 
+in another respect. A close reading of a related letter may suggest that Bin Ladin’s 
+denial was the subject of internal debate within al-Qa`ida and possibly behind his 
+back.
+182 The author of the letter was concerned with the content of another letter to 
+which he was made privy. He referred to it as the “letter of our friend” ( risalat sahibina) 
+and explained that: 
+ 
+…it is possible that the reason behind it  is the fear of those brothers from the 
+expansion and growth of the size of al-Qa`ida, with God’s grace and power. They 
+believe that being burdened by this expansive body is weighty on their neck and 
+their capability cannot sustain it. It woul d make them liable to problems with 
+m a n y  s i d e s ,  e s p e c i a l l y  s i n c e  t h e y  d e s i r e  o r  h o p e  t o  p u r s u e  t h e  p a t h  o f  
+construction and development. That is why they are satisfied with those who 
+seek them, but do not see [the need] to go beyond that…That is why I believe it is 
+necessary to affirm al-Qa`ida’s ties to its branches and make it public as a fait 
+accompli and useless to deny…Therefore, I hope that you would reconsider your 
+decision of not declaring publicly the union with the brothers in Somalia simply 
+because we might be pressured in the future to declare that we are not affiliated 
+with them or others.
+183 
+ 
+This letter suggests that Bin Ladin’s position was subject to internal criticism. The 
+pursuit of “construction and development,” which Bin Ladin outlined in his letter to 
+Abu al-Zubayr was atypical al-Qa`ida discourse and was not welcomed by the author 
+of this letter. Furthermore, it suggests th at some were frustrated with Bin Ladin’s 
+reluctance to welcome publicly groups pledging allegiance to al-Qa`ida, accusing him 
+of “being burdened by this expansive body” instead of seeing it as a sign of “God’s 
+grace.” The only regional jihadi group th at Bin Ladin publicly granted a formal 
+affiliation is al-Qa`ida in Mesopotamia (AQI); all other groups that were formalized to 
+be in the fold of al-Qa`ida were announced by Ayman al-Zawahiri. 
+ 
+                                                           
+181 “Bushra Sarra,” Shabakat Shumukh al-Islam, http://www.shamikh1.info/vb/showthread.php?t=148330 
+(accessed 30 April 2012). 
+182 See Appendix for alternative readings of this letter. 
+183 SOCOM-2012-0000006, 1. 
+
+42 
+ 
+If Bin Ladin was in charge of AQC, the content of his correspondence suggests that he 
+did not enjoy a symbiotic relationship with th e affiliates on the operational front. The 
+documents reveal that Bin Ladin was burdened  by what he viewed as the affiliates’ 
+incompetence: specifically a lack of political acumen, an inability to win public support, 
+and most importantly poorly planned operat ions that resulted in the deaths of 
+thousands of Muslims. If AQC lacks the ability to exert control over its supposed 
+affiliate groups — whether distant groups like AQAP or so called “fellow travelers” like 
+the TTP that are active in the geographical space where it is based — it stands to reason 
+that the power and clout AQC is meant to exer t over the global jihadi landscape is most 
+doubtful. 
+ 
+  
+III- Al-Qa`ida Ties to Iran and Pakistan? 
+While the documents speak volumes about Bin Ladin’s dwindling control over the 
+movement that he helped to cultivate and inspire, they are less clear on the role of two 
+powerful regional actors, Iran and Pakistan, frequently accused of enjoying ties to the 
+group. Nonetheless, given the limited amount of reliable available information on this 
+issue, the documents shed some light on how al-Qa`ida viewed these two key actors. 
+Relations between al-Qa`ida and Iran appear to have been highly antagonistic, and the 
+documents provide evidence for the first time  of al-Qa`ida’s covert campaign against 
+Iran. This battle appears to have been an attempt to influence the indirect and 
+unpleasant negotiations over the release of jihadis and their families, including 
+members of Bin Ladin’s family, detained by Iran. References to Pakistan are much too 
+scattered to provide a coherent presentatio n of al-Qa`ida’s relationship with the 
+Pakistani government, but the few mentions of the Pakistani security forces in the 
+document do not explicitly point to any institutional Pakistani support to Bin Ladin.  
+ 
+Iran 
+The relationship between al-Qa`ida and Iran is one of the least understood aspects 
+about al-Qa`ida’s history. Due to the scarcity of reliable public information to elucidate 
+the nature of this connection, theories vary widely.
+184 The Western frontier of 
+                                                           
+184 One of the earliest reported links between al-Qa`ida and Iran comes from the testimony of Jamal al-
+Fadl – a former member of al-Qa`ida who defected and became an informant for the U.S. government. 
+During his trial testimony (against Bin Ladin) in February 2001, al-Fadl described contact that four al-
+Qa`ida members – Abu Talha al-Sudani, Abu Jaffar al-Misri, Sayf al-Misri (see below), and Sayf al-`Adl – 
+allegedly had with Hezbollah operatives in Lebanon in the 1990s.  To the authors’ knowledge, this 
+information has not been corroborated. See USA v. Osama bin Laden, et. al., United States District Court 
+Southern District of New York, 6 February 2001, http://cryptome.org/usa-v-ubl-02.htm. For background 
+
+43 
+ 
+Afghanistan bordering Iran was considered by  al-Qa`ida strategists as an alternative 
+base for their activities to escape and evade the intrusion of U.S. Special Operations 
+Forces that were targeting them prior to th e U.S.-led invasion of Afghanistan in 2001. 
+Sayf al-`Adl, one of al-Qa`ida’s tier-one leaders, related in his publicly available 
+writings that the choice of this geographical location was due to its close proximity to 
+the safest route available to the “brothers,” namely Turkey-Iran-Afghanistan. “Pakistani 
+authorities,” he explained, “were beginning to exert pressure on us and closely monitor 
+our movements, making it very difficult for Arab brothers and others to reach 
+Afghanistan via Pakistan.” Al-`Adl further related that they established links with some 
+supporters in Iran, but not with the Iranian government; some “brothers” from 
+Gulbuddin Hikmatyar’s Islamic Party (al-Hizb al-Islami) made available to them some 
+apartments and farms that they owned in Iran. Many families, he wrote, headed to Iran 
+following the U.S.-led invasion in 2001 presumably expecting to be left alone, but before 
+long Iranian authorities, pressured by th e U.S. government in his view, began a 
+campaign of arresting people and deporting them to their home countries.
+185  
+ 
+When he wrote this article, al-`Adl himself was believed to be detained by Iranian 
+authorities, and this may have constrained his ability to provide elaborate details as to 
+the Iranian regime’s rationale with respect to detaining jihadis. Nevertheless, his 
+account provides a plausible rationale as to why al-Qa`ida would look to Iran, namely 
+as a passage or a base that appeared to prov ide safety for its members or other jihadis. 
+Al-Qa`ida did not appear to have looked to Iran from the perspective that “the enemy 
+o f  m y  ( A m e r i c a n )  e n e m y  i s  m y  f r i e n d , ”  b u t  t h e  g r o u p  m i g h t  h a v e  h o p e d  t h a t  “ t h e  
+enemy of my (American) enemy would leave me alone.” Al-`Adl’s explanation about 
+the clampdown by Iranian authorities, however, is not satisfactory because they did not 
+deport all jihadis, and the documents reveal that Iran was releasing jihadis and their 
+families as recently as 2011. 
+ 
+The documents provide insights on al-Qa`ida and Iran starting in 2009. In a letter dated 
+11 June 2009, authored by `Atiyya and addressed to “our venerable shaykh,” Bin Ladin 
+or possibly another senior leader, he wrote th at “I am delighted to inform you that the 
+Iranians released a group of brothers in several batches last month.”
+186 The list included 
+                                                                                                                                                                                             
+on these debates, see Bruce Riedel, “The Mysterious Relationship between al-Qa`ida and Iran,” CTC 
+Sentinel 3, no. 7 (2010). 
+185 Sayf al-`Adl, “Tajrubati ma` Abu Mus`ab al-Zarqawi,” Minbar al-Tawhid wa-al-Jihad, 
+http://www.tawhed.ws. 
+186 SOCOM-2012-0000012, 1. The names of the released and their profiles are as quoted in the letter: “`Abd 
+al-Muhayman al-Misri and his family; Salim al-Misri (of the Jihad Group) – the term used for “of” (amta`) 
+could mean “of the baggage” – which could imply a pejorative sense) – and his family; Abu Suhayb al-
+
+44 
+ 
+a number of legacy al-Qa`ida members (descr ibed as mid-level brothers) whose ties to 
+the group stretch back to the 1990s. 187 In the document, `Atiyya further indicated that 
+the Iranians told the person liaising between the two parties that they would soon be 
+delivering to him the family of “Azmarai” (Bin Ladin), “perhaps even within a week.”
+188 
+The initial promise was that they would release “the family (women and children, 
+excluding the men).” 189 The Iranians also leaked to those whom they released that they 
+planned to free more prisoners in the near future.190 
+                                                                                                                                                                                             
+Makki (of Yemeni origin: during the Crusader campaign, he served as the bodyguard of Shaykh Abu 
+Suleiman al-Makki al-Harbi) and his family; al-Zubayr al-Maghribi (a brother who used to work with the 
+Libyan Fighting Group) and his family; on his way (he might be in Quetta or thereabout, importantly, he 
+crossed the Iranian border, and may God deliver him [safely] is Khalifa al-Misri and his family.” 
+187 SOCOM-2012-0000012, 2; According to Fadil Harun, al-Harb `ala al-Islam, p. 374, `Abd-al-Muhayman’s 
+family was chosen to be among those families to live in the newly constructed compound in Kandahar, 
+Afghanistan, in 1998, illustrating that he has been associated with the group since at least that time. See 
+also Harmony document AFGP-2002-600046, 2. Salim al-Misri was an explosives trainer at al-Qa`ida’s 
+Jihad Wal camp in the late 1990s. He was also one of the al-Qa`ida members believed to have received 
+training from Hezbollah in explosives. See USA v. Osama bin Laden, et. al., United States District Court 
+Southern District of New York, 6 February 2001, http://cryptome.org/usa-v-ubl-02.htm. In 1996, Salim al-
+Misri lived in Saudi Arabia and members of his family in Sudan. See Harmony document AFGP-2002-
+000232, 9 (of the original Arabic); Abu Suhayb al-Makki (Muhammad Ali Qasim Yaqub) was detained by 
+Pakistani authorities in Karachi several weeks after Bin Ladin’s death.  According to press accounts, Abu 
+Suhayb al-Makki is “said to have worked directly under the al-Qaida leadership along the Pakistan-
+Afghanistan border.” See Declan Walsh, “Pakistan Hones in on Osama bin Laden Network with Arrest of 
+al-Qaeda Man,” Guardian, 17 May 2011. 
+188 Although this cannot be ascertained, it is possible that Ezedin Abdel Aziz Khalil (aka Yasin al-Suri) 
+and/or Salim Hasan Khalifa Rashid al-Kuwari helped to facilitate the transfer and travel of these 
+individuals from Iran to Pakistan.  See “Treasury Targets Key Al-Qa’ida Funding and Support Network 
+Using Iran as a Critical Transit Point,” 28 July 2011. 
+189 SOCOM-2012-0000012, 2. 
+190 According to `Atiyya, the next group would include Abu Hafs al-`Arab, Abu Ziyad al-`Iraqi, and Abu 
+`Amru al-Misri. See SOCOM-2012-0000012, 2. In an interview conducted by al-Hayat, a former al-Qa`ida 
+member “Muhammad al-Tamimi” mentioned the name Abu Hafs al-`Arab as one of the leaders of the 
+Egyptian Jihad Group who was among those he met in al-Dahhak house in Kandahar in December 2001. 
+See http://www.jammoul.net/forum/showthread.php?t=1628 (accessed 30 April 2012); Abu Hafs al-
+`Arab’s name is also mentioned in a captured document that summarizes the interrogations of several 
+Arabs detained by al-Qa`ida and the Taliban on suspicions that they were spying for foreign intelligence 
+services during the late 1990s. The document suggests that Abu Hafs al-`Arab had a relationship with 
+Sayf al-`Adl and could have been involved in security issues. See Harmony document AFGP-2002-800775, 
+75. Two other Harmony documents identify Abu Hafs al-`Arab as a member of al-Qa`ida. See AFGP-
+2002-600046, 2 and AFGP-2002-600177, 2. Abu Ziyad al-`Iraqi’s name appears in a letter sent from `Abd 
+al-Wakil al-Somali to Abu al-Faraj. In the letter, Abu al-Faraj is informed that Abu Ziyad will be coming 
+to his area per the direction of “Shaykh Abu Hafs” (likely a reference to Abu Hafs al-Misri). The 
+document suggests that Abu Ziyad knew Abu Hafs or worked on his behalf. See Harmony document 
+AFGP-2002-800636, 1. For additional background on other al-Qa`ida members believed to be in Iran, see 
+
+45 
+ 
+ 
+If `Atiyya’s explanation is credible, then the Iranians were not releasing jihadi prisoners 
+to forge a bond or strengthen an existing one with al-Qa`ida. Rather, `Atiyya was of the 
+view that “we believe that our efforts, which included escalating a political and media 
+campaign, the threats we made, the kidnapping of their friend the commercial 
+counselor in the Iranian Consulate in Peshawar, and other reasons that scared them 
+based on what they saw [we are capable of], to be among the reasons that led them to 
+expedite [the release of these prisoners].”
+191 The commercial counselor at the Iranian 
+Consulate to whom `Atiyya was referring is Hesmatollah Atharzadeh-Nyaki; he was 
+kidnapped in Peshawar in November 2008
+192 and released in March 2010. 193 A few 
+weeks before he was kidnapped, Abdul Khaliq Farahi, the Afghan consul general in 
+Peshawar, was also kidnapped. Six months into his ordeal, he found himself sharing a 
+room on and off for a year with none other than Atharzadeh. Farahi believed that his 
+kidnappers were al-Qa`ida, and they seemed to have had links with Pakistani 
+militants.
+194  
+ 
+It is significant to note that the Iranians do not appear to have made direct contact with 
+al-Qa`ida, at least not in the initial stage. `Atiyya’s frustration could not be clearer: “But 
+the criminals did not send us any letter, nor did they send us a message through any of 
+the brothers [they released]! Such behavior is  of course not unusual for them; indeed, it 
+is typical of their mindset and method. They do not wish to appear to be negotiating 
+with us or responding to our pressures, as if to suggest that their actions are purely one-
+sided and based on their own initiative.”
+195 
+ 
+Bin Ladin was equally distrustful of the Iranian regime. The release of his family was 
+fraught with hurdles and did not materializ e “within a week,” as `Atiyya was led to 
+believe. A seemingly authentic letter authored by Bin Ladin’s son Khalid addressed to 
+Iranian Supreme Leader ‘Ali Khameneii in January 2010 has been published. In it, 
+Khalid made known to Khameneii that numerous letters requesting the release of 
+members of his family were ignored by the Iranian government. It appears that the 
+                                                                                                                                                                                             
+Christopher Boucek, “Examining Saudi Arabia’s 85 Most Wanted List,” CTC Sentinel 2, no. 5 (2009). Iran 
+has also “released” Mustafa Hamid (Abu Walid al-Misri), who is not believed to have been an al-Qa`ida 
+member but historically an advisor and trainer for the group.    
+191 SOCOM-2012-0000012, 2. 
+192 Jane Perlez, “An Iranian Diplomat Is Abducted by Gunmen in Pakistan,” New York Times, 13 
+November 2008. 
+193 Alan Cowell, “Iranian Diplomat in Pakistan Is Freed,” New York Times, 30 March 2010. 
+194 Carlotta Gall, “Afghan Tells of Ordeal at the ‘Center of Al Qaeda,” New York Times, 2 March 2011. 
+195 SOCOM-2012-0000012, 2. 
+
+46 
+ 
+escape of his sister Iman to the Saudi Emba ssy in Tehran forced the Iranian government 
+to admit the presence of Bin Ladin’s family in  Iran. His brother, Sa`d, also “managed to 
+escape by himself and he related to us the tr uths of what was happening, that they had 
+repeatedly asked to leave Iran but they were beaten and suppressed.” 196 Sa`d was 
+reported to have been killed in 2009, 197 and in his last letter Bin Ladin indicated to 
+`Atiyya that he was about to send him a copy of a letter Sa`d wrote before he died to be 
+included in al-Sahab’s archive “in view of the important information it reveals about the 
+truth of the Iranian regime.”
+198 
+ 
+It appears that the Iranians promised to release Bin Ladin’s family in exchange for the 
+release of Atharzadeh, but they seem to have kept one of his daughters and her 
+husband. In the second half of 2010, Bin Ladin asked `Atiyya to correspond with the 
+Iranians (not clear if directly or indirectly) to tell them that “they promised that upon 
+releasing their captive, they would release my family, which includes my daughter 
+Fatima who [should naturally stay in the co mpany of] her husband. It is not fair to 
+separate women from their husbands; it is therefore necessary that they release her and 
+her husband along with his [second wife] Umm Hafs.”
+199 Despite the many hurdles al-
+Qa`ida faced from the Iranian regime, the release of detainees in 2010 was timely. As 
+noted earlier, Bin Ladin urged `Atiyya to move the “brothers” out of Waziristan, fearing 
+for their security. He therefore saw the detain ees released by Iran as a “lifeline” to 
+compensate for those who were getting out or being killed. Not all the released 
+detainees seem to have been known to al-Qa`ida, for Bin Ladin suggested that they 
+should be given an intensive course not ex ceeding three weeks with a heavy emphasis 
+on ideological instruction and some basic m ilitary training. He further remarked that 
+this should serve as a testing course “through which we get to know their capabilities.” 
+Once the talents of the “brothers” were identified, they would be assigned appropriate 
+tasks, such as sending them to their home countries to preach, recruit, raise money; 
+others were to be kept in Waziristan to develop further their capabilities, and those who 
+are disciplined could be sent to the frontlines to fight alongside the Taliban.
+200 
+ 
+Although the documents make it clear that the relationship between Iran and al-Qa`ida 
+is antagonistic, it is difficult to explain Iran’s rationale for detaining en masse these 
+jihadis for years, without due process. One plausible explanation that has been 
+                                                           
+196 Khalid bin Ladin, “Min Khalid Bin Usama bin Ladin ila Murshid al-Thawra `Ali Khameni’i,” 
+http://hanein.info/vb/showthread.php?t=162003 (accessed 23 April 2012). 
+197 Eric Schmitt, “U.S. Officials Say a Son of bin Laden May Be Dead,” New York Times, 24 July 2009. 
+198 SOCOM-2012-0000010, 10. 
+199 SOCOM-2012-0000019, 42-43. 
+200 Ibid., 43. 
+
+47 
+ 
+advanced is that Iran held them “in part as a deterrent against a Qaeda attack on 
+Iranian soil.”201 Another widely reported explanation is that Iran was holding al-Qa`ida 
+members “as a bargaining chip in its war of nerves with the US, and will only allow 
+their extradition in return for substantial concessions.”
+202 Whether Iran was aware of it 
+or not, al-Qa`ida had plans to put the released detainees to “work.” 
+ 
+Pakistan 
+Unlike the explicit and relatively substantive references to the Iranian regime, the 
+documents do not have such references about Pakistan. Although there are notes about 
+“trusted Pakistani brothers,” there are no explicit references to any institutional 
+Pakistani support. The one instance Pakistani intelligence is mentioned is not in a 
+supporting role: in the course of giving detailed instructions about the passage his 
+released family from Iran should take, Bin Ladin cautioned `Atiyya to be most careful 
+about their movements lest they be followed. More precisely, he remarked that “if the 
+[Pakistani] intelligence commander in the region is very alert, he would assume that 
+they are heading to my location and he would monitor them until they reach their 
+destination.”
+203 This reference does not suggest that Bin Ladin was on good terms with 
+the Pakistani intelligence community. Anot her reference worth highlighting in this 
+regard, is that Bin Ladin did not appear to enjoy freedom of movement with his family. 
+In his long list of security measures to be followed by the “brothers” to evade the eyes 
+of the authorities, he wrote to `Atiyya that it is most important not to allow children to 
+leave the house except in emergency situations. For nine years prior to his death, Usama 
+bin Ladin proudly told `Atiyya that he and hi s family adhered to such strict measures, 
+precluding his children from playing outdoors  without the supervision of an adult who 
+could keep their voices down.
+204 Bin Ladin, it was said, could run but he could not hide. 
+He seems to have done very little running and quite a lot of hiding. 
+ 
+Rather than outright protection or assistance from states such as Iran or Pakistan, Bin 
+Ladin’s guidance suggests that the group’s lead ers survived for as long as they did due 
+to their own caution and operational security protocols.
+205 While the release of new 
+documents may necessitate a reevaluation of al-Qa`ida’s relations to Iran and Pakistan, 
+the documents for now make it clear that al-Qa`ida’s ties to Iran were the unpleasant 
+byproduct of necessity, fueled by mutu al distrust and antagonism. The limited 
+discussion of the Pakistani military does not lend itself to any final determination on 
+                                                           
+201 Eric Schmitt, “U.S. Officials Say a Son of bin Laden May Be Dead.” 
+202 Dan De Luce, “Iran Holding al-Qaida Men ‘as Bargaining Chip with US’,” Guardian, 7 August 2003. 
+203 SOCOM-2012-0000019, 41. 
+204 SOCOM-2012-0000010, 8. 
+205 See forthcoming article by Liam Collins to be published in the CTC Sentinel. 
+
+48 
+ 
+ties between Bin Ladin and the Pakistani st ate or actors within it, but Bin Ladin’s 
+emphasis on security precautions suggests that fear and suspicion dominated his 
+calculations. 
+ 
+IV-  Bin Ladin’s Plans 
+Among the documents, Bin Ladin’s last private letter is dated 25 April 2011. By then, 
+events in the world, as he was observing them on his television screen, were unfolding 
+at a pace that caused him to reassess his worldview. He saw the revolutions sweeping 
+the Arab world to represent a “formidable event” ( hadath ha’il), a turning point in the 
+modern history of the umma. At the time he was writing, the presidents of Tunisia and 
+Egypt, Zein al-`Abidin bin `Ali and Husni Mubarak, had fallen. Bin Ladin was 
+convinced that their fall was bound to trigger a domino effect, and “the fall of the 
+remaining tyrants in the region was inevitable.” Thus, “if we double our efforts towards 
+guiding, educating and warning Muslim people from those [who might tempt them to 
+settle for] half solutions, by carefully presenting [our] advice, then the next phase will 
+[witness a victory] for Islam, if God so pleases.”
+206  
+ 
+In line with al-Qa`ida’s traditional stance, Bin Ladin dismissed the Muslim Brotherhood 
+(Ikhwan) and similar Islamist groups, accusing them of being in pursuit of “half 
+solutions” ( ansaf al-hulul ). This, in his parlance, means that although they raised the 
+banner of Islam in their political discourse, they deviated from its teachings when they 
+agreed to pursue their objectives through the electoral process. This is the spirit that 
+underlies the statements made by al-Qa`ida’s leaders when they accuse Islamists of 
+compromising God’s Law when they form political parties and contest elections that are 
+regulated by positive law ( qawanin wad`iyya). Nevertheless, Bin Ladin believed that, in 
+recent years, some among the Ikhwan have been spreading the “correct understanding” 
+of Islam, which caused him to anticipate  that their return to “true Islam” ( al-islam al-
+haqq) is merely a matter of time.
+207 
+ 
+Thus, within a week of his death, Bin Ladin envisaged two different strategies to be 
+deployed in two geographical zones respectively. The first strategy pertains to the Arab 
+                                                           
+206 SOCOM-2012-0000010, 1. 
+207 Ibid., 2. Bin Ladin’s cause for optimism that the Ikhwan may eventually return to “true Islam” is 
+largely based on a long question that was addressed to “Abu Muhammad” (Ayman al-Zawahiri). Bin 
+Ladin was most likely referring to al-Zawahiri’s 2008 “al-Liqa` al-Maftuh,” an online interview that was 
+referred to in the press as the “Town Hall” meeting. It consists of two parts. The question that Bin Ladin 
+was likely thinking about is the one posed by a certain “Sayf al-Islam” and it is in the second part. See “al-
+Liqa’ al-Maftuh ma` al-Sheikh Ayman al-Zawahiri,” Minbar al-Tawhid wa-al-Jihad, 
+http://www.tawhed.ws/r1?i=7534&x=1502092g (accessed 2 April 2012). 
+
+49 
+ 
+region undergoing revolutions, and it en tails “inciting people who have not yet 
+revolted and exhort them to rebel against the rulers” ( khuruj ‘ala al-hukkam ); this, he 
+believed, should be part of a broader media campaign that should be carefully 
+orchestrated and void of any apparent differences among jihadis.
+208 The other strategy 
+concerns Afghanistan, and it entails continuing to evoke the obligation of jihad there. In 
+his mind, Muslims elsewhere regained their confidence and courage to revolt against 
+their rulers thanks to the jihadis, who, by fighting against the United States in 
+Afghanistan, dragged it into a war of attrition and weakened it. Following his logic, the 
+jihadis’ bleeding of U.S. resources in Afgh anistan lifted the “coercive pressure” that the 
+United States exercised elsewhere; this, in turn, allowed people previously scared and 
+overwhelmed by the United States to rebel against its “agents,” meaning their corrupt 
+rulers.
+209  
+ 
+Notwithstanding the importance of jihad in  Afghanistan, there was no doubt in Bin 
+Ladin’s mind that the “greatest obligation” incumbent upon jihadis during this phase is 
+to “guide and advise” (tawjih wa-irshad) the umma, which would involve the clarification 
+of fundamental Islamic concepts ( mafahim islamiyya ). This task “ought to occupy the 
+largest share of our efforts”;
+210 more specifically, this entails “calling upon all those with 
+literary capabilities, gifted with rhetorical eloquence be it prose or poetry to be 
+delivered as audio, visual or in written [statements].”
+211 In his guidance to `Atiyya, Bin 
+Ladin asked him to remind the “brothers” in the region undergoing revolutions to be 
+patient and warn them against entering into conflicts with Islamic parties. These parties, 
+he suspected, will likely form governments in these countries and “our obligation 
+during this period is to focus on da`wa among Muslims and win supporters by 
+spreading proper understanding [of Islam].”
+212 
+ 
+`Atiyya had some different plans with respec t to countries undergoing revolutions. He 
+thought that it would be a good idea to send some of the “competent brothers” to their 
+home countries to take part in the events and liaise with Islamic forces. Bin Ladin was 
+more cautious, urging careful consideration, especially as to whether a safe route may 
+be arranged for them. As to those who are too eager to go, he advised `Atiyya that their 
+decision should be respected as long as they take as much care as possible as to their 
+safety.
+213 
+                                                           
+208 SOCOM-2012-0000010, 3.  
+209 Ibid., 2. 
+210 Ibid. 
+211 Ibid., 3. 
+212 Ibid., 4. 
+213 Ibid., 7. 
+
+50 
+ 
+ 
+Bin Ladin made an ambiguous but intriguing reference in relation to Saudi Arabia. It 
+appears that the Arab Spring caused some in Saudi Arabia to worry as to whether Bin 
+Ladin might call on Saudis to revolt. A cert ain “Sahib al-Tayyib” from Saudi Arabia 
+sent a letter to `Atiyya to be shared with Bin Ladin, but its purpose is not explicit. Bin 
+Ladin’s guess was that scholars who are either connected to the Saudi regime or who 
+themselves believe in the importance of stability in the Saudi kingdom and the Gulf 
+region warned al-Tayyib about the danger of stirring up ( ithara) the situation in Saudi 
+Arabia so that he may pass on this warning to “us.” Bin Ladin surmised that al-Tayyib 
+was hinting too at the importance of stability in Saudi Arabia.
+214 If he had a chance to 
+call on people to revolt as he advised `Atiyya, it is unlikely that he would have spared 
+the people of the Saudi kingdom from his statements.  
+ 
+Bin Ladin’s only public audio statement in re sponse to the Arab Spring, released after 
+his death, echoed some of the sentiments he expressed in his letter to `Atiyya. It is 
+somewhat of a paradigm shift, as he did not designate the movers of the Arab Spring as 
+mujahidun; instead, they are “free revolutionaries” ( thuwaar ahrar) and they are engaged 
+in a liberation (tahrir) enterprise. He viewed this as an event like no other event: “ hadath 
+tarikhi `azim ” (a great historical event). “With the fall of the tyrant,” he proudly 
+continued, “the meanings of submissiveness (dhilla), servility (khunu`), fear and restraint 
+(ihjam) have [also] fallen,” and the “meanings of freedom, dignity, courage and audacity 
+(iqdam) have arisen.”
+215  
+ 
+Within a week of his letter in response to the Arab Spring, Bin Ladin was killed. A 
+month later, Ayman al-Zawahiri was announced as his successor. Al-Zawahiri is 
+conspicuously distant from people in Bin Ladin’s immediate circle. One of the 
+documents consists of an edited copy of al-Zawahiri’s fourth statement in response to 
+events in Egypt; the edits are reflected in hi ghlighted passages and bold fonts. It is not 
+clear if Bin Ladin did the editing, but wh oever did had solid grammatical foundations 
+and prefered a self-effacing writing style. The edits were not included in al-Zawahiri’s 
+final speech which was released in a video on 4 March 2011, on jihadi forums.
+216 
+                                                           
+214 Ibid., 6. If Sahib al-Tayyib is one of the unrecognizable personalities in the 17 documents, he could be 
+the “middleman” who sent a letter to `Atiyya in 2006, or the person who sent Bin Ladin the critical letter 
+in 2006 – but unlikely; or very possibly the mysterious Abu Zifr/Zafr. It is interesting to note that in this 
+instance, Bin Ladin slipped and used the term “al-mamlaka” (kingdom) instead of “Jazirat al-`Arab.” 
+215 Usama bin Ladin, “ila Ummati al-Muslima” (CTC Library). 
+216 SOCOM-2012-0000013, 5. Of the 12 proposed corrections, only one appears in al-Zawahiri’s speech 
+(“muwalin” - tanwin bi al-kasr instead of “muwalun” - tanwin bi al-damma). This is an obvious grammatical 
+error and the type that any native speaker would automatically correct when reading. It cannot therefore 
+
+51 
+ 
+ 
+Beyond the presence of this statement by al-Zawahiri in the documents, Bin Ladin 
+referred to him (as “Abu Muhammad”) in a number of places, but the references do not 
+reflect that he was consulting him in the same manner he did with `Atiyya. If the 
+documents are representative of Bin Ladin’s  correspondence pattern and his immediate 
+circle over the years, then `Atiyya must have been his closest associate. Of the 17 
+documents, eight can be ascertained to have either been authored by or addressed to 
+`Atiyya. Not only does he seem to have acted as Bin Ladin’s conduit, but it is also 
+possible that he exercised more control than he was authorized. In one of the letters, for 
+example, Bin Ladin appeared frustrated that  the audio or visual recordings he was 
+sending to `Atiyya were either being delayed or not being released at all.
+217 
+ 
+Will there be another “Bin Ladin”? If Bin Ladin ’s instructions are closely followed, then 
+the world might hear from Hamza bin Ladin, if he is still alive. 218 Bin Ladin intended for 
+his son Hamza — who was released by the Iranians — to go to Qatar to pursue studies 
+in religious sciences and preach to the umma the message of jihad. Unlike Arab rulers 
+whom he abhors, Bin Ladin could not be accu sed of nepotism, and he certainly did not 
+intend for his son to monopolize the right to preach jihadi discourse. Bin Ladin singled 
+out Hamza not out of favoritism, but for “legal” convenience. Unlike many jihadi 
+leaders — including some of Hamza’s brothe rs — who are on the run and whose public 
+statements are therefore constrained by their limited movement,
+219 Bin Ladin reasoned 
+that his son Hamza might be able to spread the message as a free man. Hamza was 
+imprisoned while he was still a child and it wo uld be legally difficult to indict him of 
+                                                                                                                                                                                             
+be viewed as evidence that Bin Ladin’s edits, if they were his, ever reached al-Zawahiri. Given that the 
+remaining grammatical errors were included in the speech, it suggests that this document with edits 
+either did not reach al-Zawahiri in time or was never sent. For a version of the video, see: 
+http://www.youtube.com/watch?v=XWOu4Eb3pP4 (accessed 30 April 2012). 
+217 SOCOM-2012-0000003, 3. 
+218 There were conflicting reports on the status of Bin Ladin’s sons following the raid. Some have reported 
+that Hamza possibly escaped. See Muna Khan, “Hamza Bin Laden, ‘Crown Prince of Terror,’ May Have 
+‘Escaped’ After US Raid in Pakistan,” al-Arabiya, 11 May 2011. 
+219 Sa`d bin Ladin was likely the son most involved in al-Qa`ida, but he is believed to have been killed in a 
+U.S. drone strike in winter 2009. See Joby Warrick, “One of Osama Bin Laden’s Sons Reported Dead After 
+CIA Missile Strike,” Washington Post, 24 July 2009. The documents confirm his death. Another son, Khalid 
+bin Ladin, was living with his father in the Abbottabad compound and was reportedly killed in the raid. 
+See Muna Khan, “Hamza Bin Laden, ‘Crown Prince of Terror,’ May Have ‘Escaped’ After US Raid in 
+Pakistan,” al-Arabiya. 
+
+52 
+ 
+any crimes. 220 Hamza, Bin Ladin assured, “is of the jihadis; he shares their ideas and 
+their sorrows.”221 
+ 
+Conclusion 
+On the basis of the 17 declassified documents,  Bin Ladin was not, as many thought, the 
+puppet master pulling the strings that set in motion jihadi groups around the world. Far 
+from being pleased with the actions of regional jihadi groups claiming affiliation with 
+or acting in the name of al-Qa`ida, Bin La din was burdened by what he saw as their 
+incompetence. Their lack of political acumen to win public support along with their 
+indiscriminate attacks resulting in the deaths of many Muslims is a subject that 
+dominates Bin Ladin’s private letters composed in recent years.  
+ 
+The American public might be surprised to  learn that Bin Ladin was unimpressed by 
+the recent trend of American populist jihad. For example, he did not hold the American 
+jihadi citizen Anwar al-`Awlaqi (killed by a drone strike in Yemen in 2011) in great 
+esteem; Bin Ladin was not even inspired by Inspire, AQAP’s English-language 
+magazine designed to appeal to Muslim Americans to launch random attacks in the 
+United States. He warned of its “dangerous consequences,” presumably due to its 
+tasteless content and no doubt to the poor planning of the operations it promotes.
+222 
+ 
+In comparison to regional jihadi groups, Bi n Ladin comes across as an outmoded jihadi. 
+In contrast to their indiscriminate jihad, he was more interested in carefully planned 
+operations. In view of the recent marketin g of “lone wolf” operations as “New Age” 
+jihad, Bin Ladin instead urged methodical planning of suicide operations. He asked 
+`Atiyya to write to regional “brothers” warning  them “not to send a single brother on a 
+suicide fida’iyya operation (`amaliyya fida’iyya); they should send at least two…we tested 
+this (i.e., sending a single brother) in many operations and their percentage of success 
+was low due to psychological factors that affect the [designated] brother in such a 
+situation.”
+223 It is noteworthy that Bin Ladin used a secular political expression to 
+describe suicide operations rather than th e common religious expression “martyrdom 
+operation” (` amaliyya istishhadiyya ) typical of jihadi discourse. The regional groups’ 
+eagerness to declare “Islamic states” in their regions was moderated by Bin Ladin 
+urging patience to first secure public support; while they aim to win the small short-
+term battles, his eyes were on a larger prize:  defeating the United States to undo what 
+                                                           
+220 SOCOM-2012-0000019, 44. 
+221 Ibid. 
+222 SOCOM-2012-0000015, 9. 
+223 SOCOM-2012-0000019, 35. 
+
+53 
+ 
+he believed to be “apostate” Muslim regimes and liberate his fellow Muslims. Bin Ladin 
+knew well how to articulate publicly the grievances that he believed Muslims suffer at 
+the hands of their regimes and Western countr ies. His private letters show that saving 
+his fellow Muslims from the indiscriminate attacks of his jihadi “brothers” weighed 
+even more heavily on his mind. 
+
+54 
+ 
+Appendix 
+This appendix attempts to explain how some of the letters related to others, and in one 
+instance it provides alternative interpretations of a specific letter. Additionally, the 
+appendix includes the author, the recipient an d the date of each letter. The conversion 
+from the Hijri to the Gregorian calendar is inaccurate in some of the letters. If there is no 
+summary after the basic information, then the letter does not appear to be directly 
+related to another. This appendix is not meant to summarize each letter; for a brief 
+summary of each of the 17 documents, see the summaries accompanying the 
+documents. 
+SOCOM-2012-0000003 
+From: no name listed (assessed to be Usama bin Ladin) 
+To: Shaykh Mahmud 
+Date: Thursday, 17 Ramadan, 1431 (26 August 2010) 
+SOCOM-2012-0000004 
+From: no name listed (assessed to be Adam Gadahn) 
+To: unknown 
+Date: post-January 2011 
+The letter does not explicitly state who is the author or to whom it is addressed. Since 
+the author remarked that the American television channel ABC broadcast a part of a 
+statement he gave on the fourth anniversary of 9/11, this suggests that it was authored 
+by Adam Gadahn who did indeed release a statement then, part of which was 
+broadcast on ABC. The letter is unlikely to have been addressed to Usama bin Ladin 
+since the author referred to him in the third pers on. It is also not dated, but it must have 
+been authored either in January 2011 or soon thereafter since he referred to the 
+resignation of Octavia Nasr from CNN in July 2010 (he erroneously stated MSNBC) and 
+that of Keith Olbermann from MSNBC on 21 January 2011. The letter is in essence a 
+response to many of the requests/queries th at Bin Ladin made in his letter to `Atiyya 
+dated October 2010 (SOCOM-2012-0000015), particularly those concerning a media 
+strategy for the ten-year anniversary of 9/11. It is possible that `Atiyya shared SOCOM-
+2012-0000015 with Gadahn and this letter by Gadahn addressed questions raised in 
+SOCOM-2012-0000015. 
+SOCOM-2012-0000005 
+From: Usama bin Ladin 
+To: Mukhtar Abu al-Zubayr 
+Date: Friday, 26 Sha`ban, 1431 (6 August 2010) 
+
+55 
+ 
+SOCOM-2012-0000006 
+From: unknown 
+To: Azmarai 
+Date: 6 Muharram [1432] (c. 11/12 December 2010) 
+ 
+The letter is addressed to “the honorable brother Azmarai,” not Zamarai — the other 
+name Bin Ladin used as his signature. The on ly other instance Azmarai is used in the 
+documents is not by Bin Ladin, but by `Ati yya in his 2009 letter to Bin Ladin (SOCOM-
+2012-0000012). It should be noted that Bin Ladin is normally addressed as “shaykh,” not 
+as “brother” as the author of this letter addressed Azmarai. Below are two different 
+interpretations of this letter. 
+ 
+First Interpretation 
+The letter may have been addressed to Zamarai/Bin Ladin, and Azmarai is simply a 
+typo. Since it referred to the “brothers in Somalia,” urging reconsideration of Bin 
+Ladin’s decision not to declare publicly a union with them, it can safely be dated as 
+having been composed post Bin Ladin’s letter to Abu al-Zubayr dated August 2010 
+(SOCOM-2012-0000005). Therefore the Hijri date of 6 Muharram should be in 1432, 
+which would make it c. 11/12 December 2010. 
+ 
+This letter suggested that Bin Ladin’s position with respect to rejecting formal mergers 
+with regional jihadi groups was subject to inte rnal criticism. Instead of seeing it as a 
+sign of “God’s grace” and a testament to al-Qa`ida’s growth, Bin Ladin was virtually 
+accused of “being burdened by this expansive body.”  
+ 
+Who might this author be? As noted in this report, the only regional jihadi group that 
+Bin Ladin publicly admitted into the fold is al-Qa`ida in Mesopotamia (AQI) back in 
+December 2004. All other groups that were publicly admitted were announced by 
+Ayman al-Zawahiri, who recently admitted al-Shabab into the fold in February 2012. 
+Was the author al-Zawahiri? It is difficult to assert, but given his disposition towards 
+expanding al-Qa`ida through mergers, it is possible that it was him. If so, al-Zawahiri 
+did not share Bin Ladin’s strategic vision with  respect to al-Qa`ida’s relations with the 
+affiliates; moreover, unless Bin Ladin chan ged his mind about al-Shabab, then the 
+February decision to admit the group in the fold would not have been blessed by Bin 
+Ladin if he was still alive. Following the same logic, one also has to wonder whether al-
+Zawahiri acted on behalf of Bin Ladin or against his directives when he publicly 
+admitted other groups into al-Qa`ida. If al-Zawahiri was doing so against Bin Ladin’s 
+directives, then Bin Ladin did not have a firm grip on al-Qa`ida itself, let alone its so-
+called affiliates. Given that the documents show that Bin Ladin would not publicly 
+
+56 
+ 
+denounce groups like AQI/ISI, al-Zawahiri might have assumed that Bin Ladin would 
+not publicly refute him. 
+ 
+Second Interpretation  
+The letter may not have been addressed to Bin Ladin and “Azmarai” is not a typo but 
+perhaps a code indicating that it was not addressed to Bin Ladin, but about Bin Ladin. 
+Several reasons could justify this alternative reading.  
+- As noted earlier, Bin Ladin is addressed as “shaykh,” not as “brother,” as this 
+letter does. 
+- The author was cryptic, referring to the “letter of our friend” ( risalat sahibina ), 
+before switching from the singular when he referred to this “friend” to the plural 
+when he referred to the “brothers” even though the two are meant to refer to the 
+same person or group. The first reference to “brothers” cannot be to the 
+“brothers in Somalia” since the first “brothers” referred to those who were 
+fearful of al-Qa`ida’s growth; Bin Ladin’s letter to Abu al-Zubayr showed that al-
+Shabab was seeking union with al-Qa`ida. Thus, the “brothers” cannot be 
+seeking this union and at the same time fearing it. 
+- The author of this letter was explicitly critical of the pursuit of “construction and 
+development,” which Bin Ladin explicitly outlined in his letter to Abu al-Zubayr. 
+Emphasis on “construction and development” is atypical al-Qa`ida discourse, 
+and his own letters show that Bin Ladin was  starting to emphasize it at least for 
+Somalia. Yet the author referred to those who wished to pursue this path of 
+“construction and development” in the third person plural. If he was addressing 
+Bin Ladin directly, why did he not use the second person singular or plural? 
+More than likely, the switch from singul ar to plural and from third person to 
+second person plural was to make the message all the more cryptic. 
+- The reference to those satisfied with people seeking them but not wanting to go 
+beyond that may well be a remark about Bin Ladin, who was reluctant to admit 
+groups in al-Qa`ida’s fold as the letter to Abu al-Zubayr suggests. The reference 
+urging “you” (in the plural) “to reconsider your decision” is a reference to the 
+recipient who could in turn exert influence on Bin Ladin to change his mind. 
+- Finally, this is the only letter whose author requested that its recipient destroy it 
+after reading it. If it was addressed to Bin Ladin, why would the author be 
+concerned? 
+ 
+If this letter served as a criticism of Bin Ladin behind his back, it is still possible that 
+Ayman al-Zawahiri authored it for the same reasons indicated above. But one might 
+justifiably ask why it should be in his electr onic files? One possible explanation is that 
+its recipient decided to share it with Bin Ladin  in view of its seriousness and/or out of 
+
+57 
+ 
+loyalty. Alternatively, it may have been on the thumb drive of an operative, perhaps 
+`Atiyya, who deleted it (as the author explicitly requested) and used the same thumb 
+drive to deliver different letters to Bin Ladin.  
+SOCOM-2012-0000007 
+From: Mahmud al-Hasan (`Atiyyatullah) and Abu Yahya al-Libi 
+To: Hakimullah Mehsud  
+Date: 27 Dhu al-Hijja (3 December 2010) 
+SOCOM-2012-0000008 
+From: Jaysh al-Islam in Gaza 
+To: `Atiyya/Shaykh Mahmud 
+Forwarded to: `Abd al-Hamid (and later forwarded to Usama bin Ladin) 
+Date: Shawwal 1427 (October-November 2006) 
+SOCOM-2012-0000009 
+From: unknown  
+To: unknown 
+Date: unknown 
+SOCOM-2012-0000010 
+From: Abu `Abdallah (Usama bin Ladin)  
+To: Shaykh Mahmud/`Atiyya 
+Date: Monday, 22 Jumadi al-Awwal 1432 (25 April 2011) 
+SOCOM-2012-0000011 
+From: unknown (likely of Egyptian origin) 
+To: `Adnan (Hafiz Sultan) 
+Date:  9 Rabi` al-Awwal (28 March 2007) 
+SOCOM-2012-0000012 
+From: `Atiyya 
+To: Honorable Shaykh (assessed to be Usama bin Ladin or another senior leader) 
+Date: Thursday, 11 June 2009 
+SOCOM-2012-0000013 
+From: unknown  
+To: unknown 
+Date: unknown 
+Publicly available document – a public statement by Ayman al-Zawahiri 
+
+58 
+ 
+SOCOM-2012-0000014 
+From: unknown (intermediary between `Atiyya and Saudi religious scholars) 
+To: `Atiyya 
+Forwarded to: Usama bin Ladin 
+Date: Early 2007 
+ 
+SOCOM-2012-0000015 
+From: Zamarai (Usama bin Ladin)  
+To: Shaykh Mahmud 
+Date: Wednesday, 13 Dhu al-Qidah, 1431 (20 October 2010) 
+ 
+SOCOM-2012-0000016 
+From: no name listed (assessed to be either Usama bin Ladin and/or `Atiyya) 
+To: Abu Basir (Nasir al-Wuhayshi) 
+Date: assessed to be post October 2010 (see notes below) 
+ 
+SOCOM-2012-0000017 
+From: no name listed (assessed to be Usama bin Ladin) 
+To: unknown 
+Date: unknown 
+ 
+It may be helpful to approach the above three documents in terms of their possible 
+relations to one another in the context of the following: SOCOM-2012-0000015, authored 
+by Bin Ladin, noted on page five that he was enclosing a file consisting of parts of a 
+letter that he would like `Atiyya to edit for the purpose of sending to Abu Basir (Nasir 
+al-Wuhayshi), the leader of AQAP. He indicated that `Atiyya is better placed than him 
+to draft it because he knows the “brothers” there (in Yemen). He also asked him to 
+share the final format of the letter. SOCOM-2012-0000017 consists of many paragraphs 
+and notes that do not form an internally coherent essay/letter. Some of these are 
+identical to paragraphs included in the letter to Abu Basir (SOCOM-2012-0000013). It is 
+therefore possible that SOCOM-2012-0000017 was the draft that Bin Ladin enclosed to 
+`Atiyya; in turn, `Atiyya used parts of SOCOM-2012-0000017 and transformed them 
+into a coherent letter to Abu Basir, and this coherent letter is SOCOM-2012-0000016 – 
+which is not signed – to share with Bin Ladin before sending. It is not clear whether Bin 
+Ladin wanted `Atiyya to sign it in his or Bin Ladin’s name. 
+ 
+ 
+ 
+ 
+
+59 
+ 
+SOCOM-2012-0000018 
+From: unknown based in Riyadh  
+To: Honorable Shaykh (assessed to be Usama bin Ladin) 
+Date: 08/20/1427 (c. 12-14 September 2006) 
+ 
+SOCOM-2012-0000019 
+From: no name listed (assessed to be Usama bin Ladin) 
+To: Shaykh Mahmud 
+Date: unknown 
+ 
+The content of the letter makes it evident that it is authored by Bin Ladin. The letter is 
+not dated, but its author refers to a report, “Nisa’ al-Qa`ida,” on al-Arabiya, dated 4 July 
+2010. The letter then had to have been comp osed post 4 July 2010 but before 20 October 
+2010 because parts of SOCOM-2012-0000015 (dated 20 October 2010) follow up on 
+issues raised in SOCOM-2012-0000019. 

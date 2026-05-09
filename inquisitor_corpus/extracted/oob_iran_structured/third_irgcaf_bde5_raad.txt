@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 5th Ra'ad Missile Brigade (ELITE / first-tier)
+
+**Unit ID**: irgcaf_bde5_raad
+**Type**: rocket_brigade
+**Headquarters**: Undisclosed (western Iran)
+**Parent**: Region / Provincial Corps / Base: Al-Ghadir Missile Command (AGMC) (irgcaf_agmc)
+**Higher echelon**: IRGC Aerospace Force (IRGCASF / IRGC-AF)
+**Elite designation**: Yes
+**Strength (% authorized)**: 80%
+**Notes**: SRBM brigade; Shahab-1/2, Qiam family. Subordinate to Al-Ghadir Missile Command. [Iran Watch IRGC-AF 2020]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

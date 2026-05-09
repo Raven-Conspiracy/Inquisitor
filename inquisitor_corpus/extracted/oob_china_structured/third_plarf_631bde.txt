@@ -1,0 +1,16 @@
+# Chinese PLA — Brigade / Division / Flotilla: 631st Missile Brigade (DF-5B ICBM, nuclear/silo) (ELITE / first-tier)
+
+**Unit ID**: plarf_631bde
+**Type**: rocket_brigade
+**Headquarters**: Jingzhou, Hubei
+**Parent**: Group Army / Fleet / Base: PLARF Base 63 (第六十三基地, Unit 96603) (plarf_b63)
+**Higher echelon**: Southern Theater Command (南部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: DF-5B/possible DF-5C silo-based liquid ICBM. 6 silos operational, 6 more under construction per CNS 2023. MUCD 96731. [CNS PLARF OOB 2023] [Wikipedia PLARF] [POST-PURGE STATUS UNCERTAIN]
+
+## Authorized Equipment (estimated)
+- **icbm** — DF-5B (silo-based liquid ICBM) — authorized: 6, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

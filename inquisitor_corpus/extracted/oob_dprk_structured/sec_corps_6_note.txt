@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: Former VI Corps (disbanded ~1996) — units absorbed by IX Corps
+
+**Unit ID**: corps_6_note
+**Service**: KPA Ground Forces
+**Type**: corps
+**Headquarters**: N/A — disbanded
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 0.0%
+**Notes**: VI Corps HQ was Chongjin, North Hamgyong Province. Disbanded ~1996 after corruption/bribery scandal involving corps staff and local officials per Bermudez 'Shield of the Great Leader'. Units (incl. 24th and 42nd Divisions) reallocated to IX Corps. [Wikipedia KPAGF citing Bermudez; DIA NKMP 2021 context] [POSSIBLY DISBANDED; confirm with current ROK DWP]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

@@ -1,0 +1,18 @@
+# Russian Division — 150th Motor Rifle Division
+
+**Unit ID**: 150md
+**Type**: motor_rifle
+**Headquarters**: Novocherkassk
+**Parent Army**: 8th Guards Combined Arms Army (8gca)
+**Parent District**: Southern Military District
+**Strength (% authorized)**: 52.0%
+**Notes**: Donetsk central
+
+## Subordinate Brigades / Regiments
+- **103rd Motor Rifle Regiment** (103rr) — type: motor_rifle, strength: 50.0%. None
+
+## Authorized Equipment (with estimated combat losses)
+- **tank** — T-72B3, T-62M — authorized: 90, estimated lost: 50
+- **ifv** — BMP-1, BMP-2 — authorized: 200, estimated lost: 88
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:DIV] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

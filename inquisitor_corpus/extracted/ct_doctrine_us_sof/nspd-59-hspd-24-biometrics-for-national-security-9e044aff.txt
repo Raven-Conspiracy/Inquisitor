@@ -1,0 +1,378 @@
+757
+Administrationof GeorgeW. Bush, 2008 / June 5
+DirectiveonBiometricsfor Identificationand ScreeningTo Enhance
+NationalSecurity
+June 5, 2008
+National Security PresidentialDirective/NSPD–
+59
+Homeland Security PresidentialDirective/
+HSPD–24
+Subject: Biometricsfor Identificationand
+Screeningto EnhanceNationalSecurity
+Purpose
+Thisdirectiveestablishesa framework to
+ensurethat Federalexecutivedepartments
+and agencies(agencies)use mutually com-
+patiblemethodsand proceduresinthe col-
+lection,storage,use, analysis,and sharing
+of biometricand associatedbiographicand
+contextual informationof individualsina
+lawful and appropriatemanner,whilere-
+spectingtheirinformationprivacy and other
+legalrightsunderUnitedStates law.
+Scope
+(1) The executivebranchhas developed
+an integratedscreeningcapabilityto protect
+the Nation against‘‘known and suspected
+terrorists’’(KSTs). The executive branch
+shallbuilduponthissuccess,inaccordance
+with thisdirective,by enhancingits capa-
+bilityto collect,store,use, analyze, and
+sharebiometricsto identify and screen
+KSTs and otherpersonswho may posea
+threat to nationalsecurity.
+(2) Existinglaw determinesunderwhat
+circumstancesan individual’sbiometricand
+biographicinformationcan be collected.
+Thisdirectiverequiresagenciesto use, in
+a morecoordinatedand efficientmanner,
+allbiometricinformationassociatedwith
+personswho may posea threat to national
+security,consistentwith applicablelaw, in-
+cludingthoselaws relatingto privacy and
+confidentialityof personaldata.
+(3) This directiveprovidesa Federal
+framework for applyingexistingand emerg-
+ingbiometrictechnologiesto the collection,
+storage,use, analysis,and sharingof data
+in identificationand screeningprocesses
+employedby agenciesto enhancenational
+security,consistentwith applicablelaw, in-
+cludinginformationprivacy and otherlegal
+rightsunderUnitedStates law.
+(4) The executivebranchrecognizesthe
+needfor a layeredapproachto identifica-
+tionand screeningof individuals,as nosin-
+glemechanismissufficient.For example,
+whileexistingname-basedscreeningproce-
+duresarebeneficial,applicationof biomet-
+rictechnologies,where appropriate,im-
+provethe executivebranch’sabilityto iden-
+tify and screenfor personswho may pose
+a nationalsecuritythreat. To bemost effec-
+tive, national security identificationand
+screeningsystemswillrequiretimelyaccess
+to the most accurate and most complete
+biometric,biographic,and relateddata that
+are, orcan be,made availablethroughout
+the executivebranch.
+(5) Thisdirectivedoesnot imposere-
+quirementsonState, local,ortribalauthori-
+tiesoron the private sector.It doesnot
+providenew authority to agenciesfor col-
+lection,retention,ordisseminationof infor-
+mation orfor identificationand screening
+activities.
+Definitions
+(6)In thisdirective:
+(a) ‘‘Biometrics’’refersto the measurable
+biological(anatomical and physio-
+logical)and behavioralcharacteristics
+that can beusedfor automated rec-
+ognition;examplesincludefingerprint,
+face, and irisrecognition;and
+(b)‘‘Interoperability’’refersto the ability
+of two or moresystems or compo-
+nentsto exchangeinformationand to
+use the informationthat has beenex-
+changed.
+VerDate Mar 15 2010 13:23 Apr 17, 2012 Jkt 217557 PO 00000 Frm 00757 Fmt 1240 Sfmt 1240 E:\HR\OC\217557A.022 217557A
+wreier-avileson DSK5TPTVN1PROD with HEARING
+
+758
+June 5 / Administrationof GeorgeW. Bush, 2008
+Background
+(7) The abilityto positivelyidentifythose
+individualswho may doharm to Americans
+and the Nation iscrucialto protectingthe
+Nation. SinceSeptember11, 2001, agencies
+have made considerableprogressinsecur-
+ingthe Nation through the integration,
+maintenance,and sharingof information
+usedto identifypersonswho may posea
+threat to nationalsecurity.
+(8) Many agenciesalready collectbio-
+graphicand biometricinformationintheir
+identificationand screeningprocesses.With
+improvementsin biometrictechnologies,
+and inlightof its demonstratedvalue as
+a toolto protectnationalsecurity,it isim-
+portant to ensureagenciesuse compatible
+methodsand proceduresinthe collection,
+storage,use, analysis,and sharingof bio-
+metricinformation.
+(9) Buildinguponexistinginvestmentsin
+fingerprintrecognitionand otherbiometric
+modalities,agenciesarecurrentlystrength-
+eningtheirbiometriccollection,storage,
+and matchingcapabilitiesas technologies
+advance and offer new opportunitiesto
+meet evolvingthreats to further enhance
+nationalsecurity.
+(10) Thisdirectiveisdesignedto (a) help
+ensurea commonrecognitionof the value
+of usingbiometricsin identificationand
+screeningprogramsand (b)helpachieve
+objectivesdescribedinthe following:Exec-
+utive Order12881 (Establishmentof the
+National Scienceand TechnologyCouncil);
+HomelandSecurity PresidentialDirective-
+6 (HSPD–6) (Integrationand Use of
+ScreeningInformation to Protect Against
+Terrorism);Executive Order13354 (Na-
+tionalCounterterrorismCenter);Homeland
+Security PresidentialDirective-11 (HSPD–
+11) (ComprehensiveTerroristRelated
+ScreeningProcedures);Executive Order
+13388 (Further Strengtheningthe Sharing
+of TerrorismInformationto Protect Ameri-
+cans);National Security PresidentialDirec-
+tive-46/HomelandSecurity PresidentialDi-
+rective-15 (NSPD–46/HSPD–15) (U.S. Pol-
+icy and Strategy inthe War on Terror);
+2005 InformationSharingGuidelines;2006
+NationalStrategy for CombatingTerrorism;
+2006 NationalStrategy to Combat Terrorist
+Travel;2007 National Strategy for Home-
+landSecurity; 2007 National Strategy for
+Information Sharing;and 2008 United
+States IntelligenceCommunity Information
+SharingStrategy.
+Policy
+(11) Throughintegratedprocessesand
+interoperablesystems,agenciesshall,to the
+fullestextent permittedby law, make avail-
+ableto otheragenciesallbiometricand
+associatedbiographicand contextual infor-
+mation associatedwith personsfor whom
+thereisan articulableand reasonablebasis
+for suspicionthat they posea threat to
+nationalsecurity.
+(12) Allagenciesshallexecutethisdirec-
+tive ina lawful and appropriatemanner,
+respectingthe informationprivacy and
+other legalrightsof individualsunder
+UnitedStates law, maintainingdata integ-
+rity and security,and protectingintelligence
+sources,methods,activities,and sensitive
+law enforcementinformation.
+PolicyCoordination
+(13) The Assistant to the Presidentfor
+HomelandSecurity and Counterterrorism,
+incoordinationwith the Assistant to the
+Presidentfor National Security Affairs and
+the Directorof the Office of Scienceand
+TechnologyPolicy,shallberesponsiblefor
+interagencypolicycoordinationon allas-
+pectsof thisdirective.
+Rolesand Responsibilities
+(14) Agenciesshallundertake the roles
+and responsibilitieshereinto the fullestex-
+tent permittedby law, consistentwith the
+policyof this directive,includingappro-
+priatesafeguardsfor informationprivacy
+and otherlegalrights,and inconsultation
+with State, local,and tribalauthorities,
+whereappropriate.
+(15) The Attorney Generalshall:
+VerDate Mar 15 2010 13:23 Apr 17, 2012 Jkt 217557 PO 00000 Frm 00758 Fmt 1240 Sfmt 1240 E:\HR\OC\217557A.022 217557A
+wreier-avileson DSK5TPTVN1PROD with HEARING
+
+759
+Administrationof GeorgeW. Bush, 2008 / June 5
+(a) Providelegalpolicyguidance,inco-
+ordinationwith the Secretariesof
+State, Defense,and HomelandSecu-
+rity and the Directorof National In-
+telligence(DNI), regardingthe lawful
+collection,use,and sharingof biomet-
+ricand associatedbiographicand con-
+textual informationto enhancena-
+tionalsecurity;and
+(b)In coordinationwith the DNI, ensure
+that policiesand proceduresfor the
+consolidatedterroristwatchlist maxi-
+mize the use of allbiometricidenti-
+fiers.
+(16) Each of the Secretariesof State,
+Defense,and HomelandSecurity, the At-
+torney General,the DNI, and the heads
+of otherappropriateagencies,shall:
+(a) Develop and implementmutually
+compatibleguidelinesfor eachrespec-
+tive agencyfor the collection,storage,
+use, analysis,and sharingof biometric
+and associatedbiographicand contex-
+tual information,to the fullestextent
+practicable,lawful, and necessaryto
+protectnationalsecurity;
+(b)Maintain and enhanceinteroperability
+among agency biometricand associ-
+ated biographicsystems, by utilizing
+commoninformationtechnologyand
+data standards,protocols,and inter-
+faces;
+(c)Ensurecompliancewith laws, policies,
+and proceduresrespectinginformation
+privacy, otherlegalrights,and infor-
+mation security;
+(d)Establishobjectives,priorities,and
+guidanceto ensuretimelyand effec-
+tive tasking,collection,storage,use,
+analysis,and sharingof biometricand
+associatedbiographicand contextual
+informationamong authorized agen-
+cies;
+(e)Programfor and budgetsufficientre-
+sourcesto supportthe development,
+operation,maintenance,and upgrade
+of biometriccapabilitiesconsistent
+with thisdirectiveand with such in-
+structionsas the Directorof the Of-
+ficeof Management and Budget may
+provide;and
+(f) Ensurethat biometricand associated
+biographicand contextual information
+on KSTs isprovidedto the National
+CounterterrorismCenterand, as ap-
+propriate,to the TerroristScreening
+Center.
+(17) The Secretaryof State, incoordina-
+tion with the Secretariesof Defenseand
+HomelandSecurity, the Attorney General,
+and the DNI, shallcoordinatethe sharing
+of biometricand associatedbiographicand
+contextualinformationwith foreignpartners
+inaccordancewith applicablelaw, including
+internationalobligationsundertakenby the
+UnitedStates.
+(18) The Directorof the Office of
+Scienceand TechnologyPolicy,throughthe
+National Scienceand TechnologyCouncil
+(NSTC), shallcoordinateexecutivebranch
+biometricscienceand technologypolicy,in-
+cludingbiometricstandardsand necessary
+research,development,and conformance
+testingprograms.Recommendedexecutive
+branchbiometricstandardsare contained
+inthe Registryof UnitedStates Govern-
+ment RecommendedBiometricStandards
+and shallbeupdated via the NSTC Sub-
+committee on Biometricsand Identity
+Management.
+Implementation
+(19) Within 90 days of the date of this
+directive,the Attorney General,incoordi-
+nation with the Secretariesof State, De-
+fense,and HomelandSecurity, the DNI,
+and the Directorof the Office of Science
+and TechnologyPolicy,shall,throughthe
+Assistant to the Presidentfor National Se-
+curity Affairs and the Assistant to the Presi-
+dent for HomelandSecurity and Counter-
+terrorism,submit for the President’sap-
+provalan actionplanto implementthisdi-
+rective.The action planshalldo the fol-
+lowing:
+(a) Recommendactions and associated
+timelinesfor enhancingthe existing
+VerDate Mar 15 2010 13:23 Apr 17, 2012 Jkt 217557 PO 00000 Frm 00759 Fmt 1240 Sfmt 1240 E:\HR\OC\217557A.022 217557A
+wreier-avileson DSK5TPTVN1PROD with HEARING
+
+760
+June 5 / Administrationof GeorgeW. Bush, 2008
+terrorist-orientedidentificationand
+screeningprocessesby expandingthe
+useof biometrics;
+(b)Consistentwith applicablelaw, (i)rec-
+ommendcategoriesof individualsin
+additionto KSTs who may posea
+threat to nationalsecurity,and (ii)set
+forth cost-effectiveactionsand associ-
+ated timelinesfor expandingthe col-
+lectionand use of biometricsto iden-
+tify and screenfor such individuals;
+and
+(c)Identify businessprocesses,techno-
+logicalcapabilities,legalauthorities,
+and researchand developmentefforts
+neededto implementthis directive.
+(20) Within 1 year of the date of this
+directive,the Attorney General,incoordi-
+nation with the Secretariesof State, De-
+fense,and HomelandSecurity, the DNI,
+and the headsof otherappropriateagen-
+cies,shallsubmit to the President,through
+the Assistant to the Presidentfor National
+Security Affairs and the Assistant to the
+Presidentfor Homeland Security and
+Counterterrorism,a reporton the imple-
+mentation of thisdirectiveand the associ-
+ated action plan,proposingany necessary
+additionalstepsfor carryingout the policy
+of thisdirective.Agenciesshallprovidesup-
+portfor, and promptlyrespondto, requests
+made by the Attorney Generalinfurther-
+ance of thisreport.The Attorney General
+willthereafterreportto the Presidenton
+the implementationof thisdirectiveas the
+Attorney Generaldeemsnecessaryorwhen
+directedby the President.
+GeneralProvisions
+(21) Thisdirective:
+(a) shallbeimplementedconsistentwith
+applicablelaw, includinginternational
+obligationsundertakenby the United
+States, and the authoritiesof agencies,
+orheadsof such agencies,vested by
+law;
+(b)shallnot be construedto alter,
+amend, or revokeany otherNSPD
+or HSPD ineffect on the effective
+date of thisdirective;
+(c)isnot intendedto, and doesnot, cre-
+ate any rightsorbenefits,substantive
+orprocedural,enforceableby law or
+inequity by a party againstthe United
+States, its departments,agencies,in-
+strumentalities,orentities,itsofficers,
+employees,or agents,or any other
+person.
+GEORGE W. B USH
+Remarksat the CongressionalPicnic
+June 5, 2008
+The President.Welcome.Thank you for
+coming.Laura and I are thrilledyou’re
+here.VicePresidentand Lynne Cheney are
+happy you’re hereas well.Thisisa chance
+for us to thank the Membersof Congress
+and theirfamiliesfor servingthe United
+States of America. I hopeyou have found
+it as great a joy servingour country as
+we have. The South Lawn isfullof antici-
+pation and excitement.There’ssquare
+dancingand trainsand obviouslyballoon
+hats. [Laughter]
+Audiencemember.It’s a cowgirlhat.
+The President.Cowgirlhat. Madam
+Speaker,thank you for coming.I’m—ap-
+preciateyou bringingyour family. Leaders
+of the House and the Senate, thanks for
+serving.I’m reallythrilledto be ableto
+introducea friendof my family’s—friends
+of my family for a longperiodof time.
+We’re reallylucky to have with us today
+the Oak RidgeBoys. I’m honoredthey are
+here.
+VerDate Mar 15 2010 13:23 Apr 17, 2012 Jkt 217557 PO 00000 Frm 00760 Fmt 1240 Sfmt 1240 E:\HR\OC\217557A.022 217557A
+wreier-avileson DSK5TPTVN1PROD with HEARING

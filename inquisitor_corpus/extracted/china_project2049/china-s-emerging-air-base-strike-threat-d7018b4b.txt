@@ -1,0 +1,1368 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                         
+                       
+ 
+ 
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Risk and Resiliency:  
+China’s Emerging Air Base Strike Threat 
+ 
+ 
+ 
+Oriana Skylar Mastro  
+and  
+Ian Easton 
+November 8, 2017 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+Introduction: Phauk-Phaw and its Evolution ………………………………………………....3 
+ 
+About the Project 2049 Institute 
+ 
+The Project 2049 Institute  seeks to guide decision makers toward a more secure Asia by the century’s mid -
+point. Located in Arlington, Virginia, the organization fills a gap in the public policy realm through forward -
+looking, region -specific research on alterna tive security and policy solutions. Its interdisciplinary approach 
+draws on rigorous analysis of socioeconomic, governance, military, environmental, technological, and political 
+trends, and input from key players in the region, with an eye toward educating  the public and informing policy 
+debate. 
+About the Authors 
+ 
+Oriana Skylar Mastro  is an assistant professor of security studies at the  Edmund A. Walsh School of 
+Foreign Service at Georgetown University , where her research focuses on Chinese military and security 
+policy, Asia-Pacific security issues, war termination, and coercive diplomacy. Dr. Mastro also continues to 
+serve as an officer in the United States Air Force Reserve, for which she works as a Pol itical Military Affairs 
+Strategist at  Pacific Air Forces  (PACAF). For her contributions to U.S. strategy in Asia, she won the 
+Individual Reservist of the Year Award in 2016.  Dr. Mastro is currently a  Jeanne Kirkpatrick Scholar at the 
+American Enterprise In stitute (AEI)  where she is working on a book about China's approach to global 
+leadership. 
+ 
+Previously, she was the Stanton Nuclear Security Fellow at the Council on Foreign Relations,  a fellow in the 
+Asia-Pacific Security program at the Center for a New American Security (CNAS), a University of Virginia 
+Miller Center National Fellow, a Center for Strategic and International Studies (CSIS) Pacific Forum  fellow, 
+a Sasakawa Peace Fellow , and a pre -doctoral fellow at the Institute for Security and Conflict Studies at 
+George Washington University. Additionally, she has worked on China policy issues at the Carnegie 
+Endowment for International Peace, RAND Corporation, U.S. Pacific Command, and the Project 2049  
+Institute. She holds a B.A. in East Asian Studies fro m Stanford University and an M.A. and Ph.D . in Politics 
+from Princeton University. Her research and commentary can be found at: www.orianaskylarmastro.com.  
+ 
+Ian Easton  is a research fellow at the Project 2049 Institute, where he conducts research on defens e and 
+security issues in Asia. During the summer of 2013 , he was a visiting fellow at the Japan Institute for 
+International Affairs (JIIA) in Tokyo. Previously, Ian worked as a China analyst at the Center for Naval 
+Analyses (CNA) for two years. Prior to that, he lived in Taipei from 2005 to 2010. During his time in Taiwan, 
+he worked as a translator for Island Technologies Inc. and the Foundation for Asia -Pacific Peace Studies. 
+While in Taiwan, he also conducted research with the Asia Bureau Chief of Defense  News. 
+  
+Ian holds an M.A. in China Studies from National Chengchi University in Taiwan and a B.A. in International 
+Studies from the University of Illinois Urbana -Champaign. He also holds a certification in advanced 
+Mandarin Chinese, having formally studie d the language at Fudan University in Shanghai, and National 
+Taiwan Normal University in Taipei. Ian’s research has been featured in major media outlets in the United 
+States and Asia, including the New York Times , Reuters, US News and World Report , Huffington Post , 
+NHK, CCTV, the Diplomat, and the Taipei Times . He has testified before the U.S. -China Economic and 
+Security Review Commission and lectured at the U.S. Naval War College, Japan’s National Defense 
+Academy, and Taiwan’s National Defense Unive rsity. Ian is the author of "The Chinese Invasion Threat: 
+Taiwan's Defense and American Strategy in Asia" (The Project 2049 Institute, October 2017).  
+ 
+Acknowledgements 
+ 
+Dr. Mastro would like to thank Annie Kowalewski for her expert research assistance. The  authors would also 
+like to thank Emily David and Rachael Burton for reviewing paper drafts and making corrections. The 
+following represents the authors’ own personal views only. 
+ 
+ 
+ 
+Cover Image: YJ-12 supersonic anti-ship missiles in their first public debut for the “ 70th Victory Day Parade” in front of 
+the Forbidden City in Beijing, China. Credit: Weibo @Antithesis, via Popular Science 
+ 
+ 
+        
+
+ 
+1 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+ 
+Table of Contents 
+ 
+ 
+Introduction……………….………...............………………….…..….……......................................................2 
+PLA Threat to Regional Air Bases: Strategy, Capacity, and Trajectory.…..……………..………..……...3 
+Implications for a Regional Contingency..............................................................................…...…..9 
+Base Resiliency Initiatives..............................................................................……………………….…..10 
+Recommendations...........................................................................................................................18 
+Endnotes.........................................................................................................................................20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+2 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+Introduction   
+The Asia -Pacific region is the center of gravity for U.S. strategic interests. Home to 
+major and rising powers such as Japan and China, the region increasingly represents the 
+primary hub of human activity by any measure . Some of the regional developments that 
+occupy American strategic planners and decision makers include China's rapid military 
+modernization, weapons proliferation, arms racing, and lack of military transparency. 
+These issues promote insecurity among regional actors that rely on the United States for 
+strategic assurance, and that count on its uncontested military strength to foster peace  
+and stability. 
+In particular, China's investments in anti -access/area denial (A2/AD) systems are 
+undermining the United States’ ability to live up to regional expectations. Given the 
+centrality of air  power for U.S. power projection  in the Western Pacific, the Chinese 
+People’s Liberation Army (PLA) has focused on prioritizing the development of 
+asymmetric capabilities to target American  air superiority where it is weakest ―on the 
+ground. China’s military modernization program is closely  associated with a number of 
+maturing precision strike capabilities designed for attacking air base s. Referred to as 
+“airfield runway blockades” by the  PLA, such operations intend to overcome traditional 
+Chinese weaknesses in the air by negating enemy air power on the surface. This strategy 
+benefits from both the limited number and the relative fragility of America’s forward -
+deployed air bases. For example, the U.S. Air Force’s principal front -line facility in Asia, 
+Kadena Air Base, Okinawa, is remarkably v ulnerable to missile attack due to its lack of 
+active and passive defenses, which includes hardening. 1 Other U.S. and allied air base s 
+are similarly unprepared for surviving, defending, mitigating, or recovering from missile 
+attacks. China’s strategy furth er benefits from the technical sophistication of the PLA’s 
+strategic missile forces.  
+While air superiority alone does not ensure success in deterring aggression or winning a 
+military campaign, it is often decisive in military operations. 2  Furthermore, cri sis 
+stability depends on eliminating any incentives for preemptive or first strikes, and base 
+resiliency is crucial to this deterrent message. As the United States evaluates future force 
+postures during a period of continued fiscal uncertainty, China’s def ense establishment 
+is making significant advances in developing a force capable of dominating the air 
+environment around its periphery. In light of these trends, what is Chinese strategic 
+thinking on adversary air base  vulnerability, and how well positioned is the PLA to 
+exploit U.S. weaknesses? What steps has the United States taken to improve its air bases’ 
+resiliency, defined as the capacity to withstand attack, adapt, and generate sufficient 
+combat power to achieve campaign object ives in the face of continued enemy action? 
+What more can be done? 
+This paper seeks to provide an overview of the evolving airpower challenge that the 
+United States faces in the Western Pacific and beyond. We will begin by exploring 
+Chinese military writin gs on air base  strike operations, and then evaluate the current 
+trajectory of the PLA’s precision strike capabilities for conducting such operations. 
+Following this, we will describe how the U.S. military is seeking to respond to the threat 
+to its air base s. Finally, we will assess the future implications of this evolving situation, 
+
+ 
+3 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+and conclude with recommendations for how American airpower in Asia can be more 
+resilient against threats.  
+PLA Threat to Regional Air Bases: Strategy, Capacity, and Trajectory3 
+Given the need for air superiority to support regional contingency operations such as 
+maritime control, air strikes, and landing operations, U.S. air bases are a logical target 
+for Chinese thinkers and planners. In this regard, Taiwan scenarios drive much  of the 
+PLA’s thinking on air base  attacks. For the PLA, obtaining the ability to rapidly and 
+decisively defeat Taiwan, while at the same time complicating American intervention, is 
+the principal driver of its modernization program. Not surprisingly, count ering the 
+defense of Taiwan factors heavily in Chinese thinking on airfield attacks, and this 
+mission shapes the PLA's development of strategies to exploit perceived U.S. base 
+vulnerabilities. 
+Strategy  
+Chinese strategists emphasize the employment of air a nd missile strikes as a means of 
+leveraging the PLA’s advantages over its opponents. Illustrating the importance the PLA 
+places on air superiority, the Science of Military Strategy  argues that strategic air raids 
+“may replace ground operations as the main operations to attain strategic aims. Success 
+or failure…has direct bearing and constraint on the course and outcome of war.” 4 In 
+describing the selection of targets for such strikes, the authors of the Science of Military 
+Strategy state that “fighter forces are to destroy or contain threatening enemy planes 
+through…blocking enemy airfields.” 5 Missile forces, referred to as “striking fire” in PLA 
+materials, would likely play the most critical role in an air raid. The Science of Military 
+Strategy describes the use of missiles to attack enemy airpower in the following terms, 
+“In terms of striking fire…guided and precision-guided missiles are to be used to destroy 
+and suppress the enemy’s radar stations, ground air defense weapons, and airfields.”6   
+ 
+Chinese strategists indicate that in the event of conflict , the PLA would consider air 
+bases to be the principal targets of its land -based missile units and air force assets. For 
+example, the PLA’s Second Artillery Force Science of Campaign s lists the primary 
+mission of the conventionally armed missile units of the newly renamed Strategic 
+Rocket Force (PLARF) as “suppressing enemy air force air base s, airfields, and missile 
+defense (air defense) systems.” 7 Such operations would be conducted in coordination 
+with air units in order to achieve air superiority. PLARF strategists write that: 
+ 
+To achieve air superiority, long distance firepower must be applied to ‘control 
+the air through the ground.’ Enemy combat aircraft would be suppressed or 
+destroyed on the ground, and/or blockaded inside their bunkers; thus making it 
+difficult for their air combat forces to play an effective role.8    
+ 
+The PLA Air Force (PLAAF) appears to have started developing doctrine for conducting 
+air and missile strikes o n air bases prior to the 1995 –1996 Taiwan Strait Crisis. In 1995, 
+the PLAAF Command Academy published a book that included a section on air base  
+strike operations. In the book, The Application of Air Force Operations , the authors 
+referred to air base  strikes as “airfield runway blockades” —terminology that is widely 
+
+ 
+4 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+used by writers across the PLA today. The authors defined an airfield runway blockade 
+in following terms: 
+ 
+The standard of a blockade is measured according to the loss of the smallest 
+area requir ed for taking off. Once runways have been attacked, the enemy’s 
+planes should be unable to find an area sufficient to satisfy the minimum 
+runway length and width requirements for taking off. This is the standard by 
+which to measure the success or failure of a blockade.9     
+ 
+Based on the Second Artillery Force Science of Campaigns , a notional operation against 
+an enemy's air defenses would proceed as follows:  
+ 
+First, anti-radiation unmanned aerial vehicles would engage in anti -radiation 
+attacks [on radars]. Either at the same time or following this, conventionally 
+armed missiles carrying penetrating submunitions would carry out firepower 
+strikes to cut apart important enemy airfield targets; thereby causing enemy 
+planes to be unable to take  off or land…Afterwards, our aviation forces would 
+engage in gap -filling bombing to destroy enemy air combat forces’ ground 
+infrastructure, and take air superiority.10 
+ 
+Numerous research articles, technical studies, and simulation reports further indicate 
+that the main focus of air base  strike operations would likely be runways. PLARF 
+researchers writing in 2009 argued that “combat aircraft rely on runways for taking off 
+and landing. Once runways have been destroyed, airfields are unable to provide combat 
+aircraft with fuel, munitions, maintenance, and other support. As such, when executing 
+strikes on airfields, runways will be the principal targets.” 11 Likewise, a team of Chinese 
+missile designers wrote in a 2013 textbook that the main target of air base missile strikes 
+is runways. 12 Another more detailed PLA study assessed that runways, parking ramps, 
+and taxiways would be the highest value targets at any air base.13  
+ 
+Early PLA writings emphasize the importance of attacking runways to gain air 
+superiority over an otherwise stronger opponent. Ballistic missiles and cruise missiles 
+are viewed as optimal means of delivering such strikes due to their ability to penetrate 
+enemy air defenses through the use of speed and surprise. 14 One study argued that 
+having capabilities that could effectively penetrate air defenses to strike enemy air bases 
+would be “an extremely important question in actual combat operations.” 15  These 
+researchers assumed that if initial barrages of conventional theater missiles could not 
+effectively close enemy air bases, more vulnerable bomber fleets and their fighter escorts 
+would be ordered to conduct follow-on surprise attacks. The results of their simulations, 
+while not publically available, led the authors to conclude that more emphasis needed to 
+be placed on theater missile strikes if air attacks were to have an acceptably high chance 
+of success. 16 The implications of these studies are clear: PLA researchers do not have 
+confidence in their aging bomber fleet’s ability to survive missions inside denied 
+airspace. If bombers and fighters were going to be successful, the enemy’s air force 
+would have to be first knocked out on the ground by missile strikes.  
+   
+
+ 
+5 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+More recent Chinese studies indicate that a significant amount of simulation and 
+planning has been devoted to exploring how the PLA’s missile units could engage in 
+strikes on air base s. Using a campaign against the Republic of China (Taiwan) as an 
+illustrative example, one recent PLA study simulated strikes on air base s using surface -
+to-surface missiles . The study, noting the PLA’s “limited” inventory of missiles and 
+inability to launch a simultaneous attack against all of Taiwan’s air base s at once, 
+assessed the respective threat posed by each air base . The authors then proposed a 
+targeting sequence whereby each base’s runways would be attacked in order of priority 
+to optimize overall campaign effects. 17 Based upon their findings, the study’s authors 
+recommended striking Pingtung Air Base first in order to ground Taiwan’s fleet of E- 2 
+“Hawkeye” airborne e arly warning and control (AEW&C) aircraft and C -130 “Hercules” 
+military transport and electronic warfare aircraft. 18 Based upon this assessment, it is 
+logical to assume that the PLA would view Kadena Air Base, the home of the United 
+States Air Force (USAF)’ s forward-deployed AEW&C aircraft, to be a priority target in a 
+conflict with the United States or Japan. The PLA’s emphasis on striking air base s 
+supporting adversary airborne reconnaissance and strategic lift platforms might cause it 
+to see U.S. air bases at Misawa and Yokota in Japan as high-priority targets as well. 
+ 
+Capacity  
+ 
+To meet operational requirements for a contingency that could involve the United States, 
+the PLARF and PLAAF have been investing heavily into developing and testing a 
+number of specialized weapons for air base  attacks. These weapons include both ground 
+and air-launched missile variants that are armed with runway penetrating submunitions. 
+Most notably, the PLARF appears to have developed the world’s first conventionally 
+armed ballistic missile warhead capable of conducting strikes on air base  runways. 
+Chinese military-technical writings indicate that preliminary research in support of this 
+program began in the wake of the 1995–1996 Taiwan Strait Crisis.19  
+ 
+In 1997, researchers affiliated with the PLA’s Beijing Artillery Research Institute and the 
+Beijing Institute of Technology drafted a detailed technical study on runway attacks. The 
+study modeled airfield strikes aimed at damaging or “cutting” a 3,000 -meter long 
+runway at its mid -point with fifteen  terminally guided submunitions delivered by a 
+ballistic missile.20 Shortly thereafter, researchers at the PLARF (then -Second Artillery) 
+Engineering Academy in Xi’an published a computer simulation designed to assess the 
+number of missiles required to successfully blockade an enemy runway. 21 While their 
+results were n ot made publically available, this study appears to have ignited a heated 
+internal debate on the number of missiles required to blockade an airfield runway.22    
+ 
+The majority of available PLARF research focuses on statistically modeling ballistic 
+missile attacks on a single runway with penetrating submunitions. 23 As early as 2000, 
+however, studies also began on the impact of striking large air base s that had two or 
+more runways.24 In particular, research focused on optimizing the process whereby aim-
+points wo uld be selected for maximizing the effects of dispersed submunitions over 
+multiple runways. 25 Reflecting the technological and budgetary constraints facing the 
+PLA from the late 1990s and into the 2000s, early studies assumed for imprecise missile 
+targeting capabilities and emphasized the need to maximize the effects of a small 
+
+ 
+6 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+number of relatively expensive ballistic missiles. For example, researchers assumed that 
+even under the most optimal conditions, submunitions would impact the surface up to 
+187 meters  off target. 26 They also assumed that cutting runways in half would be the 
+only mission assigned, due to the limited number of ballistic missiles available.27     
+ 
+It was not long before some researchers began to evince greater confidence in their 
+research assumptions. For example, improvements in Chinese satellite imagery and 
+sensor capabilities in the early 2000s appear to have led researchers at the Second 
+Artillery Engineering Academy’s Information Engineering Institute to claim that it was 
+“extremely easy to satisfy” requirements for target guidance such that air base  runways, 
+and even individual warships docked in military ports, could be targeted. 28 The results 
+of their simulations showed that a payload of submunitions dispersed over a target 
+under favor able conditions could achieve a 3.7  percent probability of destroying an 
+enemy warship and a 5.2  percent probability of destroying targets of importance 
+elsewhere ashore. Though not particularly impressive, the results were considered an 
+improvement over previous simulations on strikes against targets such as runways.29 
+ 
+As the anti -air base  program advanced, the pace of runway -penetrating warhead 
+development appears to have slowed due to challenges associated with developing an 
+entirely new class of weapons. For example, in 2007 , operations research analysts 
+affiliated with the Chinese aerospace industry published a study cautioning that ballistic 
+missile-delivered submunitions would be subject to a number of complicating factors 
+during operations. Th ese factors included wind direction and speed , guidance sensor 
+and engine ignition-related positioning errors, guidance sensor errors, internal electrical 
+system and engine timing errors, engine power errors, and warhead spin speed errors. 30 
+Further highlig hting the technical challenges designers faced, they emphasized that 
+problems could occur during the flight of the supersonic delivery vehicle when the 
+“mother” warhead released and dispersed submunitions over target, when the 
+submunitions’ parachutes deployed, and when they impacted the surface.31 
+ 
+Many PLARF -affiliated studies have discussed warhead design requirements for 
+runway-penetrating submunitions in great detail. 32 Chinese technical studies have also 
+emphasized the need to strike the same runway wit h penetrating submunitions on 
+multiple occasions. Indeed, rather than assume for a “one -and-done” strategy, these 
+studies emphasize the need to keep air base s blockaded over time in the face of skillful 
+enemy rapid runway repair teams. In what appears to b e a reference to a Taiwan 
+scenario, one study in 2007 noted “an enemy’s very strong [runway] repair capabilities” 
+and expressed concern that “comprehensive killing bombs” 33 may not be available for 
+use against rapid runway repair teams. 34 As an alternative, the study suggests using 
+multiple salvos of conventional ballistic missiles to disrupt air base  engineering teams 
+and slow the pace of repair work. The most effective way to keep a notional air base  
+runway closed for two hours, the researchers argued, woul d be to fire 18 ballistic 
+missiles in three salvos spaced out in forty -minute increments.35 According to data from 
+the study, the first salvo would optimally be comprised of twelve  missiles, and the next 
+two salvos would have three missiles apiece. 36 Using t his technique, the researchers 
+estimated that the PLA could expect an 87  percent chance of success. 37 Undoubtedly, 
+technological advances made by PLARF and PLAAF weapons designers since the 
+
+ 
+7 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+production of these studies have significantly improved missile payloads. In the event of 
+war, these new weapons will elevate the threat posed to American, allied, and partner 
+nation air bases.   
+ 
+Trajectory     
+    
+China already has significant capability to deliver strikes against U.S. air base s in the 
+region. The range of the aerial refueling –capable SU -30MKK fighters deployed in the 
+Eastern Theater Command and Southern Theater Command is sufficient to hold 
+Okinawa at risk. PLAAF’s H -6K bombers armed with air -launched cruise missiles can 
+even strike as far out as Guam. 38 Once operational, the J -20 stealth fighter will also 
+increase China’s ability to strike regional air bases, logistical facilities, and other ground-
+based infrastructure. The PLA Navy (PLAN) also fields a growing inventory of 
+conventional and nuclear-powered attack submarines that may soon become capable of 
+launching land attack cruise missiles. PLAN surface combatants, such as guided -missile 
+destroyers equipped with long -range cruise missiles and surface -to-air missile ( SAM) 
+systems, could also allow China to hold U.S. air operations at risk far from its shores.  
+ 
+ 
+(Left: PLA SU-30MKK fighter jet with missiles. Source: Sino-Defense. Right: PLAAF H-6K bomber. Source: Medium) 
+ 
+(PLA Chengdu J-20 stealth fighter jet. Source: Wikipedia) 
+
+
+ 
+8 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+More importantly, China has the world’s most active land -based ballistic and cruise 
+missile program, providing Beijing with a real capacity for conventional precision strikes 
+at significant ranges. Given the right coordination and surveillance networks, China 
+could now strike air base  targets well beyond the first island chain, reaching the second 
+island chain, a line that runs in a north -south line from the Kuriles through Japan, the 
+Bonins, the Marianas, the Carolines, and Indonesia. According to publicly available 
+analyses, the PLA has between fifteen  and twenty liquid-fueled CSS -2 intermediate 
+range ballistic missiles (IRBMs), and about fifty  CSS-5 road -mobile, solid -fueled 
+medium-range ballistic missiles ( MRBMs), all of which are highly  relevant for regional 
+deterrence missions.39  
+ 
+ 
+(Map of the First and Second Island Chains. Source: CIMSEC) 
+In addition to these nuclear capabilities, reports indicate that the PLA has been testing a 
+number of conventional missile warheads capable of  attacking air base  runways. 
+Perhaps the first reported instance came in September 2005, when analysts discovered 
+that the PLA had constructed a mock air base  on Daluo Island off the Guangdong 
+coastline for target practice. 40 This model air base  reportedly included a fuel sto rage 
+facility, two mock F -16 fighters, aircraft hangars, and an alert station at the end of the 
+runway. Soon thereafter, satellite imagery revealed that the entire base was destroyed 
+with munitions that created large craters. According to reports, two mont hs later the 
+PLARF (then-Second Artillery) conducted what appeared to be a cruise missile strike on 
+a hardened aircraft shelter (HAS) target in Xinjiang, hitting it three times.41  
+ 
+
+
+ 
+9 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+In 2006, it was reported that the PLA had built a mock air base  in the desert of Gansu 
+Province. Based on satellite imagery of the mock -up, which is modeled after Taiwan’s 
+Ching Chuan Kang (CCK) Air Base, this site is primarily used to practice air raids. 42 
+Built near the PLAAF’s Dingxin Air Force Test and Training Bas e (also known as 
+Shuangchengzi Air Base), this area is also used for missile testing. 43 Other mock air base 
+targets, including one resembling Kadena Air Force Base, have also been constructed in 
+the deserts of Western China.44   
+ 
+One report in the PLA’s Libe ration Army Daily indicates that the Chinese rocket forces 
+began experimenting with cluster munitions capable of spreading proximity mines 
+around test ranges by the mid -2000s.45 While speculative, these weapons could have 
+been early versions of those being developed for slowing rapid runway repair crews. 46 
+Whatever the case, the first confirmed live- fire test of a ballistic missile warhead 
+designed to disperse runway-penetrating submunitions occurred more recently. In April 
+2010, a warhead design team from the PLARF/Second Artillery Equipment Academy 
+published a report that revealed the live-fire testing of this weapon on a runway target to 
+confirm optimal warhead design parameters. 47  Beyond ballistic missile warheads 
+developed for the PLARF, China’s defense industry has also produced standoff  weapon 
+systems for the PLAAF , as well as for export customers. Two examples include the 
+stealthy air -launched Tianlei “Sky Thunder” and CS/BCC5 cruise missiles, which are 
+designed to deliver penetrating submunitions thro ugh adversary air defense systems. 
+While current ranges are unknown, in 2012  these air-launched missiles were believed to 
+have ranges up to 60 kilometers and have the capacity to carry 500- kilogram warheads 
+designed for runway strike missions.48     
+ 
+Implications for a Regional Contingency 
+The intent and capabilities of the PLA have made the protection of forward U.S. Air 
+Force bases within the U.S. Pacific Command (PACOM) Area of Responsibility a 
+growing concern.  The capabilities of China’s missile force ar e qualitatively different 
+from anything the United States has faced in the past. Chinese CSS-5 and CSS-6 missiles 
+both have longer range, greater ease of operation, higher reliability and accuracy, and 
+warhead options that make them more destructive than p revious generations of 
+missiles.49 According to the Air Force Scientific Advisory Board, current missile defense 
+systems may not be adequate to defend against advanced land-attack cruise missiles and 
+theater-range ballistic missiles. By some estimates, miss ile and air attacks could disable 
+up to 70  percent of the aircraft at U.S. overseas bases in the opening minutes of a 
+conflict. This is largely because only four of the eight USAF bases in the region currently 
+have hardened aircraft shelters, and none are designed to protect against Chinese 
+missile strikes. 50 But even if hardened shelters prove capable of protecting the aircraft, 
+planes and their crews could still become trapped due to massive debris piles on 
+operating surfaces, rendering them inoperable and  leaving them vulnerable targets for 
+any follow -on attacks by cruise missiles. According to one study, only 82 out of 268 
+aircraft deployed to Kadena would be available for operations after an initial attack by 
+only 34 Chinese warheads.51   
+The USAF has dea lt with challenges of defending its overseas bases in the past, in 
+particular during the Cold War. NATO military commanders worried about the 
+
+ 
+10 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+possibility that massed Soviet forces could launch a successful strike on NATO airfields 
+that could undermine U.S.  control of the air, something that was critical to the strategic 
+deterrence mission and to executing ground missions against hypothetical invading 
+Warsaw Pact armies. As a result, NATO embarked on numerous initiatives designed to 
+improve the resiliency of  its bases. For example, the Collocated Operating Base (COB) 
+program allowed the U.S. to increase dispersal to around sixty  COBs in Europe by 1984. 
+In addition, due to an extensive hardening program, one quarter of NATO fighter -
+capable airfields featured s ome hardening, such as protective shelters for aircraft and 
+maintenance gear. The United States also strengthened its air defenses on vulnerable 
+bases in the form of advanced fighters, SAMs, better radar, and stronger defensive 
+coordination.52 
+In 1985, the USAF conducted a multi -week airpower exercise, Salty Demo, designed to 
+assess whether these efforts were sufficient to ensure a modern air base  could survive a 
+heavy and sustained attack. During this exercise, the USAF learned that the most critical 
+resources for sustaining its operations at a base under attack were personnel and heavy 
+equipment—the latter to move debris and begin reconstruction. After the exercise, the 
+USAF proposed committing more resources to a number of resiliency measures. 
+However, it was ultimately unable to execute the full range of initiatives envisioned in 
+the air base  operability program. Some of these unfulfilled requirements are still 
+relevant to the challenges of today, including the use of camouflage, concealment and 
+deception, increasing operating surfaces and taxiways, and stockpiling runway repair 
+equipment and supplies.53  
+Thirty years later, the USAF still suffers from significant gaps in air base  defense. In 
+light of growing threats, the Quadrennial Defense Review Report (QDR) called for 
+increasing the resiliency of U.S. forward base infrastructure as early as 2006, arguing 
+that “in the absence of dominant U.S. power projection capabilities, the integrity of U.S. 
+alliances and security partnerships could be called into quest ion, reducing U.S. security 
+and influence, and increasing the possibility of conflict.” 54 The latest QDR, released in 
+March 2014, commits the Department of Defense (DOD) to improving the resilience of 
+air, naval, ground, space, and missile -defense capabilit ies in the face of large- scale 
+coordinated attacks.  
+Base Resiliency Initiatives 
+China has developed capabilities designed to target vulnerabilities in air base  defenses. 
+Moreover, Chinese writings and activities suggest that PLA strategists are thinking 
+about employing these capabilities to undermine the ability of the U.S. to sustain 
+airpower during a conflict. This section describes how the United States and t he services 
+have responded to this challenge with a focus on indications and warning (I&W), 
+dispersal, selective hardening, and both  active and passive defenses. Base resiliency is 
+not only an operational issue; enhancing base defenses creates crisis stability by 
+reducing the benefits of a quick surprise attack and significantly shifting China’s 
+strategic calculus in order to deter war. While U.S. initiatives are a step in the right 
+direction, U.S. partners and allies, in particular Japan, also need to unde rtake such 
+efforts to ensure they, too, can sustain operations in a contingency. 
+
+ 
+11 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+Indications and Warning 
+Providing advanced warning of Chinese preparations for an attack , and warning that an 
+attack may be underway , are almost certainly the highest priority  for all U.S. allied and 
+partner nations’ information collection platforms. I&W is essential during peacetime to 
+prevent China from obtaining the advantage of surprise. As has been demonstrated 
+repeatedly over the past two decades, I&W is especially critic al during periods of crisis 
+or limited conflict to provide strategic warning of the imminence of attack or the 
+escalation of armed hostilities. Timely and reliable I&W greatly contributes to good 
+decision-making, allowing leaders to take appropriate steps ranging from increasing the 
+readiness levels of forces to activating contingency plans. Information about Chinese 
+activities collected by a variety of sources is a basis for action by United States and allied 
+decision-makers. 
+ 
+In particular, several capabi lities fielded by Taiwan, such as its land, air , and sea-based 
+listening posts, have the potential to contribute important I&W information on China. 55  
+Taiwan’s close cultural, linguistic, and geographic proximity to China give Taiwan 
+significant advantages  in collecting signals intelligence (SIGINT). 56  Taiwan works 
+closely with the United States to provide SIGINT on the intentions, activities, and 
+capabilities of China’s military and security forces. 57 Taiwan’s ability to penetrate PLA 
+systems benefits from its well -regarded computer hacking and cybersecurity 
+communities, as well as its commanding position on the supply chains that support 
+China’s electronics and computer technology industries. 58 While d irect comparative 
+analysis is unavailable due to the opaque nature of the subject, anecdotal evidence 
+suggests that Taiwan’s computer and software engineering talent continues to outpace 
+competition in China.59               
+      
+Active Defense 
+If the United States receives indications and warnings of an imminent attack, active 
+defense becomes critical for reducing the effectiveness of any military action against the 
+base. Active defense refers to the employment of limited offensive action and 
+counterattacks to protect a friendly air, land, sea, or space platform, or to deny the 
+enemy a contested area or position. Active defenses can include electronic warfare, 
+antiaircraft weapons, and other means of reducing the effectiveness of incoming attacks . 
+There are two types of active defense against air and missile attacks: air defenses and 
+ballistic missile defenses (BMD). Air defenses are defensive measures designed to 
+destroy attacking aircraft or cruise missiles , or to nullify or reduce the effective ness of 
+such attacks. Ballistic missile defense (BMD) is a system, weapon, or technology 
+involved in the detection, tracking, interception, and destruction of incoming ballistic 
+missiles in their boost, mid -course, and/or terminal phases. U.S. Patriot Adva nced 
+Capability-3 (PAC-3) missiles—which have been deployed to Okinawa, Japan , and Osan 
+AFB, South Korea —and Terminal High -Altitude Area Defense (THAAD) missiles —
+which have been deployed to Andersen Air Force Base on Guam and Osan AFB as well — 
+are examples  of such systems. Aegis ships with SPY -1 radars and SM -3s are also 
+designed to counter ballistic missiles, with the bigger and better  SM-3 IIA interceptor 
+due for delivery in 2018.60 
+
+ 
+12 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+In a conflict, active defenses buy time for the United States to decide how to most 
+effectively use its airpower. They also allow  the National Command Authority to 
+determine the most effective course of war fighting when an adversary is willing to strike 
+American or allied forces and territory with missiles. 61 Lastly, increasing active defenses 
+decreases the likelihood an adversary will use force at lower levels of conflict . I t 
+decreases the effectiveness of such moves and thus acts as a deterrent. In this w ay, the 
+improvement of active defenses is inherently stabilizing.   
+ 
+(Left: Launch of a U.S. Patriot Advanced Capability-3 (PAC-3) missile. Source: Military.com. Right: Launch of a U.S. Terminal High-
+Altitude Area Defense (THAAD) missile. Source: Missile Defense Agency) 
+ 
+(Launch of SM-3 missile on U.S. Aegis ship. Source: Missile Defense Agency) 
+However, U.S. air base s are still not adequately protected. Even those bases that have 
+significant active defenses are still vulnerable to saturation attacks. Andersen Air Force 
+Base, w ith its long runways, large parking ramps, and vulnerable fuel storage areas , 
+desperately needs hardening. For example, the THAAD and PAC -3 systems do little to 
+protect Guam against potential Chinese missiles with supersonic and m aneuverable 
+
+
+ 
+13 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+warhead capabilities, such as the 1,500 km –range CJ-20 LACM, supersonic YJ -12, and 
+the YJ-18 ASCM.62 THAAD and PAC-3 units are insufficient because any Chinese attack 
+could overwhelm the small number of available interceptors. To remedy this 
+discrepancy, the Department of Defense (DoD) could consider a mix of medium -range 
+kinetic and non -kinetic defenses , adding Indirect Fire Protection Capability (IFPC) 
+Increment 2 -1, 400 kW lasers, Surface Electronic Warfare Improvement Programs 
+(SEWIP) Block 3, and HPM broadband systems to strengthen Guam’s intercept 
+capabilities.63 The IFPC Increment B lock 2  protects a gainst unmanned aerial vehicles 
+(UAVs) and cruise missiles, and it blocks against smaller and faster threats through its 
+counter-rocket and counter -mortar capabilities. 64  Therefore, active defense efforts 
+should be coupled with passive defenses, such as the dispersal of combat aircraft across 
+a larger number of bases, and other steps such as burying fuel lines, training in rapid 
+runway repair, and deception and camouflage. 
+ 
+(Left: Chinese Changjian-20 (CJ-20) Land-Attack Cruise Missiles (LACM). Source: Missile Defense Advocacy Alliance. Right: PLAN 
+Yingji-12A (YJ-12A) supersonic anti-ship missile unveiled during victory day parade in 2015. Source: Navy Recognition) 
+ 
+(Chinese Yingji-18 (YJ-18) anti-ship cruise missile. Source: Missile Defense Advocacy) 
+For its part, the Republic of China Air Force (ROCAF) in Taiwan has sought to balance 
+its active and passive defenses against a Chinese missile attack—an upgrade to the U.S. 
+approach that emphasizes active defenses over passive. 65 In terms of active defense, 
+Taiwan has been investing heavily in BMD, as well as defense systems for “air -breathing” 
+targets such as cruise missiles, fighters, bombers, and UAVs to diminish the coercive 
+utility of China’s military buildup. Taiwan currently has three Patriot missile  batteries 
+(or fire units) deployed around its capital , Taipei, and six more batteries for overlapping 
+coverage over central and southern Taiwan. Taiwan has also acquired a tenth Patriot 
+battery to be kept on training and reserve status. All of these syste ms will be PAC -3 
+
+
+ 
+14 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+capable systems, with PAC- 2 missiles integrated into firing units for defense against 
+both ballistic missiles and air breathing targets. 66 According to one PLA assessment, 
+Taiwan’s Patriot missile batteries could each intercept twenty -four targets at a time, 
+with an expected success rate of over 90 percent per missile.67 
+Taiwan has also developed a capable indigenous SAM system that uses the Tien Kung  
+(TK) “Sky Bow” missile. Benefiting from U.S. technical assistance, Taiwan’s  TK SAMs 
+are reportedly comparable to Patriot systems in most respects. TK -1s are fielded in both 
+static and mobile variants, with a range of 100 kilometers, and TK- 2s are deployed in 
+hardened silo facilities , with engagement ranges up to 200 kilometers. Currently, 
+Taiwan is replacing its older units with six batteries of mobile TK -3 SAMs that are 
+roughly comparable to PAC-3s. At least two TK SAM batteries are deployed on the outer 
+islands of Penghu and Tungyin, giving Taiwan the ability to engage frontline PLAAF 
+fighters as soon as they take off from their air base s in Fujian Province, assuming they 
+are not themselves first targeted by PLARF fire. 68 Aside from its BMD capable systems, 
+Taiwan is believed to have some thirteen  MIM-23 HAWK missile batteries deployed. 
+This air defense system was the predecessor to the Patriot and would be most useful for 
+defending against aircraft and cruise missile targets.  
+ 
+ 
+ 
+(Taiwan’s Tien-Kung III (Sky Bow III) Surface-to-Air Missile System. Source: Army-Technology.com) 
+ 
+(MIM-23 Hawk medium-range surface-to-air missile on display. Source: CopyBook) 
+
+
+ 
+15 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+Passive Defense 
+Balancing its aforementioned investments in the area of active defense, Taiwan has done 
+more to develop passive defenses against Chinese air and missile attacks than any other 
+country in Asia.69 This has included significant investments into air base  hardening and 
+dispersal. Hardening involves building or improving structures to protect personnel, 
+equipment, or infrastructure against enemy attack, which can be done with permanent 
+structures or de ployable shelters. Dispersal refers to the spreading or separating of 
+troops, material, establishments, or activities, which are usually concentrated in limited 
+areas, to reduce vulnerabilities. The scale and sophistication of Taiwan’s engineering 
+and training efforts in these areas are remarkable.  
+  
+In terms of hardening, Taiwan has constructed underground tunnel complexes, bunkers, 
+and hardened aircraft hangars. Many of the most notable projects to harden critical 
+facilities in Taiwan and on its outer is lands began in the wake of the shock that followed 
+the U.S. decision to switch diplomatic recognition from the Republic of China (ROC) to 
+the People’s Republic of China (PRC)  government. For example, in 1979, Taiwan began 
+building a massive tunnel complex inside Chiashan , or “Optimal Mountain ,” near the 
+city of Hualien. This mountain base is intended to serve as a “last line of defense” for the 
+ROCAF’s air superiority fighters. Completed in 1993, this base includes an air defense 
+missile site, an air base  runway, two hardened tunnels large enough for securely 
+operating over 200 fighter aircrafts, and ten  blast doors for aircraft entering or exiting 
+the underground tunnel network. 70 This facility also includes underground 
+infrastructure for storing water, food,  munitions, spare parts, and jet fuel. Furthermore, 
+it features a national command center, a hospital, a large power generator, aircraft 
+repair facilities, and living quarters.71     
+ 
+As a further means of protecting its forces from Chinese air and missile attacks, Taiwan 
+constructed a second tunnel complex, dubbed Shizishan , or “Stone Mountain”, near 
+Taitung Air Force Base on its southeast coast. This facility is somewhat smaller than 
+Chiashan but is still believed to be able to securely house sixty  to eighty ROCAF 
+fighters.72 In tandem with these efforts, Taiwan has hardened all of its primary air base s 
+and several reserve airfields. One study assessed that by 2008 , ROCAF had completed 
+252 hardened aircraft shelters and 178 revetments. 73 These numbers have co ntinued to 
+grow. Taiwan is currently expanding its parking ramp space, building new taxiways, and 
+constructing “super -hard” aircraft hangars that can surpass the ability of its tunnel 
+complexes to resist direct hits by penetrating warheads.74  
+ 
+To increase its rapid runway repair capabilities, ROCAF has acquired a large fleet of 
+armored repair vehicles and other advanced equipment from the United States. These 
+have been deployed to all of Taiwan’s main air base s.75 Frequent drills and exercises 
+have helped Taiwan enhance the capabilities of its rapid runway repair teams. Recently , 
+one team at CCK Air Base demonstrated the ability to repair seven large craters in 
+ninety minutes.76  Taiwan has also benefited from U.S. Air Force combat engineering 
+team visits to T aiwan, and ROCAF has participated in the premier Silver Flag exercises 
+with their American counterparts on Okinawa and Guam. 77 American training teams 
+have also been working with their Taiwanese counterparts to improve the ROCAF’s 
+ability to rapidly clear u nexploded ordinance from runways. 78  Taiwan regularly 
+
+ 
+16 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+practices the rapid dispersal of its aircraft operations to move key units, which are 
+usually concentrated in limited areas, to reduce vulnerabilities. Moreover, Taiwan uses 
+the employment of airfield cam ouflage and deception techniques to confuse the PLA’s 
+reconnaissance and operational planning communities. However, the ROCAF still lacks 
+sufficient capability to protect Taiwan against PLA fighters. For example, some ROCAF 
+fighters, such as the F -CK and Mirage 2000, can only engage one PLA fighter at a time, 
+so the PLA’s numerical superiority is a concern for ROCAF loss rates.79 
+ 
+ 
+ 
+(Three F-CK Ching-Kuo Indigenous Defense Fighters (IDF). Source: Airforce-Technology.com) 
+ 
+ 
+ 
+(A Taiwanese Mirage 2000-5Di fighter. Source: TaiwanAirPower.org) 
+ 
+For its part, the U.S. Air Force is pursuing a more modest and selective effort to harden 
+its bases and increase its airfield damage repair capabilities in Asia. This includes a 
+number of efforts in concert with the other services to ensure continuous and credible 
+forward operations. The QDR calls for the capability to disperse land-based forces to 
+other bases and operating sites, and for the ability to operate and maintain frontline 
+combat aircraft from austere bases with only a small amount of logistical and support 
+personnel and equipment.80 A key initiative of the former Pacific Air Forces (PACAF) 
+Commander General Herbert J. Carlisle was to find ways to disperse aircraft and to land 
+
+
+ 
+17 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+aircraft, in the enormous distances of the Pacific theater, on airfields from which they 
+did not take off. The current PACAF Commander General Terrence O’Shaughnessy has 
+developed a new operational maneuver built upon this Rapid Raptor concept called 
+Agile Combat Employment, or ACE. ACE focuses on “quickly deploying small 
+contingents of F-22s to smaller, sometimes austere, bases along with a much smaller 
+logistics package.”81 Dispersal of high-value targets like the F-22 to non-traditional 
+bases would hopefully keep the adversary from guessing their location, complicating 
+enemy targeting.82  
+PACAF is also working with allies and partners throughout the region to provide 
+logistical support and coordinate capabilities to create more “places not bases” from 
+which the U.S. can project airpower. 83  However, dispersal also comes with an 
+operational cost. In a hypo thetical conflict over the Taiwan Strait, sortie rates would be 
+40 percent less from air base s 1,600 miles from the Strait, such as those on Guam and 
+Northern Japan, compared to operations out of Kadena.84  
+The U.S. Defense Department has promised to invest  in airfield repair capabilities , as 
+well as to procure fuel bladders to ensure survivability of supplies necessary to sustain 
+operations. 85  PACAF was also honing its resiliency strategy as part of the Pacific 
+Airpower Resiliency Initiative. This plan envisions improvements such as bolstered 
+defensive systems and the presence of Rapid Engineer Deployable Heavy Operation 
+Repair Squadron Engineers (RED HORSE) Airfield Operations at theater bases. 86 
+Planned hardened facilities on Guam, including select hangars, are also part of this 
+initiative. Furthermore, Congress has allocated funds to hardening facilities that are 
+critical to maintaining stability and executing the rebalance to Asia. 
+Major resiliency initiatives, including the Hardened Install ation Protection for 
+Persistent Operations (HIPPO) and Critical Runway Assessment and Repair (CRATR) 
+efforts, will enhance USAF rapid repair, which is the capability to quickly return an 
+airfield to a condition in which it can continue air operations follo wing an attack. Rapid 
+Airfield Damage Repair (RADR) modernization and CRATR provide methods to counter 
+emerging threats, reduce re-repairs, support mixed aircraft inventory, and provide long -
+term sustainment. The RADR modernization process first assesses t he runway damage 
+and presence of unexploded ordnance (UXO). Computer software identifies the 
+minimum crater repair required, the UXO is then rendered safe, and the craters on the 
+runway can be repaired. This allows the airfield to be operational again with in eight 
+hours. The fielding of these new capabilities is expected to begin soon, though problems 
+with funding persist.  
+HIPPO aims to ensure the survivability of operational activities and critical 
+infrastructure against newer threat weapons. The purpose of HIPPO is to apply cost -
+effective application of hardening and resiliency methods to protect aircraft, fuel and 
+water supply, and storage, as well as munitions, C3I, and other systems. For the first 
+time since the Cold War, the services, including the Ar my Corps of Engineers and the 
+Air Force Civil Engineer Center, are doing research on hardened structures, specifically 
+permanent protective shelters designed to withstand large blasts. This is distinct from 
+the current technology deployed in theater, the M odular Protective System, which is a 
+
+ 
+18 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+lightweight space frame and composite armor panels that are rapidly deployable and 
+recoverable.87 Because personnel are the critical assets in any fight, these efforts also 
+focus on enhancing the protection for critical rooms to protect them from quasi -static 
+pressure, shock, and fragmentation. The program includes the testing and evaluation of 
+the proposed technologies against munitions of interest. While this is a joint effort, 
+USAF has taken the lead, with most efforts  focused on PACOM’s AOR. Given the 
+growing Chinese air and missile threats, such programs are needed to enhance the 
+resiliency of U.S. bases currently in South Korea, Japan, Guam , and Australia, as well as 
+in any potential future bases in Southeast Asia. 
+Recommendations   
+U.S. aircraft deployed in Asia currently face a substantial risk of damage or destruction. 
+One potential countermeasure, to operate from bases farther from the fight, raises 
+serious questions about the United States’ ability to fight an e ffective and efficient air 
+campaign. For example, in a Taiwan contingency, the loss of one or two bases could 
+severely degrade the USAF ability to generate and sustain combat air power. In Asia the 
+threat is large, but the United States has few bases, and political access to current bases 
+could be limited or constrained. 88 The current initiatives to improve active and passive 
+defense are still insufficient to guarantee that the USAF will be able to exercise its 
+capabilities of global strike, rapid global mob ility, and air superiority , given China’s 
+increasing capabilities. Research should focus on driving down the cost of future 
+interceptors and improving attack operations to strike Chinese air and missile bases.89 
+ 
+In terms of passive defenses, the U.S. shoul d prioritize the extension of hardening to 
+additional bases , and to include the protection of large support aircraft (tankers, 
+AWACS, Global Hawk, etc.)  on the four U.S. bases in the region that have hardened 
+aircraft shelters. 90  Hardening is admittedly exp ensive; e stimated costs of building 
+shelters to protect about $10 billion worth of USAF assets from ballistic to  cruise 
+missiles is $700 million. The United States needs to invest resources into breaking the 
+code on how to protect all aircraft cheaply, but , in the short-term, expensive efforts may 
+be necessary given the drastic operational advantages of resiliency. In 1967, the Israel 
+Air Force (IAF) was able to destroy 400 unprotected aircraft. Six years later, after Syrian 
+and Egyptian hardening efforts, the IAF was only able to destroy twenty -two enemy 
+aircraft.91  
+ 
+If the United States is serious about its security and partners and allies in the Asia -
+Pacific, it must look critically  at passive defenses on Okinawa, Guam, and beyond. The 
+Air Force is working with its joint and coalition partners to improve its multi- and cross-
+domain capabilities to ensure that adequate I&W and tracking are available to enhance 
+protective postures, and to provide warfighters with the ability to survive and operate 
+from forward bases. But more political engagement is needed to ensure the United 
+States can rely on allies to help it  sustain operations while under attack. For example, 
+several allies are building more robust tanker fleets, access to which could impact the 
+course of a conflict. Resiliency generally, and greater base hardening in particular, is a 
+crucial element to operations, but it is also  crucial to the U.S. goal of maintaining peace 
+and stability in the region. Given their  experience and requirements in this  area, U.S. 
+defense planners should work more closely with Taiwan to mutually improve 
+
+ 
+19 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+capabilities. Moreover, there clearly needs to be a greater sense of urgency —not only 
+plans or proposed programs that are partially funded, but the actual implementation of 
+programs that reach the unit  level with new technology, new CONOPS , and new 
+organizational constructs that are actually exercised regularly with results accountable 
+to senior leadership of the Services, Joint Staff, and OSD.    
+ 
+The strength of U.S. pea cetime operations and deterrence are determined by the 
+opponent’s perceptions of the capabilities and resolve of the United States and its allies 
+and partners. The joint force needs to take substantive steps in base and port resiliency, 
+continue the primac y of partnered air and naval forces (e.g., the Joint Concept for 
+Access and Maneuver in the Global Commons (JAM -GC)), and stress the need for 
+services, allies, and partners to embrace new priorities, roles, and missions in the Asia -
+Pacific. In addition, th ere should be a continued evaluation of the USAF’s 
+modernization, force structure capability, and capacity, along with its forward presence 
+and posture. Peacetime USAF engagement must take into account the factors that 
+impact Chinese behavior, and, consequently, regional stability. By strengthening U.S. air 
+base hardening and resiliency, and by engaging with partners and allies, the USAF will 
+be able to play a strong, positive role in shaping regional security and in keeping the 
+peace in Asia. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+20 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+ENDNOTES  
+                                                           
+1 David Ochmanek, “Restoring the Power Projection Capabilities of the U.S. Armed Forces,” Testimony presented 
+before the Senate Armed Services Committee, February 16, 2017, 
+https://www.rand.org/content/dam/rand/pubs/testimonies/CT400/CT464/RAND_CT464.pdf ; Alan J. Vick, Air Base 
+Attacks and Defensive Counters: Historical Lessons and Future Challenges, (Washington, DC: RAND Corporation, 
+2015).    
+2 For the most recent thinking on air superiority in the face of new threats, see Joint Doctrine Publication 3 -01, 
+Countering Air and Missile Threats, (Washington DC, 21 April 2017); USAF, Air Superiority 2030: Enterprise 
+Capability Collaboration Team, May 2016; and Brig Gen Alex Grynkewich, “The Future of Air Superiority, Part 1,” 
+(and subsequent Part II, Part III, Part IV), https://warontherocks.com/2017/01/the -future-of-air-superiority-part-i-
+the-imperative/. 
+3 This section draws from Ian Easton, Able Archers: Taiwan Defense Strategy in an Age of Precision Strike 
+(Arlington, VA: Project 2049 Institute, September 2014).    
+4 Peng Guangqian and Yao Youzhi (eds.), The Science of Military Strategy (Beijing: Military Science Publishing 
+House, 2005), 321.  
+5 Ibid., 327.  
+6 Ibid.  
+7 Yu Jixun, ed., Dier Paobing Zhanyi Xue [Second Artillery Force Science of Campaigns] (Beijing: Liberation Army 
+Press, 2004), 392.  
+8 Ibid., 398.   
+9 Hangkongbing Zuozhan Yunchou [The Application of Air Force Operations] (Beijing: Air Force Command 
+Academy, 1995), cited in Qing Jianjun, at al., “Jizai Busaqi Dui Fengsuo Jichang Paodao Zuoyong FangzhenYanjiu 
+[Research on the Application of Air Delivered Dispenser for Blockading Airfield Runways],” Dan Jian Yu Zhidao 
+Xue [Journal of Projectiles, Rockets, Missiles and Guidance] Vol. 24, No. 1 (2004):297.  
+10 Yu Jixun, 398.  
+11 Wang Xiaomei, et al., “Zimu Dantoubu Dui Jichang Fengsuo Jilu de Gaijin SuanfaYanji u [Research on Improved 
+Algorithm for Calculating Airfield Blockade Probabilities with Submunition Warhead],” Xitong Fangzhen Xuebao 
+[Journal of System Simulation], (April 2009): 1859. 
+12 Zhang Xiaojin, et al., Daodan Xitong Xingneng Fenxi [Performance Analysis of Missile Systems] (Beijing: 
+National Defense Industry Press, 2013), 39. 
+13 Fan Yangtao, et al., “Jiyu Huishang de Jichang Zuozhan Xiaoneng Pinggu [Operational Effects Assessment Based 
+on Airfield Destruction],” Sichuan Binggong Xuebao [Journal of Sichuan Ordinance], (October 2009): 93-95.  
+14 Yu Renshun, et al., “Dandao Daodan Moxiu Zhidao Zimudan Dui Fengsuo Jichang Paodao Zhidaolu Yanjiu 
+[Research on Guiding Principles for Blockading Airfield Runway using Ballistic Missile with Termin al Course-
+Correcting Submunitions],” Zhanshu Daodan Jishu [Tactical Missile Technology], No. 2 (1998): 25-31.    
+15 Jiang Qingshan, Wu Guoliang, and Fan Botao, “Hangkongbing Fengsuo Di Jichang de Moni [Simulation Study 
+on Blockading Enemy Airfields with Aviation Forces],” Huoli Yu Zhihui Kongzhi [Fire Control and Command 
+Control], (October 2005): 33-35.  
+16 Ibid., 49.  
+17 Tao Guiming, et al. “Didi Daodan Daji Jichang Paixu Moxing [Modeling the Order of Surface to Surface Missile 
+Strikes on Airfields],” Diannao Yu Xinxi Jishu [Computer and Information Technology], (February 2013): 12-14. 
+Note that the authors are affiliated with the Ordnance Engineering Academy’s Forth Department in Shijiazhuang, 
+Hebei; the Institute of Electronics in Changsha, Hunan; and the General Armaments Department’s Office in the 
+Changsha area, respectively.   
+18 The study did not explicitly reference place names, instead it referred to a certain island region’s airfields. The 
+location of each Taiwan air base is based on the author’s assessment of the data provided (for example of 60 IDFs at 
+an air base 150 km from China). Open source reporting on where the ROC Air Force deploys its aircraft, and 
+Google Earth measurements of the distance of each air base from the PRC coast helped to further narrow the range 
+of possibilities. Nonetheless, it is not certain that the author’s assessment is correct in every case. See tables three 
+and four on page 14 of Tao Guiming, et al.      
+19 For an excellent, if somewhat dated, study on Taiwan’s air base operability under wartime stresses, see David A. 
+Shlapak, David T. Orletsky, and Barry A. Wilson, “Dire Strait? Military Aspects of the China -Taiwan Confrontation 
+and Options for U.S. Policy,” (Santa Monica, RAND Corporation, 2000), 31 -34 and Appendix A, available at  
+<http://www.rand.org/content/dam/rand/pubs/monograph_reports/2007/MR1217.pdf >. and David A. Shlapak, et al., 
+
+ 
+21 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+                                                                                                                                                                                            
+A Question of Balance  (Santa Monica, RAND Corporation, 2009), 31-90, available at 
+<,http://www.rand.org/pubs/monographs/MG888.html>. 
+20 Yu Renshun, et al., 25-31.    
+21 Jiang Minle and Gao Xiaoguang, “Zhanshu Daodan Dui Jichang Gongji Zuozhan X iaoneng de Jisuanji Moni 
+[Computer Simulation of Tactical Missile Attack Operations Effects Against Airfields], Huoli Yu Zhihui Kongzhi  
+[Fire Control and Command Control] Vol. 23, No. 2 (June 1998): 59-62.  
+22 Moreover, this debate soon spread to Taiwan, and eventually to U.S. Air Force and Navy circles. More on this 
+will be discussed later in the paper.  
+23 Of many sources, see Shi Xilin and Tan Junfeng, “Feiji Paodao Shixiaolu Jisuan de Tongji Shiyan Fa [Law of 
+Statistical Calculations for Experiments on Aircraft Runway Loss Rates],” Huoli Yu Zhihui Kongzhi [Fire Control 
+and Command Control] Vol. 25, No. 1 (January 2000): 74-76.  
+24 Shi Xilin and Tan Junfeng, “Zhanshu Didi Daodan Daji Fuza Feiji Paodao de Huoli Yunyong [Firepower 
+Operations for Tactical Surface to Surface Missile Strikes on Complex Aircraft Runways],” Huoli Yu Zhihui 
+Kongzhi [Fire Control and Command Control] Vol. 26, No. 2 (June 2001): 38-40.  
+25 Ibid.  
+26 However, the average future CEP they envisioned was around 80 meters. See table one in Yu  Renshun, et al., 31.    
+27 See Jiang Minle and Gao Xiaoguang, 1998; Shi Xilin and Tan Junfeng, 2001; and Xue Wentong, et al., “Zimudan 
+Dui Fuza Xingzhuang Mubiao Cuishang Xiaoguo de Jisuanji Fangzhen [Computer Simulation of Sub -Munitions 
+Damage Effects against Complex Target Configuration],” Jisuanji Fangzhen [Computer Simulation] Vol. 20, No. 4 
+(April 2003):16-18.  
+28 See Xue Wentong, et al., 17.  
+29 Note that the senior researcher involved in this project had previously conducted the computer modeling of 
+conventional ballistic missiles strikes on runways. See Song Guangming and Song Jianshe, “Changgui Daodan Daji 
+Jichang Paodao de Jisuan Moni [Computer Simulation of Conventional Missile Strikes on Airfield Runway],” Huoli 
+Yu Zhihui Kongzhi [Fire Control and Command Control] Vol. 26, No. 4, (2001).      
+30 See Liu Hengjun, et al., “Yizhong Paodao Moxiu Zimudan Jiqi dui Fengsuo Xiaolu Yanjiu [Research on the 
+Runway Blockade Effects of One Type of Terminal Course Correcting Submunitions],” Dan Jian Yu Zhidao 
+Xuebao (Journal of Projectiles, Rockets, Missiles and Guidance) Vol. 27, No. 1, (2007): 135-140.        
+31 Liu Hengjun, et al., 136-137. 
+32 Yin Zhihong, et al., “Kongdi Daodan dui Jichang Fengsuo Zhan Jianmo yu Fangzhen [Model and Simulation of 
+Air-to-Surface Missile for Airfield Blockade Operations],” Xitong Fangzhen Xuebao [Journal of System Simulation], 
+(February 2008): 583-585; Wang Xiaomei, et al.,1859-1861; and Lei Yuli and Tang Xuemei, “Qinqie Zimudan dui 
+Jichang Paodao Fengsuo Suanfa Jilu Yanjiu [Research on Algorithm for Calculating Probability of Penetrating 
+Submunition Used Against Airfield Runway],” Xitong Fangzhen Xuebao [Journal of System Simulation] Vol. 16, 
+No. 9 (2004): 2030-2032.   
+33 The Chinese term used in the study was: Zhengti Shabao Dan. This would appear to be a euphemistic reference to 
+a nuclear bomb or perhaps some other weapon of mass destruction.  
+34 Li Xinqi and Wang Minghai, “Changgui Daodan dui Fengsuo Jichang Paodao Xiaoneng Zhunze Wenti Yanjiu 
+[Research on Standard Problems of Conventional Missile Effects for Blockading Airfield Runways],” Zhihui 
+Kongzhi Yu Fangzhen [Command Control and Simulation] Vol. 29, No. 4 (August 2007): 78.     
+35 Ibid, 81.  
+36 Other possibilities under consideration included one large 18-missile salvo; two salvos (first 12 missiles and then 
+6 missiles) separated by 60 minutes; three salvos (10, 4, 4) separated by 40 minutes; and four salvos (8, 4, 3, 3) 
+separated by 30 minutes. These were assessed to have the following chances of success: 74, 82, 82, and 77 percent, 
+respectively.     
+37 Li Xinqi and Wang Minghai, 81.  
+38 Military and Security Developments Involving the People’s Republic of China (Arlington, VA: Office of the 
+Secretary of Defense, 2014), 9, 31, accessible online at 
+<http://www.defense.gov/pubs/2014_DoD_China_Report.pdf>.   
+39 Ibid, 30, 34. 
+40 Gao Zhiyang, “Qiangxiu Paodao Zhiwai Jichang Beidong Fengyu de Xin Siwei [Beyond Runway Recovery – the 
+New Thinking on Passive Airfield Defense],” Quanqiu Fangwei Zazhi [Defence International], (May 2006), 
+accessible online at <http://www.diic.com.tw/mag/mag261/261-38.htm>.  
+41 Ibid.   
+
+ 
+22 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+                                                                                                                                                                                            
+42 Carolyn O’Hara, “China builds a mock Taiwanese air base,” Foreign Policy , August 11, 2006, available at 
+<http://blog.foreignpolicy.com/posts/2006/08/11/china_builds_a_mock_taiwanese_air_base >.    
+43 See David Axe, “China’s Increasingly Good Mock Air Battles Prep Pilots for Real War,” Wired Magazine, 
+February 7, 2013, available at <http://www.wired.com/2013/02/china-mock-air-war/all/>. For a good map of the 
+facility, see “Dingxin/ Shuangchengzi Air Base,” available at <http://wikimapia.org/835014/Dingxin-
+Shuangchengzi-Air-Base>.     
+44 Easton’s interviews with U.S. Air Force officer and Japanese military analyst in Washington D.C., July 2014. See 
+also Ray Walters, “China’s mysterious desert lines mystery solved,” Geek, November 15, 2011, available at 
+<http://www.geek.com/geek-cetera/chinas-mysterious-desert-lines-mystery-solved-1441125/>.   
+45 See Wang Tie, et al., “Er Pao Daodan Zhandoubu Dongku Cangcun Guanjian Jishu Yijing Pojie [Second Artillery 
+Missile Warhead Storage Facility Cracks Critical Technologies]”, Jiefangjun Bao [PLA Daily], April 12, 2007, 
+available online at <http://mil.eastday.com/m/20070412/u1a2760363.html>.   
+46 See for example, the discussion in Huang Guangyan, et al. 
+47 See Jiang Zengrong, et al., “Zhadian Shendu dui Fan Paodao Qinbao Zhandoubu Cuishang Xiaoguo Yingxiang 
+Shuzhi Moni [Numerical Modeling of Blast Depth Influence on Destruction Effects of Runway Penetrating 
+Warhead],” Conference Paper Presented at China’s Ninth National Forum on Blast Dynamics, undated, 175-179; 
+and Jiang Zengrong, et al., “Zhadian Shendu dui Qinbao Dantoubu Cuishang Xiaoguo Yingxiang Shuzhi Moni 
+[Numerical Modeling of Blast Depth Influence on Destruction Effects of Penetrating Warhead],” Binggong Xuebao 
+[Acta Armamentarii], April 2010, 28-31.      
+48 Xiao Feizhu, “Wo Guo Hangzhan Liangchu Tianlei he CS/BCC5 Liangzhong Danyao Sabu Xitong [Tianlei and 
+CS/BCC5 Type Munitions Dispensing Systems Unveiled at Our Nation’s Aerospace Expo],” Baxue Net , November 
+13, 2012, available at <http://www.baxue.com/zhongguojunqing/18828.html>.    
+49 John Stillion, “Fighting Under Missile Attack,” Air Force Magazine, August 2009, 35.  
+50 Easton’s interviews with Japanese and U.S. officials at Kadena Air Force Base in Okinawa, August and 
+November 2013. See also Stillion, “Fighting Under Missile Attack,” 34-35.  
+51 Ibid. 
+52 Christopher J. Bowie, “The Lessons of Salty Demo,” Air Force Magazine 92, No. 3 (March 2009): 55.  
+53 Ibid., 57. 
+54 Quadrennial Defense Review, 2006, ix.  
+55 Ian M. Easton,testimony before the U.S.-China Economic Security Review Commission during the Hearing on 
+China’s Relations with Taiwan and North Korea, June 5, 2014, available at 
+<http://www.uscc.gov/sites/default/files/Easton_USCC_Taiwan_Hearing_Statement_2014.pdf>.   
+56 See Guo Nairi, Kanbujian de Taihai Zhanzheng [The Unseen War in the Taiwan Strait] (Xizhi, Taiwan: Gaoshou 
+Publishing, 2005), 16-30.; see also Mark A. Stokes, Revolutionizing Taiwan’s Security: Leveraging C4ISR for 
+traditional and non-traditional challenges (Arlington, VA: Project 2049 Institute, February 2010), available at 
+<http://www.project2049.net/documents/revolutionizing_taiwans_security_leveraging_c4isr_for_traditional_and_no
+n_traditional_challenges.pdf>.    
+57 See Wendell Minnick, “Spook Mountain: How US Spies on China,” Asia Times, March 6, 2003, available at 
+<http://www.atimes.com/atimes/China/EC06Ad03.html>. and Wendell Minnick, “Taiwan-US Link Up on SIGINT,” 
+Jane’s Defence Weekly, January 24, 2001, available at <https://www.fas.org/irp/news/2001/01/jdw-taiwan-
+sigint.html>. For a detailed Taiwanese view, see Guo Nairi, Kanbujian de Taihai Zhanzheng [The Unseen War in 
+the Taiwan Strait] (Xizhi, Taiwan: Gaoshou Publishing, 2005), 16-30. 
+58 Multiple interviews in Arlington (VA), 2013-2014.  
+59 Multiple interviews with U.S. cyber security experts in Arlington (VA), 2013 -2014.  
+60 Thomas Karako, "The Future of Missile Defense in the Asia Pacific," Foreign Policy Initiative, May 31, 
+2017, http://www.foreignpolicyi.org/content/fpi-analysis-future-missile-defense-asia-pacific.  
+61 Robbin Laird, “Pacific Needs Better Allied, US Air-Missile Integration: PACAF Gen. Carlisle,” Breaking 
+Defense, March 7, 2014, available at <http://breakingdefense.com/2014/03/pacific-needs-better-allied-us-air-
+missile-integration-pacaf-gen-carlisle-on/>. 
+62 Wendell Minnick, “China puts Guam within Missile Range,” Defense News, May 12, 2016, 
+http://www.defensenews.com/story/defense/international/asia-pacific/2016/05/12/china-guam-us-missile-
+range/84279494/.  
+63 Mark Gunzinger and Bryan Clark, Winning the Salvo Competition: Rebalancing America’s Air and Missile 
+Defense Systems, (Washington, DC: Center for Strategic and Budgetary Assessments, 2016), 55. 
+
+ 
+23 
+ 
+ 
+ 
+                           
+          |Risk and Resiliency: China’s Emerging Air Base Strike Threat| 
+       
+    
+ 
+ 
+                                                                                                                                                                                            
+64 Michael J. Lostumbo, David R. Frellinger, James Williams, and Barry Wilson, Air Defense Options for Taiwan: 
+An Assessment of Relative Costs and Operational Benefits, (Washington, DC: RAND Corporation, 2016), 107. 
+65 This section draws from Ian Easton, Able Archers: Taiwan Defense Strategy in an Age of Precision Strike 
+(Arlington, VA: Project 2049 Institute, September 2014).   
+66 Easton’s interview in Arlington (VA), April 2014.  
+67 PLA General Staff Department 54 Research Institute, “Fangkong Yujing Ziliao Huibian [Compilation of Air 
+Defense Early Warning Information],” 37. 
+68 Sean O’Connor, “Taiwan’s SAM Network.”  
+69 This section draws from Ian Easton, Able Archers: Taiwan Defense Strategy in an Age of Precision Strike 
+(Arlington, VA: Project 2049 Institute, September 2014).    
+70 Jiang Yanyu (ed.), Taiwan Diqu Wushi Nian Junshi Shi 1949-2006 [A Military History of Fifty Years in the 
+Taiwan Area 1949-2006] (Beijing: Liberation Army Press, 2013), 84.     
+71 Ibid.     
+72 Matthew Hallex, “Taiwan Facing Up to the Air base Survival Challenge,” AsiaEye Blog, May 14, 2010, available 
+at < http://blog.project2049.net/2010/05/taiwan-facing-up-to-air base-survival.html>. and “Taitung Air 
+Base/Chihhang Air base,” Global Security, available at 
+<http://www.globalsecurity.org/military/world/taiwan/taitung.htm>.   
+73 William Murray, “Revisiting Taiwan’s Defense Strategy,” Naval War College Review, (Summer 2008): 22. 
+74 Zhou Yang, “Tai Moni Zhanji Gongji Jichang: Junguan Cheng 90 Fenzhong Kexiu 7 Ge Dankeng [Taiwan 
+Simulates Fighter Attacks on Airfield: Military Official Says Can Repair 7 Bomb Craters i n 90],” Global Times, 
+January 14, 2014, available at <http://mil.huanqiu.com/china/2014 -01/4752220.html>.   
+75 Easton’s interview with retired U.S. Air Force officer involved in this security assistance program, Arlington 
+(VA), 2014.  
+76 Zhou, Global Times. 
+77 See Zachery Wilson, “Civil Engineer exercise open for business,” Stars and Stripes , March 20, 2014, available at  
+<http://guam.stripes.com/base-info/civil-engineer-exercise-open-business-guam>. and Matthew Rochon, “Last 
+Silver Flag on Kadena ends,” Kadena Air Base News, May 29, 2013, available at  
+<http://www.kadena.af.mil/news/story.asp?id=123350478>.       
+78 Easton’s interviews with U.S. defense officials in Taipei, March and June 2014.   
+79 Michael J. Lostumbo, et. al, Air Defense Options for Taiwan, 103.  
+80 Quadrennial Defense Review 2014, 38.  
+81 Amy McCullough, “Rapid Raptor 2.0.” Air Force Magazine, March 7, 2017, available at < 
+http://www.airforcemag.com/DRArchive/Pages/2017/March%202017/March%2007%202017/Rapid- Raptor-
+2.0.aspx>. 
+82 For more on PACAF thinking about basing in contingencies, see “The Air Force Association Presentation by Gen 
+O’Shaughnessy and Gen Wolters: Basing for Attack, Where Do We Go?” September 19, 2017, available at < 
+http://secure.afa.org/events/Conference/2017/recordings/Tuesday-210-BAPanel.asp>. 
+83 Laird, Breaking Defense.  
+84 John Stillion, “Fighting Under Missile Attack,” Air Force Magazine, August 2009, 37.  
+85 Quadrennial Defense Review 2014, 38.  
+86 “Resiliency Goes Beyond Hardening,” Air Force Magazine, April 23, 2013, available at 
+<http://www.airforcemag.com/DRArchive/Pages/2013/April%202013/April%2029%202013/Resiliency -Goes-
+Beyond-Hardening.aspx>. 
+87 US Army Corps of Engineers, “Two-year hardened installation effort ends on a high note,” July 5, 2013, available 
+at <http://www.erdc.usace.army.mil/Media/NewsStories/tabid/9219/Article/15844/two-year-hardened-installation-
+effort-ends-on-a-high-note.aspx>. 
+88 Stillion, Air Force Magazine, 34. and David J. Berteau and Michael J. Green, “US Force Posture Strategy in the 
+Asia-Pacific Region: An Independent Assessment?,” The Center for Strategic and International Studies, August 
+2012, available at < http://csis.org/files/publication/120814_FINAL_PACOM_optimized.pdf>.  
+89 Laird, Breaking Defense. 
+90 Ibid.  
+91 Bowie, Air Force Magazine, 55. 

@@ -1,0 +1,10 @@
+# Russian Army — 29th Guards Combined Arms Army
+
+**Unit ID**: 29gca
+**Type**: combined_arms_army
+**Headquarters**: Chita
+**Parent District**: Eastern Military District (EMD)
+**Strength (% authorized)**: 55.0%
+**Notes**: South Donetsk / Velyka Novosilka
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

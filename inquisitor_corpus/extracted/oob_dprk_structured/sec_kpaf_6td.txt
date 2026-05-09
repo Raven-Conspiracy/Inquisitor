@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: 6th Transport Division
+
+**Unit ID**: kpaf_6td
+**Service**: KPAF
+**Type**: air_division
+**Headquarters**: Sondok, South Hamgyong Province
+**Parent**: Korean People's Army Air Force (Konggun) (kpaf)
+**Strength (% authorized)**: 52.0%
+**Notes**: East-coast transport and helicopter support. An-2 transport units at Sondok, Yonpo, Manpo, Kuktong; Mi-4/Mi-8/Mi-17 helicopter wings at Kowon and Pakhon. [Wikipedia KPAF]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

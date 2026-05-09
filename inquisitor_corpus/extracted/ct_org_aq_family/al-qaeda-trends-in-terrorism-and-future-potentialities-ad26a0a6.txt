@@ -1,0 +1,874 @@
+AL QAEDA, TRENDS IN TERRORISM AND FUTURE POTENTIALITIES:  AN ASSESSMENT
+Bruce Hoffman
+P-807 8
+
+Published 2003 by RAND
+1700 Main Street, P .O. Box 2138, Santa Monica, CA 90407-2138
+1200 South Hayes Street, Arlington, VA 22202-5050
+201 North Craig Street, Suite 202, Pittsburgh, PA 15213-1516
+RAND is a nonprofit institution that helps improve policy and decisionmaking
+through research and analysis. Papers are issued by RAND as a service to its
+professional staff. They are personal products of the authors rather than the results of
+sponsored RAND research. They have not been formally reviewed or edited. The
+views and conclusions expressed in Papers are those of the authors and are not
+necessarily shared by other members of the RAND staff or by its research sponsors.
+RAND
+® is a registered trademark. 
+For more information or to order RAND documents, see RAND’s URL
+(http://www.rand.org) or contact Distribution Services, RAND, 1700 Main Street,
+P.O. Box 2138, Santa Monica, CA 90407-2138, phone (310) 451-7002; Fax: (310) 451-
+6915; Email: order@rand.org
+
+AL QAEDA, TRENDS IN TERRORISM AND FUTURE
+POTENTIALITIES: AN ASSESSMENT
+Bruce Hoffman
+The RAND Corporation, Washington, D.C.
+This paper assesses current trends in terrorism and future
+potentialities.  It examines first the presumed state of al Qaeda today
+with particular reference to its likely agenda in a post-Iraq war
+world.  It then more broadly focuses on some key current terrorism
+trends in order to understand better both how terrorism is changing
+and what the implications of these changes are in terms of possible
+future attacks and patterns.  The discussion is organized along four
+key questions:
+• What is the state of al-Qa’ida today and what effects have 18
+months of unremitting war had on it?
+• What are the challenges in countering this particular
+adversary—and, specifically, can al Qa'ida survive bin Laden?
+• What do some other trends in terrorism today tell us about
+potential developments in the future?
+• How should we be thinking about terrorism today and
+tomorrow?
+What is the state of al Qa'ida today?
+The headline at the top of the Washington Post's  front page last
+Christmas Eve brought neither cheer nor comfort to a city still reeling
+from the terrorist attacks that had laid waste to the World Trade
+Center and destroyed part of the Pentagon fifteen months before.
+_________
+ Paper presented at the RAND Center for Middle East Public Policy and
+Geneva Center for Security Policy 3 rd  Annual Conference, "The Middle East
+After Afghanistan and Iraq," Geneva, Switzerland, 5 May 2003.  A synopsis of
+this paper was also presented a meeting of the Council on Foreign Relations,
+Washington, D.C. Office, 8 May 2003.
+
+- 2 -
+"In U.S.," it read, "Terrorism's Peril Undiminished: Nation Struggles on
+Offense and Defense, and Officials Still Expect New Attacks."  The
+gloomy prognosis of senior Bush Administration officials and
+intelligence and law enforcement experts was reflected in their
+conviction that it was only a matter of time before another major
+attack targeted the nation's capital.  Al Qa'ida's penchant to return to
+targets that previous attacks had failed to destroy consumed their
+thoughts and therefore they viewed the White House and U.S. Capitol
+as at the top of the terrorists' hit list.  So likely was such an attack
+that one White House counterterrorism official interviewed for the
+story had actually come to fear for his own safety.  "They are going
+to kill the White House," he remarked.  "I have really begun to ask
+myself whether I want to continue to get up every day and come to
+work on this block."
+1
+Less than three months later, however, a dramatically different
+view was showcased in another front page  Washington Post  story on
+the same subject.  "Al Qaeda's Top Primed To Collapse, U.S. Says," it
+trumpeted, explaining that the recent arrest of Khalid Sheik
+Mohammed, al Qa'ida's titular operations chief and reputed
+mastermind of the 9/11 attacks, and the "mother lode" of
+information, consisting of "hundreds of leads," found on computers
+and other documents seized with him, accounted for this dramatic
+volte-face.  "I believe the tide has turned in terms of al Qaeda,"
+Congressmen Porter J. Goss, the chairman of the U.S. House of
+Representatives Intelligence Committee and himself a former CIA
+case officer, was quoted.  "We're at the top of the hill."  "It's a very,
+very big deal," enthused Director of Central Intelligence George
+Tenet.  "We've got them nailed," said an unnamed intelligence expert,
+who still more expansively declared, "we're close to dismantling
+them."
+2
+_________
+1 Barton Gellman, .  "In U.S., Terrorism's Peril Undiminished: Nation
+Struggles on Offense and Defense, and Officials Still Expect New Attacks,"
+Washington Post , 24 December 2002.
+2 Dana Priest and Susan Schmidt, "Al Qaeda's Top Primed To Collapse, U.S.
+Says ," Washington Pos t, 16 March 2003.
+
+- 3 -
+The new-found optimism of Administration officials and
+intelligence experts alike about al Qaeda's declining fortunes was
+further evidenced this past month after Usama bin Laden's and some
+of his most devoted follower's repeated threats of renewed attack in
+retaliation for invasion of Iraq failed to materialize.
+3  Citing
+Administration sources, an article in the Washington Times  on 24
+April reported the increasingly prominent view of official
+Washington that al Qa'ida's "failure to carry out a successful strike
+during the U.S.-led military campaign to topple Saddam Hussein has
+raised questions about their ability to carry out major new attacks."
+4
+Without doubt, Bin Laden and al Qa'ida's inability to make good
+on any of their pre-invasion threats is a monumental setback given
+that he has long considered himself—and styled the movement he
+leads—as the true defenders of Muslims everywhere.  Al Qa'ida's
+conspicuous inaction is if anything all the more galling to its
+sympathizers, supporters and perhaps even rank-and-file in light of
+a long string of past pronouncements decrying the mistreatment of
+Iraqis under the yoke of the American-influenced, United Nations-
+imposed, sanctions and oft-lamented alleged deaths of literally
+hundreds of thousands of Iraqi children.
+5  Yet, while developments
+in recent months present new evidence of significant progress in the
+war against global terrorism, it would be imprudent to write al
+Qa'ida's obituary just yet—much less discount its ability to mutate
+into new, more pernicious forms.  In this respect, there are at least
+six reasons cautious and careful assessment:
+_________
+3 See, for example, CNN, "Alleged bin Laden tape a call to arms," at
+http://cnn.com/2003/WORLD/meast/02/11/sprj.irq.wrap  and bin Laden's                                                                                                         
+statement, "We want to let you know and confirm to you that this war of the
+infidels that the U.S. is leading with its allies . . . we are with you and we will
+fight in the name of God."
+4 David R. Sands, "Al Qaeda's credibility 'on the line' as war in Iraq winds
+down," Washington Times , 24 April 2003.  See also, Dennis Pluchinsky, "Al
+Qaeda Identity Crisis," Washington Times , 28 April 2003.
+5 See "Declaration of War Against the Americans Occupying the Land of
+the Two Holy Places," Azzam Publications translation in Yonah Alexander and
+Michael S. Swetnam, Usama bin Laden's al-Qaida: Profile of a Terrorist Network
+(Ardsley, NY: Transnational Publishers, 2001), Appendix 1 A, p. 19.
+
+- 4 -
+1. Disagreement over precisely what al Qa'ida is
+2. The propaganda value of bin Laden's prescient analysis
+3. The imperative of individual jihad fused with revenge
+4. The operational possibilities presented by the occupation of
+Iraq
+5.
+ The competence and determination of the remaining al Qa'ida
+leadership cadre
+6.
+ The resiliency of al Qa'ida and the likelihood of a post-bin
+Laden al Qa'ida
+Let us briefly consider each.
+Disagreement of what precisely al Qa'ida is.  It is remarkable
+that more than a decade after its founding, six years after it first
+came to international attention, and 18 months after the
+simultaneous attacks on the World Trade Center and Pentagon
+catapulted it to prominence, al Qa'ida remarkably remains so poorly
+an understood phenomenon.  The ways in which it is variously
+described or perceived is a case in point.  Is it a monolithic,
+international terrorist organization with an identifiable command
+and control apparatus or is it a broader, more amorphous movement
+tenuously held together by a loosely networked transnational
+constituency?  Has it become a franchise operation with like-minded
+local representatives independently advancing the parent
+organization's goals or does it still function at the direction of some
+centralized command nucleus?  Is al Qa'ida a concept or a virus?  An
+army or an ideology?  A populist transnational movement or a vast
+international criminal enterprise?  All of the above?  None of the
+above?  Or, some of the above?  The fact that this question provokes
+more disagreement than agreement in government, intelligence and
+academic circles suggests that any claims of certitude about this or
+that development having incontrovertibly affected al Qa'ida's health
+and longevity should be viewed with skepticism.  The widely
+divergent views of Khalid Sheik Mohammed's role and importance is
+a case in point.  While he is lauded by some as a prize catch at the
+
+- 5 -
+nexus of all past and future al Qa'ida operations; others dismiss him
+as a small fish, maintaining that, while Mohammed may have "huge
+knowledge of 9/11," he has little knowledgeable of subsequent al
+Qa'ida operations, none of future planned attacks and has had no
+contact with bin Laden for more than a year..
+6
+The propaganda value of bin Laden's prescient analysis .  To bin
+Laden's loyal followers, active supporters and passive sympathizers,
+the analysis he first presented in the seminal August 1996 fatwa, the
+"Declaration of War Against the Americans Occupying the Land of the
+Two Holy Places," comes across, if anything, as only more prescient
+and accurate today.
+ 7  Seven years ago, he argued that the "Crusader
+military forces" of the U.S. and U.K. had established a beach head in
+Saudi Arabia from which they intended to impose a new imperialism
+on the Middle East in order to gain control over the region's oil
+wealth.
+8  To those already inclined to this view, recent events cannot
+unreasonably be seen to have provided further evidence of the
+acuity of bin Laden's analysis.
+9  Given the long-established
+sophistication of bin Laden and al Qa'ida's propaganda
+efforts—employing multi-media means vehicles, including pre-
+_________
+6 The view expressed by at least some European and American analysts
+with access to senior intelligence sources in their respective countries.
+7 "My Muslim Brothers of The World," bin Laden wrote.  "Your brothers
+in Palestine and in the land of the two Holy Places are calling upon your help
+and asking you to take part in fighting against the enemy your enemy and
+their enemy the Americans and the Israelis.  they are asking you to do
+whatever you can, one own means and ability, to expel the enemy, humiliated
+and defeated, out of the sanctities of Islam . . .".  See Ibid., Appendix 1 A, p. 21.
+8 "Destruction of the oil industries.  The presence of the USA Crusader
+military forces on land, sea and air of the states of the Islamic Gulf is the
+greatest danger threatening the largest oil reserve in the world.  The
+existence of these forces in the area will provoke the people of the country
+and induces aggression on their religion, feelings and prides and push them to
+take up armed struggle against the invaders occupying the land; therefore
+spread of the fighting in the region will expose the oil wealth to the danger of
+being burned up."  Ibid., Appendix 1 A, p. 8.
+9 See, for example, Thom Shanker and Eric Schmidtt, "Pentagon Expects
+Long-Term Access to Four Key Bases in Iraq," New York Times , 19 April 2003;
+and, "Rumsfeld Denies the U.S. Has Plans for Permanent Iraq Bases," 21 April
+2003 at http://www.nytimes.com/2003/04/22/international
+/worldspecial/22PETN.html.
+
+- 6 -
+recorded video and audio tapes, CD-Roms, DVDs, and the Internet;
+dramatically choreographed and staged dissemination opportunities;
+and other mass outreach techniques (e.g., via al Qa'ida's phantom al-
+Neda web site and those of sympathetic, above-ground radical
+Islamic sites and organizations)
+10—it is likely that this message will
+be peddled with increasing fervor for its intended motivational and
+recruitment value.  If the American military presence in Iraq is
+prolonged and if al Qa'ida is able to commence a sustained guerrilla
+warfare campaign against American forces stationed in Iraq or
+positioned in the region, this propaganda would likely strike a
+responsive chord throughout the Muslim world and possibly
+rejuvenate the flagging movement.
+The imperative of individual jihad fused with collective revenge .
+Bin Laden has long defined the imperative of jihad as an individual
+responsibility incumbent upon Muslims everywhere.  "It is no secret
+that warding off the American enemy is the top duty after faith and
+that nothing should take priority over it," bin Laden wrote in his
+1996  declaration of war.  "Without shedding blood no degradation
+can be removed from the forehead I remind the youths of the
+Islamic world," he had also stated.
+11  Two years later, bin Laden
+reiterated how all ulema "are unanimous that it is an individual duty
+to fight an invading enemy,"
+12  This was repeated again in his
+message of 9 December 2001, when bin Laden declared that "jihad
+has become fard-ain [obligatory] upon each and every Muslim . . . .
+The time has come when all the Muslims of the world, especially the
+youth, should unite and soar against the kufr and continue jihad till
+_________
+10 See the analysis in Bruce Hoffman, "Underground Voices: Insurgent
+and Terrorist Communication in the 21 st  Century," unpublished paper
+presented at the August 2002 meeting of the Insurgency Board, held at RAND's
+Washington, D.C. office.
+11 "Declaration of War Against the Americans Occupying the Land of the
+Two Holy Places," in Alexander and Swetnam, Usama bin Laden's al-Qaida,
+Appendix 1 A, p. 19.
+12 Quoted in Anonymous, Through Our Enemies' Eyes: Osama bin Laden,
+Radical Islam, and the Future of America  (Dulles, VA: Brassey's, 2002), pp. 53 &
+70.  This book, written by a 20 year veteran of the CIA's operations directorate,
+is without doubt the preeminent work on bin Laden and al Qa'ida
+.
+
+- 7 -
+these forces are crushed to naught, all the anti-Islamic forces are
+wiped off the face of this earth and Islam takes over the whole world
+and all other the other false religions."
+13
+Though tempting to dismiss such appeals as anachronistic
+braggadocio, they may yet acquire new resonance at a time when
+Muslims reportedly harbor a deep sense of humiliation and
+resentment over the relatively bloodless conquest of Baghdad and
+the perceived unbridled projection of American power and influence
+into the region.
+ 14  To al Qa'ida's skillful propagandists, recent
+developments might be effectively parlayed as the latest in an
+ignominious series of historic Muslim defeats by the West that must
+now be avenged.  Indeed, the concept of vengeance has long figured
+prominently as a rallying cry in both bin Laden's and al Qa'ida's
+messages.  As previously noted, the requirement to avenge the
+shedding of innocent Muslim blood and especially that of Muslim
+children in Iraq and Palestine have been persistent bin Laden, cum
+al Qa'ida themes.
+15  In his December 2001 message, for example, bin
+Laden struck a familiar note when he warned: "Those [Westerners]
+who talk about the loss of innocent people didn’t yet taste how it
+feels when you loose a child, don't know how it feels when you look
+in your child's eyes and all you see is fear.  Are they not afraid that
+one day they [will] get the same treatment?"
+16  Particularly at a time
+when al Qa'ida is weakened, the call for revenge coupled with the
+regenerative power of a single, new dramatic terrorist attack could
+breathe new life into the movement.
+_________
+13 Ben Venzke and Aimee Ibrahim, The al-Qaeda Threat: An Analytical
+Guide to al-Qaeda's Tactics and Targets  (Alexandria, VA: Tempest Publishing,
+2003), p. 160.
+14 Professor John Esposito makes this latter point in his book, The Islamic
+Threat: Myth or Reality  as quoted and discussed in Anonymous, Through Our
+Enemies' Eyes , p. 10.
+15 "More than 600,000 Iraqi children have died due to lack of food and
+medicine and as result of the unjustifiable aggression (sanction) imposed on
+Iraq and its nation," bin Laden wrote in 1996.  See "Declaration of War Against
+the Americans Occupying the Land of the Two Holy Places," in Alexander and
+Swetnam, Usama bin Laden's al-Qaida, Appendix 1 A, p. 19.
+16 Quoted in Anonymous, Through Our Enemies' Eyes , p. 47 .
+
+- 8 -
+The operational possibilities presented by the occupation of
+Iraq .  Since at least 1996, bin Laden has argued about the
+asymmetric virtues of guerrilla warfare and repeatedly extolled the
+victory he claims was achieved with this tactic in Somalia against
+American forces in October 1993.
+17  "[I]t must be obvious to you," bin
+Laden declared in his 1996 declaration of war, "that, due to the
+imbalance of power between our armed forces and the enemy forces,
+a suitable means of fighting must be adopted, i.e., using fast moving
+light forces that work under complete secrecy.  In other word to
+initiate a guerrilla warfare, where the sons of the nation, and not the
+military forces, take part in it."
+18
+A virtually identical call to arms was issued just two months ago
+when Qa'ida released the fifth and sixth installments of a series of
+articles, entitled, In The Shadow of the Lances , that had begun to
+appear shortly after the 9/11 attacks.  Although the previous
+installments had been written by al Qa'ida's putative spokesman,
+Sulaiman Abu Ghaith, the two latest were authored by Saif al-Adel,
+one of the movement's most senior operational commanders and a
+former Egyptian Army Special Forces officer who joined al Qa'ida
+with the 1998 merger of Ayman Zawahiri's Egyptian Islamic Jihad.
+In it, al-Adel advocates the use of guerrilla warfare tactics against
+the American and British forces in Iraq and provides detailed
+practical advice on its implementation.
+19  Further, in a 9 April 2003
+declaration posted on al Qa'ida's phantom web site, al Neda, which
+_________
+17 Specifically, the events where 18 U.S. Army Rangers and Delta Force
+commandos were killed in fighting with Somali militiamen and allegedly al
+Qa'ida fighters.  See Mark Bowden, Black Hawk Down: A Story of Modern War
+(Boston: Atlantic Monthly Press, 1999), passim .
+18 "Declaration of War Against the Americans Occupying the Land of the
+Two Holy Places," in Alexander and Swetnam, Usama bin Laden's al-Qaida,
+Appendix 1 A, p. 11.
+19 See "Al-Qa'ida Organization Addresses a Message to Iraqi, Islamic
+Peoples (Internet) www.alfjr.com WWW in Arabic in Arabic, 5 March 2003.
+[Posting by "Ayn al-Haqiqah," entitled "The al-Qa'ida Organization Writes a
+Letter to the Iraqi People" in the "Issues of the Islamic Nation" section of the
+chatroom of www.alfjr.com, on 5 March 2003.  See also, Ben Venzke and Aimee
+Ibrahim, al-Qaeda 's Advice for Mujahideen in Iraq: Lessons Learned in
+Afghanistan, v 1.0  (Alexandria, VA: IntelCenter, 14 April 2003), passim.
+
+- 9 -
+was clearly written after American forces had entered Baghdad, the
+virtues of guerrilla warfare are again lavishly extolled. Under the
+caption, "Guerrilla Warfare Is the most Powerful Weapon Muslims
+have, and It is The Best Method to Continue the Conflict with the
+Crusader Enemy," prominent lessons of history are invoked to rally
+the jihadists for renewed battle.  "With guerilla warfare," the
+statement explains,
+the Americans were defeated in Vietnam and the Soviets
+were defeated in Afghanistan.  This is the method that
+expelled the direct Crusader colonialism from most of the
+Muslim lands, with Algeria the most well known.  We still
+see how this method stopped Jewish immigration to
+Palestine, and caused reverse immigration of Jews from
+Palestine.  The successful attempts of dealing defeat to
+invaders using guerilla warfare were many, and we will not
+expound on them.  However, these attempts have proven
+that the most effective method for the materially weak
+against the strong is guerrilla warfare. . . .
+20
+If it is accepted that one of bin Laden's aims in the 9/11 attacks
+was to draw the U.S. into a costly ground campaign in Afghanistan,
+where American forces would be ground up and defeated much as
+the Red Army was more than a decade ago, then Iraq arguably
+presents him with a crucial, second (final?) bite of the apple.  Iraq
+may thus prove an irresistible opportunity for the mjuhadideen to
+avenge the stunning defeat of the Taleban and al Qa'ida in
+Afghanistan a year ago.  In this respect, what we in the U.S. and the
+West would regard as a decisive victory, bin Laden and his followers
+(however illusory) likely dismiss as a one setback or a mere lost
+battle in a long war.  Further, whereas we have become accustomed
+to measuring wars that are fought and won in a few months, if not a
+matter of weeks, our adversaries see this conflict as an epic contest
+_________
+20 MEMRI Special Dispatch - Jihad and Terrorism Studies, 11 April 2003,
+no. 493 quoting
+http://www.cubezero.nt/vhsvideo/imagis/?subject=2&rec=1043 .                                                                                                                     
+
+- 10 -
+lasting years, if not decades.  As such, as the deployment of
+American military forces from Djibouti to the border of Iran, may
+now be seen by al Qa'ida strategists as presenting the movement
+with a "target rich environment" alongside multiple new operational
+opportunities and as such simply the next phase in a long struggle.
+The competence and determination of the remaining al Qa'ida
+leadership cadre .  To date, nearly half of the senior al Qaeda
+leadership has been killed or captured.  Among them are important
+operations commanders like Khalid Sheik Mohammed, Mohammed
+Atef and Abu Zubayda (Zayn al-Abidin Mohammed Husayn), as well
+as key financiers like Mohammed Mustafa Ahmed Hawsawi (who
+was arrested with Mohammed).  Their deaths and apprehension have
+appreciably weakened al Qa'ida and undermined its operational
+capabilities.  But, at the same time, the vital core leadership arguably
+remains at large or at least unaccounted for.  Among them are the
+nucleus of fighters from EIJ (Egyptian Islamic Jihad) that Ayman
+Zawahiri brought into al Qa'ida in 1998.  This is particularly
+significant with respect to al Qa'ida's longevity and regenerative
+capacity, since this group are among the best educated, most highly
+skilled and motivated, and competent cadre in the movement.
+Indeed, only one of the original EIJ operatives in al Qa'ida's upper
+echelon (Atef) has been among those senior cadre killed or arrested
+since 9/11.  Accordingly, the movement's core competency arguably
+remains intact.  In this respect, if bin Laden himself were killed or
+captured, bin Laden's deputy, Zawahiri, would presumably replace
+him.  As Zawahiri is often cited as the real "brains" behind bin Laden,
+and was certainly instrumental in al Qa'ida's transformation to a
+terrorist group with real global reach after its merger with EIJ, the
+implications of his accession to power cannot be blithely dismissed.
+Moreover, given that Zawahiri lost both his wife and only son as a
+result of a U.S. air strike in Afghanistan in November 2001, a strong
+personal motive of uncompromising enmity motivated by a burning
+vengeance (especially since one of the deaths involved Zawahiri's
+lone son—the only progeny of Zawahiri's who could carry on the
+
+- 11 -
+family name) might possibly impel what is left of al Qa'ida towards
+aspirations of renewed and intensified violence.
+It must also be said that, even in the post 9/11-era, when Al
+Qa'ida has been relentlessly tracked, harassed and weakened, a
+“corporate succession” plan of sorts has seemed to function.  Al-
+Qa’ida thus appears to retain at least some depth in numbers as
+evidenced by its replenishment abilities to produce successor
+echelons for the mid-level operational commanders who have been
+killed or captured.  This may be a reflection of the vast reservoir of
+trained jihadists that al-Qa’ida at least theoretically can draw from.
+In his January 2003 state-of-the-union speech, President Bush
+himself referred to tens of thousand of persons who had been
+trained during the past decade in al-Qa’ida camps in the Sudan,
+Yemen, and Afghanistan and thereby comprise this cadre.  More
+recently, the head of Germany's intelligence service put their number
+at some 70,000 world-wide.
+21  Even if this figure is grossly
+exaggerated in terms of those individuals who swore the oath of
+allegiance to bin Laden and were inducted into al Qa'ida proper (as
+opposed to being trained as Taleban militiamen for the civil war
+being fought against the Northern Alliance), the potential pool of
+even a few thousand well-trained and battle hardened fighters
+ensures at least a sufficiently deep well of expertise from which to
+continue to draw.
+Moreover, in terms of al Qa'ida's finances, sufficient monetary
+reserves likely still exist.  According to one, open source estimate,
+some $120 million of identifiable  al Qa'ida assets to date has been
+seized or frozen.
+22  Given that bin Laden reputedly amassed a war
+chest in the billions of dollars, ample funds may still be at the
+disposal of his minions.  At one point, for example, bin Laden was
+reputed to own or control some 80 companies around the world.  In
+the Sudan alone, according to Peter Bergen, he owned all of that
+_________
+21 Statement made at the World Economic Forum, Davos, Switzerland, 23
+January 2003.
+22 Electronic newsletter of the Orion Group, 24 April 2003.
+
+- 12 -
+country's most profitable businesses, including construction,
+manufacturing, currency trading, import-export and agricultural
+enterprises.
+23  Not only were many of these well-managed to the
+extent that they regularly turned a profit, but this largesse in turn
+was funneled to local al Qa'ida cells that in essence became entirely
+self-sufficient, self-reliant terrorist entities within the countries they
+operated.
+24
+The resiliency of al Qa'ida and the likelihood of a post-bin Laden
+al Qa'ida .  In the final analysis, al-Qa’ida's resiliency (and longevity)
+is not predicated on the total number of jihadists that it may have or
+have not trained in the past, but on its continued ability to recruit, to
+mobilize, and animate both actual and would-be fighters, supporters
+and sympathizers.  In this respect, it is significant that, despite the
+punishment meted out to al Qa'ida during the past 18 months—the
+arrests and personnel losses, the dismantling of its operational bases
+and training camps in Afghanistan, the smashing of its headquarters
+and its mass expulsion from that country—as early as March 2002
+the movement quickly recommenced active propaganda and
+communication efforts.  A professionally produced al Qa'ida
+recruitment video, for example, suddenly appeared which was
+circulated around various foreign Muslim communities in hopes of
+attracting new martyrs to bin Laden’s cause.  The seven minute
+video tape, seized by American authorities sometime during the
+spring of 2002, openly extolled the virtues of martyrdom and
+solicited new recruits to bin Laden’s cause.  It presented various
+scenes of jihadists in combat that were followed by the images of 27
+martyrs shown in rapid succession with the name of each listed,
+where they are from and where they died.  Twelve of the martyrs
+were then featured in a concluding segment accompanied by the
+voice over: “They rejoice in the bounty provided by Allah: And with
+regard to those left behind who have not yet joined them in their
+_________
+23 Peter Bergen, Holy Terror, Inc.: Inside the Secret World of Osama bin
+Laden  (NY: Free Press, 2001),  pp.  47-49.
+24 Anonymous, Through Our Enemies' Eyes , p. 34.
+
+- 13 -
+bliss, the martyrs glory in the fact that on them is no fear, nor have
+they cause to grieve.”  The video closes with a message of greeting
+from the “Black Banner Center for Islamic Information” along with
+accompanying contact details for those interested in joining al Qa'ida
+for the purpose of becoming a martyr.  At a time when the greatest
+military onslaught directed against a terrorist group in history had
+crushed al Qa'ida’s infrastructure in Afghanistan, it is remarkable
+that this terrorist movement was still actively seeking to rally its
+forces and attract new recruits to a struggle that it clearly regarded
+as far from over.  Abu Ghaith, the group's chief spokesman, said as
+much.  “Those youths that destroyed Americans with their planes,"
+he declared, "they did a good deed.  There are thousands more young
+followers who look forward to death like Americans look forward to
+living.”
+25
+The persistent re-appearance of the al Neda web site is another
+example of al Qa'ida's unremitting recruitment and morale
+strengthening efforts.  The site, which is published in Arabic only,
+continues to disseminate its anti-American and anti-Western
+messages.  Three basic themes are emphasized:
+• The West is implacably hostile to Islam
+• The only way to address this threat and the only language
+that the West understands is the logic of violence
+• Jihad is the only option
+The theory of jihad in particular is elaborated in great detail with
+continued exhortations to Muslims that Islam involves commitment
+to spread the faith by the sword.  In addition, regular summaries are
+posted of news affecting the Islamic struggle against the West,
+including al Qa'ida’s own accounts of ongoing fighting and
+skirmishing with American and allied forces both in Afghanistan and
+_________
+25 Unclassified portions of Central Intelligence Agency, Directorate of
+Operations, classified title, 3 April 2002, p. 9.
+
+- 14 -
+Pakistan, along with a selection of suggested readings, including
+books by approved authors. 26  Justification is also provided for the
+September 11 th  attacks, with video clips and other messages praising
+the operation and citing Islamic legal arguments to justify the killing
+of civilians.  As with many other terrorist group sites, poetry is also
+used to glorify the sacrifices of martyrs and the importance of
+unrelenting struggle against Islam’s enemies.  According to British
+journalist, Paul Eedle, the “site works to maintain the morale of al-
+Qa'ida supporters in the face of obvious reverses since September
+11.”
+27   In particular, articles posted on the site have sought to draw
+a connection between the destruction of the World Trade Center and
+the cumulative blow struck against the U.S. economy by the
+September 11
+th  attacks.  Among the claims of proof the site offers are
+the weakening strength of the American dollar, the precipitous
+decline of the U.S. stock market, and the loss of confidence both at
+home and abroad in the American economy.  Parallels are drawn
+with the decline and ultimate demise of the Soviet Union precipitated
+by the mujahideen and the jihad in Afghanistan during the 1980s.
+28
+Indeed, this has long been a consistent theme of bin Laden’s
+propaganda: where the U.S. is often described as a “paper tiger”: on
+the verge of financial ruin and total collapse much as the USSR once
+was—with the power of Islam poised similarly to push America over
+the precipice.  In bin Laden’s last publicly known address to his
+fighters in December 2001, he played up that theme, stating that,
+“America is in retreat by the grace of God Almighty and economic
+attrition is continuing up to today.  But it needs further blows.  The
+young men need to seek out the nodes of the American economy and
+strike the enemy’s nodes.”
+29
+_________
+26 Presentation made by the British journalist Paul Eedle, “The Language
+of Jihad” at the Third Annual Conference of the Centre for the Study of
+Terrorism and Political Violence, St Andrews University, Scotland, 8 June 2002.
+27 Eedle, “Terrorism.com,” The Guardian  (London),. 17 July 2002.
+28 Eedle, “Terrorism.com,” 17 July 2002.
+29 Translation by, and personal communication with, Eedle, 31 July 2002.
+
+- 15 -
+Al Qa'ida's ability to carry on the struggle, however, has also not
+been predicated on propaganda alone.  Despite its crushing defeat in
+Afghanistan, during 2002, terrorist incidents linked to al Qa'ida
+occurred in places as diverse as Tunisia, Pakistan, Jordan, Indonesia,
+Kuwait, the Philippines, Yemen, and Kenya.  Targets included
+German, Australian and Israeli tourists, French engineers and a
+French oil tanker—as well as such longstanding ones as American
+diplomats and servicemen.  Al-Qa’ida has continued to use suicide
+bombing tactics—both at sea and on land—and on one occasion
+kidnapped and subsequently executed an American journalist (Daniel
+Pearl).  Commercial aviation also remained a significant al-Qa’ida
+target.  In December 2001, for example, a terrorist with a bomb
+hidden in his shoe attempted to blow up a U.S. aircraft en route from
+Paris to Miami.  Eleven months later, a group in Kenya linked to Al-
+Qa’ida tried to shoot down an Israeli charter flight with a hand-held
+surface-to-air missile.
+In this respect, the post-9/11 al-Qa’ida has shown itself to be a
+remarkably nimble, flexible and adaptive entity.  In fact, al-Qa’ida
+appears almost as the archetypal shark in the water, having to
+constantly move forward, albeit changing direction slightly, in order
+to survive.  Hence, the loss of Afghanistan may not have affected al-
+Qa’ida's ability to mount terrorist attacks to the extent we imagine.
+Afghanistan’s main importance to al-Qa’ida was a massive base from
+which to prosecute a conventional civil war against the late Ahmad
+Shah Masoud’s Northern Alliance.  Arms dumps, training camps,
+staging areas and networks of forward and rear headquarters were
+therefore required for the prosecution of this type of conflict.  These
+accoutrements, however, are mostly irrelevant to the prosecution of
+an international terrorism campaign.  The al-Qa’ida attacks
+successfully perpetrated in Tunisia and Pakistan last spring, Bali,
+Yemen, and Kuwait in October, and Mombassa in November attest to
+this.  Indeed, previous “high-end” al-Qa’ida plots predating its
+comfortable relationship with the Taleban in Afghanistan
+demonstrate that the movement’s strength is not in geographical
+possession or occupation of a defined geographical territory, but in
+
+- 16 -
+its fluidity and impermanence.  The activities of the peripatetic
+Ramzi Ahmad Yousef, reputed mastermind of the first World Trade
+Center bombing, during his sojourn in the Philippines during 1994
+and 1995 is a case in point.  Yousef's grand scheme to bomb
+simultaneously 12 American commercial aircraft in mid-flight over
+the Pacific Ocean (the infamous "Bojinka" plot), for example, did not
+require extensive operational bases and command and control
+headquarters in an existing country to facilitate the planning and
+execution of those attacks.
+Rather, what was critical to the success of 9/11 were three
+capabilities that al Qa'ida likely still retains.  First, was the ability to
+identify of a key vulnerability or gap in the defenses of its principal
+enemy—America—that could be mercilessly exploited (e.g., the U.S.
+commercial aviation security structure).  Second, was the effective
+use of deception on board the four hijacked aircraft where, the
+passengers and crew, were deliberately lulled into believing that if
+they behaved and cooperated as they were told—the standard
+operating procedure for crew and passengers on hijacked aircraft
+that historically had enhanced chances of survival—they would not
+be harmed.  Third, suicide attack was employed to ensure the
+attack’s success.  None of these essential qualities was dependent on
+al Qa'ida having a base of operations in Afghanistan—and thus could
+likely be replicated in some future plan that successfully identifies
+and exploits a gap in our defenses and then cleverly and adroitly
+assembles the operational requirements for that attack to succeed.
+Even if the 2002 al Qa'ida attacks pale in comparison and
+sophistication with such spectaculars as the 1998 embassy bombings,
+the attack on the U.S.S. Cole  in 2000 and 9/11, the potential
+rejuvenating power of a terrorist spectacular—however crude and
+directed against a soft target, such a bar in Bali on Saturday
+night—nonetheless demonstrates the ability of even one significant,
+new terrorist incident to instantly re-ignite world-wide fears and
+concern.
+In addition, the means and knowledge to continue to prosecute
+the struggle have been disseminated throughout the world.  The 13
+
+- 17 -
+volume Encyclopedia of Jihad  and one volume Jihad Manual  have
+been loaded onto the world-world web, transferred onto discs and
+CD-Roms and e-mailed to jihadists and would-be jihadists.  As a
+review text with which to brush up on one’s skills, a training manual
+to impart information and instruction to others, or even as a
+recruitment vehicle, al-Qa’ida’s abiding faith in the power of
+communication, whether through propaganda or instructional
+treatises has ensured a steady of information to its far-flung
+sympathizers and supporters.
+Finally, bin Laden has likely prepared for his own death and in
+turn has formulated a succession plan of his own, not necessarily
+with regard to who will replace him as leader, but in order to ensure
+the continuation of the movement and revolution that he set in
+motion.  On several occasions , for example, bin Laden has spoken of
+his own martyrdom and openly welcomed it.  In August 1998, he
+declared that "I am fighting so I can die a martyr and go to heaven to
+meet God.  Our fight is now against America.  I regret having lived
+this long.  I have nothing to lose."  And, again four months later, he
+proclaimed, "I am not afraid of death.  Rather, martyrdom is my
+passion because martyrdom would lead to the birth of 1,000s of
+Osamas."
+30
+What do broader current trends tell us about future
+potentialities?
+First, and foremost (and at the risk of stating the obvious) it
+must be said that we are in a transitional state, with our
+counterterrorism measures improving and becoming stronger while
+al-Qa’ida constantly scrambles and struggles to adapt itself to the
+new, less congenial operational environments in which it must exist.
+During this period of adaptation, there will be continued low-level
+attacks and, as has been the pattern of late, mostly against accessible,
+soft targets.  Particular emphasis will continue to be laid on the
+exploitation of local causes with which al Qa'idas ongoing propaganda
+_________
+30 Quoted in Ibid., pp. 31 and 6.
+
+- 18 -
+efforts will be re-aligned to fit its pan-Islamist ideology.  In many
+instances, these local cells will also continue to be surreptitiously co-
+opted by al-Qa’ida so that, unbeknownst to their rank-and-file, the
+group will in fact pursue al-Qa’ida’s broader, long-range goals in
+addition to or instead of its own, more parochial goals.  This process
+has been evident in some of the Jemmah Islamiya attacks in
+Indonesia and Singapore as well as among some Algerian terrorist
+cells operating in European countries.  During this transition, we are
+also likely to see increased recruitment targeting second and third
+generation European Muslims living in Diaspora communities there.
+Particular recruitment efforts have already been focused, for
+example, on Muslim youth living in the Netherlands whom it was
+previously assumed had been completely assimilated into their new
+host countries and cultures.
+31  Al-Qa’ida operatives will thus seek to
+embed themselves in, and draw new sources of support from,
+receptive established Muslim communities.  In this way, new recruits
+can be drawn into the movement who may not have previously come
+under the scrutiny of local or national law enforcement.
+The main challenge for al-Qa’ida, however, will be to promote
+and ensure its durability as an ideology and concept.  It can only do
+this by staying in the news; by elbowing any would-be terrorist
+competitors out of the lime-light and through new attacks promoting
+its continued relevance to Muslim affairs.  Violence will continue to
+be key to ensuring its continued presence as an international force.
+Critical to this will be its ability to mount a guerrilla, cum terrorist
+campaign against American forces both in Iraq and deployed in
+support of those operations throughout the Middle East.  If, six
+months from now, this promised campaign has not materialized and
+we experience no more significant al Qa'ida terrorist attacks
+anywhere (e.g., along the lines of even the October 2002 Bali
+bombings), only then may we begin writing al Qa'ida's obituary.
+_________
+31 See General Intelligence and Security Service , Recruitment for the
+jihad in the Netherlands: from incident to trend  (The Hague: Ministry of the
+Interior and Kingdom Relations, December 2002).
+
+- 19 -
+Second, while what al Qa'ida might do and how it would do it is
+of course unclear, developments in Israel over the past year or 18
+months provide some important clues not just as models for potential
+future al Qa'ida operations, but as possible templates for attacks by
+other terrorist groups.  The Israelis at times perhaps overstate the
+point that the type of terrorist attacks experienced in Israel or
+directed against Israeli targets elsewhere rarely remain confined to
+Israel and Israelis alone: eventually expanding to embrace other
+countries in different situations and circumstances.  Indeed, as one
+leading Israeli strategist and military analyst reflected in a recent
+discussion of potential future terrorist trends and tactics: “We had
+the same discussion back in 1968 when El Al aircraft were hijacked
+and people said this is your problem, not ours.”
+32  As we know only
+too well today: ensuring the security of civil aviation remains a
+pervasive, global, challenge.  Accordingly, it may be useful to look at
+recent trends in terrorism in Israel for the clues and insight they
+potentially offer with respect to threats other Western countries—and
+especially the U.S—might face.  In this respect, there are least four
+potentially significant developments of which note should be taken:
+1.
+ The sustained campaign of suicide bombing that has
+convulsed Israel since the start of the Second Intifada in
+September 200.  Although this tactic surfaced in Israel in
+1993, and thereafter became a regular security problem,
+fully 70% of all such incidents have occurred during the past
+20 months.  Indeed, of the approximately 700 Israelis killed
+since then, suicide bombers are responsible for the deaths of
+nearly half.;
+2.
+ The attempt to bomb a large gas works on Ramat Ha-Sharon,
+a Tel Aviv suburb, that would have a potentially catastrophic
+impact not just on the city and its inhabitants but on nearby
+_________
+32 Interview, Dan Scheuftan, National Security Studies Center, Haifa
+University, December 2002 .
+
+- 20 -
+vital, sensitive, government installations, whose destruction
+were considered the attack’s secondary targets;
+3. The use of SAM-7 surface-to-air missiles in an attempt to
+shoot down a charter Israeli passenger aircraft as it took off
+from the Mombasa, Kenya airport; and,
+4.
+ The growing use of poisons in suicide bomb attacks and
+attendant increase of interest in chemical warfare among
+some Palestinian groups.
+At least two of the above attacks that were foiled (the gas works and
+SAM attack) came uncomfortably close to succeeding.  Given that
+none had any especially unique operational or technical requirement,
+the ease of their implementation in other countries cannot be
+discounted.  Indeed one has to ask whether American or any
+European society can easily bear any one of those types of attacks?
+Worse still, between and beyond the above attacks, one can
+conjure up immense concerns that fit uncomfortably with the
+capabilities found across the terrorist technological spectrum.  The
+Israeli concept of “mega terrorism” is particularly instructive in this
+respect.  This concept embraces not only the obvious—terrorist use of
+WMD or more discrete CBR weaponry, the targeting of infrastructure
+and mass casualty events, but arguably more prosaic types of
+incidents such as suicide bombings, terrorist attacks on
+kindergartens and primary schools, the assassination of a range of
+political leaders below that of presidents or prime
+ministers—including mayors, high court judges, leading
+parliamentarians, etc.—in ways that while perhaps not causing
+extensive human loss of life or physical damage, would nonetheless
+have profound, far-reaching psychological repercussions on the
+targeted society.  In other words, a deliberate and calculated
+infliction of sharp, almost unbearable pain— but in modest
+amounts—that would nonetheless be designed to attempt to bring
+society to its knees.  The sniper incidents in and around metropolitan
+Washington, D.C. last fall provide an uncomfortable example of the
+
+- 21 -
+comparative ease at which such societies can be profoundly affected
+and unsettled.
+How should we be thinking about terrorism today and
+tomorrow?
+In the post-9/11 environment, terrorism’s power to coerce, and
+intimidate, to force changes in our normal behavior, and to influence
+our policies and affect how and on what we spend money, have all
+increased enormously.  In this respect, the stakes have not only
+grown, but public fears and expectations have as well.  More and
+more, the metric of success in the war on terrorism is defined as the
+ability of intelligence agencies and law enforcement organizations to
+prevent, pre-empt and deter attacks.  Conversely, the metric of
+success for the terrorists has become simply the ability to act.
+Although there is a world of difference between bombing a bar in
+Bali and attacking the Pentagon, the impact is not necessarily as
+dissimilar.  Al-Qa’ida’s power and receptiveness in parts of the world
+today is in fact based on the extraordinary success achieved and
+attention generated by the 9/11 attacks.  Accordingly, the enormous
+rejuvenating and regenerative capacity of a new, successful, attack
+cannot be under-estimated.
+Also, given that the war on terrorism will itself inevitably
+change during this third phase (now that the war in Iraq has been
+won) to become primarily a war of attrition, we have to be careful to
+avoid fatigue and impatience—and not least over-optimism.  The
+problem is that countering terrorism is akin to taking a time series of
+photographs.  The image captured on film today is not the same as
+yesterday nor will it be the same tomorrow.  The fundamental
+nature and character of terrorism changed with 9/11 and moreover
+has continued to change and evolve since then.  It is becoming
+increasingly difficult to categorize or pigeon-hole as an identifiable
+phenomena, amenable to categorization or clear distinction.  The
+traditional way of understanding terrorism and looking at terrorists
+based on organizational definitions and attributes in some cases is no
+longer relevant.  Increasingly, lone individuals with no connection
+
+- 22 -
+with or formal ties to established or identifiable terrorist
+organizations are rising up to engage in violence.  These individuals
+are often inspired or motivated by some larger political movement
+that they are not actually a part of, but nonetheless draw spiritual
+and emotional sustenance and support from.  Indeed, over the past
+10 years or so—with the exception of the two World Trade Center
+attacks and that on the Pentagon—all of the most significant terrorist
+incidents that occurred in the U.S. were perpetrated either by a lone
+individuals very tight two or three-man conspiratorial cells.  The
+“Unabomber,” Theodore Kacyzinski; Timothy McVeigh; Eric Rudoloph,
+who bombed the 1996 Atlanta Olympics as well as gay bars and
+abortion clinics; the lone gunman of Palestinian extraction who
+opened fire on the observation deck of the Empire State Building in
+1997, the two Palestinians, who later that year, plotted a suicide
+bombing attack on the New York City subway, the July 4
+th  shooting at
+Los Angeles International Airport by a naturalized American born
+who had emigrated from Egypt, and the sniper, John Muhammad and
+John Lee Malvo, demonstrate the power to inculcate fear and
+terrorize in a target society by even very modest levels of, albeit
+well-calculated, pain.
+In conclusion, whatever the future holds for bin Laden and al
+Qa'ida, it is indisputable that they have had a seismic effect on the
+U.S. and the entire world.  Bin Laden is in fact one of few people alive
+who can claim to have fundamentally changed the course of history.
+And, in this respect, the epic battle that he launched is not over yet.
+The multi-year planning period of all previous al Qa'ida spectaculars
+alone suggests that it is too soon to write off either bin Laden or his
+jihadists.  Accordingly, some monumental new operation may have
+been set in motion before 9/11 that is now slowly and inexorably
+unfolding.  Indeed, because of the destruction of the Taleban and
+because of what al Qa'ida sees as America's global "war on Islam," the
+movement's sense of commitment and purpose today is arguably
+greater than ever.

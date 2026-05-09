@@ -1,0 +1,13 @@
+# Korean People's Army — General Staff Directorate: KPA Special Operations Forces (Teuksu Jjakjeon'gun)
+
+**ID**: SOF
+**Headquarters**: Pyongyang
+**Commander (current)**: —
+**Map color code**: #6e1a1a
+**Notes**: ~200,000 personnel — world's largest SOF force by headcount. Organized under General Staff RGB/Light Infantry Training Guidance Bureau (former VII Special Purpose Corps). Operationally distinct from RGB's intelligence mission. Includes 22 light infantry brigades (~5,200 ea), sniper/recon brigades, 3 airborne brigades, 2 amphibious brigades, plus the 11th Storm Corps (~80,000, successor to VIII/XI SOF Corps based at Tokchon). Some elements deployed to Russia 2024 per KPASOF Wikipedia [POST-2021 UPDATE: KPASOF Wikipedia; Grey Dynamics Oct 2024]. [DIA NKMP 2021; FAS KPA Guide Part 3]
+
+## Subordinate Corps / Fleet / Air Division / Missile Bureaus
+- **11th Storm Corps (XI Corps)** [KPA SOF] (sof_11corps) — type: sof_corps, HQ: Tokchon, South Pyongan Province, strength: 88.0%. ELITE. Successor to VIII Special Operations Corps; ~80,000 personnel. Commands strategic-level SOF brigades for 'second front' creation in ROK rear area. In 2016 western intelligence identified 25 brigades under the 11th Storm Corps. Includes light infantry, airborne, sniper, reconnaissance, and naval sniper brigades. [Wikipedia XI Corps NK; Grey Dynamics Oct 2024; FAS KPA Guide Part 3]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:GSD] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

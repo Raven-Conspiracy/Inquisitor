@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: 121st Bureau / Lazarus Group (APT38) (ELITE / first-tier)
+
+**Unit ID**: rgb_lazarus
+**Type**: mountain
+**Headquarters**: Pyongyang; operators at Chilbosan Hotel Shenyang China and other overseas locations
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: RGB 5th Bureau (Technical Reconnaissance / Cyber) (rgb_5thbureau)
+**Higher echelon**: Reconnaissance General Bureau (Jeonggal Chongguk, KPA Unit 586)
+**Elite designation**: Yes
+**Strength (% authorized)**: 98.0%
+**Notes**: ELITE CYBER. ~6,000 personnel (grew from ~1,000 in 2010). Lead RGB cyber unit. Sub-groups: Lazarus/APT38 (social chaos/malware; Sony 2014, WannaCry 2017, $1.7B crypto 2022, Axie Infinity $620M), Bluenoroff (~1,700; financial theft), Andariel (~1,600; military/industrial espionage). Director 5th Bureau: Cho Il-u (EU sanctioned 2017). [HRNK RGB Final 2026; Wikipedia Bureau 121]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

@@ -1,0 +1,17 @@
+# Russian Army — 36th Combined Arms Army
+
+**Unit ID**: 36ca
+**Type**: combined_arms_army
+**Headquarters**: Ulan-Ude
+**Parent District**: Eastern Military District (EMD)
+**Strength (% authorized)**: 60.0%
+**Notes**: Deployed Vuhledar / Zaporozhye
+
+## Subordinate Divisions
+- **36th Combined Arms Brigade / Division** (36bmd) — type: motor_rifle, HQ: Ulan-Ude, strength: 60.0%. Vuhledar axis
+
+## Subordinate Brigades (direct)
+- **37th Guards Motor Rifle Brigade** (Guards) (37mrb) — type: motor_rifle, strength: 58.0%. None
+- **5th Guards Tank Brigade** (Guards) (5tb) — type: tank, strength: 55.0%. None
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

@@ -1,0 +1,15 @@
+# Russian Division — 72nd Motor Rifle Division
+
+**Unit ID**: 72md
+**Type**: motor_rifle
+**Headquarters**: Petrozavodsk
+**Parent Army**: 44th Army Corps (44ac)
+**Parent District**: Leningrad Military District
+**Strength (% authorized)**: 60.0%
+**Notes**: Sumy Oblast
+
+## Subordinate Brigades / Regiments
+- **30th Motor Rifle Regiment** (30mrr) — type: motor_rifle, strength: 58.0%. None
+- **41st Motor Rifle Regiment** (41mrr) — type: motor_rifle, strength: 55.0%. None
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:DIV] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

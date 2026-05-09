@@ -1,0 +1,192 @@
+Iran’s Ballistic Missile Programs: Background and Context - EveryCRSReport.com
+Iran’s Ballistic Missile Programs: Background and Context
+June 17, 2025
+IF13035
+Iran's Ballistic Missile Programs: Background and Context
+June 17, 2025
+            (IF13035)
+Iran's ballistic missile programs have long been subjects of congressional attention and legislative action in view of concerns about Iran's nuclear program and its support for terrorist groups. International agreements and diplomatic discussions over Iran's nuclear program have sometimes addressed Iran's ballistic missile capabilities. Congress has authorized extensive sanctions on Iran's missile programs and mandated executive branch reporting on Iran's missile capabilities. In airstrikes beginning on June 13, 2025, Israel
+targeted
+Iran's nuclear and ballistic missile programs. Iran subsequently launched missile strikes on Israel.
+Iran's Missile Capabilities
+The Office of the Director of National Intelligence, in a March 2025 congressionally mandated
+annual threat assessment
+, stated, "Iran continues to bolster the lethality and precision of its domestically produced missile and [unmanned aerial vehicle] systems, and it has the largest stockpiles of these systems in the region." The U.S. National Air and Space Intelligence Center (NASIC), in a
+202
+0
+report
+, catalogued at least 14 Iranian ballistic missile variants. Iran's inventory of ballistic missiles has comprised both solid-fueled missiles, which offer advantages in maintenance and longevity, and liquid-fueled missiles that have greater thrust and power than solid propellants.
+Short-Range Ballistic Missiles
+Iran's inventory of short-range ballistic missiles (SRBMs)—missiles with a range of under 1,000 kilometers (621 miles)—has included both liquid- and solid-fueled missiles. According to a 2019
+report
+by the U.S. Defense Intelligence Agency (DIA), Iran's liquid-fueled Shahab-1, Shahab-2, and Qiam-1 SRBMs are based on technology from Soviet-era Scud missiles. In the early 2000s, Iran began testing the first iteration of the Fateh family of SRBMs, the Fateh-110. The Fateh-110 and its successor, the Fateh-313, are solid-fueled SRBMs with estimated ranges of up to 300 and 500 kilometers, respectively,
+according
+to the 2020 NASIC
+report
+. Iran has displayed several variants of the Fateh series of missiles that may feature improved range and guidance systems, including the
+Zolfaghar
+and the
+Khalij Fars
+, an anti-ship ballistic missile.
+Medium-Range Ballistic Missiles
+Iran's medium-range ballistic missiles (MRBMs)—those with a range of between 1,000 and 3,000 kilometers (621 and 1,864 miles)—have included the Shahab-3 family of liquid-fueled MRBMs, with an estimated range of up to 2,000 kilometers (1,243 miles).
+A
+ccording
+to a 2017 report by
+NASIC
+, the missile is based on North Korea's Hwasong-7 (also called the No Dong-1) MRBM; Iranian officials have disputed that claim. Iran likely began
+testing
+the Shahab-3 in 1998, and has since reportedly tested multiple
+variants
+of Shahab-3. In the early 2000s, Iran may also have modified the Shahab-3 to carry a nuclear payload, according to a 2011
+report
+by the International Atomic Energy Agency (IAEA). The Shahab-3 variants are reportedly the basis for at least two other MRBMs, the
+Ghadr-1
+and
+Emad-1
+, which Iran has stated have improved accuracy and range, as well as for a space launch vehicle (SLV), the
+Safir
+.
+Figure 1. Estimated Maximum Ranges of Selected Iranian Missiles, Based on Open-Source Information
+(in kilometers)
+Source:
+Figure created by CRS using open-source data from U.S. Defense Intelligence Agency,
+Iran Military Power
+, 2019, pp. 45, 47.
+Note:
+Maximum estimated missile ranges were calculated using ArcGIS software. "Est." is estimated. Figure does not reflect all Iranian missile types, including those developed since 2019.
+Missile Research and Development
+Experts have debated the extent to which Iran is able to produce longer-range missiles, such as intermediate-range ballistic missiles (IRBMs) and intercontinental ballistic missiles (ICBMs), and to adapt such missiles to carry nuclear weapons. Some U.S. intelligence officials and U.S. allies, including France, Germany, and the United Kingdom, have
+expressed
+concern
+about the potential dual purpose of Iran's space launch vehicle program, noting that such a program could be used to develop ballistic missiles. In 2025,
+DIA
+assessed that Iran could use its SLVs to "develop a militarily-viable ICBM by 2035 should Tehran decide to pursue the capability."
+Iran's Foreign and Defense Policies
+Along with support for a
+network of allied groups
+across the Middle East, Iran's missile programs have been central to the regime's apparent efforts to compensate for its conventional military shortcomings by developing asymmetrical capabilities. These two lines of effort have often overlapped, as Iran has provided missiles to external partners, including U.S.-designated terrorist organizations.
+Recipients of Iranian missile technology include the government of former Syrian President Bashar Al Asad, which worked with Iran to establish
+facilities
+inside Syria to produce ballistic missiles, including variants of the Fateh-110. In Lebanon, the now deceased head of Hezbollah, Hassan
+Nasrallah
+, claimed in 2015 that Hezbollah had acquired Fateh-110 SRBMs as early as 2006. DIA, in a 2024
+report
+, stated that a variety of missiles and drones fielded by Yemen's Houthis were likely based on Iranian designs, including Iran's Qiam-1, Fateh-110, and Shahab-3 missiles. Iran has transferred close-range ballistic missiles to Russia, according to
+U.S.
+and
+other
+officials.
+Beyond providing them to partners, Iran has used its missiles against adversaries several times, including against Islamic State sites in Syria in September 2017 and October 2018; against Saudi oil facilities in September 2019; and against U.S. forces in Iraq in January 2020. In April and October 2024, Iran used ballistic missiles to directly attack Israel. Subsequent Israeli strikes on Iran "destroyed Iran's ability to produce ballistic missiles for a year," according to the United Kingdom's
+chief of defense staff
+.
+On June 13, Israel launched a military operation against Iran, the objectives of which included "eliminating the missile threat," according to Israeli Prime Minister
+Benjamin Netanyahu
+. As of June 16,
+Iran
+has reportedly launched an estimated 370 ballistic missiles and struck 30 sites in Israel. The
+Israel Defense Forces
+said on June 16 that it destroyed one-third of Iran's missile launchers.
+Diplomatic Engagement
+The U.S. and other governments have sought to constrain Iran's missile programs in the context of diplomatic engagement related to Iran's nuclear program.
+The first United Nations Security Council Resolution (UNSCR) related to Iran's nuclear program was
+UNSCR 1696 (2006)
+, which, in addition to "demand[ing]" that Iran suspend all enrichment activities, called upon Member states to "prevent" the transfer to Iran of anything that could contribute to Iran's ballistic missile programs.
+UNSCR 1737
+(2006)
+imposed sanctions on specified Iranian officials and entities.
+UNSCR 1929 (2010)
+sanctioned additional entities, required states to prevent the transfer to or from Iran of missiles and other weaponry, and directed Iran to "not undertake any activity related to ballistic missiles capable of delivering nuclear weapons."
+Iran's missile programs were not the focus of the 2015
+Joint Comprehensive Plan of Action (JCPOA)
+, which centered
+on
+Iran's nuclear program. However, Annex B of
+the UN Security Council resolution that endorsed the JCPOA (
+UNSCR 2231, 2015
+), "called upon [Iran] not to undertake any activity related to ballistic missiles designed to be capable of delivering nuclear weapons, including launches" for eight years. The provision expired in 2023. The
+United States
+and
+other countries
+accused Iran of violating that and other provisions, including by providing weapons to Russia. UNSCR 2231 also effectively allows any "JCPOA participant state" to force the reimposition of UN sanctions, including the arms transfer and ballistic missile bans as well as broader asset freezes and travel bans, in a process known as "
+snapback
+." Some
+Members of Congress
+have called on U.S. European allies to invoke snapback before it ceases to be operational in October 2025.
+In announcing the U.S. withdrawal from the JCPOA in 2018,
+President
+Donald J.
+Trump
+stated that it "fail[ed] to address the regime's development of ballistic missiles that could deliver nuclear warheads." It is unclear what role Iran's missile capabilities might have played in the U.S.-Iran talks over Iran's nuclear program that began in April 2025. U.S.
+officials
+had
+indicated that the United States might have sought restrictions on Iran's missile programs as part of an accord, restrictions Iranian officials
+reportedly
+saw as potentially complicating talks.
+U.S. Sanctions and Congressional Action
+Successive U.S. Administrations used sanctions to compel Iran to abandon its missile programs and to restrict Iran's resources to advance them. Relevant sanctions authorities include the Iran and Libya Sanctions Act of 1996 (ISA;
+P.L. 104-172
+), which mandates sanctions against entities that knowingly transfer to Iran materials that contribute to Iran's ability to acquire or develop missiles. Certain Iran-related authorities condition the expiration of sanctions on a presidential certification that Iran has, among other actions, ceased developing or dismantled its ballistic missiles (e.g.,
+P.L. 104-172
+, §8; and
+P.L. 118-50
+, Div. J, §3). Relevant Executive Orders (E.O.s) include
+E.O. 13382
+(2005), which enables sanctions on persons who conduct transactions that contribute to missile proliferation. Additionally,
+E.O. 13949
+(2020) enables sanctions on persons who engage in activities related to the supply to or from Iran of arms.
+Dozens of entities, both Iranian and non-Iranian, have been designated for sanctions for their involvement in Iran's missile programs. Through May 2025, the Trump Administration designated
+30
+such
+persons and entities
+, including
+for
+involvement
+in Iran's efforts to "domestically develop carbon fiber materials needed to manufacture intercontinental ballistic missiles"
+and
+for facilitating Iran's
+procurement
+of missile propellant materials from China.
+Congress has also directed the executive branch to provide information on Iran's missile activities as part of
+statutorily
+directed regular reporting requirements
+related to Iran. These requirements include an annual report on Iran's military power (first directed by
+P.L. 111-84
+,
+§1245
+) and on a U.S. strategy to "deter, prevent, and disrupt the sale, purchase, of transfer" of missile-related technology involving Iran (
+P.L. 118-50
+, Div. K,
+§4
+). Past requirements include regular reports on Iran's ballistic missiles launches (
+P.L. 114-328
+,
+§
+1226
+), as well as assessments of U.S. and partner capabilities to defend against Iranian missile threats to U.S. military installations abroad (
+P.L. 118-31
+,
+§351
+;
+P.L. 117-263
+,
+§1658
+; and
+P.L. 112-239
+,
+§228
+).
+As events continue to unfold in the region, Congress may further assess Iran's ballistic missile programs when considering oversight and FY2026 defense authorization and appropriations legislation.
+Download PDF
+Download EPUB
+Revision History
+Jun. 17, 2025
+HTML
+·
+PDF
+Metadata
+Report Type: In Focus
+Source:
+Congress.gov
+Raw Metadata:
+JSON

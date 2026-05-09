@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: VIII Corps (8th Corps)
+
+**Unit ID**: corps_8
+**Service**: KPA Ground Forces
+**Type**: corps
+**Headquarters**: Approximate: north-central DPRK
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 65.0%
+**Notes**: Conventional infantry corps; exact location and sub-unit composition not confirmed in open-source reporting. [DIA NKMP 2021 references 10 regular corps; FAS irp.fas.org]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

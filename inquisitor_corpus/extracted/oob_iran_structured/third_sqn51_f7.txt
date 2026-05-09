@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 51st/52nd/53rd Tactical Fighter Squadrons (F-7N)
+
+**Unit ID**: sqn51_f7
+**Type**: fighter_brigade
+**Headquarters**: Omidiyeh
+**Parent**: Region / Provincial Corps / Base: 5th Tactical Air Base — Omidiyeh (Shahid Ardestani) (tab5_omidiyeh)
+**Higher echelon**: Islamic Republic of Iran Air Force (IRIAF)
+**Elite designation**: No
+**Strength (% authorized)**: 65%
+**Notes**: Three squadrons of F-7N/FT-7N (license-built MiG-21). [Scramble.nl IRIAF OOB Feb 2026]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,16 @@
+# Russian Army — 5th Guards Combined Arms Army
+
+**Unit ID**: 5gca
+**Type**: combined_arms_army
+**Headquarters**: Ussuriysk
+**Parent District**: Eastern Military District (EMD)
+**Strength (% authorized)**: 62.0%
+**Notes**: South Donetsk
+
+## Subordinate Divisions
+- **127th Motor Rifle Division** (127md) — type: motor_rifle, HQ: Sergeyevka, strength: 58.0%. South Donetsk
+
+## Subordinate Brigades (direct)
+- **83rd Guards Air Assault Brigade** (Guards) (83aab) — type: air_assault, strength: 60.0%. None
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

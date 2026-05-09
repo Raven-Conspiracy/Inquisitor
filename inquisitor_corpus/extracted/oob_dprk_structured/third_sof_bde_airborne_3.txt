@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: 3rd SOF Airborne Brigade (unidentified designation) (ELITE / first-tier)
+
+**Unit ID**: sof_bde_airborne_3
+**Type**: airborne
+**Headquarters**: Location unknown
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: 11th Storm Corps (XI Corps) (sof_11corps)
+**Higher echelon**: KPA Special Operations Forces (Teuksu Jjakjeon'gun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 88.0%
+**Notes**: ELITE. One of ~3 airborne brigades per Grey Dynamics 2024 and FAS. Conducted paratroop training observed by Kim Jong Un Mar 2024 (41st Amphibious Assault Bn marched Jul 2023 parade). SOF insertion via An-2 Colt / Mi-8. [Grey Dynamics Oct 2024; FAS KPA Guide Part 3; KPASOF Wikipedia]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

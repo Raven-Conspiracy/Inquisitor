@@ -1,0 +1,10 @@
+# Russian Army — 3rd Army Corps
+
+**Unit ID**: 3ac
+**Type**: army_corps
+**Headquarters**: Mulino
+**Parent District**: Central Military District (CMD)
+**Strength (% authorized)**: 50.0%
+**Notes**: Reserve / mobilization corps; heavy attrition
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

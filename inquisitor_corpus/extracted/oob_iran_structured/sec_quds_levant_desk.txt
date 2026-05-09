@@ -1,0 +1,12 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Quds Force Lebanon/Syria Corps (7th Corps)
+
+**Unit ID**: quds_levant_desk
+**Service**: Quds
+**Type**: regional_desk
+**Headquarters**: Damascus / Beirut liaison
+**Parent**: IRGC Quds Force (IRGC-QF) (quds)
+**Strength (% authorized)**: 80%
+**Notes**: Responsible for Lebanon (Hezbollah), Syria. Formerly led by BG Hossein Dehghan, BG Mohammad Hejazi, BG Mohammad Reza Zahedi (Zahedi killed Israeli strike Damascus Apr 2024). Unit 2250 (logistical) coordinated Syrian support. [Wikipedia Quds Force] [POST-2024-STRIKES STATUS UNCERTAIN: Zahedi killed Apr 2024]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

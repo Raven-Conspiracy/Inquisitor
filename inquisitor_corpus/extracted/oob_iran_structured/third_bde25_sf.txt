@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 25th Special Forces Brigade (ELITE / first-tier)
+
+**Unit ID**: bde25_sf
+**Type**: mountain
+**Headquarters**: Tabriz, East Azerbaijan
+**Parent**: Region / Provincial Corps / Base: Northwestern Regional Headquarters (artesh_nw_rhq)
+**Higher echelon**: Islamic Republic of Iran Army (Artesh / IRIGF)
+**Elite designation**: Yes
+**Strength (% authorized)**: 85%
+**Notes**: Commander: Col. Hossein Sadegh Zadeh (since Jan 2025). Special Forces; part of Northwest command. [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

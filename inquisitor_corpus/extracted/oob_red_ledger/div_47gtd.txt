@@ -1,0 +1,15 @@
+# Russian Division — 47th Guards Tank Division
+
+**Unit ID**: 47gtd
+**Type**: tank
+**Headquarters**: Mulino
+**Parent Army**: 44th Army Corps (44ac)
+**Parent District**: Leningrad Military District
+**Strength (% authorized)**: 55.0%
+**Notes**: Newly formed 2022; N Kharkiv
+
+## Authorized Equipment (with estimated combat losses)
+- **tank** — T-80BVM — authorized: 180, estimated lost: 85
+- **ifv** — BMP-2 — authorized: 130, estimated lost: 48
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:DIV] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

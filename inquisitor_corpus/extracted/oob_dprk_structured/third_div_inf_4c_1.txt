@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Infantry Division (unidentified, IV Corps) — Placeholder 1
+
+**Unit ID**: div_inf_4c_1
+**Type**: motor_rifle
+**Headquarters**: Western DMZ sector (approximate)
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: IV Corps (4th Corps) (corps_4)
+**Higher echelon**: KPA Ground Forces (Ryukgun)
+**Elite designation**: No
+**Strength (% authorized)**: 82.0%
+**Notes**: NAME UNKNOWN. Placeholder per DIA count of 27 infantry divisions; IV Corps is a Forward Corps on the western Seoul axis. [DIA NKMP 2021; IISS MB 2017]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

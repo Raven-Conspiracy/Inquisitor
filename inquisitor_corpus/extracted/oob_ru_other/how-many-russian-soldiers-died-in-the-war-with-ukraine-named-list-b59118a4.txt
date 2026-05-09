@@ -1,0 +1,179 @@
+How many Russian soldiers died in the war with Ukraine
+Russian losses in the war with Ukraine.
+Mediazona count, updated
+Mediazona
+, working with the
+BBC’s
+Russian service and a team of volunteers, has been compiling and maintaining a named list of the Russian military dead. The list is built from publicly available, verifiable sources, such as social media posts by relatives, reports in local media, and statements from regional authorities. Of course, this list is not exhaustive, as not every death is publicly reported.
+To build a more complete picture of the war’s true toll, we have developed an estimate based on excess male mortality, using data from the national Probate Registry. This statistical method, created in collaboration with
+Meduza
+, helps to account for the limitations of relying solely on publicly reported deaths.
+EN ESPAÑOL
+┃
+ПО-РУССКИ
+AUF DEUTSCH
+┃
+EN FRANÇAIS
+About our reports
+This publication is divided into two parts:
+Bi-weekly Summary.
+A text summary, updated every two weeks, in which we report on what we have learned about recent losses and the frontline events that led to the deaths of Russian soldiers.
+Interactive Infographics.
+The second part provides visualisations of the losses since the start of the war, showing, for example, where the dead served or which regions they came from. We update the data for these graphics, while the accompanying text is refreshed but remains largely the same.
+A detailed description of our method for estimating total deaths using Probate Registry data can be
+found at this link
+.
+Last update to the named list:
+May 9, 2026.
+Last update to the Probate Registry estimate:
+May 9, 2026; estimate as of late December 2025
+Full named list and a map of verified losses is available here:
+200.zona.media
+.
+Leer en español
+Lire en français
+Auf Deutsch lesen
+Читать на русском
+In this update, we are presenting a new overall estimate of Russian losses in the war:
+352,000
+killed soldiers. The previous one was published in the end of August 2025. The new estimate is based on the Probate Registry and reflects the number of male Russian citizens aged 18 to 59 who died since the start of the full-scale invastion to the end of 2025. You can read about it in more detail
+here
+:
+Article
+352,000 deaths in four years. Mediazona and Meduza’s new estimate of Russian losses in Ukraine
+What we know about losses
+The map below shows the distribution of casualties across Russia’s regions. These are absolute figures and have not been adjusted for population or number of military units.
+You can filter the map to show total losses, losses by branch of service, or the home regions of mobilised soldiers who were killed.
+In most cases, official reports or visual cues like uniforms and insignia allow us to determine a soldier’s branch of service, or how he came to be in the army (mobilised, volunteer, prisoner, etc.).
+The chart below compares these different groups of servicemen.
+From early summer and into the mid-fall season of 2022, volunteers bore the brunt of the losses, which is strikingly different from the situation in the initial stage of the war: in winter and early spring, the Airborne Forces suffered the greatest damage, followed by the Motorised Rifle troops.
+By the end of 2022 and the beginning of the next year, losses among prisoners recruited into the
+Wagner PMC
+increased markedly. They were formed into “assault groups” to overwhelm Ukrainian positions near Bakhmut.
+By March 2023, prisoners became the largest category of war losses. After the capture of Bakhmut, there have been no cases of mass use of prisoners so far.
+By September 2024, volunteers once again emerged as the largest category among the KIA. This shift reflects a cumulative effect: prison recruitment had significantly waned, no new mobilisation had been announced, yet the stream of volunteers continued unabated.
+By May 9, 2026, the death of
+7,094
+officers
+of the Russian army and other security agencies had been confirmed.
+The proportion of officer deaths among overall casualties has steadily declined since the conflict began. In the early stages, when professional contract soldiers formed the main invasion force, officers accounted for up to 10% of fatalities. By November 2024, this figure had dropped to between 2–3%—a shift that reflects both evolving combat tactics and the intensive recruitment of volunteer infantry, who suffer casualty rates many times higher than their commanding officers.
+Officers killed in Ukraine
+To date, the deaths of 15 Russian generals have been officially confirmed: five Lieutenant Generals, seven Major Generals, two who had retired from active service, and one Ukrainian SBU general who had fled to Russia.
+Lieutenant General Oleg Tsokov, deputy commander of the Southern Military District,
+was killed
+in July 2023—the first officer of that rank to die in the war. In December 2024, Lieutenant General Igor Kirillov, head of the Nuclear, Biological, and Chemical (NBC) Protection Troops,
+was killed
+by a bomb in Moscow. Lieutenant General Yaroslav Moskalik, a senior officer in the General Staff’s Main Operational Directorate,
+was killed
+by a car bomb in a Moscow suburb in April 2025. In December 2025, Lieutenant General Fanil Sarvarov, head of the Operational Training Directorate of the Russian General Staff,
+was killed
+in Moscow by a car bomb. On March 31, 2026, Lieutenant General Alexander Otroschenko, commander of the mixed aviation corps of the Northern Fleet,
+was killed
+in the crash of an An-26 transport aircraft in Crimea.
+Two deputy army commanders, Major General
+Andrei Sukhovetsky
+(41st Army) and Major General
+Vladimir Frolov
+(8th Army), were killed in the first weeks of the war. In June 2022, Major General
+Roman Kutuzov
+was killed in an attack on a troop formation.
+Major General Sergei Goryachev, chief of staff of the 35th Combined Arms Army,
+was killed
+in June 2023 while commanding forces against the Ukrainian counter-offensive in the Zaporizhzhia region. In November 2023, Major General Vladimir Zavadsky, deputy commander of the 14th Army Corps,
+was killed
+near the village of Krynky.
+In November 2024, Major General Pavel Klimenko, commander of the 5th Separate Motorised Rifle Brigade (formerly the “Oplot” Brigade of the so-called Donetsk People’s Republic),
+was fatally wounded
+by an FPV drone.
+In July 2025, a strike on the headquarters of the 155th Naval Infantry Brigade
+killed
+at least six officers, including the Deputy Commander-in-Chief of the Russian Navy, Mikhail Gudkov.
+The two retired generals on the list are Kanamat Botashev, a pilot who had been dismissed for crashing a fighter jet and was fighting for
+Wagner
+PMC
+when his Su-25
+was shot down
+in May 2022, and Andrei Golovatsky, a former Interior Ministry general
+serving
+an 8.5-year prison sentence who was killed in June 2024.
+The date of death is known in
+198,500
+cases. While this data does not capture the full daily reality of the war, it does suggest which periods saw the most intense fighting.
+Please note that the data of the last few weeks is the most incomplete and may change significantly in the future.
+The age of the deceased is mentioned in
+201,680
+reports. For the first six months of the war, when the fighting was done by the regular army, the 21-23 age group accounted for the most deaths.
+Volunteers and mobilised men are significantly older: people voluntarily go to war over 30, and the mobilised are generally over 25.
+Our methods
+Mediazona and a team of volunteers continue to study posts on social networks, reports in regional media, and publications on government websites.
+Our criteria for confirming a death are stringent. We require a publication in an official Russian source or media outlet; a post by a relative (which can be verified by matching surnames or other details); posts in other sources, such as community groups, if they are accompanied by a photograph of the deceased or specify a date for a funeral; or photographs from cemeteries.
+We do not include military losses from the so-called Donetsk and Luhansk People’s Republics (DPR and LPR). However, a Russian citizen who voluntarily joined the armies of these entities, or was sent there after mobilisation, is included in our count.
+We determine the branch of service from reports about where the deceased served, or by their insignia and uniform, not by their military specialty. For instance, if a soldier operated a self-propelled gun within an Airborne Forces (VDV) unit, we classify him as VDV, not as artillery.
+In the infographic, we classified FSB, FSO, Air Defence, NBC Protection troops, signal corps, and Air Force Ground Services as “other troops.”
+We continue to collect data on deceased servicemen. If you see such reports, please send links to them to our
+Telegram
+bot:
+@add24bot
+. Instructions for contacting
+Mediazona
+(anonymously if needed)
+can be found here
+.
+Mediazona won’t survive without you
+We are in a difficult position: we still haven’t recovered our pre-war funding levels. Our goal right now is to reach 7,500 subscriptions from international supporters. Only you, our readers, can save Mediazona
+Donate now
+Contact us
+Contact us
+Article
+9 May 2026, 10:57
+Article
+7 May 2026, 12:07
+Article
+6 May 2026, 17:47
+Article
+6 May 2026, 13:52
+Article
+5 May 2026, 14:49
+Article
+29 April 2026, 17:26
+Article
+23 April 2026, 19:05
+Article
+23 April 2026, 19:04
+Article
+22 April 2026, 23:42
+Article
+21 April 2026, 12:05
+Article
+21 April 2026, 11:26
+Article
+20 April 2026, 17:50
+Article
+16 April 2026, 17:18
+Article
+14 April 2026, 21:25
+Article
+14 April 2026, 16:20
+The raid lasted 13 hours, concluding after midnight Moscow time
+Article
+9 April 2026, 21:05
+Shutdowns, blocks, surveillance, and a messenger nobody trusts: how Russia’s internet censorship machine works today
+Article
+7 April 2026, 18:09
+Article
+5 April 2026, 17:14
+Article
+3 April 2026, 17:47
+Article
+2 April 2026, 20:09
+Article
+31 March 2026, 17:56
+Article
+26 March 2026, 18:06
+Article
+25 March 2026, 21:24
+Article
+24 March 2026, 20:08
+Article
+22 March 2026, 19:11
+Load more

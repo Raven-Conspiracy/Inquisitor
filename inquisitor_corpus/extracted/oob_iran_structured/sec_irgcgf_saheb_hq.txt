@@ -1,0 +1,18 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Saheb al-Zaman Operational HQ (Central)
+
+**Unit ID**: irgcgf_saheb_hq
+**Service**: IRGC-GF
+**Type**: operational_headquarters
+**Headquarters**: Karaj / Qom area
+**Parent**: IRGC Ground Forces (IRGCGF) (irgc_gf)
+**Strength (% authorized)**: 80%
+**Notes**: Oversees Ruhollah (Markazi), Saheb al-Amr (Qazvin), Ali bin Abu Taleb (Qom), Ghaem al-Muhammad (Semnan) corps. [Wikipedia IRGC GF]
+
+## Subordinate Division / Brigade / Squadrons
+- **Sepah-e Ruhollah (Markazi Provincial Corps)** (irgcgf_markazi_corp) — type: light_cab, HQ: Arak, Markazi, strength: 80%. Commander: Mohsen Karimi. [Wikipedia IRGC GF]
+- **Sepah-e Saheb al-Amr (Qazvin Provincial Corps)** (irgcgf_qazvin_corp) — type: light_cab, HQ: Qazvin City, Qazvin, strength: 80%. Commander: Mohammad Shahrokhi. [Wikipedia IRGC GF]
+- **Sepah-e Ali bin Abu Taleb (Qom Provincial Corps)** (irgcgf_qom_corp) — type: light_cab, HQ: Qom City, Qom, strength: 80%. Commander: Nohammad Taghi Shahgheraghi. [Wikipedia IRGC GF]
+- **Sepah-e Ghaem al-Muhammad (Semnan Provincial Corps)** (irgcgf_semnan_corp) — type: light_cab, HQ: Semnan City, Semnan, strength: 80%. Commander: Hamid Damghani. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

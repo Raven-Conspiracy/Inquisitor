@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Western Regional Headquarters
+
+**Unit ID**: artesh_w_rhq
+**Service**: Artesh
+**Type**: regional_headquarters
+**Headquarters**: Kermanshah City, Kermanshah Province
+**Parent**: Islamic Republic of Iran Army (Artesh / IRIGF) (artesh)
+**Strength (% authorized)**: 85%
+**Notes**: Commander: BG2 Soleiman Taheri (since May 2021). Covers Ilam, Kermanshah, Kurdistan provinces. [CTP Artesh OOB Aug 2025]
+
+## Subordinate Division / Brigade / Squadrons
+- **81st Armored Division** (div81_armd) — type: tank, HQ: Kermanshah City, Kermanshah, strength: 85%. Commander: BG2 Jalal Salehi (since Oct 2022). Brigades: 181st Armored (Eslamabad-e Gharb), 281st Armored (Bisotun), 71st Mechanized Infantry (Sarpol-e Zahab). [CTP Artesh OOB Aug 2025]
+- **28th Infantry Division** (div28_inf) — type: mountain, HQ: Sanandaj, Kurdistan, strength: 85%. Commander: BG2 Jaber Abad Zordashti (since Dec 2024). Brigades: 128th MAB (Sanandaj), 228th MAB (Saghez), 328th MAB (Marivan). [CTP Artesh OOB Aug 2025]
+- **35th Special Forces Brigade** (elite) (bde35_sf) — type: mountain, HQ: Jeyran Belagh, Kermanshah Province, strength: 85%. Commander: Unknown. Part of Western command. [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

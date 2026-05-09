@@ -1,0 +1,1382 @@
+The Transformation of the Chinese People’s Liberation Army into a ‘World-class Military’ - Stiftung Wissenschaft und Politik
+Jump directly to page content
+Dr Christian Wirth is a Senior Associate in SWP’s Asia Research Division.
+The author would like to thank Clara Hörning for the research assistance.
+Editorial deadline was May 2025.
+The Chinese People’s Liberation Army (PLA) has been undergoing funda­mental structural reform aimed at improving operational preparedness and combat capability.
+The imperative of a military loyal to the Communist Party dominates China’s defence policy and permeates the PLA’s organisational culture.
+The centralisation of decision-making power in the hands of the chairman of the Central Military Commission, Xi Jinping, and his insistence on strict Party discipline run counter to a mission command model, as prescribed by the military doctrine.
+Joint operations capabilities require intensified training and cannot be achieved until there has been a generational change among the commanders.
+The PLA’s structures and decision-making processes remain opaque. They encourage groupthink and significantly hinder information exchange with external actors.
+Amid the growing perception in Europe of threats from China, direct engagement with the PLA is becoming more important. Besides formal meetings with the Ministry of Defence and the Central Military Commission, the chiefs of the German and other European armed forces should promote the active and strategic use of more informal formats.
+Table of contents
+1 Issues and Recommendations
+2 The Reform of the People’s Liberation Army
+2.1 Technological progress, structural problems
+2.2 Fundamental reforms
+3 Civil-Military Relations in the One-party State
+3.1 Depoliticisation under Mao Zedong’s successors
+3.2 Repoliticisation under Xi Jinping
+3.3 Xi’s anti-corruption campaign
+4 Military Theory, Strategy and Doctrine
+4.1 Ideological guidelines and military theory
+4.2 Military strategic guiding principles and military strategy
+4.3 Military doctrine and operational concepts
+5 Implementation at the Military-strategic Level
+5.1 Central Military Commission
+5.2 Aerospace, Cyberspace and Information Support Forces
+5.3 Joint Logistics Support Force
+5.4 Military training and career planning
+6 Implementation at the Opera­tional and Tactical Levels
+6.1 Theatre commands
+6.2 Brigadisation of combat troops
+7 Training for Joint Operations
+7.1 Pre-reform
+7.2 Post-reform
+7.3 Assessment of exercises
+8 Conclusions
+9 Abbreviations
+Issues and Recommendations
+By the 100th anniversary of the founding of the People’s Republic, which will be celebrated in 2049, the Communist Party of China (CPC) aims to restore the nation to prosperity and internationally recognised greatness. This mission, referred to in the Party rhetoric as the “Chinese dream” or “national reju­vena­tion”, puts the spotlight on the disputed status of Taiwan. At the same time, it turns conflicts over maritime zones in the East and South China Seas and the demarcation of the border with India into press­ing security issues. The CPC considers these areas on the periphery of China to be integral parts of national territory that was once divided by colonial powers and must now be reunified.
+Accordingly, the path towards national rejuvenation includes intensified efforts to transform the People’s Liberation Army (PLA) into a “world-class military”. To fulfil this “Chinese military dream”, as Chairman Xi has called it, the PLA must leave behind its past as a mass army focused on territorial defence. Fundamental reforms implemented since 2015 are aimed at enabling the PLA to prevail in high-intensity conflicts on China’s periphery. Although the primary task of the PLA – as the army of the Party, not of the state – is still to secure CPC rule, it is also expected to help assert Chinese interests in an increasingly multi­polar world.
+The key question, therefore, is to what extent the PLA has been enabled to win a war against a peer competitor outside China’s current borders. This is a question that is also of interest to decision-makers in Europe. As a proponent of a global order based on international law and as an ally of the United States, Germany is increasingly affected by escalating ten­sions in Asia. At stake is more than just German-Chinese economic ties, which would be at risk from any armed conflicts along China’s periphery. Beyond the issue of the Sino-Russian partnership, threat per­ceptions in Europe are being shaped by Germany’s engagement in the Indo-Pacific and NATO’s cooperation with Australia, Japan, New Zealand and South Korea. Moreover, the US regards China as
+the
+global threat, towards which all foreign and security policy must be oriented. Washington is meeting this chal­lenge through comprehensive national (whole of government) and international (integrated deterrence) strategies of containment. Thus, the security situation surrounding China inevitably determines Germany’s room for manoeuvre in economic, foreign and secu­rity policy.
+Against this background, the main research question to be addressed is how successful China has been in its efforts to enable the PLA to conduct what it calls “integrated joint operations” (Chinese:
+yiti hua lianhe zuozhan
+). While a final assessment of the PLA’s opera­tional effectiveness is possible only in the wake of an actual conflict, an evaluation of the most recent reforms – combined with a systematic analysis of institutional changes – can offer valuable insights into the current state of the PLA. To this end, the first section of this research paper provides an overview of recent reform efforts and puts them in historical context. There follows an analysis of how the inter­twining of politics and the military in the one-party state influences the PLA leadership. The next section provides an outline of the theoretical and doctrinal foundations of military operations, which leads to the subsequent examination of the reform of the com­mand structure and military formations of the PLA. The final section analyses Chinese-language media coverage of PLA exercises.
+Since the Chinese armed forces have no combat experience of 21st century warfare and as decision-making processes within the government remain notoriously opaque, the main research question can be addressed only in an approximate way. Numerous key documents remain classified, and Chinese ana­lyses and media reports must be understood, above all, as means of communicating with or on behalf of the CPC leadership. Thus, this research paper applies a methodology that is established in the field of PLA studies: the evaluation of authoritative and semi-authoritative sources is supplemented by an exami­nation of doctrinal debates and observable developments at the operational level. It also reviews the current state of research in these areas.
+The analysis shows that the imperative of a unified Party leadership that can count on the loyalty of the military command continues to shape China’s defence policy and permeates the organisational culture of the PLA, even after what have been largely successful reforms. This imperative demands an extreme cen­tralisation of decision-making power in the hands of the chairman of the Central Military Commission (CMC), namely, Xi Jinping. The resulting de facto delegation of responsibility upward across all levels of the hierarchy poses a major obstacle to the in­tended shift towards a mission command model. Despite significant progress, the overarching goal of integrated joint operations cannot be achieved until a new generation of commanders – who will have career experience beyond their respective service branches – assumes senior leadership roles and has been trained at operational level by participating in large-scale exercises.
+The implementation of historic reforms notwithstanding, decision-making processes within the PLA remain opaque, however: the army of the Party con­tinues to be a closed system, even by Chinese stand­ards. This fosters groupthink and significantly hinders effective information exchanges with the outside world. Amid the growing perception, also in in Europe, of threats from China, direct channels of com­munica­tion with the PLA are becoming increasingly impor­tant, including for Germany. Besides pursuing formal contacts, efforts should be made to actively use informal exchange formats over the long term. Here the goal would be to understand the mindset and behaviour of the Chinese military leadership as well as to communicate – regularly and directly – Ger­many’s own assessments, threat perceptions and expectations.
+The Reform of the People’s Liberation Army
+More so than his predecessors, Xi Jinping, the Chinese president and general secretary of the CPC, has pro­moted the narrative of China’s resurgence, according to which the country is emerging from the “Century of Humiliation” to reclaim its former greatness under his and the Party’s guidance.
+1
+On this path, the Party and the PLA are inextricably linked. However, the state of the army has long been a cause for concern.
+Technological progress, structural problems
+While significant progress was been made towards the modernisation of the PLA (among other things, a competitive arms industry had been developed and military training improved) in the 1990s and early 2000s, considerable doubts about the PLA’s operational effectiveness beyond parades and orchestrated manoeuvres remained. Even after CPC General Secre­tary Hu Jintao, in 2004, tasked the armed forces with two “new historical missions” – protecting China’s economic interests overseas and contributing to inter­national peacekeeping missions – the historically entrenched dominance of the People’s Liberation Army Ground Force (PLAGF) within the Chinese mili­tary persisted.
+2
+As a result, the PLA’s organizational culture continued to be shaped by the mindset of the ground forces and their focus on infantry-based ter­ritorial defence. At the same time, no progress was made towards reducing the structural inefficiencies and widespread corruption within the PLA. On the contrary, the PLA’s status as the army of the Party granted it what amounted to immunity to reforms of the state apparatus.
+3
+The PLA’s status as the army of the Party granted it what amounted to immunity to reforms of the state apparatus.
+Intense debates took place among Chinese analysts and within the military elite about the seemingly un­solvable problems and contradictions within the PLA. Many complaints were made about major discrep­ancies between the missions assigned to the armed forces and the equipment available to carry them out, while the competence of commanders to lead opera­tions was openly called into question. In turn, these issues were repeatedly addressed in professional jour­nals and official media outlets. The authors of such publications often used slogans such as: “two incom­patibles”, “fundamental contradictions”, “two big gaps”, “three whethers”, “two in­abilities” and “five incapables”
+.
+4
+The shortcomings described as the “five incapables” were regarded as most serious. Com­mand­ers were deemed incapable of 1) making appro­priate situational assessments, 2) correctly understanding directives from superior authorities, 3) mak­ing timely and clear decisions about operational leadership, 4) assembling and deploying troops fit for purpose and 5) dealing with unexpected situations.
+5
+These glaring weaknesses could not be offset by the introduction of modern intelligence, command and weapons systems. Moreover, in times of crisis, the lack of confidence in its capabilities could undermine the military’s loyalty to the Party leadership. Thus, the PLA was not capable of carrying out joint opera­tions across different service branches, as required by modern warfare. Clearly, the Leninist military model that formed the basis of the PLA had become woefully outdated.
+Three core problems needed to be addressed.
+6
+First, the four General Departments – administrative bodies reporting directly to CMC – had long been undermining the authority of the top Party and military leadership. Four silo-like, self-contained fiefdoms had emerged and each was presided over by a member of the CMC. Second, the PLAGF, thanks to its central role in establishing China as a modern state and its su­peri­ority in numbers, permeated all areas of the military. Unlike the other service branches, which had their own commands, the four General Departments and the administrations of the seven military regions served as the executive bodies of the PLAGF. Third, there was no permanent command organisation responsible for planning and directing operations at either the strategic or operational level. A mission-oriented command structure was to be established only in the event of war.
+Despite acknowledging these issues, General Secre­tary Jiang Zemin (in office from 1989 to 2002) and his successor, Hu Jintao (from 2002 to 2012), lacked the political clout to push through structural reforms against the deeply entrenched vested interests within the PLA. All that changed in 2013.
+Fundamental reforms
+The son of a first-generation Party cadre with per­sonalties to the PLA and the holder of an exceptionally powerful position within the CPC (more powerful than any since Deng Xiaoping), Xi Jinping has com­manded – and continues to command – far greater authority than his predecessors. Under Xi’s leadership, the Party was able to push through a sweeping reform of the PLA. At the third plenary session of the 18th Party Congress in November 2013, a comprehensive reform agenda was adopted. Xi himself assumed the
+chair of
+the newly established “Leading Small Group on National Defence and Military Reform”;
+7
+and in 2015–16, a series of reforms were announced.
+8
+As stated during the 19th Party Congress in October 2017, these reforms constituted the first of three major steps towards building a “world-class military”
+9
+:
+Step 1:
+By 2020, the ground forces were to become fully “mechanised”, that is, equipped with armoured vehicles; during the same period, advanced infor­mation technologies were to be introduced and strategic capabilities enhanced.
+Step 2:
+By 2035, the modernisation of the military is to be completed.
+Step 3:
+By 2049, the status of “world-class military” is to be achieved.
+To enhance the PLA’s combat readiness, the first phase of the initial reforms (after 2015) – referred to as “above the neck” – fundamentally overhauled the top command structure (see
+Figure 1
+).
+10
+The four Gen­eral Departments were abolished and their functions consolidated within the CMC, whose operational planning and command capabilities were strengthened. At the same time, the seven military regions were replaced by five joint-service theatre commands (see
+Figure 2
+, p.
+24
+), which, within their respective territo­rially defined areas of responsibility, have operational con­trol over the troops of the PLAGF, the air force (PLAAF), the navy (PLAN) and the conventionally armed units of the rocket force (PLARF).
+Figure 1
+These reforms were accompanied by a stronger con­centration of power within the CMC, whose members were reduced to seven, and not least in the hands of its chairman, General Secretary Xi. Therefore, understanding the relationship between the Party and the PLA and the way in which those ties have changed is essential to grasp how the reforms were designed and implemented.
+Civil-Military Relations in the One-party State
+Following its victory over the rival nationalists of the Kuomintang in 1949, the PLA was instrumental in establishing the CPC at the apex of the modern state. During the Cultural Revolution (1966–76) and the Tiananmen protests (1989), the PLA protected the Party from any loss of power. Thus, there is a sym­biotic relationship between the state, the Party and the PLA.
+12
+Depoliticisation under Mao Zedong’s successors
+When, from the late 1970s onwards, Deng Xiaoping prioritised economic development and the opening up of the country, the PLA’s significance declined. Although national defence was one of the pillars of Deng’s “Four Modernisations”, the military was chronically underfunded – despite the number of troops having been cut by 1 million – and had to start generating money. As alternative sources of rev­enue, the PLA engaged in agriculture and also became involved in running transportation enterprises, hotels, mining companies and industrial firms.
+The role of the military leadership in the power struggles within the Party and the state diminished, too. As a former comrade of Mao and as a leader whose personal authority was rooted in the Commun­ist resistance movement, Deng could rely on loyal war­time allies (from before 1949). Nevertheless, he used his power both to rein in reformers like General Secretary Hu Yaobang and Prime Minister Zhao Ziyang and to suppress protest movements such as those in June 1989.
+Similarly, Jiang Zemin, Deng’s successor, used his position as CMC chairman to limit the influence of his rival and eventual successor, Hu Jintao. However, on account of not having served in the PLA or had ties to Mao, neither Jiang nor Hu had the authority to discipline the PLA. Despite their institutionally guar­anteed pre-eminence, they still had to court the loyalty of the generals. This was achieved through regular visits to the troops and other demonstrations of honour, the unquestioning approval of their pro­motion proposals and significant increases in wages and other benefits, as well as the boosting of defence spending. It was only after eight years as CMC chair­man and a generational change within the commission that Jiang succeeded in reducing the troops by 500,000 and later by another 200,000.
+13
+At the same time, he had become powerful enough to reject the demands made by some generals for retaliatory measures after the US had accidentally bombed the Chinese Embassy in Belgrade in May 1999 and to delay the construction of aircraft carriers.
+14
+Yet, the divestment from commercial activities initiated under Jiang was not completed until 2015.
+15
+For his part, Hu was unable, even by the end of his second term, to make the further troop reductions necessary for im­proving efficiency or to reorganise the military regions.
+Between 1989 and 2012, the demarcation between the PLA and the CPC became increasingly pronounced: the military had evolved into a bureaucratic actor focused primarily on technical and operational expertise.
+16
+Unofficial contacts between civilian and military cadres became taboo.
+17
+However, despite significant progress in developing new weapons sys­tems and structural reforms aimed at strengthening the air force and navy, the more professionally orga­nised PLA continued to suffer from institutional stagnation bordering on the inability to reform. Amid the growing domestic and security-related challenges, CPC elites grew increasingly alarmed by the lack of Party control over the military and the low combat effectiveness of the PLA.
+Repoliticisation under Xi Jinping
+Unlike his predecessors, Xi Jinping made the PLA his top priority. His proactive approach had the strategic goal of turning it into an independent power base for consolidating control over the Party. In this endeavour, Xi was able to benefit from his longstanding per­sonal ties with senior generals such as Zhao Keshi and Zhang Youxia, the latter of whom had once served alongside Xi’s father. Initially, he also relied on offic­ers with whom he had worked during his earlier leadership roles in the Fujian and Zhejiang provinces.
+18
+Moreover, as the Party propaganda highlights, Xi spent three years after the completion of his studies working as a secretary at the CMC and therefore can be considered a veteran. His alleged closeness to the troops – as someone who leads not “from behind a desk” but from within the ranks – is also emphasised.
+19
+Xi’s numerous appearances at parades in mili­tary-green or even camouflage uniform, where he can be seen riding in open vehicles and surrounded by soldiers, are meant to reinforce this image, as are his frequent visits to military headquarters. And the fact that his wife, who is one of China’s most famous singers, served in the PLA’s song and dance troupe for many years has further bolstered Xi’s image as a leader who is very close to, if not part of, the military.
+To give Xi greater control over the PLA, the instruments of military oversight were strengthened. The Discipline Inspection Commission, the Audit Bureau and the Political and Legal Affairs Commission were all subordinated to the CMC. These bodies now pro­vide additional oversight to that of the Political Work Department, which, through political commissars and Party committees, ensures that across all levels of the hierarchy – including the smallest military units – personnel management and political indoctrination conforms with the Party line.
+The core dilemma for the Party is that while an effective military requires professionalisation, this inevitably increases the distance between the PLA and the CPC
+Paradoxically, the extreme concentration of power in the hands of Xi has led to an even stronger demar­cation between the Party and the military. Xi is the only official to be a member of both the CMC and the Politburo Standing Committee (there have been no military members of the Politburo Standing Committee since 1997). Even at key meetings convened to decide the future of the PLA, no permanent Politburo Standing Committee member – other than Xi – was present. Meanwhile, the National Party Congress has seen a decline in the number of PLA delegates, at a time it has lost influence more generally.
+20
+Furthermore, political commissars, who once served as civil­ian overseers of Party discipline within the military, are now recruited from the PLA’s own ranks and have a military rather than civilian identity.
+21
+This stronger demarcation became necessary in order to overcome the growing contradiction between the PLA’s domestic (revolutionary) and foreign-policy (military-strategic) missions.
+22
+The core dilemma for the Party leadership remains the fact that while an effective and combat-ready military requires profes­sionalisation, this very process inevitably leads to the undesirable distancing of the PLA from the Party
+.
+23
+In the event of a crisis, that contradiction could rapidly become evident if parts of the PLA were to feel com­pelled to choose between loyalty to the Party (or a fac­tion within it) or to the state and the people. In this context, it is important to note that the PLA has trans­formed itself from an army of the peasant-proletarian masses into one whose members are drawn largely from the urban middle class and, accordingly, are aware of their own interests.
+24
+Thus, the Party leadership is faced with a perennial challenge. On the one hand, it has to instil into the PLA the political awareness that the military must serve as a bulwark for the CPC chairman against intra-party rivals and against societal dissent. On the other hand, the Party has to prevent the PLA from becoming overly politicised and possibly interfering in civilian decision-making or even taking sides in intra-party power struggles. The previous approach – whereby the PLA leadership enjoyed considerable autonomy and the Party sought to maintain its loyalty through generous employment conditions and the acquisition of new high-tech “toys” – failed to boost either political reliability or combat readiness. As in the case of the broader reforms of the Party and the state, Xi and his supporters became convinced that intensified ideological indoctrination, together with a harsh crackdown on disobedient soldiers, would strengthen the PLA’s loyalty to the Party.
+25
+The PLA was to be disciplined through a strict focus on achiev­ing combat readiness – that is, on the ability to “fight and win” military conflicts.
+26
+Xi’s anti-corruption campaign
+The fact that the anti-corruption campaign was ex­tended from the Party to the PLA testifies to Xi’s vast powers. The most radical initial measure was the prosecution of General Xu Caihou and General Guo Boxiong, who had recently retired from their posi­tions as CMC Vice Chairmen, in 2014 and 2015, respec­tively. Originally elevated to the most senior mili­tary position by Jiang Zemin, the two generals had steered the PLA’s course largely unchecked, espe­cially during Hu Jintao’s 10-year tenure. The organi­sational culture fostered by them included the wide­spread buying and selling of promotions at all levels of the officer corps. Moreover, Xu, as head of the dis­ciplinary inspection body, had refused to initiate investigations even when ordered to do so by General Secretary Hu – a particularly serious transgression.
+27
+Xi saw the state of affairs in the PLA as a threat not only to his own authority but to the rule of the Party as a whole. He repeatedly cited the cautionary tale of the Communist Party of the Soviet Union, whose down­fall he attributed in part to the Red Army’s lack of loyalty.
+28
+Accordingly, more than 80 active gen­erals, lieutenant generals, and major generals were disciplined and expelled from both the PLA and the Party between 2012 and 2014.
+29
+It is thought that thou­sands of lower-ranking officers were affected, too. At the same time, Xi introduced numerous new regulations aimed at tightening oversight of the political commissars in particular, a group that, ironi­cally, appears to be especially susceptible to corruption.
+30
+Because corrupt practices were so widespread with­in the PLA as to leave hardly any officer immune, the prosecution of certain individuals rather than others could not but be seen as politically motivated. With the sword of disciplinary action now hanging over many powerful officials, Xi sought to extract personal loyalty from his generals. In November 2014, he got together more than 420 top PLA officials for a Politi­cal Work Conference that resembled the “self-purifi­cation rituals” of earlier times.
+31
+The choice of loca­tion – Gutian – was highly symbolic: it was there that, in 1929, Mao Zedong first swore the officer corps to loyalty to the Party, laying the foundation for CPC-PLA ties. Xi began the meeting by criticising the un­resolved problems among “leading cadres” regarding ideology, political awareness and work ethic. He warned that the military was becoming too influenced by the supposed exemplary model of depoliticised Western armies. To address these issues, he outlined five remedies
+32
+:
+Strengthening the military’s ideological conviction of the primacy of the Party over the PLA;
+Recruiting and promoting reliable and capable individuals;
+Fighting corruption as a long-term mission essential to the Party’s survival;
+Mastering modern warfare; and
+Reviving political work within the ranks.
+This moral sermonising was immediately followed by public pledges of loyalty from various generals in the form of lavish praise of Chairman Xi – state­ments that were reminiscent of the Mao era.
+33
+Despite a long anti-corruption campaign, the same problems persist
+Even after more than a decade of Xi’s direct control over the promotion of senior officers and despite what has been a long anti-corruption campaign, the same problems persist. By the end of 2024, two con­secutive defence ministers and the director of the Political Work Department, all three of whom had been members of the CMC, along with the entire, with China’s nuclear arms entrusted leadership of the PLARF, and a number of other generals, lieutenant generals and major generals had disappeared from public view.
+34
+In parallel with these dismissals, Xi repeatedly lamented the “lack of discipline” among PLA cadres and expressed deep distrust towards the military leadership. Thus, it came as no surprise when, in June 2024, he convened another Political Work Conference focused on the PLA’s loyalty to the Party. Like 10 years earlier, he chose an historically symbolic city – this time Yan’an – as the venue. It was there that Mao Zedong had consolidated his control over the Party through a series of “rectification campaigns” between 1941 and 1944.
+35
+Just like back then, the question arises whether political dis­loyalty is not the main concern and problem that needs to be addressed
+36
+How does the recalibrated relationship between the Party and the PLA affect military effectiveness?
+To assess how the dilemma known as “Red (ideological, Communist) versus Expert” may impact mili­tary operations, it is necessary to be familiar with the Chinese conception of modern conflict and the antici­pated kind of warfare.
+Military Theory, Strategy and Doctrine
+At the top of the hierarchy of perspectives and con­cepts related to war and defence is the military theory of the respective CPC leadership. The military strat­egy, including the strategic guiding principles of the CMC, comes in second place, followed by the opera­tional concepts; the latter, which dictate how the PLA is to achieve its war objectives, are being continuously developed by the PLA’s research institutes, pri­marily the Academy of Military Science. Before these three programmatic levels are examined in detail, the following should be emphasised: Since Xi Jinping’s rise to power, Chinese defence policy has been per­sonalised to an extent not witnessed since Mao. This stands in diametric opposition to the principle of mission-oriented command, which is essential for mili­tary commanders at all levels to efficiently co­ordinate and swiftly execute operations.
+Ideological guidelines and military theory
+At the 19th Party Congress in November 2017, the CPC declared the term “New Era,” first introduced in 2013, to be a universal reference for the present.
+37
+This definition of the third historical period – which follows the revolutionary era under Mao and the reform era under Deng, Jiang and Hu – endows Xi with a status approaching that of Mao and Deng. In May 2019, the Political Work Department of the CMC issued a guide to Xi’s “thought on strengthening the military”.
+38
+Both CPC members and PLA personnel alike are required to engage in regular, intensive study of Xi’s ideological thinking.
+39
+Depending on their positions, the indoctrination takes up 20–40 per cent of their working hours.
+40
+Xi’s defence policy strongly emphasises “national rejuvenation” and the fulfillment of the “Chinese dream”, including through the transformation of China into a “strong maritime nation” or “maritime great power”.
+41
+The intensified “strategic competition” with the US – which is seen as euphemism for the “comprehensive containment” and “suppression” of China by the US and its Western allies – has in­creased the urgency of achieving these goals.
+42
+This Western strategy, according to the CPC, is adding fuel to “separatism” in Taiwan and territorial disputes on land and at sea.
+43
+In response, the PLA’s “historical missions” have been adjusted to contribute to the achievement of the national goals.
+44
+The 2015 White Paper on Defence identified the “resolute defence of the leadership of the CPC and the Socialist system” as the main mission of the PLA, while the protection of China’s “development inter­ests” was mentioned alongside the need to defend the country’s sovereignty and security.
+45
+The most recent White Paper on Defence, published in 2019, focuses more on the traditional military tasks. It sets out five guiding principles and defines seven missions for the PLA.
+46
+The guiding principles are: 1) the resolute defence of China’s sovereignty, security and development interests; 2) the non-pursuit of hegemony, expansion or the establishment of spheres of influ­ence; 3) the implementation of the military strategic guidelines for the “New Era”; 4) the continuation along the Chinese military’s path to modernization; and 5) the building of a “community with a shared future for humanity [or mankind]”. The missions derived from these guiding principles are:
+To safeguard China’s national territorial sovereignty and its maritime rights and interests;
+To maintain combat readiness;
+To conduct military exercises under real combat conditions;
+To safeguard interests in major security fields (such as nuclear deterrence, outer space and cyberspace);
+To counter terrorism and maintain [internal] stability;
+To protect China’s overseas interests; and
+To participate in disaster rescue and relief.
+Military strategic guiding principles and military strategy
+The military strategic guiding principles encompass the core ideas of the military strategy.
+47
+In Chinese publications, there is often no clear distinction made between these two terms. The most recent official documents on military strategy use the phrase “infor­mationised local war” to describe the anticipated form of warfare. This refers to the changes that are being driven by the increasing use of information technologies and discussed worldwide as the “Revo­lution in Military Affairs” (RMA). Computer-assisted systems are no longer seen merely as supplementary but rather as decisive factors on the battlefield. This is because they 1) enable a more comprehensive and precise situational awareness to be established and disseminated much more quickly, 2) accelerate deci­sion-making and command processes across all hier­archical levels, 3) allow for more efficient logistics management and 4) achieve weapon effects with much greater accuracy and speed over much longer distances. Most important, they do all of this in the cyber and space domains and with the help of un­manned platforms.
+48
+A further advancement – towards “intelligentised” warfare, characterised by confrontations between algo­rithms rather than systems – has been discussed in China for some time, too. The 2019 White Paper on Defence mentions “intelligentised warfare” as a devel­op­ment that is “visible on the horizon”, while Xi him­self repeatedly emphasized the need for an “integrated development of mechanisation, informatisation and intelligentisation”.
+49
+Nevertheless, the term has not yet established itself as a programmatic formula.
+50
+All the concepts mentioned here modify the two guiding principles of strategic defensive positioning (“Active Defence”) and the comprehensive mobilisation of the people for defence (“People’s War”), both of which date back to Mao.
+51
+Because closer coordination between the service branches is essential, the term ‘integrated joint operations’ is used.
+However, since operations under “informationised” conditions are conducted at a much faster speed and over increasingly greater distances, counter-attacks can no longer be launched only from the national border or from within the country itself. Thus, China’s 2015 White Paper on Defence makes the first mention of the army transitioning from “theatre defence” to “trans-theatre defence,” the navy being tasked not only with “offshore water defence” but also with “open seas pro­tection” and the air force having to be prepared not only for defence but also for attack. The areas now re­garded as war zones are predominantly maritime and require the capability to conduct operations jointly in all five domains (that is, land, sea, air, outer and cyber space). In November 2020, it was officially con­firmed that the “Outline of Joint Operations of the People’s Liberation Army (Trial)” had gone into effect that same month.
+52
+The document itself was not pub­lished, but the conceptual context and various official statements provide an indication of its contents.
+Military doctrine and operational concepts
+Since the Second Gulf War in 1991, military experts have regarded joint operations as the fundamental form of modern combat. Later, the NATO operation against Serbia in 1999 revealed that wars could be won not only by destroying enemy forces on the battlefield but also by disabling the adversary’s “operational sys­tems”. Today, with the geographically defined battle­field shrinking, the theatre of war is expanding to en­compass all domains, including non-physical ones.
+53
+Combat operations are no longer merely multi-domain but rather all-domain, which means they take place not only in military spheres but also in civilian and “cognitive” ones. Thus, from around 2004 onwards, China has referred to confrontations between sys­tems: unlike the mechanised era, in which combat involved platform versus platform and force against force along one-directional lines of operations (that is, from the rear to the front and from outside to inside), modern warfare involves nonlinear operations con­ducted by various units from different service branches and with fluid transitions between war and peace and between defence and attack across all domains. Because the service branches must be coordinated even more closely and connected in real time, the PLA has referred since 2004 to “integrated joint opera­tions”.
+54
+The systems used for such operations are: 1) units from the platform and group-level upwards, 2) matrix-like structures connecting those units and 3) elements that provide sufficient capabilities of command and control, reconnaissance, firepower, information warfare, manoeuvrability, protection and support.
+55
+To be able to control the speed and intensity of the conflict in this type of warfare and to prevent escala­tion beyond the desired level and a specific geographical area (“war control”), information dominance is considered essential. Joint operations are therefore designed for “system destruction warfare”, which aims to paralyse, control or destroy critical components of the enemy’s operational systems.
+56
+This is a form of “target-centric warfare”.
+A prerequisite for the successful conduct of such joint operations is the understanding that the classic hierarchical division into strategic, operational (Chi­nese
+zhanyi
+, which translates literally into “campaign”) and tactical levels becomes irrelevant. And this challenges the dominant position of the ground forces. Moreover, integrated joint warfare requires expertise and technical means that not only enable commanders at all levels to make rapid decisions but also increase the Party leadership’s control over these wider-ranging and faster-paced operations. For this reason, fundamental reforms had to begin with the PLA’s command and control structure.
+Implementation at the Military-strategic Level
+The blueprint for the reform of the PLA was unveiled by the CMC in early January 2016.
+57
+Some 10 months later, at the 19th Party Congress in October 2017, the “CMC Chairman Responsibility System” was codified in the Constitution of the CPC. Under that system, Xi Jinping has the authority to make all major decisions.
+58
+At the same time, the membership of the CMC was reduced from eleven to seven: besides the civilian chairmanship held by the CPC general secretary, the retained posts were those of the two vice chairmen, the minister of defence and the directors of the Joint Staff Department and the Political Work Department, while the secretary of the Discipline Inspection Com­mission joined the body for the first time. Signifi­cantly, those who lost their posts were the commanders of the service branches and those responsible for logistics and procurement and development. The CMC saw major personnel changes, too,
+59
+although PLAGF officers continue to hold the majority of posts.
+60
+Moreover, as of summer 2025, there is still no civilian vice chairman – a position that, in keeping with tra­dition, would be occupied by a possible designated suc­cessor to Xi and would help consolidate the for­mer’s authority within the Party, the state and the PLA.
+Central Military Commission
+In order to accelerate the transformation of the PLA into a “world-class military” and enable it to plan and execute joint operations, the CMC required a compre­hensive institutional apparatus. The concentration of decision-making authority in the hands of the CMC chairman is a striking feature of that apparatus: while the military chain of command, starting with Xi as com­mander-in-chief, runs directly from the Joint Opera­tions Command Centre (JOCC) to the joint operations centres (JOCs) of the theatre commands, it is Xi, in his capacity as chairman of the CMC, who presides over 14 subordinate agencies.
+61
+At the core of the CMC is the General Office, which is responsible for the internal organisation of the commission and, as the chairman’s eyes and ears, monitors compliance with his directives. The heads of the Discipline Inspection Commission, the Political and Legal Affairs Commission and the Audit Bureau all report directly to this office.
+The second-most important organisational unit is the Joint Staff Department, which is responsible for command and control, operational planning, military strategy, organising joint training among the service branches, assessing combat capabilities and ensuring operational readiness. The Political Work Department is the highest authority within the PLA to handle per­sonnel administration and political education – that is, internal and external propaganda for the CPC. Through its subordinate political work departments, political commissars, Party committees and Party cells, that permeate the hierarchy down to the lowest level, this body ensures the “absolute leadership” of the CPC over the PLA.
+62
+The Logistics Support Depart­ment sets standards, engages in financial planning and resource management and oversees real estate management. The Equipment Development Department has oversight over procurement projects and conducts related research, development and testing procedures. The Training and Administration Depart­ment is responsible for the training of professional soldiers and is thought to handle the planning and implementation of training exercises as well. And the Defence Mobilisation Department oversees the reserve formations, including the administration of the mili­tary
+districts.
+The
+Discipline Inspection Commission
+enforces Party discipline within the PLA through the investigation of cases of corruption, disloyalty and other mis­conduct. The
+Political and Legal Affairs Commission
+is responsible for drafting and enforcing the laws and regulations that govern the PLA; it is the highest authority for military justice as well as for the mili­tary police. The
+Science and Technology Commission
+advises the CMC on weapons development and serves as a bridge for cooperation with the defence industry.
+The Strategic Planning Office is tasked with developing in-depth strategic analyses, conducting studies on resource allocation and drawing up concepts for organisational reforms; however, responsibility for actively managing the reform process lies with the
+Reform and Organisation Office.
+The Office for Inter­national Military Cooperation oversees exchange pro­grammes with foreign militaries and handles collabo­ration with international partners. The Audit Bureau is responsible for financial oversight. The
+Organ Affairs General Management Bureau
+deals with logis­tical functions related to personnel management and real estate administration; it is also tasked with the
+provision of welfare support to veterans, which
+, arguably, plays an important role in ensuring the acceptance of the reforms.
+63
+Yet, the success of joint operations hinges on intel­ligence gathering and analysis, as well as on maintaining command and control across all levels. These tasks were initially assigned to the
+Strategic Support Force, created
+in December 2015 as a unit directly subordinate to the CMC at the start of the first phase of the military reform process.
+Aerospace, Cyberspace and Information Support Forces
+The creation of the Strategic Support Force marked a pivotal moment in the development of strategic thinking around “informationised warfare
+.
+64
+The consolidation of capabilities for intelligence gathering, conducting operations in the space and cyberspace domains and processing information within the command structure is key to gaining the upper hand in a confrontation between systems. In April 2024 these responsibilities were divided between three newly created, hierarchically equivalent orga­nisational entities: the Aerospace, Cyberspace and Infor­mation Support Forces, thereby confirming the as­sump­tion that the Strategic Support Force had served as a transitional structure only – one that facilitated the shift to the post-Leninist command architecture introduced with the reform.
+65
+The Aerospace Force oversees the increasingly important tasks of satellite-based surveillance and reconnaissance as well as satellite-based navigation and targeting. It has eight bases, including three satel­lite launch centres and several control centres. The last-named maintain overseas facilities – for exam­ple, in Namibia, Pakistan and Argentina – and oper­ate the Yuan Wang- and Liao Wang-class telemetry ships.
+66
+The force is also responsible for the development of counterspace capabilities to disrupt and des­troy enemy satellites. The Cyberspace Force is tasked with electronic, cyber and psychological warfare; until 2017, responsibility for this domain was spread across various departments and service branches.
+67
+Its operations are targeted primarily against Taiwan.
+68
+The Information Support Force manages the PLA’s command and control systems. It enables the CMC to lead operations through its JOCC and the communication brigades of the theatre commands down to the tactical level. The force thereby makes use of an inte­grated command platform, which also involves main­taining the National Defence Communication Net­work, a fibre-optic system that extends throughout the country.
+69
+The establishment of the Aerospace, Cyberspace and Information Support Forces reflects the strategic thinking behind “informationised” warfare.
+As the range of their responsibilities shows, these three organisational units form the backbone of the command structure. Accordingly, it is these “new-type combat forces” that have the greatest need for highly qualified personnel.
+70
+Besides working with the universities that have close links to these units – the so-called “Seven Sons of National Defence” – the military and the defence industry are increasingly col­laborating with other leading universities and private companies.
+71
+Joint Logistics Support Force
+Established in September 2016 as an organisational unit subordinated directly to the CMC, the Joint Logis­tics Support Force is the main body responsible for logistics support.
+72
+Thus, in this area, too, the earlier centralisation efforts are being continued. Indeed, they are necessary owing to the significantly higher demands of joint operations, which have become high-intensity, fast-paced and nonlinear. Nonetheless, questions remain about how this new unit will ulti­mately function.
+There are three organisational divisions within the logistics support system. The first covers essential sup­plies such as fuel, food, water, medical services and land transportation, which used to be provided by the individual service branches. Today, the Joint Logistics Support Base in Wuhan, a large city located at a key transportation hub of China, presides over five joint logistics support centres, which are located in Wuxi, Guilin, Xining, Shenyang and Zhengzhou; thus, each of the five theatre commands has one of these centres within its area of responsibility. The centres maintain extensive networks of warehouses, pipelines and medi­cal facilities and oversee the joint logistics bri­gades, which are responsible for operational logistics.
+73
+The second division covers logistics services specific to each service branch. These supply chains continue to be managed by the respective commands, which also have their own transport and maintenance capacities. But efforts have been made to streamline processes by consolidating logistics and equipment tasks into support departments.
+74
+Among the most important functions of the service branches is the handling of overseas logistics. This applies, above all, to the navy, which has overall responsibility for over­seas bases such as those in Djibouti (East Africa) and Ream in Cambodia.
+The lack of a permanent organisation that has the authority to comprehensively manage logistics is seen as the main weakness.
+The third division comprises the civilian component. To save costs and expand capacity, the PLA is increasingly making use of civilian service providers. Within larger companies, it maintains military repre­sentative offices with the aim of simplifying cooperation. To ensure such services can be accessed even during times of crisis, operational military standards must be defined and implemented – for example, for facilities at train stations and ports and for the protec­tion of critical transport and traffic infrastructure.
+75
+Furthermore, company employees require military training and organisational links to the PLA.
+The design of these processes remains unclear even after the extensive debates among Chinese experts, however.
+76
+The lack of a permanent organisation that has the authority to comprehensively manage logis­tics for the respective theatre commands is seen as the main weakness.
+77
+In the event of a crisis, an ad hoc structure of joint transport and supply centres must first be established at all levels of the hierarchy.
+78
+Moreover, owing to the focus on “local wars” and the absence of overseas bases, this system is not suited to the task of supporting combat units beyond China’s borders. Even the capacity to deploy troops for a potential invasion of Taiwan remains insufficient to this day.
+79
+All in all, the PLA appears to suffer from the same problem as other armed forces: while recognised as one of the keys to success, logistics is often neglected in practice. That is why leadership positions in this area are less sought after. At the same time, the in­creasingly demanding nature of operations calls for more highly qualified and motivated personnel – or a “new type of military talent” – in this area, too.
+80
+Military training and career planning
+In order to address the shortage of well-trained sol­diers, recruitment procedures have been adjusted and new career models developed. After completing their mandatory two-year service, conscripts are encouraged to commit to a career in the armed forces. The focus is on building a professional non-commissioned officer corps with specialisations in “administration” and “technical expertise”.
+81
+Although China’s increas­ing economic difficulties are expected to help bolster efforts to hire better-trained personnel and although military wages remain competitive compared with the civilian labour market, many would-be professional soldiers appear to be put off by the living con­ditions in the PLA. Since the suppression of the Tian­anmen Square protests in June 1989, military per­sonnel are no longer stationed near the place where they were raised; on the contrary, they are often assigned to posts far from their relatives and in rural areas.
+82
+The Party leadership has recognised that “jointness” is a mindset that requires appropriate training and socialisation.
+It is also the case for officers who opt to follow career paths as commanders, staff officers or “special­ised technicians”, with all the corresponding self-development opportunities, that the PLA still seems relatively unattractive. Being stationed far from their hometowns, unable to start their own families owing to limited leave, facing difficulties finding accommodation and, in the case of rural recruits, having to overcome the obstacle of obtaining permanent resi­dence permits in urban areas – all this remains real­ity today. What is more, military personnel continue to have a relatively low social status, while it is very likely that the difficulty of combatting abuse in a highly opaque, hierarchical organisation like the PLA – and particularly under intense pressure to perform – does nothing to increase the appeal of a military career.
+83
+In general, the organisational culture of the Chi­nese military is shaped by the need to build strong personal networks.
+84
+And an efficient way to establish reliable connections is through the exchange of favours, which fosters corruption and fundamentally conflicts with a merit-based system.
+85
+For this reason, the Party leadership is attempting to change the organisational culture of the PLA. It has recognised that “jointness” is a mindset that cannot be achieved simply by merging command structures and networking weapon systems; rather, it requires appropriate training and socialisation. Since 2016 efforts to this end, which are focused on the National Defence University (NDU), have been reinforced by four sets of measures.
+86
+First, in addition to new teaching methods and courses on joint operations, a specialised training programme is now available at the NDU as part of the course for senior staff officers. Second, other training institutions subordinated to the CMC have expanded their joint operations lead­er­ship courses for staff officers down to the battalion level. Reportedly, completion of these programmes has become a prerequisite for being appointed to cer­tain positions within the individual theatre commands. Third, the NDU has assumed the oversight of the operations of the newly established Joint Opera­tions College in Shijiazhuang. And fourth, the service branch academies have similarly shifted their focus to joint operations leadership, partly by establishing exchange programmes with training institutions from other service branches. At the same time, they have strengthened cooperation among themselves as well as with the commanders and staff of operational units. Moreover, efforts have been under way since 2002 to improve the evaluation of training and lead­er­ship performance. The main relevant document here is an unpublished directive called the
+Outline of Mili­tary Training and Evaluation
+(OMTE).
+87
+However, it is the implementation of reforms at both the operational and tactical levels that are cru­cial for the successful transformation of the PLA into a “world-class army” capable of conducting joint operations.
+Implementation at the Opera­tional and Tactical Levels
+Theatre commands
+Ultimately, the success of capability development hinges on the theatre commands (TCs – see
+Figure 2
+, p.
+24
+),
+88
+whose establishment is the reforms’ most visible result. While any scenario involving a “local war” would inevitably trigger the socio-economic mobilisation of the entire country – and thus affect the entire PLA – each TC is responsible for conducting operations in defined “
+strategic directions”
+89
+:
+The Central TC (CTC) is tasked primarily with the defence of the capital, Beijing, and serves as a strategic reserve;
+The Northern TC
+(NTC)
+covers conflict scenarios related to the Korean Peninsula;
+The Eastern TC
+(ETC)
+focuses on maritime disputes with Japan in the East China Sea and operations aimed against Taiwan;
+The Southern TC (STC) is responsible mainly for asserting control over the South China Sea but also for supporting the Eastern TC in a potential conflict involving Taiwan and the US; and
+The Western TC (WTC) spans an enormous area in which operational planning is shaped not only by ethnic tensions in the Xinjiang Uygur and Xizang (Tibet) Autonomous Regions but also by the border conflict with India.
+The TCs oversee the regional headquarters of the service branches stationed within their respective areas of responsibility. To carry out their missions, they each command three group armies of the PLAGF – except for the STC and WTC, which command two. They also oversee between five and c. 15 units of the PLAAF as well as conventionally armed units of the PLARF. In addition, the NTC, ETC and STCs have com­mand over the North Sea Fleet, the East Sea Fleet and the South Sea Fleet, respectively, of the PLAN. Of par­ticular importance are the PLA’s expanded amphibi­ous capabilities: the ETC now fields four amphibious combat brigades and the STC two, each of which is equipped with modern systems that are becoming increasingly sophisticated.
+90
+The JOCs of each TC are central to command and control. They report to the JOCC of the CMC, which serves as a crucial interface between the TCs and the individual service branches. Effective coordination by the CMC JOCC is essential to the success of any opera­tion. At the same time, efforts are being made to over­come coordination challenges through personnel structures and dual roles; if there is no officer from the navy or air force in command of a TC, one officer from each of these branches serves as deputy com­mander.
+91
+In addition, the commanders of the TC head­quarters of the army, navy and air force also serve as deputy TC commanders.
+Moreover, one of the permanent deputy command­ers of each TC headquarters holds the post of director of the Joint Staff Department, which is roughly the equivalent of NATO’s (J-3/5) operations and planning/ strategy staff sections. All officers serving in the JOCs are permanently stationed there, which allows them to fully identify with their roles rather than with the services to which they belong.
+92
+Figure 2
+The effectiveness of cooperation between the TCs and the individual service branches is all the more im­portant because the TC headquarters of each service branch is also entrusted with four main operational tasks:
+93
+1) serving as the hub for combat operations at the operational level, 2) forming part of the TC com­mand post, 3) commanding routine administrative and leadership tasks and 4) functioning as headquarters for disaster relief and crisis response operations below the threshold of war.
+To improve the units’ ability to conduct integrated joint operations in informationised conflicts, the hier­archies of the troop formations were flattened.
+Brigadisation of combat troops
+In April 2017, Xi announced that the PLAGF had been restructured into 13 newly-established or reorganised group armies (army corps).
+94
+Wherever possible, these were formed exclusively of brigades, thereby complet­ing the transformation, begun in the 2000s, of the Leninist structure of group army, division and regi­ment. The modern-day structure of the army combat troops is:
+Group armies of 50,000–60,000 soldiers each
+Brigades of 5,000–6,000 soldiers each
+Battalions of 700–800 soldiers each.
+A standard group army is composed of six combat brigades (“combined arms brigades”) and six specialised brigades from the following units: artillery, air defence, special operations, army aviation, engineers and chemical defence, as well as service support.
+95
+As “new-type combat formations” capable of engaging in “informationised warfare”, these brigades and their battalions are organised to operate largely independ­ently. In their standard configuration, combat bri­gades therefore include combined arms battalions comprising infantry, light and heavy armoured forces with corresponding firepower, as well as fire support and logistics units. Notably, there has been a signifi­cant increase in the number of special forces and army aviation units.
+As “new-type combat units,” brigades and battalions are organised to operate largely independently.
+Similarly, the PLAAF has been transformed from a territorial structure based on military districts into mission-oriented brigades. While its responsibilities and units in the areas of space and the information domain were transferred after 2015 to the Strategic Support Force and its successor organisations, it simultaneously incorporated numerous naval avia­tion units and naval air defence formations. With the exception of the airborne forces, which are organised into nine brigades and commanded as an airborne corps by the Air Force Command,
+96
+all formations were subordinated to the respective TCs or TC head­quarters of the air force. Within each TC, they are organised into brigades and grouped under two or three bases or air defence bases at the hierarchy level of deputy corps commander.
+97
+The PLAN consists of three fleets that are subordinate to the NTC, the ETC and the STC. Its modernisation continues along three main developmental lines: evolving into a blue-water navy, becoming a joint operations force in the maritime domain and forming an interagency maritime force to assert China’s claims in the so-called “near seas” within the first island chain of the Western Pacific.
+98
+Although the main focus is on a conflict with Taiwan,
+99
+what stands out – along­side the development of three to six carrier strike groups – is the expansion of amphibious forces for operations in the South China Sea and beyond.
+100
+With naval aviation reduced to carrier-based com­ponents and with operational responsibilities divided among the individual TCs, there is a particularly urgent need for coordination between the respective TC naval headquarters and the higher-level TC JOCs, the CMC JOCC and the national headquarters of the navy.
+101
+The PLARF, which has been upgraded to the level of service branch in its own right, remains under the direct command of the CMC. It has been expanded to include nine bases at the level of army corps.
+102
+Six bases operate missile systems – conventional and nuclear. One base manages the stored nuclear war­heads, another has the resources for facility construction and yet another is responsible for system testing and training. Each base provides basic and further training to ensure the combat readiness of its troops and has the other necessary resources to carry out its operations.
+103
+Between 2017 and 2019, the number of subordinate brigades grew rapidly from 29 to 39.
+104
+Through the integrated command information sys­tem, these brigades are linked into processes at the level of TC.
+105
+A systematic review of media reports and academic treatises on troop and staff training yields further in­dications of the status of, and progress towards, joint operations leadership.
+Training for Joint Operations
+The ability of commanders and their staffs to lead joint operations can be developed only through training and exercises that involve multiple service branches.
+106
+From the very outset of the reforms, the PLA leadership understood that defining procedures along the new chains of command would require a lengthy process of adjustment and testing.
+107
+The analysis carried out for this research paper of around 250 selected Chinese-language sources, on joint exer­cises conducted in recent years, led to the following findings. First, according to the directives of the CMC leadership under Xi, the training was designed to be realistic – exercises often took place with under con­ditions of high readiness, at night and in difficult weather and climatic circumstances and regularly in­volved confrontations with an active opposing force. Second, full-scale troop exercises have focused mainly on improving the coordination of operations within individual service branches.
+108
+To be sure, many reports refer to scenarios in which coordination be­tween ground units and supporting formations from the artillery and air force was trained as well. Yet, this aligns with the long-standing requirement (since the 1990s) for joint operations to be conducted under “modernised” conditions. Thus, the present research confirms earlier assessments that training activities remain too limited for the PLA to fully develop the capability to conduct joint operations.
+109
+These are the conclusions that can be drawn, despite increased secrecy and censorship, which makes it impossible to carry out scientifically verifiable studies – especially of the increasingly frequent simulation exercises.
+Pre-reform
+Joint operations training was first introduced back in the period 2001–2005 as part of the five-year plan for the digitisation of headquarters. In 2005, two major exercises – named
+Lijian
+(Sharp Sword) – were held in what was then the military regions of Cheng­du and Nanjing.
+110
+The manoeuvres featured enhanced coordination between air and ground forces, includ­ing live-fire strikes.
+Building on this, standardised training procedures were applied during the following two five-year plans (2006–2010 and 2011–2015). In 2009 alone, the PLA is reported to have conducted 18 large-scale exercises.
+111
+These served to deepen civil-military integration, to rehearse the forward deployment of naval and air force units to operational areas and to simulate com­mand processes at the operational level. In summer 2009, four divisions from the Shenyang, Lanzhou, Jinan and Guangzhou military regions were mobilised for the
+Kuayue
+(Stride or Crossing) exercise. This entailed moving large formations over long distances, which also posed logistical challenges. In addition, the
+Beidou
+satellite navigation system was deployed, along with capabilities for electronic and psychological warfare. According to media reports, the exercise, which was the largest “trans-regional” one until that point in time, involved around 50,000 troops and lasted a full two months.
+112
+In the same year (2009), the
+Qianfeng
+(Vanguard) exercise – the first that could genuinely qualify as a joint exercise under the updated doctrine – took place.
+113
+Like many subsequent iterations, it was held mainly at the Queshan training ground in the Jinan Military Region. In addition to a mechanised brigade and aviation regiment from the PLAGF, air force units from two military regions participated. A key inno­va­tion was the establishment of a joint headquarters.
+114
+The military regional commands no longer presided over the exercises and for the first time, the commanding group army consisted solely of brigades and battalions.
+The first
+Lianhe
+(Joint) exercise, which similarly took place in 2009, tested an integrated command platform intended to coordinate the deployment of formations from the army, the air force and the Second Artillery Corps (the predecessor of the PLARF). In 2010, the
+Shiming Xingdong
+(Mission Action) full-force exercise took place. It was led by a command staff set up specifically for that purpose and lasted 20 days. The participating units, which came from the Beijing, Chengdu and Lanzhou military regions, were redeployed across regional boundaries, along with navy and air force formations.
+Other exercises were conducted in the period before the major reform. They point to extensive efforts to implement the target-centric warfare doctrine. The
+Qianfeng 2011
+manoeuvres reportedly involved the use of a new command system that was able to process reconnaissance data, compile target lists and support decision-making.
+115
+Further practical experience was gained at the
+Penglai 2012
+and
+Lianhe 2012
+exercises. The goal of
+Juesheng 2012a
+(Decisive Victory) was to use an integrated command system to plan and coor­di­nate operations in line with the new doctrine. Finally, the
+Queshan 2012
+exercise aimed to train commanders from 19 formations.
+116
+The question is whether and how progress has been made towards capability development at the opera­tional or campaign level – beyond manoeuvres in­volving two opposing brigades at training areas such as Queshan and Zhurihe – since the implementation of the reform from 2017 onwards.
+Post-reform
+During this period, the comprehensive restructuring of the PLA led to an interruption in the series of large-scale manoeuvres. According to Blasko, more than 1,000 units at and above the level of regiment were disbanded and more than 100 brigades and regiments relocated to new garrisons (along with the families of many PLA members).
+117
+The same study also notes that 90 per cent of all officers from the former group armies and 40 per cent of those from former combat brigades were reassigned. Despite some reports sug­gesting otherwise, it is unlikely that large-scale train­ing exercises resumed before the strict COVID-19 con­tainment measures were lifted at the end of 2022.
+In line with the directives issued by Chairman Xi, media outlets praised the suitability of the realistic training conditions “in all seasons, under all weather conditions and in all regions”.
+118
+Furthermore, the use of drone swarms on land, at sea and in the air had reportedly been established and significant progress made in operational command across all five domains.
+During the
+Cuihuo Luoyang 2018A
+exercise, the 83rd Group Army, together with elements of the Strategic Support Force, underwent training aimed at achieving informational superiority in the electromagnetic domain.
+119
+The
+Lianqin Shiming 2018B
+exercise was some­what larger in scale, mobilising not only ele­ments of the Joint Logistics Support Force but also army and air force units from three provinces.
+120
+Even more extensive and complex was
+Landun
+(Blue Shield) 18, which involved several brigades from the air force, army and rocket force. Supported by the Stra­tegic Support Force, the exercise tested air defence operations using live fire and included long-distance troop movements and joint operations of various services and force types against an active opposing force.
+121
+Finally,
+Yanbing 2021
+focused primarily on training in logistics processes, with mechanised units being transported by rail and sea.
+122
+The
+Kuayue
+(Crossing) exercise series at the Zhurihe training base in Inner Mongolia is noteworthy, too. In 2019, two brigades from the 82nd Group Army faced off against each other. Over the course of a month, the troops practised command capabilities, logistics and fire support for multi-domain defence.
+123
+And another media report from 2021 highlights that ap­proximately 200 commanders and staff officers from various group armies, with the participation of both ground and air force units had been trained as well.
+124
+The
+Changkong Lijian
+(Sky Sword) air defence exercise, which took place the following year, similarly in­volved air force units working alongside ground forces. However, it lasted just two days.
+125
+Compared with the exercises named above, those that took place after the visit to Taiwan in August 2022 by Nancy Pelosi, who at the time was the speaker of the US House of Representatives, are to be seen, above all, as efforts at intimidation, deterrence and the undermining of Taiwan’s autonomy. But at the same time, they provided valuable opportunities to rehearse larger-scale operations and elements of potential campaigns.
+In early August 2022, the PLA held air and maritime exercises that took place over seven days under the leadership of the ETC and with the participation of the STC.
+126
+More than 100 fighter jets and bombers were deployed, together with aerial reconnaissance and strike drones as well as 10 destroyers and frigates. Eleven ballistic missiles were launched into target zones around Taiwan. These activities were accompanied by actual cyberattacks and disinformation cam­paigns.
+127
+At the same time, two aircraft-carrier strike groups conducted patrols in the waters surrounding the island. In April 2023, following the Taiwanese president’s trip across the US and high-level meetings there, the PLA held the five-day
+Lianhe Lijian 2023
+(Joint Sword) exercise. The main component was the joint training of the army, navy, air force and rocket force aimed at establishing superiority in the mari­time, air and information domains in order to sever Taiwan’s communication links with its partners and the wider international community, and to strike targets on the island. At times, more than 90 aircraft participated alongside 12 naval vessels, one carrier strike group and the China Coast Guard.
+In May 2024, shortly after the inauguration speech of the new Taiwanese president, the
+Lianhe Lijian 2024A
+manoeuvres were held with the aim of “pun­ishing separatist activities of the ‘Taiwan independence movement’”.
+128
+As in 2022, the PLA defined training zones in waters around Taiwan and near the Taiwanese islands located close to the Chinese main­land. This time, however, both the navy and, in par­ticular, the coast guard had a significantly stronger presence – the former with up to 27 vessels and the latter with 16. In October 2024, there was another military response after the Taiwanese president’s National Day speech. The short but extremely inten­sive
+Lianhe Lijian 2024B
+exercise lasted just one day but entailed the largest deployment to date. Once again, manoeuvres were conducted around Taiwan and on the offshore islands, with 17 coast guard ships patrolling inside seven designated zones and up to 135 aircraft and 17 warships from the navy, including a carrier strike group, also taking part. The main objec­tive was a simulated blockade of Taiwanese ports.
+129
+In early April 2025, the ETC led another exer­cise, which, like its predecessors, came after speech by the Taiwanese president. In the manoeuvres, later named
+Haixia Leiting 2025A
+(Strait Thunder), 13 war­ships accompanied by one carrier strike group and four coast guard vessels positioned themselves around Taiwan to simulate a blockade operation.
+130
+Other service branches participated in the exercise, too, with the air force conducting missions that involved drones, helicopters and fighter aircraft. Commentary ostensibly from private citizens but approved by editors and the censorship authorities suggests that Taiwan should be deterred from taking steps towards formal independence through a demonstration of mili­tary readiness and the political will to use force.
+131
+Assessment of exercises
+China’s goal of flexibly deploying military formations across all hierarchical levels and coordinating with units from other branches across all five domains (land, air, sea, outer- and cyberspace) is ambitious. In this system, “the joint operations command system is an organic whole, with the strategic command organi­zation [CMC] at its core, the joint campaign command organization [theatre commands] as its hub, and the joint task force and other command organizations as its foundation”.
+132
+Yet, fundamental issues regarding command responsibility in the system appear to remain unresolved. Specifically, experts from the NDU have emphasised that “the establishment and operation of a joint command system must follow the principles of simplicity, practicality and effectiveness. Therefore, the vertical and horizontal relationships between the various organisational units at all levels of the system require further clarification […] and responsibilities must be flexibly defined and assumed according to the combat requirements.”
+133
+Fundamental issues about command responsibility in the new system appear to remain unsolved.
+Against this backdrop, it should be understood that the frequent calls for improving the training of “talented” cadres and optimising technical systems are symptomatic of difficulties in the organisational culture of the PLA, if not signs of the impossibility of conducting comprehensive, effective and precise war­fare. In particular, the repeated use in this context of adjectives such as “scientific”
+(kexue)
+and “rational”
+(youli)
+as well as the weighty phrase “seeking truth from facts”
+(shishi qiushi)
+has a critical undertone – one that points to a lack of discipline, passivity, exces­sive bureaucracy and approaches to problem-solving that are ideologically driven and impractical.
+134
+The numerous reports about highly motivated, eager-to-learn and “innovative” non-commissioned officers,
+135
+junior officers and staff officers
+136
+should be considered in this light as well. These individuals ostensibly show leadership, realise their own poten­tial and help their respective organisational units – and thus the PLA and even China as a whole – make advances. However, it is not they but only a handful of figures at the highest leadership level who have the power to improve the institutional framework and organisational culture of the PLA.
+In the one-party state, the main instrument for such improvement is the all-encompassing organisation of the political work departments, Party com­mit­tees and Party cells at all levels. Under the leadership of a member of the CMC, this organisation is respon­sible for personnel administration, which includes conducting performance evaluations, deciding on promotions, organising ideological training, maintaining party discipline and providing for the welfare of the troops. Its branches are also consistently tasked with the command of military formations. Even in combat, operational decisions are made collectively.
+137
+How this system of political ideological control can be reconciled with the need for rapid decision-making and complex coordination in informationised warfare remains unclear, however. The Party com­mittees, which have been strengthened again under Xi, appear to be hindering efforts to reduce the bureaucracy within military structures.
+138
+Moreover, it is likely that there is enormous pressure exerted by the requirement to discipline cadres through ideo­logical indoctrination and exact constant displays of loyalty from them through ritualistic behaviour. As a result, responsibilities and de facto decision-making authority are delegated upwards, while subordinates are strictly disciplined. This organisational culture directly contradicts the mission command model as prescribed by PLA doctrine. In such a system, the repeated calls for “iron discipline”, an “iron will” and “the promotion of a fighting spirit” are bound to be neither effective nor promising – especially given that in 2024 even General Miao Hua, the top political commissar and guardian of the PLA’s loyalty to the CPC, was removed from his post over disciplinary vio­lations.
+139
+Such incidents reveal the limits of an army of the Party.
+Conclusions
+The very nature of modern warfare is shrinking geo­graphical distances, which, in turn, necessitates a faster pace of military operations. This significantly increases the demands made of military organisations. It is likely that the PLA will meet the technical preconditions for effective warfare along China’s pe­riph­ery by the middle of this century, if not earlier.
+140
+However, its ability to conduct high-intensity opera­tions beyond the first island chain in the Western Pacific will remain limited. That is because it does not yet have a crisis-resilient military infrastructure based on a network of reliable allies.
+Besides technical obstacles, the PLA faces institutional challenges over coordinating joint military operations across all service branches and domains simultaneously. These challenges stem from the need to clearly define responsibilities and efficiently allo­cate resources – both between
+and
+within the indi­vidual service branches and TCs. The PLA has yet to resolve such issues.
+141
+In order to address these short­comings and the currently limited number of large-scale live exercises at the levels of TC and army corps, it is possible that the PLA will increase the frequency, scale and complexity of manoeuvres around Taiwan.
+The contradiction between the ideal of an efficient, professional military, on one hand, and that of an army of the Party (loyal to the CPC and its chairman, Xi), on the other, is even more difficult to deal with. Even if it were possible to overcome the consequences of the anti-corruption campaigns – the general un­certainty, the loss of experienced cadres and the subsequent personnel rotations that cascade through the ranks – the imperative to ensure unfailing loyalty and the associated ideological control would remain. And that undermines proactive leadership, the empowerment of capable cadres and the devel­op­ment of a performance-driven work culture.
+Despite or, perhaps, because of this, the main prob­lem for the CPC leadership is that, as the army of the Party, the PLA remains a closed system – one that is largely inaccessible to the civilian side of the state and, paradoxically, to the Party itself as well. Fun­da­mentally, the military retains control over informa­tion about troop conditions, the progress of operations and the use of intelligence.
+142
+This means that corruption and mismanagement within the highest leadership bodies and their oversight agencies remain blind spots, as evidenced by the recent case of General He Weidong. As of summer 2025, following disciplinary action against He, who, as vice chairman of the CMC and a long-time ally of Xi, was the second-most powerful military figure in China, only three of the six military seats on the seven-member CMC have been occupied.
+Because all decision-making is highly centralised in the hands of CMC Chairman Xi Jinping – who, as the only civilian on the commission, has to rely heavily on the two vice chairmen to effectively control the PLA – civilian influence over the military has, in fact, weakened.
+143
+Everything seems to depend on Xi, the general secretary of the CPC, and his position within the CMC. Thus, there remains the single decisive factor: how capable the CPC leadership considers the PLA to be and to what extent it believes it can count on the loyalty of the military in the event of crisis. Reports of another campaign launched by Xi in early 2025 to indoctrinate the highest ranks of the PLA point to growing tensions.
+144
+This, in turn, reveals the limits of Xi’s power to enforce discipline within the armed forces; and as he grows older, speculation about a potential loss of control is unlikely to dimin­ish.
+145
+And even if the Party leadership were to have full trust in its armed forces, there is also the question of whether PLA commanders and political leaders would continue to view any possibility of partial mili­tary failure as posing too great a threat to their own positions of power.
+Thus, it can be assumed that well-informed military leaders have only limited confidence in the PLA’s ability to win a major war and, for that reason, are unlikely to show much interest in becoming involved in any such confrontation.
+146
+This does not rule out preventive strikes or decisions by political leaders to risk armed conflict in situations where their power is threatened. And if there were to be an armed conflict, the ability to disable enemy systems would certainly be important. However, as the war in Ukraine has shown, advantages in troop numbers, available mili­tary equipment and, in particular, industrial capacity remain the key factor for success in protracted mili­tary confrontations between economically developed states.
+Because decision-making processes within the PLA are opaque and encourage groupthink and because the fact that the organisation is extremely closed – even by Chinese standards – makes an effective information exchange with external actors extremely difficult, it is important to maintain direct communication channels with the PLA. This applies to Ger­many too, as the Bundeswehr is expected to continue biannual operations in both the East China Sea and the South China Sea. Furthermore, the rapidly chang­ing global political landscape requires German and European governments to maintain regular exchanges at the diplomatic, military-diplomatic and think-tank levels – even with actors who are more chal­lenging, like China.
+Since the Chinese Ministry of National Defence per­forms mainly a ceremonial role and official meetings both at the level of ministerial bureaucracy (for exam­ple, during staff talks) and between military leaders in strategic dialogues tend to be unproductive, it is all the more important to seek informal opportunities for exchange. For example, discussions at security policy seminars can provide valuable insights that complement and improve formal encounters. There­fore, the maintenance and potential expansion of communication channels should include cultivating contacts not only with members of the CMC and its subordinate offices and with the individual service branches; it should also include research institutions such as the Academy of Military Science and training centres like the NDU or the academies of the service branches. If these professional and institutional con­tacts are maintained over time, they can help reach a better understanding of the mindset within the PLA and the actions of its leadership. At the same time, these channels should be used to openly and pro­actively share threat perceptions and expectations – for example, regarding the Russian war in Ukraine, conflicts in the Middle East, maritime security in Asia and Europe, cybersecurity, space security and the spread of weapons of mass destruction and AI-enabled unmanned systems.
+Abbreviations
+CCTV
+China Central Television
+CMC
+Central Military Commission
+CPC
+Communist Party of China
+CTC
+Central Theatre Command
+ETC
+Eastern Theatre Command
+JOC
+Joint Operations Centre
+JOCC
+Joint Operations Command Centre
+NDU
+National Defence University
+NTC
+Northern Theatre Command
+PLA
+People’s Liberation Army
+PLAAF
+People’s Liberation Army Air Force
+PLAGF
+People’s Liberation Army Ground Force
+PLAN
+People’s Liberation Army Navy
+PLARF
+People’s Liberation Army Rocket Force
+STC
+Southern Theatre Command
+TC
+Theatre Command
+WTC
+Western Theatre Command
+Endnotes
+1
+Bill Bishop, “Xi in Qiushi – Comprehensively Advancing the Building of a Strong Country and the Great Cause of National Rejuvenation through Chinese Modernization”
+,
+Sinocism
+(online), 31 December 2024.
+2
+Nan Li, “Scanning the Horizon for ‘New Historical Mis­sions’”
+,
+Proceedings (U.S. Naval Institute)
+136, no. 4 (2010),
+https://www.usni.org/magazines/proceedings/2010/april/scanning-horizon-new-historical-missions
+(all online sources cited in this publication were last accessed on 25 April 2025).
+3
+John Wilson Lewis and Xue Litai,
+Imagined Enemies: China Prepares for Uncertain War
+(Palo Alto: Stanford University Press, 2006).
+4
+Dennis J. Blasko, “The PLA Army after ‘Below the Neck’ Reforms: Contributing to China’s Joint Warfighting, Deterrence and MOOTW Posture”,
+Journal of Strategic Studies
+44, no. 2 (2021): 149–83 (155–56), doi:
+10.1080/01402390. 2019.1701440
+.
+5
+Wang Xueping, “Zhuoli pojie zhihuiyuan ‘wu ge buhui’ wenti” [Focus on the Solutions to the “Five Incapables” of the Commanders
+],
+Jiefangjun bao
+[PLA Daily], 18 June 2019,
+http://www.81.cn/xxqj_207719/xxqj_207747/9532744.html
+.
+6
+Sugiura Yasuyuki,
+The PLA’s Pursuit of Enhanced Joint Opera­tions Capabilities
+(Tokyo: National Institute for Defense Studies, 2022), 19,
+https://www.nids.mod.go.jp/publication/ chinareport/pdf/china_report_EN_web_2022_A01.pdf
+.
+7
+“Zhonggong zhongyang guanyu quanmian shenhua gaige ruogan zhongda wenti de jueding” [Decision of the Central Committee of the Chinese Communist Party on Key Issues in Deepening Comprehensive Reform]
+,
+Xinhua
+, 15 November 2013,
+https://www.gov.cn/jrzg/2013-11/15/ content_2528179.htm
+.
+8
+“Zhongyang junwei guanyu shenhua guofang he jundui gaige de yijian” [Opinion of the Central Military Commission on Advancing the Reform of National Defence and the Armed Forces],
+Xinhua
+, 1 January 2016,
+http://www.xinhuanet.com/ mil/2016-01/01/c_1117646695.htm
+.
+9
+Brian Hart, Bonnie S. Glaser and Matthew P. Funaiole, “China’s 2027 Goal Marks the PLA’s Centennial, Not an Ex­pedited Military Modernization”,
+China Brief
+21, no. 6 (2021): 8–14.
+10
+Philip C. Saunders, Arthur S. Ding, Andrew Scobell, Andrew N.
+D. Yang and Joel Wuthnow, eds.,
+Chairman Xi Remakes the PLA: Assessing Chinese Military Reforms
+(Washington, D.C.: National Defense University Press, 2019).
+12
+You Ji, “The Party/Army State in Great Transformation”, in
+The Chinese Communist Party in Action: Consolidating Party Rule
+, ed. Zheng Yongnian and Lance L.P. Gore (New York: Rout­ledge, 2020), 161–80.
+13
+Daniel Gearin, “PLA Force Reductions: Impact on the Services”, in
+Chairman Xi Remakes the PLA
+, ed. Saunders et al. (see note
+10
+), 327–43.
+14
+Nan Li, “Top Leaders and the PLA: The Different Styles of Jiang, Hu, and Xi”, in
+PLA Influence on China’s National Secu­rity Policymaking
+, ed. Philip C. Saunders and Andrew Scobell (Stanford: Stanford University Press, 2015), 120–37.
+15
+John Chen, “Choosing the ‘Least Bad Option’: Organizational Interests and Change in the PLA Ground Force”, in
+Chairman Xi Remakes the PLA
+, ed. Saunders et al. (see note
+10
+), 85–124 (110).
+16
+Nan Li,
+Civil-Military Relations in Post-Deng China: From Symbiosis to Quasi-Institutionalization
+(Singapore: Palgrave Mac­millan, 2021).
+17
+You, “The Party/Army State in Great Transformation” (see note
+12
+), 166.
+18
+Willy Wo-Lap Lam, “Members of the Xi Jinping Clique Revealed”,
+China Brief
+14, no. 3 (2014),
+https://jamestown.org/ program/members-of-the-xi-jinping-clique-revealed/
+.
+19
+“Profile: Xi Jinping and his Era”,
+Xinhua
+, 17 November 2017,
+http://www.xinhuanet.com//english/2017-11/17/c_ 136758372_6.htm
+.
+20
+K. Tristan Tang, “Xi Struggles to Keep Military Construc­tion Reform on Course at Two Sessions”,
+China Brief
+25, no. 5 (2025): 6–11.
+21
+You, “The Party/Army State in Great Transformation” (see note
+12
+), 169.
+22
+See William Lam, “CCP Campaign for a New Generation of ‘Red and Expert’ Officials”,
+China Brief
+9, no. 13 (2009): 2–4,
+https://jamestown.org/program/ccp-campaign-for-a-new-generation-of-red-and-expert-officials/
+.
+23
+Even under Hu, efforts were made to counter the “de­politicisation” and “nationalisation” of the PLA. See Dennis J. Blasko, “The Evolution of Core Concepts. People’s War, Active Defense, Offshore Defense”, in
+Assessing the People’s Liberation Army in the Hu Jintao Era
+, ed. Roy Kamphausen, David Lai and Travis Tanner (Carlisle, PA: Strategic Studies Institute and U.S. Army War College Press, 2014), 81–128 (86).
+24
+You, “The Party/Army State in Great Transformation” (see note
+12
+), 164.
+25
+Joel Wuthnow and Philip C. Saunders, “More Red but Still Expert: Party-Army Relations under Xi Jinping”,
+Journal of Contemporary China
+(2024), doi:
+10.1080/10670564.2024. 2400529
+.
+26
+You, “The Party/Army State in Great Transformation” (see note 12), 166.
+27
+James Char, “Chinese Civil-Military Relations: Xi Jin­ping’s Anti-Corruption Campaign and the People’s Liberation Army”, in
+Reshaping the Chinese Military: The PLA’s Roles and Missions in the Xi Jinping Era
+, ed. Richard A. Bitzinger and James Char (New York: Routledge, 2018), 9–44.
+28
+Tan Zhe, “Fansi sulian jundui wajie: ‘jundui fei dang­hua’ rang sujun buzhan er jiang” [Reflections on the Collapse of the Soviet Union: The “De-partyisation of the Mili­tary” Resulted in the Red Army’s Surrender without Resist­ance],
+Jiefangjun bao
+[PLA Daily], 12 January 2015,
+http://www. 81.cn/jwgd/2015-01/13/content_6305937_2.htm
+.
+29
+Lin Yunshi and Kelly Wang, “Chart of the Day: The Mili­tary Brass Ensnared in China’s Anti-Corruption Campaign”,
+Caixin Global
+(online), 27 December 2024,
+https://www. caixinglobal.com/2024-12-27/chart-of-the-day-the-military-brass-ensnared-in-chinas-anti-corruption-campaign-102272883.html
+.
+30
+Char, “Chinese Civil-Military Relations” (see note
+27
+), 33.
+31
+James Mulvenon, “Hotel Gutian: We Haven’t Had That Spirit Here since 1929”,
+China Leadership Monitor
+46, no. 3 (2015),
+https://www.hoover.org/research/hotel-gutian-we-havent-had-spirit-here-1929
+.
+32
+“Quanjun zhengzhi gongzuo huiyi zai gutian zhaokai: Xi Jinjing chuxi huiyi bing fabiao zhongyao jianghua” [Con­ference Convened in Gutian on Political Work throughout the Military: Xi Jinping Attended and Delivered an Important Speech],
+Renmin wang
+[People’s Daily Online], 11 January 2014.
+33
+Mulvenon, “Hotel Gutian” (see note
+31
+), 5.
+34
+Elliot Ji, “Rocket-Powered Corruption: Why the Missile Industry Became the Target of Xi’s Purge”,
+War on The Rocks
+, 23 January 2024,
+https://warontherocks.com/2024/01/rocket-powered-corruption-why-the-missile-industry-became-the-target-of-xis-purge/
+.
+35
+“Zhongyang junwei zhengzhi gongzuo huiyi zai yan’an zhaokai. Xi jinping chuxi huiyi bing fabiao zhongyao jiang­hua”
+[The Central Military Commission’s Political Work Con­ference Has Taken Place in Yan’an. Xi Jinping Attended the Meeting and Delivered an Important Speech]
+,
+Xinhua
+, 19 June 2024,
+http://politics.people.com.cn/n1/2024/0619/c1024-40260089.html
+.
+36
+Char, “Chinese Civil-Military Relations” (see note
+27
+), 29.
+37
+“Communiqué of the Third Plenary Session of the 18th Central Committee of the Communist Party of China”,
+China.org.cn
+, 15 January 2014,
+http://www.china.org.cn/china/ third_plenary_session/2014-01/15/content_31203056.htm
+.
+38
+“Xi Jinping Thought on Strengthening the Military”,
+China.org.cn
+,
+11 May 2021,
+http://www.china.org.cn/english/ china_key_words/2021-11/05/content_77853472.html
+.
+39
+Like the Xuexi Qiangguo app for civilian cadres, Xuexi Qiangjun was introduced as a learning platform for political education within the PLA. The app is intended to help inter­nalise Xi Jinping’s ideology: “Jing Zhongyang junwei pijun ‘Xi Jinping guanyu xin shidai zhengzhi jianjun zhongyao lunshu xuanbian’ yinfa quanjun” [“
+Selected Important Theo­retical Writings by Xi Jinping on Politically Strengthening the Military in the New Era”
+Has Been Approved by the Central Military Commission and Can Now be Distributed Throughout the Armed Forces], 11 September 2024,
+https:/ /www.gov.cn/yaowen/liebiao/202409/content_6973886.htm
+.
+40
+Chun Han Wong, “Xi Is Trying to Secure the Devotion of China’s Military. Chinese Leader Deploys Soldiers on a Campaign of Films, Quizzes and Political Study”,
+The Wall Street Journal
+(online), 20 February 2025,
+http://www.wsj.com/ world/china/china-military-xi-jinping-speeches-16ac3256
+.
+41
+Christian Wirth, “Emotions, International Hierarchy, and the Problem of Solipsism in Sino-US South China Sea Politics”,
+International Relations
+34, no. 1 (2020): 25–45, doi:
+10.1177/0047117819875995
+.
+42
+“Lianghui shouquan fabu” [Authorised Report on the Two Sessions],
+Xinhua
+, 3 June 2023,
+http://www.news.cn/ politics/leaders/2023-03/06/c_1129417096.htm
+.
+43
+Xi Jinping, “Secure a Decisive Victory in Building a Mod­erately Prosperous Society in All Respects and Strive for the Great Success of Socialism with Chinese Characteristics for a New Era”,
+The National People’s Congress of the People’s Republic of China
+, 18 November 2017,
+http://en.npc.gov.cn.cdurl.cn/2021-12/24/c_693899.htm
+.
+44
+Timothy R. Heath, “The Historic Missions of the People’s Liberation Army under Xi Jinping: The Military’s Role in the ‘New Era’”,
+China Leadership Monitor
+80 (2024),
+https://www. prcleader.org/post/the-historic-missions-of-the-people-s-liberation-army-under-xi-jinping-the-military-s-role-in-the
+.
+45
+The State Council of the People’s Republic of China,
+Chi­na’s Military Strategy
+, 27 May 2015,
+https://english.www.gov.cn/ archive/white_paper/2015/05/27/content_281475115610833.htm
+.
+46
+The State Council of the People’s Republic of China,
+Full Text: China’s National Defense in the New Era
+, 24 July 2019,
+https://english.www.gov.cn/archive/whitepaper/201907/24/ content_WS5d3941ddc6d08408f502283d.html
+.
+47
+Blasko, “The Evolution of Core Concepts” (see note
+23
+), 88–90.
+48
+Xiao Tianliang, Lou Yaoliang, Kang Wuchao and Cai Renzhao,
+Zhanlüexüe
+[Science of Military Strategy] (Beijing: National Defense University Press, 2020), trans. China Aero­space Studies Institute,
+In Their Own Words: Science of Military Strategy
+(Montgomery, AL, 2022), 35–36.
+49
+See Sugiura,
+The PLA’s Pursuit of Enhanced Joint Operations Capabilities
+(see note
+6
+), 26.
+50
+See Yatsuzuka Masaaki, “PLA’s Intelligentized Warfare: The Politics on China’s Military Strategy”,
+Security and Strategy
+2 (2022): 17–36.
+51
+M. Taylor Fravel,
+Active Defense: China’s Military Strategy since 1949
+(Princeton, NJ: Princeton University Press, 2019); Scott J. Tosi, “Xi Jinping’s PLA Reforms and Redefining ‘Active Defense’”,
+Military Review
+(September–October 2023),
+https://www. armyupress.army.mil/Journals/Military-Review/ English-Edition-Archives/September-October-2023/Active-Defense/
+.
+52
+“Regular Press Conference of the Ministry of National Defense on November 26”,
+China Military
+(online), 29 Novem­ber 2020,
+http://eng.chinamil.com.cn/HOME_209227/Focus_ 209228/9944372.html
+; Han Lin, Wei Bin and Liu Jianwei, “Zhongguo renmin jiefangjun lianhe zuozhan gangyao (shixing) shixing yizhou nian zongshu” [Outline of Joint Operations of the Chinese People’s Liberation Army (Trial Version)],
+Jiefangjun bao
+[PLA Daily], 5 January 2022,
+http:// www.81.cn/zt/2023nzt/jydb/16242274.html
+.
+53
+Jeffrey Engstrom,
+Systems Confrontation and System Destruc­
+tion Warfare: How the Chinese People’s Liberation Amy Seeks to Wage
+Modern Warfare
+(Santa Monica, CA: RAND Corporation, 2018).
+54
+See Sugiura,
+The PLA’s Pursuit of Enhanced Joint Operations Capabilities
+(see note
+6
+), 14.
+55
+Engstrom,
+Systems Confrontation and System Destruction War­fare
+(see note
+53
+).
+56
+Edmund J. Burke, Kristen Gunness, Cortez A. Cooper III and Mark Cozad,
+People’s Liberation Army Operational Concepts
+(Santa Monica, CA: RAND Corporation, 2020), 9–10,
+https:// www.rand.org/pubs/research_reports/RRA394-1.html
+.
+57
+Ministry of National Defence of the People’s Republic of China,
+“Zhongyang junwei guanyü shenhua guofang he jundui gaige de yijian” [Opinions of the Central Military Commis­sion on Deepening the Reform of National Defence and the Armed Forces], 5 August 2022,
+http://www.mod.gov.cn/ gfbw/qwfb/jwgghbzbgs/4917411.html
+.
+58
+James Mulvenon, “The Cult of Xi and the Rise of the CMC Chairman Responsibility System”,
+China Leadership Monitor
+55 (winter 2018),
+https://www.hoover.org/sites/ default/files/research/docs/clm55-jm-final.pdf
+.
+59
+In addition, up to 90 per cent of the 300 military del­egates to the National Party Congress were newly appointed. See Li Cheng, “Why China’s Military Facelift Ahead of the Party Congress Could be a Sign of Bigger Changes”,
+Brookings Institution Comment
+, 10 October 2017,
+https://www.brookings. edu/articles/why-chinas-military-facelift-ahead-of-the-party-congress-could-be-a-sign-of-bigger-changes/
+.
+60
+“How Did the 20th Party Congress Impact China’s Mili­tary?” (Washington, D.C.: Centre for Strategic International Studies [CSIS], 25 October 2022,
+https://chinapower.csis.org/ 20th-party-congress-china-military-pla-cmc/
+.
+61
+Joel Wuthnow and Philip C. Saunders, “Chairman Xi Remakes the PLA. Introduction Appendix: Central Military Commission Reforms”, in
+Chairman Xi Remakes the PLA
+, ed. Saunders et al. (see note
+10
+), 25–42 (32).
+62
+“Quanmian jia qiang xinshidai jundui dang de jianshe – Zhongyang junwei zhengzhi gongzuobu lingdao jiu Zhong­guo gongchandang jundui dang de jianshe tiaolie” [Compre­hensively Strengthen the Party Building of the Army in the New Era – Leaders of the Political Work Department of the Central Military Commission Answer Reporters’ Questions on the Regulations on Party Building in the Military of the Chi­nese Communist Party],
+Xinhua
+, 19 September 2020; English translation available in
+CSIS Interpret
+,
+https://inter pret.csis.org/translations/comprehensively-strengthen-the-party-building-of-the-army-in-the-new-era-leaders-of-the-political-work-department-of-the-central-military-commission- answer-reporters-questions-on-the-regulations-on/
+.
+63
+James Mulvenon, “Like Donkeys Slaughtered after They Are Too Old to Work a Grindstone”: PLA Veterans Protests and Party-Military Relations under Xi Jinping,
+China Leader­ship Monitor
+57 (fall 2018),
+https://www.hoover.org/sites/ default/files/research/docs/clm57-jm-edited-final.pdf
+; Anushka Saxena, “New Regulations Seek to Address Chinese Military Veterans’ Concerns”,
+The Diplomat
+, 16 August 2024,
+https://thediplomat.com/2024/08/new-regulations-seek-to-address-chinese-military-veterans-concerns/
+.
+64
+Elsa B. Kania and John Costello, “Seizing the Commanding Heights: The PLA Strategic Support Force in Chinese Mili­tary Power”,
+Journal of Strategic Studies
+44, no. 2 (2020): 218–64 (222), doi:
+10.1080/01402390.2020.1747444
+.
+65
+Joe McReynolds and John Costello, “Planned Obsolescence: The Strategic Support Force in Memoriam (2015–2024)”,
+China Brief
+24, no. 9 (2024): 7–14.
+66
+Elsa B. Kania, “The PLA Strategic Support Force: Innovating for Future Warfare”, in
+Modernising the People’s Liberation Army: Aspiring to Be a Global Military Power
+, ed. James Char (New York: Routledge, 2024), 166.
+67
+Kania and Costello, “Seizing the Commanding Heights” (see note
+64
+), 231.
+68
+Kania, “The PLA Strategic Support Force” (see note
+66
+), 170.
+69
+J. Michael Dahm, “A Disturbance in the Force: The Re­organization of People’s Liberation Army Command and Elimination of China’s Strategic Support Force”,
+China Brief
+24, no. 9 (2024): 15–21.
+70
+The State Council of the People’s Republic of China,
+China’s National Defense in the New Era
+(see note
+46
+).
+71
+Elsa B. Kania and Lorand Laskai,
+Myths and Realities of China’s Military-Civil Fusion Strategy
+(Washington, D.C.: Center for a New American Security, 28 January 2021),
+https://www. cnas.org/publications/reports/myths-and-realities-of-chinas-military-civil-fusion-strategy
+.
+72
+The State Council of the People’s Republic of China,
+China’s National Defense in the New Era
+(see note
+46
+).
+73
+Leigh Ann Luce and Erin Richter, “Handling Logistics in a Reformed PLA. The Long March toward Joint Logistics”, in
+Chairman Xi Remakes the PLA
+, ed. Saunders et al. (see note
+10
+), 257–91.
+74
+Joel Wuthnow, “Joint Logistic Support Force and Chi­na’s Military Logistics in an Era of Reform: Organizations, Operations and Challenges”, in
+Modernising the People’s Liberation Army
+, ed. Char (see note
+66
+), 186–208.
+75
+Xu Xingqi, “Lianhe zuozhan huhuan lianhe tousong, yao zuodao ‘suotou ji suoxu, suoxu ji suotou’” [Joint Opera­tions Call for Joint Delivery:
+“What They Need is What They Receive, What They Receive is What They Need”
+],
+Jiefangjun bao
+[PLA Daily], 25 January 2024,
+http://www.81.cn/xxqj_ 207719/xxjt/pl_207751/16282900.html
+.
+76
+Wuthnow, “Joint Logistic Support Force and China’s Military Logistics in an Era of Reform” (see note
+74
+).
+77
+Ibid., 195.
+78
+Kevin McCauley, “PLA Logistics Support for Large-Scale Amphibious Warfare”, in
+Chinese Amphibious Warfare: Prospects for a Cross-Strait Invasion
+, ed. Andrew S. Erickson, Conor M. Kennedy and Ryan D. Martinson, CMSI Studies in China Maritime Development 8 (Newport, RI: U.S. Naval War Col­lege, 2024), 299–340 (306).
+79
+Chung Chieh, “PLA Logistics and Mobilization Capacity in a Taiwan Invasion”, in
+Crossing the Strait: China’s Military Prepares for War with Taiwan
+, ed. Joel Wuthnow, Derek Gross­man, Philip C. Saunders, Andrew Scobell and Andrew N.D. Yang (Washington, D.C.: National Defense University Press, 2022), 253–76.
+80
+Joel Wuthnow and Philip C. Saunders, “A Modern Major General: Building Joint Commanders in the PLA”, in
+Chairman Xi Remakes the PLA
+, ed. Saunders et al. (see note
+10
+), 293–23 (295); and Burke et al., ed.,
+People’s Liberation Army Operational Concepts
+(see note
+56
+), 20.
+81
+Tzu-Chieh Hung, “Comments on the Implementation of the PLA’s ‘New Soldier System’”,
+INDSR Newsletter
+11 (June 2022): 13–22.
+82
+Alexander Davey, “In the Army Now? Exploring the Online Debate over a Military Career in China” (Berlin: Mercator Institute for China Studies [MERICS] [online], 13 December 2024),
+https://merics.org/en/comment/army-now-exploring-online-debate-over-military-career-china
+.
+83
+Kenneth W. Allen, Thomas Corbett, Taylor A. Lee and Ma Xiu,
+Personnel of the People’s Liberation Army
+. Prepared for the U.S.-China Economic and Security Review Commission by BluePath Labs, 3 November 2022, 59.
+84
+Peng Wang and Jingyi Wang, “How China Promotes Its Military Officers: Interactions between Formal and Informal Institutions”,
+The China Quarterly
+234 (2018): 399–419.
+85
+Peng Wang, “Military Corruption in China: The Role of
+Guanxi
+in the Buying and Selling of Military Positions”,
+The China Quarterly
+228 (2016): 970–91.
+86
+Wuthnow and Saunders, “A Modern Major General” (see note
+80
+), 293.
+87
+Allen et al.,
+Personnel of the People’s Liberation Army
+(see note
+83
+), 34.
+88
+David M. Finkelstein,
+The PLA’s New Joint Doctrine: The Cap­stone of the New Era Operations Regulations System
+(Arlington, VA: Center for Naval Analyses, Occasional Paper, September 2021), 21.
+89
+Edmund J. Burke and Arthur Chan, “Coming to a (New) Theater Near You: Command, Control, and Forces“, in
+Chair­
+man Xi Remakes the PLA
+, ed. Saunders et al. (see note
+10
+), 227–55.
+90
+Joshua Arostegui, “PLA Army and Marine Corps Amphibious Brigades in a Post-Reform Military”, in
+Crossing the Strait
+, ed. Wuthnow et al. (see note
+79
+), 161–194.
+91
+Blasko, “The PLA Army after ‘Below the Neck’ Reforms” (see note
+4
+), 158.
+92
+Kenneth W. Allen, Brendan S. Mulvaney and James Char, “Ongoing Organizational Reforms of the People’s Lib­eration Army Air Force”, in
+Modernising the People’s Liberation Army
+, ed. Char (see note
+66
+), 87–119, 94.
+93
+Blasko, “The PLA Army after ‘Below the Neck’ Reforms” (see note
+4
+), 158.
+94
+Ibid., 164.
+95
+Dennis J. Blasko, “The PLA Army after ‘Below the Neck’ Reforms: Contributing to China’s Joint Warfighting, Deterrence and MOOTW Posture”, in
+Modernising the People’s Liberation Army
+, ed. Char (see note
+66
+), 24–59.
+96
+Roderick Lee, “The PLA Airborne Corps in a Taiwan Scenario”, in
+Crossing the Strait
+, ed. Wuthnow et al. (see note
+79
+), 195–221.
+97
+China Aerospace Studies Institute (CASI),
+PLA Aerospace Power: A Primer on Trends in China’s Military Air, Space, and Missile Forces
+, 4
+th
+Edition (Montgomery, AL, June 2024), 22.
+98
+Ian Burns Mc Caslin and Andrew S. Erickson, “The Im­pacts of Xi-Era Reforms on the Chinese Navy”, in
+Chairman Xi Remakes the PLA
+, ed. Saunders et al. (see note
+10
+), 125–170.
+99
+Ryan D. Martinson, “Counter-Intervention in an Age of Naval Reform”, in
+Modernising the People’s Liberation Army
+, ed. Char (see note
+66
+), 60–86.
+100
+Arostegui, “PLA Army and Marine Corps Amphibious Brigades” (see note
+90
+).
+101
+Andrew Scobell and Nathan Beauchamp-Mustafaga, “The Flag Lags but Follows: The PLA and China’s Great Leap Outward”, in
+Chairman Xi Remakes the PLA
+, ed. Saunders et al. (see note
+10
+), 171–199.
+102
+Matthew Bruzzese, “Organization and Structural Reforms of the PLA Rocket Force”, in
+Modernising the People’s Liberation Army
+, ed. Char (see note
+66
+), 121–159.
+103
+Ibid., 130.
+104
+CASI,
+PLA Aerospace Power
+(see note
+97
+), 37.
+105
+Bruzzese, “Organization and Structural Reforms” (see note
+102
+), 132.
+106
+Zhang Shuo, “Tanzhe lianhe zuozhan zhihui nengli shengcheng texing” [Exploring the Characteristics of Com­mand Capability Generation in Joint Operations],
+Jiefangjun bao
+[PLA Daily], 30 July 2024,
+http://www.81.cn/ll_208543/ 16328019.html
+.
+107
+International exercises are not addressed as they are not representative and because, owing to the lack of a crisis-resilient alliance network, no overseas expeditions are likely to be possible in the foreseeable future. See Howard Wang and Nathan Beauchamp-Mustafaga,
+Not Ready for a Fight: Chi­nese Military Insecurities for Oversesas Bases in Wartime
+(Santa Monica, CA: RAND, June 2024),
+http://www.rand.org/pubs/ research_reports/RRA1800-2.html
+.
+108
+See Wang Yun, “Dongbu zhanqu kongjun mo jidi zhuhong tisheng yitihua lianhe baozhang nengli” [Eastern Theater Air Force Base Focuses on Enhancing Integrated Joint Support Capabilities],
+Jiefangjun bao
+[PLA Daily], 16 June 2023,
+http://www.81.cn/kj_208559/16231645.html
+.
+109
+See, for example, Blasko, “The PLA Army after ‘Below the Neck’ Reforms” (see note
+95
+).
+110
+Mark Cozad, “Toward a More Joint, Combat-Ready PLA?”, in
+Chairman Xi Remakes the PLA
+, ed. Saunders et al. (see note
+10
+), 203–26 (211).
+111
+Ibid.
+112
+Dennis J. Blasko, “PLA Exercises March Toward Trans-Regional Joint Training”,
+China Brief
+9, no. 22 (2009): 4–8 (5).
+113
+Ibid., 6.
+114
+Ibid.
+115
+Burke et al.,
+People’s Liberation Army Operational Concepts
+(see note
+56
+), 17.
+116
+Joel Wuthnow, “A Brave New World for Chinese Joint Operations”,
+Journal of Strategic Studies
+40, nos. 1–2 (2017): 169–95 (177).
+117
+Blasko, “The PLA Army after ‘Below the Neck’ Reforms” (see note
+4
+), 160.
+118
+Wang Yun, “Yunchou de diebian – laizi nanbu zhanqü linahe canmou qunti de guancha baogao” [The Rep­eti­tion of Strategic Operational Planning – An Observa­tional Report from the General Staff of the Southern Theatre Command],
+Jiefangjun bao
+[PLA Daily], 10 October 2024,
+http:// www.81.cn/zt/2023nzt/qmsrxxgcxjpqjsx/qjsj_245351/16276774.html
+.
+119
+“‘Cuihuo Luoyang-2018A yanlian’. Dianci kongjian, honglan shuangfang jilie duikang” [‘Cuihuo Luoyang-2018A Exercise’: Red and Blue Forces Engage in Intense Confrontation in the Electromagnetic Domain],
+China Central Television
+(CCTV), 16 May 2018,
+https://tv.cctv.com/2018/05/16/ VIDEfHFP6I68Nh0llVOqF0nT180516.shtml
+.
+120
+Ministry of National Defence of the People’s Republic of China
+, “Lianqin shiming-2018B shibing yanjiuxing yanxi juxing” [The Mission Integrated Logistics-2018B Exercise Has Been Conducted], 15 August 2018,
+http://www.mod.gov.cn/gfbw/ qwfb/4822562.html
+.
+121
+“Kongjun ‘landun-18’ yanxi” [Air Force “Blue Shield-18” Exercise],
+CCTV
+, 28 June 2018,
+http://tv.cctv.com/2018/06/ 28/VIDEpkwNfbwz9v7EpYg80EUI180628.shtml?vfrm=2-3-0-1
+.
+122
+“Yanbing-2021, lianqin baozhang budui youzhi gaoxiao baozhang jiaqiang shizhan baozhangli” [Yanbing-2021: High-Quality and Efficient Support by the Strategic Support Force. Strengthening Real Combat Support in Actual Battle Conditions],
+CCTV
+,
+31 December 2021,
+https://tv.cctv. com/2021/12/31/VIDEGxezxKo699xJmedy77na211231.shtml
+.
+123
+“‘Kuayue-2019 Zhurihe A’ yanxi: lanjunlü yi honglan shuangzhong shenfen canyu” [‘Kuayue-2019 Zhurihe A’ Exercise: The Blue Brigade Participates with a Dual Identity as Red and Blue],
+CCTV
+,
+29 July 2019,
+https://tv.cctv.com/2019/ 07/29/VIDEXkWnsOTbEuJVZGGx6ur0190729.shtml
+.
+124
+“Junshi baodao ‘Kuayue-2021 Zhurihe A’ jinru jiao­zhan jieduan: lujun hecheng budui zhihuiyuan quancheng guanmo yanxi” [Military Report: “Kuayue-2021 Zhurihe A” Enters the Live Confrontation Phase – Commanders of the Combined Army Units Observe the Full Exercise],
+CCTV
+,
+8 September 2021,
+https://tv.cctv.com/2021/09/08/VIDEQ ag46p57CZzW03vB6jXu210908.shtml
+.
+125
+Wang Ziqi, “Changkong lijian, xiang zhan fenfei: kongjun Xi’an feixing xueyuan zuzhi ‘xifei lijian – 2022’ shibing duikang zonghe yanlian jishi” [Sharpening the Sword in the Sky, Flying into Battle: A Review of the “Xifei Lijian – 2022” Comprehensive Confrontation Exercise Con­ducted by the PLA Air Force Xi’an Aviation School],
+Jiefangjun huabao
+[PLA Illustrated], 25 October 2025,
+https://military.cnr. cn/jdt/20221025/t20221025_526042243.shtml
+.
+126
+Sun Zhiying, “Jiefangjun lici taihai yanxi zhong lidu zuida yici. Zhuanjia: Pojin hewei taidao qiansuo weiyou” [The PLA Conducts the Largest-ever Exercise in the Waters around Taiwan. Experts: Never Before Has the Encirclement of the Island Come So Close],
+Jiefangjun bao
+[PLA Daily], 6 August 2022,
+http://
+www.81.cn/yw_208727/10176406.html
+.
+127
+“Series: The Fourth Taiwan Strait Crisis”,
+ChinaPower
+(online), 26 April 2023,
+https://chinapower.csis.org/series-fourth-taiwan-strait-crisis/
+.
+128
+Yu-cheng Chen, “Joint Sword 2014A: Blockades and Gray Zone Tactics”,
+China Brief
+24, no. 15 (26 July 2024): 13–18.
+129
+Cheng-kun Ma and Tristan Tang, “Joint Sword-2024B: Quarantining Key Ports and Seizing Comprehensive Superiority”,
+China Brief
+24, no. 21 (1 November 2024): 7–15.
+130
+“PLA Military Drills in Taiwan Strait Enter 2nd Day”,
+Focus Taiwan
+, 2 April 2025,
+https://focustaiwan.tw/cross-strait/202504020006
+.
+131
+Chen Feng, “Chen Feng: Cong lianhe lijian dao haixia leiting, junshi jiejue taihai wenti silu fasheng zhuanbian” [From Joint Sword to Strait Thunder: The Thinking on a Mili­tary Solution to the Taiwan Strait Issue Has Shifted
+]
+,
+Guancha
+, 3 March 2025,
+https://www.guancha.cn/ChenFeng3/2025_04_ 03_770771.shtml
+.
+132
+Yang Hong, “Fenli shixian jianjun yibainian fendou mubiao xilie tan, youhua lianhe zuozhan zhihui tixi” [Dis­cussion Series on Achieving the 100-Year Goal of Army Founding: Optimising the Joint Operational Command Sys­tem],
+Jiefangjun bao
+[PLA Daily], 1 October 2023,
+http://www. 81.cn/zt/2022nzt/zcwhhxjjtdzhxxxcgcddesdjs/gdpl_242412/ 10211152.html
+.
+133
+Ibid.
+134
+Yü Yaqian, “Lianhe zuozhan xitong zhong, zhihuiyuan xuyao sikao ruhe jianshao zuozhan zhong de ‘shang’” [Com­manders in the Integrated Joint Operations System Need to Consider How to Reduce “Entropy” in Combat],
+Jiefangjun bao
+[PLA Daily], 16 January 2024,
+http://www.81.cn/ll_208543/ jdt_208544/16280690.html
+.
+135
+Wang, “Yunchou de diebian” (see note
+118
+).
+136
+Huang Min, “Shishi jietishi yuanxiao lianhe zuozhan zhuanye peixun, peiyang lianhe zuozhan zhihui rencai” [Im­plementation of a Tiered Educational Institution for Integrated Operations: Talent Training for Command of Integrated Op­era­tions],
+Jiefangjun bao
+[PLA Daily], 16 February 2022,
+http:// www.81.cn/xxqj_207719/tsysb_207739/qjcjd_207746/10133046.html
+.
+137
+Jeff W. Benson and Zi Yang,
+Party on the Bridge. Political Commissars in the Chinese Navy
+(Washington, D.C.: CSIS, 2020), 9–21,
+https://www.jstor.org/stable/pdf/resrep25318.9.pdf
+.
+138
+Yü Yaqian, “Duanlian xiang zhan sheng zhan zhong junzhang, dongbu zhanqu haijun mou zhidui dangwei tisheng lingzhan nengli” [Training the Combat Spirit of Commanders: The Party Committee of a PLA Navy Unit in the Eastern Theatre Command Enhances Combat Leadership Capabilities],
+Jiefangjun bao
+[PLA Daily], 10 October 2024,
+http://www.81.cn/zq_208553/jdt_208554/16282639.html
+.
+139
+Yixi Lamu, “Junshi luntan: jiaqiang xin shidai lianhe zuozhan wenhua jianshe” [Military Forum: Strengthening the Development of a Joint Combat Culture in the New Era],
+Jiefangjun bao
+[PLA Daily], 28 November 2023,
+http://www.81. cn/xxqj_207719/xxjt/pl_207751/16271987.html
+.
+140
+Blasko, “The PLA Army after ‘Below the Neck’ Reforms” (see note
+95
+), 39.
+141
+Ibid., 30; and Joel Wuthnow, “Who Does What? Chi­nese Command and Control in a Taiwan Scenario”, in
+Crossing the Strait
+, ed. Wuthnow et al. (see note
+79
+), 277–303.
+142
+Philip C. Saunders and Joel Wuthnow, “Large and In Charge: Civil-Military Relations under Xi Jinping”, in
+Chairman Xi Remakes the PLA
+, ed. Saunders et al. (see note
+10
+), 519–55 (544). Even the National Security Council remains a civilian institution focused on areas of overall defence and CPC control outside the PLA.
+143
+Chien-wen Kou, “Xi Jinping in Command: Solving the Principal-Agent Problem in CCP-PLA Relations?”
+The China Quarterly
+232 (2017): 866–85; and Jaehwan Lim, “Explaining Military Reforms under Xi Jinping: Military Effectiveness, Power Consolidation, and Party-military Relations in China”,
+Journal of Contemporary East Asia Studies
+11, no. 2 (2022): 264–81.
+144
+William Zheng, “China’s PLA Targets Top Brass in Cam­paign Touting Political Loyalty to Xi Jinpin”,
+South China Morning Post
+, 8 February 2025,
+https://www.scmp.com/news/ china/politics/article/3297783/chinas-pla-targets-top-brass-campaign-touting-political-loyalty-xi-jinping?module=top_ story&pgtype=section
+.
+145
+Katsuji Nakazawa, “Analysis: China Military in Dis­array over Xi’s Monopoly on Power”,
+Nikkei Asia Review
+, 26 December 2024,
+https://asia.nikkei.com/Editor-s-Picks/China-up-close/Analysis-China-military-in-disarray-over-Xi-s-monopoly-on-power
+; and Brandon Tran and Gerui Zhang, “PLA Factions and the Erosion of Xi’s Power Over the Military”,
+China Brief
+15, no. 5 (15 March 2025): 23–29.
+146
+Blasko, “The PLA Army after ‘Below the Neck’ Reforms” (see note
+95
+), 48.
+This work is licensed under
+CC BY 4.0
+SWP Research Papers are peer reviewed by senior researchers and the execu­tive board of the Institute. They are also subject to copy-editing. For further information on our quality control procedures, please visit the SWP website:
+https://www.swp-berlin.org/ en/about-swp/quality-management-for-swp-publications/
+.
+SWP Research Papers reflect the views of the author(s).
+SWP
+Stiftung Wissenschaft und Politik
+German Institute for International and Security Affairs
+Ludwigkirchplatz 3–4
+10719 Berlin
+Germany
+Phone +49 30 880 07-0
+Fax +49 30 880 07-200
+www.swp-berlin.org
+swp@swp-berlin.org
+ISSN (Print) 2747-5123
+ISSN (Online) 1863-1053
+DOI:
+10.18449/2025RP03
+(English version of
+SWP‑Studie 10/2025
+)

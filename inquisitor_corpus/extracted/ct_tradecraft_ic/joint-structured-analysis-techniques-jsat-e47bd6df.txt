@@ -1,0 +1,1850 @@
+(JSAT)
+TECHNICAL BRIEF ON
+JOINT
+STRUCTURED
+ANALYSIS
+TECHNIQUES
+T
+JIPS
+Essential
+Toolkit
+J
+E
+
+
+2
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Acknowledgements
+Published by: JIPS
+Contributing authors and reviewers: Caryn Saslow, Svend-Jonas Schelhorn, 
+Wilhelmina Welsch, Beatrice Barco, Corina Demottaz (JIPS)
+Graphic designer: Visualab
+Credit for illustrations: thenounproject.com, storyset.com
+                 
+      
+This publication was made possible through the generous support of the American people through 
+the Bureau for Humanitarian Assistance (BHA) of the United States Agency for International 
+Development (USAID), and the Danish Development Cooperation Agency (DANIDA). The contents 
+are the responsibility of JIPS and do not necessarily reflect the views of USAID or DANIDA.
+Suggested citation: JIPS (2021). Technical Brief on Joint Structured Analysis Techniques.
+© All rights reserved. The copyright for this material lies with JIPS. It may be reproduced for 
+educational purposes (including training, research, and programme activities) and elements of this 
+publication may be quoted in other publications, provided JIPS is acknowledged as per the above-
+mentioned suggested citation.
+JIPS is an interagency service set up in 2009 and dedicated to bringing governments, displaced 
+persons, host communities, and national and international actors together to jointly produce 
+data and analysis that can inform durable solutions to internal displacement. All our efforts are 
+driven by our vision of a world in which internally displaced persons can progress towards 
+durable solutions and live in dignity while doing so.
+A globally recognised neutral broker, JIPS specifically provides supporttechnical and collaboration 
+support to field partners, namely on profiling, and strategic advice on data; consolidates its 
+expertise into quality guidance and hands-on tools; and advances global practice and discourse 
+towards sound global action and standards. Field-focused and committed to enhancing local 
+ownership and capacity, JIPS brings specific expertise on protracted displacement, durable 
+solutions, urban displacement and IDP statistics. 
+Find out more about JIPS’ vision, mission and strategy 2021-2023.
+
+3
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Table of contents
+1. Introduction  6
+2. What Are Joint Structured Analysis Techniques? 9
+History 11
+Collaboration 12
+Benefits 12
+Challenges 13
+Good Practices  14
+3. Categories of Technique 15
+4. Selecting Techniques for a Joint Analysis Process 18
+Skills, training and time required 21
+Relationships between techniques 23
+5. Description of Techniques 26
+Decomposition & Visualisation 27
+Getting Started Checklist    27
+Customer Checklist  27
+Issue Redefinition  27
+Chronologies & Timelines  28
+Sorting 28
+Ranking, Scoring, Prioritising 28
+Matrices 29
+Network Analysis 29
+Mind Maps & Concept Maps 29
+
+4
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Idea Generation 30
+Structured Brainstorming 30
+Virtual Brainstorming 30
+Nominal Group Technique 30
+Starbursting  31
+Cross-Impact Matrix 31
+Scenarios & Indicators 32
+Simple Scenarios  32
+Alternative Futures Analysis &    Multiple Scenarios Generation  32
+Indicators   32
+Indicators Validator 32
+Hypothesis Generation & Testing 33
+Simple Hypotheses 33
+Multiple Hypotheses Generator  33
+Diagnostic Reasoning 33
+Analysis of Competing Hypotheses 34
+Argument Mapping 34
+Six Thinking Hats  34
+Assessment of Cause & Effect 35
+Key Assumptions Check  35
+Role Playing  35
+Outside-In Thinking 35
+Fishbone Analysis  36
+Challenge Analysis 37
+Structured Self-Critique 37
+Devil’s Advocacy 37
+Delphi Method 37
+
+5
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Conflict Management 38
+Adversarial Collaboration 38
+Decision Support 39
+Force Field Analysis 39
+Pros-Cons-Faults-and-Fixes 39
+SWOT Analysis 39
+Conclusion 40
+Bibliography 41
+Annex I: Skills, training and time required 
+per structured analysis technique  46
+Annex II: Relationships between JSATs 52
+
+01
+INTRODUCTION
+1. Introduction 
+
+7
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+In the analysis phase of a collaborative data process, such as profiling or joint needs assessments, 
+it is important to ensure that all voices are heard. This involves making space to discuss and 
+understand consent as well as dissent around the reading of data, as well as relevant hypotheses 
+and information that can support or enhance the analysis. Joint Structured Analysis Techniques 
+(JSATs) provide a structure to explore and challenge analytical arguments and mindsets 
+collectively, stimulate creativity, and manage uncertainty. 1 They provide mental tools for 
+externalising internal thoughts in a transparent and systematic way for closer examination2, 
+shifting the focus from the what to the how one thinks to improve the quality of analysis 3 with 
+increased objectivity and reduced bias. 
+“ Joint Structured Analysis Techniques (JSATs) provide a structure 
+to explore and challenge analytical arguments and mindsets 
+collectively, stimulate creativity, and manage uncertainty. They 
+provide mental tools for externalising internal thoughts in a 
+transparent and systematic way.”
+While the value of joint analysis is recognised in the humanitarian field, there is a need for further 
+exploration of the diverse ways to effectively facilitate it. This technical brief serves as a starting 
+point: it offers a toolbox of facilitation techniques and discusses how they can be used to enable 
+and elevate joint analysis processes. It also utilises lessons learned from other fields, namely the 
+intelligence community, as a guide. It builds on an extensive literature review that was analysed 
+applying an analytical framework specifically developed for this purpose and using the Data 
+Entry and Exploration Platform (DEEP) to tag text. The tagged content was then synthesised, 
+analysed and related to the joint analysis steps in the profiling process. 
+"This technical brief serves as a starting point: it offers a tool box 
+of facilitation techniques and discusses how they can be used to 
+enable and elevate joint analysis processes. It also utilises lessons 
+learned from other fields, namely the intelligence community, 
+as a guide."
+1 US Government, 2009.
+2 Pherson, 2013.
+3 Peterson, 2008.
+
+8
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+This technical brief is aimed at humanitarian and development practitioners engaged in 
+coordinating and facilitating collaborative data processes, notably profiling coordinators, 
+information management officers, and analysts. Being focused on facilitation, it is intended 
+to go hand-in-hand with the JIPS Joint Analysis Guide, which discusses how joint analysis can 
+be structured and planned as part of a displacement profiling process. The utility of certain 
+techniques, however, may extend beyond joint analysis to other aspects of profiling, joint needs 
+assessments or other collaborative data processes. 
+The technical brief is structured as follows: 
+Chapter 2: Defines what Joint Structured Analysis Techniques are and briefly discusses their 
+history, key benefits and challenges, and good practices based on our literature review. 
+Chapter 3: Introduces commonly used JSAT categories and associated techniques. 
+Chapter 4: Provides a brief guide to selecting JSAT techniques in view of a joint analysis 
+process, based on the task at hand and criteria. 
+Chapter 5: Describes each of the techniques that were previously introduced. 
+We hope that this technical brief will serve as a useful reference for all partners interested in the 
+facilitation of collaborative analytical processes.
+
+02
+WHAT ARE JOINT
+STRUCTURED
+ANALYSIS
+TECHNIQUES?
+2. What Are Joint Structured Analysis Techniques?
+
+10
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+What exactly are Joint Structured Analysis Techniques? Let’s look at the building blocks of the 
+concept: 
+Analysis 
+Varying definitions and levels of analysis exist. However, one overarching theme is that analysis 
+consists of a process of breaking down an issue into its key parts for further examination.4 
+Structured Analysis  
+As different types of issues or questions exist, there are many ways to structure analysis. 
+Determining the best structure for an issue to be approached is one of the first steps in its 
+analysis.5  
+Structured Analysis Techniques (SAT) 
+Techniques provide a step-by-step process to handle the different parts of an analytical issue.6 
+Just as we use physical tools like utensils to eat, techniques provide a "box of (mental) tools" 
+to help mitigate the adverse impact on analysis of one's cognitive limitations and pitfalls. 7 
+SATs allow us to externalise internal thoughts in a transparent and systematic way so that the 
+thought process may be examined, compared, and questioned by others.8 They are thus intended 
+to guide analytic thinking, and consequently increase objectivity and decrease analytic error.9  
+4 Krizan, 1999; Eaton et al., 2007; ACAPS, 2016.
+5 Heuer, 1999.
+6 Heuer & Pherson, 2011.
+7 Heuer, 1999.
+8 Pherson, 2013.
+9 ACAPS, 2016.
+
+11
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Joint Structured Analysis Techniques (JSAT)
+As SATs involve externalising one’s internal thoughts to share, discuss and critique, this implies 
+a collaborative effort to view an issue from different perspectives.10 Therefore, the use of SATs 
+often occurs in a joint process. Techniques provide structure not only to the individual thought 
+and analysis process – which may differ significantly from one person to the next – but also 
+to the interaction of those involved.11 This transparency of sharing thoughts allows for effective 
+communication at the working level, which is a necessity for collaboration.12  
+In fact, the main benefits of SATs come when performed both early in the analytic process and 
+jointly. In this way, participants with different types and levels of expertise learn of alternative 
+ideas, evidence or mental models (assumptions and expectations based on past experience).13 
+JSAT can thus help to avoid cognitive limitations, pitfalls, and groupthink as the structure guides 
+the group through the analytical process.14  
+History
+The concept of Structured Analysis Techniques dates back to the 1980s in the United States, 
+when an intelligence analyst started to write and teach about “alternative analysis”. In 2004, when 
+updating the CIA training program, this term no longer appeared appropriate to the intelligence 
+community, and in 2005 the name “structured analysis techniques” was approved.15 Following 
+serious intelligence failures in the early 2000s (i.e. World Trade Center attacks and Iraqi weapons 
+of mass destruction), the U.S. Intelligence Community turned to SATs to overcome cognitive 
+limitations, analytic pitfalls and mindset problems.16 As of 2011, the intelligence community had at 
+least 160 SATs at hand, and by 2017 SATs were a main feature of U.S. intelligence analysis training 
+programs.17 SATs have not only been taught and widely used in the intelligence community, but 
+also in academia, the private industry and business consulting.18 
+10 Duvenage, 2010; Pherson & Pherson, 2013; ACAPS, 2016.
+11 Johnston, 2000; Heuer & Pherson, 2011.
+12 Heuer & Pherson, 2011.
+13 US Government, 2009.
+14 Heuer & Pherson, 2011.
+15 Grunt, 2017.
+16 Ibid; PSU, 2014.
+17 Moore, 2011; Chang et al. 2017.
+18 Pherson & Pherson, 2013.
+
+12
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Collaboration
+Structured techniques have been referred to as “enablers of collaboration”. When facing complex 
+issues, the coordinated interaction of several minds using a structured analysis is typically more 
+effective than an individual’s thinking.19 Intelligence analysis, for example, has improved when 
+bringing together analysts with complementary expertise and different perspectives. 20 This 
+generally allows for divergent thinking to occur, opening minds to creative alternatives and thus 
+ensuring substantive analysis and problem solving.21  
+Small groups of eight or fewer individuals, as is typically the case for JSAT sessions, are 
+thought to be particularly conducive to improved analysis, especially when those involved are 
+encouraged to share different opinions, ideas and perspectives. When groups exceed this small 
+size, it has been found challenging to maintain trust between participants. The extent of sharing 
+in a collaborative context may also be impacted by the sensitivity of information. 
+In today’s increasingly virtual world, some posit that collaboration may be difficult when those 
+involved have not met in person. One part of this is in not being able to read body language. Others 
+argue, however, that this is less important with younger participants who are more accustomed 
+to virtual social networking.22  
+Benefits
+The benefits of using JSATs are manifold. Unlike traditional analysis, which often relies on 
+intuition, JSATs employ a systematic method that mitigates cognitive biases by rendering the 
+thought process more rigorous, consistent, transparent and ultimately objective.23 This has 
+been referred to as an “accountability mechanism”, with the use of JSATs resulting in a reduced 
+frequency and severity of error.24 Shifting the focus from the what to the how one thinks, has 
+been found to improve the quality of analysis while reducing the overconfidence that often arises 
+with human intuition.25 This in turn strengthens the credibility of analysis and helps to counter 
+potential pressure to politicise it.26  
+"Shifting the focus from the what to the how  one thinks, has 
+been found to improve the quality of analysis while reducing the 
+overconfidence that often arises with human intuition."
+19 Heuer & Pherson, 2011.
+20 National Research Council, 2011.
+21 Duvenage, 2010.
+22 Pherson & Pherson, 2013; Heuer & Pherson 2011.
+23 Abdalla, 2010; Chang et al. 2017.
+24 Pherson, 2013; Chang et al. 2017.
+25 Peterson, 2008.
+26 Duvenage, 2010; Pherson & Pherson, 2013.
+
+13
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+The process of using JSATs has also been found to depersonalise arguments when there are 
+differences of opinion. Communication is improved as it is guided through a step-by-step 
+process.27 This process typically saves time when used early on in projects with groups to 
+help build consensus, as it makes reasoning transparent and reduces the possibility of 
+misunderstanding later.28 It also helps those involved to better understand complex problems 
+and cope with information overload.29  
+Overall, JSATs are intended to help identify and overcome mental mindsets (assumptions and 
+expectations based on past experience), challenge key assumptions, stimulate creativity, generate 
+alternatives, manage uncertainties, and reduce the chance of surprise. 30 In this sense, JSATs 
+provide the toolbox to structure and facilitate a joint analysis process, such as in the context of 
+a profiling exercise or a joint needs assessment.31  
+Challenges
+While JSATs have many benefits, their use does not guarantee the “right answer” or accurate 
+analysis.32 Structured thinking is a considerable contrast to the habitual way the human mind 
+works – using simplified mental models of reality to solve problems mainly intuitively by trial and 
+error.33 While mental models are crucial for individuals to process information, they can result in 
+important or missing information to be overlooked, rejected or forgotten.34  
+"To be used effectively, JSATs depend on the analytic skills and 
+expertise of those using them. Analytical thinking is a skill that, 
+like driving, requires learning by doing, involving substantial 
+effort and hard work."
+Breaking this habit to form a new way of thinking has been cited as a significant challenge 35, 
+notably for those with more expertise and past success in using their mental models.36 Working 
+mental models must be challenged, refined, and challenged again when involved in interpreting 
+complex and ambiguous issues.37 
+27 Heuer & Pherson, 2011; Smart, 2011.
+28 Pherson, 2013.
+29 Chang et al., 2017.
+30 US Government, 2009; Directorate for Analysis, 2008; Pherson, 2005.
+31 JIPS, 2021.
+32 Abdalla, 2010.
+33 Heuer, 1999; Folker, 2000.
+34 US Government, 2009.
+35 Folker, 2000.
+36 US Government, 2009.
+37 Heuer, 1999.
+
+14
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+To be used effectively, JSATs depend on the analysis skills and expertise of those using them.38 
+Analytical thinking is a skill that, like driving, requires learning by doing, involving substantial 
+effort and hard work.39 Hence, while JSATs can save time later on, some have viewed them as 
+too time consuming to master and implement, particularly for projects with short deadlines.40  
+Good Practices 
+Further research is needed for a comprehensive understanding of best practices related to JSATs.41 
+Nevertheless, some key takeaways and good practices can be identified from our literature review: 
+1. There is no one-size-fits all approach to JSATs. Many techniques can be used in more 
+than one way, and each should be adapted to the issue at hand.42 Establishing a clear 
+goal is a prerequisite to deciding which technique(s) to use.43 
+2. As JSATs are typically used in complex or ambiguous situations, multiple techniques are 
+often needed to address each “piece [of the] puzzle”.44  Structured analysis has been 
+referred to as an art when it comes to knowing how to put these pieces together.45 The 
+appropriate use of several different techniques is intended to increase accuracy as it 
+distances intuitive reasoning and its accompanying pitfalls.46 
+3. As with driving a car or riding a bike, JSATs are best learned by doing.47 The regular 
+use of JSATs is needed to gain confidence in their application, and encouraging this 
+is important.48 Ideally those using JSATs would be trained in all different tools and 
+techniques to choose and apply the most appropriate ones.49  
+4. Lastly, mental models or cognitive biases must be identified and addressed early on. 
+Objective analysis requires making basic assumptions and reasoning explicit, followed by 
+having these challenged by others and re-examined by the individual.50 Periodically, it is 
+also important to recheck assumptions as situations change with time and assumptions 
+from the past may no longer be relevant.51  
+38 Artner et al., 2016.
+39 Heuer, 1999.
+40 Artner et al., 2016.
+41 Ibid.
+42 Heuer & Pherson, 2011.
+43 Stigall, 2012.
+44 Heuer & Pherson, 2011.
+45 Ibid.
+46 Peterson, 2008.
+47 Heuer, 1999.
+48 Abdalla, 2010.
+49 Duvenage, 2010.
+50 Heuer, 1999.
+51 Stigall, 2012.
+
+03
+CATEGORIES OF
+TECHNIQUES
+3. Categories of Technique
+
+16
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Structured analysis techniques have been categorised in different ways over time. For instance, 
+techniques have been organised based on their intended use, or how they help to overcome 
+cognitive limitations or pitfalls. Below are eight categories, or families, of techniques developed 
+by intelligence and SAT experts Richards Heuer and Randolph Pherson, organised by purpose 
+and main focus, and commonly referenced in the literature52:
+1. Decomposition and Visualisation: Analysis is complex, and typically only seven things 
+(plus or minus two) can be kept in working memory at once. Decomposition breaks 
+an issue down into its component parts, allowing each to be examined separately. 
+Visualisation organises all parts on paper or digitally to see how they interrelate. All 
+SATs use the techniques from this category to some extent to address the limitations of 
+the human mind. 
+2. Idea Generation: As the name suggests, these are techniques that involve creative 
+thinking to allow for the development of new ideas or combine old ideas in new 
+ways. This allows for imaginative thinking to occur whereby new insights and different 
+perspectives are developed. As with most structured techniques, these are particularly 
+effective when used in a collaborative group process. 
+3. Scenarios and Indicators: As people have a tendency to see what they expect, the 
+unanticipated is often overlooked. Techniques in this category prepare users to 
+recognise change. When working with uncertainty, it is important to identify drivers 
+that could change a situation and different potential scenarios or futures. Indicators 
+subsequently allow for monitoring of signs that a particular future is more or less likely to 
+occur. 
+4. Hypothesis Generation and Testing: Hypothesising about given information often 
+occurs subconsciously, and validation of hypotheses intuitively. These techniques help 
+users to explore a wider range of hypotheses, and thus consider different possibilities 
+and explanations. They help to prevent another phenomenon known as “satisficing” 
+or accepting the first good enough answer. Techniques allow evidence both for and 
+against all potential hypotheses, explanations, or outcomes to be identified, considered 
+and weighed. Focus is often on refuting rather than confirming hypotheses so that the 
+remaining hypothesis is robust enough for subsequent examination. 
+5. Assessment of Cause and Effect: Making assumptions about the cause and effect of 
+events or indicators can be a pitfall in analysis. In the context of lacking or ambiguous 
+information or disinformation, untested assumptions and conclusions are risky. These 
+techniques help to both refine and strengthen how current and future situations are 
+interpreted. 
+52 Heuer & Pherson, 2011; Heuer, 2009; PSU, 2014; ACAPS, 2016; Duvenage, 2010; Bearstone Global, 2020; 
+Pherson & Pherson, 2013; Grunt, 2017.
+
+17
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+6. Challenge Analysis: Mindsets or mental models are our assumptions and expectations 
+based on experience. These techniques challenge one’s thinking to allow for an issue 
+or question to be viewed from different perspectives. This reframing helps to identify 
+and assess new ideas, arguments, perspectives and evidence. The techniques can also be 
+useful for examining old ideas from an original point of view. 
+7. Conflict Management: When significant differences of opinion arise, these techniques 
+provide an effective means to resolve interpersonal analytic disagreements. 
+Techniques exist for situations in which those opposed are still open to a mutual 
+exchange, and for those in which an objective third party is needed. 
+8. Decision Support: These techniques are available to support and facilitate planning and 
+decision-making processes. They allow the user to view an issue from the decision-
+maker’s perspective. The techniques help to describe what factors are anticipated to 
+shape the decision, identify potential outcomes, and then pin down signs or indicators to 
+keep in mind as potential early warning of the direction events may take. 
+A list of these categories and their associated techniques53 are provided in table 1  in Chapter 4. 
+It is not exhaustive, but contains those techniques that may be most useful or relevant for joint 
+analysis processes in profiling or joint needs assessments. A description of each technique is 
+provided in Chapter 5.  
+53 Mainly from Heuer & Pherson, 2011.
+
+04
+ SELECTING
+TECHNIQUES FOR
+A JOINT ANALYSIS
+PROCESS
+4. Selecting Techniques for a Joint Analysis Process
+
+19
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+The selection of the most appropriate technique(s) will determine the accuracy and value of 
+resulting products or processes. The use of multiple techniques is typically needed for different 
+parts of a single project. For instance, different techniques can be used for coming up with 
+ideas, evaluating them, identifying assumptions, making conclusions, and challenging previous 
+conclusions.54 Some techniques can even be used more than once in the process to continue to 
+encourage open mindsets.55  
+How to know which technique to choose when it comes to a joint analysis process? How to 
+decide with JSAT to apply and when in a collaborative analysis undertaking? Experts from the 
+intelligence community, like Heuer and Pherson56, have provided guidance to help users choose 
+the most appropriate technique(s) based on the task at hand. Building on this work, we have 
+examined how this relates to the different steps in the joint analysis process as outlined in JIPS’ 
+Joint Analysis Guide (also see Figure 2, the joint analysis process).  
+Table 1 at pages 24 and 25 outlines nine tasks along with their associated category, techniques 
+and the three key steps of a joint analysis process. Tasks are diverse and range from defining 
+a project to ultimately providing decision support. 57 Several of the techniques, such as those 
+related to brainstorming and key assumptions, are versatile and applicable throughout or at 
+different points along the process. 
+As discussed earlier, SATs are generally most effective when used in a small group or team 
+rather than by an individual. The classification of JSATs along the analysis process emphasises 
+the importance of this, particularly for those that can be used for explanatory, interpretive, 
+anticipatory, and prescriptive types of analysis. It also provides an important conceptual framework 
+for contextualising and operationalising JSATs in the joint analysis phase of the profiling process.
+Five core techniques applicable across the analysis process
+Heuer and Pherson also identified ‘core techniques’ that all intelligence analysts starting out 
+should be trained in due to their frequent and broad applicability across the analysis process. 
+These include Structured Brainstorming, Cross-Impact Matrix, Indicators, Analysis of Competing 
+Hypotheses, Key Assumptions Check, and Structured Self-Critique.58  
+The Key Assumptions Check in particular is recommended for all major projects as assumptions 
+play an important role in analysis, especially for situations with many uncertainties 59. Figure 1 
+explains when each of the core techniques can be adopted at the initial stage of the analysis 
+process.
+54 Heuer & Pherson, 2011.
+55 University of Foreign Military and Cultural Studies, 2012.
+56 Heuer & Pherson, 2011.
+57 Ibid; US Government, 2009; International Association for Intelligence Education, 2010.
+58 Heuer & Pherson, 2011.
+59 Heuer, 2009.
+
+20
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+ 
+Start
+Outside-in
+Thinking
+Key
+Assumption
+Structured
+Brainstroming
+Contexualise the
+Project
+Focus on Important
+Factors
+Figure 1. Using core joint structured analysis techniques at the start of a collaborative analytical process60  
+At the start of a collaborative analytical process, the use of Structured Brainstorming and 
+Key Assumptions Check techniques are encouraged to avoid overlooking important factors. 
+To contextualise the project in broader terms outside of one’s expertise, Outside-In Thinking 
+is recommended. 
+Throughout the analysis, techniques like Indicators or Analysis of Competing Hypotheses  
+can be helpful, particularly with the acquisition and analysis of new information. The re-use of 
+Analysis of Competing Hypotheses, for instance, can prevent premature closure and underline 
+the most distinctive evidence for an analytic argument. Along with the development of hypotheses, 
+applying a challenge technique such as Structured Self-Critique is important to view the analysis 
+developed through a more critical lens. 
+In finalising the analysis, a Key Assumptions Check is useful to double check its underlying 
+logic. Structured Brainstorming can also be revisited to verify that no plausible hypothesis has 
+been overlooked. If a solid consensus has formed around an analysis and not been questioned 
+for a while in a serious manner, the Devil’s Advocacy technique can provide this service. In a final 
+review, ensuring identification of a list of key indicators for future developments can provide a 
+crucial guide to track these and monitor if conclusions reached are realised or need adjustment.   
+60 US Government, 2009.
+
+21
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Skills, training and time required
+It is important to note that not all techniques are equally demanding in terms of the skill level, 
+amount of training and time needed to apply them effectively. These variables are in fact 
+closely linked and it is critical to consider all three of them when choosing a SAT.61 For instance, 
+a technique that is simpler will require less skill, training and time to employ. 
+Annex I  provides an overview of the structured analysis techniques in light of the skills, training 
+and time they each require. Each variable is classified as low, moderate, high, or a combination 
+thereof. SATs that are classified as ‘high’ typically require a substantial investment in time, 
+training, analytical resources and funds. Experienced facilitators and conferencing facilities may 
+also be needed depending on the nature of the SAT.62 For each technique, additional information 
+is provided regarding data prerequisites, the most suitable number of participants, the process 
+and the methods. 
+For instance, those in the categories of Decomposition and Visualisation, Idea Generation, 
+and Decision Support generally involve a low to moderate amount of skill, training and time. 
+Hypothesis Generation and Testing, Challenge Analysis, and Conflict Management on the other 
+hand, require more of a moderate to high commitment of resources. The remaining categories 
+of techniques fall somewhere in between. 
+As mentioned earlier, these classifications are dependent on the complexity of the issue at hand 
+as well. It should also be noted that while some SATs require more resources, they may save 
+time in the long run (e.g. Analysis of Competing Hypotheses) as they help to avoid analytical 
+pitfalls later on in the process.63 In addition, the indicated time and training required will decrease 
+as facilitators gain experience and expertise in effectively employing the different SATs in the 
+humanitarian and development field.64 To accelerate the learning process, the CIA for instance 
+has used “tradecraft cells” or small groups of analysts whose job was to help less experienced 
+analysts choose the most appropriate techniques, guide the use of them, and facilitate group 
+processes.65   
+61 Heuer & Pherson, 2011; Folker, 2000.
+62 US Government, 2009.
+63 Pherson, 2013.
+64 Heuer & Pherson, 2011.
+65 Heuer, 2009.
+
+22
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Varying levels or phases of analysis exist and are succinctly illustrated by the Assessment 
+Capacities Project (ACAPS)’ Analysis Spectrum.66 Analysis along this spectrum ranges from 
+exploratory (what exists on a topic of interest), to descriptive, explanatory, interpretive, anticipatory 
+and prescriptive. The spectrum starts with more individual analysis that is data-driven using 
+a reactive approach, and ends with more shared (or joint) analysis that is concept-driven and 
+proactive. It also moves from hindsight to insight, to foresight-focused types of analysis.67  
+ 
+2. In-depth
+analysis
+1. Preliminary
+analysis
+We describe patterns,
+distributions and trends in
+the data to produce
+a preliminary analysis.
+Who is involved?
+A small team of analysts.
+Outputs
+The preliminary ﬁndings are
+documented in a report.
+The preliminary analysis is jointly
+contextualised, and validated
+with stakeholders.
+Action and response oriented
+recommendations are jointly drafted,
+endorsed and disseminated.
+Stakeholders: affected communities, government, humanitarian and
+development actors, civil society organizations and others when relevant.
+We contextualise the
+preliminary analysis with
+the expertise of partners
+and communities.
+We develop recommendations
+for the concrete use of the
+results in policies, programmes
+and interventions.
+3. Actionable
+recommendations
+Figure 2. The three key steps of the joint analysis process
+The JIPS Joint Analysis Guide defines Joint Analysis as a collaborative process during which 
+partners with complementary areas of expertise and responsibilities collectively make sense 
+of information from a given context, following an agreed-upon methodology. The purpose of 
+this approach is to transform information into actionable findings to support decision-making.
+The Guide describes three key steps in a joint analysis process: 
+1. Preliminary analysis (→ Descriptive Analysis): What do we see in the data?
+2. In-depth analysis (→ Explanatory & Interpretive Analysis): Why do we see what we see?
+3. Recommendations (→ Anticipatory & Prescriptive Analysis): So, what now?   
+66 ACAPS, 2020.
+67 ACAPS, 2020; Krizan, 1999.
+
+23
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Relationships between techniques
+Other considerations include the relationships between techniques. In many cases, techniques 
+complement or use one another, thus “mutually reinforcing” each other. For instance, Mind Maps 
+and Concept Maps can be used to visualise the results from many other techniques, particularly 
+the different types of Brainstorming and Cross-Impact Analysis techniques. While not exhaustive, 
+Annex II  indicates some of the interrelations between techniques. An explanation can be found 
+in the technique description in Chapter 5. The linkages between JSAT categories and techniques 
+have also been mapped more extensively by experts.68  
+There are numerous ways to implement techniques, and some experts avoid using one technique 
+twice in the same way. Experience in using techniques allows for them to be adjusted well to 
+the issue at hand.69 
+68 Heuer & Pherson, 2011; Gay et al., 2012.
+69 Heuer & Pherson, 2011.
+
+24
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+TASKS
+1: Define the Project
+2: Get Started
+3: Examine & make sense of the data
+4: Explain Recent Events
+5: Foresee the Future
+6: Challenge your mindset
+7: See from another perspective
+8: Manage Conflicting Mindsets
+9: Support Decision on Different Options
+CATEGORY TECHNIQUE 1 2 3 4 5 6 7 8 9
+PRELIMINARY ANALYSIS
+IN-DEPTH ANALYSIS
+Decomposition & visualisation
+Getting Started 
+Checklist
+Customer 
+Checklist
+Issue Redefinition
+Chronologies & 
+Timelines
+Sorting
+Ranking, Scoring, 
+Prioritising
+Matrices
+Network Analysis
+Mind Maps & 
+Concept Maps
+RECOMMENDATIONS
+Idea Generation
+Structured 
+Brainstorming
+Virtual 
+Brainstorming
+Nominal Group 
+Technique
+Starbursting
+Cross-Impact 
+Matrix
+Scenarios & 
+Indicators
+Simple Scenarios
+Alternative 
+Futures Analysis
+Multiple 
+Scenarios 
+Generation
+Indicators
+Indicators 
+Validator
+
+25
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+TASKS
+1: Define the Project
+2: Get Started
+3: Examine & make sense of the data
+4: Explain Recent Events
+5: Foresee the Future
+6: Challenge your mindset
+7: See from another perspective
+8: Manage Conflicting Mindsets
+9: Support Decision on Different Options
+CATEGORY TECHNIQUE 1 2 3 4 5 6 7 8 9
+IN-DEPTH ANALYSIS
+RECOMMENDATIONS
+Hypothesis Generation & 
+Testing
+Simple 
+Hypotheses
+Multiple 
+Hypotheses 
+Generator
+Diagnostic 
+Reasoning
+Analysis of 
+Competing 
+Hypotheses
+Argument 
+Mapping
+Six Thinking Hats
+Assessment 
+of Cause & 
+Effect
+Key Assumptions 
+Check
+Role Playing
+Outside-In 
+Thinking
+Fishbone Analysis
+Challenge 
+Analysis
+Structured 
+Self-Critique
+Devil's Advocacy
+Delphi Method
+Conflict 
+Management
+Adversarial 
+Collaboration
+Decision 
+Support
+Force Field 
+Analysis
+Pros-Cons-
+Faults-and-Fixes
+SWOT Analysis
+Table 1. Nine tasks associated with their category, techniques, tasks and the three key steps of the joint analysis 
+process.
+
+05
+DESCRIPTION
+OF TECHNIQUES
+5. Description of Techniques
+
+27
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Decomposition & Visualisation
+ Getting Started Checklist   
+As the name suggests, this technique is useful when starting a project. It provides an opportunity 
+to reflect on important aspects of the project, allowing for time to be saved in the long run and the 
+quality of the final output to be enhanced. Heuer and Pherson provide a suggested list of starter 
+questions to begin the process. Examples include: 
+1. “What prompted the need for analysis?” 
+2. “What is the key question to be answered?” 
+3. "Why is this issue important, and how can analysis make a meaningful contribution?”.70  
+  Customer Checklist 
+The Customer Checklist is used to shape an output according to the end user’s or “customer’s” 
+needs to ensure its relevance and value. If there are multiple end users, the requirements of the 
+main audience should be addressed. The needs and preferences of the end user/main audience 
+should be taken into account throughout the process. Heuer and Pherson propose a list of user or 
+customer-focused questions to include in the checklist. For instance: 
+1. “Who is the key person for whom the product is being developed?” 
+2. “Will this product answer the question the customer asked or the question the customer should 
+be asking?” 
+3. “What is the most important message to give this customer?”.71
+ Issue Redefinition 
+Issue Redefinition is a technique for exploring the various ways in which an issue can be defined. 
+An issue statement is typically how many analytic projects begin. This technique is thus effective at 
+the start of a project as issue definition will substantially influence its subsequent direction. It is also 
+useful to employ later when a new hypothesis or important new evidence appears. Alternatively, if 
+the analysis feels stuck or has veered off track from the original issue definition, Issue Redefinition 
+can help as well. Intelligence experts identify several strategies for issue redefinition including: 
+• rephrasing 
+• asking why
+• turning (the issue) 180 degrees 
+• broadening
+• narrowing
+• redirecting the focus
+As with most techniques, Issue Redefinition is most effective when employed in a collaborative 
+manner, in this case to develop and track the definition process with a sharable modality such as 
+a wiki format. 
+It is often used with the Getting Started Checklist and the Customer Checklist.72 
+70 Ibid.
+71 Ibid.
+72 Ibid; University of Foreign Military and Cultural Studies, 2012.
+
+28
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+ Chronologies & Timelines 
+Chronologies and timelines allow for data on significant events or actions to be organised and 
+visualised in chronological order. This is useful for identifying patterns, correlations, developing 
+issues, anomalies, information gaps, and/or key events. Chronologies and timelines are typically 
+used at the start of a project to contextualise an issue. 
+The technique is simple whereby an Excel spreadsheet or a Word document can be used to keep 
+track of and organise new information by date or order in which it occurred. Heuer and Pherson 
+provide a series of questions and suggestions to guide the subsequent analysis of the chronology 
+or timeline. For example: “Look for relationships and patterns in the data connecting persons, 
+places, organizations, and other activities. Identify gaps or unexplained time periods, and consider 
+the implications of the absence of evidence ” 73.
+  Sorting
+This is a simple technique to organise data in a way that may provide new understanding. It is 
+particularly suitable when information needs to be disaggregated into categories or subcategories 
+and compared. Similarities, differences, trends or abnormalities that may otherwise be overlooked 
+are thus examined. This technique is especially useful during initial data collection and hypothesis 
+creation. It can be done in an Excel spreadsheet or database, following a series of steps. These 
+include reviewing the data to discern categories, grouping associated items into the categories, 
+sorting and analysing the data within them, and lastly a final review to see if other ways of sorting 
+exist. Note, it is important that sorted data be standardised.74  
+  Ranking, Scoring, Prioritising
+Ranking, Scoring, and Prioritising consists of methods that can be applied to lists to identify factors 
+like value, importance, priority, probability, and more. Ranking is useful when a list contains too many 
+elements to decipher at a glance, or to aggregate opinions on ranking from a group. It is typically 
+used after an Idea Generation activity such as Structured Brainstorming, Virtual Brainstorming 
+or the Nominal Group Technique. 
+Ranked Voting is the most simple and fastest ranking method and typically suffices. Participants in 
+a group first individually rank each item according to their preference or opinion of its importance. 
+The votes are then tallied, with the lowest ranking item designated number one. Ranked Voting is 
+accurate for the top two or three ranked items, but less so for lower-ranked ones. It indicates how 
+items are ranked in relation to one another (higher or lower), but not to what extent. 
+Paired Comparison is another way of ranking, whereby all items are compared with each other and 
+assigned a score indicating the relative importance, preferability or probability of one versus another. 
+It thus goes a step beyond simple ranking to indicate the “degree of importance or preference for 
+each item”. Weighted Ranking provides further information by applying a set of criteria to rank 
+items and assigning weights for each item in a list.75  
+It can be used after Brainstorming SATs.
+73 Heuer & Pherson, 2011; Duvenage, 2010.
+74 Heuer & Pherson, 2011.
+75 Ibid.
+Decomposition & Visualisation
+
+29
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+  Matrices
+Matrices are analytic tools used to sort and organise data for analysis and comparison. They allow 
+for complex data to be broken down into its component parts and to be visualised. As such, each 
+element can be examined separately within the general context of the issue at hand. Matrices are 
+also useful for creating analytic frameworks to understand an issue, providing more structure to 
+explain a situation.
+A matrix is a flexible and easy tool composed of a simple grid with cells. All matrices have enough 
+rows and columns for two sets of data to be entered and compared. 
+SATs that use matrices include Analysis of Competing Hypotheses, Cross-Impact Matrix, and 
+Ranking, Scoring, and Prioritising, among others.76 
+  Network Analysis
+Network Analysis consists of reviewing, compiling and interpreting data to understand the 
+relationships or links that exist between individuals, groups, or others. It also examines what these 
+connections mean to those involved, and the extent to which such links may be strengthened or 
+weakened. As such it assists in both understanding and seeing opportunities to influence actors. 
+Network Analysis can be divided into three stages: 
+1. Network charting (or link charting): identifying people, groups, events or things (nodes) and 
+connecting them with lines (links) based on different kinds of association
+2. Network analysis: structuring the chart by grouping relationships (sorting) and looking for 
+patterns within and between groups
+3. Social network analysis: deriving additional information from the chart, particularly by 
+mathematically measuring variables related to the distance between nodes and kinds of 
+relationships to understand the extent and kind of impact the nodes have on each other
+Depending on the issue at hand, either one or all three stages may be appropriate.77  
+  Mind Maps & Concept Maps
+Mind maps and concept maps illustrate visually an individual or group’s thinking about a given 
+topic. They are diagrams that show both ideas perceived to be relevant to the topic and connections 
+(lines) between the ideas. These techniques start with a focal question and then follow a series 
+of steps. Mind maps and concept maps can be used for many purposes including analysis and 
+decision-making. Advantages include facilitation of thinking, a shared understanding of fundamental 
+concepts, and communication of complex relationships. 
+The size and complexity of both types of maps can vary considerably as a result of why and how 
+they are used. Although they provide a simplified version of reality, mind maps and concept maps 
+provide an overview of relevant variables for a topic and their interrelations, thus providing a 
+solid basis for determining next steps. Experts cite the process of making these maps as the main 
+value rather than the maps themselves as new ideas spring forth, concepts are clarified, pertinent 
+knowledge is identified, and differences of opinion are resolved. 
+Mind Maps and Concept Maps can be used as visualisations of results obtained through other 
+techniques, such as Cross-Impact Matrix and Brainstorming SATs.78  
+76 Heuer & Pherson, 2011; Duvenage, 2010.
+77 Heuer & Pherson, 2011.
+78 Heuer & Pherson, 2011; Duvenage, 2010.
+Decomposition & Visualisation
+
+30
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+  Structured Brainstorming
+Structured Brainstorming is typically used at the start of a project in a small group to discuss 
+pertinent information or insights. It can be used to identify and make a list of relevant variables, 
+driving forces, important stakeholders, a comprehensive range of hypotheses, available sources 
+of information, possible solutions to a problem, potential scenarios or outcomes and more.79  
+Structured Brainstorming can also be useful at critical points of a project to encourage new thinking. 
+Due to its extensive nature, it is applicable to nearly all other SATs. The structured brainstorming 
+process consists of a divergent thinking phase to come up with and gather new insights and ideas, 
+followed by a convergent thinking phase to group and organise ideas around key concepts80 For 
+this to be most effective, it is important the issue under discussion be clearly identified, an objective 
+set, and a list of relevant outcomes recorded.81  
+It is useful to follow Structured Brainstorming with a Cross-Impact Analysis to take a closer look 
+at the relationship between variables, stakeholders, or other elements identified.82  
+  Virtual Brainstorming
+Virtual Brainstorming is different from Structured Brainstorming in that it occurs online with 
+participants in different geographic locations or who are not able to meet in person. The technique 
+can take a synchronous or an asynchronous form. A synchronous virtual brainstorming session 
+involves all participants at the same time, and thus allows for a similar synergy as that of Structured 
+Brainstorming with reacting to and building upon ideas in real time. 
+An asynchronous virtual brainstorming session allows participants to provide their input and read 
+that of others in their own time. In this way, the participant’s full attention can be focused on their 
+ideas and reviewing those of others. When this occurs over two or three days, participants can 
+revisit all inputs with a fresh mind, which is typically conducive to coming up with additional ideas. 
+Whether it is synchronous or asynchronous, Virtual Brainstorming also allows for participants to 
+contribute their ideas anonymously. This may be preferred to add objectivity to the process where 
+hierarchy or status would otherwise impact participants’ thinking.83
+  Nominal Group Technique
+The Nominal Group Technique offers an alternative to Structured Brainstorming when there is 
+concern that more experienced or outspoken participants may dominate the session. It is also 
+useful when there is concern that some participants may not contribute to the discussion, or if 
+the issue at hand is controversial and may lead to a heated exchange. 
+Like structured brainstorming, the Nominal Group Technique is a process that facilitates coming up 
+with and evaluating ideas. As opposed to opening the floor for ideas to be shared freely, however, it 
+employs a round-robin approach in which ideas are presented one at a time in an iterative process 
+until all ideas have been exhausted. A facilitated group discussion then follows.84  
+79 Heuer & Pherson, 2011.
+80 US Government, 2009.
+81 McDowell, 2009.
+82 Heuer & Pherson, 2011.
+83 Ibid.
+84 Ibid.
+Idea Generation
+
+31
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+  Starbursting 
+Starbursting is a type of brainstorming that generates questions instead of ideas or answers. It 
+is typically used to help define a project after a topic or issue is chosen for analysis. The following 
+six questions are posed: 
+Who? When? What? Where? Why? and How? 
+A Starburst diagram is then created in the form of a star, with each question placed at one of 
+its points. Participants try to come up with as many questions as possible related to each point. 
+These are then prioritised for answering or sorted into logical categories. 
+The Ranking, Scoring, Prioritising technique can help to prioritise questions to address. Starbursting 
+can also be combined well with the Getting Started Checklist and Issue Redefinition techniques. 
+It is closely related to Cause and Effect Assessment as well.85  
+  Cross-Impact Matrix
+The Cross-Impact Matrix is the logical next step to brainstorming that identifies a list of pertinent 
+variables, driving forces, or key stakeholders. It can help a group to visualise and subsequently 
+discuss how these are related. Cross-Impact Matrix is a useful technique early in a project to 
+address complex issues when there are many interrelations. Participants systematically look at 
+how each element of a given context influences others it seems related to. 
+This approach requires all assumptions about relationships to be clearly communicated. Depending 
+on the project, a discussion of relationships between variables may suffice, or recording variables 
+and their interactions in a matrix may be necessary. In addition to identifying relationships and 
+their direction, a cross-impact matrix is particularly useful for illustrating important interactions 
+between variables that may have previously gone unnoticed, or combinations of variables that can 
+reinforce one another. Discussions that come from using this technique may be further developed 
+with a mind map or concept map of the relationships.86  
+85 Heuer & Pherson, 2011.
+86 Ibid.
+Idea Generation
+
+32
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+   Simple Scenarios 
+As with scenario analysis in general, Simple Scenarios look at the different ways a situation could 
+evolve to decrease uncertainty and manage risk. It is best for complex situations or when it is not 
+possible to trust only one prediction due to significant uncertainty. The technique is quick and 
+easy, and can be used by an individual, although it is recommended to be used in a group as with 
+most SATs. 
+Simple Scenarios identify drivers, forces and events that will likely influence the future, and 
+groups them together into at least four plausible scenarios – best case, worst case, baseline and an 
+additional one. The implications of each scenario are then specified, and a list of indicators for each 
+is produced to help monitor and understand which scenario may be unfolding. Scenario analysis 
+in general can be followed by generating a cross-impact matrix to identify and analyse possible 
+interactions or “feedback loops” between each scenario’s different driving forces.87  
+   Alternative Futures Analysis & 
+    Multiple Scenarios Generation 
+Alternative Futures Analysis and Multiple Scenarios Generation take the same approach to scenario 
+analysis, only differing in the number of scenarios analysed. As opposed to Simple Scenarios, both 
+are appropriate for larger projects that need a group of experts (typically decision-makers and 
+academics), and employ a more systematic process for which a trained facilitator is recommended. 
+Alternative Futures Analysis utilises two driving forces with two extremes, which are combined 
+to create four possible scenarios. A narrative is developed for each scenario, along with indicators 
+that are subsequently monitored. Multiple Scenarios Generation has no limitations on the number 
+of scenarios, aside from the time available and complexity.88  
+  Indicators  
+Indicators are observable, or possibly observable, events or actions that can be used as an objective 
+baseline to detect, monitor or assess change over time. They are often used with scenarios to 
+identify which possible scenario is evolving. Their added value thus comes in preparing the user to 
+recognise signs of change that would otherwise go unnoticed. They can also help to “depersonalise” 
+arguments by moving attention to an objective set of criteria. Indicators are listed in detail for each 
+scenario or hypothesis to help open minds to the different possibilities. They are then monitored 
+regularly to detect signs of change. 
+Indicators often use some type of brainstorming to elicit diverse expert thought in creating them. 
+They are also used in scenario analysis and as evidence in Analysis of Competing Hypotheses.89 
+  Indicators Validator
+Indicators Validator is the logical next step to the Indicators technique. Indicators are rated 
+according to their likelihood of occurrence. Indicators that are the least likely are removed, and 
+the analyst may develop new and more feasible indicators or scenarios. 
+This is particularly important to employ after indicators are developed for scenarios or competing 
+hypothesis analyses.90 
+87 Heuer & Pherson; 2011, Duvenage, 2010.
+88 Heuer & Pherson; 2011, Duvenage, 2010.
+89 Heuer & Pherson, 2011; US Government, 2009.
+90 Heuer & Pherson, 2011.
+Scenarios & Indicators
+
+33
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+  Simple Hypotheses
+A hypothesis is a plausible explanation or conclusion to be tested by gathering and presenting evidence. 
+It is an “educated guess” based on data, understanding and speculation, that is formulated into a 
+declarative statement. Development of hypotheses is useful when the issue at hand necessitates 
+a systematic analysis of all alternatives, several variables are part of the analysis, users have 
+competing perspectives, or uncertainty about the outcome exists. 
+Simple Hypotheses starts by defining the issue and determining how hypotheses will be used at 
+the start of a project – in hypothesis testing, as a foundation for developing scenarios, or a way 
+to choose from a large range of alternative outcomes that require close consideration. A diverse 
+group comes together to review available information and propose hypotheses. 
+Several other types of techniques can be used to generate hypotheses, including Structured  
+Brainstorming, Starbursting, Scenario Analysis (to follow), and the Delphi Method.91 
+  Multiple Hypotheses Generator 
+Multiple Hypotheses Generator is a structured technique for when many factors are at play in an 
+analysis and a high level of uncertainty exists regarding the outcome, or those making decisions 
+have competing perspectives. It begins by generating as many hypotheses as possible, followed by 
+rating these according to their credibility, and listing the most important for additional examination. 
+This technique can provide more confidence than others that an important alternative or outlier 
+has not been missed.92  
+  Diagnostic Reasoning
+Diagnostic Reasoning is a useful technique when examining a new development in a situation 
+of interest, or the reliability or importance of new information. It helps the user avoid making a 
+quick intuitive judgement in their assessment. Therefore, the user must examine whether the new 
+information is consistent with other logical conclusions or alternative hypotheses. This technique 
+involves a process whereby the user(s) attempts to refute alternative conclusions instead of 
+confirming what is already thought to be true. A series of steps can be followed to guide this process. 
+Diagnostic Reasoning is useful to apply to other SATs, particularly Indicators Validator and Analysis 
+of Competing Hypotheses.93 
+91 Heuer & Pherson, 2011; Heuer, 1999; McDowell, 2009.
+92 Heuer & Pherson, 2011; Duvenage, 2010.
+93 Heuer & Pherson, 2011.
+Hypothesis Generation & Testing
+
+34
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+  Analysis of Competing Hypotheses
+Analysis of Competing Hypotheses  is used to help make judgements about issues for which 
+alternative hypotheses, explanations or estimates need to be weighed. Essentially, it helps users 
+to consider all possibilities to determine the best solution instead of choosing the first solution 
+that appears satisfactory. The technique is particularly effective when a large amount of data must 
+be taken into account and evaluated. A matrix is created for these alternatives and evidence is 
+provided for each to analyse the weight. Hypotheses are compared to each other, along with each 
+piece of evidence, instead of assessing their plausibility separately. Ultimately, the best hypothesis 
+is the one with the least evidence against it, rather than the most evidence for it. 
+Although it can be used by an individual, Analysis of Competing Hypotheses is most effective when 
+used in a small team with participants who can challenge one another’s assessment of the evidence. 
+If being used for the first time a facilitator is helpful to lead participants through the process. 
+The technique is often used with Structured Brainstorming, Nominal Group, Hypothesis Generator, 
+and the Delphi Method, which can identify hypotheses or evidence to be used in the Analysis of 
+Competing Hypotheses or to assess the evidence’s importance. Diagnostic Reasoning is part of 
+the technique, and Indicators are identified for tracking future developments.94 
+  Argument Mapping
+Argument Mapping is complementary and ideally used together with Analysis of Competing 
+Hypotheses, although it can also be used separately. It is different from the latter in that it aims 
+to test a single hypothesis or initial analytic judgement with logical reasoning (as opposed to a 
+more general analysis of several hypotheses). It allows an analyst to test one’s own reasoning 
+when making a judgement that is intuitive. Thinking is clarified and organised with a visual map 
+(box-and-arrow diagram) showing the reasoning along with evidence for and against it, to distill  
+the strengths, weaknesses and gaps in the argument. This is helpful not only for thinking about a 
+complex issue but also provides a guide for presenting the rationale and conclusions to others.95  
+  Six Thinking Hats 
+Six Thinking Hats involves a “parallel thinking process” to examine a hypothesis, idea or data 
+from different perspectives. Six roles and/or coloured hats are assigned to participants as follows: 
+Facilitator Neutral Emotional Creative Optimist Pessimist
+Participants may only think in the way their hat prescribes. Ideas are discussed from each 
+perspective, and hats are then changed until everyone has worn all six. The benefits and limitations 
+of each point of view are thus communicated and acknowledged by all. This helps to overcome 
+assumptions and biases, as well as to generate new ideas to adapt plans with new information 
+taken into consideration.96 
+94 Heuer & Pherson, 2011; ACAPS, 2016; Duvenage, 2010; US Government, 2009.
+95 Heuer & Pherson, 2011; Duvenage, 2010.
+96 ACAPS, 2016; Eaton et al., 2007.
+Hypothesis Generation & Testing
+
+35
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+  Key Assumptions Check 
+Key Assumptions Check is used to investigate assumptions (mental models) based on situational 
+logic, expert judgement and understanding of similar situations. The most significant working 
+assumptions of an analysis are listed explicitly and questioned to then guide interpretation of 
+evidence and reasoning for an issue. This is done in a group, whereby all possible assumptions are 
+first listed, then questioned, categorised (i.e. solid, correct with some caveats, or unsupported/
+questionable), filtered (last category removed), and the remaining refined. 
+This technique has been cited as most useful at the start of an analytic project (an individual or 
+team spends an hour or two with it). However, rechecking assumptions is valuable at any other 
+stage of the project as a quality control before reaching conclusions. 
+Key Assumptions Check is often paired with and applicable to all other SATs, particularly Analysis 
+of Competing Hypotheses as “evidence” in such a matrix.97 
+  Role Playing 
+This involves assigning participants roles according to the subject of the analysis. Responses are 
+then played out accordingly. Generally, the scenario is the same as the current situation with a real 
+or hypothetical new development thrown in for response. This technique is commonly used to better 
+understand what may happen with interactions between two or more people or organisations. In this 
+way, participants can also view the issue from a different perspective or context. New information 
+and insights are consequently gained.98  
+  Outside-In Thinking
+Outside-In Thinking entails identifying all factors, trends and basic forces that could impact an issue 
+indirectly.  It is most helpful in conceptualising an analytic project whose aim is to identify critical 
+external factors that could impact the development of a situation. Participants explore all variables 
+from global, political, social, legal, environmental, economic, and technological perspectives. As 
+most people focus on factors familiar to them within their field, or think from the inside-out, this 
+technique requires participants to broaden their perspective and reflection on issues to a larger 
+contextual and conceptual framework. In this way, they may discover other factors, significant 
+dynamics, or a pertinent alternative hypothesis. This also leads to new information gaps and 
+hypotheses to be further examined.99  
+97 Heuer & Pherson, 2011; Duvenage, 2010; US Government, 2009.
+98 Heuer & Pherson, 2011.
+99 Heuer & Pherson, 2011; Duvenage, 2010; US Government, 2009.
+Assessment of Cause & Effect
+
+36
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+  Fishbone Analysis 
+Fishbone Analysis is a technique employed to demonstrate cause and effect. It identifies and 
+subsequently explores the factors surrounding a given issue. The issue to be examined is described 
+on the right side of a diagram and forms the fish head. Major bones of the fish are then created and 
+represent the main information categories for the issue at hand. These form the analysis framework 
+and may consist of people, methods, policies, etc. Minor bones are then added to the major bones 
+to indicate contributing issues for each information category. By breaking down an issue in this 
+way, this technique is meant to identify the causes of a problem in order to recommend potential 
+solutions. 
+SATs like Structured Brainstorming and the Nominal Group can also be used to help come up with 
+ideas for solutions.100 
+100 Prunckun, 2015
+Assessment of Cause & Effect
+
+37
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+  Structured Self-Critique
+Structured Self-Critique is a technique for groups to identify weaknesses in their analysis and 
+subsequently reframe the issue. This occurs prior to sharing an analysis with outsiders and helps 
+to instill analytic rigor. Participants take on a critical perspective and respond to a list of questions 
+regarding the analytical processes employed, important assumptions, sources of uncertainty, 
+information gaps, and more. A review of the responses then occurs, and together participants 
+reassess overall confidence in their own judgement. The analysis may consequently be modified 
+if needed. Structured Self-Critique serves both as an analytic quality control and a way to resolve 
+conflicting opinions. This technique has also been noted as more impactful than a similar one of 
+Devil’s Advocacy as it requires an entire group or team to play the critic.101  
+  Devil’s Advocacy
+Devil’s Advocacy is used to challenge a key assumption or analytic consensus concerning a 
+crucial question or a proposed analytic judgement, plan or decision. It therefore serves as a check 
+on a prevailing mindset, to make sure consideration of alternative solutions takes place. This 
+technique is employed by an individual who was not involved in the earlier analytic processes. The 
+individual critiques the analysis, identifying among other factors its faults and potential impact 
+for decision-making.102   
+  Delphi Method
+The Delphi Method uses a consensus methodology whereby experts with different levels and 
+types of experience separately provide their input (ideas, judgements or forecasts) on a given 
+issue. Once this information is collected, participants receive feedback about overall judgements 
+from the group on an anonymous basis and may modify their previous responses. A second round 
+then occurs with questions building on the first round’s results, and expert input is provided again. 
+This iterative review and response process continues until some type of agreement is reached. 
+The Delphi Method is designed to take place within a controlled system. Experts often participate 
+remotely to avert emotional and dynamic interactions resulting from personal contact. While 
+applicable to many situations, the technique is particularly useful when the issue at hand is 
+complex and information is limited. Due to its iterative and dispersed nature, it requires a significant 
+investment of both time and effort.103  
+It is used to generate Simple Hypoteses alongside Ranking, Scoring and prioritising, and Virtual 
+Brainstorming.
+101 Heuer & Pherson, 2011; Duvenage, 2010.
+102 Heuer & Pherson, 2011; Duvenage, 2010; US Government, 2009.
+103 McDowell, 2009; Heuer & Pherson, 2011; IPC, 2015.
+Challenge Analysis
+
+38
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+  Adversarial Collaboration
+Adversarial Collaboration is essentially an agreement between opposing groups on how they will 
+work together to better understand and resolve differences, or collaborate on a joint product that 
+explains these differences. Participants are tasked to understand the assumptions or evidence 
+behind opposing opinions and explore how to best address them. An open mind to consider and 
+discuss an issue is required on both sides for this to take place. 
+The following techniques can be used to help reach agreement: 
+1. Key Assumptions Check; 
+2. Analysis of Competing Hypotheses; 
+3. Argument Mapping; 
+4. Mutual Understanding; 
+5. Joint Escalation; 
+6. The Nosenko Approach. 
+The first three techniques have been described previously. Mutual Understanding involves a 
+meeting of both sides with a facilitator, moderator or decision-maker. Both are required to describe 
+the other’s perspective accurately, and then discuss their differences in a more rational and less 
+emotional manner. Joint Escalation requires participants to prepare a joint statement about the 
+disagreement and present it together to their superiors, thus discouraging the escalation that 
+can arise when this is done separately. The Nosenko Approach is typically applied to an analytic 
+controversy that is long-standing. Its main rule is that issues that are important to both sides must 
+be seriously considered by all.104   
+104 Heuer & Pherson, 2011; Duvenage, 2010.
+Conflict Management
+
+39
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+  Force Field Analysis
+Force Field Analysis is a simple technique whereby all forces for and against a change, issue, 
+or goal are listed and evaluated. This technique measures the relative strength of both types of 
+forces. It is based on the theory that driving forces must surpass obstructing forces for change to 
+happen. It allows for the issue at hand to be closely examined with many elements considered that 
+may otherwise have been overlooked. After defining the issue and identifying the key influencing 
+forces, a list of driving and restraining forces is made, weights are applied and totalled, the 
+difference is assessed, and finally a corresponding action plan developed. Force Field Analysis is 
+typically used at the start of a project with data collection, issue definition, or the development 
+of recommendations for action.105  
+  Pros-Cons-Faults-and-Fixes
+Pros-Cons-Faults-and-Fixes is an easy technique for quickly assessing a new idea or a systematic 
+analysis of a choice between two options. Parts of an issue are organised both logically and 
+objectively to aid the decision-maker. As the name indicates, a list of pros and cons is developed, 
+reviewed, and consolidated. If there is overwhelming acceptance of the pros, then the faults of 
+these are examined. Similarly, if the cons are regarded as more prevalent, the next step is to look 
+for fixes. Ultimately this technique is intended to ensure careful consideration of all aspects of a 
+new idea or analysis and prevent any rush to conclusions.106 
+  SWOT Analysis
+SWOT Analysis is a simple technique that is frequently used in projects or plans to assess strengths, 
+weaknesses, opportunities, and threats (SWOT). It is useful to incorporate after developing an 
+objective or goal, as a framework to gather and organise information in support of planning and 
+decision-making to achieve this. Strengths and weaknesses are linked to the plan or project (inside 
+environment), while opportunities and threats are from the outside environment. Although simple, 
+SWOT Analysis provides a useful foundation for more analysis and often indicates specific actions 
+that may be taken.107 
+105 Heuer & Pherson, 2011.
+106 Heuer & Pherson, 2011; Duvenage, 2010.
+107 Ibid.
+Decision Support
+
+40
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+CONCLUSION  
+This technical brief has outlined the meaning, types, selection and use of Joint Structured 
+Analysis Techniques. Though not a panacea, JSATs are of great value in guiding analytic thinking 
+and group interactions in collaborative processes. Analogous to a ‘box of tools’ to reduce the 
+effects of human cognitive limitations and analytic pitfalls 108, techniques can range from simple to 
+complex, and utilise text-based or visual methods 109. They can help users to identify and overcome 
+mental mindsets, challenge key assumptions, stimulate creativity, generate alternatives, manage 
+uncertainties, and reduce the chance of surprise. 110 Their main benefits come when used early 
+in an analytic process and jointly in small groups.111  
+As we have seen, there is no one-size-fits-all approach to these techniques. Many can be 
+used in more than one way, and each should be adapted to the issue at hand. 112 Synergies and 
+complementarity also exist between different techniques. The appropriate use of multiple 
+techniques may increase the accuracy of analysis.113 Whether using one or several techniques, 
+having a clear goal in mind is fundamental to determining which to choose.114 In the context of 
+joint analysis, a solid understanding of the analysis step(s), objectives, and the target audience 
+is needed to identify an appropriate technique. Experience and the regular use of techniques 
+facilitate this process as, like riding a bike, they are simply best learned by doing.115 Therefore, while 
+this technical brief provides an overview of JSATs both generally and within the context of a joint 
+analysis process, it is not a replacement for training and experience in the different techniques. 
+ 
+108 PSU, 2014.
+109 Chang et al., 2017.
+110 US Government, 2009; Directorate for Analysis, 2008; Pherson, 2005.
+111 Heuer & Pherson, 2011; Pherson & Pherson, 2013.
+112 Heuer & Pherson, 2011.
+113 Peterson, 2008.
+114 Stigall, 2012.
+115 Abdalla, 2010; Heuer, 1999.
+Conclusion
+
+41
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Bibliography
+Abdalla, C. (2010). Reducing the Risk of Intelligence Failure Through the Use of 
+Structured Analytic Techniques to Mitigate Cognitive Bias.
+https://www.academia.edu/6310097/Reducing_the_Risk_of_Intelligence_Failure_
+through_the_Use_of_Structured_Analytic_Techniques_to_Mitigate_Cognitive_Bias
+ACAPS. (2016). Cognitive Biases. Assessment Capacities Project. 
+https://www.acaps.org/sites/acaps/files/resources/files/acaps_technical_brief_
+cognitive_biases_march_2016.pdf 
+ACAPS. (2016). Homo Analyticus: Profile of Skilled Humanitarian Analysts. Assessment 
+Capacities Project. 
+https://www.acaps.org/homo-analyticus-humanitarian-analyst-profile
+ACAPS. (2020). The Analysis Spectrum. Assessment Capacities Project. https://www.
+acaps.org/sites/acaps/files/resources/files/acaps_analysis_spectrum_poster.pdf
+Agrell, W., Treverton, G.F. (2015). National Intelligence and Science. Oxford University 
+Press. 
+https://global.oup.com/academic/product/
+national-intelligence-and-science-9780199360864?cc=ch&lang=en& 
+Artner, S., Bruce, J. B., Girven, R.S. (2016). Assessing the Value of Structured Analytic 
+Techniques in the U.S. Intelligence Community. RAND Corporation.
+https://www.rand.org/pubs/research_reports/RR1408.html 
+Bearstone Global. (2020). Key Techniques per Theme of Analysis.  
+CDR Gay, T. N., LCDR Ripley, D. B., & 1/C Fecskovics, A. K. (2012). Use of Case Studies 
+and Structured Analytic Techniques in Intel Studies: USCGA Example [PowerPoint slides].  
+United States Coast Guard Academy. 
+https://cdn.ymaws.com/www.iafie.org/resource/resmgr/2012_conference/
+iafie23may2012.ppt 
+Chang, W., Berdini, E., Mandel, D., & Tetlock, P . (2017). Restructuring Structured Analytic 
+Techniques in Intelligence. Intelligence & National Security.
+https://doi.org/10.1080/02684527.2017.1400230 
+Clark, R. M. (2010). An Analysis Approach to the Target. CQ Press. ISBN-13 : 
+978-1604265439 
+Directorate for Analysis, US Government. (2008) A Tradecraft Primer: Basic Structured 
+Analytic Techniques. Central Intelligence Agency.
+https://www.cia.gov/static/955180a45afe3f5013772c313b16face/Tradecraft-Primer-
+apr09.pdf 
+Bibliography
+
+42
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Directorate of Intelligence, US Government. (1997). A Compendium of Analytic Tradecraft 
+Notes. Central Intelligence Agency. 
+http://www.oss.net/dynamaster/file_archive/040319/
+cb27cc09c84d056b66616b4da5c02a4d/OSS2000-01-23.pdf 
+Duvenage, M. A. (2010). Intelligence Analysis in the Knowledge Age [Published Master’s 
+Thesis]. Stellenbosch University. 
+https://scholar.sun.ac.za/handle/10019.1/3087
+Eaton, J., Redmayne, J., Thordsen, M. (2007). Joint Analysis Handbook. North Atlantic 
+Treaty Organisation.
+https://nllp.jallc.nato.int/IKS/Sharing%20Public/ Joint%20Analysis%20Handbook%20
+3rd%20Edition.pdf 
+F AO (2015). Lesson: IPC Analytical Approach and Overview of Tools. F AO eLearning 
+Academy. http://www.fao.org/elearning/Course/IPC2/en/pdf/1254_textonly1254.pdf 
+Greitzer, F. L. (2005). Methodology, Metrics and Measures for Testing and Evaluation of 
+Intelligence Analysis Tools. Glass Box. 
+https://www.researchgate.net/publication/242077089_Methodology_Metrics_and_
+Measures_for_Testing_and_Evaluation_of_Intelligence_Analysis_Tools
+Grunt, P . (2017). Structured Analytic Techniques: Taxonomy and Technique Selection for 
+Information and Intelligence Analysis Practitioners. Journal of Management and Financial 
+Sciences. 
+https://econjournals.sgh.waw.pl/ JMFS/article/view/732 
+Hibbs Pherson, K., Boardman, M. C. (2012). Analyst's Roadmap [PowerPoint Slides]. 
+Pherson Associates, LLC. 
+https://slideplayer.com/slide/9453365/ 
+Hibbs Pherson, K., Pherson, R. H. (2013). Critical Thinking for Strategic Intelligence. CQ 
+Press. 
+International Association for Intelligence Education. (2021, May 22nd). Standard for 
+Intelligence Analyst Initial Training. https://www.iafie.org/page/TrainingStandards 
+International Association for Intelligence Education. (2009). Teaching Structured 
+Analytical Techniques. Pherson Associates, LLC. 
+JIPS. (2021). Joint Analysis Guide.  
+https://www.jips.org/jips-publication/joint-analysis-guide-2021/
+Johnston, R. (2003). Developing a Taxonomy of Intelligence Analysis Variables. Central 
+Intelligence Agency. 
+https://www.cia.gov/static/8934230381c6bf1406360d74a81ec92a/Developing-a-
+Taxonomy.pdf 
+Joint Chiefs of Staff. (2013). Joint Intelligence. Joint Publication 2-0.
+
+43
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+https://www.jcs.mil/Portals/36/Documents/Doctrine/pubs/jp2_0.pdf 
+Kang, Y., Stasko, J. (2010). Characterizing the Intelligence Process. Georgia Institute of 
+Technology. 
+https://www.cc.gatech.edu/~john.stasko/papers/vast11-intell.pdf 
+Krizan, L., Joint Military Intelligence College (U.S.). (1999). Intelligence essentials for 
+everyone. Washington, DC: Joint Military Intelligence College.
+Lehner, P ., Michelson, A., Adelman, L. (2010). Measuring the Forecast Accuracy of 
+Intelligence Products. The MITRE Corporation. https://www.mitre.org/publications/
+technical-papers/measuring-the-forecast-accuracy-of-intelligence-products 
+Mangio, C. A, Wilkinson, B. J. (2008). Intelligence Analysis: Once Again. International 
+Studies Association.
+https://apps.dtic.mil/sti/citations/ADA520278 
+McDowell, D. (1997). Strategic Intelligence and Analysis. The Intelligence Study Centre.  
+McDowell, D. (2009). Inc. Strategic Intelligence: A Handbook for Practitioners, Managers and 
+Users. The Scarecrow Press. 
+Mercyhurst College Intelligence Communications Class 2007-08. (2008). Walking 
+Through the Halls of Intelligence. Mercyhurst College Institute for Intelligence Studies 
+Press. 
+https://www.files.ethz.ch/isn/98513/Halls_Intelligence.pdf
+Miller Beebe, S. (2020). Teaching Structured Analytic Techniques with Cases. Ascendant 
+Analytics, LLC. 
+Moore, D. T. (2007). Critical Thinking and Intelligence Analysis. National Defense 
+Intelligence College. 
+https://www.amazon.com/Critical-Thinking-Intelligence-Analysis-Second/
+dp/1780391188 
+Moore, D. T. (2011). Sensemaking. National Defense Intelligence College.
+https://ni-u.edu/ni_press/pdf/Sensemaking.pdf  
+Moore, D. T. (2005). Species of Competencies for Intelligence Analysis. American 
+Intelligence Journal. Vol. 23 (Autumn/Winter 2005), pp. 29-43 (15 pages)
+https://www.jstor.org/stable/44327035 
+MSgt Folker, R. D. Jr. (2002). intelligence analysis in theater joint intelligence centers: 
+an experiment in applying structured methods. Joint Military Intelligence College. 
+Washington, DC.
+https://fas.org/irp/eprint/folker.pdf 
+National Research Council. (2011). Intelligence Analysis for Tomorrow. National Academy 
+of Sciences. 
+
+44
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+https://www.nap.edu/catalog/13040/
+intelligence-analysis-for-tomorrow-advances-from-the-behavioral-and-social 
+Pennsylvania State University, Department of Geography. (2014). The Structured Analytic 
+Techniques "Toolbox". The Learner's Guide to Geospatial Analysis. 
+https://www.e-education.psu.edu/sgam/node/155
+Petersen, M. (2011). What I Learned in 40 Years of Doing Intelligence Analysis for US 
+Foreign Policymakers. Central Intelligence Agency. 
+https://www.cia.gov/resources/csi/studies-in-intelligence/volume-55-no-1/what-i-
+learned-in-40-years-of-doing-intelligence-analysis-for-us-foreign-policymakers/ 
+Peterson, J. J. (2008). Appropriate Factors to Consider When Assessing Analytic Confidence 
+in Intelligence Analysis [Published Master’s Thesis]. Department of Intelligence Studies, 
+Mercyhurst College. 
+https://www.files.ethz.ch/isn/49942/Appropriate_Factors_To_Consider_When_
+Assessing_Analytic_Confidence_In_Intelligence_Analysis.pdf 
+Pherson, R. H. (2015). Methodologies for Sorting Through the Chaff [PowerPoint 
+presentation]. Pherson Associates LLC.
+https://www.slideserve.com/noe/methodologies-for-sorting-through-the-chaff-
+presentation-to-dhs 
+Pherson, R. H. (2013). The Five Habits of the Master Thinker. Journal of Strategic Security.
+https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=1282&context=jss 
+Pherson, R. H. (2005). Overcoming Analytic Mindsets: Five Simple Techniques. Person 
+Associates LLC
+http://www.pherson.org/wp-content/uploads/2013/11/01.-Overcoming-Analytic-
+Mindsets.-Five-Simple-Techniques_FINAL.pdf
+Pigg, V. H. (2009). Common Analytic Standards. Small Wars Foundation.
+https://smallwarsjournal.com/blog/journal/docs-temp/260-pigg.pdf 
+Prunckun, H. (2015). Scientific Methods of Inquiry for Intelligence Analysis. Rowman & 
+Littlefield.
+Prunckun, H. (2010). Handbook of Scientific Methods of Inquiry for Intelligence Analysis. 
+The Scarecrow Press, Inc. 
+Richards J. Heuer, Jr. (1999). Psychology of Intelligence Analysis. Center for 
+the Study of Intelligence. Central Intelligence Agency https://www.cia.gov/
+static/9a5f1162fd0932c29bfed1c030edf4ae/Pyschology-of-Intelligence-Analysis.pdf 
+Richards J. Heuer, Jr. & Pherson, R. H. (2011). Structured Analytic Techniques for 
+Intelligence Analysis. Library of Congress. 
+
+45
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Richards J. Heuer, Jr. (2009). The Evolution of Structured Analytic Techniques. National 
+Academy of Sciences. 
+https://www.e-education.psu.edu/geog885/sites/www.e-education.psu.edu.geog885/
+files/file/Evolution_SAT_Heuer.pdf 
+Richards J. Heuer, Jr. (2008). Rethinking Challenge Analysis. Pherson Associates. 
+Smart, L. (2011). The Forecasting Accuracy and Effectiveness of Complexity Manager. 
+Mercyhurst College.  
+Stigall, S.M. (2012). A Strategy Framework for the Intelligence Analyst. Central Intelligence 
+Agency. 
+https://www.cia.gov/static/7b64ca4cbbe0155f1a728ad7d78bf34f/Strategy-
+Framework-Intel-Analyst.pdf 
+Taylor, S. M., Lockheed, M. (2005) The Several Worlds of the Intelligence Analyst. 
+United Nations Office on Drugs and Crime. (2011). Criminal Intelligence: Manual for 
+Analysts. United Nations Office on Drugs and Crime. 
+https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_
+Intelligence_for_Analysts.pdf 
+University of Foreign Military and Cultural Studies. (2012). Red Team Handbook. 
+University of Foreign Military and Cultural Studies. 
+https://community.apan.org/wg/tradoc-g2/ufmcs-red-team-central/m/
+red-team-handbook/276147/download
+US Government. (2009). A Tradecraft Primer: Structured Analytic Techniques for Improving 
+Intelligence Analysis. Central Intelligence Bureau.
+https://www.cia.gov/static/955180a45afe3f5013772c313b16face/Tradecraft-Primer-
+apr09.pdf 
+Von Winterfeldt, D., Edwards, W. (2007). Defining a Decision Analytic Technique. 
+University of Southern California. 
+https://www.researchgate.net/publication/239823960_Defining_a_Decision_Analytic_
+Structure 
+Wheaton, K.J. (2008). A Wiki Is Like A Room. Mercyhurst College. 
+https://www.files.ethz.ch/isn/50060/A_Wiki_Is_Like_A_Room_Final.pdf 
+Wikipedia. (2019). Words of Estimative Probability [Webpage, accessed on May 1st 2021]. 
+Wikipedia.
+https://en.wikipedia.org/wiki/Words_of_estimative_probability 
+Woocher, L. (2011). Conflict Assessment and Intelligence Analysis. United States Institute 
+of Peace.
+https://www.usip.org/publications/2011/06/
+conflict-assessment-and-intelligence-analysis 
+
+46
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Annex I
+Skills, training and time required per structured analysis technique      
+CATEGORY TECHNIQUES SKILL/TRAINING/TIME ADDITIONAL INFORMATION 
+Decomposition & visualisation
+Getting 
+Started 
+Checklist
+Low
+Prerequisites: None
+Participants: Individual or Group
+Process: Single step (answer checklist questions)
+Methods: Thought or discussion
+Customer 
+Checklist Low
+Prerequisites: None
+Participants: Individual or Group
+Process: Single step (answer checklist questions)
+Methods: Thought or discussion
+Issue 
+Redefinition Low/Moderate
+Prerequisites: None
+Participants: Group
+Process: Multiple steps (question, rephrase, redirect focus, etc.)
+Methods: Discussion
+Chronologies 
+& Timelines Low
+Prerequisites: Temporal data related to the issue
+Participants: Individual or Group
+Process: Multiple steps (list, question, synthesize, etc.)
+Methods: Discussion, text (list), visualisation (timeline)
+Sorting Low
+Prerequisites: Existing data that can be broken into categories or 
+subcategories
+Participants: Individual or Group
+Process: Multiple steps (review, list, group, etc.) 
+Methods: Thought or discussion, text (list), and visualisation (table)
+Ranking, 
+Scoring, 
+Prioritizing
+Low/Moderate/High
+Prerequisites: Existing list or group opinions
+Participants: Individual or Group
+Process: Multiple steps (varies by technique) 
+Methods: Voting, text (list), visualisation (table), calculation
+Matrices Low
+Prerequisites: Existing data to be compared
+Participants: Individual or Group
+Process: Multiple steps (varies by technique)
+Methods: Visualisation (table)
+Network 
+Analysis Moderate/High
+Prerequisites: Existing data for review, compilation, and interpreta-tion
+Participants: Individual or Group
+Process: Multiple steps (varies by technique)
+Methods: Text (list), visualisation (network), measurement
+Mind Maps & 
+Concept Maps Low/Moderate
+Prerequisites: None
+Participants: Individual or Group
+Process: Multiple steps (question, list, sort, etc.)
+Methods: Thought or discussion, text (list), visualisation (map)
+Annex I: Skills, training and time required per structured analysis technique
+
+47
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+CATEGORY TECHNIQUES SKILL/TRAINING/TIME ADDITIONAL INFORMATION 
+Idea Generation
+Structured 
+Brainstorming Low/Moderate
+Prerequisites: Defined purpose, topic, and initial ideas from partici-pants
+Participants: Group (with at least one "outsider") and Facilitator
+Process: Multiple steps (question, discuss, sort, etc.)
+Methods: Thought, text (ideas), discussion (open), visualisation (sticky 
+notes)
+Virtual 
+Brainstorming Low/Moderate
+Prerequisites: Defined purpose, topic, initial ideas from participants, and 
+internet access
+Participants: Group (external expert panel or geographically dis-persed 
+team) and Facilitator
+Process: Multiple steps (question, discuss, sort, etc.)
+Methods: Thought, text (ideas), discussion (online input - synchro-nous or 
+asynchronous)
+Nominal 
+Group 
+Technique
+Low/Moderate
+Prerequisites: Defined purpose, topic, and initial ideas from partici-pants
+Participants: Group and Facilitator 
+Process: Multiple steps (question, present ideas individually, dis-cuss, 
+etc.)
+Methods: Thought, text (ideas), discussion (round-robin approach)
+Starbursting Low
+Prerequisites: Defined purpose and topic
+Participants: Group and Facilitator 
+Process: Multiple steps (diagram, questions, prioritize, etc.)
+Methods: Discussion (generate questions) and visualisation (star-burst 
+diagram)
+Cross-Impact 
+Matrix Low/Moderate
+Prerequisites: Brainstorming session
+Participants: Group 
+Process: Multiple steps (discuss, visualise, compare, etc.)
+Methods: Discussion and visualisation (table)
+
+48
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+CATEGORY TECHNIQUES SKILL/TRAINING/TIME ADDITIONAL INFORMATION 
+Scenarios & Indicators
+Simple 
+Scenarios Low/Moderate
+Prerequisites: None
+Participants: Individual or Group (ideal)
+Process: Multiple steps (issue definition, grouping, matrix, narra-tive, 
+indicators, etc.)
+Methods: Thought or discussion, text (lists, etc.), visualisation (ta-ble), 
+monitor (indicators)
+Alternative 
+Futures 
+Analysis
+High
+Prerequisites: None
+Participants: Group (experts) and Facilitator
+Process: Multiple steps (issue definition, grouping, matrix, narra-tive, 
+indicators, etc.)
+Methods: Discussion, text (lists, etc.), visualisation (table - two key 
+drivers), monitor (indicators)
+Multiple 
+Scenarios 
+Generation
+High
+Prerequisites: None
+Participants: Group (experts) and Facilitator
+Process: Multiple steps (issue definition, grouping, matrix, narra-tive, 
+indicators, etc.)
+Methods: Discussion, text (lists, etc.), visualisation (table - multiple 
+drivers), monitor (indicators)
+Indicators Low/Moderate
+Prerequisites: Specific situation, topic or issue in need of monitoring
+Participants: Group
+Process: Multiple steps (identify indicators - via brainstorming, sce-nario 
+or hypothesis devel-opment, etc.)
+Methods: Discussion, text (list), visualisation (from other tech-nique(s) 
+used to identify indica-tors)
+Indicators 
+Validator Low
+Prerequisites: Use in development of indicators for alternative sce-narios 
+or competing hypoth-eses
+Participants: Individual or Group
+Process: Multiple steps (matrix, likelihood assessment, re-sort, etc.)
+Methods: Thought or discussion, visualisation (table)
+
+49
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+CATEGORY TECHNIQUES SKILL/TRAINING/TIME ADDITIONAL INFORMATION 
+Hypothesis Generation & Testing
+Simple 
+Hypotheses Moderate
+Prerequisites: Defined issue and expected use of hypotheses
+Participants: Group (diverse expertise)
+Process: Multiple steps (brainstorm, list, group, problem restate-ment, 
+starbursting, etc.)
+Methods: Discussion, text (list), visualisation (diagram)
+Multiple 
+Hypotheses 
+Generator
+Low/Moderate
+Prerequisites: None
+Participants: Group
+Process: Multiple steps (issue definition, lists, score, re-sort, etc.)
+Methods: Discussion, text (lists), visualisation (diagram)
+Diagnostic 
+Reasoning Moderate
+Prerequisites: New information, development, or source with un-certain 
+reliability
+Participants: Individual or Group
+Process: Multiple steps (brainstorm, list, question, tentative judge-ment, 
+etc.) 
+Methods: Thought or discussion, text (list)
+Analysis of 
+Competing 
+Hypotheses
+High
+Prerequisites: Data to be reviewed and evaluated
+Participants: Individual or Group (ideal) with Facilitator
+Process: Multiple steps (hypothesize, narratives, lists, evidence 
+di-agnosticity analysis, etc.)
+Methods: Thought or discussion, text (lists), visualisation (table), 
+calculation (inconsistency score)
+Argument 
+Mapping High
+Prerequisites: Single hypothesis or tentative analytical judgement to test, 
+prior use of ACH rec-ommended
+Participants: Individual or Group (training and practice required)
+Process: Multiple steps (statement, evidence, reasoning, etc.)
+Methods: Thought or discussion, visualisation (diagram)
+Six Thinking 
+Hats Moderate
+Prerequisites: Single hypothesis, idea or data to examine
+Participants: Group and Facilitator 
+Process: Multiple steps (hat selection, discussion, exchange, etc.)
+Methods: Discussion (role-play)
+
+50
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+CATEGORY TECHNIQUES SKILL/TRAINING/TIME ADDITIONAL INFORMATION 
+Assessment of Cause & Effect
+Key 
+Assumptions 
+Check
+Moderate
+Prerequisites: Defined issue, information or analysis that has been 
+reviewed and interpreted
+Participants: Group (including a few "outsiders")
+Process: Multiple steps (list, brainstorm, question, categorize, etc.)
+Methods: Thought, discussion, text (list)
+Role Playing Low/Moderate
+Prerequisites: Defined issue or situation, synopsis from leader, re-search 
+on assigned role from participants
+Participants: Group (different organizations/agencies), Control Team and 
+Leader
+Process: Multiple steps (review, discuss, message, etc.) 
+Methods: Discussion (role-play and after-action review), text (notes) 
+Outside-In 
+Thinking High
+Prerequisites: Defined issue
+Participants: Group
+Process: Multiple steps (brainstorm, list, assess, etc.)
+Methods: Discussion, text (list)
+Fishbone 
+Analysis Low/Moderate
+Prerequisites: Defined issue
+Participants: Individual or Group
+Process: Multiple steps (list, categorize, diagram, etc.)
+Methods: Thought or discussion, text (list), visualisation (diagram)
+Challenge Analysis
+Structured 
+Self-Critique Moderate/High
+Prerequisites: Analysis to review
+Participants: Group
+Process: Multiple steps (topics, questions, reassess, etc.) 
+Methods: Discussion, text (notes)
+Devil's 
+Advocacy Moderate/High
+Prerequisites: Analysis, plan, or potential decision
+Participants: Individual ("outsider")
+Process: Single step or multiple steps (varies by technique)
+Methods: Diverse approaches (no single procedure)
+Delphi 
+Method High
+Prerequisites: Analysis, plan, or potential decision
+Participants: Group (experts - often anonymous) and Moderator
+Process: Multiple steps (iterative questions, response, feedback cycle, 
+etc.)
+Methods: Thought, text (questionnaire)
+Conflict 
+Management
+Adversarial 
+Collaboration High
+Prerequisites: Both parties agree on having a discussion
+Participants: Group (two parties with opposing views)
+Process: Multiple steps (varies by technique)
+Methods: Diverse approaches (key assumptions check, argument 
+mapping, etc.)
+
+51
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+CATEGORY TECHNIQUES SKILL/TRAINING/TIME ADDITIONAL INFORMATION 
+Decision Support
+Force Field 
+Analysis Low/Moderate
+Prerequisites: Defined issue, change, or goal
+Participants: Individual or Group
+Process: Multiple steps (brainstorm, list, score, etc.)
+Methods: Thought or discussion, text (list), calculation
+Pros-Cons-
+Faults-and-
+Fixes
+Low
+Prerequisites: New idea or choice between two options
+Participants: Group
+Process: Multiple steps (define, list, review, etc.)
+Methods: Discussion, text (list), visualisation (table)
+SWOT 
+Analysis Low
+Prerequisites: Analysis, plan, or potential decision
+Participants: Individual or Group
+Process: Multiple steps (define, list, question, etc.)
+Methods: Thought or discussion, text (list), visualisation (table)
+
+52
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+Annex II
+Relationships between Joint Structured Analysis Techniques, 
+by categories and techniques
+CATEGORY TECHNIQUES USE RELATED TECHNIQUES 
+Decomposition & 
+Visualisation
+Issue Redefinition With
+• Getting Started Checklist
+• Customer Checklist
+Ranking, Scoring, Prioritising After • Brainstorming SATs
+Matrices With
+• Ranking, Scoring, Prioritizing
+• Cross-Impact Matrix
+• Analysis of Compet-ing Hypotheses
+Mind Maps & Concept Maps To visualise results of
+• Cross-Impact Matrix
+• Brainstorming SATs
+• Many other SATs
+Idea Generation
+Structured Brainstorming
+With • Many other SATs
+To generate • Simple Hypotheses
+Starbursting
+With
+• Getting Started Checklist
+• Issue Redefinition
+• Ranking, Scoring, Prioritizing
+To generate • Simple Hypotheses
+Cross-Impact Matrix After • Brainstorming SATs
+Scenarios & 
+Indicator
+Scenarios Analysis
+Before • Cross-Impact Matrix
+With • Indicators
+To generate • Simple Hypotheses
+Indicators
+As evidence in • Analysis of Competing Hypotheses
+With • Brainstorming SATs
+Indicators Validator After • Indicators
+Annex II: Relationships between JSATs
+
+53
+TECHNICAL BRIEF ON JOINT STRUCTURED 
+ANALYSIS TECHNIQUES (JSAT)
+CATEGORY TECHNIQUES USE RELATED TECHNIQUES 
+Hypothesis Generation & 
+Testing
+Simple Hypotheses Before • Scenarios Analysis
+Diagnostic Reasoning With
+• Indicators Validator
+• Analysis of Compet-ing Hypotheses
+Analysis of Competing 
+Hypotheses With
+• Structured Brain-storming
+• Nominal Group Technique
+• Hypothesis Genera-tor
+• Diagnostic Reason-ing
+• Argument Mapping
+• Delphi Method
+Assessment 
+of Cause & 
+Effect
+Key Assumptions Check With • All other SATs (ACH in particular)
+Fishbone Analysis With • Brainstorming SATs
+Challenge 
+Analysis
+Delphi Method
+To generate • Simple Hypotheses
+With
+• Ranking, Scoring, Prioritizing
+• Virtual Brainstorm-ing
+Conflict 
+Management
+Adversarial Collaboration With
+• Analysis of Compet-ing Hypotheses
+• Argument Mapping
+• Key Assumptions Check
+Decision 
+Support
+SWOT Analysis Same factors as • Outside-In Thinking

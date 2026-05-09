@@ -1,0 +1,20 @@
+# Russian Division — 2nd Guards 'Tamanskaya' Motor Rifle Division
+
+**Unit ID**: 2gmd
+**Type**: motor_rifle
+**Headquarters**: Alabino
+**Parent Army**: 1st Guards Tank Army (1gta)
+**Parent District**: Moscow Military District
+**Strength (% authorized)**: 50.0%
+**Notes**: Heavily engaged near Lyman
+
+## Subordinate Brigades / Regiments
+- **13th Guards Motor Rifle Regiment** (Guards) (13tb) — type: motor_rifle, strength: 50.0%. None
+- **15th Guards Motor Rifle Regiment** (Guards) (15mrr) — type: motor_rifle, strength: 48.0%. None
+
+## Authorized Equipment (with estimated combat losses)
+- **tank** — T-72B3, T-80BV — authorized: 100, estimated lost: 52
+- **ifv** — BMP-2, BMP-3 — authorized: 240, estimated lost: 88
+- **artillery_sp** — 2S19 Msta-S — authorized: 54, estimated lost: 18
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:DIV] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

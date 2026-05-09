@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: 3rd Air Combat Command (3rd ACC) / 3rd Air Combat Division
+
+**Unit ID**: kpaf_3acc
+**Service**: KPAF
+**Type**: air_division
+**Headquarters**: Hwangju, North Hwanghae Province
+**Parent**: Korean People's Army Air Force (Konggun) (kpaf)
+**Strength (% authorized)**: 52.0%
+**Notes**: DMZ sector air defense and combat. HQ at Chunghwa (Air Defense & Combat Command). Units include 4th Fighter-Bomber Rgt (MiG-17F/MiG-21 at Taetan), 32nd Fighter-Bomber Rgt (J-5/MiG-17 at Nuchon-ni), 33rd + 11th Fighter-Bomber Rgts (J-5/MiG-17F at Kwail), 50th Fighter Rgt (MiG-21PFM at Hwangju), 86th Attack Rgt (Q-5A at Koksan), 63rd Attack Helicopter Rgt (Mi-24D at Ayang-ni). [Wikipedia KPAF]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

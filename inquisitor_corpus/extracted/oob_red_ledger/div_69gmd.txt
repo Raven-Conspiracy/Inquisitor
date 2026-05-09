@@ -1,0 +1,14 @@
+# Russian Division — 69th Guards Motor Rifle Division
+
+**Unit ID**: 69gmd
+**Type**: motor_rifle
+**Headquarters**: Vyborg
+**Parent Army**: 6th Combined Arms Army (6ca)
+**Parent District**: Leningrad Military District
+**Strength (% authorized)**: 62.0%
+**Notes**: N Kharkiv
+
+## Subordinate Brigades / Regiments
+- **1009th Motor Rifle Regiment** (1009mrr) — type: motor_rifle, strength: 62.0%. None
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:DIV] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

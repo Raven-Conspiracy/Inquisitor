@@ -1,0 +1,15 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: 1st Tactical Air Base — Mehrabad (Tehran)
+
+**Unit ID**: tab1_mehrabad
+**Service**: IRIAF
+**Type**: air_force_base
+**Headquarters**: Tehran-Mehrabad
+**Parent**: Islamic Republic of Iran Air Force (IRIAF) (iriaf)
+**Strength (% authorized)**: 45%
+**Notes**: MiG-29A/UB, transports, VIP fleet, tankers, C-130, CH-47C. Attacked by Israeli Air Force June 13, 2025; airworthiness doubtful. Hosts IACI and IHSMC maintenance facilities. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+## Subordinate Division / Brigade / Squadrons
+- **11th Tactical Fighter Squadron (MiG-29)** (sqn11_mig29) — type: fighter_brigade, HQ: Tehran-Mehrabad, strength: 40%. MiG-29A/UB Fulcrum air superiority. Post-June 2025 strikes operational status uncertain. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

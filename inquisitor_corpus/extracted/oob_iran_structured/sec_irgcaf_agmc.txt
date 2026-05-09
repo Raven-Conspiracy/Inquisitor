@@ -1,0 +1,20 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Al-Ghadir Missile Command (AGMC)
+
+**Unit ID**: irgcaf_agmc
+**Service**: IRGC-AF
+**Type**: missile_command
+**Headquarters**: Tehran (dispersed underground launch sites nationwide)
+**Parent**: IRGC Aerospace Force (IRGCASF / IRGC-AF) (irgc_af)
+**Strength (% authorized)**: 70%
+**Notes**: Primary ballistic missile operational command under IRGC-AF. Commander: BG Mahmoud Bagheri Kazemabad (per Iran Watch 2020). Coordinates all SRBM/MRBM/IRBM brigades. [Iran Watch IRGC-AF 2020] [DIA IMP 2019 p.21] [POST-2024-STRIKES STATUS UNCERTAIN: solid-fuel mixing equipment destroyed Oct 2024; Khojir complex struck; production degraded but mobile launchers unaffected]
+
+## Subordinate Division / Brigade / Squadrons
+- **5th Ra'ad Missile Brigade** (elite) (irgcaf_bde5_raad) — type: rocket_brigade, HQ: Undisclosed (western Iran), strength: 80%. SRBM brigade; Shahab-1/2, Qiam family. Subordinate to Al-Ghadir Missile Command. [Iran Watch IRGC-AF 2020]
+- **7th al-Hadid Missile Brigade** (elite) (irgcaf_bde7_hadid) — type: rocket_brigade, HQ: Undisclosed, strength: 80%. MRBM brigade; likely Shahab-3/Ghadr-110/Emad family. Subordinate to AGMC. [Iran Watch IRGC-AF 2020]
+- **15th Ghaem Missile Brigade** (elite) (irgcaf_bde15_ghaem) — type: rocket_brigade, HQ: Undisclosed, strength: 85%. Missile brigade; likely solid-fuel SRBM family (Fateh-110/313, Zolfaghar, Dezful). Subordinate to AGMC. [Iran Watch IRGC-AF 2020]
+- **19th Zulfiqar Missile Brigade** (elite) (irgcaf_bde19_zulfiqar) — type: rocket_brigade, HQ: Undisclosed (southwest Iran), strength: 85%. Likely Zolfaghar (750km solid fuel) and Fateh-313 SRBM. Subordinate to AGMC. [Iran Watch IRGC-AF 2020]
+- **23rd Towhid Missile Brigade** (elite) (irgcaf_bde23_towhid) — type: rocket_brigade, HQ: Undisclosed, strength: 85%. Missile brigade type unconfirmed in open source. Subordinate to AGMC. [Iran Watch IRGC-AF 2020]
+- **IRGC-AF Cruise Missile Command (Hoveyzeh/Soumar/Ya-Ali)** (elite) (irgcaf_cruise_cmd) — type: rocket_brigade, HQ: Undisclosed, strength: 85%. Operates Hoveyzeh (1,350km cruise), Soumar/Ya-Ali/Paveh land-attack cruise missiles. Received Hoveyzeh delivery 2019 per Iran Watch. Brigade-level organizational structure exists but open-source numbering unconfirmed. [Iran Watch IRGC-AF 2020] [Wikipedia IRGCASF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

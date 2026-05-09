@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Service Branch: Islamic Republic of Iran Army (Artesh / IRIGF)
+
+**ID**: ARTESH
+**Headquarters**: Tehran
+**Commander (current)**: Major General Abdolrahim Musavi
+**Map color code**: #2e4a1e
+**Notes**: Regular (conventional) ground force. ~350,000 personnel of which roughly half are conscripts serving 18-24 month terms. Parallels the IRGC GF in mission but answers up a separate chain to AFGS. [DIA IMP 2019 p.17] Commander as of 2019; current commander status [POST-2024-STRIKES STATUS UNCERTAIN].
+
+## Subordinate Region / Provincial Corps / Bases
+- **Northwestern Regional Headquarters** [Artesh] (artesh_nw_rhq) — type: regional_headquarters, HQ: Urumiyeh, West Azerbaijan Province, strength: 85%. Commander: BG2 Amir Hossein Shafiei (since Jul 2024). Covers Ardabil, East Azerbaijan, Ghazvin, Hamedan, West Azerbaijan, Zanjan provinces. [CTP Artesh OOB Aug 2025]
+- **Western Regional Headquarters** [Artesh] (artesh_w_rhq) — type: regional_headquarters, HQ: Kermanshah City, Kermanshah Province, strength: 85%. Commander: BG2 Soleiman Taheri (since May 2021). Covers Ilam, Kermanshah, Kurdistan provinces. [CTP Artesh OOB Aug 2025]
+- **Southwestern Regional Headquarters** [Artesh] (artesh_sw_rhq) — type: regional_headquarters, HQ: Ahvaz, Khuzestan Province, strength: 85%. Commander: BG2 Hossein Mohammad Shafiei (since Jan 2025). Covers Khuzestan, Lorestan. [CTP Artesh OOB Aug 2025]
+- **Northeastern Regional Headquarters** [Artesh] (artesh_ne_rhq) — type: regional_headquarters, HQ: Mashhad, Khorasan Razavi Province, strength: 85%. Commander: BG2 Cyrus Amanollahi (since Jul 2024). Covers Golestan, Khorasan Razavi, Mazandaran, North Khorasan, Semnan, South Khorasan. [CTP Artesh OOB Aug 2025]
+- **Southeastern Regional Headquarters** [Artesh] (artesh_se_rhq) — type: regional_headquarters, HQ: Kerman City, Kerman Province, strength: 85%. Commander: BG Amir Gholam Alian (since Aug 2020). Covers Hormozgan, Kerman, Sistan and Baluchistan, parts of Yazd. [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:SVC] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

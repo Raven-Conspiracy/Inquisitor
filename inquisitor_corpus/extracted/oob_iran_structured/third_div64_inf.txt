@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 64th Infantry Division
+
+**Unit ID**: div64_inf
+**Type**: mountain
+**Headquarters**: Urumiyeh, West Azerbaijan
+**Parent**: Region / Provincial Corps / Base: Northwestern Regional Headquarters (artesh_nw_rhq)
+**Higher echelon**: Islamic Republic of Iran Army (Artesh / IRIGF)
+**Elite designation**: No
+**Strength (% authorized)**: 85%
+**Notes**: Commander: BG2 Abbas Jamshidi (since Jan 2024). Three mobile assault subordinate brigades: 164th (Piranshahr), 264th (Salmas), 364th (Mahabad). [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

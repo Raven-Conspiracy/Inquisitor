@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Ghadir Operational HQ (North/Caspian)
+
+**Unit ID**: irgcgf_ghadir_hq
+**Service**: IRGC-GF
+**Type**: operational_headquarters
+**Headquarters**: Rasht/Sari area
+**Parent**: IRGC Ground Forces (IRGCGF) (irgc_gf)
+**Strength (% authorized)**: 80%
+**Notes**: Oversees Qods (Gilan), Karbala (Mazandaran), Neynava (Golestan) corps. [Wikipedia IRGC GF]
+
+## Subordinate Division / Brigade / Squadrons
+- **Sepah-e Qods (Gilan Provincial Corps)** (irgcgf_gillan_corp) — type: light_cab, HQ: Rasht, Gilan, strength: 80%. Commander: Mohammad Abdollahpour. [Wikipedia IRGC GF]
+- **Sepah-e Neynava (Golestan Provincial Corps)** (irgcgf_golestan_corp) — type: light_cab, HQ: Gorgan, Golestan, strength: 80%. Commander: Ali Malek Shahkoui. [Wikipedia IRGC GF]
+- **Sepah-e Karbala (Mazandaran Provincial Corps)** (irgcgf_maz_corp) — type: light_cab, HQ: Sari, Mazandaran, strength: 80%. Commander: Mohammad Hossein Babaei. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

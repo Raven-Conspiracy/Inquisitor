@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Infantry Division (unidentified, I Corps) — Placeholder 1
+
+**Unit ID**: div_inf_1c_1
+**Type**: motor_rifle
+**Headquarters**: Kumgang County area (approximate)
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: I Corps (1st Corps) (corps_1)
+**Higher echelon**: KPA Ground Forces (Ryukgun)
+**Elite designation**: No
+**Strength (% authorized)**: 82.0%
+**Notes**: NAME UNKNOWN. DIA NKMP 2021 confirms 27 infantry divisions in KPA GF; exact assignment to I Corps not publicly confirmed. Placeholder per brigade-counting methodology. [DIA NKMP 2021; IISS MB 2017 p.304]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

@@ -1,0 +1,1639 @@
+DOP-2024-U-038956-1Rev   © 2024 CNA Corporation
+SEPTEMBER  2024
+DISTRIBUTION STATEMENT A.  
+Approved for public release: distribution unlimited.
+The Central Brain of the Russian  
+Armed Forces  
+The Modern Russian General Staff in Institutional Context
+Julian G. Waller and Dmitry Gorenburg
+
+Abstract
+The Russia Strategic Initiative at US European Command tasked CNA with providing a primer on the Russian General 
+Staff for a public audience. The General Staff is perhaps the most important warfighting institution in the Russian Armed 
+Forces, acting both as the planning “brains” of the Russian military and also as its operational-strategic headquarters. 
+This paper covers the formal structure of the Russian General Staff, its institutional relationships with other military-
+bureaucratic institutions in Russia, its role in civil-military relations, its historical evolution, and its special role during 
+wartime. It also offers multiple interpretations of the General Staff’s significance in military decision-making, considering 
+the dynamics of political and policy influence in Russia and the role of the General Staff in developing military and 
+political-military doctrine. This paper also raises the issue of the Russian General Staff chief’s incumbency and leadership 
+continuity in light of the 2024 cabinet reshuffle.
+CNA’s Occasional Paper series is published by CNA, but the opinions expressed are those of the author(s) and do not 
+necessarily reflect the views of CNA. The views, opinions, and findings contained in this report should not be construed as 
+representing the official position of the Department of the Navy.
+DISTRIBUTION STATEMENT A. Approved for public release: distribution unlimited.        9/13/2024
+This work was created in the performance of Federal Government Contract Number N00014-22-D-7001.
+Cover image: A Meeting of the Board of the Ministry of Defense with Sergei Shoigu at the Russian National Defense 
+Management Center, May 25, 2023. VPK News.
+This document may contain materials protected by the Fair Use guidelines of Section 107 of the Copyright Act, for 
+research purposes only. Any such content is copyrighted and not owned by CNA. All rights and credits go directly to 
+content’s rightful owner.
+Approved by:  September 2024
+ 
+David Knoll, Research Program Director 
+Countering Threats and Challenges Program 
+Strategy, Policy, Plans, and Programs Division
+© 2024 CNA Corporation
+Request additional copies of this document through inquiries@cna.org. 
+This publication was funded by the Russia Strategic Initiative, U.S. European 
+Command. The views expressed in this publication do not necessarily represent 
+the views of the Department of Defense or the United States government.
+
+
+The Central Brain of the Russian Armed Forces
+   i  | www.cna.org   
+EXECUTIVE SUMMARY
+In light of the ongoing Russia-Ukraine war and 
+renewed research interest in command and control, 
+military decision-making, and the dynamics of 
+Russian civil-military relations, the Russia Strategic 
+Initiative at US European Command tasked CNA with 
+providing a primer on the Russian General Staff for 
+a public audience. This occasional paper provides a 
+digestible introduction to the Russian General Staff. 
+The General Staff of the Armed Forces of the Russian 
+Federation is the most central warfighting institution 
+in the Russian Armed Forces, acting both as the 
+planning “brains” of the Russian military and also 
+as the operational-strategic headquarters. Although 
+the administrative, bureaucratic, procurement, 
+logistical, and training functions of the Russian 
+Ministry of Defense (MOD) are massive (as are the 
+research, development, and production roles of the 
+Russian military-industrial complex), the Russian 
+General Staff ultimately plans and executes wartime 
+operations alongside theater and operational 
+direction commanders. 
+Despite the constant potential for internal 
+bureaucratic tensions within Russia’s sprawling 
+military institutions, the Russian General Staff has 
+safeguarded its role as an intellectual hub and as the 
+key war-planning, war-executing, and operational-
+strategic decision-making body in the ecosystem of 
+major institutions that make up the Russian military. 
+It has successfully defended its prerogatives to plan 
+and execute war-making on behalf of the minister 
+of defense and his principal in the Kremlin against 
+bureaucratic infighting and is tightly integrated 
+with both the regional military districts and wartime 
+theater and operational commands. 
+Furthermore, the General Staff has thrived under 
+its longtime leader, Chief of the General Staff (CGS) 
+Valeriy Gerasimov, despite challenges both before 
+and after the onset of the Russia-Ukraine war. It 
+is also well positioned to remain the key decision-
+influencing, war-planning, and operational-strategic 
+locus of energy within the Russian Armed Forces 
+for the foreseeable future—despite the fact that 
+former defense minister Sergei Shoigu (Gerasimov’s 
+longtime ally) has been removed from his position. 
+The longevity of CGS Gerasimov, who has been 
+serving since 2012, has helped maintain the General 
+Staff’s position within the military-bureaucratic 
+hierarchy and has likely furthered centralization 
+dynamics. Whether the General Staff may be 
+reformed or decision-making shifted to Joint 
+Strategic Commands, theater commander, or other 
+parts of the MOD upon Gerasimov’s retirement 
+remains an open question. 
+
+The Central Brain of the Russian Armed Forces
+   ii  | www.cna.org   
+TABLE OF CONTENTS
+Introduction .....................................................................................1
+Overview of the Russian General Staff ...............................................3
+Formal structure and primary tasks ...................................................................................3
+Relationship with other military-bureaucratic institutions ........................................8
+Role in civil-military relations and regime politics .......................................................9
+Historical evolution................................................................................................................... 9
+Role of the General Staff during wartime ......................................................................10
+The tenure of the chief of the General Staff .................................................................11
+The Weight of the General Staff ...................................................... 13
+The General Staff and military decision-making .........................................................13
+The General Staff and political influence .......................................................................13
+The General Staff and doctrinal influence .....................................................................14
+Conclusion .....................................................................................16
+Appendix A: Tasks of the General Staff ............................................17
+Appendix B: Recommended Reading ............................................. 19
+English-language sources ....................................................................................................19
+Russian-language sources ...................................................................................................20
+Abbreviations .................................................................................22
+References .................................................................................... 23
+
+The Central Brain of the Russian Armed Forces
+   1  | www.cna.org   
+INTRODUCTION
+1  For a full list of these longer treatments, see the English-language section of Appendix B: Recommended Reading.
+The General Staff of the Armed Forces of the 
+Russian Federation (i.e., the Russian General Staff) 
+is the central warfighting institution in the Russian 
+Armed Forces, acting both as the planning “brains” 
+of the Russian military and also as the operational-
+strategic headquarters. Although the administrative, 
+bureaucratic, procurement, logistical, and training 
+functions of the Russian Ministry of Defense (MOD) 
+are massive (as are the research, development, 
+and production roles of Russian military-industrial 
+complex), the Russian General Staff ultimately plans 
+and executes wartime operations alongside theater 
+and operational direction commanders. 
+This CNA occasional paper introduces the structure, 
+the functions, and both the formal and de facto roles 
+of the Russian General Staff. The audience for this 
+paper is tripartite: (1) those who are unfamiliar with 
+the Russian General Staff’s existence or workings, 
+(2) those who seek a shorter form summary and 
+analytic perspective on the Russian General Staff 
+than is available in the existing literature, and (3) 
+those looking for a synthesis of the latest research 
+and views on the Russian General Staff from both 
+Western and Russian-language analysts. 
+We have divided this paper into two sections. In the 
+first, we provide a general overview of the Russian 
+General Staff, which we intend to serve as a useful 
+resource for researchers, analysts, and observers who 
+need a quick reference to the major components and 
+functions of the institution. This section of the paper 
+covers the formal structures of the Russian General 
+Staff, its relationship with other military-bureaucratic 
+institutions within Russia, its role in civil-military 
+relations, its historical evolution, and its special role 
+during wartime. 
+In the second section, we provide additional 
+perspectives on whether and in what ways the 
+Russian General Staff influences Russia’s political-
+military decision-making processes and outcomes by 
+looking at its institutional role within the MOD, the 
+Russian military ecosystem, and the Russian political-
+military order. We specifically examine how the 
+General Staff acts and asserts itself as an institution 
+for military decision-making while considering the 
+dynamics of political and policy influence in Russia 
+and where it sits in developing military and political-
+military doctrine. We also examine how incumbency 
+and leadership continuity have influenced the 
+chief of the General Staff (CGS)—the single most 
+important uniformed figure in the Russian military 
+and second only to the minister of defense and the 
+Russian president as supreme commander-in-chief 
+of the armed forces. 
+We conclude with a set of key insights on the 
+General Staff and implications for policy-makers in 
+Western states. 
+We intend this occasional paper to be easily digestible 
+to analysts looking for a quick primer on the Russian 
+General Staff as well as a short-form introduction 
+to current debates within Russia surrounding the 
+institution’s place, activities, and relevance within 
+the Russian military. We focus particularly on recent 
+changes and the importance of wartime conditions. 
+Much longer treatments of the Russian General Staff 
+exist elsewhere and inform the paper throughout.1
+In developing this paper, we referenced a set of 
+existing secondary sources on the Russian General 
+Staff in English and in Russian, supplementing them 
+as needed by official Russian government documents 
+
+The Central Brain of the Russian Armed Forces
+   2  | www.cna.org   
+and journalistic accounts. 2 We rely extensively 
+on open-source reporting in a descriptive and 
+ideographic manner. In the second section, we bring 
+in theoretical perspectives on decision-making, 
+institutional influence, and regime politics, but we 
+do not rely on a single overarching framework. 
+Overall, this paper focuses on the role of the Russian 
+General Staff as a key intellectual hub and as the 
+key war-planning, war-executing, and operational-
+strategic decision-making body in the ecosystem of 
+major institutions that make up the Russian military. 
+This impressive institution has safeguarded its core 
+role within the Russian MOD and broader military 
+decision-making space while slowly innovating 
+through internal modernization related to command 
+and control (C2) and operational-strategic command. 
+All the while, it has successfully defended its 
+prerogatives to plan and execute war-making on 
+behalf of the minister of defense and the supreme 
+commander-in-chief against bureaucratic rivals and 
+is tightly integrated with both the regional military 
+districts and the wartime theater and operational 
+commands. It has thrived under CGS Gerasimov, 
+despite challenges both before and after the onset 
+of the Russia-Ukraine war, and it is well positioned to 
+remain the key decision-influencing, war-planning, 
+and operational-strategic locus of energy within the 
+Russian Armed Forces for the foreseeable future. 
+2  For a list of key Russian language documents, leader statements, and analytic pieces on the General Staff, see the Russian-
+language section of Appendix B: Recommended Reading. 
+
+The Central Brain of the Russian Armed Forces
+   3  | www.cna.org   
+OVERVIEW OF THE RUSSIAN 
+GENERAL STAFF 
+3  The Russian term is Ob’edinyonnoye Strategicheskoe Komandovanie (OSK) and is often referred to generically as military districts. 
+4  Alexis A. Blanc et al., The Russian General Staff: Understanding the Military’s Decisionmaking Role in a “Besieged Fortress, ” RAND, 
+Mar. 2023, https://www.rand.org/pubs/research_reports/RRA1233-7.html, p. vi. 
+The Russian General Staff is a long-standing 
+institution within the Russian Armed Forces, having 
+existed in one form or another since the 18th century 
+while providing continuity from the imperial period 
+through the Soviet era and into the present day. In 
+this section, we provide a descriptive overview of the 
+Russian General Staff as of summer 2024, illustrating 
+its formal structure, its relationship to other military-
+bureaucratic institutions within the Russian MOD, and 
+its place in the broader ecosystem of state institutions 
+within Russia’s authoritarian political order. 
+Formal structure and primary tasks
+The Russian General Staff is the organizational and 
+substantive centerpiece of a C2 structure that is 
+among the flattest and simplest that the Russian 
+military has had in modern times. It executes C2 
+directly over Russia’s strategic forces, while the Joint 
+Strategic Commands (JSCs) direct conventional 
+forces with oversight from the General Staff. 3 The 
+JSCs, also known as military districts, are shown in 
+Figure 1. The General Staff is responsible for drafting, 
+coordinating, and executing the military’s long-term 
+force development plans in coordination with the 
+service headquarters. 
+The General Staff is headed by the CGS, who holds 
+command authority over the whole of the Russian 
+Armed Forces alongside the minister of defense and 
+the Russian president in his constitutional role as 
+supreme commander-in-chief. The CGS also serves 
+as the first deputy minister of defense and in the 
+modern era is understood to maintain a mutually 
+supportive and symbiotic relationship with the 
+defense minister.4 
+The CGS is formally subservient to and directly 
+appointed by the president, yet as first deputy 
+minister of defense, the CGS also holds a hierarchical 
+position underneath the minister of defense. In 
+this way, the CGS holds two potentially competing 
+positions within the political-military hierarchy, 
+although in both cases, the CGS ultimately does not 
+have the final word on decision-making beyond the 
+operational-strategic level. 
+In addition to C2 and operational-strategic 
+planning, the General Staff is tasked with theorizing, 
+conceptualizing, operationalizing, and implementing 
+operational control and military planning 
+requirements for the Russian Armed Forces over the 
+short, medium, and long term. It does so through 
+institutions within its specialized directorates as well 
+as other research institutions associated with the 
+General Staff. 
+This function is meant to guide and assist the service 
+headquarters (i.e., ground forces, naval forces, 
+aerospace forces, strategic rocket forces, airborne 
+forces, and special operations forces), which focus 
+on recruiting and developing officers, planning 
+future force employment, and planning weapons 
+systems development in coordination with the 
+
+The Central Brain of the Russian Armed Forces
+   4  | www.cna.org   
+defense industrial base.5 In other words, the General 
+Staff performs the functions of both the US Office of 
+the Secretary of Defense and the Joint Staff, as well 
+as some tasks assigned to combatant commands in 
+the US system. 
+The General Staff is administratively divided into a 
+set of directorates: 
+• Main Operations Directorate (Glavnoe 
+operativnoe upravlenie—GOU)
+• Main Directorate (Glavnoe upravlenie—
+traditionally known as GRU but formally 
+known as GU)
+5  On the Russian military-industrial complex, see, for example, Mathieu Boulègue, “Russia’s Military-Industrial Complex and Military 
+Innovation,” in Assessing Russian Plans for Military Regeneration: Modernization and Reconstitution Challenges for Moscow’s War 
+Machine, ed. Mathieu Boulègue et al. (Chatham House, July 2024), pp. 44–52,  https://www.chathamhouse.org/2024/07/assessing-
+russian-plans-military-regeneration/07-russias-military-industrial-complex-and. 
+• Main Organization and Mobilization 
+Directorate (Glavnoe organizatsionno-
+mobilizatsionnoe upravlenie—GOMU)
+• Main Communications Directorate (Glavnoe 
+upravlenie svyazi—GUS)
+• National Defense Management Center 
+(Natsional’nyi Tsentr Upravleniya Oboronoi 
+RF—NTsUO)
+• Operational Training Directorate (Upravlenie 
+operativnoi podgotovki—UOP)
+• Directorate of Electronic Warfare 
+Troops (Upravlenie nachal’nika voisk 
+radioelektronnoi bor’by—UNVRB)
+Figure 1. Russia’s military districts, February 2024
+Source: “Map of Military Districts of Russia 2024,” Wikimedia Commons, Feb. 26, 2024, CC BY-SA 4.0, https://commons.wikimedia.
+org/wiki/File:Map_of_Military_districts_of_Russia_2024.svg.
+Leningrad Military District
+Moscow Military 
+District
+Eastern Military District
+Central Military District
+Southern Military District
+
+The Central Brain of the Russian Armed Forces
+   5  | www.cna.org   
+• Military Topographic Directorate (Voenno-
+topograficheskoe upravlenie—VTU)
+• Directorate for the Construction and 
+Development of Unmanned Aerial Systems 
+(Upravlenie stroitelstva i razvitiya sistemy 
+bespilotnykh letatelnykh apparatov—
+USRSBLA)
+• 8th Directorate (State Secret Protection 
+Service of the Armed Forces)
+• Archive Service 
+Underneath or outside of the primary directorates, 
+other military institutions also exist within the 
+General Staff’s purview, including the Military 
+Academy of the General Staff (and its Center for 
+Military-Strategic Studies), the Military Band Service, 
+and Russia’s Special Operations Forces. 
+These directorates are not meant to be of equivalent 
+importance but rather to reflect distinct tasks and 
+functions within the General Staff. Some are headed 
+by two- or three-star flag officers, including the 
+GRU or the GOU, whereas others are responsible 
+for purely administrative functions or have highly 
+specific and technical roles (such as the UNVRB or 
+USRSBLA). Figure 2 notes the general organizational 
+chart for the major directorates. 
+The GOU is one of the most important directorates 
+for warfighting, given that it is the “leading military 
+command body that solves problems of planning 
+and command and control of troops” and that it 
+“transforms all decisions and instructions of the 
+military-political leadership of the country into the 
+6  Sergei Rudskoi, “In the Center of the Defense of the Country [В центре обороны страны],” Krasnaya Zvezda, Feb. 19, 2021, http://
+redstar.ru/v-tsentre-oborony-strany/. 
+7  See, for example, Mark Phythian and David Strachan-Morris, “Intelligence & the Russo-Ukrainian War: Introduction to the 
+Special Issue,” Intelligence and National Security 39, no. 3 (2024), pp. 377–85; Mark Galeotti, “GRU: Military Intelligence,” Mayak 
+Intelligence, Apr. 2021; and Mark Galeotti, “The Intelligence and Security Services and Strategic Decision-Making,” George C. Marshall 
+European Center for Security Studies, Security Insights, May 2019, https://www.marshallcenter.org/sites/default/files/files/2019-09/
+SecurityInsights_30_Galeotti_May2019.pdf. 
+8  Vitalii Tsymbal and Vasilii Zatsepin, “New System of Management of Russian Defense: Reform or Imitation? [Новая система 
+управления обороной России: Реформа или имитация],” Ekonomicheskoe Razvitie Rossii 22, no. 5 (2015): 80–83, https://cyberleninka.
+ru/article/n/novaya-sistema-upravelniya-oboronoi-rossii-reforma-ili-imitatsiya.
+form of directives, combat orders and orders, and 
+promptly communicates them to the troops,” in 
+the words of GOU head Sergei Rudskoi. 6 It shares 
+this task with the NTsUO, which implements and 
+coordinates in real time. Meanwhile, the GRU is one 
+of the most aggressive intelligence institutions in 
+Russia, with considerable reach in areas of active 
+combat (such as Ukraine or Syria), among Wagner 
+Group enterprises in sub-Saharan Africa, and in active 
+operations against Western targets.7 Appendix: Tasks 
+of the General Staff reproduces the formal task list of 
+the General Staff in Russian legislation. 
+The dominant role of the General Staff in the 
+Russian military is to provide the military with some 
+insulation from bureaucratic rivalries among the 
+service branches and between theater commands. 
+The General Staff’s vertical planning and resource 
+distribution process shapes the Russian military’s 
+long-term force structure and procurement priorities 
+in an efficient manner, promoting policy consistency 
+over time. This system, in theory, is designed to 
+allow the General Staff to overcome bureaucratic 
+resistance to make hard strategic and organizational 
+choices at a structural level. 
+The C2 system of the General Staff is run though 
+the NTsUO, which was set up by the MOD in 2014 
+to modernize and streamline operational decision-
+making and coordination efforts. The NTsUO serves 
+as the central peacetime and wartime command 
+post and situation center, is a physical location in 
+Moscow from which the execution of military plans 
+takes place, and also is a coordinating military-
+bureaucratic entity.8 
+
+The Central Brain of the Russian Armed Forces
+   6  | www.cna.org   
+Below the NTsUO structure, corresponding subordinate 
+posts have been set up at every level down to the 
+brigade. These posts include strategic control centers 
+within each service, independent combat arm and 
+regional defense centers within each JSC headquarters, 
+territorial defense centers in operational formations, 
+and command posts at the division and brigade levels.9 
+The NTsUO’s place in the broader chain of command 
+for combat operations is shown in Figure 3.
+9  Tsymbal and Zatsepin, “New System of Management of Russian Defense.”
+10  Tsymbal and Zatsepin, “New System of Management of Russian Defense.”
+The NTsUO consists of three main components: the 
+Center for Daily Activities, the Center for Combat Control, 
+and the Center for Control of Strategic Nuclear Forces. 
+It allows senior military leadership to direct combat 
+operations and monitor the military’s daily activities, 
+including training, readiness, budget execution, and 
+facilities maintenance and construction. During a major 
+war, nearly all government internal security operations 
+are assigned to the jurisdiction of the NTsUO as well.10 
+Figure 2. Organizational chart of the Russian General Staff 
+Source: CNA, updated from Alexis A. Blanc et al., The Russian General Staff: Understanding the Military’s Decisionmaking Role in a 
+“Besieged Fortress,” RAND, Mar. 2023, https://www.rand.org/pubs/research_reports/RRA1233-7.html. 
+Note that the head of the Main Directorate is an admiral.
+a Arrested in May 2024.
+Figure 2: Organizational Chart of the General Staff 
+Chief of the
+General Staff
+Main Organization  
+and Mobilization
+Directorate, Deputy  
+Chief of the  
+General Staff
+Main Operations
+Directorate, First  
+Deputy Chief of  
+the General Staff
+Main
+Communications
+Directorate, Deputy  
+Chief of the  
+General Staff
+Main Directorate,
+Deputy Chief of 
+the General Staff
+National Defense
+Management Center
+Operational
+Training
+Directorate
+Directorate  
+of Electronic
+Warfare Troops
+Directorate for
+the Construction
+and Development
+of Unmanned
+Aerial Systems
+Military
+Topographic
+Directorate
+Archive
+Service
+8th Directorate
+First Deputy Chief  
+of the General Staff
+Valerii Gerasimov
+General of the Army
+Evgenii Burdinskii
+Colonel-General
+Sergei Rudskoi
+Colonel-General
+Vadim Shamarina
+Lieutenant General
+Igor Kostyukov
+Colonel-General
+Stanislav 
+Gadzhimagomedov
+Lieutenant General
+Fanil Sarvarov
+Major General
+Yurii Lastochkin
+Lieutenant General
+Aleksandr 
+Novikov 
+Major General
+Aleksandr 
+Zalizniuk
+Eduard
+Paderin
+Andrei 
+Kolovanov
+Major General
+Nikolai Bogdanovskii
+Colonel-General
+
+The Central Brain of the Russian Armed Forces
+   7  | www.cna.org   
+Although little is known publicly about the NTsUO’s 
+operations during the current Russia-Ukraine war, 
+analysts have viewed it as a major contributor to 
+Russian victory during the Syrian Civil War. 11 During 
+this conflict, it served as a management center 
+11  See, for example, Blanc et al., The Russian General Staff; Michael Kofman, “Syria and the Russian Armed Forces: An Evaluation of 
+Moscow’s Military Strategy and Operational Performance,” in Russia’s War in Syria: Assessing Russian Military Capabilities and Lessons 
+Learned, ed. Robert E. Hamilton, Chris Miller, and Aaron Stein (Foreign Policy Research Institute, 2020). 
+12  Blanc et al., The Russian General Staff, p. 46. 
+that furthered coordination efforts and connected 
+the MOD, combat forces in theater, and political 
+principals in the Kremlin together. One report 
+described the NTsUO as a “whole-of-government 
+management center.”12 
+Figure 3. Russian chain of command for combat operations 
+Source: CNA, derived from Roger N. Dermott and Charles K. Bartles, The Russian Military Decision-Making Process & Automated 
+Command and Control, German Institute for Defense and Strategic Studies, Oct. 2020, https://www.researchgate.net/
+publication/345212545_The_Russian_Military_Decision-Making_Process_Automated_Command_and_Control. 
+Figure 1: Russian Armed Forces Chain of Command for Combat Operations
+Command of  
+combat operations
+Tactical/ 
+Operational
+Source: https://www.researchgate.net/publication/345212545_The_Russian_Military_Decision-Making_Process_Automated_Command_and_Control
+President Supreme  
+Commander-in-Chief
+Ministry of Defense
+Chief of General Staff
+Chief of Operations
+CDR of centrally 
+controlled forces
+Strategic nuclear, 
+Airborne, Military 
+Transport Aviation
+Regional level of 
+federal ministries, 
+services and agencies
+Local level of 
+federal ministries, 
+service and agencies
+temporary 
+interministerial 
+presence
+permanent 
+interministerial 
+presence
+General Staff
+Directorate
+Military support  
+structures
+Operational/ 
+Strategic
+National Defense 
+Management Center
+Ministry of Defense
+Joint Strategic 
+Command
+CDR higher-level 
+large formations
+Joint Strategic 
+Command HQ
+Military 
+District HQ
+Civil-military  
+coordination
+Strategic
+Other federal 
+ministries, service 
+and agencies
+Military 
+District
+Chief of local 
+defense staffs
+The Assessed Chain of Command for Combat Operations
+subordinated to: supports: coordination with:
+
+The Central Brain of the Russian Armed Forces
+   8  | www.cna.org   
+Relationship with other military-
+bureaucratic institutions
+The General Staff has previously been described as 
+“the brain of the Russian army.”13 What this means in 
+practice is that the General Staff (alongside theater 
+commanders and the JSCs) is tasked with developing 
+military doctrine, force development and training 
+concepts, and operational planning, whereas other 
+parts of the military structure are responsible for 
+other aspects of the functioning of the military, 
+such as budgeting, procurement, and training. 
+The General Staff is also responsible for combat 
+readiness and force mobilization—tasks that have 
+become especially crucial during wartime.
+The leadership of the MOD and the General Staff 
+currently work in a smooth and complementary 
+relationship, but this was not the case during Russia’s 
+post-Soviet military history. Rather, the 1990s and 
+early 2000s were characterized by frequent and 
+long-lasting internal conflicts between the minister 
+of defense and the CGS caused by an unclear 
+division of responsibilities and subsequent efforts by 
+both figures to attain primacy. These conflicts were 
+particularly visible between Minister of Defense Igor 
+Sergeev and CGS Anatoly Kvashnin in the late 1990s 
+and between Anatoly Serdyukov and Yuri Baluyevsky 
+from 2007 to 2008. The earlier conflict was rooted 
+in different visions of military development between 
+Sergeev, who sought primacy for the strategic rocket 
+forces, and Kvashnin, who preferred to focus on the 
+ground forces.14 
+In this case, Kvashnin emerged victorious, with 
+Sergeev being replaced by Sergei Ivanov, a longtime 
+Putin insider. To date, Sergeev was the last Russian 
+13  Steven J. Main, “The ‘Brain’ of the Russian Army: The Centre for Military-Strategic Research, General Staff (TsVSI GSh), 1985–2000,” 
+The Journal of Slavic Military Studies 13, no. 3 (2000), p. 47.
+14  Nikolai Sokov, “The Nuclear Debate of Summer 2000,” NTI Report (June 2004), www.nti.org/analysis/articles/nuclear-debate-
+summer-2000/.
+15  Chloe Arnold, “Russia: Resignation Signals Trouble Within Defense Ministry,” RFE/RL, Mar. 27, 2008, https://www.rferl.
+org/a/1079697.html . 
+16  See, for example, discussion in Blanc et al., The Russian General Staff.
+defense minister who was career uniformed military, 
+with all subsequent defense ministers having been 
+civilians—possibly out of a desire to reduce internal 
+conflicts within the military elite over strategic and 
+political-military issues. Meanwhile, the later conflict 
+between Baluyevsky and Serdyukov was rooted 
+in different visions for the future development of 
+the armed forces; this conflict resulted in not only 
+Baluyevsky’s dismissal but also the restructuring of 
+the General Staff.15 
+As part of the Serdyukov military reform, the 
+duplication of responsibilities between the General 
+Staff and the MOD proper (and therefore intra-
+bureaucratic stresses within the Russian Armed 
+Forces) has been eliminated, with the General Staff 
+focusing on strategic planning and operations. Since 
+the 2009 reform, the General Staff has had primary 
+decision-making authority over military planning 
+and warfighting, whereas other parts of the MOD 
+and other services have generally overseen basic 
+training, support functions, and, in the case of the 
+military services, implementation of plans developed 
+by the General Staff. Notably, although the minister 
+of defense is the primary political contact on the 
+military side of Russia’s civil-military relationship, the 
+CGS is the official actually tasked with developing 
+and executing military operations at the strategic 
+and operational-strategic level, thus de facto running 
+any given military action.16 
+Given the centrality of the ground forces in the 
+Russian military, the leadership of the General Staff 
+primarily consists of officers from the ground forces, 
+which means that other services, and especially the 
+Navy and the Air Force, generally have less influence 
+in the General Staff.
+
+The Central Brain of the Russian Armed Forces
+   9  | www.cna.org   
+Role in civil-military relations and 
+regime politics
+Although the General Staff as an organization 
+performs analytical and planning roles for the 
+Russian military, the CGS has for many years had a 
+more politically prominent role. Since the advent of 
+civilian defense ministers early in Vladimir Putin’s 
+presidency, the CGS has de facto been the highest 
+ranking military officer in the Russian military. As 
+such, the CGS has played a pivotal role in providing 
+the military perspective on security issues that are 
+key to the political leadership. 
+At the same time, given the strict subordination 
+of the military to civilian rule and the Russian 
+military’s overall culture of avoiding direct 
+participation in politics, the CGSs do not make 
+direct public pronouncements on government 
+decisions regarding security issues or the use of 
+force. Furthermore, as far as is known, they have 
+also refrained from privately conveying positions 
+on these issues to the political leadership, focusing 
+instead on more practical aspects of potential 
+military operations, including their feasibility and 
+options for how they might be carried out. To the 
+extent that the military leadership has provided 
+a point of view to the political leadership on the 
+wisdom of various policy choices, these views have 
+been conveyed by the minister of defense rather 
+than the CGS.
+After many years of conflictual relations between 
+defense ministers and CGSs, the period since 2008 has 
+been characterized by smooth and cordial relations 
+between Sergei Shoigu and Valeriy Gerasimov—the 
+top civilian and military officials in the MOD and 
+General Staff, respectively. Anatoly Serdyukov and 
+CGS Nikolay Makarov worked together to carry 
+out the New Look Reforms from 2009 to 2012, 
+17  Kirill Shamiev, Understanding Senior Leadership Dynamics Within the Russian Military, Center for Strategic and International 
+Studies, July 2021, https://www.csis.org/analysis/understanding-senior-leadership-dynamics-within-russian-military. 
+18  William E. Odom, The Collapse of the Soviet Military (New Haven: Yale University Press, 1998).
+with Serdyukov focusing on the organizational 
+and financial aspects, as well as providing top 
+cover, while Makarov focused on the specifics of 
+military reorganization. Sergei Shoigu and Valery 
+Gerasimov had a similar division of responsibilities, 
+though focused more on reestablishing stability and 
+increasing effectiveness within the military forces 
+rather than pushing through further reforms.17 
+The replacement of Shoigu by Andrei Belousov 
+in the spring of 2023 has raised the question of 
+whether CGS Gerasimov will soon be replaced as 
+well, though for the moment Putin has indicated 
+that he will remain in place. Regardless of whether 
+Gerasimov remains or is replaced by a new CGS, by 
+all indications, the CGS will continue to refrain from 
+direct involvement in the political sphere and will 
+focus instead on running military operations.
+Historical evolution
+The functions of the Russian military’s General Staff 
+have remained remarkably consistent since the 
+early days of the Red Army. The General Staff was 
+described as the “brain” of the Soviet military as 
+early as the 1920s. During World War II, the General 
+Staff was given operational control of the military, 
+and it has retained this function during wartime ever 
+since. Assessing the post-WWII military-bureaucratic 
+landscape, Odom noted, “After the war it became 
+the most powerful centre for virtually all aspects of 
+military planning, operations, and determination of 
+resource requirements.”18 
+During the Soviet period, the General Staff was 
+responsible for virtually all military planning, 
+including the development of war plans, whereas the 
+minister of defense and his staff were responsible 
+primarily for setting policy direction, which was then 
+implemented by the General Staff and the services. 
+
+The Central Brain of the Russian Armed Forces
+   10  | www.cna.org   
+After the breakup of the Soviet Union and the 
+establishment of a separate Russian army, the 
+General Staff largely retained the responsibilities 
+that it had during the Soviet period. These 
+responsibilities included strategic defense planning, 
+operational planning, C2 in both peacetime and 
+wartime, recruitment and mobilization planning, and 
+planning for weapons and equipment procurement. 
+The services then implemented many of the plans 
+developed by the General Staff, either on their own 
+or with the General Staff. 
+Lack of clarity regarding their respective roles 
+and responsibilities resulted in recurring conflicts 
+between the General Staff and the minister of 
+defense, which were especially prominent in the 
+late 1990s and early 2000s. Russia addressed these 
+conflicts by making changes to the role of the 
+General Staff, implemented as part of the 2009 New 
+Look Reform. 
+The changes turned the General Staff more clearly into 
+a strategic planning body, removing any ambiguity 
+over whether it was responsible for combat training 
+or various support functions. At the same time, the 
+formerly independent GRU was incorporated within 
+the General Staff, giving the General Staff a direct 
+role in overseeing intelligence operations as well. 19 
+The role of the General Staff has remained largely 
+unchanged since the 2009 reform.
+Role of the General Staff during 
+wartime
+Since the start of Russia’s war against Ukraine, the 
+General Staff has played a key role in war planning. 
+It is responsible for overall planning of how the 
+19  Note that the GRU was formally renamed the GU (Main Directorate, Glavnoe upravlenie) in 2010. President Putin is on record 
+suggesting that the old name could be restored, although there has been no movement on this since first suggested in 2018. 
+20  Mykhaylo Zabrodskyi et al., Preliminary Lessons in Conventional Warfighting from Russia’s Invasion of Ukraine: February–July 2022, 
+Royal United Services Institute, Nov. 2022, https://www.rusi.org/explore-our-research/publications/special-resources/preliminary-
+lessons-conventional-warfighting-russias-invasion-ukraine-february-july-2022. 
+21  Julian G. Waller and Cornell Overfield, Wartime Russian Civil-Military Relations: Dimensions, Tensions, and Disruptions, CNA, DRM-
+2024-U-038041-Final, July 2024. 
+war is being conducted, including overall strategy, 
+mobilization plans, coordination with defense 
+industry to ensure the procurement of necessary 
+weapons and equipment, and various other aspects 
+of operational planning. 
+During the initial period of war, no single operational 
+commander was responsible for the overall war 
+effort, which in effect meant that the General Staff 
+was responsible for coordination among the multiple 
+military district headquarters that were prosecuting 
+different geographic parts of the war. 20 In later 
+periods, a single commander was appointed for the 
+war effort. During some periods, the CGS served as 
+the overall commander of the war effort, whereas at 
+other times, the operation was headed by a separate 
+senior officer. This was the case most notably during 
+General Sergei Surovikin’s installation as commander 
+of the Joint Grouping of Forces in the areas of the 
+Special Military Operation from October 2022 to 
+January 2023.21
+Except for the period during which General Aleksandr 
+Dvornikov, the commander of the Southern Military 
+District, was commanding the operation, the staffing 
+for the operational command likely came primarily 
+from the General Staff. Operational command was 
+definitely staffed by the General Staff beginning 
+in January 2023, when CGS Gerasimov was put in 
+charge of the operation while concurrently retaining 
+his position as CGS.
+The tenure of the chief of the 
+General Staff
+The Russian General Staff has had unusual continuity in 
+its chief over the last decade. Multiple interpretations 
+
+The Central Brain of the Russian Armed Forces
+   11  | www.cna.org   
+have been offered for the continued tenure of CGS 
+Gerasimov. This issue has gained greater prominence 
+given that his firm ally, former minister of defense 
+Shoigu, was removed from the MOD in May 2024. 
+The three primary arguments are as follows: 
+• Regime politics. Gerasimov is personally 
+loyal to Putin, and in such a system, this 
+loyalty is rewarded. Prigozhin’s Rebellion 
+in June 2023 helped to remind the political 
+leadership of the importance of regular 
+military institutions as more reliable bastions 
+of loyalty and order. 
+• Bureaucratic politics. Gerasimov is a keen 
+bureaucratic actor and has allies in the 
+military-bureaucratic elite beyond just the 
+minister of defense. These alliances ensure 
+his safety because other patronal networks 
+within the Russian Armed Forces and the 
+wider political ecosystem can provide cover 
+and justification for his maintenance. 
+• Status quo interpretations. The ongoing 
+war renders his departure untenable, even 
+if a shakeup would be desirable. Shoigu’s 
+transfer was sufficiently disruptive to make 
+the idea of also changing the CGS—at least 
+immediately—unpalatable. 
+Gerasimov’s longevity has been a subject of interest 
+for some time. According to Alexis A. Blanc et al.:
+The political weight of Gerasimov, as the chief 
+of the General Staff, has grown over time. This 
+influence appears to be driven primarily by two 
+factors. First, similar to Leonid Brezhnev, Putin’s 
+decision to militarize Russian foreign policy 
+inherently makes the advice and professional 
+expertise of the General Staff and chief of the 
+General Staff relatively more prominent. Second…
+22  Blanc et al., The Russian General Staff, p. 95. 
+23  For further discussion of the MOD’s crisis of legitimacy during the Russia-Ukraine war, see Waller and Overfield, Wartime Russian 
+Civil-Military Relations.
+the relatively successful operations in Ukraine 
+and Syria showed that the armed forces can be 
+a useful foreign policy tool that contributes to 
+Russia’s position in the global arena.22
+Yet the Russia-Ukraine war suggests a more 
+complicated picture for the CGS, who has had 
+to deal with the downstream effects of failing to 
+achieve victory in the regime-change operation 
+that was originally conceptualized and planned in 
+February 2024. Indeed, both the minister of defense 
+and the CGS would be symbolically castigated by the 
+president in spring 2022 and would later be subject to 
+delegitimization by a chorus of war correspondents 
+and the irregular forces of PMC Wagner during 2022 
+and 2023.23 
+Nevertheless, CGS Gerasimov has survived in his 
+position as far as July 2024, lasting longer than 
+Shoigu. He is by far the longest serving CGS in 
+Russia’s post-Soviet history (as shown in Figure 4 ) 
+and has successfully managed to not only retain 
+his post but also oversee the modernization of the 
+General Staff and continue its central role in Russia’s 
+military-bureaucratic institutional ecosystem. 
+
+The Central Brain of the Russian Armed Forces
+   12  | www.cna.org   
+Figure 4. Chiefs of staff of the General Staff of the Russian Armed Forces, 1992‒2024 
+Source: CNA.
+Figure 3: Timeline of Chiefs of Staff of the Russian General Staff (1992-2024)
+Russian Armed Forces (1992–Present)
+1990
+2000
+2010
+Viktor Dubynin
+Army General
+Russian Ground Forces
+(1943–1992)
+Took office: June 10, 1992
+Left office: November 22, 1992
+Time in office: 165 days
+Viktor Samsonov
+Army General
+Russian Ground Forces
+(born 1941)
+Took office: October 18, 1996
+Left office: May 22, 1997
+Time in office: 216 days
+Yuri Baluyevsky
+Army General
+Russian Ground Forces
+(born 1947)
+Took office: July 19, 2004
+Left office: June 3, 2008
+Time in office: 3 years, 320 days
+Valery Gerasimov
+Army General
+Russian Ground Forces
+(born 1955)
+Took office: November 9, 2012
+Left office: Incumbent
+Time in office: 11 years, 229 days
+Mikhail Kolesnikov
+Army General
+Russian Ground Forces
+(1939–2007)
+Took office: November 22, 1992
+Left office: October 18, 1996
+Time in office: 3 years, 331 days
+Anatoly Kvashnin
+Army General
+Russian Ground Forces
+(1946–2022)
+Took office: May 22, 1997
+Left office: July 19, 2004
+Time in office: 7 years, 58 days
+Nikolai Makarov
+Army General
+Russian Ground Forces
+(born 1949)
+Took office: June 3, 2008
+Left office: November 9, 2012
+Time in office: 4 years, 159 days
+Source: Wikipedia (lol) https://en.wikipedia.org/wiki/Chief_of_the_General_Staff_(Russia) 
+
+The Central Brain of the Russian Armed Forces
+   13  | www.cna.org   
+THE WEIGHT OF THE GENERAL STAFF
+24  S. G. Spiridonov and S. E. Adamis, “A Methodological Approach to Substantiating the Rational Organizational Structure of Military 
+Command and Control Bodies [Методический подход к обоснованию рациональной организационной структуры органов 
+управления войсками],” Voenaya Mysl no. 7 (2024), pp. 98–104.
+25  See also Clint Reach et al., Russian Military Forecasting and Analysis: The Military-Political Situation and Military Security in Strategic 
+Planning, RAND, RR-A198-4, June 2022, https://www.rand.org/pubs/research_reports/RRA198-4.html.
+As described earlier, the Russian General Staff 
+is a core institution within the Russian military. 
+Nevertheless, some uncertainty remains about all the 
+ways in which the General Staff influences political-
+military decision-making processes and outcomes 
+in Russia. This section provides a brief discussion of 
+three dimensions to this question: military decision-
+making, political influence, and doctrinal influence. 
+The General Staff and military 
+decision-making
+The General Staff’s importance in military decision-
+making is the most straightforward and clear, as we 
+have already discussed. Without replicating that 
+discussion, we emphasize that the General Staff is 
+formally tasked with operational-strategic decision-
+making, in coordination with theater commanders 
+and the JSC administration. To this end, the NTsUO C2 
+system was designed specifically to support the top-
+down command structure traditionally preferred by 
+the Russian Armed Forces, with General Staff officers 
+equipped to think operationally and strategically 
+while field officers work at the tactical level and defer 
+to the hierarchy for major decisions. 
+Thinking on the military role of the General Staff 
+continues to evolve in Russia, with an overall 
+emphasis on continued centralization. However, this 
+emphasis is to some degree running up against the 
+day-to-day military realities of the current war, which 
+often require localized decision-making. Russian-
+language military science publications have not 
+produced much new public work on the operations 
+of the General Staff since the onset of the Russia-
+Ukraine war, with a few exceptions. 
+One article from 2024 focuses on technical 
+approaches to coordinating C2, describing the 
+need for a “network theory” approach to help 
+undergird C2 efforts across the military to “allow 
+combining reconnaissance, surveillance, navigation, 
+identification, target designation, guidance systems, 
+combat platforms and combat command and control 
+systems in a single information space.” 24 In doing 
+so, it emphasizes the importance of a centralized 
+hierarchy in a “pyramidal configuration,” a clear set 
+of tasks and goals, and proportional distribution 
+of implementing points in the organizational tree 
+relative to a small set of core decision-makers and 
+task-setters. 
+This piece is instructive because it aligns with the 
+general approach of the General Staff toward military 
+decision-making overall—as a problem of systems 
+that can be solved scientifically through organization 
+and process in a centralized fashion.25 
+The General Staff and political 
+influence 
+The question of how much political influence the 
+General Staff has in Russia’s authoritarian system is 
+less clear. Although previous general staffs, such as 
+the Prussian and German General Staffs of the 19th 
+and early 20th century, were often important political 
+actors within certain militarized polities, the same is 
+not true in Russia. No doubt this difference is largely 
+
+The Central Brain of the Russian Armed Forces
+   14  | www.cna.org   
+because of the successful maintenance of civilian 
+control over the military, as well as the foregrounding 
+of the minister of defense role as the most important 
+bridging figure between the uniformed military 
+and political decision-makers in the Kremlin (the 
+president, the presidential administration, and the 
+Security Council most specifically).26 
+Therefore, the General Staff does not have direct 
+political influence and largely has to work through 
+other actors or by shaping the decision-making space 
+through decisions relevant to the capabilities and 
+design of the Russian Armed Forces. Nevertheless, 
+the General Staff has been able at times to exert 
+influence through the defense minister through 
+connections with unofficial war correspondents in 
+civil society, through retired military officers in the 
+Duma or Federation Council (especially those who 
+sit on parliamentary committees relevant to national 
+security, military affairs, and financial decisions), 
+and through the GRU, which at times has had direct 
+channels to the Russian political leadership.27 
+Finally, the CGS personally has a direct channel to 
+the president but is unlikely to use it other than for 
+operational military matters. This is because of the 
+minister of defense’s premier position in the civil-
+military relationship vis-à-vis the president, his 
+place on the Security Council, and his place in the 
+Cabinet of Ministers in the government.28 Put simply, 
+the minister of defense is much more integrated 
+into political and political-military structures and 
+26  For further discussion on Russia’s evolving wartime civil-military relationship, see Waller and Overfield, Wartime Russian Civil-
+Military Relations. 
+27  Galeotti, “The Intelligence and Security Services and Strategic Decision-Making.” See also changing regulations on C2 issues as 
+well as questions about private military companies working through the Russian State Duma throughout the wartime period—for 
+example, Angelica Evans et al., “Russian Offensive Campaign Assessment, July 23, 2024,” Institute for the Study of War, July 23, 
+2024, https://www.understandingwar.org/backgrounder/russian-offensive-campaign-assessment-july-23-2024; “Head of Russia’s 
+State Duma Defense Committee Says There’s No Reason to Ban Wagner Group,” Meduza, June 25, 2023, https://meduza.io/en/
+news/2023/06/26/head-of-russia-s-state-duma-defense-committee-says-there-s-no-reason-to-ban-wagner-group. 
+28  Waller and Overfield, Wartime Russian Civil-Military Relations. 
+29  Blanc et al., The Russian General Staff, p. 97. 
+30  Anya Fink, The General Staff’s Throw-Weight: The Russian Military’s Role in and Views of US-Russian Arms Control, CNA, IRM-2024-
+U-037906-Final, Mar. 2024, https://www.cna.org/reports/2024/03/russian-military-role-in-us-russian-arms-control. 
+networks, whereas the CGS is more likely to demur 
+or act in a more restrained, advisory capacity.
+Certain policy matters have important General Staff 
+input. For example, as Blanc et al. note: 
+The General Staff continues to have a substantial 
+role in the preparation of official positions and 
+recommendations for Russian government 
+delegations to international negotiations on 
+security and arms control matters. The General 
+Staff analyzes and plans negotiations and, in 
+cooperation with the Ministry of Foreign Affairs, 
+prepares the “draft directives” for Russian 
+representatives engaged in the talks. Thus, the 
+General Staff serves as an advisory body to the 
+MOD and government more broadly.29 
+Elsewhere, Fink notes that the General Staff has an 
+important place at the table in nuclear and arms 
+control issues, not least because the CGS is one of 
+three officials with access to the codes controlling 
+Russia’s nuclear arsenal.30 
+The General Staff and doctrinal 
+influence
+The General Staff plays a key role in developing 
+military doctrine for the Russian military. This role 
+includes not just the operational use of military 
+forces but also the wartime organization of the entire 
+state. According to statements by CGS Gerasimov, 
+
+The Central Brain of the Russian Armed Forces
+   15  | www.cna.org   
+these plans include strategic deterrence measures 
+that go beyond the purely military to all aspects of 
+national power (diplomatic, informational, military, 
+and economic). In addition, the General Staff has 
+included considerations of civil defense, crisis 
+management, and internal stability in its planning 
+efforts along these lines. 
+According to Gerasimov, this form of planning 
+requires close cooperation between the General Staff, 
+the Federal Security Service (FSB), the Ministry of 
+Internal Affairs (MVD), and the Ministry of Emergency 
+Situations (MChS). 31 The FSB, MVD, and MChS are 
+all part of the power or security bloc of the Russian 
+government, making the General Staff institutionally 
+networked across the range of coercive agencies 
+beyond the MOD itself. The establishment of the 
+Information Operations Troops as a separate unit 
+within the General Staff has given the General Staff 
+authority over planning in the cyber and information 
+warfare domains as well. 
+In the purely military realm, the General Staff has 
+in recent years focused doctrinal innovation on the 
+effect of the use of long-range weapons in wartime, 
+both in conflict and as part of deterrence efforts using 
+conventional weapons. It has also paid a great deal 
+of attention to the role of the space domain in future 
+warfare. Even more recently, it has focused on the role 
+of uncrewed systems and resulting shifts in wartime. 
+All of these aspects of doctrinal innovation are likely 
+to be included in future editions of Russia’s official 
+Military Doctrine, a document that was last updated 
+in 2014. At that time, Russia’s overall geopolitical 
+situation was very different from the present day, as 
+was the nature of its military capabilities. 
+31  Gerasimov, “The Role of the General Staff.” 
+
+The Central Brain of the Russian Armed Forces
+   16  | www.cna.org   
+CONCLUSION 
+The Russian General Staff is an intellectual hub as 
+well as the key war-planning, war-executing, and 
+operational-strategic decision-making body in the 
+ecosystem of major institutions that make up the 
+Russian military. It has successfully defended its 
+prerogatives to plan and execute war-making on 
+behalf of the minister of defense and his principal in 
+the Kremlin, and it is tightly integrated with both the 
+regional military districts and wartime theater and 
+operational commands. It has thrived under CGS 
+Gerasimov, despite challenges both before and after 
+the onset of the Russia-Ukraine war, and it is well 
+positioned to remain the key decision-influencing, 
+war-planning, and operational-strategic locus of 
+energy within the Russian Armed Forces for the 
+foreseeable future. 
+Reviewing the de jure and de facto roles, functions, 
+and operations of the Russian General Staff allows 
+us to lay out the decision-making and operational-
+strategic core to the Russian Armed Forces overall. 
+Several points can be brought to bear here: 
+• The General Staff has retained and perhaps 
+gained in its central role as the key 
+conceptual, coordinating, and organizational 
+institution within the Russian Armed Forces. 
+This role has been notably influenced by the 
+introduction of the NTsUO and its successful 
+testing during the Syrian Civil War. More 
+research is necessary to determine how the 
+NTsUO has operated during the Russia-
+Ukraine war, but such information may be 
+inaccessible for open-source research for 
+some time. 
+• The longevity of CGS Gerasimov has 
+been helpful for maintaining the General 
+Staff’s position within the military-
+bureaucratic hierarchy and has likely 
+furthered centralization dynamics. Whether 
+the General Staff may be reformed or 
+decision-making shifted to JSCs, theater 
+commanders, or other parts of the MOD 
+upon Gerasimov’s retirement remains an 
+open question. 
+• Policy-makers in the US and among 
+partners and allies require a useful and 
+comprehensive look at the General Staff, 
+not least because of its primary role 
+in prosecuting and implementing the 
+operational and strategic direction of the 
+ongoing Russia-Ukraine war. Efforts to 
+disrupt components of the General Staff, 
+including the NTsUO, through cyber or 
+other means of pressure, may add to 
+stresses on the Russian Armed Forces within 
+its central nervous system. 
+
+The Central Brain of the Russian Armed Forces
+   17  | www.cna.org   
+APPENDIX A: TASKS OF THE 
+GENERAL STAFF
+32  Updated list as of February 2024; directly translated from President of the Russian Federation, “Decree of the President of the 
+RF from 23.07.2013 No. 631 (red. from 26.02.2024) Questions of the General Staff of the Armed Forces of the Russian Federation 
+[Указ Президента РФ от 23.07.2013 No. 631 (ред от 26.02.2024), Вопросы Генерального штаба Вооруженных Сил Российской 
+Федерации],” Feb. 26, 2024, https://legalacts.ru/doc/ukaz-prezidenta-rf-ot-23072013-n-631/.
+The following reproduces the official statutory tasks 
+of the General Staff as of February 2024 as described 
+in Decree of the President of the Russian Federation 
+No. 631.32
+a) organization of management of the Armed 
+Forces;
+b) organization of defense planning of the 
+Russian Federation;
+c) organizing the development of proposals 
+for the formation and implementation 
+of state policy in the field of defense, 
+participation in its implementation;
+d) coordination of the actions of the Armed 
+Forces, other troops and military formations 
+in peacetime when carrying out strategic 
+deterrence measures;
+e) organizing the planning and 
+implementation of measures to build 
+the Armed Forces, coordinating the 
+development of concepts, plans for the 
+construction and development of other 
+troops and military formations in the 
+interests of defense;
+f) organizing the transfer in accordance with 
+legislative and other regulatory legal acts of 
+the Russian Federation of the Armed Forces, 
+other troops, military formations, bodies 
+and special formations on the organization 
+and composition of wartime, as well as 
+ensuring their mobilization deployment;
+g) organizing the maintenance of the 
+Armed Forces in the necessary readiness 
+and monitoring these activities, as well 
+as monitoring the state of mobilization 
+readiness of other troops, military and 
+special forces;
+h) management of operational and 
+mobilization training of the Armed 
+Forces, coordination of operational and 
+mobilization training of other troops, 
+military and special formations;
+i) organizing and conducting activities for 
+strategic (operational) support of the Armed 
+Forces;
+j) organization of intelligence activities in 
+the interests of defense and within its 
+competence in the interests of the security 
+of the Russian Federation;
+k) development of the control system of the 
+Armed Forces and coordination of the 
+development of control systems of other 
+troops, military and special formations in 
+the interests of defense;
+l) organization of communications and 
+automated control of the Armed Forces, 
+determining the procedure for using and 
+planning the use of the radio frequency 
+spectrum for defense purposes;
+m) planning and organizing organizational 
+activities in the Armed Forces, organization 
+
+The Central Brain of the Russian Armed Forces
+   18  | www.cna.org   
+and implementation of interaction with other 
+troops and military formations on the issues 
+of carrying out the specified events in them;
+n) organization of recruitment of the Armed 
+Forces, other troops, military formations, 
+bodies and special forces with military 
+personnel undergoing conscription military 
+service;
+o) planning the provision of the Armed Forces 
+with the main types of weapons, military, 
+special equipment and materiel, as well 
+as the accumulation and deployment of 
+emergency reserves of these means;
+p) no longer in force on April 22, 2020. - Decree 
+of the President of the Russian Federation of 
+April 22, 2020 N 283;
+q) organizing measures to protect state secrets 
+in the Armed Forces and federal executive 
+bodies and organizations subordinate to 
+the Russian Ministry of Defense and control 
+over their implementation.
+p)
+
+The Central Brain of the Russian Armed Forces
+   19  | www.cna.org   
+APPENDIX B: RECOMMENDED 
+READING
+For ease of reference, we provide here two 
+reading lists. First, we offer a selection of the most 
+comprehensive English-language works specifically 
+on the Russian General Staff and its core operations 
+in the last 25 years. These works inform the analytic 
+approach and empirical assertions in this paper 
+throughout, although direct citations are kept to a 
+minimum for brevity. Second, we offer a list of key 
+Russian-language documents, leader statements, 
+and analytic pieces on the General Staff. 
+English-language sources
+Blanc, Alexis A., Alyssa Demus, Sandra Kay Evans, 
+Michelle Grisé, Mark Hvizda, Marta Kepe, 
+Natasha Lander, and Krystyna Marcinek. The 
+Russian General Staff: Understanding the 
+Military’s Decisionmaking Role in a “Besieged 
+Fortress.” RAND. Mar. 2023. https://www.rand.
+org/pubs/research_reports/RRA1233-7.html. 
+Fink, Anya. The General Staff’s Throw-Weight: The 
+Russian Military’s Role in and Views of US-
+Russian Arms Control. CNA. IRM-2024-U-
+037906-Final. Mar. 2024. https://www.cna.
+org/reports/2024/03/russian-military-role-in-
+us-russian-arms-control. 
+Galeotti, Mark. “The Main Operations Directorate: 
+The Head and the Heart of the General Staff.” 
+Mayak Intelligence. July 2021. 
+Jonsson, Oscar. The Russian General Staff Between 
+Soft Warfare and a Hard Place. Phronesis 
+Analysis, 2021.
+Kokoshin, A. A. “Defense Leadership in Russia: The 
+General Staff and Strategic Management in 
+Comparative Perspective.” Belfer Center for 
+Science and International Affairs. Discussion 
+Paper 2002–15. Nov. 2002. https://www.
+belfercenter.org/sites/default/files/pantheon_
+files/files/publication/kokoshin_nov02.pdf. 
+Main, Steven J. “The ‘Brain’ of the Russian Army: 
+The Centre for Military-Strategic Research, 
+General Staff (TsVSI GSh), 1985–2000.” The 
+Journal of Slavic Military Studies 13, no. 3 
+(2000): 47–62. 
+Main, Steven J. Couch for the MOD of the CGS? The 
+Russian Ministry of Defense and the General 
+Staff 2001– 2004. Conflict Studies Research 
+Centre. May 2004.
+McDermott, Roger N., and Charles K. Bartles. The 
+Russian Military Decision-Making Process & 
+Automated Command and Control. German 
+Institute for Defense and Strategic Studies. 
+Oct. 2020.  https://www.researchgate.net/
+publication/345212545_The_Russian_Military_
+Decision-Making_Process_Automated_
+Command_and_Control.
+Reach, Clint, Alyssa Demus, Eugeniu Han, Bilyana 
+Lilly, Krystyna Marcinek, and Yuliya Shokh. 
+Russian Military Forecasting and Analysis: 
+The Military-Political Situation and Military 
+Security in Strategic Planning. RAND. RR-
+A198-4. June 2022. https://www.rand.org/
+pubs/research_reports/RRA198-4.html. 
+
+The Central Brain of the Russian Armed Forces
+   20  | www.cna.org   
+Whisler, Greg. “Strategic Command and Control in 
+the Russian Armed Forces: Untangling the 
+General Staff, Military Districts, and Service 
+Main Commands (Part One).” Journal of Slavic 
+Military Studies 32, no. 4 (2019): 463–484. 
+Whisler, Greg. “Strategic Command and Control in 
+the Russian Armed Forces: Untangling the 
+General Staff, Military Districts, and Service 
+Main Commands (Part Two).” Journal of Slavic 
+Military Studies 33, no. 1 (2020): 89–112. 
+Whisler, Greg. “Strategic Command and Control in 
+the Russian Armed Forces: Untangling the 
+General Staff, Military Districts, and Service 
+Main Commands (Part Three).” Journal of Slavic 
+Military Studies 33, no. 2 (2020): 237–258. 
+Russian-language sources
+The following documents represent a partial list of 
+important Russian-language writing on the General 
+Staff that informed this paper. In addition, a variety 
+of official documents and institutional descriptions 
+can be found at the Russian Ministry of Defense 
+website (core site: https://structure.mil.ru and 
+https://structure.mil.ru/structure/structuremorf.htm, 
+accessed July 23, 2024). 
+Baluevskii, Yuri, ed. The General Staff of the Russian 
+Military: History and Modernity [Генеральный 
+штаб Российской Армии: История и 
+современность]. Moscow: Akademicheskii 
+Proekt, 2006. 
+Fedotov, Igor A. “Directions for the Development 
+of the Operational-Strategic Command of 
+the Military District at the Present Stage of 
+Construction of the Armed Forces of the 
+Russian Federation [Направления развития 
+оперативно-стратегического командования 
+военного округа на современном 
+этапе строительства Вооруженных Сил 
+Российской Федерации].” Vestnik Akademii 
+Voennykh Nauk 4, no. 57 (2016): 65–69. 
+Gareev, Makhmut A. “The Role of the Staff in the 
+Military Command System [Роль штабов в 
+системе военного управления].” Vestnik 
+Akademii Voyennih Nauk, no. 1 (2003).
+Gerasimov, Valerii V. “The Influence of the 
+Modern Nature of the Armed Struggle 
+on the Direction of the Construction and 
+Development of the Armed Forces of 
+the Russian Federation. Priority Tasks of 
+Military Science in Ensuring the Country’s 
+Defense [Влиянье современного характера 
+вооруженной борьбы на направленность 
+строительства и развития Вооруженных 
+Сил Российской Федерации. Приоритетные 
+задачи военной науки в обеспечении 
+обороны страны].” Vestnik Akademii Voennyh 
+Nauk 62, no. 1 (2018): 16–22.
+Gerasimov, Valerii V. “The Role of the General 
+Staff in the Organization of the Defense of 
+the Country in Accordance with the New 
+Regulations on the General Staff, Approved 
+by the President of the Russian Federation 
+[Роль генерального штаба в организации 
+обороны страны соответствии с новым 
+положением о генеральном штабе, 
+утвержденным президентом российсской 
+федерации].” Vestnik Akademii Voennykh 
+Nauk, no. 1 (2014): 14–22.
+
+The Central Brain of the Russian Armed Forces
+   21  | www.cna.org   
+President of the Russian Federation. “Decree of 
+the President of the RF from 23.07.2013 
+No. 631 (red. from 26.02.2024) Questions 
+of the General Staff of the Armed Forces of 
+the Russian Federation [Указ Президента 
+РФ от 23.07.2013 No. 631 (ред от 
+26.02.2024), Вопросы Генерального 
+штаба Вооруженных Сил Российской 
+Федерации].” Feb. 26, 2024. https://
+legalacts.ru/doc/ukaz-prezidenta-rf-ot-
+23072013-n-631/. 
+Rudskoi, Sergei. “Generator of Ideas and Plans 
+[Генератор идеи и замыслов].” Krasnaya 
+Zvezda no. 18 (2018).
+Rudskoi, Sergei. “Pulse of the Defense of the 
+Country [Пульс обороны страны].” Krasnaya 
+Zvezda, no. 17 (2017). 
+Shoigu, Sergei. “Speech of the Minister of Defense 
+of the Russian Federation General of the 
+Army S. K. Shoigu [Выступление министра 
+обороны Российской Федерации генерала 
+армии С. К. Шойгу].” Vestnik Akademii 
+Voennykh Nauk 1, no. 42 (2013). 
+
+The Central Brain of the Russian Armed Forces
+   22  | www.cna.org   
+ABBREVIATIONS
+C2 command and control
+CGS chief of the General Staff
+GOMU Main Organization and Mobilization Directorate (Glavnoe Organizatsionno-
+Mobilizatsionnoe Upravlenie)
+GOU Main Operations Directorate (Glavnoe Operativnoe Upravlenie)
+GS General Staff of the Armed Forces of the Russian Federation (General’nyy Shtab 
+Vooruzhonnykh Sil Rossiyskoy Federatsii)
+GRU Main Directorate (Glavnoe Upravlenie—also GU)
+GUS Main Communications Directorate (Glavnoe Upravlenie Svyazi)
+JSC Joint Strategic Command (OSK— Ob’edinyonnoye Strategicheskoe Komandovanie)
+MChS Ministry of Emergency Situations 
+MOD Ministry of Defense 
+MVD Ministry of Internal Affairs
+NTsUO National Defense Management Center (Natsional’nyi Tsentr Upravleniya Oboronoi RF)
+FSB Federal Security Service (Federal’naya sluzhba bezopasnosti)
+UNVRB Directorate of Electronic Warfare Troops (Upravlenie nachal’nika voisk radioelektronnoi 
+bor’by)
+UOP Operational Training Directorate (Upravlenie Operativnoi podgotovki)
+USRSBLA Directorate for the Construction and Development of Unmanned Aerial Systems 
+(Upravlenie Stroitelstva i Razvitiya Sistemy Bespilotnykh Letatelnykh Apparatov)
+VTU Military Topographic Directorate (Voenno-Topograficheskoe Upravlenie)
+
+The Central Brain of the Russian Armed Forces
+   23  | www.cna.org   
+REFERENCES
+Arnold, Chloe. “Russia: Resignation Signals Trouble 
+Within Defense Ministry.” RFE/RL. Mar. 27, 
+2008. https://www.rferl.org/a/1079697.html.
+Blanc, Alexis A., Alyssa Demus, Sandra Kay Evans, 
+Michelle Grisé, Mark Hvizda, Marta Kepe, 
+Natasha Lander, and Krystyna Marcinek. The 
+Russian General Staff: Understanding the 
+Military’s Decisionmaking Role in a “Besieged 
+Fortress. ” RAND. Mar. 2023. https://www.rand.
+org/pubs/research_reports/RRA1233-7.html.
+Boulègue, Mathieu. “Russia’s Military-Industrial 
+Complex and Military Innovation.” In Assessing 
+Russian Plans for Military Regeneration: 
+Modernization and Reconstitution Challenges 
+for Moscow’s War Machine. Edited by Mathieu 
+Boulègue, Justin Bronk, Karolina Hird, Jaclyn 
+Kerr, Rob Lee, and Michael B. Petersen. 
+Chatham House, July 2024, 44–52. https://
+www.chathamhouse.org/2024/07/assessing-
+russian-plans-military-regeneration/07-
+russias-military-industrial-complex-and. 
+Evans, Angelica, Riley Bailey, Nicole Wolkov, 
+Kateryna Stepanenko, Davit Gasparyan, 
+Karolina Hird, and George Barros. “Russian 
+Offensive Campaign Assessment, July 23, 
+2024.” Institute for the Study of War. July 23, 
+2024. https://www.understandingwar.org/
+backgrounder/russian-offensive-campaign-
+assessment-july-23-2024. 
+Fink, Anya. The General Staff’s Throw-Weight: The 
+Russian Military’s Role in and Views of US-
+Russian Arms Control. CNA. IRM-2024-U-
+037906-Final. Mar. 2024. https://www.cna.org/
+reports/2024/03/russian-military-role-in-us-
+russian-arms-control. 
+Galeotti, Mark. “GRU: Military Intelligence.” Mayak 
+Intelligence. Apr. 2021. 
+Galeotti, Mark. “The Intelligence and Security 
+Services and Strategic Decision-Making.” 
+George C. Marshall European Center for 
+Security Studies. Security Insights. May 2019. 
+https://www.marshallcenter.org/sites/default/
+files/files/2019-09/SecurityInsights_30_
+Galeotti_May2019.pdf. 
+Gerasimov, Valerii V. “The Role of the General 
+Staff in the Organization of the Defense of 
+the Country in Accordance with the New 
+Regulations on the General Staff, Approved 
+by the President of the Russian Federation 
+[Роль генерального штаба в организации 
+обороны страны соответствии с новым 
+положением о генеральном штабе, 
+утвержденным президентом российсской 
+федерации].” Vestnik Akademii Voennykh 
+Nauk no. 1 (2014): 14–22. 
+“Head of Russia’s State Duma Defense Committee 
+Says There’s No Reason to Ban Wagner 
+Group.” Meduza. June 25, 2023. https://
+meduza.io/en/news/2023/06/26/head-of-
+russia-s-state-duma-defense-committee-says-
+there-s-no-reason-to-ban-wagner-group.
+
+The Central Brain of the Russian Armed Forces
+   24  | www.cna.org   
+Kofman, Michael. “Syria and the Russian Armed 
+Forces: An Evaluation of Moscow’s Military 
+Strategy and Operational Performance.” 
+In Russia’s War in Syria: Assessing Russian 
+Military Capabilities and Lessons Learned. 
+Edited by Robert E. Hamilton, Chris Miller, and 
+Aaron Stein. Foreign Policy Research Institute. 
+2020.
+Main, Steven J. “The ‘Brain’ of the Russian Army: The 
+Centre for Military-Strategic Research, General 
+Staff (TsVSI GSh), 1985–2000.” The Journal of 
+Slavic Military Studies 13, no. 3 (2000): 47–62.
+Odom, William E. The Collapse of the Soviet Military. 
+New Haven: Yale University Press, 1998.
+Phythian, Mark, and David Strachan-Morris. 
+“Intelligence & the Russo-Ukrainian War: 
+Introduction to the Special Issue.” Intelligence 
+and National Security 39, no. 3 (2024): 377–85. 
+Reach, Clint, Alyssa Demus, Eugeniu Han, Bilyana 
+Lilly, Krystyna Marcinek, and Yuliya Shokh. 
+Russian Military Forecasting and Analysis: The 
+Military-Political Situation and Military Security 
+in Strategic Planning. RAND. RR-A198-4. June 
+2022. https://www.rand.org/pubs/research_
+reports/RRA198-4.html.
+Rudskoi, Sergei. “In the Center of the Defense of 
+the Country [В центре обороны страны].” 
+Krasnaya Zvezda (Feb. 19, 2021). http://
+redstar.ru/v-tsentre-oborony-strany/.
+Shamiev, Kirill. Understanding Senior Leadership 
+Dynamics Within the Russian Military. Center 
+for Strategic and International Studies. 
+July 2021. https://www.csis.org/analysis/
+understanding-senior-leadership-dynamics-
+within-russian-military. 
+Sokov, Nikolai. “The Nuclear Debate of Summer 
+2000.” NTI Report. June 30, 2004. www.
+nti.org/analysis/articles/nuclear-debate-
+summer-2000/.
+Spiridonov, S. G., and S. E. Adamis. “A 
+Methodological Approach to Substantiating 
+the Rational Organizational Structure of 
+Military Command and Control Bodies 
+[Методический подход к обоснованию 
+рациональной организационной структуры 
+органов управления войсками].” Voenaya 
+Mysl no. 7 (2024): 98–104.
+Tsymbal, Vitalii and Vasilii Zatsepin. “New System 
+of Management of Russian Defense: Reform 
+or Imitation? [Новая система управления 
+обороной России: Реформа или имитация].” 
+Ekonomicheskoe Razvitie Rossii 22, no. 5 
+(2015): 80–83. https://cyberleninka.ru/
+article/n/novaya-sistema-upravelniya-
+oboronoi-rossii-reforma-ili-imitatsiya.
+Waller, Julian G., and Cornell Overfield. Wartime 
+Russian Civil-Military Relations: Dimensions, 
+Tensions, and Disruptions. CNA. DRM-2024-U-
+038041-Final. July 2024. 
+
+The Central Brain of the Russian Armed Forces
+   25  | www.cna.org   
+Zabrodskyi, Mykhaylo, Jack Watling, Oleksandr V. 
+Danylyuk, and Nick Reynolds. Preliminary 
+Lessons in Conventional Warfighting from 
+Russia’s Invasion of Ukraine: February–July 
+2022. Royal United Services Institute. Nov. 
+2022. https://www.rusi.org/explore-our-
+research/publications/special-resources/
+preliminary-lessons-conventional-warfighting-
+russias-invasion-ukraine-february-july-2022.
+
+The Central Brain of the Russian Armed Forces
+   26  | www.cna.org   
+This page intentionally left blank.
+
+This report was written by CNA’s Strategy, Policy, Plans, and Programs Division (SP3).
+SP3 provides strategic and political-military analysis informed by regional expertise to support operational and policy-
+level decision-makers across the Department of the Navy, the Office of the Secretary of Defense, the unified combatant 
+commands, the intelligence community, and domestic agencies. The division leverages social science research methods, 
+field research, regional expertise, primary language skills, Track 1.5 partnerships, and policy and operational experience 
+to support senior decision-makers.
+Any copyright in this work is subject to the Government’s Unlimited Rights license as defined in DFARS 252.227-7013 and/or DFARS 252.227-
+7014. The reproduction of this work for commercial purposes is strictly prohibited. Nongovernmental users may copy and distribute this document 
+noncommercially, in any medium, provided that the copyright notice is reproduced in all copies. Nongovernmental users may not use technical 
+measures to obstruct or control the reading or further copying of the copies they make or distribute. Nongovernmental users may not accept 
+compensation of any manner in exchange for copies.
+All other rights reserved. The provision of this data and/or source code is without warranties or guarantees to the Recipient Party by the Supplying 
+Party with respect to the intended use of the supplied information. Nor shall the Supplying Party be liable to the Recipient Party for any errors or 
+omissions in the supplied information.
+This report may contain hyperlinks to websites and servers maintained by third parties. CNA does not control, evaluate, endorse, or guarantee content 
+found in those sites. We do not assume any responsibility or liability for the actions, products, services, and content of those sites or the parties that 
+operate them.
+ABOUT CNA  
+CNA is a nonprofit research and analysis organization dedicated to the safety and security of the nation. It operates the 
+Center for Naval Analyses—the federally funded research and development center (FFRDC) of the Department of the 
+Navy—as well as the Institute for Public Research. CNA develops actionable solutions to complex problems of national 
+importance. With nearly 700 scientists, analysts, and professional staff, CNA takes a real-world approach to gathering 
+data. Its unique Field Program places analysts on aircraft carriers and military bases, in squad rooms and crisis centers, 
+working side by side with operators and decision-makers around the world. CNA supports naval operations, fleet 
+readiness, and strategic competition. Its non-defense research portfolio includes criminal justice, homeland security, 
+and data management.
+
+www.cna.org
+DOP-2024-U-038956-1Rev  © 2024 CNA Corporation

@@ -1,0 +1,20 @@
+# Chinese PLA — Group Army / Fleet / Base: Eastern Theater Command Air Force (东部战区空军)
+
+**Unit ID**: etcaf
+**Service**: PLAAF
+**Type**: air_force_base
+**Headquarters**: Nanjing
+**Parent**: Eastern Theater Command (东部战区) (etc)
+**Strength (% authorized)**: 100%
+**Notes**: Manages PLAAF units in ETC AOR. Key fighter brigades include J-20 (8th, 9th, 41st Bdes), J-16 (7th, 40th Bdes), Su-30MKK (85th Bde), JH-7A (83rd Bde). Primary air combat power for Taiwan contingency. [Heritage Foundation 2026-01-20] [CASI/PLAAF Overview 2023]
+
+## Subordinate Brigade / Division / Flotillas
+- **8th Fighter Brigade (J-20A)** (elite) (etcaf_8bde) — type: fighter_brigade, HQ: Changxing Air Base, Zhejiang, strength: 100%. J-20A 5th gen stealth fighter. Adopted J-20 2022. ETC priority air superiority. [Heritage Foundation 2026-01-20] [CASI J-20 Status 2024-04-29]
+- **9th Fighter Brigade (J-20)** (elite) (etcaf_9bde) — type: fighter_brigade, HQ: Wuhu Air Base, Anhui, strength: 100%. J-20 5th gen stealth fighter. First operational J-20 unit in ETC, adopted 2019. [Heritage Foundation 2026-01-20] [CASI J-20 Status 2024-04-29]
+- **41st Aviation Brigade (transitioning J-20)** (elite) (etcaf_41bde) — type: fighter_brigade, HQ: Wuyishan Air Base, Fujian, strength: 100%. Transitioning to J-20 as of late 2023. Fujian proximity to Taiwan Strait. [Heritage Foundation 2026-01-20] [CASI J-20 Status 2024-04-29]
+- **7th Aviation Brigade (J-16)** (etcaf_7bde) — type: fighter_brigade, HQ: Jiaxing Air Base, Zhejiang, strength: 100%. J-16 multirole strike fighter. [Heritage Foundation 2026-01-20]
+- **40th Aviation Brigade (J-16)** (etcaf_40bde) — type: fighter_brigade, HQ: Nanchang Xiangtang Air Base, Jiangxi, strength: 100%. J-16 ~70 aircraft. [Heritage Foundation 2026-01-20]
+- **83rd Aviation Brigade (JH-7A)** (etcaf_83bde) — type: fighter_brigade, HQ: Hangzhou Jianqiao Air Base, Zhejiang, strength: 100%. JH-7A fighter-bomber. [Heritage Foundation 2026-01-20]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

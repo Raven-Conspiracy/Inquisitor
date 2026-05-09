@@ -1,0 +1,15 @@
+# Chinese PLA — Group Army / Fleet / Base: Central Theater Command Air Force (中部战区空军)
+
+**Unit ID**: ctcaf
+**Service**: PLAAF
+**Type**: air_force_base
+**Headquarters**: Beijing
+**Parent**: Central Theater Command (中部战区) (ctc)
+**Strength (% authorized)**: 100%
+**Notes**: Manages PLAAF in CTC AOR. J-20 at 56th Bde (Zhengzhou). Wuhan base. Transport SAR brigade directly subordinate. [CASI J-20 Status 2024-04-29] [CASI/PLAAF Overview 2023]
+
+## Subordinate Brigade / Division / Flotillas
+- **56th Aviation Brigade (J-20)** (elite) (ctcaf_56bde) — type: fighter_brigade, HQ: Zhengzhou Air Base, Henan, strength: 100%. J-20 5th gen; adopted 2022. [CASI J-20 Status 2024-04-29]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

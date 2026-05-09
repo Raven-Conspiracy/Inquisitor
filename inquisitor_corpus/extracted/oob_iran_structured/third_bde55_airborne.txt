@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 55th Airborne Brigade (ELITE / first-tier)
+
+**Unit ID**: bde55_airborne
+**Type**: airborne
+**Headquarters**: Shiraz, Fars Province
+**Parent**: Service Branch: Islamic Republic of Iran Army (Artesh / IRIGF) (artesh)
+**Higher echelon**: —
+**Elite designation**: Yes
+**Strength (% authorized)**: 85%
+**Notes**: Commander: Col. Farhang Dehghani (since Dec 2024). One of two Artesh airborne brigades; complements NOHED. [CTP Artesh OOB Aug 2025] [DIA IMP 2019]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

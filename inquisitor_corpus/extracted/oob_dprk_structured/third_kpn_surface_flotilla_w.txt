@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: West Sea Surface Combatant Flotilla (Patrol/Missile Boats)
+
+**Unit ID**: kpn_surface_flotilla_w
+**Type**: surface_flotilla
+**Headquarters**: Nampo, Haeju, Pip'a-got, Sagon-ni
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: West Sea Fleet (West Coast Fleet) (kpn_west_fleet)
+**Higher echelon**: Korean People's Navy (Haegun)
+**Elite designation**: No
+**Strength (% authorized)**: 60.0%
+**Notes**: Osa-class missile boats (12 + 10 Soju domestic variants + 19 FAC), Chaho fire-support craft (62+), torpedo boats (~200 total fleet wide), Nampo landing craft (~100), Kongbang hovercraft (~125). [DIA NKMP 2021; Wikipedia KPN]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

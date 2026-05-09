@@ -1,0 +1,15 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: 6th Tactical Air Base — Bushehr (Yassini)
+
+**Unit ID**: tab6_bushehr
+**Service**: IRIAF
+**Type**: air_force_base
+**Headquarters**: Bushehr
+**Parent**: Islamic Republic of Iran Air Force (IRIAF) (iriaf)
+**Strength (% authorized)**: 35%
+**Notes**: F-4E; Su-35E on order 2025. Attacked Jun 13 and Jun 19, 2025. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+## Subordinate Division / Brigade / Squadrons
+- **61st Tactical Fighter Squadron (F-4E)** (sqn61_f4) — type: fighter_brigade, HQ: Bushehr, strength: 30%. F-4E Phantom II; Su-35E on order. TAB 6 attacked Jun 13 and Jun 19, 2025. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

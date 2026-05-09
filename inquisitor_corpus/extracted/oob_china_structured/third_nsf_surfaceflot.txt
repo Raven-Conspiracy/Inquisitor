@@ -1,0 +1,16 @@
+# Chinese PLA — Brigade / Division / Flotilla: North Sea Fleet Destroyer/Frigate Flotilla
+
+**Unit ID**: nsf_surfaceflot
+**Type**: surface_flotilla
+**Headquarters**: Qingdao
+**Parent**: Group Army / Fleet / Base: Northern Theater Command Fleet (North Sea Fleet, 北部战区海军) (nsf)
+**Higher echelon**: Northern Theater Command (北部战区)
+**Elite designation**: No
+**Strength (% authorized)**: 100%
+**Notes**: Includes Liaoning (CV-16 Type 001) Carrier Strike Group. Type 055 DDGs (4 hulls assigned NTC per NavalNews 2026). Type 052D, Type 054A frigates. [NavalNews 2026-01-03] [DOD CMPR 2024 p.45]
+
+## Authorized Equipment (estimated)
+- **destroyer** — Type 055 Renhai, Type 052D Luyang III — authorized: 6, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: Sepah-e Ansar al-Mahdi (Zanjan Provincial Corps)
+
+**Unit ID**: irgcgf_zanjan_corp
+**Type**: light_cab
+**Headquarters**: Zanjan City, Zanjan
+**Parent**: Region / Provincial Corps / Base: Ashura Operational HQ (Northwest — East/West Azarbaijan, Ardabil, Zanjan) (irgcgf_ashura_hq)
+**Higher echelon**: IRGC Ground Forces (IRGCGF)
+**Elite designation**: No
+**Strength (% authorized)**: 80%
+**Notes**: Commander: Jahanbakhsh Karami. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

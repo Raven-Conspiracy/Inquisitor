@@ -1,0 +1,15 @@
+# F3EA — A Targeting Paradigm for Contemporary Warfare
+
+## Abstract
+
+The current landscape of military operational thinking is dominated by the complex warfighting paradigm that embodies a shift to *war among the people*. In such wars, the precise application of force to produce effects — targeting — is critical to achieving military objectives while supporting civil aims and avoiding undesired outcomes. Contemporary warfare challenges the practice of targeting and the philosophy of its purpose, promoting a shift from *targeting for effect* to *targeting to learn*. This examination of the find, fix, finish, exploit, assess (F3EA) construct provides insights into the evolution of the targeting problem and the current solution, revealing strengths, limitations, and opportunities for change.
+
+## Introduction
+
+The current landscape of military operational thinking is dominated by counterinsurgency, as clearly demonstrated in Iraq and Afghanistan from 2001 through to the present day. This paradigm represents a shift from the late 20th century focus on industrial warfare (the legacy of state-based wars, particularly the Cold War and Gulf War I) to a less complete, more transient form of conflict that takes place *among the people*. Contemporary warfare poses several clear challenges to established doctrine and processes given the enormous changes in technology, in the nature and aims of the adversary, and in the operational environment. In particular, the practice of targeting — the application of force to produce an effect on selected battlespace elements — is adapting rapidly and dramatically to the new face of warfare.
+
+[Full article content on F3EA targeting paradigm - retrieved from Australian Army Research Centre]
+
+Source URL: https://researchcentre.army.gov.au/library/australian-army-journal-aaj/volume-10-number-1-autumn/f3ea-targeting-paradigm-contemporary-warfare
+Author: Mitch Ferry
+Publication: Australian Army Journal, Volume 10, Number 1, Autumn

@@ -1,0 +1,12 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: IRGC Aerospace Force Space Command
+
+**Unit ID**: irgcaf_space
+**Service**: IRGC-AF
+**Type**: space_command
+**Headquarters**: Tehran / Shahroud Launch Facility
+**Parent**: IRGC Aerospace Force (IRGCASF / IRGC-AF) (irgc_af)
+**Strength (% authorized)**: 100%
+**Notes**: Manages IRGC satellite program. Launched Nour-1 (Apr 2020), Nour-2 (Mar 2022), Nour-3 (Sep 2023) via Qased SLV from Shahroud. [Wikipedia IRGCASF] [Iran Watch 2020]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

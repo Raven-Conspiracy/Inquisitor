@@ -1,0 +1,2109 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=rbul20
+Bulletin of the Atomic Scientists
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/rbul20
+North Korean nuclear weapons, 2024
+Hans M. Kristensen, Matt Korda, Eliana Johns & Mackenzie Knight
+To cite this article: Hans M. Kristensen, Matt Korda, Eliana Johns & Mackenzie Knight (2024)
+North Korean nuclear weapons, 2024, Bulletin of the Atomic Scientists, 80:4, 251-271, DOI:
+10.1080/00963402.2024.2365013
+To link to this article:  https://doi.org/10.1080/00963402.2024.2365013
+Published online: 14 Jul 2024.
+Submit your article to this journal 
+Article views: 1983
+View related articles 
+View Crossmark data
+
+
+NUCLEAR NOTEBOOK
+North Korean nuclear weapons, 2024
+Hans M. Kristensen, Matt Korda, Eliana Johns and Mackenzie Knight
+ABSTRACT
+North Korea continues to modernize and grow its nuclear weapons arsenal. In this Nuclear 
+Notebook, the authors cautiously estimate that North Korea may have produced enough fissile 
+material to hypothetically build up to 90 nuclear warheads, but has likely assembled fewer than 
+that—potentially around 50. To deliver the warheads, North Korea is enhancing and diversifying its 
+missile force, most recently with new solid-fuel long-range strategic missiles, short-range tactical 
+missiles, and sea-based missiles. The Nuclear Notebook is researched and written by the staff of the 
+Federation of American Scientists’ Nuclear Information Project: director Hans M. Kristensen, associ -
+ate director Matt Korda, research associate Eliana Johns, and program associate Mackenzie Knight. 
+To see all previous Nuclear Notebook columns in the Bulletin of the Atomic Scientists dating back to 
+1987, go to https://thebulletin.org/nuclear-notebook/.
+KEYWORDS 
+North Korea; Nuclear 
+Notebook; ballistic missiles; 
+intercontinental ballistic 
+missiles; nuclear weapons; 
+Hwasong
+North Korea—also known as the Democratic People’s 
+Republic of Korea, or DPRK—has made significant 
+advances over the past two decades in developing its 
+nuclear weapons arsenal. Since 2006, North Korea has 
+detonated six nuclear devices, updated its nuclear doc -
+trine to reflect the irreversible role of nuclear weapons 
+for its national security, and continued to introduce 
+a variety of new missiles test-flown from new launch 
+platforms.
+It is widely assumed that North Korea has opera -
+tional nuclear warheads for its short- and medium- 
+range missiles as well as possibly for its longer-range 
+missiles, although the latter capability has not yet been 
+publicly demonstrated. There is considerable uncer -
+tainty about which of North Korea’s missiles have 
+been fielded with an active operational nuclear capabil -
+ity. However, it seems clearer from North Korea’s public 
+statements and systems-testing that the country intends 
+to field an operational nuclear arsenal capable of hold -
+ing targets at risk in East Asia, the United States, and 
+Europe.
+In 2021, Kim Jong-un announced several key strate -
+gic goals for North Korea’s nuclear weapons program, 
+proposed as a five-year plan. According to Kim’s state -
+ment, these goals included: 1) producing “super-sized 
+nuclear warheads,” 2) producing smaller and lighter 
+nuclear weapons for tactical uses, 3) improving preci -
+sion strike and range capabilities, 4) introducing 
+“hypersonic gliding flight warheads,” 5) developing 
+“solid-fuel engine propelled intercontinental, under -
+water, and ground ballistic rockets,” and 6) introducing 
+a “nuclear-powered submarine and underwater-launch 
+nuclear strategic weapon” (KCNA 2021 ). North Korea 
+appears to have made significant progress on these 
+goals, and has since introduced more demands includ -
+ing the dramatic increase of missile production and 
+“cutting edge strategic weapon engines” (Kim 2023 ).
+Due to the lack of clarity surrounding North Korea’s 
+nuclear program, agencies and officials of the US intel -
+ligence community, as well as military commanders and 
+independent experts, struggle to assess the program’s 
+characteristics and capabilities. As a result, this paper 
+relies upon publicly available information and satellite 
+imagery about North Korea’s fissile material produc -
+tion, nuclear posture, and delivery vehicle development, 
+and uses multiple sources of data whenever possible to 
+corroborate conclusions. We cautiously estimate that 
+North Korea might have produced sufficient fissile 
+material to potentially build up to 90 nuclear weapons 
+and might have assembled around 50 warheads for 
+delivery primarily by medium-range ballistic missiles 
+—an increase since our last report in 2022 (Kristensen 
+and Korda 2022 ).
+Research methodology and confidence
+After concluding a safeguards agreement with North 
+Korea in 1992, the International Atomic Energy 
+Agency (IAEA) accessed North Korean nuclear facilities 
+for the first time to verify North Korea’s nuclear materi -
+als declaration. In the years that followed, the IAEA 
+periodically visited North Korea to verify compliance 
+with this safeguards agreement, along with the Agreed 
+Framework and other initiatives, until the inspectors 
+CONTACT Hans M. Kristensen 
+ hkristensen@fas.org
+BULLETIN OF THE ATOMIC SCIENTISTS               
+2024, VOL. 80, NO. 4, 251–271 
+https://doi.org/10.1080/00963402.2024.2365013
+© 2024 Bulletin of the Atomic Scientists 
+
+were finally expelled in 2009. In addition, between 2004 
+and 2012 North Korea would also occasionally invite 
+unofficial expert delegations to observe its nuclear pro -
+gram and the suspension of activities at Yongbyon. 
+These meticulously documented IAEA inspections and 
+special experts’ visits—during which inspectors and 
+experts were able to tour and inspect North Korea’s 
+nuclear complex—continue to comprise much of the 
+foundation for the public’s understanding of North 
+Korea’s nuclear weapons arsenal.
+North Korea has also historically used its state-run 
+media outlets, such as the Korean Central News Agency 
+( KCNA ), the Rodong Sinmun newspaper, and Korean 
+Central Television , to release videos, images, and state -
+ments related to military parades, missile tests, and 
+other new weapon developments. Intentionally or not, 
+North Korean state media often provides insights into 
+key aspects of its nuclear weapons program. However, 
+this information is not considered to be fully reliable 
+given the many well-documented cases of exaggeration 
+and falsification found in previous North Korean pro -
+paganda efforts.
+Using these resources and other open sources, 
+including commercial satellite imagery and publicly 
+available reports from the IAEA and the UN Panel of 
+Experts on North Korea, analysts at independent orga -
+nizations have been able to examine industry networks, 
+locate key facilities, and map North Korea’s nuclear fuel 
+cycle to generate estimates of fissile material stockpiles 
+and production—all of which are key factors in asses -
+sing the size, sophistication, and status of North Korea’s 
+nuclear arsenal today.
+However, confidence in estimates about North 
+Korea’s nuclear capacity is slowly decreasing as we 
+move further away from the last official and unofficial 
+on-site inspections. Without data exchanges or access to 
+key sites, experts are forced to rely more on unofficial 
+sources and satellite imagery to infer the status of North 
+Korea’s arsenal. This presents unique challenges and 
+often can lead to a wide range of conclusions about 
+North Korea’s fissile material production, weapon 
+stockpiles, warhead designs, and other key factors, 
+which can even be contradictory in some cases. In the 
+sections below, we explain the assumptions used for our 
+estimates.
+North Korea’s nuclear policy
+For decades, North Korea has made numerous state -
+ments and signals about its nuclear weapons policy, 
+laying out its nuclear doctrine if deterrence fails. Such 
+statements have more recently been codified in official 
+declaratory policy. In 2013, for example, North 
+Korea’s “Law on Consolidating the Position of 
+Nuclear Weapons State” suggested a no-first-use pol -
+icy, noting that North Korea’s nuclear arsenal would 
+only be used “to repel invasion or attack from a hostile 
+nuclear weapons state and make retaliatory strikes” 
+(KCNA 2013 ). Kim Jong-un officially declared a no- 
+first-use policy in 2016 following North Korea’s fourth 
+nuclear test.
+Since 2016, however, North Korean statements 
+and force posture changes have indicated a shift 
+away from this no-first-use policy. Just two months 
+after the policy was declared, the North Korean gov -
+ernment issued a statement that North Korea would 
+not be the first to use nuclear weapons “as long as 
+the hostile forces for aggression do not encroach 
+upon its sovereignty” (KCNA 2016b ). In 2020, Kim 
+Jong-un stated that North Korea’s nuclear deterrent 
+“will never be used preemptively. But if [. . .] any 
+forces infringe upon the security of our state and 
+attempt to have recourse to military force against 
+us, I will enlist all our most powerful offensive 
+strength in advance to punish them” ( 38 North 
+2020 ). Such caveats culminated in September 2022 
+when North Korea’s parliament codified in law 
+North Korea’s right to launch nuclear weapons pre -
+emptively (Kim 2022 ). One year later, the North 
+Korean government codified under the country’s 
+constitution its right to “deter war and protect regio -
+nal and global peace by rapidly developing nuclear 
+weapons to a higher level” (Soo-Yeon 2023 ).
+The abandonment of North Korea’s no-first-use pol -
+icy coincides with the country’s recent efforts to develop 
+tactical nuclear weapons. Following development and 
+demonstration of new long-range strategic nuclear- 
+capable missiles, the pursuit of tactical nuclear weapons 
+appears intended to provide options for nuclear use 
+below the strategic level and strengthen its regional 
+deterrence posture (KCNA 2022 ; National Committee 
+on North Korea 2021 ). According to two analysts, 
+Pyongyang now sees its nuclear weapons as useful not 
+only for retaliation against an attack but also for poten -
+tially winning a limited conflict (Mount and Sup 2022 ). 
+Others have suggested that such a posture might involve 
+some degree of pre-delegating nuclear launch authority 
+down the chain of command (Narang and Panda 2017 ; 
+38 North 2022 ). But North Korea’s nuclear command 
+and control system is largely unknown, and it seems 
+doubtful that Kim Jong-un would be comfortable with 
+handing over control of nuclear weapons to the military: 
+In April 2024, North Korea conducted the first drill of 
+its “nuclear trigger” system including firing multiple 
+launch rocket system (MLRS) rockets with mock war -
+heads, reportedly to test “Kim’s ability to maintain 
+252
+ H. M. KRISTENSEN ET AL.
+
+command and control over nuclear weapons spread 
+across the country in a crisis” (Zwirko 2024 ).
+Occasionally, North Korea has explicitly mentioned 
+or signaled which targets it would hit with its nuclear 
+weapons. These include US military bases in South 
+Korea, the Asia-Pacific region, Guam, Hawaii, and the 
+continental United States. Knowing that its statements 
+and military activities are being closely followed and 
+analyzed abroad, in 2013 North Korea published 
+a picture of Kim Jung-un and military officials with 
+a map in the background apparently showing missile 
+tracks to several locations in the United States in what 
+was interpreted as a deliberate intent to unnerve the 
+United States (Berkowitz, Karklis, and Meko 2017 ; 
+Mansourov 2014 ). A 2016 statement by the Supreme 
+Command of the Korean People’s Army stated that the 
+country would first target South Korea’s Blue House (its 
+seat of government), then “the US imperialist aggressor 
+forces’ bases for invading [North Korea] in the Asia- 
+Pacific region and the US mainland,” in that order 
+(KCNA 2016a ). The statement does not explicitly men -
+tion nuclear use; however, it is strongly implied that 
+nuclear weapons would be used for at least the second 
+wave of attacks against targets related to the US-South 
+Korean’s conventional invasion force. The January 2021 
+report of the 8th Congress of the Workers’ Party of 
+Korea noted the goal of “making a preemptive and 
+retaliatory nuclear strike by further raising the rate of 
+precision good enough to strike and annihilate any 
+strategic targets within a range of 15,000 kilometers 
+with pinpoint accuracy” (National Committee on 
+North Korea 2021 ). In this context, nuclear use (or the 
+threat of nuclear use) with shorter- range missiles could 
+potentially be in an attempt to “decouple” US military 
+support from its regional allies in the Asia-Pacific 
+region, by withholding strikes on US homeland targets 
+during nuclear attacks on regional targets. Whether 
+North Korea’s nuclear posture is advanced enough to 
+support such a complex strategy is unknown. In 
+response to the arrival of a US B-52 bomber in South 
+Korea in October 2023, KCNA reported that US strate -
+gic assets deployed in South Korea would be the “first 
+targets of destruction” (Yonhap News Agency 2023 ).
+North Korea has also threatened to launch nuclear 
+weapons in response to more minor provocations, 
+including joint US-South Korean military exercises 
+(Ellyatt 2016 ). However, despite such occasional inflam -
+matory statements, it appears highly likely that North 
+Korea—as with other nuclear-armed states—would use 
+its nuclear weapons only under extreme circumstances, 
+particularly if the continued existence of the North 
+Korean state and its political leadership were 
+threatened.
+North Korea’s nuclear weapons program
+Plutonium production operations
+The Yongbyon Nuclear Scientific Research Center, 
+located in North Pyongan province, has been called 
+the “beating heart” of North Korea’s nuclear weapons 
+program. At Yongbyon, North Korea produces pluto -
+nium at its five megawatt-electric (MWe) graphite- 
+moderated nuclear reactor, which has been operating 
+intermittently since 1986. In July 2021, following several 
+years of inactivity, the IAEA and independent experts 
+detected the discharge of cooling water from the reactor 
+and subsequent steam plumes from the reactor’s hall, 
+signatures which would be consistent with the reactor 
+being operational once again (IAEA 2021 ; Pabian, 
+Town, and Liu 2021 ). In April and September 2023, 
+satellite imagery indicated that cooling water discharge 
+had ceased, suggesting that reactor operations had 
+ceased during those times (United Nations 2023 , 
+2024 ). This could mean that the reactor was undergoing 
+maintenance or that the spent fuel was removed to be 
+sent for reprocessing, which could potentially provide 
+five to eight kilograms of pure plutonium after separa -
+tion (Heinonen et al. 2023 ).
+The five megawatt-electric reactor could potentially 
+also be used to produce tritium—an element that can be 
+used to boost the yield of fission warheads. Some ana -
+lysts estimate North Korea could produce up to between 
+seven and 12 grams of tritium per year; enough for one 
+to three boosted fission bombs depending on the design 
+(Yang et al. 2024 ).
+In its August 2021 annual report, the IAEA con -
+cluded that the Yongbyon complex’s thermal plant— 
+which supplies steam to the radiochemical laboratory 
+used for plutonium reprocessing—operated for 
+approximately five months, from mid-February 2021 
+until early July 2021, after a multi-year hiatus (IAEA 
+2021 ). The IAEA noted that this timeframe was consis -
+tent with the time required to reprocess a complete core 
+of irradiated fuel. Emissions from the thermal plant at 
+the radiochemical laboratory were observed in July 2022 
+along with activity at the radioactive waste storage facil -
+ity, which could be a sign of preparations for 
+a reprocessing campaign, maintenance, or treatment of 
+radioactive waste (Makowsky et al. 2022 ; United 
+Nations 2023 ).
+Since 2010, North Korea has also been in the process 
+of constructing a light-water reactor (LWR) and has 
+engaged in moderate activity at the site for nearly 
+a decade, including construction of new buildings in 
+2021 and 2022 (Heinonen, Makowsky, and Liu 2022 ; 
+Makowsky, Heinonen, and Liu 2022a ). Between 2020 
+and 2023, the IAEA and the UN Panel of Experts 
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 253
+
+reported several tests of the LWR’s cooling water sys -
+tem, suggesting the reactor was being prepared for 
+operation (IAEA 2021 ; United Nations 2023 ). Then, in 
+October 2023, the IAEA reported increased levels of 
+activity that were consistent with the commissioning 
+of the LWR (IAEA 2023b ). Further observation of 
+a heat signature from the power switchyard and sus -
+tained warm water discharge from presumed cooling 
+lines in the following months seemed to indicate that 
+the reactor may be in its initial operational phase or 
+undergoing pre-operational testing (IAEA 2023a ; Park 
+and Puccioni 2024 ). Construction around the LWR was 
+observed through satellite imagery throughout 2023 
+(United Nations 2024 ). Although the LWR appears to 
+be designed for civilian electricity production, it also has 
+a latent capacity to produce weapons-grade plutonium 
+or tritium that could be used for North Korea’s nuclear 
+weapons program.
+In May 2022, independent analysts from the James 
+Martin Center for Nonproliferation Studies (CNS) 
+noted the possible resumption of construction at 
+North Korea’s long-dormant 50-MWe reactor, which 
+had been paused since 1994 (Lewis, Pollack, and 
+Schmerler 2022 ). The analysts concluded that, upon 
+completion, the reactor could theoretically produce 
+approximately 55 kilograms of plutonium per year, 
+enough to potentially produce about a dozen new 
+nuclear weapons per year, depending on the design of 
+the warhead. However, analysts from the Stimson 
+Center’s 38 North project subsequently noted that simi -
+lar construction efforts at the 50-MWe site are not 
+uncommon, and that the recent trenching activity 
+could be intended to service a nearby underground 
+facility that is unrelated to the reactor itself 
+(Makowsky, Heinonen, and Liu 2022a ). Given these 
+uncertainties, it remains unclear whether North Korea 
+has indeed restarted construction on the 50-MWe reac -
+tor; given the state of the reactor’s apparent disrepair, 
+doing so would likely take several years to complete 
+(Hecker 2010 ).
+Uranium enrichment operations
+Assessing the state of North Korea’s uranium enrich -
+ment operations is more difficult because the opera -
+tional history and locations of several associated 
+uranium enrichment facilities are unknown. In addi -
+tion, the associated facilities and their production capa -
+cities are harder to detect than those used for plutonium 
+production, as their signatures are less visible through 
+open sources. Much of what is publicly known is based 
+on reports from an unofficial delegation that visited 
+North Korea’s uranium enrichment facility at 
+Yongbyon in 2010. Open-source analysts have also 
+relied on satellite imagery and technical geological 
+methods to estimate the operation and production capa -
+city of North Korea’s known uranium mines, uranium 
+mills, and centrifuge facilities (Park et al. 2021 ).
+North Korea produces yellowcake—a type of ura -
+nium concentrate powder that, once converted and 
+enriched, is used in reactor fuel—at the Pyongsan ura -
+nium concentration plant (also known as the Nam-chon 
+chemical complex) (Bermudez, Cha, and Jun 2021 ). 
+Since 2020, analysts have observed ongoing mining, 
+milling, and concentration activities including 
+expanded tailings piles at the uranium concentration 
+plant and the uranium mine collocated at Pyongsan 
+(IAEA 2022 ; Makowsky 2023 ; United Nations 2024 ).
+North Korea has only one declared uranium enrich -
+ment facility—within the Yongbyon nuclear fuel rod 
+fabrication plant—which contained 2,000 centrifuges 
+when it was first revealed to a visiting delegation of 
+experts in 2010. The facility is now estimated to house 
+approximately 4,000 centrifuges after satellite imagery 
+indicated the uranium enrichment hall at the site nearly 
+doubled in size between 2013 and 2014. The enrichment 
+facility at Yongbyon was seen operating regularly 
+throughout 2021, as plumes of steam were observed 
+through satellite imagery as well as the presence of 
+what may have been a liquid nitrogen tank trailer on- 
+site (United Nations 2021b , 2022 ).
+1 
+The construction of 
+a second, smaller expansion to the uranium enrichment 
+hall was originally noted by analysts from CNS in 
+September 2021 before it was completed in May 2022. 
+This expansion could potentially accommodate 
+approximately 1,000 additional centrifuges, which 
+could increase the plant’s overall capacity by 25 percent 
+(Lewis, Pollack, and Schmerler 2021 ). Ongoing activity 
+at the facility can be observed through satellite imagery, 
+including the recently completed construction of several 
+new buildings in the southernmost section of the site; 
+however, the purpose of these buildings remains 
+unknown (Makowsky, Liu, and Heinonen 2023 ).
+It is widely believed that North Korea has at least one 
+additional clandestine centrifuge facility outside of the 
+known Yongbyon complex. In May 2018, the 
+Washington Post first reported the existence of 
+a potential uranium enrichment site at Kangson, just 
+outside of Pyongyang, citing work by the Institute for 
+Science and International Security (Warrick and 
+Mekhennet 2018 ). In 2022, the United Nations Panel 
+of Experts listed Kangson as a “suspected clandestine 
+uranium enrichment facility” and noted continuous 
+vehicular and construction activities since July 2021 
+(United Nations 2022 ). However, independent analysis 
+has raised doubts about the type of activities conducted 
+254
+ H. M. KRISTENSEN ET AL.
+
+at the Kangson complex, suggesting that the site might 
+be used to manufacture components for centrifuges 
+rather than to enrich uranium ( 38 North 2021 ; 
+Heinonen 2020 ). Without more detailed public infor -
+mation or access to the site itself, however, it is not 
+possible to confirm the purpose of the Kangson site 
+nor its potential role in North Korea’s nuclear weapons 
+program.
+Fissile material and warhead inventory estimates
+Because of the prior access to the facilities at Yongbyon, 
+analysts have a reasonable understanding of North 
+Korea’s plutonium production capabilities. However, 
+given the uncertainties about the operations at 
+Yongbyon’s uranium enrichment facility and the possi -
+ble existence of a second centrifuge facility, it is unclear 
+how much highly-enriched uranium (HEU) North 
+Korea has produced and how much uranium it might 
+divert to military purposes, including for plutonium 
+production. Still, this amount is known to be growing 
+and it is clear North Korea is investing in the improve -
+ment of its fissile material production capabilities.
+Throughout the years, many experts have attempted 
+to estimate North Korea’s fissile material production, 
+with a wide range of results. In April 2021, former Los 
+Alamos National Laboratory director, Siegfried Hecker, 
+who was given unprecedented access to North Korean 
+nuclear facilities over several years, estimated that North 
+Korea had a plutonium inventory in the range of 25 to 
+48 kilograms and could produce up to six kilograms 
+per year at full operation ( 38 North 2021 ). Hecker also 
+estimated that North Korea had possibly produced 600 
+to 950 kilograms of HEU as of the end of 2020 ( 38 North 
+2021 ). An assessment published by the Stockholm 
+International Peace Research Institute (SIPRI) sug -
+gested a wider range of possibly 230 to 1,180 kilograms 
+of HEU as of the beginning of 2021 (Kütt, Mian, and 
+Podvig 2022 , 426), whereas the International Panel on 
+Fissile Materials estimated a slightly smaller range of 
+400 to 1,000 kilograms of HEU in 2022 (International 
+Panel on Fissile Materials 2022 ). A report by David 
+Albright of the Institute for Science and International 
+Security suggested that North Korea’s fissile material 
+stockpile could range between 56 to 70 kilograms of 
+weapon-grade plutonium and between approximately 
+1,400 to 2,200 kilograms of HEU as of the end of 2022 
+(Albright 2023 ).
+A newly-published methodology for modeling North 
+Korea’s nuclear fuel cycle uses information gained from 
+the prior access provided to IAEA inspectors and inter -
+national experts, as well as satellite imagery and open 
+sources, to estimate fissile material production under 
+different scenarios (Christopher et al. 2023 ). These sce -
+narios are built around certain assumptions about 
+operational history, facility sophistication, and the exis -
+tence of other facilities. Depending on the assumptions 
+in the scenarios, as well as accounting for the allocation 
+of fissile materials to different fuel cycle activities and 
+nuclear tests, the model produces high- and low-range 
+estimates of North Korea’s potential plutonium and 
+HEU stockpiles.
+For the purpose of this notebook, we use this model 
+and incorporate three assumptions about North Korea’s 
+fissile material production:
+(1) Five full plutonium reprocessing campaigns have 
+taken place at the radiochemical laboratory since 
+2003.
+2
+(2) North Korea could operate up to 8,000 P2-type 
+centrifuges for uranium enrichment, including:
+a. Up to 4,000 P2-type centrifuges at North 
+Korea’s uranium enrichment facility at 
+Yongbyon, with the first 2,000 operating 
+between 2003 and 2015 (some of this output 
+was low-enriched uranium used for the LWR) 
+and an additional 2,000 operating since 2015 
+(after the observed expansion to the enrich -
+ment hall).
+b. An estimated additional 4,000 P2-type centri -
+fuges at a second clandestine facility (the loca -
+tion of which has yet to be confirmed), which 
+we assume has the same size and uses the same 
+type of centrifuges as the one at Yongbyon and 
+has been operating since sometime between 
+2006 and 2010.
+(3) North Korea produces very little tritium at its 
+five-megawatt-electric reactor, requiring the use 
+of enriched uranium, but this is a limited 
+capacity.
+The size of North Korea’s nuclear stockpile also depends 
+on the weapon design and the number and types of 
+launchers that can deliver them. Many experts also 
+estimate that North Korea may have built a smaller 
+number of nuclear weapons than what its stockpile of 
+fissile material may suggest. This is because it is unclear 
+whether North Korea is prioritizing the development 
+and production of higher-yield thermonuclear weapons, 
+lower-yield fission-only weapons, boosted single-stage 
+weapons, or any combination of these designs. More 
+powerful warheads with the high yield demonstrated in 
+the single 2017 advanced design test would consume 
+more fissile material if based on a composite warhead 
+design or would require special hydrogen fuel if based 
+on a two-stage thermonuclear design, whereas lower- 
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 255
+
+yield single-stage fission weapon designs would require 
+less fissile material. Such assumptions can result in 
+contrasting estimates regarding the number of nuclear 
+weapons North Korea has procured and how many it 
+could assemble in the future.
+For example, in 2020, SIPRI researchers Vitaly 
+Fedchenko and Robert Kelley published a report in 
+Janes Intelligence Review in which they calculated the 
+size of North Korea’s arsenal based on fissile material 
+stockpile estimates from 2018 (Fedchenko and Kelley 
+2020 ). Assuming North Korea would allocate four kilo -
+grams of weapon-grade plutonium for single-stage plu -
+tonium weapons—which is consistent with 
+a Department of Energy statement declassified in 2001 
+—12 kilograms of HEU for single-stage uranium-only 
+devices, and 40 kilograms of HEU for a thermonuclear 
+weapon with a plutonium primary, the Fedchenko- 
+Kelley report concluded that if North Korea committed 
+its HEU to the production of thermonuclear weapons, 
+the country was likely to possess between 10 and 20 
+warheads. In 2023, a report from the Institute for 
+Science and International Security estimated that 
+a plutonium-only weapon would require four kilo -
+grams, a composite weapon would contain two kilo -
+grams of plutonium with 10 to 15 kilograms of HEU, 
+and a thermonuclear device would use 3.5 kilograms of 
+plutonium and 80 kilograms of HEU (Albright 2023 ). 
+Coupled with different assumptions about North 
+Korea’s fissile material stockpiles, as well as the possibi -
+lity that its nuclear weapons arsenal contains a mix of 
+composite core, thermonuclear, plutonium-only, and 
+HEU-only nuclear devices, this resulted in an estimated 
+range of 35 to 63 nuclear weapons (Albright 2023 ).
+Under the assumptions stated above, we estimate 
+North Korea could possess up to 81 kilograms of pluto -
+nium and 1,800 kilograms of HEU, which could supply 
+North Korea with enough material to potentially build 
+up to 90 nuclear weapons (if it assembled 48 HEU-only 
+devices and 40 composite weapons by using an esti -
+mated 25 kilograms of HEU for the uranium-only 
+design, then two kilograms of plutonium and 15 kilo -
+grams of HEU for the composite design). The above 
+assumptions could also produce a lower estimate of 
+North Korea’s fissile material stockpile, of approxi -
+mately 66 kilograms of plutonium and 1000 kilograms 
+of HEU. These lower-end projections mean that North 
+Korea could potentially build up to 20 uranium-only 
+design and 33 composite design weapons if using the 
+same fissile material allocations, for a possible capacity 
+to build up to 53 nuclear weapons.
+While North Korea’s warhead design and stockpile 
+makeup are unknown, it is possible that most weapons 
+would likely be single-stage fission weapons with yields 
+possibly between 10 and 20 kilotons of TNT equivalent, 
+akin to those demonstrated in the 2013 and 2016 tests, 
+and a smaller number would be composite-core single- 
+stage warheads with a higher yield. Such an arsenal 
+would also be consistent with the understanding that 
+North Korea has a limited plutonium supply and prior -
+itizes shorter-range nuclear weapons capabilities over 
+long-range strategic weapons.
+Under these previously stated assumptions, we cau -
+tiously assess that North Korea may have produced 
+sufficient fissile material for a maximum capacity to 
+potentially build up to 90 nuclear weapons, but has 
+likely assembled fewer than that—potentially around 
+50. Additionally, we estimate that North Korea might 
+be capable of adding sufficient fissile material to pro -
+duce an additional half-a-dozen nuclear warheads 
+per year—enough to potentially produce a total of up 
+to approximately 130 weapons by the end of the decade.
+Nuclear testing and weaponization
+After six nuclear tests—including two with moderate 
+yields and one with a high yield—there is no longer 
+any doubt that North Korea can build powerful nuclear 
+explosive devices designed for different yields. North 
+Korea’s latest nuclear test, conducted on September 3, 
+2017, had a yield of well over 100 kilotons and demon -
+strated that North Korea had managed to design 
+a thermonuclear device or at least one that used 
+a mixed-fuel (composite) design. Photos published at 
+the time of Kim Jong-un standing next to a peanut- 
+shaped warhead model described as a “thermonuclear” 
+design appeared intended to signal development of 
+a two-stage design. Although its visual appearance sug -
+gested that it is small and light enough to potentially be 
+delivered by ballistic missiles, it is unknown if the dis -
+play was a real warhead or a mock-up design. It is also 
+possible that North Korea’s reference to a so-called 
+“hydrogen” bomb implied the use of tritium to boost 
+the efficiency of a single-stage fission device, not a two- 
+stage thermonuclear weapon. Such a technology would 
+enable North Korea to use less fissile material in each 
+bomb and further expand its production capacity (Jones 
+2016 ).
+3 
+However, given tritium’s relatively short half-life 
+(12.33 years) and North Korea’s low rate of tritium 
+production, the capacity of North Korea to produce 
+boosted or thermonuclear weapons appears to be lim -
+ited (Yang et al. 2024 ).
+In a May 2021 speech, Kim Jong-un stated that North 
+Korea had developed what he described as “tactical 
+nuclear weapons including new-type tactical rockets.” 
+In the future, he stated, it would be necessary to improve 
+the technology “and make nuclear weapons smaller and 
+256
+ H. M. KRISTENSEN ET AL.
+
+lighter for more tactical uses. This will make it possible 
+to develop tactical nuclear weapons to be used as various 
+means according to the purposes of operational duty 
+and targets of strike in modern warfare” (North Korean 
+Ministry of Foreign Affairs 2021 ). Although the mean -
+ing of “tactical” in Kim’s speech is not clear, it appears to 
+imply a role that is distinct from “strategic” weapons 
+with longer range, and perhaps could be used earlier in 
+a conflict.
+To further illustrate its pursuit of “tactical” nuclear 
+weapons, North Korea in March 2023 released images of 
+Kim Jong-un inspecting new, small nuclear warheads 
+called the Hwasan-31 and pictured alongside technol -
+ogy for mounting the warhead on ballistic missiles (see 
+Figure 1 ). Posters in the background also seemed to 
+imply the intention to mount this new warhead on 
+eight different types of ballistic and cruise missiles, 
+including the KN23, KN24, KN25, Hwasal, and Haeil 
+(Zwirko 2023a ). The number and size of the warheads in 
+the images seemed to imply that North Korea is seeking 
+to standardize designs for a lightweight warhead that 
+could be fitted atop various kinds of missiles, although 
+this will be highly challenging. There is also no way to 
+know for sure if these warheads reflect actual designs, if 
+they match any of the devices detonated in North 
+Korea’s nuclear explosive tests, or if they would require 
+substantial modification to be fitted on a missile.
+4
+Although North Korea has demonstrated signifi -
+cantly improved missile capabilities and more powerful 
+nuclear tests, some US and South Korean officials have 
+occasionally expressed doubt that North Korea actually 
+possesses the technology needed for a warhead to func -
+tion and survive delivery on a long-range missile. At the 
+Eighth Congress of the Workers’ Party of Korea in 2021, 
+Kim Jong-un discussed the development of multiple 
+independently targetable reentry vehicles (MIRVs), 
+which would be even more technically challenging 
+(KCNA 2021 ). Some analysts estimate that North 
+Korea’s satellite launch-vehicle tests in February and 
+March 2023 could have been used to validate technolo -
+gies for achieving such a MIRV capability (Nouwens 
+et al. 2024 ; Panda 2022b ). Employment of short-range 
+Figure 1. Different nuclear warhead designs displayed by North Korea. (Credit: Federation of American Scientists).
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 257
+
+warheads would be less difficult, and during a nuclear 
+drill of tactical systems in 2023, North Korean state 
+media reported the testing of an air-burst test capability, 
+confirming the “reliability of the operation of nuclear 
+explosion control devices and detonators fitted in 
+a nuclear warhead” (Ji 2023 ).
+North Korea has conducted all six of its nuclear tests 
+at the Punggye-ri test site in North Hamgyong province, 
+which consists of a large mountain complex with several 
+underground tunnels. North Korea partially disabled 
+the complex in May 2018 by destroying three tunnel 
+entrances and several nearby buildings; this was done as 
+a confidence-building measure in advance of a planned 
+meeting between Kim Jong-un and Donald Trump 
+(Talmadge 2018 ). However, the underground site itself 
+was not destroyed and could therefore be reconstituted 
+if necessary.
+After an extended period of inactivity, North Korea 
+has begun reconstituting the Punggye-ri test site. 
+Satellite imagery since March 2022 has revealed the 
+construction of new buildings and renovation of older 
+ones; movement of lumber, equipment, and personnel; 
+new excavation activity; and the creation of a new portal 
+into the mountain test site (Bermudez, Cha, and 
+Jun 2022 ; Lewis and Schmerler 2022 ; Makowsky, 
+Heinonen, and Liu 2022b ; United Nations 2024 ). This 
+substantial new construction effort led both US and 
+South Korean officials to suggest in 2022 that North 
+Korea may be preparing to conduct a seventh under -
+ground nuclear test (BBC 2022 ; Kang 2022 ). So far this 
+has not happened.
+Potential land-based nuclear-capable missiles
+Over the past decade, North Korea has developed 
+a highly diverse ballistic missile force, including missiles 
+in all major range categories. The UN Panel of Experts 
+assessed in its 2024 report that North Korea’s ballistic 
+missile program has made advancements in the 
+past year on performance—including improved maneu -
+verability and precision, survivability, and preparedness 
+(United Nations 2024 ).
+In addition to the uncertainties surrounding North 
+Korea’s nuclear warheads (see section “North Korea’s 
+nuclear weapons program”), it is unclear how many 
+operational delivery vehicles North Korea possesses 
+and how many of those would be assigned a nuclear 
+mission. Moreover, it is highly challenging to assess 
+which of North Korea’s missile systems have been 
+deployed and what their operational status is. North 
+Korean state media occasionally implies that specific 
+systems are operational, but since many of North 
+Korea’s missile bases are hidden within mountain 
+ranges, it is difficult to verify these statements. Also, 
+some of the ballistic missile types North Korea has 
+flight-tested or displayed might be research projects 
+intended to develop future ballistic missile technology 
+and signal such aspirations to its adversaries, rather than 
+demonstrations of operational missiles.
+To ensure completeness, this section analyzes all of 
+North Korea’s known land-based ballistic missiles and 
+offers some hypotheses about which missiles are most 
+likely to have a nuclear role. The inclusion of a missile in 
+this section does not necessarily mean it has or is 
+believed to have a nuclear role. (See Table 1 ).
+Short-range missiles
+For decades, the bulk of North Korea’s missile arsenal 
+comprised old liquid-fueled variants of the Soviet-era 
+R-17 Scud short-range ballistic missile (SRBM), which 
+North Korea received from Egypt in the 1970s and 
+subsequently reverse engineered (Pinkston 2008 ). The 
+initial North Korean versions of these missiles were 
+known as the Hwasong-5 (Scud-B) and Hwasong-6 
+(Scud-C). The US Air Force’s National Air and Space 
+Intelligence Center lists the missiles’ ranges at 300 and 
+500 kilometers, respectively, and estimated in 2021 that 
+North Korea had fewer than 100 launchers for the 
+combined Hwasong-5 and -6 arsenal (National Air 
+and Space Intelligence Center 2020 , 21). Throughout 
+the 1980s and 1990s, North Korea iterated on these 
+designs to increase their range, eventually developing 
+the medium-range Hwasong-7 (Nodong) and 
+Hwasong-9 (KN04).
+Aside from the Toksa (KN02)—a solid-fueled preci -
+sion SRBM based on the Soviet OTR-21 Tochka—all 
+North Korean SRBMs were relatively inaccurate and 
+used liquid fuel until roughly 2017, when it became 
+clear that North Korea sought to increase the accuracy 
+and readiness of its nuclear-capable SRBMs.
+In 2017, North Korea flight-tested modernized ver -
+sions of its Hwasong-5 and Hwasong-6, each of which 
+were equipped with maneuverable reentry vehicles 
+designed to evade regional missile defense systems like 
+the Terminal High Altitude Area Defense (THAAD) 
+system, which the United States deploys in South 
+Korea (James Martin Center for Nonproliferation 
+Studies 2024 ; Panda 2017 ). These modernized missiles 
+were designated by the United States as the KN21 and 
+KN18, respectively.
+Over the past five years, North Korea has prioritized 
+the production of a new generation of solid-fuel dual- 
+capable missiles and has placed particular emphasis on 
+its SRBMs. While liquid-fuel missiles are more efficient 
+and can be throttled by slowing the chemical reaction 
+258
+ H. M. KRISTENSEN ET AL.
+
+Table 1. North Korea’s potentially nuclear-capable missiles, 2024.*
+Class and 
+range
+North Korean 
+designation
+a
+US 
+designation
+a
+Type
+Year first 
+displayed Description and status
+Land-based missiles
+Short-range (<1,000 km range)
+Hwasong-5 Scud-B SRBM 1984 Reverse engineered liquid-fuel Scud launched from 4-axle wheeled TEL. In 2020, NASIC estimated 
+fewer than 100 Hwasong-5 and − 6 launchers.
+Hwasong-6 Scud-C SRBM 1990 Improved Hwasong-5 with longer range launched from 4-axle wheeled TEL. In 2020, NASIC 
+estimated fewer than 100 Hwasong-5 and − 6 launchers.
+? KN21 SRBM 2017 Upgraded Hwasong-6 variant with separating maneuverable warhead. Status unknown; may have been 
+superseded by newer solid-fueled SRBMs.
+? KN18 SRBM 2017 Upgraded Hwasong-5 variant with terminal maneuverability. Status unknown; may have been superseded 
+by newer solid-fueled SRBMs.
+? KN25 SRBM 2019 Solid propellant “super-large” 600 mm MRLS.
+Hwasong-11A/Ga/ 
+가
+b
+KN23 SRBM 2018 Next-generation solid-fueled SRBM resembling the USA’s ATACMS system. Successfully flight- 
+tested dozens of times from wheeled, tracked, rail-based, underwater, and silo-based 
+launchers.
+Hwasong-11B/Na/ 
+나
+KN24 SRBM 2019 Next-generation solid-fueled SRBM resembling Russia’s Iskander-M and South Korea’s Hyunmoo- 
+2B systems.
+Hwasong-11D/Ra/ 
+라
+? SRBM 2022 Compact variant of the Hwasong-11A with likely shorter range.
+Medium-range (1,000–3,000 km range)
+Hwasong-7 Nodong/ 
+Rodong
+MRBM 1993 Single-stage, liquid-fueled MRBM launched from 5-axle wheeled TEL. In 2020, NASIC estimated 
+fewer than 100 Hwasong-7 launchers.
+Hwasong-9
+c
+KN04/Scud-ER MRBM 2016 Single-stage, liquid-fueled, extended-range Scud variant launched from 4-axle wheeled TEL.
+Pukguksong-2 KN15 MRBM 2017 Two-stage, solid-fueled MRBM launched from tracked TEL. Land-based version of Pukguksong-1 
+SLBM.
+Hwasong-12A/Ga/ 가 ? MRBM 2021 Conical maneuverable reentry vehicle carried by a shortened Hwasong-12 booster.
+Hwasong-12B/Na/ 
+나
+d
+? MRBM 2021 Wedge-shaped HGV carried by a shortened Hwasong-12 booster. Renamed from Hwasong-8.
+Hwasal-1 ? LACM 2021 North Korea’s first operational cruise missile. Flight tested from a wheeled TEL. One variant 
+includes a “Ra-3” suffix.
+Hwasal-2 ? LACM 2021 LACM with similar design to Hwasal-1 but with an updated propulsion system and longer range.
+Intermediate-range (3,000–5,500 km range)
+Hwasong-12 KN17 IRBM 2017 Single-stage, liquid-fueled IRBM launched from 6-axle wheeled TEL.
+Hwasong-16A/Ga/ 가 
+(unconfirmed)
+? IRBM 2024 Solid-propellant IRBM with conical maneuverable reentry vehicle (likely to be the same glider as the 
+Hwasong-12A).
+Hwasong-16B/Na/ 나 ? IRBM 2024 Solid-propellant IRBM with wedge-shaped glide vehicle (likely to be the same glider as the Hwasong-12B).
+Intercontinental (5,500+ km range)
+Hwasong-14 KN20 ICBM 2017 North Korea’s first operational ICBM. Two-stage, liquid-fueled, launched from 8-axle wheeled TEL.
+Hwasong-15 KN22 ICBM 2017 Two-stage, liquid-fueled ICBM launched from 9-axle wheeled TEL.
+Hwasong-17
+e
+KN28 ICBM 2020 Two-stage, liquid-fueled ICBM launched from 11-axle wheeled TEL. Largest ICBM to date, could 
+eventually be capable of carrying MIRVs and penetration aids.
+Hwasong-18 ? ICBM 2023 Three-stage, solid-fueled ICBM launched from a 9-axle wheeled TEL (same launcher as Hwasong- 
+15).
+Sea-based missiles
+Pukguksong-1 KN11 SLBM 2014 North Korea’s first SLBM, featuring a two-stage, solid-fuel design and a relatively short range 
+(approximately 1,250 km).
+Pukguksong-3 KN26 SLBM 2017 Improved Pukguksong-1 design with longer range and new fairing.
+Pukguksong-4/Sh/ 
+ㅅ
+f
+? SLBM 2020 Similar design with likely wider diameter and reduced length.
+Pukguksong-5/Sh/ ㅅ ? SLBM 2021 Similar length as Pukguksong-3 but with new, ogival nose cone; could eventually be capable of carrying 
+MIRVs and penetration aids.
+Unknown (possibly 
+Pukguksong-6)
+? SLBM 2022 Name not yet formally announced but appears to be a member of the Pukguksong family of SLBMs. Longer 
+than all previous Pukguksong-type missiles, but with similar nose cone to Pukguksong-5.
+Hwasong-11/Sh/ ㅅ ? SLBM 2021 Appears to deviate from traditional Pukguksong SLBM design, instead bearing similarities to KN23 SRBM.
+Pulhwasal-3–31 ? SLCM 2024 “Strategic” submarine-launched cruise missile capable of flight for more than two hours.
+Haeil (−1, −2, −5–23) ? UUV 2023/2024 Three variants of what North Korea describes as a “nuclear-capable underwater attack drone” with the 
+purpose of creating radioactive tsunamis. Claimed to have undergone more than 50 shakedown tests 
+between 2021 and 2023.
+Abbreviations used: ICBM: intercontinental ballistic missile; IRBM: intermediate-range ballistic missile; LACM: land-attack cruise missile; MRBM: medium-range ballistic 
+missile; SLBM: submarine-launched ballistic missile; SLCM: sea-launched cruise missile; SRBM: short-range ballistic missile; UUV: unmanned underwater vehicle. 
+Notes: 
+*The status and capabilities of North Korea’s missiles come with significant uncertainty. The inclusion of missiles in this table does not necessarily mean the 
+authors conclude that they are all equipped with nuclear warheads or assigned a nuclear mission. Several may have been intended as prototypes, technology 
+demonstrators, or early iterations that have been or will be superseded by newer missiles. Systems that we assess to be operational are highlighted in bold . 
+a
+For overviews of names and designations for North Korean missiles, see: Matt Korda’s “The More You KN-0w About North Korean Missiles” and “The Hwasong 
+That Never Ends” lists on Arms Control Wonk https://www.armscontrolwonk.com/archive/1203680/the-more-you-kn-0w-about-north-korean-missiles/ . 
+b
+North Korea has recently begun to assign Hangul suffixes to many of its missiles. These suffixes can be considered akin to A, B, C, etc. given their respective 
+placements in the Hangul alphabet. For example, North Korea refers to the KN23 as the Hwasong-11 가 (transliterated into English as “Ga”). Because “Ga” is the 
+first letter of the Hangul alphabet, this system can be considered as “Hwasong-11A.”
+c
+The 1,000-km range Scud-ER is sometime called an SRBM, but the US Air Force’s National Air and Space Intelligence Center lists it as an MRBM. 
+d
+This missile was previously designated the Hwasong-8 by North Korean state media; however, it was renamed between September 2021 and July 2023. 
+e
+This missile was previously assumed to be designated the Hwasong-16; however, it was revealed at North Korea’s “Self-Defence Exhibition” in October 2021 
+that it is called the Hwasong-17. It is unclear which missile—if any—currently holds the Hwasong-16 designation. 
+f
+One of North Korea’s new suffixes is ㅅ (transliterated into English as “Sh”), which North Korea has recently begun to assign to its newer sea-based missiles. 
+According to South Korean navy officials, this is likely because it refers to 수상용 , which means “for use in water.” Source: Kim, Jeongmin. 2021. “FYI: South 
+Korean navy chief said before that the consonant “ ㅅ ” in Pukguksong names likely refers to “ 수상용 ,” which means “for use in water.” (i.e. Pukguksong-4 ㅅ , 
+and the new 5 ㅅ today).” Tweet, January 14. https://twitter.com/jeongminnkim/status/1349909227960102913 .
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 259
+
+between the fuel and oxidizer as needed, solid-fuel mis -
+siles have several distinct military advantages over 
+liquid-fuel ones: Solid propellant is safer and not as 
+corrosive as liquid propellant, requires less mainte -
+nance, and can safely handle off-road transportation 
+conditions (Schilling 2016 ). Moreover, solid-fuel mis -
+siles are pre-cast and therefore do not require a lengthy 
+fueling process prior to launch. This means that in 
+a wartime scenario, solid-fuel missiles can simply be 
+rolled out of their hiding places and launched within 
+minutes—in contrast to liquid-fuel missiles that could 
+be vulnerable to a preemptive strike during their pro -
+longed fueling process. This vulnerability could be exa -
+cerbated by the presence of support vehicles and fuel 
+trucks that would not be necessary for solid-fuel missiles 
+and make liquid-fuel missiles easier to spot via aerial 
+reconnaissance or satellites.
+Since 2019, North Korea has successively unveiled 
+new types of more accurate, solid-fueled SRBMs with 
+indigenous designs that may ultimately replace older 
+Hwasong-5s and -6s, as well as their modernized ver -
+sions (the KN21 and KN18). These missiles, which 
+include the KN23 (Hwasong-11A), KN24 (Hwasong- 
+11B), KN25, Hwasong-11C, and Hwasong-11D, have 
+collectively been tested approximately 70 times since 
+the beginning of 2019 (James Martin Center for 
+Nonproliferation Studies 2024 ). These missiles appear 
+to bear several similarities to conventional US, South 
+Korean, and Russian missiles, such as the ATACMS, 
+Hyunmoo-2B, or Iskander SRBMs. North Korea has 
+explicitly claimed in official statements that many of 
+its solid-fuel SRBMs are nuclear-capable. For example, 
+in April 2024, North Korea conducted a “combined 
+tactical drill simulating nuclear counterattack,” in 
+which they simultaneously launched four KN25 missiles 
+“tipped with simulated nuclear warheads” (KCNA 
+2024b ). The drill was significant both as an 
+apparent test of the KN25’s “tactical” nuclear capability 
+and as the first test of North Korea’s “Nuclear Trigger” 
+nuclear weapon management system with the KN25 
+(Van Diepen 2024 ).
+Except for the Hwasong-11C, North Korea has expli -
+citly tied all its new-generation solid-fuel SRBMs to its 
+nuclear program. North Korea has stated that this variant 
+can carry 2.5- and 4.5-metric ton warheads. These are 
+much heavier payloads than would be needed for carry -
+ing a nuclear weapon and could therefore indicate 
+a conventional role ( Voice of Korea 2021a ; KCNA 2024c ).
+Some of these SRBMs, including the KN23 and pos -
+sibly the KN24, can conduct “pull-up” maneuvers in 
+their terminal phase of flight, therefore complicating 
+the abilities of North Korean adversaries to track the 
+missiles during their descent.
+This new generation of solid-fuel SRBMs can appar -
+ently be launched from several different types of plat -
+forms, including wheeled transporter erector launchers 
+(TELs), tracked TELs, silo-based launchers, underwater 
+launchers, and rail-based launchers. North Korea has 
+also announced its intention to expand the Railway 
+Mobile Missile Regiment—created at the Eighth 
+Congress of the Workers’ Party of Korea in 
+January 2021—into a brigade, which could eventually 
+consist of nine launchers with 18 missiles ( Voice of 
+Korea 2021b ). Given that North Korea has an extensive 
+cross-country rail network that frequently travels 
+through mountains, rail-mobile launchers would enable 
+North Korea to move missiles around the country 
+rapidly and increase the survivability of its second- 
+strike force.
+The sophisticated testing program for these newer 
+systems indicates that North Korean missile troops are 
+becoming significantly more practiced at conducting 
+salvo launches and lowering the time intervals between 
+missile launches (Dempsey 2020 ). As an illustration of 
+this new capability, in June 2022, North Korea test- 
+launched eight SRBMs from multiple different locations 
+in less than an hour. This constituted the largest number 
+of North Korean ballistic missiles launched on a single 
+occasion (Yonhap News Agency 2022 ). In March 2024, 
+North Korea conducted another salvo drill, firing six 
+KN25 dual-capable SRBMs simultaneously, followed by 
+another KN25 to simulate a probable nuclear airburst 
+(Van Diepen 2024 ).
+Medium- and intermediate-range missiles
+North Korea is developing a new generation of med -
+ium- and intermediate-range missiles with improved 
+accuracy, readiness, and maneuverability. For decades, 
+North Korea operated its relatively inaccurate, liquid-
+fuel Hwasong-7 (Nodong) and Hwasong-9 (KN04) 
+medium-range ballistic missiles (MRBMs). These mis -
+siles—carried by five- and four-axle wheeled TELs, 
+respectively—were derived from the early-generation 
+Hwasong-5 and -6 and had relatively poor accuracy. 
+Partially for this reason, some analysts have suggested 
+that the Hwasong-7 is one of the most likely missiles to 
+have an operational nuclear capability (Albright 2013 ; 
+Center for Strategic and International Studies 2021 ; 
+James Martin Center for Nonproliferation Studies 
+2006 ).
+Between 2010 and 2016, North Korea was also devel -
+oping a liquid-fuel intermediate-range ballistic missile 
+(IRBM)—the Hwasong-10 (Musudan)—with an esti -
+mated range of more than 3,000 kilometers. The missile 
+suffered several test failures in 2016, however, and its 
+260
+ H. M. KRISTENSEN ET AL.
+
+design was not mirrored in North Korea’s newer gen -
+eration of regional missiles—indicating that the missile 
+has likely been superseded and is no longer in develop -
+ment (James Martin Center for Nonproliferation 
+Studies 2024 ).
+In 2017, North Korea unveiled two new regional 
+ballistic missiles: the Pukguksong-2 (KN15) and the 
+Hwasong-12 (KN17). The Pukguksong-2 is a two- 
+stage, solid-fuel MRBM carried in a canister on a road- 
+mobile caterpillar-type TEL. The missile appears to be 
+a modification of the submarine-launched Pukguksong- 
+1 (KN11). The first two flight tests in 2017 demonstrated 
+a range of up to 1,200 kilometers (Wright 2017b , 2017c ). 
+The Hwasong-12 is a single-stage, liquid-fuel, inter -
+mediate-range ballistic missile carried on a six-axle 
+road-mobile TEL with a detachable firing table. Several 
+tests, including one in January 2022 after a nearly five- 
+year hiatus, have indicated that the missile could reach 
+targets as far as 4,500 kilometers if flown on a normal 
+trajectory (Japanese Ministry of Defence 2022a ; Wright 
+2017e ).
+North Korea appears to be developing two variants of 
+the original Hwasong-12 that are significantly more 
+maneuverable than the original design. One missile 
+carries a wedge-shaped boost-glide vehicle, and another 
+missile carries a conical maneuverable reentry vehicle. 
+The former system was originally designated by North 
+Korean state media as Hwasong-8 but was apparently 
+changed to Hwasong-12Na (equivalent to Hwasong- 
+12B, as “Na” is the second consonant in the Hangul 
+alphabet) between September 2021 and July 2023; The 
+new designation was confirmed in July 2023 by an 
+image from the Russian Defense Minister’s visit to 
+North Korea (Lewis 2023 ). Given this confirmation, 
+we can speculate that the missiles with conical reentry 
+vehicles tested in January 2022 are “Hwasong-12Ga” 
+(equivalent to Hwasong-12A), although this designation 
+is unconfirmed. While both gliders appear to be carried 
+by modified by Hwasong-12 boosters, they are assessed 
+to have shorter ranges than the original Hwasong-12 
+IRBM.
+North Korean state media reported that the 
+Hwasong-12Na was the first North Korean missile to 
+use a “fuel ampoule,” which involves placing pre-fueled, 
+liquid-fueled missiles in temperature-controlled canis -
+ters to facilitate faster launches (DPRK Today 2021 ; Xu 
+2021 ). North Korea says it plans to transition all liquid- 
+fueled missiles into ampoules (DPRK Today 2021 ).
+In 2024, North Korea debuted a solid-fuel IRBM 
+capability by revealing two variants of a new two-stage 
+missile design, featuring what appeared to be the same 
+two types of gliders as those carried by the Hwasong-12. 
+Launches of the two variants were conducted in January 
+and April 2024. Given that the variant carrying the 
+wedge-shaped boost-glide vehicle was confirmed by 
+state media as the Hwasong-16Na (equivalent to 
+Hwasong-16B), the variant launched in January carry -
+ing the conical maneuverable reentry vehicle is likely to 
+be the Hwasong-16Ga (equivalent to the Hwasong- 
+16A); this would also match the designation pattern 
+for the Hwasong-12 (KCNA 2024a ; Van Diepen 2024 ; 
+Lewis 2024 ). During the April test, the Hwasong-16B 
+demonstrated a pull-up maneuver and lateral maneu -
+vering capability. Both tests were reportedly conducted 
+at limited speed and range, making it difficult to assess 
+whether either glider will be successful at the intermedi -
+ate range (Xu 2024 ).
+Intercontinental ballistic missiles
+The most dramatic of North Korea’s recent develop -
+ments has been the display and test launch of large 
+intercontinental ballistic missiles (ICBMs), including 
+the country’s first solid-fuel ICBM. North Korea has 
+revealed several types of missiles in this range category 
+over the years, three of which are likely to be currently 
+operational: the Hwasong-15, Hwasong-17, and 
+Hwasong-18 (see Figure 2 ).
+Achieving an ICBM capability to target the US home -
+land has long been a strategic goal for North Korea. 
+North Korea’s first intercontinental-range missiles 
+were the Taepodong-1 (TD01) and Taepodong-2 
+(TD02), test flown in 1998 and 2006, respectively. 
+However, these missiles were better suited as space 
+launch vehicles and were unlikely to realistically func -
+tion as nuclear-capable ICBMs. As a result, we assess 
+that neither variant is currently operational as a North 
+Korean military system.
+North Korea next demonstrated its commitment to 
+developing an ICBM capability in 2012, when it dis -
+played the Hwasong-13 (KN08) during a parade. The 
+Hwasong-13 was a three-stage, liquid-fuel ICBM, but it 
+was never flight tested. A two-stage version of the 
+Hwasong-13 was subsequently displayed at a parade in 
+2015 but also was never tested. Given North Korea’s 
+development of more sophisticated systems since then, 
+we assess that the Hwasong-13 is not currently an 
+operational system and the design has likely been super -
+seded by the newer designs.
+North Korea reached a turning point in 2017 with 
+test launches of what would become its first operational 
+ICBM theoretically capable of delivering nuclear war -
+heads to the continental United States: the Hwasong-14 
+(KN20). North Korea conducted the first two test 
+launches of the two-stage, liquid-fueled Hwasong-14 in 
+July 2017. According to the National Air and Space 
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 261
+
+Intelligence Center and independent analysts, 
+the second test demonstrated that the missile could, if 
+flown on a normal trajectory, have a range of over 
+10,000 kilometers (National Air and Space Intelligence 
+Center 2020 , 27; Wright 2017a ). These tests, however, 
+did not demonstrate a functioning ICBM reentry vehi -
+cle. Notably, North Korea has not paraded the 
+Hwasong-14 since 2018 and did not include it at its 
+October 2020 and February 2023 military parades that 
+featured other ICBMs (NK News 2020 ). Combined with 
+its development of newer, more sophisticated systems, 
+this leads us to assess that the North Korean military 
+does not currently operate the Hwasong-14.
+On November 29, 2017, North Korea launched 
+a newer ICBM with an even longer range: the 
+Hwasong-15 (KN22). The two-stage, liquid-fuel missile 
+was launched from a nine-axle transporter erector on 
+a highly lofted trajectory to nearly 4,500 kilometers, 
+which indicates a maximum range on a normal trajec -
+tory with a light payload of approximately 13,000 kilo -
+meters, sufficient to potentially target most of the 
+United States (Wright 2017c ). The National Air and 
+Space Intelligence Center lists the range of the 
+Hwasong-15 to be upwards of 12,000 kilometers 
+(National Air and Space Intelligence Center 2020 , 29). 
+However, it is important to note that heavier payloads—
+including nuclear warheads—would significantly 
+decrease the missile’s range. Hwasong-15 ICBMs were 
+displayed during North Korea’s October 2020 military 
+parade (NK News 2020 ), but not in the February 2023 
+military parade.
+The Hwasong-17 (KN28) ICBM was first displayed at 
+the October 2020 parade (Panda 2021 ). The two-stage, 
+liquid-fuel missile was shown on an 11-axle TEL, and 
+independent analysts assessed that the missile was signif -
+icantly larger than other North Korean ICBMs, with 
+a diameter possibly ranging between 2.4 and 2.5 meters 
+and a length of roughly 24 to 25 meters (Elleman 2020 ; La 
+Boon 2020 ; Lewis 2020 ).
+On March 24, 2022, North Korea conducted a test 
+launch that it claimed was the first test of the Hwasong- 
+17. However, an NK News analysis of the launch video 
+Figure 2. North Korea’s new generation of intercontinental ballistic missiles. North Korea has demonstrated significant progress over 
+the past decade in developing increasingly capable intercontinental ballistic missiles. (Credit: Matt Korda, Federation of American 
+Scientists).
+262
+ H. M. KRISTENSEN ET AL.
+
+released by North Korea suggested that the missile may 
+have been tested on March 16 but failed, and that the 
+missile tested may have been a Hwasong-15 instead—an 
+assessment confirmed to the Washington Post by an 
+unnamed US official (Ye Hee Lee 2022 ; Zwirko 2022 ). 
+It appears instead that the first successful test-flight of 
+the Hwasong-17 took place on November 18, 2022, 
+making the missile the largest road-mobile, liquid- 
+propellant missile ever tested (Panda 2022a ). North 
+Korea claims to have successfully flight tested the 
+Hwasong-17 again in March 2023 (KCNA 2023d ). 
+During a February 2023 missile parade, North Korea 
+displayed at least 11 Hwasong-17 ICBMs on 11-axle 
+TELs (Panda 2023b ).
+During the same missile parade, North Korea revealed 
+the most significant recent advancement in its ICBM 
+capabilities: its first three-stage solid-fuel Hwasong-18 
+ICBM. The country demonstrated substantial progress 
+on solid rocket motors in December 2022 with its first 
+static test of a solid-fuel engine (Johnson 2023 ). State 
+media announced that North Korea conducted the first 
+successful flight test of the Hwasong-18 on April 13, 2023, 
+after which Kim Jong-un said that the missile will “greatly 
+reinforce the components of our strategic deterrent, 
+rapidly increase the utility of the nuclear counterattack 
+posture and innovate the practicality of the offensive 
+military strategy” (Zwirko 2023b ).
+North Korea conducted a total of three flight tests of 
+the Hwasong-18 in 2023, the second and third occurring 
+on July 12 and December 18, respectively (Panda 2023a ; 
+United Nations 2024 ). The third launch took place over 
+three kilometers away from the concrete pad where the 
+first two launches were conducted, demonstrating the 
+relative mobility of the missile (United Nations 2024 ). 
+Three consecutive successful launches and state media’s 
+reference to the third launch as a “launching drill of an 
+ICBM unit” likely indicate that the Hwasong-18 ICBM 
+is in the process of being integrated into the armed 
+forces (KCNA 2023a ).
+Several US and South Korean officials have stated 
+that North Korea has not yet publicly demonstrated an 
+operationally functioning reentry vehicle that can pro -
+tect a warhead during reentry through the Earth’s atmo -
+sphere when delivered at intercontinental range in 
+a normal trajectory. However, many experts assess that 
+there is no significant barrier to building a working 
+reentry vehicle, and that doing so is likely to be within 
+North Korea’s growing technological capabilities 
+(Hecker 2017 ; Wright 2017h ).
+North Korea’s ability to deploy large numbers of 
+heavy long-range missiles depends on its ability to pro -
+cure or indigenously produce launchers for those mis -
+siles. In the past, North Korea has sourced its heavy 
+launchers from Russian, Belarusian, and Chinese com -
+panies, and imported them under the guise of civilian 
+applications (Hanham 2012 ; Schiller 2012 ). In particu -
+lar, the Chinese WS51200 lumber truck forms the basis 
+for many of North Korea’s TELs.
+Recently, North Korea has had apparent significant 
+success with its indigenous production of heavy launch -
+ers for its longer-range missiles. In October 2020, the 
+country displayed a new 11-axle TEL for its new 
+Hwasong-17 ICBM, which the UN Panel of Experts sug -
+gested was manufactured inside North Korea (United 
+Nations 2021a , Annex 10). At least 11 of the launchers 
+were visible during North Korea’s February 2023 military 
+parade, suggesting a substantial production capability 
+(Panda 2023b ). If North Korea can now mass-produce 
+heavy launchers for its ICBMs, there would be signifi -
+cantly fewer constraints on the number of long-range 
+missiles that the country can operate.
+At the same time, these types of heavy, wheeled 
+launchers would be limited to traveling on high-grade 
+roads. For North Korea’s liquid-fueled ICBMs, the 
+launchers would also have to travel in a convoy with 
+fuel trucks, support vehicles, and possibly a loading 
+crane—all of which would make it significantly easier 
+for adversarial reconnaissance to spot the systems well 
+in advance of launch. (See also Figure 3 ).
+Sea-based nuclear-capable missiles
+Over the past decade, North Korea has worked to 
+develop an increasingly sophisticated sea-based nuclear 
+deterrent. Since its first flight test of a nascent submar -
+ine-launched ballistic missile (SLBM) capability in 2015, 
+North Korea has publicly shown nearly 10 different sea- 
+launched delivery systems that it has characterized as 
+nuclear-capable, including ballistic missiles, cruise mis -
+siles, and unmanned underwater vehicles.
+Submarine-launched ballistic missiles
+The majority of North Korea’s SLBMs are part of the 
+Pukguksong family of missiles (also spelled as 
+Pukkuksong and Bukkeukseong), or “Polaris.” As of 
+mid-2024, at least five versions of Pukguksong missiles 
+have been developed, although most of these variants 
+have likely not been deployed. Given the iterative 
+designs, lack of recent tests, and scarcity of launch plat -
+forms, we assess that the earliest variants were likely 
+intended to validate key technologies needed to develop 
+more sophisticated missiles. North Korea’s family of 
+sea-based ballistic missile designs demonstrate progres -
+sion toward a deployable missile ( Table 2 ).
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 263
+
+North Korea is clearly iterating upon its SLBM 
+design, especially with regards to the airframe length 
+and diameter, motor size, and nose cone shape. We 
+assess that rather than deploying multiple Pukguksong 
+variants, North Korea eventually intends to settle upon 
+a standardized SLBM design. As with other North 
+Korean missiles, speculations about a multiple reentry 
+vehicle capability seem premature at this stage.
+North Korea also appears to have developed a “new 
+type” of smaller SLBM which appears to bear similar 
+characteristics to North Korea’s newer SRBM designs, 
+particularly the KN23 (Xu 2021 ). The missile, which 
+name has not been officially announced, was revealed 
+during North Korea’s “Self-Defence 2021” exhibition in 
+October 2021 and flight-tested the following week to 
+a range of nearly 600 kilometers. North Korea subse -
+quently announced that the test demonstrated the mis -
+sile’s “flank mobility and gliding skip mobility” 
+(Naenara 2021 ). The same type of missile may have 
+also been tested on May 7, 2022; however, it is unclear 
+whether the test was successful (Japanese Ministry of 
+Defence 2022b ).
+The rapid development of North Korea’s sea-based 
+missile program has not yet been matched by its devel -
+opment of launch platforms. Until late 2023, North 
+Korea only had a single submarine that could launch 
+ballistic missiles—the Gorae-class (Sinpo) experimental 
+submarine with a single launch tube, known as 8.24 
+Yongung (Naenara 2021 ). In September 2023 North 
+Korea commissioned a redesigned variant of its legacy 
+Figure 3. Evolution of North Korea’s missile launchers. (Credit: Federation of American Scientists).
+Table 2. North Korea’s evolving sea-based ballistic missiles.
+Missile
+Date first 
+shown
+Date of most recent 
+flight test Iterative design notes
+Pukguksong-1 May 2015 August 2016 North Korea’s first SLBM, featuring a two-stage design, elliptical nose cone, and relatively short 
+range (approximately 1,250 kilometers). Later versions included grid fins.
+Pukguksong-3 April 2017 October 2019 Incremental improvement on Pukguksong-1, with a similar diameter but longer length, 
+implying increased range (maximum range estimated to be between 1,900 and 2,500 
+kilometers). Also includes a shorter, blunter fairing.
+Pukguksong-4 October 2020 N/A Iterative design with similar fairing and diameter (or possibly slightly wider) to the 
+Pukguksong-3, with slightly reduced length. Paraded version included the suffix “ ㅅ ,” 
+implying its status as a sea-launched system.
+Pukguksong-5 January 2021 N/A Similar design and diameter to Pukguksong-4, but longer with a new, ogival nose cone. 
+Paraded version also included the suffix “ ㅅ .”
+Pukguksong-6?  
+(not confirmed)
+April 2022 N/A North Korea’s longest, widest SLBM to date, featuring a similar nose cone design to the 
+Pukguksong-5.
+Abbreviations used: SLBM: submarine-launched ballistic missile.
+264
+ H. M. KRISTENSEN ET AL.
+
+Romeo-class submarine—named the No. 841 Hero Kim 
+Kun Ok —that can accommodate up to 10 vertical- 
+launch ballistic missiles (four large-diameter missiles 
+and six smaller missiles). The submarine is referred to 
+by North Korean state media as a “tactical nuclear attack 
+submarine,” referring to its ability to launch nuclear- 
+capable missiles, rather than to its method of propulsion 
+(diesel-electric) (KCNA 2023b ). During the launch of 
+the No. 841 Hero Kim Kun Ok , Kim Jong-un noted the 
+need to “push forward with the nuclear weaponization 
+of the Navy in the future,” indicating that such 
+a deployment had not yet taken place (KCNA 2023b ). 
+In his speech, Kim Jong-un also announced “the plan to 
+convert all existing medium-sized submarines into 
+attack submarines equipped with tactical nuclear weap -
+ons” (Rodong Sinmun 2023 ). Throughout the first half 
+of 2024, satellite imagery indicated that a new construc -
+tion campaign to build additional submarines had 
+begun (Liu, Makowsky, and Ragnone 2024 ). The addi -
+tion of several mobile nuclear-capable sea-based deliv -
+ery systems to North Korea’s arsenal would complicate 
+efforts to continuously track North Korea’s nuclear 
+launchers.
+Submarine-launched cruise missiles
+North Korea is developing a new submarine-launched 
+cruise missile, known as Pulhwasal-3-31. The system 
+has been labeled a “strategic cruise missile”—implying 
+a nuclear-capable status—and the Korean state media 
+press release described the test taking place in the 
+context of the “nuclear weaponization of our navy” 
+(Rodong Sinmun 2024 ). During a test in January 2024, 
+the two missiles reportedly flew for just over two 
+hours (Rodong Sinmun 2024 ). Although the 
+“Pulhwasal” designation would suggest that the missile 
+is part of the same family as North Korea’s land-based 
+Hwasal-1 and Hwasal-2 cruise missiles, North Korean 
+state media has not yet released high enough resolu -
+tion images of the Pulhwasal-3-31 to confirm the 
+technical similarities.
+Other sea-based weapons
+North Korea appears to be developing an underwater 
+weapon system, the mission of which has been described 
+by North Korean state media as “stealthily infiltrat[ing] 
+into operational waters and mak[ing] a super-scale 
+radioactive tsunami through [an] underwater explosion 
+to destroy naval striker groups and major operational 
+ports of the enemy” (KCNA 2023c ). While this descrip -
+tion sounds like Russia’s “Poseidon” unmanned under -
+water vehicles (UUV), the weapon system itself bears 
+significant differences. Notably, it is not nuclear- 
+powered, does not travel at high speeds, and likely has 
+a much shorter range, therefore limiting its utility to 
+a retaliatory weapon rather than a first-strike system.
+The system, called “Haeil,” is apparently under con -
+tinuous development, and North Korea claims that it 
+underwent more than 50 shakedown tests between 2021 
+and 2023, with several tests lasting for dozens of hours at 
+a time (KCNA 2023c ). There are at least three known 
+variants of the Haeil system—Haeil-1, Haeil-2, and 
+Haeil-5-23—however, it remains unclear which of 
+these, if any, will ultimately be deployed. It is possible 
+that all Haeil variants that have been publicly displayed 
+are technology demonstrator programs, and that 
+a future version will have a different designation.
+The Haeil was notably one out of eight delivery 
+systems included in a graphic promoting a common 
+warhead, known as the “Hwasan-31.” Developing inter -
+operable warheads is rife with challenges, however, 
+given necessary differences in sizes, shapes, masses, 
+centers of gravity, and many other technological factors. 
+It therefore seems unlikely that the Haeil UUV would 
+carry the exact same warhead as North Korea’s tactical 
+SRBMs and strategic cruise missiles.
+Land-attack cruise missiles
+North Korea appears to be developing a series of land- 
+attack cruise missiles (LACMs)—the Hwasal-1 and 
+Hwasal-2—that have been tested at least a dozen times 
+as of mid-2024. Although North Korea has described 
+these LACMs as “strategic weapons,” it has also indi -
+cated that the missiles have been deployed with units 
+that have been tasked with carrying out tactical nuclear 
+strikes (KCNA 2023c ).
+Despite the apparent connection to North Korea’s 
+nuclear program, it is likely that these missiles also 
+have conventional strike roles. In January 2021, for 
+example, Kim Jong-un stated that the cruise missiles’ 
+conventional warheads are “the most powerful in the 
+world” (Rodong Sinmun 2021 ). And, in April 2024, 
+North Korea claimed to have tested a “super-large” war -
+head for the Hwasal-1 Ra-3 (an apparent variant of the 
+Hwasal-1 that may be slightly longer than the original 
+design) which, based on Kim Jong-un’s previous state -
+ment and the type of test conducted (a flight test eval -
+uating the “power” of the warhead), is likely to be 
+conventional ( Voice of Korea 2024 ).
+North Korean state media has released images of the 
+missiles, indicating that they might include a terminal 
+guidance system and could be launched from TELs 
+carrying five missiles (Xu 2021 ). The Hwasal-2 appears 
+to feature a longer air intake than the Hwasal-1.
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 265
+
+Notably, during the first tests, South Korean news 
+sources subsequently reported that neither South 
+Korea nor the United States was aware of the LACM 
+launches until after the announcement in North 
+Korean state media (Lee and Park 2021 ). Given that 
+these systems are designed to circumvent radars and 
+missile defense systems by flying at lower altitudes on 
+maneuverable trajectories, they could offer North 
+Korea a new and unique capability to attack regional 
+targets.
+Notes
+1. Liquid nitrogen is used as part of the uranium enrich -
+ment process, particularly within the context of cold 
+trapping uranium hexafluoride.
+2. According to the IAEA, five reprocessing campaigns 
+have taken place since the 1994 Agreed Framework. 
+Each lasted for four to five months in 2003, 2005, 
+2009, 2016, and 2021. The steam plant operated for 
+a shorter period of around two months in 2018, but 
+the duration and timing of activities were indicative of 
+waste treatment or maintenance (IAEA 2022 ).
+3. For an insightful review of North Korea’s hydrogen 
+bomb claim, see Kelley and Hansen ( 2016 ).
+4. For assessments of North Korean warhead designs and 
+production capacity, see Albright ( 2017 ), Hecker 
+( 2017 ), Jones ( 2017 ), and Kelley and Hansen ( 2016 ).
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+Funding
+This research was carried out with generous contributions 
+from the New-Land Foundation, the Prospect Hill 
+Foundation, Ploughshares Fund, and individual donors.
+Notes on contributors
+Hans M. Kristensen is the director of the Nuclear Information 
+Project with the Federation of American Scientists in 
+Washington, DC. His work focuses on researching and writing 
+about the status of nuclear weapons and the policies that direct 
+them. Kristensen is a coauthor of the world nuclear forces over -
+view in the SIPRI Yearbook (Oxford University Press) and 
+a frequent adviser to the news media on nuclear weapons policy 
+and operations. He has coauthored the Nuclear Notebook since 
+2001. Inquiries should be directed to FAS, 1150 18
+th 
+St NW, Suite 
+425, Washington, DC, 20036 USA; email: fas@fas.org.
+Matt Korda is the associate director of the Nuclear 
+Information Project at the Federation of American 
+Scientists, and an associate researcher with the Nuclear 
+Disarmament, Arms Control and Non-proliferation 
+Programme at the Stockholm International Peace Research 
+Institute (SIPRI). Previously, he worked for the Arms Control, 
+Disarmament, and WMD Non-Proliferation Centre at NATO 
+headquarters in Brussels. Korda’s research and open-source 
+discoveries about nuclear weapons have made headlines 
+across the globe, and his work is regularly used by govern -
+ments, policymakers, academics, journalists, and the broader 
+public in order to challenge assumptions and improve 
+accountability about nuclear arsenals and trends. He received 
+his MA in International Peace and Security from the 
+Department of War Studies at King’s College London.
+Eliana Johns is a research associate for the Nuclear 
+Information Project at the Federation of American 
+Scientists, where she researches the status and trends of global 
+nuclear forces and the role of nuclear weapons. Previously, 
+Johns worked as a project associate for DPRK 
+Counterproliferation at CRDF Global, focusing on WMD 
+nonproliferation initiatives to curb North Korea’s ability to 
+gain revenue to build its weapons programs. Johns graduated 
+with her bachelor’s in political science with minors in Music 
+and Korean from the University of Maryland, Baltimore 
+County (UMBC).
+Mackenzie Knight is a program associate for Global Risk at 
+the Federation of American Scientists where her work focuses 
+on the Nuclear Information Project. Before this, Knight was 
+a Herbert Scoville Jr. Peace Fellow on the Project. Previously, 
+Knight worked as a policy and communications intern at the 
+Arms Control Association, as a summer fellow with the James 
+Martin Center for Nonproliferation Studies (CNS), as an 
+analyst intern with Shephard Media in London, and most 
+recently as a graduate research assistant at CNS while obtain -
+ing her master’s degree in Nonproliferation and Terrorism 
+Studies from the Middlebury Institute of International Studies 
+at Monterey. She received bachelor’s degrees in Middle 
+Eastern Languages and Cultures and Policy and Intelligence 
+Analysis from Indiana University.
+References
+38 North . 2020 . “Kim Jong Un’s October 10 Speech: More 
+Than Missiles.” October 13. https://www.38north.org/ 
+2020/10/kjuspeech101320/ .
+38 North . 2021 . “Estimating North Korea’s Nuclear Stockpiles: 
+An Interview with Siegfried Hecker.” April 30. https:// 
+www.38north.org/2021/04/estimating-north-koreas- 
+nuclear-stockpiles-an-interview-with-siegfried-hecker/ .
+38 North . 2022 . “North Korea’s Evolving Nuclear Doctrine: 
+An Interview with Siegfried Hecker.” May 24. https://www. 
+38north.org/2022/05/north-koreas-evolving-nuclear- 
+doctrine-an-interview-with-siegfried-hecker/ .
+Albright, D. 2013 . “North Korean Miniaturization.” 38 North . 
+February 13. http://www.38north.org/2013/02/ 
+albright021313/ .
+Albright, D. 2017 . “North Korea’s Nuclear Capability: A Fresh 
+Look.” April 28. https://isis-online.org/uploads/isis-reports 
+/documents/North_Korea_Nuclear_Capability_Estimates_ 
+Summary_28Apr2017_Final.pdf .
+Albright, D. 2023 . “North Korean Nuclear Weapons Arsenal: 
+New Estimates of its Size and Configuration.” Institute for 
+Science and International Security . April 10. https://isis- 
+online.org/isis-reports/detail/2023-north-korean-nuclear- 
+weapons-arsenal-new-estimates/ .
+266
+ H. M. KRISTENSEN ET AL.
+
+BBC. 2022 . “North Korea Could Carry Out Nuclear Tests 
+‘Any Time,’ Warns US Official .” June 8. https://www.bbc. 
+com/news/world-asia-61670661 .
+Berkowitz, B., L. Karklis, and T. Meko. 2017 . “What is North 
+Korea Trying to Hit?” Washington Post , July 25, 2017. 
+https://www.washingtonpost.com/graphics/world/north- 
+korea-targets/ .
+Bermudez, J. S., Jr., V. Cha, and J. Jun. 2021 . “Current Status 
+of the Pyongsan Uranium Concentrate Plant (Nam-Chon 
+Chemical Complex) and January Industrial Mine.” Beyond 
+Parallel . November 8. https://beyondparallel.csis.org/cur 
+rent-status-of-the-pyongsan-uranium-concentrate-plant- 
+nam-chon-chemical-complex-and-january-industrial- 
+mine/ .
+Bermudez, J. S., Jr., V. Cha, and J. Jun. 2022 . “New Activity at 
+Punggye-ri Tunnel No. 4.” Beyond Parallel . June 27. https:// 
+beyondparallel.csis.org/new-activity-at-punggye-ri-tunnel- 
+no-4 .
+Center for Strategic and International Studies. 2021 . 
+“Hwasong-7 (Nodong 1).” CSIS Missile Defense Project . 
+July 31. https://missilethreat.csis.org/missile/no-dong/ .
+Christopher, G., H. Wingo, D. Schmerler, and H. Chalmers. 
+2023 . “Estimating North Korea’s Nuclear Material 
+Inventory.” VERTIC & CNS . Version 1.5. Accessed May 
+29, 2024. https://arcg.is/1rvX1T .
+Dempsey, J. 2020 . “Assessment of the March 9 KN-25 Test 
+Launch.” 38 North , March 10. https://www.38north.org/ 
+2020/03/jdempsey031020/ .
+Department of Energy. 2001 . “Restricted Data Declassification 
+Decisions 1946 to the Present (RDD-7).” U.S. Department 
+of Energy Office of Declassification. January 1. https://sgp. 
+fas.org/othergov/doe/rdd-7.html .
+DPRK Today . 2021 . “Hypersonic Missile Newly Developed by 
+Academy of Defence Science Test-Fired.” September 30. 
+https://kcnawatch.org/newstream/1632978090-364336107/ 
+hypersonic-missile-newly-developed-by-academy-of- 
+defence-science-test-fired/ .
+Elleman, M. 2020 . “Does Size Matter? North Korea’s Newest 
+ICBM.” 38 North . October 21. https://www.38north.org/ 
+2020/10/melleman102120/ .
+Ellyatt, H. 2016 . “North Korea Threatens Nuclear Strike on 
+US, SKorea.” CNBC . March 7. https://www.cnbc.com/ 
+2016/03/07/north-korea-threatens-to-reduce-us-to-ashes. 
+html .
+Fedchenko, V., and R. Kelley. 2020 . “New Methodology Offers 
+Estimates for North Korean Thermonuclear Stockpile.” 
+Janes Intelligence Review , July 30. https://www.janes.com/ 
+new-methodology-offers-estimates-for-north-korean- 
+thermonuclear-stockpile .
+Hanham, M. 2012 . “North Korea’s Procurement Network 
+Strikes Again: Examining How Chinese Missile Hardware 
+Ended Up in Pyongyang.” Nuclear Threat Initiative . July 
+30. https://www.nti.org/analysis/articles/north-koreas- 
+procurement-network-strikes-again-examining-how- 
+chinese-missile-hardware-ended-pyongyang .
+Hecker, S. 2010 . “A Return Trip to North Korea’s Yongbyon 
+Nuclear Complex.” NAPSNet Special Report . Nautilus 
+Institute . November 22. https://nautilus.org/napsnet/naps 
+net-special-reports/a-return-trip-to-north-koreas- 
+yongbyon-nuclear-complex/ .
+Hecker, S. 2017 . “What We Really Know about North Korea’s 
+Nuclear Weapons, and What We don’t Yet Know for Sure.” 
+Foreign Affairs , December 4. https://www.foreignaffairs. 
+com/articles/north-korea/2017-12-04/what-we-really- 
+know-about-north-koreas-nuclear-weapons .
+Heinonen, O. 2020 . “New Evidence Suggests Kangson is not 
+a Uranium Enrichment Plant.” 38 North , December 18. 
+https://www.38north.org/2020/12/kangson201217/ .
+Heinonen, O., P. Makowsky, and J. Liu. 2022 . “North Korea’s 
+Yongbyon Nuclear Center: In Full Swing.” 38 North , March 
+3. https://www.38north.org/2022/03/north-koreas- 
+yongbyon-nuclear-center-in-full-swing/ .
+Heinonen, O., P. Makowsky, J. Liu, and 38 North. 2023 . 
+“Possible Refueling at Yongbyon’s 5 MWe Reactor.” 38 
+North . April 26. https://www.38north.org/2023/04/possi 
+ble-refueling-at-yongbyons-5-mwe-reactor/ .
+IAEA. 2021 . “Application of Safeguards in the Democratic 
+People’s Republic of Korea.” GOV/2021/40-GC(65)/22 , 
+International Atomic Energy Agency . August 27. https:// 
+www.iaea.org/sites/default/files/gc/gc65-22.pdf .
+IAEA. 2022 . “Application of Safeguards in the Democratic 
+People’s Republic of Korea.” GOV/2022/40-GC(66)/16 . 
+International Atomic Energy Agency . September 7. https:// 
+www.iaea.org/sites/default/files/gc/gc66-16.pdf .
+IAEA. 2023a . “IAEA Director General Statement on Recent 
+Developments in the DPRK’s Nuclear Programme.” 
+International Atomic Energy Agency . December 21. 
+https://www.iaea.org/newscenter/pressreleases/iaea- 
+director-general-statement-on-recent-developments-in- 
+the-dprks-nuclear-programme .
+IAEA. 2023b . “IAEA Director General’s Introductory 
+Statement to the Board of Governors.” International 
+Atomic Energy Agency . November 22. https://www.iaea. 
+org/newscenter/statements/iaea-director-generals- 
+introductory-statement-to-the-board-of-governors-22- 
+november-2023 .
+International Panel on Fissile Materials. 2022 . “North Korea.” 
+May 2. https://fissilematerials.org/countries/north_korea. 
+html .
+James Martin Center for Nonproliferation Studies. 2006 . 
+“CNS Special Report on North Korean Ballistic Missile 
+Capabilities.” Nautilus Institute , March 22. https://nauti 
+lus.org/wp-content/uploads/2011/12/0623.pdf .
+James Martin Center for Nonproliferation Studies. 2024 . “The 
+CNS North Korea Missile Test Database.” Nuclear Threat 
+Initiative . April 15. https://www.nti.org/analysis/articles/ 
+cns-north-korea-missile-test-database/ .
+Japanese Ministry of Defence. 2022a . “Related Information 
+such as North Korean Missiles.” January 30. https://www. 
+mod.go.jp/j/press/news/2022/01/30b.html .
+Japanese Ministry of Defence. 2022b . “Related Information 
+such as North Korean Missiles.” May 7. https://www.mod. 
+go.jp/j/press/news/2022/05/07b.html .
+Ji, D. 2023 . “N. Korea Simulates Nuclear Air Burst to Attack S. 
+Korea.” The Korea Herald , March 20. https://www.koreaher 
+ald.com/view.php?ud=20230320000600 .
+Johnson, J. 2023 . “North Korea Unveils Apparent New ICBM 
+in Nighttime Military Parade.” Japan Times , February 9. 
+https://www.japantimes.co.jp/news/2023/02/09/asia- 
+pacific/north-korea-missile-parade/ .
+Jones, G. S. 2016 . “The Implications of North Korea Testing 
+a Boosted Nuclear Weapon.” Proliferation Matters , January 
+11. https://nebula.wsimg.com/4da1b6db2152b55e 
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 267
+
+fe7334a70fe78781?AccessKeyId= 
+40C80D0B51471CD86975&disposition=0&alloworigin=1 .
+Jones, G. S. 2017 . “North Korea’s Sixth Nuclear Test: Was it 
+a Hydrogen Bomb?” Proliferation Matters , September 18. 
+https://nebula.wsimg.com/871aa9ff0e83997ab 
+b8e714bb3b0d2be?AccessKeyId= 
+40C80D0B51471CD86975&disposition=0&alloworigin=1 .
+Kang, B. 2022 . “Park Jin: ‘Only the Decision to Test the North 
+Korean Nuclear Test Remains . . . in Case of Provocation, 
+South Korea and the United States Will Cooperate and 
+Take a Decisive Response’.” Yonhap News Agency , June 
+13. https://www.yna.co.kr/view/AKR20220613000251071? 
+input=1195m .
+KCNA . 2013 . “Law on Consolidating Position of Nuclear 
+Weapons State Adopted.” Korean Central News Agency . 
+April 1. https://www.globalsecurity.org/wmd/library/ 
+news/dprk/2013/dprk-130401-kcna01.htm .
+KCNA . 2016a . “Crucial Statement of KPA Supreme 
+Command.” Korean Central News Agency , February 23. 
+https://www.globalsecurity.org/wmd/library/news/dprk/ 
+2016/dprk-160223-kcna01.htm .
+KCNA . 2016b . “Success in First H-Bomb Test.” Uriminzokkiri , 
+Korean Central News Agency via KCNA Watch , January 7. 
+https://kcnawatch.org/newstream/1452096913-756239854/ 
+success-in-first%C2%A0h-bomb-test/ .
+KCNA . 2021 . “On Report Made by Supreme Leader Kim Jong 
+Un at 8th Congress of WPK.” Korean Central News Agency 
+via KCNA Watch , January 9. https://kcnawatch.org/news 
+tream/1610155111-665078257/on-report-made-by- 
+supreme-leader-kim-jong-un-at-8th-congress-of-wpk/ .
+KCNA . 2022 . “Second-Day Sitting of Third Enlarged Meeting 
+of Eighth Central Military Commission of WPK Held.” 
+Korean Central News Agency via KCNA Watch . June 23. 
+https://kcnawatch.org/newstream/1655935577-763672286/ 
+second-day-sitting-of-third-enlarged-meeting-of-eighth- 
+central-military-commission-of-wpk-held/ .
+KCNA . 2023a . “Clear Display of DPRK Strategic Forces’ 
+Toughest Retaliation Will and Overwhelming Strength: 
+Launch Drill of ICBM Hwasongpho-18 Conducted.” 
+Korean Central News Agency , December 19. https://kcna. 
+kp/en/article/q/feb7d621d7ebcf48ca25eabab12b35ec.kcmsf .
+KCNA . 2023b . “Great Event Heralding Arrival of New Era, 
+Turning Point in Bolstering Up Juche-Based Naval Force 
+Ceremony of Launching Newly-Built Submarine Held with 
+Splendor in Presence of Respected Comrade Kim Jong Un.” 
+Korean Central News Agency via KCNA Watch , August 9. 
+https://kcnawatch.org/newstream/1694124676-336895087/ 
+great-event-heralding-arrival-of-new-era-turning-point-in 
+-bolstering-up-juche-based-naval-force-ceremony-of- 
+launching-newly-built-submarine-held-with-splendor-in- 
+presence-of-respected-comrade-kim-jon/ .
+KCNA . 2023c . “Important Weapon Test and Firing Drill 
+Conducted in DPRK.” Korean Central News Agency via 
+KCNA Watch , March 24. https://kcnawatch.org/news 
+tream/1679609724-943644822/important-weapon-test-and 
+-firing-drill-conducted-in-dprk/ .
+KCNA . 2023d . “Demonstration of Toughest Response Posture 
+of DPRK’s Strategic Forces—ICBM Hwasongpho-17 
+Launched.” Korean Central News Agency via KCNA 
+Watch , April. https://kcnawatch.org/wp-content/uploads/ 
+sites/5/2023/04/DPRKorea-2023-0401.pdf .
+KCNA . 2024a . “DPRK Missile Administration Succeeds in 
+Test-Fire of New-Type Intermediate-Range Hypersonic 
+Missile.” Korean Central News Agency , April 3. https:// 
+kcna.kp/en/article/q/afce7f7dbed19a4ea073506c749987c3. 
+kcmsf .
+KCNA . 2024b . “Report on Participation of 600 Mm 
+Super-Large Multiple Rocket Sub-Units in First 
+Combined Tactical Drill Simulating Nuclear 
+Counterattack Respected Comrade Kim Jong Un Guides 
+Combined Tactical Drill Simulating Nuclear 
+Counterattack.” Korean Centrral News Agency via KCNA 
+Watch , April 23. https://kcnawatch.org/newstream/ 
+1713825123-339837935/report-on-participation-of-600- 
+mm-super-large-multiple-rocket-sub-units-in-first- 
+combined-tactical-drill-simulating-nuclear-counterattack- 
+respected-comrade-kim-jong-un-guides-combined-tactical 
+-drill-s/ .
+KCNA . 2024c . “Missile Directorate Tests New Tactical 
+Missile.” Korean Central News Agency via KCNA Watch , 
+July 2. https://kcnawatch.org/newstream/1719972206- 
+551496092/direccion-general-de-misiles-prueba-el-nuevo- 
+misil-balistico-tactico/ .
+Kelley, R., and N. Hansen. 2016 . “Trick or Tritium: North 
+Korea H-Bomb Claims Examined.” Jane’s Intelligence 
+Review . August 9.
+Kim, J. 2023 . “Kim Jong Un Tells North Korea Arms Factories 
+to Boost Capacity.” Reuters , August 6. https://www.reuters. 
+com/world/asia-pacific/north-korea-leader-kim-jong-un- 
+gives-field-guidance-major-arms-factories-kcna-2023-08- 
+05/ .
+Kim, M. 2022 . “North Korea Codifies Right to Launch 
+Preemptive Nuclear Strikes.” Washington Post , September 
+9. https://www.washingtonpost.com/world/2022/09/09/ 
+north-korea-nuclear-weapons-kim-jong-un/ .
+Kristensen, H. M., and M. Korda. 2022 . “North Korean 
+Nuclear Weapons, 2022.” Bulletin of the Atomic Scientists 
+78 (5): 273–294. https://doi.org/10.1080/00963402.2022. 
+2109341  .
+Kütt, M., Z. Mian, and P. Podvig. 2022 . “Global Stocks and 
+Production of Fissile Materials, 2021.” Stockholm 
+International Peace Research Institute . July, 424–432. 
+https://sipri.org/sites/default/files/YB22%2010%20World% 
+20Nuclear%20Forces.pdf .
+La Boon, D. 2020 . “@davidlaboon: ‘Using the Lawn As a Ref, 
+~24m Width. That’ll Put the Diam at ~2.5m Confirming 
+Your Suspicion‘.” Twitter , October 10. https://twitter.com/ 
+DavidLaBoon/status/1314989032602968064 .
+Lee, C., and Y. Park. 2021 . “[Exclusive] ‘Both Pre-and post- 
+detection of North Korean Missiles Failed . . . Korea-US 
+Intelligence Disaster’.” JoonAng , September 13. https:// 
+www.joongang.co.kr/article/25006649#home .
+Lewis, J. 2020 . “@armscontrolwonk: My Work, for Better or 
+Worse.” Twitter. October 13. https://twitter.com/ 
+ArmsControlWonk/status/1316071900552990720 .
+Lewis, J. 2023 . “@armscontrolwonk: The North Koreans 
+printed the placards in Korean and . . . English . . . for 
+a visit from the Defense Minister from . . . Russia.*.” 
+Twitter . July 29. https://twitter.com/ArmsControlWonk/ 
+status/1685412130223276032 .
+Lewis, J. 2024 . “@armscontrolwonk: This Would Imply that 
+the ‘Intermediate-Range Solid-Fuel Ballistic Missile’ Tested 
+on 15 January (below) is *Probably* the Hwasong-16A 
+268
+ H. M. KRISTENSEN ET AL.
+
+but . . ..” Twitter , April 2. https://twitter.com/ 
+ArmsControlWonk/status/1775277446381850859 .
+Lewis, J., J. Pollack, and D. Schmerler. 2021 . “North Korea 
+Expanding Uranium Enrichment Plant at Yongbyon.” 
+Arms Control Wonk , September 14. https://www.armscon 
+trolwonk.com/archive/1213420/yongbyon-enrichment- 
+plant/ .
+Lewis, J., J. Pollack, and D. Schmerler. 2022 . “North Korea 
+Resuming Construction at the Yongbyon 50 MW(e) 
+Reactor.” Arms Control Wonk , May 10. https://www.arms 
+controlwonk.com/files/2022/05/50-MWe-Reactor.pdf .
+Lewis, J., and D. Schmerler. 2022 . “Changes at Punggye-ri.” 
+Arms Control Wonk , March 7. https://www.armscontrol 
+wonk.com/archive/1215261/changes-at-punggye-ri/ .
+Liu, J., P. Makowsky, and I. Ragnone. 2024 . “Sinpho South 
+Shipyard: Indications of New Submarine Construction.” 38 
+North , May 8. https://www.38north.org/2024/05/sinpho- 
+south-shipyard-indications-of-new-submarine- 
+construction/ .
+Makowsky, P. 2023 . “Pyongsan Uranium Mines: Mining 
+Continues as Older Mines Are Renewed.” 38 North , 
+March 7. https://www.38north.org/2023/03/pyongsan- 
+uranium-mines-mining-continues-as-older-mines-are- 
+renewed/ .
+Makowsky, P., O. Heinonen, and J. Liu. 2022a . “North Korea’s 
+Yongbyon Nuclear Research Center: Upgrades around the 
+Complex.” 38 North , May 24. https://www.38north.org/ 
+2022/05/north-koreas-yongbyon-nuclear-research-center- 
+site-upgrades-around-the-complex/ .
+Makowsky, P., O. Heinonen, and J. Liu. 2022b . “Punggye-ri 
+Nuclear Test Site: Work Continues to Restore Tunnel No. 
+3.” 38 North , April 28. https://www.38north.org/2022/04/ 
+punggye-ri-nuclear-test-site-work-continues-to-restore- 
+tunnel-no-3/ .
+Makowsky, P., O. Heinonen, J. Liu, and J. Town. 2022 . “North 
+Korea’s Yongbyon Nuclear Center: Plutonium Production 
+Continues Despite Heavy Rains.” 38 North , July 12. https:// 
+www.38north.org/2022/07/north-koreas-yongbyon- 
+nuclear-center-plutonium-production-continues-despite- 
+heavy-rains/ .
+Makowsky, P., J. Liu, and O. Heinonen. 2023 . “Yongbyon 
+Nuclear Scientific Research Center: Expansion Work 
+Continues.” 38 North , April 28. https://www.38north.org/ 
+2023/04/yongbyon-nuclear-scientific-research-center- 
+expansion-work-continues/ .
+Mansourov, A. 2014 . “Kim Jong Un’s Nuclear Doctrine and 
+Strategy: What Everyone Needs to Know.” Nautilus 
+Institute , NAPSnet Special Report, December 16. https:// 
+nautilus.org/napsnet/napsnet-special-reports/kim-jong- 
+uns-nuclear-doctrine-and-strategy-what-everyone-needs- 
+to-know/ .
+Mount, A., and J. Sup. 2022 . “North Korea’s Tactical Nuclear 
+Threshold Is Frightening Low.” Foreign Policy , December 8. 
+https://foreignpolicy.com/2022/12/08/north-korea-tactical 
+-nuclear-threat/ .
+Naenara. 2021 . “Academy of Defence Science Succeeds in 
+Test-Launch of New-type SLBM.” October 20. https://kcna 
+watch.org/newstream/1634724068-15952614/academy-of- 
+defence-science-succeeds-in-test-launch-of-new-type-slbm/ .
+Narang, V., and A. Panda. 2017 . “Command and Control in 
+North Korea: What a Nuclear Launch Might Look Like.” 
+War on the Rocks , September 15. https://warontherocks. 
+com/2017/09/command-and-control-in-north-korea-what 
+-a-nuclear-launch-might-look-like/ .
+National Air and Space Intelligence Center. 2020 . “Ballistic 
+and Cruise Missile Threat (Corrected Version).” July. 
+https://media.defense.gov/2021/Jan/11/2002563190/-1/-1/ 
+1/2020/20BALLISTIC/20AND/20CRUISE/20MISSILE// 
+2020THREAT_FINAL_2OCT_REDUCEDFILE.PDF .
+National Committee on North Korea. 2021 . “On Report Made 
+by Supreme Leader Kim Jong Un at Eighth Party Congress 
+of WPK.” January 9. https://www.ncnk.org/resources/pub 
+lications/kju_8th_party_congress_speech_summary.pdf/ 
+file_view .
+NK News . 2020 . “North Korea Military Parade 2020— 
+Livestream & Analysis.” YouTube . October 10. https:// 
+www.nknews.org/2020/10/watch-free-livestream-of-north- 
+koreas-military-parade-with-expert-commentary/ .
+North Korean Ministry of Foreign Affairs. 2021 . “Great 
+Programme for Struggle Leading Korean-style Socialist 
+Construction to Fresh Victory on Report Made by 
+Supreme Leader Kim Jong Un at Eighth Congress of 
+WPK.” January 9. https://web.archive.org/web/ 
+20210207055150/http://www.mfa.gov.kp/en/on-report-at- 
+eighth-congress-of-wpk/ .
+Nouwens, V., T. Wright, E. Graham, and B. Herzinger. 2024 . 
+“Long-range Strike Capabilities in the Asia-Pacific: 
+Implications for Regional Stability.” The International 
+Institute for Strategic Studies . January. https://www.iiss. 
+org/globalassets/media-library—content–migration/files/ 
+research-papers/2024/01/iiss_long-range-strike- 
+capabilities-in-the-asia-pacific_implications-for-regional- 
+stability_012024.pdf .
+Pabian, F., J. Town, and J. Liu. 2021 . “North Korea’s 
+Yongbyon Nuclear Complex: More Evidence the 5 MWe 
+Reactor Appears to Have Restarted.” 38 North , August 30. 
+https://www.38north.org/2021/08/north-koreas-yongbyon 
+-nuclear-complex-more-evidence-the-5-mwe-reactor- 
+appears-to-have-restarted/ .
+Panda, A. 2017 . “Introducing the KN21, North Korea’s New 
+Take on its Oldest Ballistic Missile.” The Diplomat , 
+September 14. https://thediplomat.com/2017/09/introdu 
+cing-the-kn21-north-koreas-new-take-on-its-oldest- 
+ballistic-missile/ .
+Panda, A. 2021 . “@nktpnd: Real good catch by @ColinZwirko: 
+North Korea’s very large road-mobile ICBM seen at the end 
+of the October 2020 is the *Hwasong-17*, NOT Hwasong- 
+16 (KN28 to USIC).” Twitter , October 12. https://twitter. 
+com/nktpnd/status/1448073861363290124 .
+Panda, A. 2022a . “@nktpnd: The Hwasong-17 is the Largest 
+Road-Mobile Liquid-Propellant Missile Ever Designed and 
+Tested Anywhere, so the North Koreans set a Record of 
+a Sort with this Successful Flight-Test.” Twitter , November 
+18. https://twitter.com/nktpnd/status/ 
+1593730477449351168 .
+Panda, A. 2022b . “Two Unusual Missile Launches Hint at 
+a New Security Crisis in North Korea.” Carnegie 
+Endowment for International Peace , March 15. https://car 
+negieendowment.org/2022/03/15/two-unusual-missile- 
+launches-hint-at-new-security-crisis-in-north-korea-pub 
+-86642 .
+Panda, A. 2023a . “@nktpnd: North Korean State Media 
+Confirms the Second-Ever Flight-Test of the Hwasong-18 
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 269
+
+Solid-Fuel ICBM.” Twitter , July 12. https://twitter.com/ 
+nktpnd/status/1679235784191234048 .
+Panda, A. 2023b . “@nktpnd: Yeah. At least 10 Hwasong-17s.” 
+Twitter , February 8. https://twitter.com/nktpnd/status/ 
+1623512675576696833 .
+Park, S., T. McNulty, A. Puccioni, and R. C. Ewing. 2021 . 
+“Assessing Uranium Ore Processing Activities Using 
+Satellite Imagery at Pyongsan in the Democratic People’s 
+Republic of Korea.” Science and Global Security 29 (3): 
+111–144. August 18. https://scienceandglobalsecurity.org/ 
+archive/sgs29park.pdf .
+Park, S., and A. Puccioni. 2024 . “North Korea’s Pursuit of an 
+ELWR: Potential Power in Nuclear Ambitions?.” 38 North , 
+January 24. https://www.38north.org/2024/01/north- 
+koreas-pursuit-of-an-elwr-potential-power-in-nuclear- 
+ambitions/ .
+Pinkston, D. A. 2008 . “The North Korean Ballistic Missile 
+Program.” Strategic Studies Institute, US Army War 
+College . February 52. https://web.archive.org/web/ 
+20170502065845/http://ssi.armywarcollege.edu/pdffiles/ 
+pub842.pdf .
+Rodong Sinmun. 2021 . “Great Programme for Struggle 
+Leading Korean-style Socialist Construction to Fresh 
+Victory on Report Made by Supreme Leader Kim Jong 
+Un at Eighth Congress of WPK.” January 10. https://kcna 
+watch.org/newstream/1610261416-871234007/great- 
+programme-for-struggle-leading-korean-style-socialist- 
+construction-to-fresh-victory-on-report-made-by- 
+supreme-leader-kim-jong-un-at-eighth-congress-of-wpk/ .
+Rodong Sinmun. 2023 . “Respected Comrade Kim Jong-un’s 
+Congratulatory Speech at the Launching Ceremony of the 
+Newly Built Submarine.” September 9. https://kcnawatch- 
+org.translate.goog/newstream/1694119829-235087314/%ea 
+%b2%bd%ec%95%a0%ed%95%98%eb%8a%94-%ea%b9% 
+80%ec%a0%95%ec%9d%80-%eb%8f%99%ec%a7%80%ea% 
+bb%98%ec%84%9c-%ec%83%88%eb%a1%9c-%ea%b1% 
+b4%ec%a1%b0%ed%95%9c-%ec%9e%a0%ec%88%98%ed 
+%95%a8-%ec%a7%84%ec%88%98/ .
+Rodong Sinmun. 2024 . “Respected Comrade Kim Jong Un 
+Guides Test-Fire of Submarine-Launched Cruise Missile.” 
+January 29. https://kcnawatch.org/newstream/1706502717- 
+678442344/respected-comrade-kim-jong-un-guides-test- 
+fire-of-submarine-launched-strategic-cruise-missile/ .
+Schiller, M. 2012 . “Characterizing the North Korean Missile 
+Threat.” Rand Corporation , 65. https://www.rand.org/ 
+pubs/technical_reports/TR1268.html .
+Schilling, J. 2016 . “A Solid but Incremental Improvement in 
+North Korea’s Missiles.” 38 North , March 29. https://www. 
+38north.org/2016/03/jschilling032916 .
+Soo-Yeon, K. 2023 . “(LEAD) N. Korea Stipulates Nuclear 
+Force-Building Policy in Constitution.” Yonhap News 
+Agency , September 28. https://m-en.yna.co.kr/view/ 
+AEN20230928000551315 .
+Talmadge, E. 2018 . “N. Korea Demolishes Nuclear Test Site as 
+Journalists Watch.” Associated Press , May 24. https:// 
+apnews.com/article/journalists-donald-trump-ap-top- 
+news-north-korea-international-news- 
+b3d007a341db451abc74d45279f0d5c7 .
+United Nations. 2021a . “Report by the Panel of Experts 
+Established Pursuant to Resolution 1874 (2009).” S/2021/ 
+211 , March 2. https://digitallibrary.un.org/record/3906140? 
+ln=en .
+United Nations. 2021b . “Report by the Panel of Experts 
+Established Pursuant to Resolution 1874 (2009).” S/2021/ 
+777 , September 8. https://www.securitycouncilreport.org/ 
+atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9 
+%7D/S_2021_777_E.pdf .
+United Nations. 2022 . “Report by the Panel of Experts 
+Established Pursuant to Resolution 1874 (2009).” S/2022/ 
+132 , March 1. https://documentsddsny.un.org/doc/ 
+UNDOC/GEN/N22/252/09/PDF/N2225209.pdf? 
+OpenElement .
+United Nations. 2023 . “Report by the Panel of Experts 
+Established Pursuant to Resolution 1874 (2009).” S/2023/ 
+656 , September 12. https://www.securitycouncilreport.org/ 
+atf/cf/%7B65BFCF9B-6D27-4E9C-8CD3-CF6E4FF96FF9 
+%7D/N2323869.pdf .
+United Nations. 2024 . “Report by the Panel of Experts 
+Established Pursuant to Resolution 1874 (2009).” S/2024/ 
+215 , March 7. https://documents.un.org/doc/undoc/gen/ 
+n24/032/68/pdf/n2403268.pdf?token= 
+l7egbsUPhxLQpF4Fau&fe=true .
+Van Diepen, V. H. 2024 . “North Korea Emphasizes Theater 
+Strike Missiles in the First Third of 2024.” 38 North , May 1. 
+https://www.38north.org/2024/05/north-korea-emphasizes 
+-theater-strike-missiles-in-the-first-third-of-2024/ .
+Voice of Korea . 2021a . “New-type Tactical Guided Missiles 
+test-fired.” March 26. https://kcnawatch.org/newstream/ 
+1616706026-838802969/new-type-tactical-guided-missiles- 
+test-fired/ .
+Voice of Korea . 2021b . “Secretary Pak Jong Chon Guides 
+Launching Drill of Railway Mobile Missile Regiment for 
+Inspection.” September 16. https://kcnawatch.org/news 
+tream/1631739672-562011738/secretary-pak-jong-chon- 
+guides-launching-drill-of-railway-mobile-missile-regiment 
+-for-inspection/ .
+Voice of Korea . 2024 . “General Missile Bureau of DPRK 
+Conducts Test of Power of Super-Large Warhead of 
+Cruise Missile and Test-Fires New-Type Anti-Aircraft 
+Missile.” April 20. https://kcnawatch.org/newstream/ 
+1713582262-57625788/general-missile-bureau-of-dprk- 
+conducts-test-of-power-of-super-large-warhead-of-cruise- 
+missile-and-test-fires-new-type-anti-aircraft-missile/ .
+Warrick, J., and S. Mekhennet. 2018 . “Summit Collapse Foils 
+Chance to Press North Korea on Suspicious Sites.” The 
+Washington Post , May 25. https://www.washingtonpost. 
+com/world/national-security/summit-collapse-foils- 
+chance-to-press-north-korea-on-suspicious-sites/2018/05/ 
+25/d5a14044-602d-11e8-9ee3-49d6d4814c4c_story.html .
+Wright, D. 2017a . “North Korean ICBM Appears Able to 
+Reach Major US Cities.” Union of Concerned Scientists, 
+All Things Nuclear Blog . July 28. http://allthingsnuclear. 
+org/dwright/new-north-korean-icbm .
+Wright, D. 2017b . “North Korea’s February 12 Missile 
+Launch.” Union of Concerned Scientists, All Things 
+Nuclear Blog . February 12. http://allthingsnuclear.org/ 
+dwright/north-koreas-february-missile-launch .
+Wright, D. 2017c . “North Korea’s Longest Missile Test Yet.” 
+Union of Concerned Scientists, All Things Nuclear Blog . 
+November 28. http://allthingsnuclear.org/dwright/nk- 
+longest-missile-test-yet .
+Wright, D. 2017d . “North Korea’s May 21 Missile Launch.” 
+Union of Concerned Scientists, All Things Nuclear Blog . May 
+270
+ H. M. KRISTENSEN ET AL.
+
+21. http://allthingsnuclear.org/dwright/north-koreas-may 
+-21-missile-launch .
+Wright, D. 2017e . “North Korea’s Missile in New Test Would 
+Have 4,500 Km Range.” Union of Concerned Scientists, All 
+Things Nuclear Blog . May 13. http://allthingsnuclear.org/ 
+dwright/north-koreas-missile-in-new-test-would-have 
+-4500-km-range .
+Wright, D. 2017h . “Reentry of North Korea’s Hwasong-15 
+ICBM.” Union of Concerned Scientists, All Things Nuclear 
+Blog . December 7. https://allthingsnuclear.org/dwright/ 
+reentry-of-hwasong-15/ .
+Xu, T. 2021 . “Brief on the Defence Development Exhibition of 
+the Democratic People’s Republic of Korea.” Open Nuclear 
+Network , October 18. https://oneearthfuture.org/file/2622/ 
+download?token=OSeaZusF .
+Xu, T. 2024 . “HGV Unproven at IRBM Ranges: Analysis of 
+the April 2 Hwasong-16Na Hypersonic Missile Test.” 38 
+North , April 12. https://www.38north.org/2024/04/hgv- 
+unproven-at-irbm-ranges-analysis-of-the-april-2-hwa 
+song-16na-hypersonic-missile-test/ .
+Yang, S., M. Lee, D. Ko, G. Heo, C. Kang, and S. Woo. 2024 . 
+“Estimating North Korea’s nuclear capabilities: Insights 
+from a study on tritium production in a 5MWe graphite- 
+moderated reactor.” Nuclear Engineering and Technology .  
+https://doi.org/10.1016/j.net.2024.02.026  .
+Ye Hee Lee, M. 2022 . “North Korea’s Latest Missile Test May 
+Not have been What it Claimed.” Washington Post , March 
+29. https://www.washingtonpost.com/world/2022/03/28/ 
+north-korea-missile-hwasong/ .
+Yonhap News Agency. 2022 . “N. Korea Fires 8 short-range 
+Ballistic Missiles toward East Sea: S. Korean Military.” June 
+5. https://en.yna.co.kr/view/AEN20220305000454325? 
+input=tw .
+Yonhap News Agency. 2023 . “N. Korea warns U.S. strategic 
+assets will be ‘1st targets of destruction’.” October 20. 
+https://m-en.yna.co.kr/view/AEN20231020002100315 .
+Zwirko, C. 2022 . “Imagery Casts Doubt over North Korea’s 
+Hwasong-17 ICBM Claims.” NK News , March 25. https:// 
+www.nknews.org/pro/imagery-casts-doubt-over-north- 
+koreas-hwasong-17-icbm-claims/ .
+Zwirko, C. 2023a . “@ColinZwirko: Looks Like a Warhead 
+Called “Hwasan-31” Being Fitted into the 600mm MLRS 
+(KN-25) . . ..” Twitter , March 27. https://x.com/ 
+ColinZwirko/status/1640512547223912448 .
+Zwirko, C. 2023b . “North Korea Says it Tested ‘Hwasong-18’ 
+Solid-Fuel ICBM for First Time.” NK News , April 14. 
+https://www.nknews.org/2023/04/north-korea-says-it- 
+tested-hwasong-18-solid-fuel-icbm-for-first-time/ .
+Zwirko, C. 2024 . “Kim Jong Un Leads Salvo Missile 
+Launch in First Test of ‘Nuclear Trigger’ System.” NK 
+News , April 23. https://www.nknews.org/2024/04/kim- 
+jong-un-leads-first-nuclear-trigger-system-test-with- 
+salvo-missile-launch/ .
+BULLETIN OF THE ATOMIC SCIENTISTS
+ 271

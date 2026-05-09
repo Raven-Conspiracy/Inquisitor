@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Romeo-class Submarine Flotilla
+
+**Unit ID**: kpn_romeo_flotilla
+**Type**: submarine_flotilla
+**Headquarters**: Mayangdo sub base / Ch'aho sub base (east coast)
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: East Sea Fleet (East Coast Fleet) (kpn_east_fleet)
+**Higher echelon**: Korean People's Navy (Haegun)
+**Elite designation**: No
+**Strength (% authorized)**: 55.0%
+**Notes**: ~20-24 Romeo-class diesel-electric submarines (Chinese/domestic built, Soviet-origin design). Can carry 14 torpedoes or 28 mines. Split between east/west coasts; east coast has primary sub bases at Mayangdo and Ch'aho. Readiness varies — aging fleet; some hulls in poor condition. [DIA NKMP 2021; Wikipedia KPN; KPASOF Wikipedia]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

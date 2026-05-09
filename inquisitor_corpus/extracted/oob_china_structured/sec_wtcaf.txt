@@ -1,0 +1,15 @@
+# Chinese PLA — Group Army / Fleet / Base: Western Theater Command Air Force (西部战区空军)
+
+**Unit ID**: wtcaf
+**Service**: PLAAF
+**Type**: air_force_base
+**Headquarters**: Chengdu
+**Parent**: Western Theater Command (西部战区) (wtc)
+**Strength (% authorized)**: 100%
+**Notes**: Manages PLAAF in WTC AOR. J-20 at 97th Bde (Dazu) and 111th Bde (Korla). Western TC has transport regiment (not brigade) directly subordinate. Bases at Lhasa, Urumqi, Lanzhou, Kunming. [CASI J-20 Status 2024-04-29] [CASI/PLAAF Overview 2023] [_gaps: limited public brigade-level data for WTC]
+
+## Subordinate Brigade / Division / Flotillas
+- **111th Aviation Brigade (J-20)** (elite) (wtcaf_111bde) — type: fighter_brigade, HQ: Korla Air Base, Xinjiang, strength: 100%. J-20; adopted 2022. Notable deployment to Xinjiang; counterterrorism/border deterrence role. [CASI J-20 Status 2024-04-29]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

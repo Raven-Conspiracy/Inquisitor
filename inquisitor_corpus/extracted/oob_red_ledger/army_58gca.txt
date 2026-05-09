@@ -1,0 +1,14 @@
+# Russian Army — 58th Guards Combined Arms Army
+
+**Unit ID**: 58gca
+**Type**: combined_arms_army
+**Headquarters**: Vladikavkaz
+**Parent District**: Southern Military District (SMD)
+**Strength (% authorized)**: 65.0%
+**Notes**: South Donetsk / Zaporozhye
+
+## Subordinate Brigades (direct)
+- **19th Motor Rifle Brigade** (19mrb) — type: motor_rifle, strength: 60.0%. None
+- **136th Guards Motor Rifle Brigade** (Guards) (136gmrb) — type: motor_rifle, strength: 58.0%. None
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

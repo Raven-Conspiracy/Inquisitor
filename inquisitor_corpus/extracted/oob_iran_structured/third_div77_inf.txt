@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 77th Infantry Division
+
+**Unit ID**: div77_inf
+**Type**: mountain
+**Headquarters**: Mashhad, Khorasan Razavi
+**Parent**: Region / Provincial Corps / Base: Northeastern Regional Headquarters (artesh_ne_rhq)
+**Higher echelon**: Islamic Republic of Iran Army (Artesh / IRIGF)
+**Elite designation**: No
+**Strength (% authorized)**: 85%
+**Notes**: Commander: BG2 Abdol Rahman Sasanian Fard. Brigades: 277th MAB (Ghuchan), 377th MAB (Mashhad), 38th Armored (Torbat-e Jam). [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

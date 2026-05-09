@@ -1,0 +1,18 @@
+# Russian Army — 1st Guards Tank Army
+
+**Unit ID**: 1gta
+**Type**: tank_army
+**Headquarters**: Odintsovo
+**Parent District**: Moscow Military District (MMD)
+**Strength (% authorized)**: 55.0%
+**Notes**: Severely attrited; multiple divisions rebuilt from remnants
+
+## Subordinate Divisions
+- **2nd Guards 'Tamanskaya' Motor Rifle Division** (2gmd) — type: motor_rifle, HQ: Alabino, strength: 50.0%. Heavily engaged near Lyman
+- **4th Guards 'Kantemirovskaya' Tank Division** (4gtd) — type: tank, HQ: Naro-Fominsk, strength: 45.0%. Severe losses; partially rebuilt
+
+## Subordinate Brigades (direct)
+- **27th Guards Motor Rifle Brigade** (Guards) (27mrb) — type: motor_rifle, strength: 48.0%. Kupyansk sector
+- **2nd Guards Spetsnaz Brigade (GRU)** (Guards) (2spetz) — type: spetsnaz, strength: 78.0%. None
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

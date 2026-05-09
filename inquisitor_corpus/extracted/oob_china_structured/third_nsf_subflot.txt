@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: North Sea Fleet Submarine Flotilla (ELITE / first-tier)
+
+**Unit ID**: nsf_subflot
+**Type**: submarine_flotilla
+**Headquarters**: Jianggezhuang (Qingdao)
+**Parent**: Group Army / Fleet / Base: Northern Theater Command Fleet (North Sea Fleet, 北部战区海军) (nsf)
+**Higher echelon**: Northern Theater Command (北部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: Houses SSBN (Type 094A Jin-class) and SSN (Type 093 Shang-class) at Jianggezhuang nuclear submarine base near Qingdao. Type 094 assigned 72 JL-3 warheads per PLAN nuclear deterrence posture. [DOD CMPR 2024 p.55] [Wikipedia PLAN]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

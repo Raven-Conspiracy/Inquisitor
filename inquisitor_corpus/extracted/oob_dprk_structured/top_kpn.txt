@@ -1,0 +1,14 @@
+# Korean People's Army — General Staff Directorate: Korean People's Navy (Haegun)
+
+**ID**: KPN
+**Headquarters**: Pyongyang (administrative); operational HQ split East/West fleets
+**Commander (current)**: Park Kwang Seop (Commander, from May 2025)
+**Map color code**: #1a4a7c
+**Notes**: ~60,000-146,000 personnel (estimates vary widely). Primarily coastal/brown-water navy. ~70 submarines total (Romeo-class ~20, Sang-O ~40, Yugo/Yono midgets ~30+). ~430 combat ships. Two destroyers Choe Hyon-class commissioned Apr-Jun 2025 [POST-2021 UPDATE: Wikipedia Choe Hyon 2025]. New nuclear-powered SSBN announced Mar 2025. SLBM-capable submarine 8.24 Yongung (Sinpo-class) + Hero Kim Kun Ok (multi-tube, commissioned Sep 2023). [DIA NKMP 2021; Wikipedia KPN; CSIS Beyond Parallel 2024]
+
+## Subordinate Corps / Fleet / Air Division / Missile Bureaus
+- **East Sea Fleet (East Coast Fleet)** [KPN] (kpn_east_fleet) — type: fleet, HQ: Toejo-dong (T'oejo-dong), with major bases at Wonsan/Munchon, Najin, Rason, Mayangdo, Ch'aho, strength: 70.0%. ~470 ships and small craft. 8 operational squadron commands (per DIA NKMP). 10 squadrons per DPRK NIS 1999. Houses submarine flotillas (Romeo-class, Sang-O SSC, midgets), surface forces, landing craft, SOF infiltration assets. Sinpo/Mayang sub development base on east coast. East fleet submarines used for SLBM testing. [Wikipedia KPN; DIA NKMP 2021]
+- **West Sea Fleet (West Coast Fleet)** [KPN] (kpn_west_fleet) — type: fleet, HQ: Nampo (Namp'o), with major bases at Pip'a-got, Sagon-ni, Haeju, strength: 68.0%. ~300 watercraft. 5 operational squadron commands (per DIA NKMP). 6 squadrons per DPRK NIS 1999. Houses surface combatants, patrol craft, guided-missile patrol boats, hovercraft, landing craft. Two new 4000-5000 ton Choe Hyon-class destroyers: lead ship Choe Hyon launched Nampo 27 Apr 2025, second ship launched 12 Jun 2025 [POST-2021 UPDATE: Wikipedia Choe Hyon; Sputnik News May 2026]. [DIA NKMP 2021; Wikipedia KPN]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:GSD] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

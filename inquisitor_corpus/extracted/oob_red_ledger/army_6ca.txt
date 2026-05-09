@@ -1,0 +1,14 @@
+# Russian Army — 6th Combined Arms Army
+
+**Unit ID**: 6ca
+**Type**: combined_arms_army
+**Headquarters**: Agalatovo
+**Parent District**: Leningrad Military District (LMD)
+**Strength (% authorized)**: 70.0%
+**Notes**: Deployed North Kharkiv
+
+## Subordinate Divisions
+- **68th Guards Motor Rifle Division** (68gmd) — type: motor_rifle, HQ: Agalatovo, strength: 65.0%. N Kharkiv
+- **69th Guards Motor Rifle Division** (69gmd) — type: motor_rifle, HQ: Vyborg, strength: 62.0%. N Kharkiv
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

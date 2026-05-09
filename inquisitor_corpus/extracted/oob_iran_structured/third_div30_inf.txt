@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 30th Infantry Division
+
+**Unit ID**: div30_inf
+**Type**: mountain
+**Headquarters**: Birjand, South Khorasan
+**Parent**: Region / Provincial Corps / Base: Northeastern Regional Headquarters (artesh_ne_rhq)
+**Higher echelon**: Islamic Republic of Iran Army (Artesh / IRIGF)
+**Elite designation**: No
+**Strength (% authorized)**: 85%
+**Notes**: Commander: Unknown. Brigades: 130th Bde (Bojnourd). [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

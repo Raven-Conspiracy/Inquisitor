@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 115th Medium Combined Arms Brigade
+
+**Unit ID**: 78ga_115cab
+**Type**: medium_cab
+**Headquarters**: Harbin area
+**Parent**: Group Army / Fleet / Base: 78th Group Army (第七十八集团军) (78ga)
+**Higher echelon**: Northern Theater Command (北部战区)
+**Elite designation**: No
+**Strength (% authorized)**: 100%
+**Notes**: [Wikipedia 78th GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

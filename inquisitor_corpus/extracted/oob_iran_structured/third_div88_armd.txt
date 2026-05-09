@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 88th Armored Division
+
+**Unit ID**: div88_armd
+**Type**: tank
+**Headquarters**: Zahedan, Sistan and Baluchistan
+**Parent**: Region / Provincial Corps / Base: Southeastern Regional Headquarters (artesh_se_rhq)
+**Higher echelon**: Islamic Republic of Iran Army (Artesh / IRIGF)
+**Elite designation**: No
+**Strength (% authorized)**: 80%
+**Notes**: Commander: BG2 Adel Heydari (since Oct 2023). Border-focused; SE Iran vs. Pakistan/Afghanistan threat axes. Brigades: 188th Armored (Zahedan), 288th Armored (Khash), 388th Mechanized Assault (Iranshahr). [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

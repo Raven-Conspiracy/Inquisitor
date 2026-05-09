@@ -1,0 +1,18 @@
+# Chinese PLA — Theater Command: Eastern Theater Command (东部战区)
+
+**ID**: ETC
+**Headquarters**: Nanjing
+**Commander (current)**: Gen. Yang Zhibin (promoted December 2025; replaces purged Gen. Lin Xiangyang)
+**Map color code**: #c0392b
+**Notes**: Responsible for Taiwan Strait, East China Sea; most likely main effort theater for Taiwan contingency. Lin Xiangyang purged November 2025 per CNA. Yang Zhibin confirmed Dec 2025. [DOD CMPR 2024 p.95] [CNA 2025-11-19] [Chinese Govt release 2025-12-22]
+
+## Subordinate Group Army / Fleet / Bases
+- **71st Group Army (第七十一集团军)** [PLAA] (71ga) — type: group_army, HQ: Xuzhou, strength: 100%. Formerly 12th Group Army (Nanjing MR); redesignated Apr 2017. Primary armored force for ETC; 4 heavy CABs. [DOD CMPR 2024 p.97] [Wikipedia 71st GA] [US Army SSI 2024]
+- **72nd Group Army (第七十二集团军)** [PLAA] (72ga) — type: group_army, HQ: Huzhou, strength: 100%. Formerly 1st Group Army (Nanjing MR); redesignated Apr 2017. Significant amphibious component. [DOD CMPR 2024 p.97] [Wikipedia PLAGF] [mod.gov.cn 2025]
+- **73rd Group Army (第七十三集团军)** [PLAA] (73ga) — type: group_army, HQ: Xiamen, strength: 100%. Formerly 31st Group Army (Nanjing MR); redesignated Apr 2017. Contains 2 amphibious brigades for Taiwan strait contingency; first-tier amphibious force. [DOD CMPR 2024 p.97] [Wikipedia 73rd GA 2024]
+- **Eastern Theater Command Fleet (East Sea Fleet, 东部战区海军)** [PLAN] (esf) — type: fleet, HQ: Ningbo, strength: 100%. HQ at Ningbo (Zhoushan), Zhejiang. Patrols East China Sea; critical for Taiwan strait operations. Will receive first Type 055 DDGs from second production batch per NavalNews. Operates Sovremenny-class DDGs as most capable surface combatants currently. [DOD CMPR 2024 p.45] [NavalNews 2026-01-03]
+- **Eastern Theater Command Air Force (东部战区空军)** [PLAAF] (etcaf) — type: air_force_base, HQ: Nanjing, strength: 100%. Manages PLAAF units in ETC AOR. Key fighter brigades include J-20 (8th, 9th, 41st Bdes), J-16 (7th, 40th Bdes), Su-30MKK (85th Bde), JH-7A (83rd Bde). Primary air combat power for Taiwan contingency. [Heritage Foundation 2026-01-20] [CASI/PLAAF Overview 2023]
+- **PLARF Base 61 (第六十一基地, Unit 96601)** [PLARF] (plarf_b61) — type: rocket_force_base, HQ: Huangshan, strength: 100%. HQ Huangshan, Anhui. Covers eastern/southeastern China; proximate to Taiwan Strait. 7-8 subordinate brigades including DF-26, DF-21A, DF-15, DF-17, DF-16, DF-11 systems. Primarily conventional/dual-capable; Taiwan-targeting posture. [POST-PURGE STATUS UNCERTAIN — PLARF leadership purge 2023-2024 may have affected readiness] [CNS PLARF OOB 2023 p.base61] [Wikipedia PLARF]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:THEATER] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

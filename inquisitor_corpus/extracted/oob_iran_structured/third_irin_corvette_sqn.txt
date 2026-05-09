@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: IRIN Surface Combatant Force (Jamaran/Vosper/Bayandor corvettes)
+
+**Unit ID**: irin_corvette_sqn
+**Type**: surface_flotilla
+**Headquarters**: Bandar Abbas
+**Parent**: Region / Provincial Corps / Base: IRIN 1st Naval District — Bandar Abbas (SNFHQ) (irin_nd1)
+**Higher echelon**: Islamic Republic of Iran Navy (IRIN)
+**Elite designation**: No
+**Strength (% authorized)**: 50%
+**Notes**: 3x Jamaran-class (Mowj) corvette, 3x Vosper Mk 5 corvette, 2x Bayandor (PF-103) corvette. Makran forward base ship set ablaze Mar 2026. [DIA IMP 2019 p.27] [TWZ Mar 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

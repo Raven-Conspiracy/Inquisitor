@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: IRIN 1st Naval District — Bandar Abbas (SNFHQ)
+
+**Unit ID**: irin_nd1
+**Service**: IRIN
+**Type**: naval_district
+**Headquarters**: Bandar Abbas, Hormozgan
+**Parent**: Islamic Republic of Iran Navy (IRIN) (irin)
+**Strength (% authorized)**: 50%
+**Notes**: Southern Naval Force HQ (SNFHQ); RA Abrahim Ashkan commanded deployed naval groups (2017). Strait of Hormuz. Kilo-class submarines based here. [DIA IMP 2019 p.27] [ONI Iran Naval Doctrine 2017] [POST-2024-STRIKES STATUS UNCERTAIN: base struck Mar 2026; Makran set ablaze; multiple warships damaged]
+
+## Subordinate Division / Brigade / Squadrons
+- **IRIN Submarine Force (Kilo-class / Fateh-class)** (elite) (irin_kilo_sqn) — type: submarine_flotilla, HQ: Bandar Abbas, strength: 60%. 3x Kilo-class (877EKM) attack submarines + 1x Fateh-class coastal submarine. Kilo-class range extends to Indian Ocean. Bandar Abbas base struck Mar 2026. [DIA IMP 2019 p.27] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **IRIN Midget Submarine Force (Ghadir/Nahang/Yono)** (irin_ghadir_sqn) — type: submarine_flotilla, HQ: Bandar Abbas / Chah Bahar, strength: 65%. 14x Ghadir/Yono-class + 1x Nahang-class midget submarines (coastal/littoral). Used for special operations insertion and mine-laying. [DIA IMP 2019 p.27]
+- **IRIN Surface Combatant Force (Jamaran/Vosper/Bayandor corvettes)** (irin_corvette_sqn) — type: surface_flotilla, HQ: Bandar Abbas, strength: 50%. 3x Jamaran-class (Mowj) corvette, 3x Vosper Mk 5 corvette, 2x Bayandor (PF-103) corvette. Makran forward base ship set ablaze Mar 2026. [DIA IMP 2019 p.27] [TWZ Mar 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

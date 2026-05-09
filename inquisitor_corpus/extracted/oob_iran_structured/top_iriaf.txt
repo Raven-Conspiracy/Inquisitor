@@ -1,0 +1,23 @@
+# Iranian Armed Forces — Service Branch: Islamic Republic of Iran Air Force (IRIAF)
+
+**ID**: IRIAF
+**Headquarters**: Tehran (Mehrabad)
+**Commander (current)**: Brigadier General Aziz Nasirzadeh
+**Map color code**: #1e3a5f
+**Notes**: Artesh air component; ~37,000 personnel. Operates mixed Soviet/US/Chinese legacy fleet. Severely degraded by Israeli/US strikes in 2025. Readiness substantially reduced across most TABs. [DIA IMP 2019 p.24] [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN: multiple TABs struck June 2025; Su-35E deliveries begun 2025].
+
+## Subordinate Region / Provincial Corps / Bases
+- **1st Tactical Air Base — Mehrabad (Tehran)** [IRIAF] (tab1_mehrabad) — type: air_force_base, HQ: Tehran-Mehrabad, strength: 45%. MiG-29A/UB, transports, VIP fleet, tankers, C-130, CH-47C. Attacked by Israeli Air Force June 13, 2025; airworthiness doubtful. Hosts IACI and IHSMC maintenance facilities. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **2nd Tactical Air Base — Tabriz (Shaheed Fakouri)** [IRIAF] (tab2_tabriz) — type: air_force_base, HQ: Tabriz, East Azerbaijan, strength: 45%. F-5E/F, MiG-29A/UB, Saeghe variants. Attacked Jun 13, 2025. Northern Helicopter Command HQ and UAV Logistics Support Command co-located. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **3rd Tactical Air Base — Hamadan (Nojeh)** [IRIAF] (tab3_hamadan) — type: air_force_base, HQ: Hamadan/Nojeh, strength: 45%. F-4E, RF-4E. Su-35E ordered (o/o 2025). Attacked Jun 13, 2025. Underground tunnel expansion reported. [Scramble.nl IRIAF OOB Feb 2026] [DIA IMP 2019 p.24] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **4th Tactical Air Base — Dezful (Vahdati)** [IRIAF] (tab4_dezful) — type: air_force_base, HQ: Dezful, Khuzestan, strength: 40%. F-5E/F. Attacked Jun 13, 2025; airworthiness doubtful. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **5th Tactical Air Base — Omidiyeh (Shahid Ardestani)** [IRIAF] (tab5_omidiyeh) — type: air_force_base, HQ: Omidiyeh, Khuzestan, strength: 65%. F-7N/FT-7N (3 squadrons). Was due to transfer to IRGC in 2008; reverted to IRIAF. [Scramble.nl IRIAF OOB Feb 2026] [DIA IMP 2019 p.24]
+- **6th Tactical Air Base — Bushehr (Yassini)** [IRIAF] (tab6_bushehr) — type: air_force_base, HQ: Bushehr, strength: 35%. F-4E; Su-35E on order 2025. Attacked Jun 13 and Jun 19, 2025. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **7th Tactical Air Base — Shiraz (Shahid Dastghaib)** [IRIAF] (tab7_shiraz) — type: air_force_base, HQ: Shiraz, Fars, strength: 45%. Su-24MK (3 sqns), C-130 airlift wing, Il-76TD, P-3F ASW. Attacked Jun 13, 2025. [Scramble.nl IRIAF OOB Feb 2026] [DIA IMP 2019 p.24] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **8th Tactical Air Base — Isfahan (Shahid Beheshti)** [IRIAF] (tab8_isfahan) — type: air_force_base, HQ: Isfahan, strength: 20%. F-14A/AM (3 sqns). Under heavy attack Mar 2026; IDF reportedly destroyed entire F-14 fleet plus Su-22s, P-3s, C-130s. Also base for Yak-130 trainers (2 delivered Sep 2023) and PC-7/S-68 training. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN: F-14 fleet assessed destroyed]
+- **9th Tactical Air Base — Bandar Abbas** [IRIAF] (tab9_bandar_abbas) — type: air_force_base, HQ: Bandar Abbas, Hormozgan, strength: 45%. F-4E; Su-35E on order. Also operates dispersed underground base Oghab 44 in Zagros Mountains (unveiled Jan 2023). [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **10th Tactical Air Base — Chahbahar (Konarak)** [IRIAF] (tab10_chahbahar) — type: air_force_base, HQ: Chahbahar/Konarak, strength: 55%. F-4D, Mirage F-1EQ/BQ (ex-Iraqi). Mirages relocated from TAB14 2011-2012. [Scramble.nl IRIAF OOB Feb 2026] [DIA IMP 2019 p.24]
+- **14th Tactical Air Base — Mashhad (Shahid Hashemi Nejad)** [IRIAF] (tab14_mashhad) — type: air_force_base, HQ: Mashhad, Khorasan Razavi, strength: 40%. F-5E/F. Eastern Area Command main repair facilities. Attacked Jun 15, 2025; some transports/tankers destroyed. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:SVC] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

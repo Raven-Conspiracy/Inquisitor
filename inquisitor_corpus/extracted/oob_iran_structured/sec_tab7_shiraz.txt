@@ -1,0 +1,16 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: 7th Tactical Air Base — Shiraz (Shahid Dastghaib)
+
+**Unit ID**: tab7_shiraz
+**Service**: IRIAF
+**Type**: air_force_base
+**Headquarters**: Shiraz, Fars
+**Parent**: Islamic Republic of Iran Air Force (IRIAF) (iriaf)
+**Strength (% authorized)**: 45%
+**Notes**: Su-24MK (3 sqns), C-130 airlift wing, Il-76TD, P-3F ASW. Attacked Jun 13, 2025. [Scramble.nl IRIAF OOB Feb 2026] [DIA IMP 2019 p.24] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+## Subordinate Division / Brigade / Squadrons
+- **71st/72nd/73rd Tactical Fighter Squadrons (Su-24MK)** (sqn71_su24) — type: bomber_division, HQ: Shiraz, strength: 40%. Three squadrons of Su-24MK Fencer interdiction/strike aircraft (ex-Iraqi/Russian). TAB 7 struck Jun 13, 2025. [Scramble.nl IRIAF OOB Feb 2026] [DIA IMP 2019 p.24] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **71st Anti-Submarine Warfare Squadron (P-3F)** (sqn71_asw) — type: fighter_brigade, HQ: Shiraz, strength: 30%. P-3F Orion maritime patrol/ASW. Struck Mar 2026 at Isfahan (some P-3s also based/maintained at Isfahan per Scramble). [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

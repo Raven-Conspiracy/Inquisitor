@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: IRGC-AF Cruise Missile Command (Hoveyzeh/Soumar/Ya-Ali) (ELITE / first-tier)
+
+**Unit ID**: irgcaf_cruise_cmd
+**Type**: rocket_brigade
+**Headquarters**: Undisclosed
+**Parent**: Region / Provincial Corps / Base: Al-Ghadir Missile Command (AGMC) (irgcaf_agmc)
+**Higher echelon**: IRGC Aerospace Force (IRGCASF / IRGC-AF)
+**Elite designation**: Yes
+**Strength (% authorized)**: 85%
+**Notes**: Operates Hoveyzeh (1,350km cruise), Soumar/Ya-Ali/Paveh land-attack cruise missiles. Received Hoveyzeh delivery 2019 per Iran Watch. Brigade-level organizational structure exists but open-source numbering unconfirmed. [Iran Watch IRGC-AF 2020] [Wikipedia IRGCASF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

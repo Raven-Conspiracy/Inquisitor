@@ -1,0 +1,17 @@
+# Chinese PLA — Group Army / Fleet / Base: Southern Theater Command Air Force (南部战区空军)
+
+**Unit ID**: stcaf
+**Service**: PLAAF
+**Type**: air_force_base
+**Headquarters**: Guangzhou
+**Parent**: Southern Theater Command (南部战区) (stc)
+**Strength (% authorized)**: 100%
+**Notes**: Manages PLAAF units in STC AOR. J-20 at 4th and 5th Bdes; J-16 at 6th and 26th Bdes. Includes 8th Bomber Division (H-6K) at Shaodong/Leiyang. [Heritage Foundation 2026-01-20] [CASI/PLAAF Overview 2023]
+
+## Subordinate Brigade / Division / Flotillas
+- **4th Air Brigade (J-20A)** (elite) (stcaf_4bde) — type: fighter_brigade, HQ: Foshan Shadi Air Base, Guangdong, strength: 100%. J-20A 5th gen. STC key air superiority asset. [Heritage Foundation 2026-01-20]
+- **5th Air Brigade (J-20A)** (elite) (stcaf_5bde) — type: fighter_brigade, HQ: Guilin Qifengling Air Base, Guangxi, strength: 100%. J-20A 5th gen. Also noted as transitioning at 'Guilin Tannan' per CASI J-20 2024. [Heritage Foundation 2026-01-20] [CASI J-20 Status 2024-04-29]
+- **8th Bomber Division** (stcaf_8bomberDiv) — type: fighter_brigade, HQ: Shaodong/Leiyang, Hunan, strength: 100%. H-6K strategic bomber, H-6U tanker. One of PLAAF's remaining divisional bomber formations (not brigadeized). [Heritage Foundation 2026-01-20] [CASI/PLAAF Overview 2023]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

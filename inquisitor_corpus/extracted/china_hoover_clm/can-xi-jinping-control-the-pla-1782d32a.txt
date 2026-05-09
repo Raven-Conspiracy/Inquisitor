@@ -1,0 +1,264 @@
+Can Xi Jinping Control the PLA?
+top of page
+Joel Wuthnow CLM Issue 83 March 2025
+.pdf
+Download PDF • 398KB
+Recent purges of senior Chinese military officers have renewed the question of how firmly in charge of the People’s Liberation Army is Xi Jinping. This article suggests that while Xi’s authority should not be underestimated, it is circumscribed by political realities: he has largely preserved a tradition of PLA autonomy relative to the party leadership, both to consolidate his own power and to persuade the PLA to accept wide-ranging reforms and to focus on its warfighting missions. The article begins with a review of the recent purges and then describes the mix of coercive tools that Xi has used since his ascension to power in 2012 to control the military. It thereafter discusses the limits on those tools and evaluates the ways in which Xi has respected PLA autonomy and other interests. It ends with consideration of the implications for PLA readiness, party-army trust, and the future ability of Xi and his successor to maintain control.
+Xi Jinping is often portrayed as the strongest leader of the People’s Liberation Army (PLA) since Mao, but cracks have recently appeared in this façade.[1] A dozen years after he became Central Military Commission (CMC) chairman, Xi purged the entire senior leadership of the Rocket Force, fired his defense minister, and removed the head of the CMC’s Political Work Department, whose portfolio is to maintain party control over the military. These dismissals have provided new grist for the rumor mill: some allege that Xi has resorted to relying on his wife, Peng Liyuan, to help manage his generals through her networks in the military, while others claim that Xi has begun to lose his grip on power altogether.[2] Such rumors may be fanciful, but they do raise the following question: Is Xi still large and in charge?
+Elite military decision-making in China is the ultimate black box, but there is enough evidence to evaluate the issue based on the nature of the recent purges, leadership appointments, organizational changes, and public appearances. The picture that emerges from this evidence is that Xi has been relatively successful in securing his leadership of the PLA, though he has also accepted limits on his control. Analysts correctly highlight, but overweight, the coercive elements of Xi’s political strategy, especially his anti-corruption investigations. These have been useful but also problematic: Xi’s purges are far from Stalin-esque, his “trusted agents” are not so trustworthy, and his control mechanisms have been compromised.
+Analyzing the roots of Xi’s control of the PLA and explaining his successes in pushing through reforms and in disciplining the PLA to focus on its warfighting missions require an acknowledgment of the ways in which he has curried favor with the PLA. This is evident in his adherence to longstanding retirement and promotion norms, his acceptance of the
+prima inter pares
+status of the PLA ground forces, and especially his acquiescence to the PLA’s autonomy vis-à-vis the civilian leaders. The institutionalist legs of Xi’s strategy are politically useful, but they also mean that episodes of prolific corruption continue, which has implications for the PLA’s readiness, Xi’s confidence that the PLA can fight as intended, and the ability of his eventual successor to control the world’s largest military.
+The Second Purge
+Purges of senior officers are the most dramatic way in which Xi has sought to control the PLA. Although investigations into high-ranking “tigers” and lesser “flies” have taken place throughout his tenure, there have been two periods of more intense activity. The first, between 2014 and 2016, included charges against retired CMC vice chairmen Xu Caihou and Guo Boxiong, along with the dismissal of more than fifty active-duty officers at or above the rank of major general, the most important of whom were General Political Department director Zhang Yang and chief of the General Staff Department Fang Fenghui.[3] These investigations helped to clean up the PLA and promote combat readiness[4] while also consolidating Xi’s control and paving the way for his 2015–16 reforms by putting PLA officers on notice that resistance will not be tolerated.[5]
+The second wave of purges began in the summer of 2023. Many of the targets were affiliated with the Rocket Force—responsible for China’s nuclear deterrent and its land-based ballistic and cruise missiles—including its commander and political commissar as well as a former commander, Wei Fenghe, who later served as defense minister. Several others were affiliated with the Equipment Development Department, which is the PLA’s procurement arm. These include Li Shangfu, who led the department from 2017 to 2022 and who then briefly replaced Wei Fenghe as defense minister. In June 2024, the Politburo expelled both Wei and Li from the party and transferred their cases to military prosecutors on charges such as “accepting huge sums of money” and “seeking benefits” for themselves and family members.[6] In August 2023, nine officers were dismissed from the National People’s Congress, most of whom were linked to the Rocket Force or the Equipment Development Department (see below).
+Table: PLA Officers Dismissed from the National People’s Congress, August 2023
+Name
+Rank
+Service
+Most Recent Position
+Previous Position
+Zhang Zhenzhong
+(张振中)
+Lt. General
+Rocket Force
+Deputy Chief of Staff, Joint Staff Department
+Rocket Force Deputy Commander
+Zhang Yulin (张育林)
+Lt. General
+Army
+Deputy Director, Equipment Development Department
+National University of Defense Technology President
+Rao Wenmin (饶文敏)
+Major General
+Army
+Deputy Director, Equipment Development Department
+Ju Xinchun (鞠新春)
+Vice Admiral
+Navy
+Southern Theater Navy Commander
+Deputy Director, Equipment Development Department
+Ding Laihang (丁来杭)
+General
+Rocket Force
+Air Force Commander
+Northern Theater Air Force Commander
+Lü Hong (吕宏)
+Major General
+Rocket Force
+Rocket Force Equipment Dept. Director
+Li Yuchao (李玉超)
+General
+Rocket Force
+Rocket Force Commander
+Rocket Force Chief of Staff
+Li Chuanguang (李传广)
+Lt. General
+Rocket Force
+Rocket Force Deputy Commander
+Rocket Force Chief of Staff
+Zhou Yaning (周亚宁)
+General
+Rocket Force
+Rocket Force Commander
+Rocket Force Deputy Commander
+But the latest purges were not limited to a procurement scandal involving the Rocket Force and the Equipment Development Department. In August 2023, former Air Force commander Ding Laihang was among the nine expelled from the National People’s Congress, although no charges against him were filed. In November 2024, Miao Hua, who led the Political Work Department and who was a CMC member, was expelled from the party due to suspicions of “serious violations of discipline,” alluding to corruption.[7] This department, successor to the former General Political Department, handles party control in the PLA and oversees the party committees central to personnel decisions. Also investigated were several senior executives from state-owned enterprises that produce all types of military equipment.[8] In August 2024, for instance, an investigation into suspected “severe violations of party discipline and national laws” was announced against Tan Ruisong, a former head of the Aviation Industry Corporation of China that manufactures air force jets.[9]
+Both waves of purges reached the highest levels of the military leadership and covered officers in positions relevant to procurement and personnel (though, notably, Xi rarely dismissed operational commanders, possibly due to the need for their expertise and possibly because they have fewer responsibilities for spending and promotions that create opportunities for corruption).[10] In the second wave, Xi was less motivated by power consolidation than he was during the first wave (many of the 2014–16 targets were appointed by Jiang or Hu, whereas those swept up in later purges were Xi’s own appointees). In both cases, however, Xi likely used the anti-corruption campaigns to promote a combat-ready PLA, as some officers apparently had ignored his frequent injunctions to abide by high professional standards.[11]
+A Coercive Repertoire
+Along with anti-corruption investigations, Xi has also used organizational, personnel, and political tools to control the bureaucracy.[12] The main organizational change was the breaking up of the four general departments, which had become rife with corruption long before Xi’s arrival, and their replacement with a revised CMC structure intended to improve management.[13] The new bureaucracy included separate offices for political work (including oversight of promotions and the political commissar system), discipline inspection (i.e., anti-corruption investigations), military prosecutions, and financial auditing. These post-reform agencies report directly to the CMC, granting Xi several distinct channels through which to gather information about individual PLA officers, deter political and professional noncompliance, and punish offenders.
+Xi also actively managed personnel selections. During and after the 2015–16 reforms, Xi rotated commanders and political commissars to combat patronage networks and prevent corruption.[14] The result was that commanders typically did not have longstanding relationships with the commissars serving alongside them in their units and commanders lacked strong relations with their superior and subordinate officers. While the rotation of officers at senior levels was not new in the Xi era, Xi was personally more involved in the process, reportedly helping to select candidates for positions down to the level of group army commander and spending about a half-day per week in his CMC office focused on such issues.[15]
+Similarly, Xi used his appointment powers to place trusted agents in key positions.[16] Daniel Mattingly finds that Xi was familiar with more of the officers he appointed to the rank of general and to the CMC than either Jiang or Hu, picking acquaintances whom he knew from his earlier provincial career.[17] At the 20th Party Congress in October 2022, Xi retained longtime confidante Zhang Youxia as CMC vice chairman even though Zhang had passed the normal retirement age.[18] Another trusted agent is Zhong Shaojun, a civilian
+mishu
+whom Xi brought with him to help run the CMC General Office—which functions as the key gatekeeper and enforcer for Xi and the other CMC members—and who holds the rank of senior colonel.[19] Zhong was later promoted to major general and director of the General Office.[20]  In 2024, Zhong was promoted to lieutenant general and became commissar of the PLA National Defense University, a post that may be a steppingstone to CMC membership. His reported replacement as General Office director is Fang Yongxiang, who spent most of his career in the Fujian-based 31st Group Army, where he may have known Xi.[21]
+Finally, Xi has used his personal gravitas to intimidate opponents and warn against corruption. A major theme in PLA propaganda under Xi has been promulgation of the “CMC chairman responsibility system” [军委主席责任制], through which Xi, in his role as CMC chairman, “decides all major issues of national defense and army building.”[22] This contrasts with the system under Hu, in which authority was often delegated to senior officers.[23] To reinforce the principle that “the party commands the gun” and to underscore the ongoing anticorruption campaigns, Xi also convened two major political work meetings—at Gutian in November 2014 and at Yan’an in June 2024.[24] At the Yan’an meeting, he reaffirmed the party’s “absolute” control over the PLA, calling on officers to “eradicate the soil and conditions for the breeding of corruption.”[25]
+Limits on Xi’s Heavy Hand
+Despite Xi’s emphasis on coercive tactics, there are limits on his ability to use these tools effectively. Xi has used purges to eliminate officers aligned with his rivals and remove some accused of corruption, but the scope of the dismissals has remained narrow, affecting only a small percentage of the thousands of generals who have served during his tenure. By contrast, during Stalin’s purges of the mid-1930s, almost every army, corps, and division commander was removed from the Red Army.[26] Purges, in other words, functioned as a scalpel but not as a bludgeon to subdue his generals. There may be several reasons for this: Xi might have feared that too many purges would have created risks of blowback to himself, he might have worried about the impact on readiness, or he might have only desired to remove the worst offenders.
+Organizationally, Xi’s replacement of the general departments with a larger suite of control mechanisms was intended to improve management, but problems persist. A core weakness is that oversight of PLA finances, ethics, and political compliance remains in the hands of the PLA. Xi did not impose external checks and balances, such as appointing civilian discipline inspectors or financial auditors to root out malfeasance. Such changes might have caused too much resentment among senior officers or they might have been too difficult to institute. Instead, Xi relied on the products of the former general departments, many of them ethically compromised, to police other officers. This problem is apparent in the dismissal of the head of the military court and in Miao Hua’s downfall.[27]
+There are also limits on Xi’s use of his appointment powers to corral the bureaucracy. The fact that many of those targeted in the second round of purges were in sensitive positions and had been appointed by Xi himself is evidence that the vetting processes were broken. More broadly, officer rotations probably reduced opportunities for corruption in some units, but such rotations were not equally applied. Indeed, a cohort of Beijing-based officers was
+not
+uprooted: about 40 percent of three- and four-star–level generals assigned to the CMC departments in 2021 have not left the capital during the past decade.[28] These officers perhaps were left in place because they possessed the specialized professional knowledge needed to staff the bureaucracy or because rotating them would have been too difficult politically. Either way, it is unsurprising that corruption in the equipment and political work departments has lingered.
+Xi’s reliance on trusted agents is also problematic. He did promote some officers whom he knew during his earlier career, but serving in the same geographic area at the same time does not necessarily equate with high levels of trust. Most of these relations are probably superficial, unlike the deep connections Deng Xiaoping maintained with former 2nd Field Army comrades-in-arms, many of whom became key generals in the 1980s.[29] Miao Hua was a political commissar in the 31st Group Army, which has been described as a bastion of Xi loyalists,[30] and Ding Laihang served in a Fujian-based air force unit when Xi was based in the same province. But their association with the “Xi Family Army” did not prevent them from running afoul of him decades later. Genuine trusted agents, for Xi, are probably few and far between.
+Finally, it is dubious that Xi has cut such an imposing figure as CMC chairman that officers do not dare to pursue their own interests. Again, the persistence of scandals at the highest echelons of the officer corps suggests that some of those close to Xi are not sufficiently intimidated to remain compliant. One problem is that, despite his control of the propaganda machinery, Xi lacks the impressive military credentials of either Mao or Deng. Even though he served briefly as an aide to the defense minister in the early 1980s, he has no combat experience. Another problem is that there is no reliable way to ensure that officers have absorbed the ethics and correct political attitudes that Xi seeks to instill through his personal appeals. Officers might feign compliance and thereby retain their
+bona fides
+in the party, while still harboring resentments or choosing to pursue, wherever possible, their own parochial interests.[31]
+Xi the Institutionalist
+Given the limits on strongman leadership, Xi has had to adopt some of the more familiar strategies of his predecessors to secure support from the PLA, including acceptance of support for sweeping initiatives, such as the 2015–16 restructuring. Deng, who was in a stronger position than Xi to control the bureaucracy through his personal networks and gravitas as a veteran commander, had to ensure compliance by granting the PLA autonomy. While requiring the PLA to modernize and scale back its role in top party organs, he also allowed it to launch business ventures and operate mostly free from civilian scrutiny.[32] Jiang ordered the PLA to divest most of its businesses, but he offered compensation in the form of double-digit budget increases. Jiang and Hu both refrained from challenging the military’s autonomy, permitting corruption to persist and absolving the PLA of the need to cooperate with civilians.[33]
+For Xi, currying favor with the PLA has meant respecting its interests at the individual, component, and institutional levels.[34] For the top brass, Xi followed prevailing norms, rarely allowing officers to advance without meeting time-in-grade requirements and almost never—with the exception of Zhang Youxia—allowing them to remain past the normal retirement age.[35] Hence, those who waited in line were rewarded, thus probably satisfying the rank-and-file. Moreover, during the reforms, no high-ranking officer was fired due to the consolidation of units. Instead, in a move likely intended to ensure support for the restructuring, new positions for senior commanders were identified to allow them to serve until retirement, including billets at the appropriate grade in temporary military region “transition offices.”
+At the component level, Xi was careful not to antagonize the army, which remains the PLA’s most important constituency. The ground forces might have been the PLA’s “biggest loser” because it lost 300,000 personnel and five of its eighteen group armies,[36] but Xi offered its leaders compensation in position and prestige: he allowed army generals to continue to dominate leadership positions, including most top billets in the theater commands and CMC departments, and three of the four current CMC members are from that service.[37] Within the army, however, Xi has avoided favoritism, parceling out opportunities to rising stars from across the service. While some appointees came from units linked to Xi, such as the 31st Group Army, these affiliations were not a prerequisite for success. Indeed, under Xi’s tenure, army officers who eventually reached three- or four-star–level positions were drawn roughly equally from all the group armies.[38] Such egalitarianism likely enhances support for Xi’s leadership.
+In various ways, Xi has also respected the PLA as an institution. While budget growth has ebbed from its peak during the Hu era, the military continues to enjoy budgets that have increased above official GDP growth (7.2 percent vs. 5 percent in 2024).[39] Tolerating such expenses is useful not only for Xi to achieve the military modernization goals but also to fund the expensive programs desired by the services and to compensate military personnel. During the reforms, thousands of midcareer officers were removed from the PLA, but Xi softened the blow by implementing  policies designed to guarantee civilian employment and creating a new Ministry of Veterans Affairs.[40] Among those who remained, he bestowed a reported 40 percent salary increase.[41] Fundamentally, like Jiang and Hu, Xi was careful to avoid civilian interference in internal PLA affairs, and he did not compel the PLA to cooperate or share sensitive information with civilian ministries.[42]
+Implications
+Xi Jinping still looms large in the PLA, but his power is finite. Unlike Hu, he has fully consolidated his authority and has used it to enact monumental reforms, both in 2015–16 and in 2024 when he broke up the former Strategic Support Force and replaced it with a new set of support forces.[43] Steady budget growth and clear determination from the top about the need to meet military modernization milestones in 2027, 2035, and 2049 have already yielded results in terms of greater confidence in regional disputes, new capabilities, and stronger preparations for war against Taiwan and the United States. Such results stem from Xi’s ability to pressure the bureaucracy to focus on “fighting and winning battles,” which has required cleansing the PLA of those more committed to their own interests than to those of either Xi or the party.
+Nevertheless, as suggested by the 2023–24 purges, Xi’s success in cleaning up the PLA has been partial at best. While the purges indicate that Xi was eventually able to uncover and correct problems that might have previously gone unnoticed, the fact that they occurred more than a decade into his tenure and implicated his own appointees signaled that the system remained flawed: senior leaders were not intimidated, control mechanisms did not prevent scandals from affecting key departments,[44] and Xi’s 2014 exhortation in Gutian fell on deaf ears. It is possible that Xi was distracted by other problems or that he simply took his eye off the ball, but the breadth of the problem suggests a deeper paradox: to consolidate his control and persuade the PLA to accept reforms and commit to its mission, Xi has had to respect certain boundaries, including that regarding his own authority and that of civilian oversight.
+Xi’s limited control, and the reasons for it, has three implications for the PLA. First is the possibility, but not the certainty, of diminished readiness due to corruption. The focus of the second wave of purges on the Equipment Development Department, services, and the defense industry suggests that substandard equipment might have been produced, though no confirmation has been or likely ever will be provided. U.S. allegations that procurement scandals contributed to an accidental sinking of a nuclear submarine at a shipyard in Wuhan, that some missiles were filled with water rather than fuel, and that nuclear silos were shoddily constructed have not been corroborated.[45] However, it is notable that a 2024 U.S. Department of Defense report states that PLA investigations “likely resulted in the [Rocket Force] repairing [nuclear missile] silos.”[46] Hence, while readiness
+might
+have suffered, there is not enough evidence to make claims about how severe this is, will be, or might have been.
+Second is a continued lack of trust between Xi and the PLA. As I argue with Phillip C. Saunders in a new book, low levels of civil-military trust—rather than hardware or funding—is the PLA’s most significant weakness relative to the United States.[47] Long before Xi, Mao and Deng were bedeviled by PLA officers who challenged top civilian leaders or pursued their own agendas. Nothing Xi has done to control the bureaucracy, including purging and rotating officers, handpicking trusted agents, or reforming control mechanisms, has resolved this problem. Xi can only go so far in coercing the bureaucracy before he reaches a tipping point, and he has judiciously refrained from stepping close to the edge. The result, however, is that he cannot be fully confident in what the PLA tells him about its state of readiness or internal deficiencies, whether created by corruption, poor or ineffective leadership, or advantages of foreign adversaries. Such uncertainties might well impact his confidence in ordering the PLA into battle.
+Finally, further complications might be in store for Xi and his successor. The transformation of the PLA into a more effective warfighting tool can be attributed in part to Xi’s leadership as CMC chairman. However, if he can no longer project an image of strength in this role and continues to remain involved in key decisions, management could suffer: corruption might proliferate, interservice competition might intensify, and reforms might be shelved. Further into the future, Xi’s successor might face similar or even more serious problems. This individual, who has not yet been named, will likely be chosen from the civilian elite and therefore not have a strong base of support within the PLA. As he works to consolidate power in the post-Xi era, he might find that the smoothest path forward is to follow in Xi’s footsteps—granting the PLA enough autonomy that it largely respects his authority but is neither totally compliant nor fully professional.
+About the Contributor
+Joel Wuthnow is a senior research fellow in the Institute for National Strategic Studies at the National Defense University and author, with Phillip C. Saunders, of
+China’s Quest for Military Supremacy
+(Polity, 2025). This essay represents only the views of the author and not those of the National Defense University, the Department of Defense, or the U.S. government.
+Notes
+[1] James Char, “Subjective Conditional Control: Return of the Strongman in China’s Party-Army Relations,” in Alan Chong and Nicole Jenne, eds.,
+Asian Military Evolutions
+(Bristol, UK: Bristol University Press, 2023), 197–228; Chien-wen Kou, “Xi Jinping in Command: Solving the Principal-Agent Problem in CCP-PLA Relations?”
+The China Quarterly
+, no. 232 (2017), 866–885.
+[2] Katsuji Nakazawa, “Analysis: Military Purges Put Xi Jinping’s Singer-Wife in the Spotlight,”
+Nikkei Asia
+, July 11, 2024, https://asia.nikkei.com/Editor-s-Picks/China-up-close/Analysis-Military-purges-put-Xi-Jinping-s-singer-wife-in-the-spotlight; Willy Wo-Lap Lam, “Peng Liyuan Rises Up the Ranks: Implications for Xi’s Despotic Rule,”
+China Brief
+24, no. 11 (May 24, 2024), https://jamestown.org/program/peng-liyuan-rises-up-the-ranks-implications-for-xis-despotic-rule/; Katsuji Nakazawa, “Analysis: China Military in Disarray Over Xi’s Monopoly on Power,”
+Nikkei Asia
+, December 26, 2024, https://asia.nikkei.com/Editor-s-Picks/China-up-close/Analysis-China-military-in-disarray-over-Xi-s-monopoly-on-power.
+[3] Cai Xia, “习近平再造党国体制（四）: 下狠手控制军队 将党军改为习家军” [Xi Jinping Reshapes the Party-State System (Part 4): Taking Ruthless Measures to Control the Military and Turn the Party-State into Xi’s Own Army], Radio Free Asia, July 5, 2024, https://www.rfa.org/mandarin/pinglun/caixia/cx/cx-china-one-party-state-07052024170539.html.
+[4] Peng Wang, “Military Corruption in China: The Role of
+Guanxi
+in the Buying and Selling of Military Positions,”
+China Quarterly
+, no. 228 (2016), 970–991.
+[5] Kevin McCauley, “President Xi Clears the Way for Military Reform: PLA Corruption, Clique Breaking and Making, and Personnel Shuffle,”
+China Brief
+15, no. 3
+(February 4, 2015), https://jamestown.org/program/president-xi-clears-the-way-for-military-reform-pla-corruption-clique-breaking-and-making-and-personnel-shuffle/.
+[6] “原国务委员兼国防部长魏凤和受到开除党籍处分” [Former State Councilor and Defense Minister Wei Fenghe Is Expelled from the Party], Xinhua, June 27, 2024, https://www.gov.cn/yaowen/liebiao/202406/content_6959716.htm; “原国务委员兼国防部长李尚福受到开除党籍处分” [Former State Councilor and Defense Minister Li Shangfu Is Expelled from the Party], Xinhua, June 27, 2024, https://www.gov.cn/yaowen/liebiao/202406/content_6959715.htm
+[7] “国防部新闻发言人发布信息并就近期涉军问题答记者问” [MND Spokesman Announces Information and Answers Questions of Recent Relevance to the PLA,” Xinhua, November 28, 2024, http://www.news.cn/politics/20241128/cfb53bdc2f34435ab69f11995fc75a0d/c.html; Andrew S. Erickson and Christopher Sharman, “Admiral Miao Hua’s Fall: Further Navy Fallout?” CMSI Note, no. 11, November 29, 2024, https://digital-commons.usnwc.edu/cmsi-notes/11/.
+[8] On the missile industry, see Elliot Ji, “Rocket-Powered Corruption: Why the Missile Industry Became the Target of Xi’s Purge,”
+War on the Rocks
+, January 23, 2024, https://warontherocks.com/2024/01/rocket-powered-corruption-why-the-missile-industry-became-the-target-of-xis-purge/.
+[9] Cao Yin, “Former Head of Aviation Industry Corp. Under Probe,”
+China Daily
+, August 30, 2024, https://www.chinadaily.com.cn/a/202408/30/WS66d1ba0fa3108f29c1fc9575.html.
+[10] There have been some exceptions. See, e.g., Christopher H. Sharman and Andrew S. Erickson, “Dirty But Preparing to Fight: VADM Li Pengcheng’s Downfall Amid Increasing PLAN Readiness,”
+China Maritime Report
+, no. 44 (2025), https://digital-commons.usnwc.edu/cmsi-maritime-reports/44/. The authors argue that in the PLA Navy, purges of operators such as former Southern Theater Navy commander Li Pengcheng are too few and far between to have had an operational impact.
+[11] Shantanu Roy-Chaudhury, “Xi Jinping, Loyalty and Corruption in the PLA,” ORCA, February 16, 2024, https://orcasia.org/article/607/xi-jinping-loyalty-and-corruption-in-the-pla; Helena Lagarda, “Xi’s Second Purge of China’s Military,”
+Internationale Politik Quarterly,
+January 8, 2025, https://ip-quarterly.com/en/xis-second-purge-chinas-military.
+[12] This section draws from Phillip C. Saunders and Joel Wuthnow, “Large and In Charge: Civil-Military Relations under Xi Jinping,” in Phillip C. Saunders et al., eds.,
+Chairman Xi Remakes the PLA: Assessing Chinese Military Reforms
+(Washington, DC: NDU Press, 2019), 519–556; Joel Wuthnow and Phillip C. Saunders, “More Red But Still Expert: Party-Army Relations Under Xi Jinping,”
+Journal of Contemporary China
+(2024), DOI: https://www.tandfonline.com/action/showCitFormats?doi=10.1080/10670564.2024.2400529; and Joel Wuthnow and Phillip C. Saunders,
+China’s Quest for Military Supremacy
+(London: Polity, 2025), Ch. 1.
+[13] Joel Wuthnow and Phillip C. Saunders,
+Chinese Military Reforms in the Age of Xi Jinping: Drivers, Challenges, and Implications
+, INSS China Strategic Perspectives 10 (2017), 32–35, https://ndupress.ndu.edu/Portals/68/Documents/stratperspective/china/ChinaPerspectives-10.pdf.
+[14] McCauley, “President Xi Clears the Way for Military Reform.”
+[15] Cai Xia, “习近平再造党国体制.”
+[16] Roderick Lee, “Control and Decisionmaking in Xi Jinping’s Military,” Testimony before the U.S.-China Economic and Security Review Commission, January 27, 2022, https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/CASI%20Articles/2022-01-27%20Roderick%20Lee%20Testimony%20to%20USCC.pdf.
+[17] Daniel C. Mattingly, “How the Party Commands the Gun: The Foreign-Domestic Threat Dilemma in China,”
+American Journal of Political Science
+68, no. 1 (2024), 227–242. Presumably, Xi would have known these PLA officers through his role on the local national defense mobilization committees.
+[18] Zhang was one of only two Central Committee members to be reappointed despite passing the normal retirement age; the other was Wang Yi. Joel Wuthnow, “Xi’s New Central Military Commission: A War Council for Taiwan”
+China Leadership Monitor
+, no. 74 (December 2022), https://www.prcleader.org/post/xi-s-new-central-military-commission-a-war-council-for-taiwan.
+[19] On the function of the CMC General Office, see Joel Wuthnow, “The CMC General Office: Recentralizing Power in the PLA,”
+China
+Brief,17, no. 7 (May 11, 2017), https://jamestown.org/program/cmc-general-office-recentralizing-power-pla/.
+[20] Edward Wong, “The ‘Gatekeeper’ in Xi Jinping’s Inner Circle,”
+New York Times
+, September 30, 2015, https://archive.nytimes.com/sinosphere.blogs.nytimes.com/2015/09/30/the-gatekeeper-in-xi-jinpings-inner-circle/.
+[21] “退役军人事务部副部长方永祥任中央军委政治工作部主任助理” [Vice Minister of Veterans Affairs Fang Yongxiang, Appointed Assistant to the CMC Political Work Department Director],  澎湃新闻 [The Paper
+], June 7, 2018, https://www-thepaper-cn.translate.goog/newsDetail_forward_2181053?_x_tr_sl=zh-CN&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc; “方永祥陪習視察 料升軍委辦公廳主任” [Fang Yongxiang Accompanies Xi on Inspection Tour, Expected to Be Promoted to CMC General Office Director],
+星島日報 [Sing Tao Daily], April 25, 2024, https://www.singtaousa.com/4837191.
+[22] “军营理论热点怎么看丨怎么看全面深入贯彻军委主席负责制” [How to View Hot Topics in Military Camp Theory, How to View the Comprehensive and In-Depth Implementation of the CMC Chairman Responsibility System], 解放军报 [PLA Daily], October 15, 2021, http://www.mod.gov.cn/gfbw/jmsd/4896855.html.
+[23] Nan Li, “Top Leaders and the PLA: The Different Styles of Jiang, Hu, and Xi,” in Phillip C. Saunders and Andrew Scobell, eds.,
+PLA Influence on China’s National Security Policymaking
+(Stanford: Stanford University Press, 2015), 120–137.
+[24] On the Gutian conference, see James Mulvenon, “Hotel Gutian: We Haven’t Had That Spirit Here Since 1929,”
+China Leadership Monitor
+, no. 46 (2015), https://www.hoover.org/research/hotel-gutian-we-havent-had-spirit-here-1929.
+[25] “中央军委政治工作会议在延安召开 习近平出席会议并发表重要讲话强调 贯彻落实新时代政治建军方略 为强军事业提供坚强政治保证” [The Central Military Commission Political Work Conference Is Held in Yan'an. Xi Jinping Attends the Meeting and Delivers an Important Speech, Emphasizing that Implementation of the Strategy of Political Military Building During the New Era Will Provide a Strong Political Guarantee for the Cause of Strengthening the Military], Xinhua, June 19, 2024, https://www.gov.cn/yaowen/liebiao/202406/content_6958242.htm.
+[26] Stephane Courtois,
+The Black Book of Communism: Crimes, Terror, Repression
+(Cambridge, MA: Harvard University Press, 1999), 198.
+[27] Lin Yunshi and Lu Zhenhua, “Head of China’s Top Military Court Removed From Post After Just Eight Months,”
+Caixin Global
+, September 2, 2023, https://www.caixinglobal.com/2023-09-02/head-of-chinas-top-military-court-removed-from-post-after-just-eight-months-102099875.html.
+[28] Joel Wuthnow,
+Gray Dragons: Assessing China’s Senior Military Leadership
+, INSS China Strategic Perspectives 16 (2022),
+20, https://ndupress.ndu.edu/Portals/68/Documents/stratperspective/china/china-perspectives-16.pdf.
+[29] Michael D. Swaine,
+The Military & Political Succession in China: Leadership, Institutions, Beliefs
+(Santa Monica, CA: RAND, 1992), 28–33.
+[30] Willy Wo-Lap Lam, “The Irresistible Rise of the ‘Xi Family Arm,’”
+China Brief
+17, no. 13 (October 20, 2017), https://jamestown.org/program/irresistible-rise-xi-family-army/.
+[31] Andrew Wedeman, “The Red Glare of Xi’s Second PLA Purge,”
+East Asia Forum
+, August 3, 2024, https://eastasiaforum.org/2024/08/03/the-red-glare-of-xis-second-pla-purge/.
+[32] James Mulvenon, “China: Conditional Compliance,” in Muthiah Alagappa, ed.,
+Coercion and Governance: The Declining Political Role of the Military in Asia
+(Stanford: Stanford University Press, 2001), 317–335.
+[33] Nan Li, “Top Leaders and the PLA”; Tyler Jost,
+Bureaucracies at War: The Institutional Origin of Miscalculation
+(Cambridge: Cambridge University Press, 2024), 128–176; Thomas J. Christensen, “More Actors, Less Coordination? New Challenges for the Leaders of a Rising China,” in Gilbert Rozman, ed.,
+China’s Foreign Policy: Who Makes It and How Is It Made?
+(New York: Palgrave Macmillan, 2013), 21–38.
+[34] This section draws from Joel Wuthnow, “Stabilizing the Boat: Revisiting Party-Army Relations under Xi Jinping,” in
+The PLA in a Complex Security Environment: Preparing for High Winds and Choppy Waters
+(Washington, DC: National Bureau of Asian Research, forthcoming), 41–63.
+[35] Wuthnow,
+Gray Dragons
+, 16–18. There have been a few exceptions, such as Xi’s appointment of He Weidong as CMC vice chairman in 2022; He Weidong was a theater command-grade officer and therefore skipped over a CMC member-grade position to assume his role as a vice chairman.
+[36] Dennis J. Blasko, “The Biggest Loser in Chinese Military Reforms: The PLA Army,” in Saunders et al., eds.,
+Chairman Xi Remakes the PLA
+, 345–392.
+[37] The only non-army officer at present is Zhang Shengmin, who wears a Rocket Force uniform. But Zhang began and spent much of his early career in the army before his mid-career transfer  to the former Second Artillery Force.
+[38] Wuthnow,
+Gray Dragons
+, 31.
+[39]
+Military and Security Developments Involving the People’s Republic of China
+(Washington, DC: Department of Defense, 2024), 147–149. In addition, the PLA continues to benefit from expenditures in other budget categories, such as veterans benefits. For a recent estimate, see M. Taylor Fravel, George J. Gilboy, and Eric Heginbotham, “Estimating China’s Defense Spending: How to Get It Wrong (and Right),”
+Texas National Security Review
+7, no. 3 (Summer 2024), 40–54, https://tnsr.org/2024/06/estimating-chinas-defense-spending-how-to-get-it-wrong-and-right/.,
+[40] Ma Chengkun and John Chen, “System Overload? The 2015 PLA Force Reduction, Military-Locality Relations, and the Potential for Social Instability,” in Saunders et al., eds.,
+Chairman Xi Remakes the PLA
+, 661–710.
+[41] Minnie Chan, “China to Boost Pay for PLA Forces After Years of Sweeping Reforms,”
+South China Morning Post
+, January 23, 2021, https://www.scmp.com/news/china/military/article/3118636/china-boost-pay-pla-forces-after-years-sweeping-reforms. Xi also granted new fringe benefits, such as a new holiday stipend that was authorized during a 2017–18 military benefit reform. See Marcus Clay,
+Understanding the “People” of the People’s Liberation Army: A Study of Marriage, Family, Housing and Benefits
+(Washington, DC: China Aerospace Studies Institute, 2018), 49, https://www.airuniversity.af.edu/Portals/10/CASI/documents/Research/Other-Topics/2018-07-30%20Understanding_the_People_of_the_PLA.pdf.
+[42] Tyler Jost, “The Bad Advice Plaguing Beijing’s Foreign Policy,”
+Foreign Affairs
+, April 27, 2023, https://www.foreignaffairs.com/china/bad-advice-plaguing-beijings-foreign-policy.
+[43] J. Michael Dahm, “A Disturbance in the Force: The Reorganization of People’s Liberation Army Command and Elimination of China’s Strategic Support Force,”
+China Brief
+24, no. 9 (April 26, 2024), https://jamestown.org/program/a-disturbance-in-the-force-the-reorganization-of-peoples-liberation-army-command-and-elimination-of-chinas-strategic-support-force/.
+[44] In July 2023, the PLA announced that its investigations into corruption in equipment procurement extended back to 2017, suggesting that the scandal persisted for at least six years.
+[45] Joseph Trevithick, “Water-Filled Missiles, Silo Problems Behind China Purge: Report,”
+The War Zone,
+January 8, 2024, https://www.twz.com/water-filled-missiles-silo-problems-behind-china-purge-report. However, some have argued that the rumor that missiles were filled with water was the result of a misunderstanding of a Chinese idiom that refers to corrupt price inflation. See J. Michael Dahm and Peter W. Singer, “What Reports Get Wrong About China’s ‘Sunken Nuclear Submarine,’”
+Defense One
+, October 2, 2024, https://www.defenseone.com/ideas/2024/10/chinas-sunken-nuclear-sub-was-likely-nothing-sort/400001/.
+[46]
+Military and Security Developments Involving the People’s Republic of
+China,
+159.
+[47] Wuthnow and Saunders,
+China’s Quest for Military Supremacy
+, introduction.
+Photo credit: By Staff Sgt. D. Myles Cullen (USAF)
+Editor's Note
+Minxin Pei
+Feb 28
+4 min read
+Why Is Xi Still Purging His Generals?
+Joel Wuthnow
+Feb 28
+27 min read
+Occidental Fall: Assessing Chinese Views of U.S. Decline
+Jonathan A. Czin and Allie Matthias
+Feb 28
+28 min read
+China’s Economic Involution: State and Business Strategies
+Ling Chen
+Feb 28
+24 min read
+Recent articles:
+bottom of page

@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 110th Salman Farsi Commando Brigade (ELITE / first-tier)
+
+**Unit ID**: irgcgf_110_salman
+**Type**: airborne
+**Headquarters**: Tehran/dispersed
+**Parent**: Service Branch: IRGC Ground Forces (IRGCGF) (irgc_gf)
+**Higher echelon**: —
+**Elite designation**: Yes
+**Strength (% authorized)**: 90%
+**Notes**: IRGC-GF commando brigade. [DIA IMP 2019 p.18]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

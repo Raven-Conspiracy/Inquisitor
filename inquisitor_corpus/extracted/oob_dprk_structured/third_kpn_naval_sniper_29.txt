@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: 29th Seaborne Sniper Brigade (Naval SOF) (ELITE / first-tier)
+
+**Unit ID**: kpn_naval_sniper_29
+**Type**: naval_infantry
+**Headquarters**: West coast base (approximate)
+**Parent**: General Staff Directorate: Korean People's Navy (Haegun) (kpn)
+**Higher echelon**: —
+**Elite designation**: Yes
+**Strength (% authorized)**: 83.0%
+**Notes**: ELITE. Second maritime sniper brigade. RGB 2nd Bureau sub-element for seaborne infiltration. [HRNK RGB Final 2026 citing 29th Seaborne Sniper Brigade]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

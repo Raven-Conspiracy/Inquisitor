@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: Sepah-e Ansar al-Reza (South Khorasan Provincial Corps)
+
+**Unit ID**: irgcgf_sk_corp
+**Type**: light_cab
+**Headquarters**: Birjand, South Khorasan
+**Parent**: Region / Provincial Corps / Base: Samen al-Aeme Operational HQ (Northeast) (irgcgf_samen_hq)
+**Higher echelon**: IRGC Ground Forces (IRGCGF)
+**Elite designation**: No
+**Strength (% authorized)**: 80%
+**Notes**: Commander: Ali Ghasemi. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

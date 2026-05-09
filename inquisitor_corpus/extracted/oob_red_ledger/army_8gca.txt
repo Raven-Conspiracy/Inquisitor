@@ -1,0 +1,14 @@
+# Russian Army — 8th Guards Combined Arms Army
+
+**Unit ID**: 8gca
+**Type**: combined_arms_army
+**Headquarters**: Novocherkassk
+**Parent District**: Southern Military District (SMD)
+**Strength (% authorized)**: 58.0%
+**Notes**: Heavy losses; Donetsk main effort
+
+## Subordinate Divisions
+- **150th Motor Rifle Division** (150md) — type: motor_rifle, HQ: Novocherkassk, strength: 52.0%. Donetsk central
+- **42nd Guards Motor Rifle Division** (42gmd) — type: motor_rifle, HQ: Khankala, strength: 55.0%. Donetsk; incl. Chechen elements
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

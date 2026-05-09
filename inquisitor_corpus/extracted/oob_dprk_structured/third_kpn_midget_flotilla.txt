@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Midget Submarine Flotilla (Yugo/Yono-class)
+
+**Unit ID**: kpn_midget_flotilla
+**Type**: submarine_flotilla
+**Headquarters**: Southern bases on each coast (for infiltration ops)
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: East Sea Fleet (East Coast Fleet) (kpn_east_fleet)
+**Higher echelon**: Korean People's Navy (Haegun)
+**Elite designation**: No
+**Strength (% authorized)**: 55.0%
+**Notes**: ~45-70 midget submarines (Yugo/Yono class and variants). Can insert 2-5 man teams. US Army 1998 estimate: 45+ midget subs. NIS 1999: 100 submarines total. Cheonan (ROKS, 2010) sinking attributed to Yono-class torpedo. [KPASOF Wikipedia; Wikipedia KPN NIS 1999; DIA NKMP 2021]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

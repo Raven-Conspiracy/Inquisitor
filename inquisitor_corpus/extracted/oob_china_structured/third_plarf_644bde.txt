@@ -1,0 +1,16 @@
+# Chinese PLA — Brigade / Division / Flotilla: 644th Missile Brigade (DF-41 ICBM) (ELITE / first-tier)
+
+**Unit ID**: plarf_644bde
+**Type**: rocket_brigade
+**Headquarters**: Hanzhong, Shaanxi
+**Parent**: Group Army / Fleet / Base: PLARF Base 64 (第六十四基地, Unit 96604) (plarf_b64)
+**Higher echelon**: Western Theater Command (西部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: DF-41 nuclear road-mobile ICBM. 12 launchers. Called 'New Generation 1st Dongfeng Brigade'. MUCD 96744. [CNS PLARF OOB 2023] [Wikipedia PLARF]
+
+## Authorized Equipment (estimated)
+- **icbm** — DF-41 — authorized: 12, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

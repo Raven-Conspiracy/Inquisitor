@@ -1,0 +1,14 @@
+# Russian Military District — Leningrad Military District
+
+**District ID**: LMD
+**Headquarters**: Saint Petersburg
+**Commander (as of 2026-04-10)**: Col Gen Yevgeny Nikiforov
+**Map color code**: #2d5a8e
+
+## Subordinate Field Armies / Corps
+- **6th Combined Arms Army** (6ca) — type: combined_arms_army, HQ: Agalatovo, strength: 70.0%. Deployed North Kharkiv
+- **11th Army Corps** (11ac) — type: army_corps, HQ: Kaliningrad, strength: 85.0%. Baltic defense posture
+- **14th Army Corps** (14ac) — type: army_corps, HQ: Murmansk, strength: 80.0%. Arctic / Northern Fleet
+- **44th Army Corps** (44ac) — type: army_corps, HQ: Petrozavodsk, strength: 65.0%. Deployed Sumy Oblast
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:MD] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

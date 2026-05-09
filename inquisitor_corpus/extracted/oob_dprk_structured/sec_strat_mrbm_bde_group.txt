@@ -1,0 +1,16 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: Strategic Force MRBM/IRBM Brigade Group (Hwasong-7/12/Pukguksong-2)
+
+**Unit ID**: strat_mrbm_bde_group
+**Service**: KPA Strategic Force
+**Type**: missile_bureau
+**Headquarters**: Second belt 90-120km north of DMZ; Panghyon, Sino-ri, Sangnam-ri, Riman-ri
+**Parent**: KPA Strategic Force / Missile General Bureau (Jeonnyakgun) (strategic)
+**Strength (% authorized)**: 88.0%
+**Notes**: Second belt MRBM units. 200-300 Hwasong-7 (Nodong) missiles, 30 TELs; targeting US forces in Japan. Pukguksong-2 solid MRBM (7+ deployed, northern bases). Hwasong-9 (Scud-ER MRBM, 1000km). Sino-ri base houses regiment-sized Nodong unit. Individual brigade numbers not confirmed. [Wikipedia Strategic Force; DIA NKMP 2021]
+
+## Subordinate Division / Brigade / Flotillas
+- **Hwasong-7 (Nodong/Rodong) MRBM Brigade** (elite) (strat_mrbm_bde_nodong) — type: rocket_brigade, HQ: Sino-ri (regiment-sized unit confirmed at Sino-ri, 39°38'42"N 125°21'19"E); Panghyon area, strength: 88.0%. ELITE. 200-300 Hwasong-7 missiles, 30 TELs. Targeting US forces in Japan (1,200-1,500km range). Sino-ri confirmed unit per Wikipedia Strategic Force. Brigade numbers not in unclassified open sources. [Wikipedia Strategic Force; DIA NKMP 2021]
+- **Pukguksong-2 (KN-15) Solid MRBM Brigade** (elite) (strat_mrbm_bde_pk2) — type: rocket_brigade, HQ: Northern border bases (replacing Hwasong-7 positions per Wikipedia), strength: 88.0%. ELITE. 7+ launchers deployed. Solid-fueled (1,200-3,000km range). Deployed to northern border in missile bases alongside Hwasong-7. [Wikipedia Strategic Force]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

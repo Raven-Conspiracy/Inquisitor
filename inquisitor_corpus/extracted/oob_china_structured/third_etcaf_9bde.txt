@@ -1,0 +1,16 @@
+# Chinese PLA — Brigade / Division / Flotilla: 9th Fighter Brigade (J-20) (ELITE / first-tier)
+
+**Unit ID**: etcaf_9bde
+**Type**: fighter_brigade
+**Headquarters**: Wuhu Air Base, Anhui
+**Parent**: Group Army / Fleet / Base: Eastern Theater Command Air Force (东部战区空军) (etcaf)
+**Higher echelon**: Eastern Theater Command (东部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: J-20 5th gen stealth fighter. First operational J-20 unit in ETC, adopted 2019. [Heritage Foundation 2026-01-20] [CASI J-20 Status 2024-04-29]
+
+## Authorized Equipment (estimated)
+- **fighter** — J-20 — authorized: 24, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 56th Aviation Brigade (J-20) (ELITE / first-tier)
+
+**Unit ID**: ctcaf_56bde
+**Type**: fighter_brigade
+**Headquarters**: Zhengzhou Air Base, Henan
+**Parent**: Group Army / Fleet / Base: Central Theater Command Air Force (中部战区空军) (ctcaf)
+**Higher echelon**: Central Theater Command (中部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: J-20 5th gen; adopted 2022. [CASI J-20 Status 2024-04-29]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

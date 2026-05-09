@@ -1,0 +1,16 @@
+# Iranian Armed Forces — Service Branch: IRGC Aerospace Force (IRGCASF / IRGC-AF)
+
+**ID**: IRGC_AF
+**Headquarters**: Tehran
+**Commander (current)**: Brigadier General Amir Ali Hajizadeh
+**Map color code**: #7a1a1a
+**Notes**: Holds ALL of Iran's ballistic missiles. NOT the Artesh. ~15,000 personnel. Also operates UAV fleet and some aircraft. Al-Ghadir Missile Command (AGMC) is primary subordinate for missile forces. Renamed from IRGC Air Force to IRGC Aerospace Force 2009. [DIA IMP 2019 p.21] [Iran Watch 2020] [POST-2024-STRIKES STATUS UNCERTAIN: ISW Oct 2024 assessed all 4 S-300 batteries inoperable; solid-fuel mixing equipment destroyed; Khojir missile production complex struck].
+
+## Subordinate Region / Provincial Corps / Bases
+- **Al-Ghadir Missile Command (AGMC)** [IRGC-AF] (irgcaf_agmc) — type: missile_command, HQ: Tehran (dispersed underground launch sites nationwide), strength: 70%. Primary ballistic missile operational command under IRGC-AF. Commander: BG Mahmoud Bagheri Kazemabad (per Iran Watch 2020). Coordinates all SRBM/MRBM/IRBM brigades. [Iran Watch IRGC-AF 2020] [DIA IMP 2019 p.21] [POST-2024-STRIKES STATUS UNCERTAIN: solid-fuel mixing equipment destroyed Oct 2024; Khojir complex struck; production degraded but mobile launchers unaffected]
+- **IRGC Aerospace Force Space Command** [IRGC-AF] (irgcaf_space) — type: space_command, HQ: Tehran / Shahroud Launch Facility, strength: 100%. Manages IRGC satellite program. Launched Nour-1 (Apr 2020), Nour-2 (Mar 2022), Nour-3 (Sep 2023) via Qased SLV from Shahroud. [Wikipedia IRGCASF] [Iran Watch 2020]
+- **IRGC Aerospace Force UAV Command** [IRGC-AF] (irgcaf_uav) — type: uav_command, HQ: Tehran (dispersed bases), strength: 100%. Primary operator of Iran's Shahed-129/136, Mohajer-6, Ababil, Fotros, Karrar UAV families. Supplies Shahed-136 to Russia for Ukraine war. Technical support from Rayan Roshd Afzar. [DIA IMP 2019 p.21] [Iran Watch IRGC-AF 2020]
+- **IRGC Aerospace Force Air Defense Component** [IRGC-AF] (irgcaf_irad) — type: air_defense_command, HQ: Tehran (KADHQ coordinates with IRIADF), strength: 40%. Operates Raad/3rd Khordad, Talash/15th Khordad, Misagh MANPADS. Works in tandem with IRIADF (Artesh) under KADHQ. All 4 S-300 PMU2 batteries assessed inoperable after Apr and Oct 2024 Israeli strikes. [ISW Oct 2024 PDF] [DIA IMP 2019 p.22] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:SVC] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

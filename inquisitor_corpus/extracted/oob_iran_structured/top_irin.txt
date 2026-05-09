@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Service Branch: Islamic Republic of Iran Navy (IRIN)
+
+**ID**: IRIN
+**Headquarters**: Tehran (administrative); Bandar Abbas (operational SNFHQ)
+**Commander (current)**: Rear Admiral Hossein Khanzadi
+**Map color code**: #1e4a5f
+**Notes**: Artesh blue-water naval component; ~18,000 personnel. Operates blue-water fleet in Indian Ocean, Persian Gulf, and Caspian. Distinct from IRGCN in mission and doctrine. [DIA IMP 2019 p.27] [ONI Iran Naval Doctrine 2017] [POST-2024-STRIKES STATUS UNCERTAIN: Bandar Abbas base struck March 2026; Makran set ablaze per satellite imagery].
+
+## Subordinate Region / Provincial Corps / Bases
+- **IRIN 1st Naval District — Bandar Abbas (SNFHQ)** [IRIN] (irin_nd1) — type: naval_district, HQ: Bandar Abbas, Hormozgan, strength: 50%. Southern Naval Force HQ (SNFHQ); RA Abrahim Ashkan commanded deployed naval groups (2017). Strait of Hormuz. Kilo-class submarines based here. [DIA IMP 2019 p.27] [ONI Iran Naval Doctrine 2017] [POST-2024-STRIKES STATUS UNCERTAIN: base struck Mar 2026; Makran set ablaze; multiple warships damaged]
+- **IRIN 2nd Naval District — Bushehr/Jask** [IRIN] (irin_nd2) — type: naval_district, HQ: Bushehr (admin); Jask (operational, HQ relocating), strength: 70%. Persian Gulf and Gulf of Oman. Jask base increasingly important for Indian Ocean force projection. [DIA IMP 2019 p.27]
+- **IRIN 3rd Naval District — Chah Bahar** [IRIN] (irin_nd3) — type: naval_district, HQ: Chah Bahar, Sistan-Baluchestan, strength: 70%. Gulf of Oman operations; entry/exit point for Indian Ocean deployments. [DIA IMP 2019 p.27] [ONI Iran Naval Doctrine 2017]
+- **IRIN 4th Naval District — Bandar Anzali (Caspian)** [IRIN] (irin_nd4) — type: naval_district, HQ: Bandar Anzali, Gilan, strength: 80%. Caspian Sea flotilla. Separate threat environment from southern naval forces. Operates Bayandor-class corvettes and patrol craft on Caspian. [DIA IMP 2019 p.27]
+- **IRIN 5th Naval District — Jask (Indian Ocean)** [IRIN] (irin_nd5) — type: naval_district, HQ: Jask, Hormozgan, strength: 75%. Forward operating base for extended IO deployments. Supports IRIN blue-water presence. [DIA IMP 2019 p.27; note: some sources fold Jask into 2nd ND; listed separately here per IRIN reorganization reporting]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:SVC] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

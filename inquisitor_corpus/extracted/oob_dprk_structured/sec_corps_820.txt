@@ -1,0 +1,15 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: 820th Armored Corps
+
+**Unit ID**: corps_820
+**Service**: KPA Ground Forces
+**Type**: armor_corps
+**Headquarters**: Sariwon, Hwanghae Province
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 70.0%
+**Notes**: Armored exploitation corps. Mission: high-speed breakthrough to ROK rear. Contains 105th Armored Division + estimated armored/mech brigades. Main equipment: Chonma-ho (T-62 derivative). Only 'partially equipped' with Pokpung-ho per Mizokami 2020. ROK/US presume multiple armored and mechanized infantry brigades in addition to 105th Division. [Wikipedia KPAGF citing Mizokami/ROK-US assessment; DIA NKMP 2021]
+
+## Subordinate Division / Brigade / Flotillas
+- **105th Seoul Tank Division** (elite) (div_105_armor) — type: tank, HQ: Sariwon area (with 820th Armored Corps), strength: 68.0%. Named after 1950 Korean War seizure of Seoul. Primary tank division of 820th Armored Corps. Equipment: Pokpung-ho (Type 88 domestic T-72 derivative), Chonma-ho (T-62 derivative). Only partially equipped with Pokpung-ho per 2020 analysis. [Wikipedia KPAGF citing Mizokami 2020; IISS MB 2017]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

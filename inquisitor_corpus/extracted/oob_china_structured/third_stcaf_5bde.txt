@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 5th Air Brigade (J-20A) (ELITE / first-tier)
+
+**Unit ID**: stcaf_5bde
+**Type**: fighter_brigade
+**Headquarters**: Guilin Qifengling Air Base, Guangxi
+**Parent**: Group Army / Fleet / Base: Southern Theater Command Air Force (南部战区空军) (stcaf)
+**Higher echelon**: Southern Theater Command (南部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: J-20A 5th gen. Also noted as transitioning at 'Guilin Tannan' per CASI J-20 2024. [Heritage Foundation 2026-01-20] [CASI J-20 Status 2024-04-29]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

@@ -1,0 +1,18 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Madineh-ye al-Munavareh Operational HQ (South-Southwest)
+
+**Unit ID**: irgcgf_madineh_hq
+**Service**: IRGC-GF
+**Type**: operational_headquarters
+**Headquarters**: Shiraz area
+**Parent**: IRGC Ground Forces (IRGCGF) (irgc_gf)
+**Strength (% authorized)**: 80%
+**Notes**: Oversees Fajr (Fars), Imam Sadeq (Bushehr), Imam Sadjad (Hormozgan) corps. Most important units include Fajr Division Shiraz and 33rd SF Brigade. [Wikipedia IRGC GF]
+
+## Subordinate Division / Brigade / Squadrons
+- **Sepah-e Imam Sadeq (Bushehr Provincial Corps)** (irgcgf_bushehr_corp) — type: light_cab, HQ: Bushehr City, Bushehr, strength: 80%. Commander: Ali Razmjou. [Wikipedia IRGC GF]
+- **Sepah-e Fajr (Fars Provincial Corps)** (irgcgf_fars_corp) — type: light_cab, HQ: Shiraz, Fars, strength: 80%. Commander: Hashem Ghiasi. Includes Fajr Division and 33rd Al Mahdi Airborne SF Brigade. [Wikipedia IRGC GF]
+- **Sepah-e Imam Sadjad (Hormozgan Provincial Corps)** (irgcgf_hormoz_corp) — type: light_cab, HQ: Bandar Abbas, Hormozgan, strength: 80%. Commander: Abazar Salari. [Wikipedia IRGC GF]
+- **33rd Al Mahdi Airborne Special Forces Brigade** (elite) (irgcgf_33_almahdi) — type: airborne, HQ: Shiraz, Fars, strength: 85%. Transitioned from airborne to SF role; under Madineh-ye al-Munavareh HQ. [DIA IMP 2019 p.18]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

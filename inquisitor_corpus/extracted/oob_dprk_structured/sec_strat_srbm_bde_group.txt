@@ -1,0 +1,17 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: Strategic Force SRBM Brigade Group (Hwasong-5/6/9/KN-23/24/25)
+
+**Unit ID**: strat_srbm_bde_group
+**Service**: KPA Strategic Force
+**Type**: missile_bureau
+**Headquarters**: Multiple operating bases; first belt 50-90km north of DMZ
+**Parent**: KPA Strategic Force / Missile General Bureau (Jeonnyakgun) (strategic)
+**Strength (% authorized)**: 90.0%
+**Notes**: First belt of SRBM units. Estimated 500-600 Scud (Hwasong-5/6/9) missiles, ~40 TELs. New systems KN-23 (Iskander-class, 17+ launchers), KN-24 (ATACMS-class, 9+ launchers), KN-25 600mm SRMRL (30 tracked + 9 truck chassis = 216 rockets). Between 2018-2020 Strategic Force expanded from 8 to 13 brigades total. Brigade names/numbers not confirmed in open sources except operational base locations. [Wikipedia Strategic Force; CSIS Beyond Parallel Kal-gol 2020; DIA NKMP 2021 Appendix A]
+
+## Subordinate Division / Brigade / Flotillas
+- **KN-23 (Hwasong-11A) SRBM Brigade** (elite) (strat_srbm_bde_kn23) — type: rocket_brigade, HQ: First belt, approximate north of DMZ, strength: 92.0%. ELITE. Operates KN-23 Iskander-class SRBM (240-800km, quasi-ballistic trajectory, 17+ launchers). First tested 2019; evades THAAD/Patriot gap. Likely 1 launch battalion per brigade. [Wikipedia Strategic Force; DIA NKMP 2021; CSIS Beyond Parallel 2020]
+- **KN-24 (Hwasong-11B) SRBM Brigade** (elite) (strat_srbm_bde_kn24) — type: rocket_brigade, HQ: First belt, approximate north of DMZ, strength: 90.0%. ELITE. Operates KN-24 ATACMS-class SRBM (410km, 9+ launchers). Tested Aug 2019, Mar 2020. [Wikipedia Strategic Force; DIA NKMP 2021]
+- **KN-25 600mm Super-Large MLRS Brigade** (elite) (strat_srbm_bde_kn25) — type: mlrs, HQ: First belt, approximate, strength: 90.0%. ELITE. 600mm 'super-large multiple rocket launcher'; US assessment treats as SRBM-class (380km range). 30 tracked + 9 truck chassis = 216 guided rockets produced. North Korea exported shells/rockets to Russia 2023-24 for Ukraine War use [POST-2021 UPDATE: Wikipedia Strategic Force; Arms Control Association 2024]. [Wikipedia Strategic Force; DIA NKMP 2021]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

@@ -1,0 +1,17 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: 1st Air Combat Command (1st ACC) / 1st Air Combat Division
+
+**Unit ID**: kpaf_1acc
+**Service**: KPAF
+**Type**: air_division
+**Headquarters**: Kaechon, South Pyongan Province
+**Parent**: Korean People's Army Air Force (Konggun) (kpaf)
+**Strength (% authorized)**: 55.0%
+**Notes**: Northwestern sector. HQ Kaechon Airfield (2,500m runway). Units include 35th Fighter Rgt (J-6/MiG-19 at Kaechon), 49th Fighter Rgt (MiG-17F at Panghyon), 24th Bomber Rgt (H-5/Il-28 at Uiju), 55th Attack Rgt (Su-25 at Sunchon), 57th Fighter Rgt (MiG-29 at Sunchon), 58th Fighter Rgt (MiG-23ML at Pukchang), 60th Fighter Rgt (MiG-21Bis at Pukchang), 36th Fighter Rgt (J-6 at Onchon). [Wikipedia KPAF; DIA NKMP 2021]
+
+## Subordinate Division / Brigade / Flotillas
+- **57th Air Fighter Wing (MiG-29 regiment)** (elite) (kpaf_rgt_57_mig29) — type: fighter_brigade, HQ: Sunchon Airport, South Pyongan Province, strength: 72.0%. ELITE. Primary air superiority regiment; operates MiG-29B/SE (35 aircraft total KPAF). Highest annual flight hours in KPAF relative to other units. Receives more fuel/maintenance priority. [Wikipedia KPAF; DIA NKMP 2021 'most modern assets are MiG-29 and MiG-23']
+- **55th Air Fighter Wing (Su-25K ground attack regiment)** (kpaf_rgt_55_su25) — type: fighter_brigade, HQ: Sunchon Airport, South Pyongan Province, strength: 65.0%. Operates Su-25K/Su-25UBK (34 total) for close air support. Considered capable by DIA alongside MiG-29 and MiG-23. [Wikipedia KPAF; DIA NKMP 2021]
+- **24th Bomber Regiment (Il-28 / H-5 bombers)** (kpaf_rgt_24_il28) — type: bomber_division, HQ: Uiju Airfield, North Pyongan Province, strength: 45.0%. Operates Il-28 Beagle/H-5 bombers (~80 total KPAF). Obsolete platform but can deliver Kh-35/P-15 Termit missiles and potentially unguided bombs at night. Some configured for Kumsong-3 anti-ship cruise missile launches. [Wikipedia KPAF; DIA NKMP 2021]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

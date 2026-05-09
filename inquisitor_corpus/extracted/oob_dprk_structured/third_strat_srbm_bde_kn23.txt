@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: KN-23 (Hwasong-11A) SRBM Brigade (ELITE / first-tier)
+
+**Unit ID**: strat_srbm_bde_kn23
+**Type**: rocket_brigade
+**Headquarters**: First belt, approximate north of DMZ
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: Strategic Force SRBM Brigade Group (Hwasong-5/6/9/KN-23/24/25) (strat_srbm_bde_group)
+**Higher echelon**: KPA Strategic Force / Missile General Bureau (Jeonnyakgun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 92.0%
+**Notes**: ELITE. Operates KN-23 Iskander-class SRBM (240-800km, quasi-ballistic trajectory, 17+ launchers). First tested 2019; evades THAAD/Patriot gap. Likely 1 launch battalion per brigade. [Wikipedia Strategic Force; DIA NKMP 2021; CSIS Beyond Parallel 2020]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

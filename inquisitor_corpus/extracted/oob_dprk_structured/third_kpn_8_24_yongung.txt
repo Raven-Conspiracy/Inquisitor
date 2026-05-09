@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: SSB 8.24 Yongung (Sinpo-class SLBM submarine) (ELITE / first-tier)
+
+**Unit ID**: kpn_8_24_yongung
+**Type**: submarine_flotilla
+**Headquarters**: Sinpo South Shipyard / Sinpo-Mayang base, South Hamgyong Province
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: East Sea Fleet (East Coast Fleet) (kpn_east_fleet)
+**Higher echelon**: Korean People's Navy (Haegun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 70.0%
+**Notes**: ELITE. First DPRK ballistic missile submarine. Single Pukguksong-1 (KN-11) tube. Launched SLBMs in 2016, 2019 (Pukguksong-3), 2021 (Hwasong-11S), 2023 (2 SLCMs). Length ~67m. [Wikipedia KPN; DIA NKMP 2021]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

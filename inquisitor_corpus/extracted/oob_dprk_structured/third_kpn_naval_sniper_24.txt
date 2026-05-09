@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: 24th Seaborne Sniper Brigade (Naval SOF) (ELITE / first-tier)
+
+**Unit ID**: kpn_naval_sniper_24
+**Type**: naval_infantry
+**Headquarters**: East coast base (approximate)
+**Parent**: General Staff Directorate: Korean People's Navy (Haegun) (kpn)
+**Higher echelon**: —
+**Elite designation**: Yes
+**Strength (% authorized)**: 85.0%
+**Notes**: ELITE. One of 2 maritime sniper brigades in the KPN (per NamuWiki/RGB report). Ferried by Sang-O class submarines for coastal infiltration. Under RGB 2nd Bureau operational planning. [HRNK RGB Final 2026 citing 24th Seaborne Sniper Brigade; NamuWiki KPN]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

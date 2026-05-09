@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 23rd Mobile Assault Division
+
+**Unit ID**: div23_mob
+**Type**: light_cab
+**Headquarters**: Robat Karim, Tehran Province
+**Parent**: Service Branch: Islamic Republic of Iran Army (Artesh / IRIGF) (artesh)
+**Higher echelon**: —
+**Elite designation**: No
+**Strength (% authorized)**: 85%
+**Notes**: Commander: BG2 Akbar Najafi. Central reserve division; not under any regional HQ. Brigades: 123rd MAB, 223rd SF Bde. [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

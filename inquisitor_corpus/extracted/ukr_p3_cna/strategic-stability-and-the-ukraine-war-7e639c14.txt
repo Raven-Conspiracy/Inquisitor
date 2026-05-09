@@ -1,0 +1,2208 @@
+FEBRUARY 2024
+IOP-2024-U-037683-Final Approved for public release: distribution unlimited. © 2024 CNA Corporation
+Strategic Stability and 
+the Ukraine War 
+Implications of Conventional 
+Missile Technologies
+Fabian Hoffmann
+
+Abstract
+The war in Ukraine represents the first major inter-state conflict involving the widespread employment of long-range 
+strike weapons and missile defense. The implications resulting from the deployment and use of these weapon systems 
+extend beyond the Ukrainian theater and affect the broader strategic competition between Russia and NATO. This paper 
+explores those implications, asking how the deployment and use of long-range strike weapons and missile defense 
+systems in Ukraine affect NATO-Russia strategic stability. I argue that the missile war in Ukraine affects the prospects 
+of strategic stability by shaping Russian and NATO force posture and strategy development, and helping to predict 
+the technological trajectories of offensive and defensive missile capabilities. In the medium to long term, this can put 
+additional pressure on arms control and crisis stability between Russia and NATO.
+This report is part of a series generously funded by a grant from the Carnegie Corporation of New York. 
+CNA’s Occasional Paper series is published by CNA, but the opinions expressed are those of the author and do not 
+necessarily reflect the views of CNA or the client.
+Approved for public release. Unlimited distribution.
+This work was performed under Specific Authority Contract No. G-19-56503.
+Cover image: Launch of Iskander missile. Russian Ministry of Defense.
+This document may contain materials protected by the Fair Use guidelines of Section 107 of the Copyright Act, for 
+research purposes only. Any such content is copyrighted and not owned by CNA. All rights and credits go directly to 
+content’s rightful owner.
+Approved by:  February 2024
+Colleen “Kelly” McCue, Acting Research Program Director 
+Countering Threats and Challenges 
+Strategy, Policy, Plans, and Programs Division
+© 2024 CNA Corporation
+Request additional copies of this document through inquiries@cna.org. 
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   i  | www.cna.org   
+TABLE OF CONTENTS
+Introduction .....................................................................................1
+Defining Strategic Stability ............................................................... 3
+The Use of Advanced Conventional Weapons in Ukraine ................... 5
+Long-range strike weapons ..................................................................................................5
+Force employment and effectiveness ...............................................................................7
+Missile defense .........................................................................................................................10
+Implications for Strategic Stability .................................................. 15
+First-strike instability ..............................................................................................................15
+Credibility of Russian missile doctrine ............................................................................17
+Feasibility of conventional counterforce ........................................................................19
+Conclusion .....................................................................................23
+References .................................................................................... 24
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   ii  | www.cna.org   
+PAGE INTENTIONALLY BLANK
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   1  | www.cna.org   
+INTRODUCTION
+The Russia-Ukraine war marks the first instance of 
+a major inter-state war involving the large-scale 
+deployment and use of conventional ballistic 
+and cruise missile technology. As a result, 
+the Ukrainian theater has become a 
+test bed for missile technology 
+and strategy and has revealed 
+the strengths and weaknesses 
+of contemporary missile forces 
+and doctrines. The implications 
+of the deployment and use of 
+offensive conventional missile 
+capabilities and defenses 
+against such capabilities in 
+Ukraine extend beyond the 
+battlefield and affect the 
+broader strategic competition 
+between Russia and the North 
+Atlantic Treaty Organization 
+(NATO). This paper explores 
+those implications, asking 
+how the deployment and use 
+of long-range strike weapons 
+and missile defense systems in 
+Ukraine affects Russia-NATO 
+strategic stability. 
+In this analysis, long-range strike weapons include 
+Russian, Ukrainian, and Western conventional 
+cruise and ballistic missiles as well as conventional 
+long-range drones that have been used by both 
+sides to engage targets at standoff range, including 
+deep inside the adversary’s homeland territory. The 
+1  Fabian Hoffmann and William Alberque, Non‑Nuclear Weapons with Strategic Effect: New Tools of Warfare? , 
+International Institute for Strategic Studies, Mar. 2022, https://www.iiss.org/research-paper/2022/03/
+non-nuclear-weapons-with-strategic-effect-new-tools-of-warfare/.
+meaning of standoff range  is context dependent 
+and relates to the distance between adversaries. In 
+the context of the Russia-Ukraine war (and in 
+the broader European context), standoff 
+implies the ability to engage targets 
+several hundred kilometers 
+behind the front line.1 In terms 
+of missile defense, this analysis 
+considers Russian, Ukrainian, 
+and Western nonstrategic air 
+and missile defense forces that 
+have been deployed around 
+the front line and deeper inland 
+to protect military and civilian 
+targets. 
+The paper is structured as 
+follows. In section one, we 
+briefly discuss the concept 
+of strategic stability, 
+conceptualizing it in terms of 
+crisis and arms race stability. 
+We also draw attention to the 
+effect of long-range strike 
+weapons and missile defense 
+on strategic stability and 
+outline the implications that 
+the deployment and use of conventional missile 
+technology in Ukraine can have for strategic stability. 
+In section two, we analyze offensive and defensive 
+developments in the missile domain in Ukraine. We 
+then briefly describe the different long-range strike 
+and missile defense systems that have been employed 
+The implications of the 
+deployment and use of 
+offensive conventional 
+missile capabilities 
+and defenses against 
+such capabilities in 
+Ukraine extend beyond 
+the battlefield and 
+affect the broader 
+strategic competition 
+between Russia and the 
+North Atlantic Treaty 
+Organization (NATO).
+
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   2  | www.cna.org   
+by Ukraine and Russia and assess their effectiveness 
+(and lack thereof) in the war so far. Section three 
+analyzes the medium- to long-term implications of 
+the deployment and use of long-range strike weapons 
+and missile defense systems in Ukraine for strategic 
+stability. Demonstrated levels of effectiveness and 
+ineffectiveness of these weapon systems shape 
+the prospects of crisis and arms control stability as 
+well as the general likelihood of strategic nuclear 
+exchanges between NATO and Russia. 
+Two caveats follow. First, the Russia-Ukraine war is still unfolding. 
+As such, this analysis represents a snapshot of the events up until 
+January 2024. As the war continues and states adapt, assessments 
+regarding the effectiveness of offensive and defensive missile 
+technologies are subject to change. Second, this analysis relies exclusively 
+on open-source information, which may lack accuracy or may be subject 
+to misinformation and disinformation in a contested information space, 
+especially when the source is one of the conflict parties and veracity cannot be 
+independently verified. The report clearly states when this occurs. 
+CAVEATS
+
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   3  | www.cna.org   
+Strategic stability as a concept has been pervasive in 
+theory and practice. In its broadest sense, strategic 
+stability refers to the absence of armed conflict 
+between states that possess nuclear weapons. More 
+narrowly, the concept can be defined in terms of 
+crisis stability and arms race stability. Crisis stability 
+pertains to a state in which neither side of a nuclear 
+conflict dyad is motivated to use nuclear weapons 
+first. Arms race stability, in contrast, refers to a state 
+in which neither side has an incentive to increase its 
+nuclear arsenal in terms of quantity or quality.2
+The concept of strategic stability has traditionally 
+been centered on the nuclear dimension of great 
+power competition, particularly the number of 
+strategic nuclear warheads deployed by each side. 3 
+During the Cold War and especially in more recent 
+times, the concept has been broadened to include 
+a conventional dimension as well. Russian analysts 
+and officials, in particular, have emphasized the role 
+of offensive and defensive advanced conventional 
+weapons for strategic stability.4
+Offensive advanced conventional weapons 
+encompass a range of long-range strike capabilities. 
+2  James Acton, “Reclaiming Strategic Stability,” in Strategic Stability: Contending Interpretations, ed. Elbridge A. Colby and Michael 
+S. Gerson (Carlisle, PA: US Army War College Press, 2013), 117–146, https://apps.dtic.mil/sti/pdfs/ADA572928.pdf. 
+3  Elbridge A. Colby, “Defining Strategic Stability: Reconciling Stability and Deterrence,” in Strategic Stability: Contending Interpretations, 
+ed. Eldridge A. Colby and Michael S. Gerson (Carlisle, PA: US Army War College Press, 2013), 47–84, https://apps.dtic.mil/sti/pdfs/
+ADA572928.pdf.
+4  James Acton, “Russia and Strategic Conventional Weapons: Concerns and Responses,” Nonproliferation Review 22, no. 2 (2015), 
+pp. 141–154, https://doi.org/10.1080/10736700.2015.1105434; Dennis M. Gormley, “US Advanced Conventional Systems and 
+Conventional Prompt Global Strike Ambitions: Assessing the Risks, Benefits, and Arms Control Implications,” Nonproliferation Review 
+22, no. 2 (2015), pp. 123–139, https://doi.org/10.1080/10736700.2015.1117735; Dmitry Stefanovich, “Proliferation and Threats of 
+Reconnaissance-Strike Systems: A Russian Perspective,” Nonproliferation Review 27, no. 1–3 (2020), pp. 97–107, https://doi.org/10.10
+80/10736700.2020.1795370.
+This category includes conventional cruise and 
+ballistic missiles as well as conventionally armed 
+hypersonic boost-glide vehicles. Because of 
+substantial advancements in guidance, propulsion, 
+and warhead technologies in recent years, these 
+weapon systems now have the potential to pose 
+a credible threat to critical nuclear infrastructure 
+and nuclear assets, including nuclear missile silos 
+DEFINING STRATEGIC STABILITY
+Because of substantial 
+advancements in guidance, 
+propulsion, and warhead 
+technologies in recent years, 
+these weapon systems now 
+have the potential to pose 
+a credible threat to critical 
+nuclear infrastructure and 
+nuclear assets, including 
+nuclear missile silos and 
+mobile missile launchers.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   4  | www.cna.org   
+and mobile missile launchers. 5 As such, long-range 
+strike weapons can complement and upgrade the 
+first-strike capability of existing nuclear arsenals. 
+This interaction may undermine crisis stability by 
+heightening incentives to preempt the adversary in 
+a nuclear crisis and increase pressures to build up 
+one’s nuclear arsenal to retain sufficient survivability.6  
+Concerns surrounding defensive advanced 
+conventional weapons have traditionally centered 
+on strategic missile defense. Strategic missile 
+defense can reinforce the counterforce capabilities 
+of nuclear weapon states by threatening to intercept 
+any warheads that may have survived the nuclear first 
+strike. More recently, Russia has made the argument 
+that not only strategic missile defense but also 
+operational-tactical missile defense integrated into 
+the broader missile defense network can undermine 
+this stability. 7 Because strategic and nonstrategic 
+missile defenses may undermine the guaranteed 
+retaliatory capability of a nuclear weapon state, 
+they may incentivize the state to quantitatively or 
+qualitatively improve its nuclear arsenal in an effort 
+to maintain a credible nuclear capability, thus driving 
+arms race instability. 8 As such, from a strategic 
+stability perspective, deployments of missile defense 
+5  Fabian Hoffmann, Cruise Missile Proliferation: Trends, Strategic Implications, and Counterproliferation , 
+European Leadership Network, Mar. 2021, https://www.europeanleadershipnetwork.org/report/
+cruise-missile-proliferation-trends-strategic-implications-and-counterproliferation/; Fabian Hoffmann, Strategic 
+Non‑Nuclear Weapons and Strategic Stability – Promoting Trust Through Technical Understanding , Fondation 
+pour la Recherche Stratégique, Nov. 2021, https://www.frstrategie.org/en/programs/npt-and-the-p5-process/
+strategic-non-nuclear-weapons-and-strategic-stability-promoting-trust-through-technical-understanding-2021. 
+6  Andrew Futter and Benjamin Zala, “Strategic Non-Nuclear Weapons and the Onset of a Third Nuclear Age,” European Journal of 
+International Security 6, no. 3 (2021), pp. 257–277, https://doi.org/10.1017/eis.2021.2.
+7  Nicholas Khoo and Reuben Steff, “‘This Program Will Not Be a Threat to Them:’ Ballistic Missile Defense and US Relations with 
+Russia and China,” Defense & Security Analysis 30, no. 1 (2014), pp. 17–28, https://doi.org/10.1080/14751798.2013.864869. 
+8  Andrew Futter and Benjamin Zala, “Advanced US Conventional Weapons and Nuclear Disarmament: Why the Obama Plan Won’t 
+Work,” Nonproliferation Review 20, no. 1 (2013), pp. 107–122, https://doi.org/10.1080/10736700.2012.761790. 
+9  For an analysis of these short-term implications, see Mary Chesnut, US/NATO‑Russian Strategic Stability and the War in Ukraine, 
+CNA, IOP-2023-U-035792-Final, June 2023, https://www.cna.org/reports/2023/06/us-nato-russian-strategic-stability-in-ukraine. 
+have generally been considered controversial and 
+not conducive to a stable nuclear balance.
+The Russia-Ukraine war creates short-, medium-, 
+and long-term implications for strategic stability. 
+The short-term implications center on the likelihood 
+of the war expanding to a broader conflict between 
+Russia and NATO, which may eventually escalate to 
+the use of nuclear weapons. 9 Although these risks 
+are real, they appear to have been managed by both 
+sides, and a broader NATO-Russia conflict as a result 
+of accidental, inadvertent, or deliberate escalation—
+although not impossible—appears less likely. 
+The implications of the war for strategic stability in 
+the medium to long term revolve around the lessons 
+and insights that NATO and Russia can draw from 
+the realities of the war regarding force posture 
+and strategy development and the technological 
+trajectories of weapon systems that the war helps 
+predict. The following sections consider these 
+medium- and long-term implications for strategic 
+stability that result from the deployment of offensive 
+and defensive advanced conventional weapons in 
+Ukraine, in particular conventional long-range strike 
+weapons and nonstrategic or tactical-operational 
+missile defense. 
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   5  | www.cna.org   
+Both Russia and Ukraine have employed substantial 
+long-range strike and missile defense assets 
+throughout the war. This section discusses the 
+weapon systems used on both sides as well as their 
+effectiveness in this war so far. The following section 
+dives into the strategic stability implications of 
+their use. 
+Long‑range strike weapons
+Throughout the war, Russia has employed a breadth 
+of long-range strike capabilities in Ukraine, including 
+land-attack and anti-ship cruise missiles, ground- 
+and air-launched ballistic missiles, and long-range 
+drones. 
+The backbone of Russia’s long-range strike arsenal 
+is its land-attack cruise missile arsenal. This arsenal 
+consists of older cruise missile systems, such as the 
+Kh-555 (RS-AS-22 Kluge), as well as more modern 
+and advanced capabilities, including the Kh-101 
+(RS-AS-23a Kodiak) and 3M-14 Kalibr (RS-SS-N-30a 
+Sagaris).10 These air- and sea-launched land-attack 
+10  “3M-14 Kalibr (SS-N-30A),” Missile Threat, CSIS Missile Defense Project, Aug. 11, 2016, last modified Mar. 7, 2022, https://
+missilethreat.csis.org/missile/ss-n-30a/; “Kh-55 (AS-15),” Missile Threat, CSIS Missile Defense Project, Aug. 10, 2016, last modified 
+Aug. 2, 2021, https://missilethreat.csis.org/missile/kh-55/; “Kh-101/Kh-102,” Missile Threat, CSIS Missile Defense Project, Oct. 26, 
+2017, last modified July 31, 2021, https://missilethreat.csis.org/missile/kh-101-kh-102/.
+11  “Russia’s Kh-22 – the Missile Ukraine Has Yet to Shoot Down,” Kyiv Post, Dec. 29, 2023, https://www.kyivpost.com/post/26102. 
+12  Ivana Kottasová et al., “Ukrainian Air Defenses in Odesa Outgunned as Russia Targets Global Grain Supply,” CNN, July 21, 
+2023, https://edition.cnn.com/2023/07/20/europe/ukraine-air-defenses-odesa-russia-strikes-grain-intl/index.html; “Ukraine 
+Unable to Shoot Down Kh-22 Missiles, Says Air Force,” The New Voice of Ukraine, Jan. 15, 2023, https://english.nv.ua/nation/
+air-defense-cannot-shoot-down-russian-kh-22-missiles-ukraine-war-50297621.html. 
+cruise missiles reportedly have a range greater than 
+2,000 kilometers and carry a payload of several 
+hundred kilograms. Russia has also employed 
+repurposed anti-ship cruise missiles in land-attack 
+roles. These missiles include the Cold War Kh-22 
+(RS-AS-4 Kitchen) anti-ship cruise missile and 
+the more modern P-800 Oniks (SS-N-26 Strobile) 
+supersonic anti-ship cruise missile that have been 
+used to engage civilian and military targets on 
+land.11 Although these missiles are less accurate 
+against land-based targets because of their lack of 
+suitable terminal guidance, Ukraine has struggled to 
+deal with them because of their supersonic terminal 
+speed.12 
+In addition to cruise missiles, Russia’s ground and 
+air forces have employed ballistic and quasi-ballistic 
+missiles in Ukraine. These weapons include the 
+9K729 Iskander-M (RS-SS-26 Stone) short-range 
+ballistic missile with a range of 500 kilometers and 
+the medium-range Kh-47M2 Kinzhal (RS-AS-24a 
+Killjoy) air-launched ballistic missile with a range of 
+THE USE OF ADVANCED 
+CONVENTIONAL WEAPONS IN 
+UKRAINE
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   6  | www.cna.org   
+1,500 to 2,000 kilometers.13 Russia has also employed 
+repurposed S-300 air defense missiles in land-attack 
+roles. Although comparatively inaccurate and 
+lacking in firepower, these missiles have been used 
+to saturate Ukraine’s missile defense network.14
+Finally, the war has seen the large-scale 
+employment of Russian Geran-1 and Geran-2 
+one-way attack drones, which are rebranded and 
+now license-produced versions of the Iranian 
+Shahed-131 and Shahed-136 long-range drones. 15 
+These long-range drones with an official range of up 
+to 2,000 kilometers are equipped with a 40-kilogram 
+warhead that, although relatively small, has been 
+able to cause substantial damage to Ukrainian 
+civilian infrastructure facilities.16 
+Ukraine’s long-range strike arsenal has largely 
+consisted of Western-made long-range strike 
+weapons and is complemented by a small but 
+growing number of Soviet-legacy and domestically 
+produced long-range strike weapons.
+Ukraine first started to receive Western long-range 
+strike weapons in May 2023 when the United 
+Kingdom delivered British Storm Shadow 
+air-launched cruise missiles. 17 In July 2023, France 
+13  “Kh-47M2 Kinzhal,” Missile Threat, CSIS Missile Defense Project, Mar. 27, 2018, last modified Mar. 19, 2022, https://missilethreat.
+csis.org/missile/kinzhal/. 
+14  Thomas Newdick, “Russia Now Firing S-300 Surface-to-Air Missiles at Land Targets in Ukraine: Official,” The War Zone, July 8, 2022, 
+https://www.thedrive.com/the-war-zone/russia-now-firing-s-300-surface-to-air-missiles-at-land-targets-in-ukraine-official. 
+15  US Defense Intelligence Agency, Iranian UAVs in Ukraine: A Visual Comparison , Aug. 2023, https://www.dia.mil/Portals/110/
+Documents/News/Military_Power_Publications/UAV_Book.pdf. 
+16  Howard Altman, “Russia’s Shahed-136 Drones Now Feature Tungsten Shrapnel,” The War Zone, Sept. 28, 2023, https://www.
+thedrive.com/the-war-zone/russias-shahed-136-drones-now-feature-tungsten-shrapnel. 
+17  Jim Sciutto, “Britain Has Delivered Long-range ‘Storm Shadow’ Cruise Missiles to Ukraine Ahead of Expected Counteroffensive, 
+Sources Say,” CNN, May 12, 2023, https://edition.cnn.com/2023/05/11/politics/uk-storm-shadow-cruise-missiles-ukraine/index.html.  
+18  Barbara Gabel, “‘A Strong Gesture:’ French Delivery of SCALP Missiles to Ukraine 
+Marks Shift in Western Strategy,” France 24, July 13, 2023, https://www.france24.com/en/
+europe/20230713-a-strong-gesture-french-delivery-of-scalp-missiles-to-ukraine-marks-shift-in-western-strategy. 
+19  “SCALP EG/Storm Shadow/SCALP Naval/Black Shaheen/APACHE AP,” Missile Threat, CSIS Missile Defense Project, Dec. 2, 2016, 
+last modified Sept. 20, 2023, https://missilethreat.csis.org/missile/apache-ap/.  
+20  Thomas Newdick, “SU-24 Fencer Is Ukraine’s Storm Shadow Missile Carrier,” The War Zone, May 24, 2023, https://www.thedrive.
+com/the-war-zone/su-24-fencer-is-ukraines-storm-shadow-missile-carrier. 
+followed suit and supplied identical cruise missiles, 
+known in Paris under the name SCALP-EG. 18 Storm 
+Shadow/SCALP-EG are relatively modern long-range 
+strike weapons that are in use in several air forces 
+around the world. They have a range of around 
+560 kilometers and carry a powerful 450-kilogram 
+multi-effect penetrator warhead .19 Storm Shadow/
+SCALP-EG have been integrated with and launched 
+from Ukrainian SU-24M (Fencer-D) aircraft. 20 More 
+recently, Ukraine has started to receive MGM-140 M39 
+Block 1 ATACMS short-range maneuvering missiles 
+Finally, the war 
+has seen the 
+large-scale 
+employment of 
+Russian Geran-1 
+and Geran-2 one-way attack 
+drones, which are rebranded and 
+now license-produced versions 
+of the Iranian Shahed-131 and 
+Shahed-136 long-range drones.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   7  | www.cna.org   
+from the United States. 21 These ground-launched 
+quasi-ballistic missiles have a range of around 165 
+kilometers and carry a cluster ammunition warhead 
+capable of dispersing 950 bomblets over a target 
+area.22 
+In addition to Western long-range strike weapons, 
+Ukraine also possessed a relatively small arsenal 
+of Soviet-legacy systems at the start of the war in 
+the form of 9K79 Tochka-U short-range ballistic 
+missiles, which have been employed against a 
+range of Russian targets. 23 Ukraine has also used a 
+small number of domestically produced Neptune 
+anti-ship cruise missiles for both maritime and 
+land-attack purposes.24 Finally, Ukraine has achieved 
+domestic production of long-range drones, which 
+have been used in multiple instances to target 
+locations deep inside Russia.25
+Force employment and 
+effectiveness
+The effectiveness of Russian and Ukrainian 
+long-range strike weapons in the war has been a 
+mixed bag on both sides. Russia’s employment of 
+long-range strike weapons has been plagued by 
+several issues from the outset of the campaign, 
+including poor force employment and mission 
+21  “US-Supplied ATACMS Enter the Ukraine War,” Reuters, Oct. 19, 2023, https://www.reuters.com/world/
+atacms-us-may-send-ukraine-their-cluster-bomb-payloads-2023-10-19/. 
+22  “MGM-140 Army Tactical Missile System (ATACMS),” Missile Threat, CSIS Missile Defense Project, Nov. 30, 2016, last modified July 
+31, 2021, https://missilethreat.csis.org/missile/atacms/. 
+23  David Axe, “After a Six-Month Lull, the Ukrainians Are Lobbing Tochka Ballistic Missiles Again,” Forbes, Nov. 23, 2023, https://www.
+forbes.com/sites/davidaxe/2023/11/23/after-a-six-month-lull-the-ukrainians-are-lobbing-tochka-ballistic-missiles-again/. 
+24  Mikhail Zhirohov, “Ukraine Adopts Neptune Coastal Defence Missile,” Janes, Aug. 27, 2020, https://www.janes.com/defence-news/
+news-detail/ukraine-adopts-neptune-coastal-defence-missile. 
+25  Mark Jacobsen, “Ukraine’s Drone Strikes Are a Window into the Future of Warfare,” Atlantic Council, Sept. 14, 2023, https://www.
+atlanticcouncil.org/blogs/new-atlanticist/ukraines-drone-strikes-are-a-window-into-the-future-of-warfare/. 
+26  Justin Bronk, “Is the Russian Air Force Actually Incapable of Complex Air Operations?,” RUSI, Mar. 4, 2022, https://www.rusi.org/
+explore-our-research/publications/rusi-defence-systems/russian-air-force-actually-incapable-complex-air-operations. 
+27  Paul Sonne et al., “Battle For Kyiv: Ukrainian Valor, Russian Blunders Combined to Save the Capital,” Washington Post, Aug. 24, 
+2023, https://www.washingtonpost.com/national-security/interactive/2022/kyiv-battle-ukraine-survival/.  
+28  William Alberque et al., Russia’s War in Ukraine: Ballistic and Cruise Trajectories, International Institute for Strategic Studies, Oct. 
+2023, https://www.iiss.org/research-paper/2023/10/russias-war-in-ukraine-ballistic-and-cruise-trajectories/. 
+planning; qualitative deficiencies in Russian missiles; 
+the inability to deploy a functioning missile kill 
+chain by integrating actionable intelligence, 
+surveillance, and reconnaissance (ISR) data; and an 
+initial lack of sufficient stockpiles for a protracted 
+missile campaign.
+Russia began its invasion of Ukraine by launching 
+a barrage of conventional cruise and ballistic 
+missiles that targeted critical military infrastructure, 
+in particular airfields and air defense sides, in an 
+effort to establish air supremacy early in the conflict. 
+Russian missiles managed to hit some targets but 
+were unable to systematically degrade Ukraine’s 
+missile defense network at the outset of the conflict 
+and unable to ground and destroy a substantial part 
+of Ukraine’s military aviation assets. 26 Reportedly, 
+Russia was unable to retarget some of its long-range 
+strike weapons after enemy air defense assets were 
+moved at the last minute from previously known 
+locations.27 In addition, Russia’s opening salvo 
+revealed inaccuracies in Russian long-range strike 
+weapons, with pictures indicating several near misses 
+of Russian missiles.28 
+Russia initially employed long-range strike weapons 
+with relative restraint, especially when compared to 
+past high-intensity wars in which significant missile 
+assets were used early to destroy crucial enemy 
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   8  | www.cna.org   
+targets to facilitate the subsequent ground invasion.29 
+This restraint is surprising considering that Russian 
+doctrine, in principle, provides for the large-scale 
+employment of long-range strike weapons against 
+military and critical civilian 
+targets early. 30 Russia’s initial 
+restraint may be explained 
+by a lack of mission planning 
+and target allocation, a 
+potential desire to protect 
+Ukrainian civilian and military 
+infrastructure in the belief that 
+Russia would soon administer 
+that infrastructure itself, and 
+the perceived need to retain a 
+robust reserve stockpile for a 
+NATO contingency in case the 
+war escalates. 
+Despite an overall increase 
+in the use of long-range 
+strike weapons after the 
+initial months of the war, 
+Russia seems to have faced 
+difficulties in orchestrating 
+a coherent missile campaign and integrating its 
+long-range strike assets into its broader warfighting 
+strategy. In general, Russia appears to have assigned 
+both tactical-operational and strategic functions 
+to its missile forces. In their tactical-operational 
+29  Alberque et al., Russia’s War in Ukraine.  
+30  Michael Kofman, Anya Fink, and Jeffrey Edmonds, Russian Strategy of Escalation Management: Evolution of Key Concepts, CNA, 
+DRM-2019-U-022455-1Rev, Apr. 2020, https://www.cna.org/reports/2020/04/russian-strategy-for-escalation-management-key-
+concepts.
+31  This is also because Ukraine excelled in the use of decoys to lure missile strikes against false targets. John Hudson, “Ukraine 
+Lures Russian Missiles with Decoys of US Rocket System,” Washington Post , Aug. 30, 2022, https://www.washingtonpost.com/
+world/2022/08/30/ukraine-russia-himars-decoy-artillery/. 
+32  Randy Noorman, “The Russian Way of War in Ukraine: A Military Approach Nine Decades in the Making,” Modern War Institute, June 
+15, 2023, https://mwi.westpoint.edu/the-russian-way-of-war-in-ukraine-a-military-approach-nine-decades-in-the-making/; Andreas 
+Kluth, “Russia’s ‘Human Wave Attacks’ Are Another Step into Hell,” Washington Post, Feb. 14, 2023, https://www.washingtonpost.com/
+business/russias-human-wave-attacks-are-another-stepinto-hell/2023/02/14/574e7202-ac27-11ed-b0ba-9f4244c6e5da_story.html. 
+33  Marcel Plichta, “Ukraine Vows to Strike Back If Russia Resumes Energy Infrastructure Attacks,” Atlantic Council, Nov. 16, 2023, 
+https://www.atlanticcouncil.org/blogs/ukrainealert/ukraine-vows-to-strike-back-if-russia-resumes-energy-infrastructure-attacks/. 
+role, Russian long-range strike capabilities have 
+been employed to engage high-value military 
+targets at tactical and operational depth. Although 
+these strikes have complicated Ukraine’s defensive 
+and offensive efforts, 
+they do not seem to have 
+significantly contributed 
+to Russian successes along 
+the front line. 31 Other 
+factors, such as close-range 
+artillery superiority, terrain, 
+and ground tactics, played 
+a more crucial role in 
+determining the outcome of 
+individual battles.32
+Starting in the fall of 2022, 
+Russian long-range strike 
+forces have been conducting 
+large-scale attacks on critical 
+civilian infrastructure in 
+Ukraine as part of a strategic 
+strike campaign. 33 This 
+campaign has been aimed 
+at undermining the morale 
+of the Ukrainian population and weakening their 
+resistance against the Russian attackers. Despite 
+using thousands of long-range strike weapons, 
+including land-attack cruise missiles, ballistic 
+missiles, and long-range drones, the overall effect of 
+Despite an overall 
+increase in the 
+use of long-range 
+strike weapons 
+after the initial months of 
+the war, Russia seems to 
+have faced difficulties in 
+orchestrating a coherent 
+missile campaign and 
+integrating its long-range 
+strike assets into its 
+broader warfighting 
+strategy.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   9  | www.cna.org   
+these attacks has been decisive. 34 The most critical 
+moment of the strategic missile campaign was 
+likely in December 2022, when initial damage had 
+been dealt and Russia was expanding its attacks but 
+Ukraine had not yet received the means to deal with 
+the strategic missile threat. Once Western missile 
+defense systems started to 
+arrive in more substantial 
+numbers, pressure on Ukraine’s 
+civilian infrastructure started 
+to decrease. In hindsight, 
+Russia likely would have been 
+able to put these ammunitions 
+to better use by employing 
+them against frontline targets 
+in Ukraine, similar to how the 
+Russian air force successfully 
+employed glide bombs against Ukrainian trenches 
+throughout the second half of 2023 to pressure 
+Ukrainian tactical positions. 35 Alternatively, Russia 
+may have improved the outcome of the strategic 
+missile campaign by attempting to systematically 
+degrade and limit Ukraine’s industrial capacity rather 
+than focusing on civilian targets.
+Ukrainian use of missiles, especially longer range 
+assets, has been more reserved—not necessarily 
+out of desire but because of necessity. Ukraine’s 
+long-range strike arsenal has never been substantial 
+34  “How Ukraine Tamed Russian Missile Barrages and Kept the Lights on,” Economist, Mar. 12, 2023, https://www.economist.com/
+europe/2023/03/12/how-ukraine-tamed-russian-missile-barrages-and-kept-the-lights-on.  
+35  Stefan Korshak, “Russian Glider Bombs Are Hitting Ukrainian Positions with Impunity,” Kyiv Post, Oct. 10, 2023, https://www.
+kyivpost.com/post/22570. 
+36  Michael Peck, “Storm Shadow Missiles Give Ukraine ‘a Much Longer Stick,’ but Russia Is Already 
+Learning to Adapt, Expert Says,” Business Insider, July 31, 2023, https://www.businessinsider.com/
+ukraine-storm-shadow-effective-long-range-missile-but-russia-adapts-2023-7.  
+37  “Russia Salvages Landing Ship Hit by Ukraine Missile Fire,” BBC, July 2, 2022, https://www.bbc.com/news/world-europe-62022476; 
+David Axe, “A Ukrainian Cruise Missile with a Special Warhead Blew Up That Russian Submarine from the Inside,” Forbes, Sept. 18, 2023, 
+https://www.forbes.com/sites/davidaxe/2023/09/18/a-ukrainian-cruise-missile-with-a-special-warhead-blew-up-that-russian-subm
+arine-from-the-inside/; Joseph Trevithick, “Full Devastation from Cruise Missile Attack on Russian Ship Comes into View,” The War Zone, Dec. 
+27, 2023, https://www.thedrive.com/the-war-zone/full-devastation-from-cruise-missile-attack-on-russian-ship-coming-into-view. 
+38  Thomas Newdick, “Black Sea Fleet Headquarters Takes Direct Hit from Cruise Missile,” The War Zone, Sept. 22, 2023, https://www.
+thedrive.com/the-war-zone/black-sea-fleet-headquarters-takes-direct-hit-from-cruise-missile.  
+39  Howard Altman, “Ukraine Using Land Attack Variant of Neptune Anti-Ship Missile,” The War Zone, Aug. 29, 2023, https://www.
+thedrive.com/the-war-zone/ukraine-now-using-land-attack-neptune-anti-ship-missile-variant.  
+enough to enable the large-scale use of these 
+weapon systems, forcing the Ukrainian armed forces 
+to carefully allocate available weapon systems 
+to individual targets. Ukraine was still able to 
+effectively engage several important logistic nodes 
+and ammunition depots deep behind the front line. 
+This move likely aggravated 
+Russia’s already-strained 
+logistical situation across the 
+southern and eastern theaters 
+but did not critically strain 
+it.36 Ukraine was also able to 
+engage several high-value 
+targets that carried important 
+symbolic and military value. 
+For example, Ukrainian forces 
+successfully struck several 
+Russian naval vessels docked in Crimea 37 and 
+destroyed the Black Sea Fleet Naval Headquarters 
+with at least two Storm Shadow/SCALP-EG 
+cruise missiles in September 2023, killing several 
+high-ranking officers. 38 This counter-leadership 
+strike was reportedly enabled by repurposed 
+Neptune anti-ship cruise missiles that successfully 
+engaged Russian S-400 air defense batteries to 
+weaken Russia’s air defense bubble around Crimea.39 
+In October 2023, Ukraine launched several ATACMS 
+maneuvering missiles with cluster ammunition 
+Ukrainian use of missiles, 
+especially longer 
+range assets, has been 
+more reserved—not 
+necessarily out of desire 
+but because of necessity.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   10  | www.cna.org   
+warheads to destroy dozens of Russian aviation 
+assets across several air bases.40  
+Ukrainian use of Western long-range strike weapons 
+has also revealed qualitative differences between 
+Russian and Western missile systems. French-British 
+Storm Shadow/SCALP-EG cruise missiles have 
+proved more reliable and survivable than their 
+Russian counterparts, meaning that they have a 
+much higher chance of successfully reaching and 
+hitting their targets. Furthermore, no reports have 
+been made of systemic errors or low accuracy in the 
+use of Western-made long-range strike weapons. 
+On the contrary, satellite pictures taken for battle 
+damage assessment purposes have repeatedly 
+demonstrated the impressive accuracy with which 
+Western long-range strike weapons are able to hit 
+their intended targets.41
+Unfortunately for Ukraine, the limited number of 
+long-range strike weapons available to its armed 
+forces has prevented it from achieving the types of 
+effects that could decisively affect the war. In addition, 
+the lack of quantity has hindered Ukraine’s ability 
+to consistently support offensive and defensive 
+operations across the front line, limiting its strikes to 
+individual high-value targets. Nevertheless, Ukraine’s 
+position is likely stronger today compared to the start 
+of the war because of its access to Western-made 
+long-range strike weapons and its growing arsenal 
+of domestically produced missile capabilities. 
+Notably, Ukraine’s effective use of long-range 
+strike weapons has been partially prevented by 
+Western targeting restrictions attached to Western 
+40  Joseph Trevithick and Tyler Rogoway, “Destruction from Ukraine’s First ATACMS Strike Now Apparent,” The War Zone, Oct. 18, 
+2023, https://www.thedrive.com/the-war-zone/destruction-from-ukraines-first-atacms-strike-now-apparent.  
+41  For example, during the Black Sea Fleet Naval Headquarters engagement, Storm Shadow cruise missiles were able to accurately 
+strike individual wings of the buildings. Newdick, “Black Sea Fleet.”
+42  Thomas Spencer, “Can UK’s Storm Shadow Missiles Change Ukraine’s Fight Against Russia?,” BBC, June 6, 2023, https://www.bbc.
+com/news/world-europe-65813770. 
+43  Another reason may be that Ukraine is waiting for the most opportune moment to engage this target, potentially to coincide with 
+a future ground offensive. 
+44  Bronk, “Is the Russian Air Force;” Justin Bronk, “The Mysterious Case of the Missing Russian Air Force,” RUSI, Feb. 28, 2022, https://
+rusi.org/explore-our-research/publications/commentary/mysterious-case-missing-russian-air-force. 
+missile deliveries.42 For example, even though Storm 
+Shadow/SCALP-EG cruise missiles equipped with 
+potent penetrator warheads would almost certainly 
+be capable of heavily damaging the Kerch Bridge 
+connecting Crimea with mainland Russia, Ukraine 
+has not yet engaged this critical target, likely 
+because of Western targeting restrictions. 43 These 
+restrictions also allowed Russia to partially adapt to 
+Ukrainian long-range strikes by moving equipment 
+and infrastructure outside of range, including by 
+redeploying assets to internationally recognized 
+Russian territory where Ukraine is likely not allowed 
+to use Western missile systems.
+Missile defense
+Initially, missile defense played a secondary role in 
+the war compared with the broader objective of air 
+defense. At the beginning of the conflict, Ukraine 
+relied on various Soviet-legacy air and missile defense 
+systems, including 9K330 Tor (SA-15 Gauntlet) 
+short-range surface-to-air missile (SAM) systems, 
+9K37 Buk (SA-11 Gadfly) medium-range SAM 
+systems, and S-300 (SA-10 Grumble) long-range 
+SAM batteries.44 Despite these air defense capabilities 
+not representing the state of the art, they were able 
+to deny Russia control of Ukrainian airspace.
+Missile defense assumed a central role in fall 2022 
+when Russia started its large-scale long-range 
+strike campaign against Ukrainian cities and critical 
+civilian infrastructure. Initially Ukraine’s air defense 
+capabilities were unable to match the missile 
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   11  | www.cna.org   
+onslaught, resulting in substantial damage to 
+Ukrainian civilian infrastructure. 45 Once Ukraine 
+began receiving modern Western air and missile 
+defense capabilities, its track record in defending 
+against Russia’s strategic missile campaign improved. 
+These capabilities included 
+American-made MIM-104 Patriot 
+batteries, German-made Iris-T 
+SLM missile defense systems, the 
+American-Norwegian NASAMS 
+air and missile defense system, 
+and self-propelled German 
+Gepard anti-air guns. 46 Ukraine 
+also received several so-called 
+Franken-SAMs, which combine 
+Soviet launchers with Western 
+ammunition.47 
+According to official Ukrainian 
+sources, Russia has launched 
+more than 4,000 long-range 
+strike systems since October 2022.48 Most long-range 
+strike ammunition launched toward Ukraine are 
+subsonic cruise missiles and long-range drones. 
+These weapons are complemented by a smaller 
+45  Hugo Bachega and Yaroslav Lukov, “Ukraine War: Blackouts in 1,162 Towns and Villages After Russia Strikes,” 
+BBC, Oct. 18, 2022, https://www.bbc.com/news/world-europe-63297239; “Another Mass Attack on Monday Morning: 
+Russia Hits Energy Infrastructure Across Ukraine,” Kyiv Independent , Oct. 31, 2022, https://kyivindependent.com/
+another-mass-attack-on-monday-morning-russias-hits-energy-infrastructure-across-ukraine/; Luke Harding, Dan Sabbagh, and 
+Isobel Koshiw, “Russia Targets Ukraine Energy and Water Infrastructure in Missile Attacks,” Guardian, Oct. 31, 2022, https://www.
+theguardian.com/world/2022/oct/31/russian-missiles-kyiv-ukraine-cities. 
+46  Adam Pemble, “US-Made Patriot Guided Missile Systems Arrive in Ukraine,” Associated Press, Apr. 20, 2023, https://apnews.
+com/article/russia-ukraine-war-patriot-missile-system-4c79f9110899ca1880a61f2d1f328179; “The Arms and Military Equipment 
+Germany Is Sending to Ukraine,” German Federal Government, Jan. 4, 2024, https://www.bundesregierung.de/breg-en/news/
+military-support-ukraine-2054992; “Zelensky: Newly-Delivered NASAMS Systems Enter Service in Ukraine,” Kyiv Independent, Nov. 7, 
+2023, https://kyivindependent.com/zelensky-newly-delivered-nasams-systems-enter-service-in-ukraine/. 
+47  Lolita C. Baldor, “Pentagon’s ‘FrankenSAM’ Program Cobbles Together Air Defense Weapons for Ukraine,” Associated Press, Oct. 
+12, 2023, https://apnews.com/article/ukraine-russia-war-military-missiles-16c344bdba2e0695a2286a55d9614ff4. 
+48  Author’s assessment based on publicly released information by the Ukrainian Air Force via its Facebook social media page. 
+“Командування Повітряних Сил ЗСУ/Air Force Command of UA Armed Forces,” Facebook, https://www.facebook.com/kpszsu. 
+49  “Командування Повітряних Сил ЗСУ/Air Force Command of UA Armed Forces,” Facebook, https://www.facebook.com/kpszsu. 
+50  Alberque et al., Russia’s War in Ukraine.
+51  An example is the May 16, 2023, attack, which saw the use of air- and ground-launched ballistic missiles, cruise missiles, S-300 
+rockets, and long-range drones against Kyiv. No missile system appears to have reached its target. Shawn Johnson, “Defense Expert 
+Says Russia’s Position ‘Never Looked Weaker’ After Ukraine Downed Putin’s ‘Invincible’ Missiles,” Business Insider, May 20, 2023, 
+https://biz.crast.net/defense-expert-says-russias-position-never-looked-weaker-after-ukraine-downed-putins-invincible-missiles/.  
+number of supersonic cruise missiles as well as 
+air- and ground-launched ballistic missiles. Overall, 
+Ukraine reports an interception rate of about 80 
+percent, meaning that 4 of every 5 long-range strike 
+weapons launched at Ukrainian territory are shot 
+down before they reach their 
+target.49 These numbers cannot 
+be independently verified at this 
+point and are likely exaggerated 
+for strategic communication 
+purposes. Nevertheless, videos 
+and pictures on social media, 
+as well as post-strike damage 
+assessments, confirm that 
+Ukraine manages to intercept a 
+substantial number of Russian 
+long-range strike weapons, 50 
+including in complex missile 
+raids in which missile threats 
+engage from multiple directions, 
+at different speeds, and from 
+various trajectories.51 
+The effectiveness of Ukrainian missile defense is 
+somewhat unexpected, at least compared with 
+According to official 
+Ukrainian sources, 
+Russia has launched 
+more than 4,000 
+long-range strike 
+systems since 
+October 2022.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   12  | www.cna.org   
+the predictions of analysts who wrote about the 
+prospects of effective missile defense before the 
+war. Most previous reports and analyses on US 
+missile defense in Iraq during 
+the 1990s and early 2000s 
+consistently suggested 
+that missile defense, even 
+against short-range and 
+low-velocity threats, would 
+remain challenging and not 
+cost-effective.52 The analysis 
+of Saudi Arabia’s more recent 
+experience with missile 
+defense also supported this 
+pessimistic assessment. In 
+recent years, Saudi Arabia 
+came repeatedly under 
+attack from Iranian-made 
+cruise missiles, short- and 
+medium-range ballistic 
+missiles, and long-range 
+drones fired by Houthi rebels 
+from Yemen. Saudi Arabia’s missile defense network, 
+which largely consists of US air and missile defense 
+capabilities (including Patriot, which is currently 
+deployed in Ukraine), failed to provide adequate and 
+reliable protection.53 
+Without access to more accurate data, explaining this 
+discrepancy in the expected and actual effectiveness 
+52  Joe Cirincione, “In Ukraine, a New Chance to Judge the Patriot Missile,” Defense One, May 5, 2023, https://www.defenseone.com/
+ideas/2023/05/ukraine-another-chance-judge-patriot-missile/386036/.  
+53  Jeffrey Lewis, “Patriot Missiles Are Made in America and Fail Everywhere,” Foreign Policy, Mar. 28, 2018, https://foreignpolicy.
+com/2018/03/28/patriot-missiles-are-made-in-america-and-fail-everywhere/; Max Fisher, “Did American Missile Defense Fail in Saudi 
+Arabia?,” New York Times, Dec. 4, 2017, https://www.nytimes.com/interactive/2017/12/04/world/middleeast/saudi-missile-defense.
+html.  
+54  Russia has been confirmed to employ active countermeasures, such as integrated decoy flares, in its cruise missiles. Joseph 
+Trevithick, “Russian Kh-101 Cruise Missile Filmed Firing-Off Decoy Flares,” The War Zone, Dec. 29, 2023, https://www.thedrive.com/
+the-war-zone/russian-kh-101-cruise-missile-filmed-firing-off-decoy-flares. Although these are reported to be effective against 
+relatively simple anti-air capabilities, such as handheld stingers, they provide limited protection against more advanced interceptors 
+systems. “Ukraine’s Mobile Air Defences Have Ammo for ‘Few More Attacks:’ Commander,” France 24, Jan. 4, 2024, https://www.
+france24.com/en/live-news/20240104-ukraine-s-mobile-air-defences-have-ammo-for-few-more-attacks-commander. 
+55  Chris Panella, “Shooting Down Russia’s Overhyped Missiles with Patriots Is a Win for More Than Just Ukraine. 
+The War Is an ‘Intelligence Bonanza’ for the West,” Business Insider, Jan. 4, 2024, https://www.businessinsider.com/
+western-weapons-wins-against-russia-are-intelligence-bonanza-2024-1. 
+of Ukrainian missile defense is difficult. Several 
+factors likely play a role, including the impressive 
+competence of Ukrainian servicemembers 
+operating their systems, 
+the lack of stealth features 
+and countermeasures in 
+Russian long-range strike 
+weapons undermining 
+their survivability, and the 
+generally improved state 
+of Western missile defense 
+compared with previous 
+conflicts.54 Western engineers 
+reportedly continue to 
+improve their missile 
+defense systems by adapting 
+software algorithms based on 
+empirical data from previous 
+successful and failed missile 
+intercepts to further optimize 
+missile defense against 
+different types of threats.55
+Although Ukrainian missile defense has generally 
+been effective, interception rates have differed by 
+type of long-range strike weapon. For example, 
+Ukraine reports interception rates of more than 
+70 percent and 80 percent for subsonic cruise 
+missiles and long-range drones, respectively, but 
+interception rates of only about 40 percent for 
+Most previous 
+reports and 
+analyses 
+on US missile defense 
+in Iraq during the 
+1990s and early 2000s 
+consistently suggested 
+that missile defense, even 
+against short-range and 
+low-velocity threats, would 
+remain challenging and 
+not cost-effective.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   13  | www.cna.org   
+Russian ground- and air-launched ballistic missiles.56 
+Interception rates for high-velocity cruise missiles, 
+in particular P-800 Oniks and Kh-22 anti-ship cruise 
+missiles flying at medium and high subsonic speeds, 
+approach zero.57 In general, Ukraine’s ability to deal 
+with more complex and higher velocity threats 
+appears to depend on the 
+geographical area of the 
+attack. Ukraine has managed 
+to establish a dense and 
+multilayered missile defense 
+network around Kyiv that is 
+capable of defending against 
+most types of missile attacks 
+relatively reliably. Other cities 
+and areas in Ukraine remain 
+much more vulnerable. 
+Compared to Ukraine, 
+Russia’s experience with 
+missile defense in this war is more limited, mainly 
+because of Ukraine’s limited capability to launch 
+long-range strikes against Russian targets. However, 
+when Russian missile defense systems have been 
+employed, they have not met expectations. Although 
+Russian subsonic cruise missiles and long-range 
+drones have been vulnerable to Ukrainian air 
+defense, the survivability of Ukrainian subsonic 
+cruise missile systems has been high. Although 
+Russia regularly claims to intercept Western and 
+Ukrainian long-range strike weapons in large 
+numbers, it has been unable to produce credible 
+evidence to support these claims. In fact, no evidence 
+exists that Russia has managed to intercept a single 
+56  Author’s assessment based on publicly released information by the Ukrainian Air Force via its Facebook social media page. 
+“Командування Повітряних Сил ЗСУ/Air Force Command of UA Armed Forces,” Facebook, https://www.facebook.com/kpszsu. 
+57  “Russia’s Kh-22.” 
+58  In July 2023, pictures of a downed Storm Shadow emerged. However, there are no indications of a kinetic interception. The missile 
+likely landed itself because of a systemic error. Fabian Hoffmann (@FRHoffmann1), “First pictures of a downed Storm Shadow,” Post, 
+X, July 4, 2023, 6:07 a.m. https://twitter.com/FRHoffmann1/status/1676170771507433472. 
+59  Iryna Sitnikova, “The Ministry of Defense of the Russian Federation Acknowledged the Attacks on Its Military Airfields. Blames 
+Ukraine” [Міноборони рф визнало удари по своїх військових аеродромах. Звинувачує Україну], Hromadske, Dec. 5, 2022, https://
+hromadske.ua/posts/minoboroni-rf-viznalo-udari-po-svoyih-vijskovih-aerodromah-zvinuvachuye-ukrayinu. 
+French-British Storm Shadow/SCALP-EG land-attack 
+cruise missile or Ukrainian -built Neptune anti-ship 
+cruise missile.58 There is also no evidence that Russian 
+missile defense has managed to intercept any of the 
+ATACMS short-range maneuvering missiles that have 
+occasionally been launched against Russian airfields.
+Russia has also struggled 
+with protecting its capital 
+from relatively small 
+numbers of Ukrainian 
+slow-flying long-range 
+drones that occasionally 
+attempt to penetrate 
+Moscow’s airspace. Ukraine 
+even managed to strike two 
+Russian airbases hundreds 
+of kilometers behind the 
+front line with improvised 
+long-range drone systems, 
+reportedly damaging multiple strategic bombers in 
+the process.59 This strike is not necessarily surprising, 
+given that Russia’s airspace has not undergone 
+extensive militarization, at least compared to that 
+of Ukraine. In addition, small and low-flying drones 
+can be difficult to intercept even with defenses in 
+place. Nevertheless, Russia’s lack of preparedness 
+for strikes on its homeland territory was somewhat 
+unexpected. 
+In general, given that Russian air and missile defense 
+systems were once considered among the world’s 
+best, their lack of success in the war is surprising, 
+especially considering that Russian missile defense 
+systems were specifically designed and built to 
+Russia has also struggled 
+with protecting its capital 
+from relatively small 
+numbers of Ukrainian 
+slow-flying long-range 
+drones that occasionally 
+attempt to penetrate 
+Moscow’s airspace.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   14  | www.cna.org   
+counter the types of missile threats that they are 
+now facing. Note also that Ukraine has asserted that 
+its Soviet-legacy S-300 batteries have effectively 
+defended against Russian subsonic cruise missiles, 60 
+which indicates that Russian missile defense systems 
+are capable, in principle, of handling this type of 
+threat. The fact that Russia has been unable to do 
+so suggests either that there are differences in terms 
+of the training and competence between Ukrainian 
+and Russian operators or that Western-made 
+subsonic cruise missiles are more survivable than 
+their Russian counterparts. A combination of both 
+factors likely plays a role. One video on social media 
+shows what appears to be a Russian Pantsir-S1 
+60  See the markings on this S-300. Fabian Hoffmann(@FRHoffmann1), “There is no reason to assume that Russian S-300s cannot 
+intercept Storm Shadows,” Post, X, May 11, 2023, 9:34 a.m. https://twitter.com/FRHoffmann1/status/1656653906091573251.
+61  Calibre Obscura (@CalibreObscura), “Pantsir-S1 can’t even intercept a Storm Shadow even when it has it locked on thermals,” Post, 
+X, June 22, 2023, 3:35 p.m. https://twitter.com/CalibreObscura/status/1671965086959673357. 
+(SA-22 Greyhound) missile defense system having a 
+clear target lock on an approaching Storm Shadow/
+SCALP-EG cruise missile. The system operator, 
+however, launches the interceptor when the target 
+is right above the Pantsir system, resulting in what 
+looks like the interceptor’s fuse not arming and the 
+interceptor flying past the incoming missile without 
+detonating.61 Storm Shadow/SCALP-EG cruise 
+missiles also incorporate several low-observability 
+features, such as an S-ducted fan, that reduce the 
+radar cross section quite substantially, especially 
+compared with older Russian cruise missiles that 
+carry drop-down fans. 
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   15  | www.cna.org   
+The Russia-Ukraine war has constituted a test bed 
+for conventional missile technology and redefines 
+our understanding of the use of long-range strike 
+weapons and missile defense in modern warfare. 
+This section outlines some implications for strategic 
+stability. These implications, in the medium to long 
+term, revolve around the lessons and insights that 
+NATO and Russia can draw from the realities of the war 
+regarding force posture and strategy development 
+and the technological trajectories of weapon systems 
+that the war helps predict. This section identifies three 
+implications for strategic stability resulting from 
+the use of conventional missile technologies in the 
+Russia-Ukraine war relating to decreased first-strike 
+stability, the credibility of Russian missile doctrine 
+and strategy, and the feasibility of conventional 
+counterforce strikes. 
+First‑strike instability
+The Russia-Ukraine war demonstrates the enormous 
+utility of long-range strike weapons in modern wars. 
+Long-range strike weapons can perform a range of 
+key tactical, operational, and strategic functions on 
+both sides.62 Similarly, missile defense is acquiring an 
+elevated role in contemporary warfighting because 
+of its ability to deny the adversary the benefits of 
+conducting long-range strikes. The track record of 
+62  Fabian Hoffmann, “Europe’s Missile Conundrum,” War on the Rocks, July 25, 2023, https://warontherocks.com/2023/07/
+europes-missile-conundrum/; Hoffmann and Alberque, “Non‑Nuclear Weapons.”
+63  “Joint Procurement Makes Baltic Defensive Capabilities More Robust,” Ministry of National Defence, Republic of Lithuania, Mar. 
+28, 2023, https://kam.lt/en/joint-procurement-makes-baltic-defensive-capabilities-more-robust/. 
+64  Emma Helfrich, “The Netherlands Is Going to Bet Big on Long-range Weapons,” The War Zone, Apr. 3, 2023, https://www.thedrive.
+com/the-war-zone/the-netherlands-is-going-to-bet-big-on-long-range-weapons. 
+65  “European Sky Shield – An Overview of the Initiative” [European Sky Shield – Die Initiative im Überblick], Federal Ministry of 
+Defense Germany, https://www.bmvg.de/de/aktuelles/european-sky-shield-die-initiative-im-ueberblick-5511066. 
+these weapon systems in the war so far—although 
+not impeccable on either side—leaves little doubt 
+that conventional missile technologies have become 
+a core capability of modern war. Long-range strike 
+weapons and missile defense facilitate offensive and 
+defensive maneuvers on the battlefield and can, 
+under certain circumstances, create the conditions 
+of victory independently of the warfighting effort 
+along the front line. 
+Therefore, that the war has spurred global efforts 
+to acquire robust long-range strike arsenals and 
+upgrade missile defense is unsurprising. In Europe, 
+several states have recently signed contracts for 
+the procurement of long-range strike weapons, 
+most notably the Baltic states and Poland, which 
+together have acquired hundreds of M-142 HIMARS 
+rocket artillery launchers equipped with ATACMS 
+maneuvering missiles, among others. 63 Other 
+states, such as the Netherlands, will soon deploy a 
+long-range strike triad consisting of ground-, air-, 
+and sea-launched long-range strike capabilities. 64 
+European states have also made a more or less 
+concerted effort to acquire additional missile defense 
+capabilities, including through the European Sky 
+Shield Initiative.65
+Russia itself has doubled down on long-range strike 
+weapons and has gone to great lengths to overcome 
+IMPLICATIONS FOR STRATEGIC 
+STABILITY
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   16  | www.cna.org   
+Western sanctions aiming to curb its supply. 66 The 
+Russian arms industry reportedly continues to scale 
+up production of cruise and ballistic missiles and has 
+invested in a new production facility east of Moscow 
+to license-produce Iranian Shahed long-range 
+drones.67 Russia is well aware 
+that its long-range strike 
+arsenal grants it military 
+advantages and coercive 
+leverage that Ukraine 
+currently cannot match. In 
+any war termination scenario 
+that does not result in the 
+complete destruction of 
+Russia’s military capabilities, 
+including its industrial 
+capacity, Russia will likely be 
+able to rapidly rearm in the 
+missile domain and re-equip 
+its forces with a substantial 
+long-range strike arsenal. 
+Therefore, there is little doubt that long-range strike 
+weapons and missile defense will play a critical role in 
+any future confrontation between Russia and NATO. 
+Given that long-range strike weapons can inflict rapid 
+damage not only at tactical and operational depth 
+but also extending into the adversary’s homeland 
+territory, attaining superiority in the missile domain 
+will constitute a core objective of future militaries.68 As 
+a result, military officials will plan to quickly destroy 
+an adversary’s offensive and defensive missile forces 
+66  Maria Shagina, “Why Can’t the West Stop Supplying Technology for Russian Weapons?,” Foreign Policy, Nov. 9, 2023, https://
+foreignpolicy.com/2023/11/09/russia-sanctions-weapons-technology-exports-evasion-arms-production-missiles-chips/. 
+67  Ian Williams, “Russia Isn’t Going to Run Out of Missiles,” Center for Strategic and International Studies, June 28, 2023, https://www.
+csis.org/analysis/russia-isnt-going-run-out-missiles. 
+68  Attaining superiority in the missile domain can be defined as the ability to strike the enemy from a distance while preventing or 
+severely limiting the adversary’s ability to do the same.
+69  David Blagden, “Strategic Stability and the Proliferation of Conventional Precision Strike: A (Bounded) Case for Optimism?,” 
+Nonproliferation Review 27, no. 1–3 (2020), pp. 123–136, https://doi-org.ezproxy.uio.no/10.1080/10736700.2020.1799569. 
+to achieve long-range strike superiority as early as 
+possible. To counter this strategy, armed forces will 
+require not only large but also survivable arsenals. As 
+such, future long-range strike arsenals must ideally 
+be not only able to threaten the adversary’s missile 
+capabilities but also robust 
+enough to survive an enemy 
+first strike. At present, no 
+European country, including 
+Russia, deploys this kind of 
+long-range strike arsenal.
+Most European states rely 
+on airborne delivery for 
+their existing long-range 
+strike weapons. As long 
+as these aircraft remain 
+grounded and are not on 
+alert, they remain vulnerable 
+to an adversary first strike. 69 
+Europe’s ground-based 
+launchers will likely remain 
+similarly vulnerable unless states invest in hardened 
+infrastructure, including underground storage 
+facilities, to protect them at the outset of a conflict. 
+Submarines are the only truly survivable long-range 
+strike platforms. At present, the United States, France, 
+and the United Kingdom are the only NATO member 
+states that deploy submarine-launched long-range 
+strike weapons. Several other NATO member 
+states are currently considering the acquisition or 
+procurement of submarine-launched long-range 
+Most European states rely 
+on airborne delivery for 
+their existing long-range 
+strike weapons. As long 
+as these aircraft remain 
+grounded and are not 
+on alert, they remain 
+vulnerable to an adversary 
+first strike.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   17  | www.cna.org   
+strike capabilities.70 Until NATO’s submarine-launched 
+long-range strike arsenal grows, especially in Europe, 
+and unless NATO member states invest in the 
+survivability of their other long-range strike assets, 
+they will remain vulnerable to a Russian first strike.71 
+Russia faces the same issues, and a large part of 
+Russian long-range strike capabilities are vulnerable 
+to a NATO conventional first strike. Russia’s inflexibility 
+and rigid command structures, as demonstrated in 
+Ukraine, also raise doubts regarding Russia’s ability to 
+quickly move and relocate its launchers under attack. 
+For example, following the delivery of HIMARS rocket 
+artillery launchers in June 2022, Ukraine managed to 
+destroy dozens of logistics hubs and ammunition 
+depots through M30 and M30 GMLRS strikes before 
+Russia adapted and moved its facilities farther from 
+the front line. Similarly, even though US deliveries 
+of ATACMS were announced several weeks before 
+delivery, Russia failed to move its vulnerable assets in 
+time and adapted to the possibility of ATACMS strikes 
+only once initial damage was taken. 72 The future 
+deployment of ground-based intermediate-range 
+missile systems that were previously banned under 
+the Intermediate-Range Forces Treaty will further 
+reinforce the vulnerability of time-sensitive Russian 
+targets. 
+Overall, NATO’s and Russia’s long-range strike 
+arsenals will likely remain vulnerable. This vulnerability 
+could introduce strong “use them or lose them” 
+pressures into the calculations of decision-makers, 
+leading to the early and large-scale employment of 
+long-range strike weapons in an effort to achieve 
+70  Helfrich, “The Netherlands Is Going to Bet Big;” Jaroslaw Adamowski, “Subs, Cruise Missiles to Drive Poland’s Navy 
+Modernization,” Defense News, Aug. 28, 2017, https://www.defensenews.com/smr/european-balance-of-power/2017/08/28/
+subs-cruise-missiles-to-drive-polands-navy-modernization/; Maksymilian Dura, “Korean Submarine Capable 
+of Carrying Cruise Missiles Offered to Poland,” Defence 24, Dec. 4, 2023, https://defence24.com/industry/
+korean-submarine-capable-of-carrying-cruise-missiles-offered-to-poland. 
+71  Blagden, “Strategic Stability.” 
+72  Jack Watling and Nick Reynolds, “Meatgrinder: Russian Tactics in the Second Year of its Invasion of Ukraine,” pp. 11–14, Royal 
+United Services Institute, May 2023, https://static.rusi.org/403-SR-Russian-Tactics-web-final.pdf. 
+73  Kofman, Fink, and Edmonds, Russian Strategy of Escalation Management.
+74  Kofman, Fink, and Edmonds, Russian Strategy of Escalation Management.
+superiority in the missile domain. Therefore, a conflict 
+between Russia and NATO could escalate rapidly 
+once the initial fighting has begun. Ultimately, being 
+faced with a large-scale missile attack and losing a 
+substantial part of a long-range strike arsenal may 
+pave the way for earlier nuclear use, leaving less time 
+to form and seize off-ramps. 
+Credibility of Russian missile 
+doctrine
+Conventional long-range strike weapons play a key 
+role in Russia’s military strategy. In contrast to the 
+missile doctrine of most NATO states, Russia’s missile 
+doctrine is widely debated inside Russia, and Russian 
+experts have formulated a clear understanding of 
+how they intend to use Russia’s long-range strike 
+arsenal in a conflict with NATO.73 Russia’s long-range 
+strike weapons constitute a central component 
+of its military strategy centered on the notion of 
+escalation control and escalation management.74 The 
+track record of Russian long-range strike weapons in 
+Ukraine and their relative vulnerability to Western air 
+defense systems deployed by the Ukrainian armed 
+forces call into question certain aspects of Russia’s 
+missile doctrine, with important implications for 
+strategic stability. 
+Russia’s military-political thinking is centered on 
+the concept of “strategic deterrence.” This concept 
+encompasses both nonmilitary and military 
+approaches and measures to contain the adversary, 
+manage escalation, and terminate wars. These 
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   18  | www.cna.org   
+measures are implemented during peacetime and 
+war. In times of peace, they aim to prevent direct 
+aggression or the use of military pressure against 
+Russian interests. During wartime, their purpose is 
+to manage escalation, deescalate conflicts, and bring 
+the war to an early end on terms that benefit Russia.75 
+Russian leaders intend to 
+use strategic deterrence to 
+convey their capability to inflict 
+progressively escalating damage 
+on crucial targets. The goal is to 
+signal to the adversary the need 
+to refrain from further aggression, 
+deescalate hostilities, and end the 
+conflict to avoid unacceptable 
+levels of damage. These actions 
+also aim to limit the scope of 
+the conflict and deter third-party 
+intervention, preventing 
+escalation into a large-scale war.76 
+In this strategy, select nuclear 
+and nonnuclear weapons capable 
+of creating strategic-level effects, 
+particularly conventional long-range strike weapons, 
+play a key role. 
+Russian doctrine expects the use of demonstrative, 
+individual, or grouped long-range strikes to 
+systematically increase the inflicted damage on the 
+adversary, forcing the adversary to back down. 77 
+Within this framework, Russian military theorists 
+assert that long-range strike weapons afford Russia 
+the flexibility to precisely engage key structural 
+elements of the adversary with varying intensity for 
+75  Kristin Ven Bruusgaard, “Russian Strategic Deterrence,” Survival 58, no. 4 (2016), pp. 7–26, https://doi-org.ezproxy.uio.no/10.1080
+/00396338.2016.1207945. 
+76  Kofman, Fink, and Edmonds, Russian Strategy of Escalation Management.
+77  Dave Johnson, Russia’s Conventional Precision Strike Capabilities, Regional Crises, and Nuclear Thresholds , Lawrence 
+Livermore National Laboratory – Center for Global Security Research, Feb. 2018, https://cgsr.llnl.gov/content/assets/docs/
+Precision-Strike-Capabilities-report-v3-7.pdf. 
+78  Kofman, Fink, and Edmonds, Russian Strategy of Escalation Management.
+79  This also depends on the density of missile defense assets in the targeted geographical area.
+escalation management purposes. The crucial aspect 
+lies in the targeted nature of the inflicted damage. 78 
+Without the ability to carefully calibrate the pain that 
+the adversary experiences, the perceived ability to 
+control escalation gets lost. 
+The Russia-Ukraine war may render certain aspects 
+of this strategy uncertain, most 
+notably the ability to reliably 
+inflict precise levels of damage 
+to carefully control the speed 
+of escalation and the intensity 
+of conflict. Russian long-range 
+strike weapons have proved 
+less survivable than previously 
+assumed. In particular, Russian 
+subsonic land-attack cruise 
+missiles, which constitute the 
+backbone of Russia’s long-range 
+strike arsenal, have been shot 
+down in substantial numbers. 79 
+To bring even a small number 
+of land-attack cruise missiles to 
+their targets, Russia has to launch 
+large missile volleys. In addition, the Russia-Ukraine 
+war demonstrates that missile defense even 
+against large -scale missile attacks is possible if 
+the defender invests in and deploys a sufficient 
+concentration of relevant missile defense systems 
+as part of an integrated and layered air and missile 
+defense network. 
+This possibility has two implications regarding 
+Russia’s missile-based escalation management 
+strategy. First, under the right circumstances, a 
+Russian leaders 
+intend to use 
+strategic deterrence 
+to convey their 
+capability to inflict 
+progressively 
+escalating damage 
+on crucial targets.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   19  | www.cna.org   
+defender might be able to deny the benefits of 
+Russian missile strikes and completely escape the 
+coercive conundrum they pose, especially if missile 
+defense assets are prepared and in place. Second, 
+the uncertain nature of the damage caused by missile 
+attacks challenges the assumption that the damage 
+inflicted can be carefully scaled and calibrated. In 
+fact, Russian decision-makers may question the 
+ability of single or demonstrative strikes to produce 
+guaranteed effects against a peer competitor such 
+as NATO, even while considering that NATO may be 
+less casualty tolerant than wartime Ukraine. 
+This lack of guaranteed effects has consequences 
+for strategic stability. First, as Western and even 
+Russian analysts have pointed out, Russia’s focus on 
+escalating conflicts early for the sake of deescalating 
+them is potentially destabilizing. There is no 
+guarantee that Western European decision-makers 
+would back down and sue for peace rather than 
+attempt to match Russia’s escalation. The ability to 
+deny this highly destabilizing strategy by means of 
+effective missile defense, therefore, offers stabilizing 
+prospects. Sufficient missile defense may convince 
+Russian decision-makers to forgo such “deescalation 
+strikes” in favor of other, potentially less destabilizing, 
+strategies. On the other hand, the inability to reliably 
+dose the levels of damage inflicted may result in 
+Russian decision-makers rejecting smaller scale strike 
+options in favor of larger scale missile strikes early 
+to achieve an appropriate level of damage. Russian 
+officials may even learn from the Russia-Ukraine 
+war that long-range strike weapons can no longer 
+produce guaranteed effects, incentivizing early 
+tactical nuclear use. Both aspects may undermine 
+crisis stability and could lead to more rapid strategic 
+nuclear use. 
+80  The only missile defense system remotely capable of fulfilling this task reliably is the US Ground-based Midcourse Defense 
+System. “Ground-based Midcourse Defense (GMD) System,” Missile Threat, CSIS Missile Defense Project, June 14, 2018, last modified 
+July 26, 2021, https://missilethreat.csis.org/system/gmd/. 
+81  Acton, “Russia and Strategic Conventional Weapons;” Gormley, “US Advanced Conventional Systems;” Stefanovich, “Proliferation 
+and Threats of Reconnaissance-Strike Systems.”
+Finally, the effectiveness of missile defense in Ukraine 
+may have additional long-term implications for 
+strategic stability related to perceived survivability 
+of strategic nuclear weapon systems. Undoubtedly, 
+defending against incoming strategic nuclear 
+warheads delivered by intercontinental ballistic 
+missiles is significantly more challenging than 
+engaging conventional warheads delivered by 
+long-range drones, cruise missiles, or short-range 
+ballistic missiles. Doing so requires specialized 
+interceptor missiles and enabling ISR capabilities. 80 
+Nevertheless, the track record of nonstrategic 
+missile defense assets in Ukraine will not be ignored 
+by Russian (or Chinese, for that matter) nuclear 
+strategists, who will take these developments into 
+account when deciding on future force posture 
+requirements. Amid a crumbling arms control 
+architecture, the demonstrated effectiveness of 
+missile defense in Ukraine may render future 
+increases of deployed strategic nuclear warheads 
+more likely, creating additional pressures on arms 
+control stability. 
+Feasibility of conventional 
+counterforce
+The war demonstrates that long-range strike 
+weapons have become increasingly potent weapon 
+systems that may be employed for a range of tasks. 
+A major concern of Russian officials and analysts 
+in recent decades has been the substitutability of 
+nuclear weapons for conventional weapon systems 
+in counterforce engagements. 81 According to this 
+argument, the potential vulnerability of nuclear 
+weapons and nuclear weapons–related infrastructure 
+to conventional weapons may increase Russia’s 
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   20  | www.cna.org   
+vulnerability in the nuclear domain and undermine 
+its secured second-strike capability. 
+This fear is not necessarily novel, and the issue was 
+already discussed during the later part of the Cold 
+War when precision-guided weapons first emerged.82 
+The issue came to the forefront in the context of US 
+ambitions relating to the Conventional Prompt Global 
+Strike program and more recently 
+in the context of the deployment 
+and sale of American AGM-158 
+Joint Air-to-Surface Standard 
+Missiles (JASSMs) to US partners 
+and allies around the world, 
+including several NATO allies in 
+Europe.83 The development and 
+deployment of a next generation 
+of advanced conventional 
+weapons, including hypersonic 
+missiles, is aggravating existing 
+conventional counterforce fears, 
+especially when the weapons are 
+considered not in isolation but 
+in combination with increasingly 
+effective strategic and nonstrategic missile defense.84 
+The Russia-Ukraine war is likely to compound 
+preexisting Russian fears regarding the conventional 
+counterforce potential of the United States and 
+its allies. The principal long-range strike weapon 
+employed by Ukraine in this war has been the 
+British-French Storm Shadow/SCALP-EG cruise 
+missile. This cruise missile is equipped with a powerful 
+82  Carl Builder, The Prospects and Implications of Non‑Nuclear Means for Strategic Conflict , International Institute for Strategic 
+Studies, 1985, https://doi-org.ezproxy.uio.no/10.1080/05679328508448692; Carl H. Builder, Strategic Conflict Without Nuclear 
+Weapons, RAND, 1983, https://www.rand.org/pubs/reports/R2980.html; Richard Burt, “Nuclear Proliferation and the Spread of New 
+Conventional Weapons Technology,” International Security 1, no. 3 (1977), pp. 119–139, https://www.jstor.org/stable/2626661. 
+83  Acton, “Russia and Strategic Conventional Weapons;” Gormley, “US Advanced Conventional Systems;” Stefanovich, “Proliferation 
+and Threats of Reconnaissance-Strike Systems.”
+84  Dean Wilkening, “Hypersonic Weapons and Strategic Stability,” Survival 61, no. 5 (2019), pp. 129–148, https://doi-org.ezproxy.
+uio.no/10.1080/00396338.2019.1662125; Tong Zhao, “Conventional Long-range Strike Weapons of US Allies and China’s Concerns of 
+Strategic Instability,” Nonproliferation Review 27, no. 1–3 (2020), pp. 109–122, https://doi-org.ezproxy.uio.no/10.1080/10736700.2020
+.1795368.  
+85  “SCALP EG/Storm Shadow/SCALP Naval/Black Shaheen/APACHE AP.”
+penetrator warhead system capable of engaging 
+and destroying hardened targets, including nuclear 
+assets.85 The missile was developed in the 1990s and 
+entered into service in the early 2000s. As such, the 
+technology behind the missile is some 30 years old, 
+meaning it no longer represents the state of the 
+art by any means. Nevertheless, Russia has proved 
+largely incapable of dealing with this missile. As 
+outlined previously, no confirmed 
+intercepts of the missile system 
+have taken place. At the same 
+time, Storm Shadow/SCALP ‑EG 
+has been capable of reliably 
+engaging and destroying a range 
+of high-value targets with pinpoint 
+accuracy. 
+The performance of Storm Shadow/
+SCALP-EG will cause Russian 
+decision-makers to question 
+what more advanced types of 
+long-range strike weapons are able 
+to do. The JASSM cruise missile 
+largely constitutes a comparable 
+but more modern land-attack cruise missile, 
+especially in terms of its low-observability features 
+that likely make it even more difficult to intercept. 
+In addition, in a broader confrontation with NATO, 
+Russia will not be subjected to only individual and 
+sequential cruise strikes as in Ukraine. Instead, it may 
+face grouped and parallel missile strikes potentially 
+targeting its nuclear infrastructure. 
+The Russia-Ukraine 
+war is likely 
+to compound 
+preexisting Russian 
+fears regarding 
+the conventional 
+counterforce 
+potential of the 
+United States and 
+its allies.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   21  | www.cna.org   
+Russian decision-makers will also be increasingly 
+concerned about substantial increases in allied 
+long-range strike arsenals, as outlined previously. 
+Essentially, Russia’s war of aggression 
+against Ukraine has manifested 
+what Russian analysts and 
+officials have long feared: large 
+numbers of long-range strike 
+weapons at Russia’s doorstep 
+that might be used for 
+counterforce and decapitation 
+purposes, as well as effective 
+missile defense that may 
+undermine the second-strike 
+capability of its nuclear arsenal. 
+Although an argument can 
+be made that a quantitative 
+expansion of long-range 
+strike weapons and missile 
+defense systems in Europe was 
+inevitable in the medium to long 
+term, the current pace at which 
+it is proceeding would not have 
+occurred without Russia’s war 
+of choice in Ukraine.
+The Russia-Ukraine war also provides insights into 
+the ability to defend conventional counterforce 
+strikes. The war has proven that defending against 
+conventional missile capabilities is possible, 
+even under complex strike scenarios. This ability 
+means that although long-range strike weapons 
+may have become a more potent threat in recent 
+years, including to the nuclear assets of a nuclear 
+weapon state, there is growing potential to defend 
+against conventional counterforce strikes. The war 
+demonstrates that it should be possible, in principle, 
+86  Gerry Doyle and Mariano Zafra, “The Air War over Ukraine,” Reuters, Dec. 14, 2023, https://www.reuters.com/graphics/
+UKRAINE-CRISIS/FIGHTER-JETS/jnvwwqyylvw/.  
+87  Russia reportedly already had to redeploy air defense assets from Kaliningrad to backfill losses on the front line. Sofiia Syngaivska, 
+“The UK Defense Intelligence: Russia Deploys Strategic Air Defense Systems from Kaliningrad to Ukraine,” Defense Express, Nov. 26, 
+2023, https://en.defence-ua.com/news/the_uk_defense_intelligence_russia_deploys_strategic_air_defense_systems_from_kaliningrad_
+to_ukraine-8680.html.  
+to effectively defend nuclear silo fields and other 
+types of nuclear assets by protecting them with a 
+layered missile defense shield that protects against 
+different types of conventional threats 
+by means of medium, short, 
+and point missile defense 
+systems. Ukraine’s success in 
+intercepting long-range drones 
+and land-attack cruise missiles 
+with scrambled fighter jets 
+also indicates that protecting 
+nuclear targets with airborne 
+assets is possible, especially if 
+those assets are located deep 
+inland, leaving ample time 
+to scramble fighter jets and 
+bring countermeasures into 
+position.86 
+Although this possibility of 
+defense may be reassuring for 
+Chinese decision-makers who 
+share Russian concerns about 
+the conventional counterforce 
+potential of the United States 
+and its regional allies, Russian decision-makers are 
+unlikely to find it similarly comforting. Their likely 
+continued discomfort is the result of their own 
+experience with missile defense in the war and the 
+challenges that they faced in intercepting Ukrainian 
+and Western long-range strike weapons. In addition, 
+given the substantial losses of air and missile defense 
+systems after two years of fighting in Ukraine, Russia 
+is largely incapable of redeploying missile defense 
+assets from the Ukrainian theater.87 Therefore, Russia 
+will most likely not have the equipment necessary 
+to expand protection of its nuclear infrastructure, 
+The Russia-Ukraine war 
+also provides insights 
+into the ability to 
+defend conventional 
+counterforce strikes. 
+The war has proven 
+that defending against 
+conventional missile 
+capabilities is possible, 
+even under complex 
+strike scenarios.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   22  | www.cna.org   
+even if it wanted to. At least in the short to medium 
+term, Russian decision-makers will likely consider 
+their nuclear weapons capabilities more vulnerable 
+to conventional counterforce attacks. 
+This perception of threat may convince Russian 
+decision-makers that their nuclear arsenal is 
+increasingly vulnerable to both nuclear and 
+conventional attack, resulting in decreased crisis 
+stability. In addition, such a threat perception may 
+render future arms control talks with the United 
+States more difficult or incentivize Russia to invest 
+in the survivability of its arsenal, including by 
+quantitative expansion. 
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   23  | www.cna.org   
+The Russia-Ukraine war marks the first instance of 
+a major inter-state conflict involving the extensive 
+deployment and utilization of long-range strike 
+weapons and nonstrategic missile defense systems. 
+Consequently, it has become a testing ground 
+for advanced offensive and defensive missile 
+technologies, showcasing both their capabilities and 
+limitations.
+As this paper indicates, aspects related to the 
+deployment and use of offensive and defensive 
+missile technologies in the Russia-Ukraine war may 
+negatively affect NATO-Russia strategic stability. 
+These aspects relate to the decreased first-strike 
+stability resulting from the proliferation of long-range 
+strike weapons; the credibility of Russian missile 
+doctrine, which may suffer because of Russia’s 
+long-range strike track record in Ukraine; and the 
+feasibility of successful conventional counterforce 
+engagements, which Russian decision-makers may 
+deem more likely. Overall, these issues could put 
+pressure on crisis and arms race stability in the 
+medium to long term and increase the likelihood of 
+strategic nuclear exchanges in future conflict.  
+Can adverse strategic stability implications related 
+to the deployment and use of long-range strike 
+weapons and missile defense systems in Ukraine be 
+mitigated? Such mitigation will be difficult, at least 
+in the near future. Long-range strike weapons and 
+missile defense have emerged as core capabilities 
+of modern war. NATO states will not want to forgo 
+these critical weapon systems in favor of distant 
+prospects related to increased strategic stability, nor 
+should they. Nevertheless, retaining an awareness 
+about how the proliferation, deployment, and use of 
+new capabilities, including in the conventional realm, 
+shape the conduct of nuclear strategy is important. 
+CONCLUSION
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   24  | www.cna.org   
+“3M-14 Kalibr (SS-N-30A).” Missile Threat, CSIS 
+Missile Defense Project. Aug. 11, 2016, last 
+modified Mar. 7, 2022. https://missilethreat.
+csis.org/missile/ss-n-30a/.
+Acton, James. “Russia and Strategic Conventional 
+Weapons: Concerns and Responses.” 
+Nonproliferation Review 22, no. 2 (2015): 
+141–154. https://doi.org/10.1080/10736700.2
+015.1105434.
+Acton, James. “Reclaiming Strategic Stability.” In 
+Strategic Stability: Contending Interpretations. 
+Edited by Elbridge A. Colby and Michael S. 
+Gerson. Carlisle, PA: US Army War College 
+Press, 2013, 117–146. https://apps.dtic.mil/sti/
+pdfs/ADA572928.pdf.
+Adamowski, Jaroslaw. “Subs, Cruise Missiles to Drive 
+Poland’s Navy Modernization.” Defense News. 
+Aug. 28, 2017. https://www.defensenews.com/
+smr/european-balance-of-power/2017/08/28/
+subs-cruise-missiles-to-drive-polands-
+navy-modernization/.
+Alberque, William, Douglas Barrie, Zuzanna 
+Gwadera, and Timothy Wright. Russia’s 
+War in Ukraine: Ballistic and Cruise 
+Trajectories. International Institute for 
+Strategic Studies. Oct. 5, 2023. https://
+www.iiss.org/research-paper/2023/10/
+russias-war-in-ukraine-ballistic-and-cruise-tra
+jectories/. 
+Altman, Howard. “Russia’s Shahed-136 Drones Now 
+Feature Tungsten Shrapnel.” The War Zone. 
+Sept. 28, 2023. https://www.thedrive.com/
+the-war-zone/russias-shahed-136-drones-no
+w-feature-tungsten-shrapnel.
+Altman, Howard. “Ukraine Using Land Attack Variant 
+of Neptune Anti-Ship Missile.” The War Zone. 
+Aug. 29, 2023. https://www.thedrive.com/
+the-war-zone/ukraine-now-using-land-attack-
+neptune-anti-ship-missile-variant.  
+“Another Mass Attack on Monday Morning: 
+Russia Hits Energy Infrastructure Across 
+Ukraine.” Kyiv Independent. Oct. 31, 2022. 
+https://kyivindependent.com/another-
+mass-attack-on-monday-morning-russias-hits
+-energy-infrastructure-across-ukraine/.
+“The Arms and Military Equipment Germany 
+Is Sending to Ukraine.” German Federal 
+Government. Jan. 4, 2024. https://www.
+bundesregierung.de/breg-en/news/
+military-support-ukraine-2054992.
+Axe, David. “After a Six-Month Lull, the Ukrainians 
+Are Lobbing Tochka Ballistic Missiles 
+Again.” Forbes. Nov. 23, 2023. https://www.
+forbes.com/sites/davidaxe/2023/11/23/
+after-a-six-month-lull-the-ukrainians-are-lob
+bing-tochka-ballistic-missiles-again/?sh=7d0c
+b22f7adb. 
+REFERENCES
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   25  | www.cna.org   
+Axe, David. “A Ukrainian Cruise Missile with a 
+Special Warhead Blew Up That Russian 
+Submarine from the Inside.” Forbes. 
+Sept. 18, 2023. https://www.forbes.com/
+sites/davidaxe/2023/09/18/a-ukrainia
+n-cruise-missile-with-a-special-warhe
+ad-blew-up-that-russian-submarine-
+from-the-inside/?sh=64d95cc25efd.
+Bachega, Hugo, and Yaroslav Lukov. “Ukraine War: 
+Blackouts in 1,162 Towns and Villages After 
+Russia Strikes.” BBC. Oct. 18, 2022. https://
+www.bbc.com/news/world-europe-63297239.
+Baldor, Lolita C. “Pentagon’s ‘FrankenSAM’ Program 
+Cobbles Together Air Defense Weapons for 
+Ukraine.” Associated Press. Oct. 12, 2023. 
+https://apnews.com/article/ukraine-russia-
+war-military-missiles-16c344bdba2e0695a228
+6a55d9614ff4.
+Blagden, David. “Strategic Stability and the 
+Proliferation of Conventional Precision 
+Strike: A (Bounded) Case for Optimism?” 
+Nonproliferation Review 27, no. 1–3 (2020): 
+123–136. https://doi-org.ezproxy.uio.no/10.10
+80/10736700.2020.1799569. 
+Bronk, Justin. “Is the Russian Air Force Actually 
+Incapable of Complex Air Operations?” 
+RUSI. Mar. 4, 2022. https://www.rusi.
+org/explore-our-research/publications/
+rusi-defence-systems/russian-air-force-
+actually-incapable-complex-air-operations. 
+Bronk, Justin. “The Mysterious Case of the Missing 
+Russian Air Force.” RUSI. Feb. 28, 2022. 
+https://rusi.org/explore-our-research/
+publications/commentary/mysterious-case-
+missing-russian-air-force.
+Builder, Carl. The Prospects and Implications of 
+Non‑Nuclear Means for Strategic Conflict. 
+International Institute for Strategic 
+Studies. 1985. https://doi-org.ezproxy.uio.
+no/10.1080/05679328508448692.
+Builder, Carl H. Strategic Conflict Without Nuclear 
+Weapons. RAND. 1983. https://www.rand.org/
+pubs/reports/R2980.html.
+Burt, Richard. “Nuclear Proliferation and the Spread 
+of New Conventional Weapons Technology.” 
+International Security 1, no. 3 (1977): 119–139. 
+https://www.jstor.org/stable/2626661. 
+Calibre Obscura (@CalibreObscura). “Pantsir-S1 
+can’t even intercept a Storm Shadow 
+even when it has it locked on thermals.” 
+Post. X. June 22, 2023, 3:35 p.m. 
+https://twitter.com/CalibreObscura/
+status/1671965086959673357.
+Chesnut, Mary. US/NATO‑Russian Strategic Stability 
+and the War in Ukraine. CNA. IOP-2023-U-
+035792-Final. June 2023. https://www.cna.org/
+reports/2023/06/us-nato-russian-strategic-
+stability-in-ukraine.
+Cirincione, Joe. “In Ukraine, a New Chance to Judge 
+the Patriot Missile.” Defense One. May 5, 2023. 
+https://www.defenseone.com/ideas/2023/05/
+ukraine-another-chance-judge-patriot-missi
+le/386036/.  
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   26  | www.cna.org   
+Colby, Elbridge A. “Defining Strategic Stability: 
+Reconciling Stability and Deterrence.” In 
+Strategic Stability: Contending Interpretations. 
+Edited by Eldridge A. Colby and Michael S. 
+Gerson. Carlisle, PA: US Army War College 
+Press, 2013, 47–84. https://apps.dtic.mil/sti/
+pdfs/ADA572928.pdf.
+Doyle, Gerry, and Mariano Zafra. “The Air War over 
+Ukraine.” Reuters. Dec. 14, 2023. https://
+www.reuters.com/graphics/UKRAINE-CRISIS/
+FIGHTER-JETS/jnvwwqyylvw/.  
+Dura, Maksymilian. “Korean Submarine Capable of 
+Carrying Cruise Missiles Offered to Poland.” 
+Defence 24. Dec. 4, 2023. https://defence24.
+com/industry/korean-submarine-capable-of-c
+arrying-cruise-missiles-offered-to-poland. 
+“European Sky Shield – An Overview of the 
+Initiative” [European Sky Shield – Die Initiative 
+im Überblick]. Federal Ministry of Defense 
+Germany. https://www.bmvg.de/de/aktuelles/
+european-sky-shield-die-initiative-im-
+ueberblick-5511066. 
+Fisher, Max. “Did American Missile Defense 
+Fail in Saudi Arabia?” New York Times. 
+Dec. 4, 2017. https://www.nytimes.com/
+interactive/2017/12/04/world/middleeast/
+saudi-missile-defense.html.  
+Futter, Andrew, and Benjamin Zala. “Advanced 
+US Conventional Weapons and Nuclear 
+Disarmament: Why the Obama Plan Won’t 
+Work.” Nonproliferation Review 20, no. 1 
+(2013): 107–122. https://doi.org/10.1080/1073
+6700.2012.761790.
+Futter, Andrew, and Benjamin Zala. “Strategic 
+Non-Nuclear Weapons and the Onset of 
+a Third Nuclear Age.” European Journal of 
+International Security 6, no. 3 (2021): 257–277. 
+https://doi.org/10.1017/eis.2021.2.
+Gabel, Barbara. “‘A Strong Gesture:’ French Delivery 
+of SCALP Missiles to Ukraine Marks Shift in 
+Western Strategy.” France 24. July 13, 2023. 
+https://www.france24.com/en/europe/202307
+13-a-strong-gesture-french-delivery-of-scalp
+-missiles-to-ukraine-marks-shift-in-western-s
+trategy.
+Gormley, Dennis M. “US Advanced Conventional 
+Systems and Conventional Prompt Global 
+Strike Ambitions: Assessing the Risks, 
+Benefits, and Arms Control Implications.” 
+Nonproliferation Review 22, no. 2 (2015): 
+123–139. https://doi.org/10.1080/10736700.2
+015.1117735.
+“Ground-based Midcourse Defense (GMD) 
+System.” Missile Threat, CSIS Missile Defense 
+Project. June 14, 2018, last modified July 26, 
+2021. https://missilethreat.csis.org/system/
+gmd/. 
+Harding, Luke, Dan Sabbagh, and Isobel Koshiw. 
+“Russia Targets Ukraine Energy and 
+Water Infrastructure in Missile Attacks.” 
+Guardian. Oct. 31, 2022. https://www.
+theguardian.com/world/2022/oct/31/
+russian-missiles-kyiv-ukraine-cities. 
+Helfrich, Emma. “The Netherlands Is Going to Bet 
+Big on Long-range Weapons.” The War Zone. 
+Apr. 3, 2023. https://www.thedrive.com/
+the-war-zone/the-netherlands-is-going-to-
+bet-big-on-long-range-weapons.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   27  | www.cna.org   
+Hoffmann, Fabian. Cruise Missile Proliferation: 
+Trends, Strategic Implications, and 
+Counterproliferation. European Leadership 
+Network. Mar. 2021. https://www.
+europeanleadershipnetwork.org/report/
+cruise-missile-proliferation-trends-strategic-
+implications-and-counterproliferation/.
+Hoffmann, Fabian. “Europe’s Missile Conundrum.” 
+War on the Rocks. July 25, 2023. https://
+warontherocks.com/2023/07/europes-missile-
+conundrum/.
+Hoffmann, Fabian. Strategic Non‑Nuclear Weapons 
+and Strategic Stability – Promoting Trust 
+Through Technical Understanding. Fondation 
+pour la Recherche Stratégique. Nov. 2021. 
+https://www.frstrategie.org/en/programs/npt-
+and-the-p5-process/strategic-non-nuclear-
+weapons-and-strategic-stability-promoting-
+trust-through-technical-understanding-2021. 
+Hoffmann, Fabian (@FRHoffmann1). “First pictures 
+of a downed Storm Shadow.” Post. X. July 
+4, 2023, 6:07 a.m. https://twitter.com/
+FRHoffmann1/status/1676170771507433472. 
+Hoffmann, Fabian (@FRHoffmann1). “There is 
+no reason to assume that Russian S-300s 
+cannot intercept Storm Shadows.” Post. X. 
+May 11, 2023, 9:34 a.m. https://twitter.com/
+FRHoffmann1/status/1656653906091573251.
+Hoffmann, Fabian, and William Alberque. Non‑
+Nuclear Weapons with Strategic Effect: New 
+Tools of Warfare? International Institute for 
+Strategic Studies. Mar. 2022. https://www.iiss.
+org/research-paper/2022/03/non-nuclear-
+weapons-with-strategic-effect-new-tools-of-
+warfare/. 
+“How Ukraine Tamed Russian Missile Barrages 
+and Kept the Lights on.” Economist. Mar. 
+12, 2023. https://www.economist.com/
+europe/2023/03/12/how-ukraine-tamed-
+russian-missile-barrages-and-kept-the-lights-
+on.  
+Hudson, John. “Ukraine Lures Russian Missiles 
+with Decoys of US Rocket System.” 
+Washington Post. Aug. 30, 2022. https://www.
+washingtonpost.com/world/2022/08/30/
+ukraine-russia-himars-decoy-artillery/. 
+Jacobsen, Mark. “Ukraine’s Drone Strikes Are 
+a Window into the Future of Warfare.” 
+Atlantic Council. Sept. 14, 2023. https://www.
+atlanticcouncil.org/blogs/new-atlanticist/
+ukraines-drone-strikes-are-a-window-into-
+the-future-of-warfare/.
+Johnson, Dave. Russia’s Conventional Precision 
+Strike Capabilities, Regional Crises, and 
+Nuclear Thresholds. Lawrence Livermore 
+National Laboratory – Center for Global 
+Security Research. Feb. 2018. https://cgsr.llnl.
+gov/content/assets/docs/Precision-Strike-
+Capabilities-report-v3-7.pdf. 
+Johnson, Shawn. “Defense Expert Says Russia’s 
+Position ‘Never Looked Weaker’ After Ukraine 
+Downed Putin’s ‘Invincible’ Missiles.” Business 
+Insider. May 20, 2023. https://biz.crast.net/
+defense-expert-says-russias-position-never-
+looked-weaker-after-ukraine-downed-putins-
+invincible-missiles/.  
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   28  | www.cna.org   
+“Joint Procurement Makes Baltic Defensive 
+Capabilities More Robust.” Ministry of 
+National Defence, Republic of Lithuania. Mar. 
+28, 2023. https://kam.lt/en/joint-procurement-
+makes-baltic-defensive-capabilities-more-
+robust/. 
+“Kh-101/Kh-102.” Missile Threat, CSIS Missile 
+Defense Project. Oct. 26, 2017, last modified 
+July 31, 2021. https://missilethreat.csis.org/
+missile/kh-101-kh-102/.
+“Kh-47M2 Kinzhal.” Missile Threat, CSIS Missile 
+Defense Project. Mar. 27, 2018, last modified 
+Mar. 19, 2022. https://missilethreat.csis.org/
+missile/kinzhal/.
+“Kh-55 (AS-15).” Missile Threat, CSIS Missile 
+Defense Project. Aug. 10, 2016, last modified 
+Aug. 2, 2021. https://missilethreat.csis.org/
+missile/kh-55/.
+Khoo, Nicholas, and Reuben Steff. “‘This Program 
+Will Not Be a Threat to Them:’ Ballistic Missile 
+Defense and US Relations with Russia and 
+China.” Defense & Security Analysis 30, no. 1 
+(2014): 17–28. https://doi.org/10.1080/147517
+98.2013.864869.
+Kluth, Andreas. “Russia’s ‘Human Wave Attacks’ Are 
+Another Step into Hell.” Washington Post. Feb. 
+14, 2023. https://www.washingtonpost.com/
+business/russias-human-wave-attacks-are-
+another-stepinto-hell/2023/02/14/574e7202-
+ac27-11ed-b0ba-9f4244c6e5da_story.html.
+Kofman, Michael, Anya Fink, and Jeffrey Edmonds. 
+Russian Strategy of Escalation Management: 
+Evolution of Key Concepts. CNA. DRM-2019-
+U-022455-1Rev. Apr. 2020. https://www.cna.
+org/reports/2020/04/russian-strategy-for-
+escalation-management-key-concepts.
+Korshak, Stefan. “Russian Glider Bombs Are Hitting 
+Ukrainian Positions with Impunity.” Kyiv Post. 
+Oct. 10, 2023. https://www.kyivpost.com/
+post/22570.
+Kottasová, Ivana, Olga Voitovich, Mick Krever, Alex 
+Marquardt, Scott McWhinnie, and Sebastian 
+Shukla. “Ukrainian Air Defenses in Odesa 
+Outgunned as Russia Targets Global Grain 
+Supply.” CNN. July 21, 2023. https://edition.
+cnn.com/2023/07/20/europe/ukraine-air-
+defenses-odesa-russia-strikes-grain-intl/index.
+html.
+Lewis, Jeffrey. “Patriot Missiles Are Made in America 
+and Fail Everywhere.” Foreign Policy. Mar. 28, 
+2018. https://foreignpolicy.com/2018/03/28/
+patriot-missiles-are-made-in-america-and-
+fail-everywhere/.
+“MGM-140 Army Tactical Missile System (ATACMS).” 
+Missile Threat, CSIS Missile Defense Project. 
+Nov. 30, 2016, last modified July 31, 2021. 
+https://missilethreat.csis.org/missile/atacms/.
+Newdick, Thomas. “Black Sea Fleet Headquarters 
+Takes Direct Hit from Cruise Missile.” The 
+War Zone. Sept. 22, 2023. https://www.
+thedrive.com/the-war-zone/black-sea-fleet-
+headquarters-takes-direct-hit-from-cruise-
+missile.  
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   29  | www.cna.org   
+Newdick, Thomas. “Russia Now Firing S-300 
+Surface-to-Air Missiles at Land Targets in 
+Ukraine: Official.” The War Zone. July 8, 2022. 
+https://www.thedrive.com/the-war-zone/
+russia-now-firing-s-300-surface-to-air-
+missiles-at-land-targets-in-ukraine-official.
+Newdick, Thomas. “SU-24 Fencer Is Ukraine’s Storm 
+Shadow Missile Carrier.” The War Zone. May 
+24, 2023. https://www.thedrive.com/the-war-
+zone/su-24-fencer-is-ukraines-storm-shadow-
+missile-carrier.
+Noorman, Randy. “The Russian Way of War in 
+Ukraine: A Military Approach Nine Decades in 
+the Making.” Modern War Institute. June 15, 
+2023. https://mwi.westpoint.edu/the-russian-
+way-of-war-in-ukraine-a-military-approach-
+nine-decades-in-the-making/. 
+Panella, Chris. “Shooting Down Russia’s Overhyped 
+Missiles with Patriots Is a Win for More Than 
+Just Ukraine. The War Is an ‘Intelligence 
+Bonanza’ for the West.” Business Insider. Jan. 
+4, 2024. https://www.businessinsider.com/
+western-weapons-wins-against-russia-are-
+intelligence-bonanza-2024-1?r=US&IR=T.
+Peck, Michael. “Storm Shadow Missiles Give 
+Ukraine ‘a Much Longer Stick,’ but Russia 
+Is Already Learning to Adapt, Expert Says,” 
+Business Insider, July 31, 2023, https://www.
+businessinsider.com/ukraine-storm-shadow-
+effective-long-range-missile-but-russia-
+adapts-2023-7?utm_source=copy-link&utm_
+medium=referral&utm_content=topbar. 
+Pemble, Adam. “US-Made Patriot Guided Missile 
+Systems Arrive in Ukraine.” Associated Press. 
+Apr. 20, 2023. https://apnews.com/article/
+russia-ukraine-war-patriot-missile-system-4c7
+9f9110899ca1880a61f2d1f328179.
+Plichta, Marcel. “Ukraine Vows to Strike Back If 
+Russia Resumes Energy Infrastructure Attacks.” 
+Atlantic Council. Nov. 16, 2023. https://
+www.atlanticcouncil.org/blogs/ukrainealert/
+ukraine-vows-to-strike-back-if-russia-
+resumes-energy-infrastructure-attacks/.
+“Russia Salvages Landing Ship Hit by Ukraine 
+Missile Fire.” BBC. July 2, 2022. https://www.
+bbc.com/news/world-europe-62022476.
+“Russia’s Kh-22 – the Missile Ukraine Has Yet to 
+Shoot Down.” Kyiv Post. Dec. 29, 2023. https://
+www.kyivpost.com/post/26102.
+“SCALP EG/Storm Shadow/SCALP Naval/Black 
+Shaheen/APACHE AP.” Missile Threat, CSIS 
+Missile Defense Project. Dec. 2, 2016, last 
+modified Sept. 20, 2023. https://missilethreat.
+csis.org/missile/apache-ap/.  
+Sciutto, Jim. “Britain Has Delivered Long-range 
+‘Storm Shadow’ Cruise Missiles to Ukraine 
+Ahead of Expected Counteroffensive, Sources 
+Say.” CNN. May 12, 2023. https://edition.cnn.
+com/2023/05/11/politics/uk-storm-shadow-
+cruise-missiles-ukraine/index.html.  
+Shagina, Maria. “Why Can’t the West Stop 
+Supplying Technology for Russian Weapons?” 
+Foreign Policy. Nov. 9, 2023. https://
+foreignpolicy.com/2023/11/09/russia-
+sanctions-weapons-technology-exports-
+evasion-arms-production-missiles-chips/.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   30  | www.cna.org   
+Sitnikova, Iryna. “The Ministry of Defense of the 
+Russian Federation Acknowledged the Attacks 
+on Its Military Airfields. Blames Ukraine” 
+[Міноборони рф визнало удари по своїх 
+військових аеродромах. Звинувачує 
+Україну]. Hromadske. Dec. 5, 2022. https://
+hromadske.ua/posts/minoboroni-rf-viznalo-
+udari-po-svoyih-vijskovih-aerodromah-
+zvinuvachuye-ukrayinu. 
+Sonne, Paul, Isabelle Khurshudyan, Serhiy 
+Morgunov, and Kostiantyn Khudov. 
+“Battle For Kyiv: Ukrainian Valor, Russian 
+Blunders Combined to Save the Capital.” 
+Washington Post. Aug. 24, 2023. https://
+www.washingtonpost.com/national-security/
+interactive/2022/kyiv-battle-ukraine-survival/.  
+Spencer, Thomas. “Can UK’s Storm Shadow Missiles 
+Change Ukraine’s Fight Against Russia?” BBC. 
+June 6, 2023. https://www.bbc.com/news/
+world-europe-65813770.
+Stefanovich, Dmitry. “Proliferation and Threats of 
+Reconnaissance-Strike Systems: A Russian 
+Perspective.” Nonproliferation Review 27, no. 
+1–3 (2020): 97–107. https://doi.org/10.1080/1
+0736700.2020.1795370.
+Syngaivska, Sofiia. “The UK Defense Intelligence: 
+Russia Deploys Strategic Air Defense Systems 
+from Kaliningrad to Ukraine.” Defense Express. 
+Nov. 26, 2023. https://en.defence-ua.com/
+news/the_uk_defense_intelligence_russia_
+deploys_strategic_air_defense_systems_from_
+kaliningrad_to_ukraine-8680.html.  
+Trevithick, Joseph. “Full Devastation from Cruise 
+Missile Attack on Russian Ship Comes into 
+View.” The War Zone. Dec. 27, 2023. https://
+www.thedrive.com/the-war-zone/full-
+devastation-from-cruise-missile-attack-on-
+russian-ship-coming-into-view.
+Trevithick, Joseph. “Russian Kh-101 Cruise Missile 
+Filmed Firing-Off Decoy Flares.” The War 
+Zone. Dec. 29, 2023. https://www.thedrive.
+com/the-war-zone/russian-kh-101-cruise-
+missile-filmed-firing-off-decoy-flares.
+Trevithick, Joseph, and Tyler Rogoway. “Destruction 
+from Ukraine’s First ATACMS Strike Now 
+Apparent.” The War Zone. Oct. 18, 2023. 
+https://www.thedrive.com/the-war-zone/
+destruction-from-ukraines-first-atacms-strike-
+now-apparent.  
+“Ukraine Unable to Shoot Down Kh-22 Missiles, 
+Says Air Force.” The New Voice of Ukraine. 
+Jan. 15, 2023. https://english.nv.ua/nation/air-
+defense-cannot-shoot-down-russian-kh-22-
+missiles-ukraine-war-50297621.html.
+“Ukraine’s Mobile Air Defences Have Ammo for 
+‘Few More Attacks:’ Commander.” France 24. 
+Jan. 4, 2024. https://www.france24.com/en/
+live-news/20240104-ukraine-s-mobile-air-
+defences-have-ammo-for-few-more-attacks-
+commander.
+US Defense Intelligence Agency. Iranian UAVs in 
+Ukraine: A Visual Comparison. Aug. 2023. 
+https://www.dia.mil/Portals/110/Documents/
+News/Military_Power_Publications/UAV_Book.
+pdf.
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   31  | www.cna.org   
+“US-Supplied ATACMS Enter the Ukraine War.” 
+Reuters. Oct. 19, 2023. https://www.reuters.
+com/world/atacms-us-may-send-ukraine-
+their-cluster-bomb-payloads-2023-10-19/. 
+Ven Bruusgaard, Kristin. “Russian Strategic 
+Deterrence.” Survival 58, no. 4 (2016): 7–26. 
+https://doi-org.ezproxy.uio.no/10.1080/00396
+338.2016.1207945.
+Watling, Jack, and Nick Reynolds. “Meatgrinder: 
+Russian Tactics in the Second Year of its 
+Invasion of Ukraine.” pp. 11–14, Royal United 
+Services Institute. May 2023. https://static.rusi.
+org/403-SR-Russian-Tactics-web-final.pdf.
+Wilkening, Dean. “Hypersonic Weapons and 
+Strategic Stability.” Survival 61, no. 5 (2019): 
+129–148. https://doi-org.ezproxy.uio.no/10.10
+80/00396338.2019.1662125;
+Williams, Ian. “Russia Isn’t Going to Run Out 
+of Missiles.” Center for Strategic and 
+International Studies. June 28, 2023. https://
+www.csis.org/analysis/russia-isnt-going-run-
+out-missiles. 
+“Zelensky: Newly-Delivered NASAMS Systems 
+Enter Service in Ukraine.” Kyiv Independent. 
+Nov. 7, 2023. https://kyivindependent.com/
+zelensky-newly-delivered-nasams-systems-
+enter-service-in-ukraine/#:~:text=The%20
+NASAMS%20systems%20have%20been,to%20
+deliver%20two%20more%20launchers. 
+Zhao, Tong. “Conventional Long-range Strike 
+Weapons of US Allies and China’s Concerns of 
+Strategic Instability.” Nonproliferation Review 
+27, no. 1–3 (2020): 109–122. https://doi-org.
+ezproxy.uio.no/10.1080/10736700.2020.1795
+368.  
+Zhirohov, Mikhail. “Ukraine Adopts Neptune 
+Coastal Defence Missile.” Janes. Aug. 27, 
+2020. https://www.janes.com/defence-news/
+news-detail/ukraine-adopts-neptune-coastal-
+defence-missile. 
+
+Strategic Stability and the Ukraine War
+Implications of Conventional Missile Technologies
+   32  | www.cna.org   
+PAGE INTENTIONALLY BLANK
+
+This report was written by CNA’s Strategy, Policy, Plans, and Programs Division (SP3).
+SP3 provides strategic and political-military analysis informed by regional expertise to support operational and policy-
+level decision-makers across the Department of the Navy, the Office of the Secretary of Defense, the unified combatant 
+commands, the intelligence community, and domestic agencies. The division leverages social science research methods, 
+field research, regional expertise, primary language skills, Track 1.5 partnerships, and policy and operational experience 
+to support senior decision-makers.
+Any copyright in this work is subject to the Government’s Unlimited Rights license as defined in DFARS 252.227-7013 and/or DFARS 252.227-
+7014. The reproduction of this work for commercial purposes is strictly prohibited. Nongovernmental users may copy and distribute this document 
+noncommercially, in any medium, provided that the copyright notice is reproduced in all copies. Nongovernmental users may not use technical 
+measures to obstruct or control the reading or further copying of the copies they make or distribute. Nongovernmental users may not accept 
+compensation of any manner in exchange for copies.
+All other rights reserved. The provision of this data and/or source code is without warranties or guarantees to the Recipient Party by the Supplying 
+Party with respect to the intended use of the supplied information. Nor shall the Supplying Party be liable to the Recipient Party for any errors or 
+omissions in the supplied information.
+This report may contain hyperlinks to websites and servers maintained by third parties. CNA does not control, evaluate, endorse, or guarantee content 
+found in those sites. We do not assume any responsibility or liability for the actions, products, services, and content of those sites or the parties that 
+operate them.
+ABOUT CNA  
+CNA is a nonprofit research and analysis organization dedicated to the safety and security of the nation. It operates the 
+Center for Naval Analyses—the federally funded research and development center (FFRDC) of the Department of the 
+Navy—as well as the Institute for Public Research. CNA develops actionable solutions to complex problems of national 
+importance. With nearly 700 scientists, analysts, and professional staff, CNA takes a real-world approach to gathering 
+data. Its unique Field Program places analysts on aircraft carriers and military bases, in squad rooms and crisis centers, 
+working side by side with operators and decision-makers around the world. CNA supports naval operations, fleet 
+readiness, and strategic competition. Its non-defense research portfolio includes criminal justice, homeland security, 
+and data management.
+
+www.cna.org
+IOP-2024-U-037683-Final © 2024 CNA Corporation

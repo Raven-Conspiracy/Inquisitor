@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: 64th Helicopter Regiment (MD-500D) (ELITE / first-tier)
+
+**Unit ID**: kpaf_rgt_64_md500
+**Type**: fighter_brigade
+**Headquarters**: Pukchang East airbase, South Pyongan Province
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: 5th Transport Division (kpaf_5td)
+**Higher echelon**: Korean People's Army Air Force (Konggun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 60.0%
+**Notes**: ELITE SOF SUPPORT. 84 MD-500D helicopters illegally obtained via West German merchants through Soviet vessels in 1980s circumventing US export controls. Some equipped with Soviet AT-3 Sagger ATGMs. Used for SOF airmobile infiltration (range 600km per 4 troops). [Wikipedia KPAF; FAS KPA Guide Part 3]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

@@ -1,0 +1,12 @@
+# Chinese PLA — Group Army / Fleet / Base: 79th Group Army (第七十九集团军)
+
+**Unit ID**: 79ga
+**Service**: PLAA
+**Type**: group_army
+**Headquarters**: Liaoyang
+**Parent**: Northern Theater Command (北部战区) (ntc)
+**Strength (% authorized)**: 100%
+**Notes**: Formerly 39th Group Army (Shenyang MR); redesignated Apr 2017. Has 4 armored brigades; 79th Special Forces Brigade 'Amur Tigers'. [DOD CMPR 2024 p.97] [Wikipedia 79th GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

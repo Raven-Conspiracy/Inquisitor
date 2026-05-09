@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: III Corps (3rd Corps)
+
+**Unit ID**: corps_3
+**Service**: KPA Ground Forces
+**Type**: corps
+**Headquarters**: Sariwon or Wonsan region (approximate)
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 70.0%
+**Notes**: Second-echelon conventional corps. Coastal/rear-area sector. Sub-unit composition unknown. [Wikipedia KPAGF; DIA NKMP 2021]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Pukguksong-2 (KN-15) Solid MRBM Brigade (ELITE / first-tier)
+
+**Unit ID**: strat_mrbm_bde_pk2
+**Type**: rocket_brigade
+**Headquarters**: Northern border bases (replacing Hwasong-7 positions per Wikipedia)
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: Strategic Force MRBM/IRBM Brigade Group (Hwasong-7/12/Pukguksong-2) (strat_mrbm_bde_group)
+**Higher echelon**: KPA Strategic Force / Missile General Bureau (Jeonnyakgun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 88.0%
+**Notes**: ELITE. 7+ launchers deployed. Solid-fueled (1,200-3,000km range). Deployed to northern border in missile bases alongside Hwasong-7. [Wikipedia Strategic Force]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

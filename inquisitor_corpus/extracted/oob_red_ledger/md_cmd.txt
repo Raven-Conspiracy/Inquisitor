@@ -1,0 +1,13 @@
+# Russian Military District — Central Military District
+
+**District ID**: CMD
+**Headquarters**: Yekaterinburg
+**Commander (as of 2026-04-10)**: Col Gen Valery Solodchuk
+**Map color code**: #1a5c3a
+
+## Subordinate Field Armies / Corps
+- **2nd Guards Combined Arms Army** (2gca) — type: combined_arms_army, HQ: Samara, strength: 60.0%. Deployed Kupyansk sector
+- **41st Guards Combined Arms Army** (41gca) — type: combined_arms_army, HQ: Novosibirsk, strength: 58.0%. Deployed Central Donetsk
+- **3rd Army Corps** (3ac) — type: army_corps, HQ: Mulino, strength: 50.0%. Reserve / mobilization corps; heavy attrition
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:MD] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

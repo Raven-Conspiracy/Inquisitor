@@ -1,0 +1,12 @@
+# Chinese PLA — Group Army / Fleet / Base: PLA Aerospace Force (航天部队)
+
+**Unit ID**: pla_asf
+**Service**: PLASSF
+**Type**: air_force_base
+**Headquarters**: Beijing
+**Parent**: Central Theater Command (中部战区) (ctc)
+**Strength (% authorized)**: 100%
+**Notes**: Established April 19, 2024 from PLASSF Aerospace Systems Department. Commands PLA space forces (reconnaissance, navigation, communications satellites, ASAT). Deputy Theater Command Leader grade; directly under CMC. [PLASSF was disbanded 2024-04-19] [Air University CASI 2024-04-22]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

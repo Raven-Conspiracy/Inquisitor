@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 111th Aviation Brigade (J-20) (ELITE / first-tier)
+
+**Unit ID**: wtcaf_111bde
+**Type**: fighter_brigade
+**Headquarters**: Korla Air Base, Xinjiang
+**Parent**: Group Army / Fleet / Base: Western Theater Command Air Force (西部战区空军) (wtcaf)
+**Higher echelon**: Western Theater Command (西部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: J-20; adopted 2022. Notable deployment to Xinjiang; counterterrorism/border deterrence role. [CASI J-20 Status 2024-04-29]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

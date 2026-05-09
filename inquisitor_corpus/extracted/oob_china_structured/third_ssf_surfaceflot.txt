@@ -1,0 +1,16 @@
+# Chinese PLA — Brigade / Division / Flotilla: South Sea Fleet Destroyer/Frigate/Carrier Flotilla
+
+**Unit ID**: ssf_surfaceflot
+**Type**: surface_flotilla
+**Headquarters**: Zhanjiang/Sanya
+**Parent**: Group Army / Fleet / Base: Southern Theater Command Fleet (South Sea Fleet, 南部战区海军) (ssf_plan)
+**Higher echelon**: Southern Theater Command (南部战区)
+**Elite designation**: No
+**Strength (% authorized)**: 100%
+**Notes**: Houses Shandong (CV-17 Type 002, commissioned 2019) and Fujian (CV-18 Type 003, commissioned Nov 2025). 4 Type 055 DDGs at Sanya/Longpo. Type 071 LPD, Type 075 LHD. [NavalNews 2026-01-03] [DOD CMPR 2024 p.45] [Wikipedia Chinese carrier programme]
+
+## Authorized Equipment (estimated)
+- **destroyer** — Type 055 Renhai, Type 052DL — authorized: 6, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

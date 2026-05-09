@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 8th Heavy Combined Arms Brigade (ELITE / first-tier)
+
+**Unit ID**: 78ga_8cab
+**Type**: heavy_combined_arms_bde
+**Headquarters**: Harbin area
+**Parent**: Group Army / Fleet / Base: 78th Group Army (第七十八集团军) (78ga)
+**Higher echelon**: Northern Theater Command (北部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: Type 99A MBTs. First-tier heavy armor. [Wikipedia 78th GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 65th Airborne Special Forces Brigade (NOHED) (ELITE / first-tier)
+
+**Unit ID**: bde65_nohed
+**Type**: airborne
+**Headquarters**: Tehran City, Tehran Province
+**Parent**: Service Branch: Islamic Republic of Iran Army (Artesh / IRIGF) (artesh)
+**Higher echelon**: —
+**Elite designation**: Yes
+**Strength (% authorized)**: 90%
+**Notes**: Iran's most capable special forces unit; jump-qualified. Commander: Col. Asghar Rafiei (since Nov 2024). Directly under IRIGF HQ. NOT part of any regional command. [DIA IMP 2019 p.18] [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,16 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Qods Operational HQ (Southeast)
+
+**Unit ID**: irgcgf_qods_hq
+**Service**: IRGC-GF
+**Type**: operational_headquarters
+**Headquarters**: Kerman area
+**Parent**: IRGC Ground Forces (IRGCGF) (irgc_gf)
+**Strength (% authorized)**: 80%
+**Notes**: Oversees Sarallah (Kerman), Salman (Sistan and Baluchestan) corps. [Wikipedia IRGC GF]
+
+## Subordinate Division / Brigade / Squadrons
+- **Sepah-e Sarallah (Kerman Provincial Corps)** (irgcgf_kerman_corp) — type: light_cab, HQ: Kerman City, Kerman, strength: 80%. Commander: Hossein Maroufi. [Wikipedia IRGC GF]
+- **Sepah-e Salman (Sistan and Baluchestan Provincial Corps)** (irgcgf_sistan_corp) — type: light_cab, HQ: Zahedan, Sistan and Baluchestan, strength: 80%. Commander: Amanollah Garshasbi. Counter-Baluch separatist/Jaish al-Adl focus. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

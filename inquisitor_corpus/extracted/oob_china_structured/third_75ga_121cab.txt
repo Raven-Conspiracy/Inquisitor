@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 121st Air Assault Combined Arms Brigade (ELITE / first-tier)
+
+**Unit ID**: 75ga_121cab
+**Type**: air_assault
+**Headquarters**: Kunming area
+**Parent**: Group Army / Fleet / Base: 75th Group Army (第七十五集团军) (75ga)
+**Higher echelon**: Southern Theater Command (南部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: Air assault/helicopter-borne. [Wikipedia 75th GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

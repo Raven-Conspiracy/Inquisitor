@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 81st Armored Division
+
+**Unit ID**: div81_armd
+**Type**: tank
+**Headquarters**: Kermanshah City, Kermanshah
+**Parent**: Region / Provincial Corps / Base: Western Regional Headquarters (artesh_w_rhq)
+**Higher echelon**: Islamic Republic of Iran Army (Artesh / IRIGF)
+**Elite designation**: No
+**Strength (% authorized)**: 85%
+**Notes**: Commander: BG2 Jalal Salehi (since Oct 2022). Brigades: 181st Armored (Eslamabad-e Gharb), 281st Armored (Bisotun), 71st Mechanized Infantry (Sarpol-e Zahab). [CTP Artesh OOB Aug 2025]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

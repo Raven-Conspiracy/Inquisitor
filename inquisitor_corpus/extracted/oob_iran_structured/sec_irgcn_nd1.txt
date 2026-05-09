@@ -1,0 +1,15 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: IRGCN 1st Naval Region — Bandar Abbas (Saheb al-Zaman)
+
+**Unit ID**: irgcn_nd1
+**Service**: IRGCN
+**Type**: naval_district
+**Headquarters**: Bandar Abbas (Shahid Bahonar Base), Hormozgan
+**Parent**: IRGC Navy (IRGCN) (irgcn)
+**Strength (% authorized)**: 45%
+**Notes**: Capt. Abbas Gholamshahi (per Wikipedia IRGCN). Strait of Hormuz. Largest IRGCN base. Struck Feb 28 - Mar 7, 2026; multiple drydocks hit, vessels neutralized per Alma Research/satellite imagery. [DIA IMP 2019 p.28] [Alma Research Mar 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+## Subordinate Division / Brigade / Squadrons
+- **IRGCN Fast-Attack Craft Force (Peykaap / Houdong / C-14)** (irgcn_swarm_fac) — type: surface_flotilla, HQ: Bandar Abbas (Shahid Bahonar), strength: 50%. Hundreds of small FAC, speedboats, patrol craft: Houdong (Thondor) x10 FACM, Peykaap I/II/III x45+, C-14 x5, Boghammar x20, many more. Swarm tactics in Hormuz Strait. Base struck Mar 2026. [DIA IMP 2019 p.28] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,20 @@
+# Russian Division — 90th Guards Tank Division
+
+**Unit ID**: 90gtd
+**Type**: tank
+**Headquarters**: Chelyabinsk
+**Parent Army**: 2nd Guards Combined Arms Army (2gca)
+**Parent District**: Central Military District
+**Strength (% authorized)**: 52.0%
+**Notes**: Heavy losses; Kupyansk
+
+## Subordinate Brigades / Regiments
+- **275th Motor Rifle Regiment** (90b_3reg) — type: motor_rifle, strength: 50.0%. None
+- **6th Tank Regiment** (90b_6reg) — type: tank, strength: 48.0%. None
+
+## Authorized Equipment (with estimated combat losses)
+- **tank** — T-72B3M, T-90M — authorized: 220, estimated lost: 115
+- **ifv** — BMP-2 — authorized: 160, estimated lost: 68
+- **artillery_sp** — 2S19 Msta-S — authorized: 72, estimated lost: 24
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:DIV] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

@@ -1,0 +1,12 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: IRGCN 4th Naval Region — Asaluyeh
+
+**Unit ID**: irgcn_nd4
+**Service**: IRGCN
+**Type**: naval_district
+**Headquarters**: Asaluyeh, Bushehr Province
+**Parent**: IRGC Navy (IRGCN) (irgcn)
+**Strength (% authorized)**: 70%
+**Notes**: Central Persian Gulf; guards South Pars gas field approaches. Not targeted as of Mar 2026 per Alma Research. [DIA IMP 2019 p.28] [IFMAT 2017]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,1600 @@
+Research Department    Bank of Israel  
+Targeted Killings: 
+Evaluating the Effectiveness of a 
+Counterterrorism Policy 1 
+by   
+     Asaf Zussman *       Noam Zussman **  
+      
+   Discussion Paper  No. 2005.02 
+ January 2005 
+1 The paper was updated and edited on October 2005. A condensed version is 
+forthcoming in the Journal of Economic Perspectives.  For their assistance with the data 
+we thank Yoni Fighel, Shalom Harari, and Yochanan Tzoreff of the International Policy 
+Institute for Counterterrorism and Arnon Regular and Dani Rubinstein of the newspaper 
+Ha’aretz.  We thank Isaac Ben-Israel, Steve Coate, Jeremy Pressman, Enrico Spolaore, 
+Tim Vogelsang, Romain Wacziarg, Amos Zehavi, and participants of presentations at the 
+Bank of Israel, Cornell Univ ersity, SUNY Binghamton, Te l Aviv University, and the 
+2005 American and Israeli Economic Association meetings for helpful comments and 
+suggestions. 
+   
+*     Economics Department, Cornell Universi ty. E-mail: azussman@cornell.edu.  
+**   Research Department, Bank of Israel. E-mail: noamz@boi.gov.il.  
+Any views expressed in the Discussion Paper Series are those of the 
+authors and do not necessarily reflect those of the Bank of Israel.  
+ 
+ , 
+ 
+  
+"  
+780  ,  
+91007  
+ Research Department, Bank of Israel, POB 780, Jerusalem 91007, Israel  
+
+
+1 
+Abstract 
+targeted killing (henceforth assassinati on) of members of Palestinian terrorist 
+organizations was a major element in Israel’s counterterrorism effort during 
+the Palestinian uprising which started in  2000.  We evaluate the effectiveness 
+of this policy indirectly by examining Israeli stock market reactions to 
+assassinations.  Our approach relies on the assumption that the market should 
+react positively to news of effective counterterrorism measures but negatively 
+to news of counterproductive ones.  The main result of the analysis is that the 
+market reacts strongly to assassinations of senior members in Palestinian 
+terrorist organizations: it declines following attempts to assassinate political 
+leaders but rises following attempts  to assassinate military ones. 
+JEL classification codes: G14, H56 
+Keywords: Counterterrorism, Stock Market 
+
+2 
+I. Introduction 
+ Since September 11, 2001 terrorism has been at the center of world attention.  The 
+attacks on the World Trade Center and the Pentagon are widely perceived as the 
+beginning of a new era of terrorism.  Other countries have also suffered heavily since 
+then at the hands of terrorists.  The sever ity of these attacks naturally resulted in 
+enhanced efforts to find effective ways of combating terrorism. 
+One of the most controversial counterterrorism policies is that of assassinating 
+members of terrorist organizations. 1   The policy of assassinations is controversial for 
+several reasons.  One objection to it is legal:  the argument is that assassinations are extra- 
+judicial executions.  Another objection to the policy is moral and focuses on the 
+possibility that assassination attempts will hurt noncombatants.  The third objection to 
+assassinations is based on the claim that they are ineffective, or even worse, 
+counterproductive: they might ultimately result in increased terrorism.   This paper offers 
+a unique quantitative analysis of the effectiveness of assassinations.  In order to do so it 
+focuses on Israel, a country that has been suffering from terrorism for years. 
+The terrorist attacks against Israelis have  intensified since the outbreak of the Al- 
+Aksa  (or second) Intifada  at the end of September 2000. 2   Figure 1 displays the number of 
+Israeli civilians killed in Palestinian terrorist attacks from September 29, 2000 to the end 
+of April, 2004.  In total, close to 600 Israeli civilians were killed in Palestinian terrorist 
+attacks during this period. 3   Israel has responded to the terrorist offensive in various 
+ways, including attempts to assassinate memb ers of Palestinian terrorist organizations. 
+The Al-Aksa Intifada  is not the first time Israel has employed assassinations as a 
+policy instrument.  In the past assassinati on targets included Egyptian intelligence 
+officers involved in orchestrating infiltrations  into Israel in the 1950s, German scientists 
+developing missiles for Nasser’s Egypt in the 1960s, Palestinian terrorists involved in the 
+1  Assassination is commonly defined as the murder of an important person in a surprise attack for political 
+reasons.  In the context of counterterrorism other terms, such as “pinpoint killing” or “targeted killing”, are 
+sometimes used to describe the same phenomenon. 
+2  For analysis of Palestinian terrorism in recent years, and particularly of the use of suicide bombings, see 
+Ehud Sprinzak (2000), Gal Luft (2002), Bruce Hoffman (2003), and Robert A. Pape (2003).  For a brief 
+historical overview of Palestinian terrorism see Walter Laqueur (2003). 
+3  Two thirds of the victims were killed in attacks that took place within Israel’s 1967 borders.  The others 
+were killed in the Occupied Territories.  Source: B’tselem, the Israeli Information Center for Human Rights 
+in the Occupied Territories. 
+
+3 
+1972 Munich Olympics attack, and senior leaders of Palestinian and other terrorist 
+organizations such as Khalil al-Wazir (Abu Jihad), the deputy chairman of the Palestinian 
+Liberation Organization (Tunisia, 1988), Abas Musawi, the secretary general of 
+Hizbullah (Lebanon, 1992), Fathi Shkaki, the head of Palestinian Islamic Jihad (Malta, 
+1995), and Khaled Mashaal, a senior Hamas leader (Jordan, 1997).  It is widely believed 
+that the Israeli Defense Forces planned to assassinate Saddam Hussein after Iraq attacked 
+Israel during the Gulf War of 1991.  The plan was scrapped following the death of 
+several soldiers in a 1992 training exercise. 4 
+Two important characteristics distinguish between the assassinations carried out 
+since September 2000 and the previous ones.  First – frequency: previous assassinations 
+were rare events.  In contrast, since September 2000 Israel has carried out more than a 
+hundred assassination attempts.  Second – importance of the targets.  The fact that Israel 
+has carried out so many assassination attempts during the Al-Aksa Intifada  necessarily 
+means that a large share of the targets were of relatively low rank. 
+ The effectiveness of assassinations as a counterterrorism policy has been the 
+subject of a fierce debate in Israel. 5   The debate focuses on the impact the assassinations 
+have on the capabilities and the motivation of terrorist organizations.  The two sides to 
+the debate seem to agree that the production of terrorism is positively related to both 
+capabilities and motivation. 6   There is disagreement, however, on the magnitude of the 
+effects of assassinations on capabilities and motivation and therefore on the production of 
+terrorism. 
+Most analysts agree that the assassination of a terrorist hurts his organization’s 
+capabilities.  Assassinations work to disrupt the preparation of terrorist attacks by the 
+individuals targeted and make other members of the terrorist organizations spend 
+valuable time and resources in guarding themselves.  The threat of assassination may 
+deter a terrorist from carrying out further attacks and has the potential of hurting his 
+organization’s recruiting efforts.  With regard to motivation, most observers agree that 
+4  These and other assassination attempts and plans are described in Dan Raviv and Yossi Melman (1990), 
+Ian Black and Benny Morris (1991), Carmi Gilon (2000), Moshe Zonder (2000), Gad Shimron (2002), and 
+Amos Harel and Avi Isacharoff (2004). 
+5  Steven R. David (2002), Shlomo Gazit (2002), Shmuel L. Gordon (2002), Boaz Ganor (2003) and Gal 
+Luft (2003) offer qualitative analyses of the issues raised in the debate. 
+6  Motivation should be thought of as willingness to employ capabilities to carry out terrorist attacks. 
+
+4 
+the assassination of a terrorist may increase the motivation of other members of his 
+organization (and possibly of the wider population) to carry out attacks. 7 
+The broad agreement on these basic analytic al issues notwithstanding, two crucial 
+distinctions should be emphasized with respect to the effect of an assassination on the 
+production of terrorism.  First, the magnitude of the effect is likely dependent on the 
+seniority of the target.  It is reasonable to  assume that an assassination would be most 
+effective in reducing the capabilities of a terror ist organization if the target is a senior 
+leader with specialized knowledge and skills. 8   The assassination of a low rank terrorist, 
+in contrast, is not likely to seriously disrupt the operation of his organization.  It is also 
+reasonable to assume that the assassination of a low rank terrorist, unlike that of a more 
+senior leader, will generate little increase in  the motivation of his organization to carry 
+out attacks. 
+The second crucial distinction is that  between members of the political and 
+military wings of terrorist organizations. 9   Military leaders are involved in planning 
+operations, and recruiting, training, armi ng and dispatching terrorists.  Thus the 
+assassination of a military leader has the potential of severely disrupting his 
+organization’s terrorist operations.  Senior pol itical leaders, in contrast, are primarily 
+responsible for political and spiritual guidance.  Thus it is possible that assassinating a 
+senior political leader is less likely to signi ficantly decrease the operational capability of 
+his organization. 
+Relative to a senior military leader, how ever, attempts to assassinate a senior 
+political leader would tend to great ly increase the motivation to carry out terrorist attacks.  
+This is due to two factors.  First, political leaders are typically far better known to the 
+Palestinian public than military ones.  Second,  the targeting of military leaders seems to 
+be perceived, by both Palestinian and Israelis, as part of the “rules of the game”.  In 
+7  The possibility does exist, however, that an assassination or a series of assassinations will lead to a 
+decline in motivation – or demoralization – among the members of a terrorist organization.  
+8  Isaac Ben-Israel et al. (forthcoming) argue that one of the key weaknesses of terrorist organizations is 
+their high vulnerability to any action against their leadership.  They estimate that the number of key 
+activists in the Hamas is only a few hundred and argue (p. 5) that “one only needs to neutralize 20%-30% 
+of them for the organization’s ‘production’ of acts of terror to drop significantly”. 
+9  On the structure of Palestinian terrorist organizations see Luft (2003). 
+
+5 
+contrast, attempts to assassinate political lead ers are perceived as crossing a “red line”. 10 
+For these two reasons the assassination of military leaders would tend to evoke less rage 
+and calls for retaliation than the assassination of political leaders. 
+ Summing up, the discussion above leads to  several conclusions.  First, the net 
+effect of an assassination on the production of terrorism is indeterminate because it 
+embodies two conflicting effects: on capabilities and motivation. 11   Second, the 
+conflicting effects would both tend to be quite small in assassinations targeting low rank 
+terrorists.  Third, taking into account the tw o conflicting effects, the assassination of a 
+senior military leader is more likely than the assassination of a senior political leader to 
+be followed by a decrease in the production of terrorism. 12 
+The debate within Israel on the effectiveness of assassinations has been raging for 
+years.  Yet, very few attempts have been made to date to substantiate either position by a 
+quantitative analysis.  The fact that Israel  has resorted to assassinations so frequently 
+since September 2000 allows us to address the effectiveness question econometrically.   
+The empirical literature on counterterrorism (which we briefly survey in section 
+III) has up to date focused on measuring the direct effect of counterterrorism efforts on 
+the production of terrorism.  This has typically been done by comparing the number of 
+terrorism incidents of certain types before and after the implementation of various 
+counterterrorism policies.  However, it is our vi ew that the direct approach is not readily 
+applicable to the analysis of the Israeli assa ssinations of Palestinian terrorists during the 
+Al-Aksa Intifada .  A major difficulty in applying this approach is identifying the reaction 
+functions of Palestinian terror ist organizations to Israeli assassination attempts.  One 
+source for the difficulty lies in the fact th at Israel has adopted other counterterrorism 
+measures (such as conducting raids into Pales tinian cities and villages to arrest terrorism 
+10  A “red line” is a threshold, the crossing of which by an enemy would tend to trigger retaliatory action.  In 
+several instances during the Al-Aksa Intifada  assassination attempts directed at Palestinian political leaders 
+were portrayed by observers (on both the Palestinian and Israeli sides) as crossing a “red line”. 
+11  B. Peter Rosendorff and Todd Sandler (2004) present a theoretical model that captures the same 
+conflicting effects. 
+12  In examining the role of seniority and wing membership we chose to focus on the capabilities/motivation 
+tradeoff because it figures prominently in the assassinations debate in Israel.  It has to be emphasized, 
+however, that our aim is to identify the net effects of assassinations and not their separate effects on 
+capabilities and motivation.  What is crucial for our analysis is the ability to empirically identify the 
+dependence of effectiveness on target characteristics and not the mechanisms that are behind this 
+dependence. 
+
+6 
+suspects, setting up roadblocks, and constructing a separation barrier) during the period 
+under investigation.  Very little high quality information is available on some of these 
+and other relevant measures.  The difficulty in applying the direct approach also stems 
+from the fact that several Palestinian terrorist organizations operate simultaneously but 
+with different goals and from the inability to ascertain whether any given terrorist attack 
+was carried out as a retaliation to an assassination attempt or not.  Thus we believe that 
+separating out the effect of the assassinations policy using a direct approach is practically 
+impossible. 13 
+We propose an indirect test to evaluate the effectiveness of the assassinations 
+policy.  Our approach builds on the fact that terrorism has had a significant adverse 
+macroeconomic effect on Israel, as was demonstrated by, among others, David Fielding 
+(2003a and 2003b), Samer Haj-Yehia (2003), and Zvi Eckstein and Daniel Tsiddon 
+(2004). 14   We rely on this fact and on the forward-looking, information-aggregating 
+nature of the stock market to argue that market reactions to news regarding 
+counterterrorism measures should depend on their perceived effectiveness.  In specific we 
+claim that the Israeli stock market should react positively to news of effective 
+counterterrorism measures but negatively to news of counterproductive ones.  
+Two important points should be emphasized with respect to our reliance on stock 
+market reactions. 15   First, these reactions reflect the perceptions of investors about the 
+expected behavior of the public, both in the short-run and in the long-run.  Second, stock 
+market reactions factor in a wide spectrum of potentially relevant repercussions of the 
+13  Two recent studies which attempt to directly examine the effect of Israeli counterterrorism policies on the 
+production of Palestinian terrorism and suffer, in our opinion, from these and other methodological 
+problems are David A. Jaeger and M. Daniele Paserman (2005) and Edward H. Kaplan et al. (2005).  The 
+former finds (using our data) that successful assassination attempts reduce Israeli fatalities while the latter 
+finds no such effect. 
+14  The adverse macroeconomic effects of terrorism are not limited to Israel.  Alberto Abadie and Javier 
+Gardeazabal (2003), for example, offer evidence of such effects in Spain’s Basque Country.  A recent 
+survey of the economic costs of terrorism is included in Bruno S. Frey et al. (2004). From this perspective 
+terrorism can be seen as a form of economic warfare.   
+15  Our approach is close in spirit to the literature on prediction markets.  Recent examples from this 
+literature include Andrew Leigh et al. (2003) and Yakov Amihud and Avi Wohl (2004).  A review of the 
+literature is offered by Justin Wolfers and Eric Zitzewitz (2004).  See also James Surowiecki (2004).   
+
+7 
+policy, most importantly the possible retaliat ion by the terrorists  and effects on the 
+Israeli-Palestinian peace process. 16 
+We implement our approach by conducting a series of event studies, where each 
+event constitutes an assassination attempt.  A crucial element in the application of this 
+methodology, which is standard in the economics  and finance literatures, is establishing 
+that the examined events indeed constitute “news.” We argue that the assassinations 
+carried out by Israel during the Al-Aksa Intifada  indeed constitute news.  This is because 
+Israel’s policy of assassinations has always been vague, with no government commitment 
+to continue carrying them out.  Indeed, during the Al-Aksa Intifada  there have been sub- 
+periods in which Israel has refrained from assassinating terrorists.  At any point in time 
+the government’s intentions and the makeup of the approved list of targets were for the 
+most part unknown to the public.  Even in those cases where the name of a potential 
+target is publicly known, there is always uncertainly about the chances of his 
+elimination. 17 
+It also has to be emphasized that the assassinations do not reflect the passive 
+response of the Israeli government to changes in the supply of terrorists.  It is true that 
+when the Israeli authorities receive new inte lligence about an imminent threat they 
+attempt to take immediate action to thwart it, including in some cases assassinating a 
+terrorist.  However, our examination of the data  points to the fact that the majority of the 
+assassinations, especially of the terrorist organizations’ leaders, were carried out either as 
+a response to new intelligence about the whereabouts of a long sought after target (with 
+no new information about his terrorism plans) or as a response to a new government 
+16  The fact that stock market reactions capture a very wide spectrum of short- and long-run considerations 
+offers another advantage of our approach over the direct examination of the effects of counterterrorism 
+policies on the production of production. 
+17  The appropriate interpretation of the nature of the news is an important question.  We focus on a narrow 
+interpretation: a member of a given rank in the political or the military wing of a terrorist organization was 
+assassinated.   However, the news may contain much more information.  For example, they may lead the 
+public to update on how aggressively the government will continue to pursue the assassinations policy and 
+how successful the government will be at carrying it out.  News regarding assassinations should also be 
+interpreted in light of the overall political and military circumstances.  For the most part (and, admittedly, 
+at a cost) we are leaving such issues out of our analysis because of the difficulty of quantifying them. 
+
+8 
+decision to cancel the implicit immunity given to an individual (with no new intelligence 
+about either his location or plans). 18    
+The most important result of our analysis is that the reaction of the Tel Aviv 
+Stock Exchange to assassinations depends on the seniority and wing membership of the 
+target.  The market does not react to assassinations of low ranked members of Palestinian 
+terrorist organizations.  The ma rket does react strongly, however, to the assassinations of 
+senior leaders of terrorist organizations: it declines following assassinations targeting 
+senior political leaders but rises following assass inations of senior military leaders.  This 
+implies that the market perceives the first type  of assassinations as  counterproductive but 
+the second as an effective counterterrorism policy. 
+In the next section we describe our dataset.  We then turn to the empirical 
+analysis.  Discussion of our results in the context of the existing literature on terrorism 
+and counterterrorism follows.  The final section concludes. 
+II. Data 
+ Our analysis focuses on the period September 2000 - April 2004.  Most of the 
+data on assassination attempts was collected from four sources.  The first is a list of 
+assassinations compiled by the Palestinian Human Rights Monitoring Group.  This list 
+covers the entire period under investigation and includes 121 events.  The second source 
+is a list of “targeted killings” compiled by the International Policy Institute for 
+Counterterrorism in Israel. 19   This list also covers the entire period and includes 78 
+events.  The third source is a list of assassinations compiled by B’tselem, the Israeli 
+Information Center for Human Rights in the Occupied Territories.  This list covers the 
+period September 2000 - June 2003 and includes 75 events.  The last source is a list of 
+assassinations compiled by the Public Committee against Torture in Israel and the 
+18  According to media reports the process that leads to an assassination begins with intelligence gathering 
+by the Israeli Defense Forces, the General Security Services, and the Mossad (external intelligence agency).  
+Feasibility studies are then conducted.  Authorization for the operations is typically given by the defense 
+minister and the prime minister.  In certain cases the operation is voted upon by the government’s security 
+cabinet. 
+19  The International Policy Institute for Counterterrorism is an apolitical research institute and think tank 
+dedicated to the study of international terrorism. 
+
+9 
+Palestinian Society for the Protection of Human Rights and the Environment.  This list 
+covers the period September 2000 - January 2002 and includes 49 events. 
+ There is a large amount of overlap in the four lists of assassination attempts (for 
+the period covered in all).  Nevertheless, differences among them do exist.  The main 
+source of differences seems to be the definition of what exactly qualifies as an 
+assassination attempt.  Another difference has to do with the inclusion or exclusion of 
+assassination attempts in whic h the target survived.  Our dataset includes all the incidents 
+that appear in any of the four lists.  By adopting this approach we allow the data to 
+determine which events matter. 
+Data on assassinations obtained from the four sources mentioned above was 
+expanded with the use of media reports.  The most intensively used media sources (via 
+the LexisNexis service) were the Jerusalem Post and reports of news agencies, such as 
+the Associated Press.  Stock market data were obtained from the Tel Aviv Stock 
+Exchange database, through the Bank of Israel and the Hebrew University of Jerusalem.  
+Data on the timing of events allowed us to assign all events to the appropriate Tel Aviv 
+Stock Exchange trading days. 20 
+ Table 1 provides descriptive statistics on assassination attempts.  During the 
+period from September 2000 to April 2004 there were 159 Israeli assassination attempts 
+targeted at members of Palest inian terrorist organi zations.  The year 2002 saw the largest 
+number of attempts - 56.  More than two thir ds of the assassination attempts were carried 
+out in the West Bank and the remainder in the Gaza Strip. 
+The most frequently used assassination method (employed in 47 percent of the 
+cases) was shooting (light arms) – either from cl ose range or by snipers.  In 34 percent of 
+the cases the Israeli Air Force used missiles from attack helicopters.  In 14 percent of the 
+cases various explosive devices (e.g. booby-trapped vehicles) were used.  Roughly 50 
+percent of the assassination attempts were targeted at Hamas members, 31 percent at 
+Fatah members, and 17 percent at Islamic Jihad members.  The rest were targeted at 
+members of smaller organizations.  In 85 percent of the cases the target of the 
+20  The Tel Aviv Stock Exchange operates from 8:30AM to 5:00PM local time, Sunday through Thursday, 
+except on holidays.  The cutoff time for classification of events was 4:30PM, i.e. events that took place 
+before 4:30PM, Sunday through Thursday, were assigned to the same trading day.  Other events were 
+assigned to the next trading day according to the Tel Aviv Stock Exchange trading schedule.  For further 
+details on the Tel Aviv Stock Exchange see its website: http://www.tase.co.il/. 
+
+10 
+assassination attempt was killed.   Overall, 317 individuals were killed in assassination 
+attempts, almost 80 percent of whom were combatants. 
+Two issues are crucial for our analysis: (1) establishing the seniority of each 
+assassination target and (2) the classification of  each target into either the political or the 
+military wing of his organization.  We a dopted two types of measures to establish 
+seniority and to classify targets as political  or military: (a) measures based on Israeli 
+media coverage and (b) measures based on expert opinion. 
+The reason we use Israeli media coverage is straightforward: this is how investors 
+learn about events.  In specific we use the coverage in the Israeli English-language daily 
+newspaper, The Jerusalem Post. 21   Although the Jerusalem Post is not a mass circulation 
+newspaper in Israel, one can safe ly assume that its coverage of assassinations is highly 
+correlated with that of ot her Israeli media sources. 22 
+Using the Jerusalem Post’s coverage of assassinations we construct a measure of 
+target seniority based on the following 3 conditions: (1) whether in the day after the 
+assassination it was covered in a front page article; 23  (2) whether in the day after the 
+assassination its target was mentioned in more than one article; (3) whether the name of 
+target was mentioned in the newspaper prior to his assassination (starting from September 
+2000). 24   We define a target as senior if at least two of the three conditions hold. 25 
+It has to be noted that media coverage of an assassination depends on factors other 
+than the seniority of the target.  For example, a concurrent major news event may crowd 
+the coverage of an assassination out of the head lines.  This is one reason why we also rely 
+21  The Jerusalem Post is the only Israeli daily newspaper available through the LexisNexis service. 
+22  For a sample of events we have verified this by comparing the coverage in the Jerusalem Post with that 
+of the Israeli Hebrew language newspaper Ha’aretz . 
+23  The “day after the assassination” refers to publishing day.  The Jerusalem Post is published Sunday 
+through Friday, except for holidays.  Thus, for example, events that occurred on a Friday or a Saturday 
+would typically be covered in the following Sunday.  It has to be noted that for events that occur during a 
+trading day the reaction of the market cannot obviously be influenced by the following day’s coverage in 
+the Jerusalem Post.  As was mentioned earlier, however, it is reasonable to assume that the coverage of 
+events is highly correlated across media outlets including radio and online sources which report news 
+almost immediately. 
+24  The third criterion has the potential drawback of making it more likely that later assassination targets 
+would be classified as senior. 
+25  Using a less restrictive criterion, in specific demanding that only one condition is met, would have 
+resulted in an unreasonable (almost a three-fold) increase in the number of targets classified as senior 
+leaders.  Using a very restrictive criterion, in specific demanding that all three conditions be met, would 
+have resulted in an equally unreasonable (almost two-thirds) decrease in the number of targets classified as 
+senior leaders. 
+
+11 
+on expert opinion.  Five experts on the Israel i-Palestinian conflict were asked to rank (on 
+the scale of 1 to 10) the seniority of assassination targets. 26   We use the average score 
+across the five expert rankings to establish se niority.  We classify as a senior leader any 
+target with an average rank of at least 2. 27   This resulted in a similar number of targets 
+being classified as senior as that obtained using the media coverage criterion. 28 
+To classify the targets of assassination attempts into the political and military 
+wings of terrorist organizations we rely on expert opinion. 29   These opinions differ 
+somewhat and we therefore adopt three approaches to the classification.  According to the 
+first, least restrictive approach, the target would be classified as a member of the political 
+wing if at least one of the experts classified him in such a way.  According to the second, 
+more restrictive approach, the target needs at least two votes to be classified as a member 
+of the political wing.  According to the last, most restrictive approach, a target would be 
+classified as a member of the political wing if there is consensus about it among the 
+experts. 30 
+Applying the media coverage seniority criterion to an adjusted database which 
+consists of 136 observations, we identified 39 assassination attempts in which the target 
+was a senior leader. 31   In 33 of these incidents the target of the assassination was killed.  
+Table 2 provides summary statistics on these assassinations.  Under the least restrictive 
+criterion for classification of targets into  the political wing there were 15 such 
+26  The experts are Yoni Fighel, Shalom Harari, and Yochanan Tzroreff, all research fellows at the 
+International Policy Institute for Counterterrorism, and Arnon Regular and Dani Rubinstein of the 
+newspaper Ha’aretz .  A potential drawback in the use of expert opinion is the possibility that it is colored 
+by ex post  developments. 
+27  This cutoff level suggested itself as natural because the expert rankings displayed clustering.  Targets 
+could essentially be classified into three groups.  The low rank military wing members (foot soldiers) 
+tended to receive the rank of 1.  Mid-level military wing members tended to receive ranks of 3 or 4.  
+Political wing leaders tended to receive ranks of 9 or 10.  Thus by using the cutoff level of 2 we are able to 
+differentiate between the foot soldiers and the rest. 
+28  There is a large amount of overlap in the lists of targets classified as senior using the two criteria: almost 
+three quarters of the targets classified as senior by the media coverage criterion were also classified as such 
+by the expert opinion criterion. 
+29  One expert declined to classify targets into the political and military wings. 
+30  We also attempted to classify targets as political or military using the reporting in the Jerusalem Post.  
+Despite some ambiguities on this issue in the newspaper’s coverage, the result was broadly similar to the 
+one obtained by the intermediate expert opinion criterion described above. 
+31  We needed to reduce the size of our database because in some cases several assassination attempts have 
+taken place in the same trading day.  In such cases we kept in our adjusted database the incident with the 
+most senior target, and for incidents with equally senior targets, the earliest one.  We also had to drop 
+several observations where the name of the target was unknown – these were probably low ranked targets. 
+
+12 
+assassination attempts.  Under the more restri ctive criterion there were 10 attempts and 
+under the most restrictive criterion there were only 8 such incidents. 
+Table 3 provides some details on the assassinations that targeted senior leaders.  
+Twenty two of the attempts ta rgeted Hamas leaders, nine Fatah leaders, six Islamic Jihad 
+leaders and two leaders from the Popular Front for the Liberation of Palestine.  The 
+climax of the assassinations policy came in the spring of 2004 with the killing of Ahmed 
+Yassin and Abdel Aziz Rantisi, the leader of Hamas and his successor.  The spring of 
+2004 therefore offers a natural end point for our empirical investigation. 
+III. Empirical Analysis 
+In this section we examine the determinants of the Israeli stock market reactions 
+to assassination attempts.  Figure 2 is a hist ogram of the percentage change in the Tel 
+Aviv 25 stock market index during the 136 (trading) days in which assassination attempts 
+took place.  The Tel Aviv 25 index represents the prices of the 25 most important stocks 
+in the market.  The average percentage change is -0.01 (i.e. one percent of one percentage 
+point).  This apparent lack of market reaction to assassination attempts masks important 
+differences between cases.  The next sub-sections analyze these differences. 
+A. The Role of Seniority and Political/Military Wing Membership  
+As we have argued above, there are tw o potentially crucial determinants of 
+market reactions: the seniority of the assassination target and his identification with either 
+the political or the military wing of his organization.  Table 4 A  presents results of several 
+regressions addressing these two issues.  The dependent variable in each regression is the 
+daily percentage change in the Tel Aviv 25 index.  All regressions include on the right 
+hand side the percentage change in the NASDAQ stock market index, expressed in Israeli 
+currency terms, and a constant.  The percentage change in NASDAQ was added in order 
+to control for external events that mi ght be relevant for the Israeli market. 32   Since the 
+32  We obtained similar results when we used alternative U.S. stock market indices, in particular Standard 
+and Poor’s 500 and Dow-Jones.  Most dual-listed stocks of Israeli firms (those that are listed both in the 
+Israeli and the U.S. markets) are listed in NASDAQ, leading us to prefer this index over the others.  Data 
+were adjusted to reflect the fact that trading in NASDAQ and in the Israeli foreign exchange market, unlike 
+the trading in the Israeli stock market, is conducted Monday through Friday.  Stock market data for the U.S. 
+was obtained from Datastream ; exchange rate data were obtained from the Bank of Israel. 
+
+13 
+Israeli economy is highly integrated with the rest of the world we expect the coefficient 
+for this variable to be positive and significant, as indeed it is in all regressions. 33 
+The regression presented in the first column includes on the right hand side a 
+dummy variable for all assassinations.  The coefficient for this variable has a value of 
+zero and is statistically insignificant.  This  reinforces our conclusion (based on Figure 2) 
+that, on average, the market does not react to assassinations.  We turn our focus now to 
+the assassination of senior leaders.  In column (2) we include two dummy variables, one 
+for assassinations of junior targets (all junior targets are military) and one for senior (both 
+political and military) targets, where seniority is established by the media coverage 
+criterion discussed above.  The coefficients are both close to zero and statistically 
+insignificant.  One should not draw the conclusion that seniority does not matter, 
+however, as we show next. 
+In the last three columns of Table 4 A  we incorporate the distinction between 
+political and military targets, using our three classification criteria.  Under all 
+classification criteria the regressions find strong and statistically significant reactions of 
+the market to assassinations of senior targets: negative reactions (of 0.7-1.1 percentage 
+points) to assassinations of senior political  targets and positive reactions (of 0.5-0.7 
+percentage points) to assassinations of senior  military targets.  The distinction between 
+military and political leadership in Palestinian terrorist organi zations turns out to be very 
+important to investors. 34 
+An interesting pattern is evident in the last three columns of Table 4 A .  As we 
+move to the right from column (3) to colu mn (5) we gradually apply more restrictive 
+criteria for classification into the political wing.   Since the total number of senior leaders 
+33  When we ran the regressions reported below without the NASDAQ variable results remained practically 
+unchanged.  This suggests that the U.S. stock market is in general not sensitive to Israeli assassinations.  It 
+is reasonable to assume that the addition of other economic variables to the right hand side of the 
+regressions would not have changed the results much either because the timing of the assassinations is in 
+principle orthogonal to the state of the Israeli economy at the time of their execution. 
+34  An alternative interpretation of this result can rely on the fact (noted above) that senior political leaders 
+are on average higher ranked than senior military leaders.  Our regression results may therefore be 
+interpreted as reflecting a non-linear reaction of the market to assassinations: the market does not react to 
+the assassinations of low-ranked terrorists, reacts positively to the assassinations of mid-level terrorists, and 
+reacts negatively to the assassinations of top terrorists.  This interpretation mirrors the “too much of a good 
+thing” argument made by Rosendorff and Sandler (2004).  We believe, however, that the Israeli public is 
+aware of and accepts the distinction between the military and the political wings, and thus that our 
+interpretation of the results is more valid. 
+
+14 
+is constant this means that we are taking individuals who where originally classified as 
+political leaders (the assassination of which has a negative effect on the market) and 
+reclassifying them as military leaders (the assassination of which has a positive effect on 
+the market).  Not surprisingly, this transi tion manifests itself in the table by the 
+strengthening of the political leadership vari able and the weakening of the military 
+leadership variable. 
+A potentially important factor that we have ignored so far is the question of 
+whether the target of the as sassination attempt was killed or not.  An assassination 
+attempt should have a reduced effect on the capabilities of a terrorist organization if the 
+target was unhurt or wounded rather than killed.  On the other hand it is not clear whether 
+the effect on motivation should be much different depending on whether the target was 
+killed or not.  This seems to be especially true with respect to senior political leaders.  As 
+we have argued above, the attempt to assassina te a political leader could be perceived as 
+crossing a “red line”, regardless of whether he was killed or not. 
+Following these arguments we redefine the dummy variables to take the value of 
+unity only in those cases where the assassination ended in the death of the target.  Table 
+4 B  reports the results of this exercise.  They are very similar to the ones reported in Table 
+4 A .  The main difference is that the negative reaction to assassinations targeting political 
+leaders is now weaker.  We interpret this as lending credence to our “red line” argument.  
+This is demonstrated well by the cases of Abdel Aziz Rantisi and Ahmed Yassin.  Market 
+reactions to the assassination attempts that ul timately killed both leaders (in 2004) were 
+much milder than the reactions to the first assassination attempts that targeted them (in 
+2003). 35   The first two assassination attempts signaled that these two top political leaders 
+are not off limits; the final two attempts were thus less of a surprise.  The “red lines” 
+were already crossed in 2003. 
+Table 4 C  is almost identical in structure to Table 4 A .  The difference between 
+them is that we now rely on the expert opinion seniority criterion in addition to the media 
+coverage seniority criterion.  This allows us to check the robustness of our previous 
+results which were based exclusively on the second criterion.  We now define an 
+35  The Tel Aviv 25 index dropped by more than two percent on average in the first two assassination 
+attempts; it dropped by only 0.9 percent on average in the final two (see the last column in Table 3). 
+
+15 
+assassination target as senior if he satisfies bot h seniority criteria.  This leads to 28 targets 
+being classified as senior.  The results reported in Table 4 C  are almost identical to those 
+reported in Table 4 A . 
+B. Additional Determinants of Market Reactions to Assassinations 
+We proceed by examining several other potential determinants of the stock 
+market reactions to assassination attempts.  We do so by adding explanatory variables to 
+a basic specification – that of column (4) in Table 4 A .  We first examine whether the fact 
+that more than one assassination attempt took place in the same (trading) day affects the 
+stock market reaction.  There are 17 such case s in our original dataset.  We construct a 
+dummy variable that takes the value of 1 in e ach of these cases and 0 otherwise.  Column 
+(1) in Table 5 shows that the coefficient for this  variable is positive and significant.  This 
+is not surprising since all the additional incidents involved the targeting of military wing 
+members. 36 
+The second issue that we explore has to do with the timing of assassination 
+attempts relative to major terrorist attack s against Israelis.  During the period under 
+investigation there were several instances where a terrorist attack occurred either shortly 
+before or shortly after an assassination attempt,  within the same (trading) day.  In the first 
+case assassinations are sometimes seen as serving to placate the Israeli public’s demand 
+for revenge, although Israeli officials tend to deny this connection.  In the second case the 
+assassinations are sometimes seen by the Is raeli public as manifesting the ability of 
+terrorist organizations to quickly retaliat e following assassination attempts.  Israeli 
+officials tend to reject  this possibility too by claiming that terrorist attacks take a long 
+time to prepare and therefore cannot be executed immediately following an assassination 
+attempt. 
+To address this issue we compiled a list of the major terrorist attacks directed 
+against Israeli civilians in the period from September 2000 to April 2004. 37   The list 
+includes all events in which five or more Is raelis were killed.  During the period under 
+36  It is possible that the carrying out of several assassination attempts within a short period of time signaled 
+to the Israeli public that the security forces were conducting a massive counterterrorism raid and this 
+translated into the observed strong positive reaction in the stock market. 
+37  The main source for information about the terrorist attacks was the International Policy Institute for 
+Counterterrorism.  This was augmented by information provided in the media. 
+
+16 
+investigation there were 42 such attacks: 7 in 2001, 24 in 2002, 8 in 2003, and 3 in 
+2004. 38   We construct a dummy variable that ta kes the value of 1 if  a terrorist attack 
+occurred within the same (trading) day as an assassination and 0 otherwise.  Column (2) 
+of Table 5 demonstrates that the effect of such incidents is strongly negative but 
+insignificant at conventional levels.  This effect has the same sign and is similar in 
+magnitude to that of assassinations targ eting senior Palestinian political leaders. 
+An interesting question that we address in column (3) is the following: does the 
+market reaction to an assassination attempt depend on whether it was closely preceded by 
+terrorist attacks?  One could argue that if we compare market reactions to two 
+assassination attempts, one that was closely preceded by terrorist attacks and another that 
+was not, the reaction in the first case should be more negative (or less positive) than in 
+the second.  This is because the preceding terrorist attacks demonstrated the capability of 
+the terrorist organizations to strike back.  To carry out the test we construct a dummy 
+variable that takes the value of 1 if at least one major terrorist attacks took place in the 
+week preceding the assassination (not including the day of the assassination).  There are 
+22 such observations in our database.  When we add this variable to our baseline 
+regression we obtain a quantitatively  small and insignificant coefficient. 
+Does the fact that noncombatants were killed in an assassination attempt affect the 
+market reaction to it? 39   We argue that the market should react negatively to the death of 
+noncombatants in assassinations.  This is because their death either does not affect or 
+might even increase the capabilities of terror ist organizations and is likely to raise the 
+motivation of these organizations to carry out attacks. 40   To test this hypothesis we add to 
+our baseline regression a variable that cap tures the number of noncombatants killed in 
+assassination attempts. 41   Column (4) shows that noncombatants’ death has a negative 
+and significant effect on the market. 
+38  An assassination coupled (in the same trading day) with a major terrorist attack occurred in 9 cases (out 
+of 136). 
+39  Noncombatants are defined here as individuals who are not members of terrorist organizations.  This 
+definition excludes members of the political wings of terrorist organizations. 
+40 The death of noncombatants may positively affect the capabilities of terrorist organizations because it 
+makes it easier for them to recruit relatives of those killed and others to participate in terrorist activities. 
+41 Noncombatants were killed in 18 out of the 136 assassination attempts in our adjusted dataset.   The 
+average noncombatant death toll in these cases was 3 persons. 
+
+17 
+The last issue that we examine in Table 5 is how market reactions to assassination 
+attempts have changed over time.  We divided the period under investigation into two 
+equal sub-periods: September 2000 to June 2002 (“early period”) and July 2002 to April 
+2004. 42   We then interacted the dummy variable for the early period with the senior 
+political leader and military leader variable s.  Column (5) examines the result of a 
+regression that includes the two interaction variables.   
+We find that the early reactions to assa ssinations directed at senior political 
+leaders in Palestinian terrorist organizations were negative but much  weaker than later 
+reactions.  This result quite likely reflects an escalation in the Israeli assassinations 
+campaign.  We also find that the early reac tions to assassinations of senior military 
+leaders in Palestinian terrorist organizations we re positive but weaker than later reactions.  
+However, this difference is not statistically significant. 
+The last column of Table 5 examines all the additional variables together.  Results 
+are qualitatively similar to the ones obtained wh en the variables were added one at a time.  
+Most importantly, column (6) demonstrates that even when we control for additional 
+explanatory variables we still obtain the result that assassination attempts targeting 
+political leaders have a negative effect on th e market while assassinations of military 
+leaders have a positive effect. 
+C. Aggregate, Sectoral and Specific Firm  Reactions to Terrorism-Related Events 
+This section examines how different market indices and stocks of specific firms 
+react to assassinations of senior leaders and to all major terrorist attacks. 43   Table 6 A 
+compares the reaction of three aggregate stock market indices: the Tel Aviv 25 index 
+which we have examined so far, the Tel Aviv 100 index, which represents prices of 100 
+major stocks, and the Tel Aviv general index, which represents the prices of all the stocks 
+traded in the market.  In each regression reported in the table the dependent variable is 
+the daily percentage change in a stock market index and the independent variables 
+42  The division of the period into two halves closely coincides with a major change in circumstances on the 
+ground.  In April 2002, after a series of major Palestinian terrorist attacks, Israel has invaded and 
+reoccupied large areas in the West Bank.  Israeli forces did not evacuate most of the reoccupied areas by 
+the end of the period under examination. 
+43  Note that previously we focused on major terrorist attacks that coincided with assassination attempts 
+while here we examine all major terrorist attacks.  Rafi Eldor and Rafi Melnik (2004) offer a detailed 
+examination of the effects of terrorist attacks on the Tel Aviv Stock Exchange. 
+
+18 
+include dummies for assassinations that targeted senior political leaders, assassinations 
+that targeted senior military leaders, and major terrorist attacks. 44   As an additional 
+control variable we include the percentage change in NASDAQ.   
+The reactions of all three indices to te rrorism related events is qualitatively 
+identical: the market declines following assa ssinations of senior political targets and 
+following major terrorist attacks; the market  rises following assassinations of senior 
+military targets.  For all three types of even ts the reaction of the Tel Aviv 25 index is 
+stronger than that of the Tel Aviv 100 index, which in turn is stronger than the reaction of 
+the Tel Aviv general index.  A back of the envelope calculation allows us to put these 
+market reactions in perspective.  The average market capitalization of the Tel Aviv Stock 
+Exchange during the period under investigation was about 60 billion U.S. dollars.  
+Israel’s Gross Domestic Product was about 100 billion U.S. dollars.  Thus a one percent 
+change in the Tel Aviv general index is equivalent to a change in market value worth 
+about 0.6 percent of GDP.  This means that  political assassinations and major terrorist 
+attacks wipe out market value equivalent to about 0.4 and 0.5 percent of GDP, 
+respectively.  Military assassinations, on the ot her hand, lead to increases in market value 
+equivalent to roughly 0.3 percent of GDP. 
+Table 6 B  compares the reaction of nine sectoral stock market indices to terrorism- 
+related events. 45   In these regressions we replace the NASDAQ index with the Tel Aviv 
+general index.  Almost all the reaction coeffici ents are statistically insignificant, implying 
+that all sectors react to terrorism-related events in a similar way.  The three exceptions are 
+the reactions of the banks sector to major terrorist attacks and the reactions of the 
+insurance sector to assassinations of senior political targets and to major terrorist attacks. 
+The fact that all sectors display the same  qualitative reactions to terrorism-related 
+events masks some potentially interesting differences.  Although it is clear that for most 
+Israeli firms more terrorism is bad news, for some it means more business.  To contrast 
+the reactions of the two types of firms to terrorism-related events we focus on two 
+specific firms.  The first is Blue Square – Isra el Ltd., one of the major retailers in Israel.  
+Because of the type of business it is in, we expect that terrorism would be associated with 
+44  As in Table 5, we use the intermediate political wing classification criterion to assign senior leaders into 
+the political and military wings of their organizations. 
+45  These are the only sectoral indices officially reported by the Tel Aviv Stock Exchange. 
+
+19 
+a decline in Blue Square’s stock price. The second firm is Magal Security Systems Ltd., a 
+major manufacturer in the field of outdoor perimeter protection.  It is to be expected that 
+for Magal an increase in terrorism would represent a business opportunity.   
+What is especially interesting about thes e two firms is that they are dual listed: 
+their stocks are traded in both the Israeli and the U.S. markets.  Blue Square is the only 
+dual listed Israeli firm that is exclusively in retail.  Its stock trades on the New York 
+Stock Exchange.  Magal is the only dual listed Israeli firm that exclusively produces 
+security related products.  Its stock trades on NASDAQ.  The fact that the two firms are 
+in different businesses and that their stocks are traded in both the Israeli and the U.S. 
+markets allows us to add another layer to our analysis of reactions to terrorism-related 
+events. 
+Table 6 C  reports the results of this analysis for the U.S. market. 46   In each 
+regression the dependent variable is the daily percentage change in the price of the 
+specific stock.  The explanatory variables in clude the three dummies for terrorism-related 
+events and the percentage change in the relevant aggregate stock market index (Standard 
+and Poor’s 500 for Blue Square and NASDAQ for Magal). 
+The reaction of Blue Square’s stock price to terrorism-related events is 
+qualitatively identical to that of the Israel i market but quantitatively stronger for the 
+assassination variables.  The price of the stock decreases following assassinations 
+targeting senior Palestinian political leaders and following terrorist attacks against 
+Israelis; it increases followin g assassinations of senior Palestinian military leaders.  
+Magal’s stock price reaction to terrorism-related events is qualitatively a mirror image of 
+Blue Square’s: it increases sharply following assassinations targeting senior Palestinian 
+political leaders and following terrorist attack s against Israelis (in the first case the 
+reaction is statistically insignificant at conventional levels) but decreases following 
+assassinations of senior Palestinian military leaders.  In sum, the results presented in 
+46  Arbitrage should work to eliminate any differences in stock prices between the Israeli and U.S. markets 
+implying that we need to analyze the behavior of stocks in only one market.  We were able to obtain more 
+stock price data for Magal in the U.S. market so we focus on the stocks’ record there. 
+
+20 
+Table 6 C  complement and strengthen those obtained from the analysis of the Israeli stock 
+market. 47 
+D. The Dynamics of Market Reaction 
+We turn now to an analysis of the dynamic properties of market reactions to 
+terrorism-related events.  In specific we want to examine whether the market reaction 
+represents just a “blip” – a sharp change followed by an immediate reversion - or tends to 
+persist for a longer period.  To conduct the analysis we construct a set of ten lags of the 
+dummy variables for the three terrorism-related events.  This enables us to capture the 
+dynamics of market reaction for the two trading weeks that follow these events.  The 
+regression we employ has on the left hand side the percentage change in the Tel Aviv 25 
+index.  On the right hand side we have the entire set of lagged and contemporaneous 
+dummies as well as the percentage change in the NASDAQ index. 
+Table 7 reports the results of this regression.  Figure 3 uses the output of the 
+regression to plot the cumulative change in the stock market.  The impact (same trading 
+day) reaction of the market to an assassina tion attempt targeting a Palestinian political 
+leader is a drop of 1.1 percent.  This negativ e reaction weakens but does not reverse itself 
+completely during the next two trading weeks.  The immediate reaction of the market to 
+the assassination of a Palestinian military leader is an increase of 0.6 percent.  This effect 
+too seems to persist and even strengthen in the following trading weeks.  The immediate 
+reaction of the market to a ma jor terrorist attack is a drop of 1.2 percent.  The market 
+seems to stay quite stable in the following da ys.  We conclude that the evidence does not 
+seem to support a “blip” view of market reactions. 48 
+47  Claude Berrebi and Esteban F. Klor (2005) examine how terrorism in Israel affects the performance of all 
+Israeli stocks traded in U.S. markets.  They find that terrorism has a positive effect on the stocks of defense 
+and security related companies and a negative effect on the stocks of other firms. 
+48  According to the Efficient Market Hypothesis an efficient market should react to new information 
+immediately and completely.  Our analysis demonstrates that market reactions to terrorism-related events 
+are indeed immediate (within the same trading day).  The fact that the market continues to exhibit some 
+fluctuations after the initial reaction may imply that it is not fully efficient.  Thus in the case of military 
+assassinations the market seems to under-react initially while in the case of political assassinations the 
+market seems to over-react initially.  However, since our regression does not control for many other 
+potential determinants of market movements and since it is likely that over time market participants receive 
+more news one should be cautious in drawing such conclusions.  
+
+21 
+E. Palestinian Stock Market Reactions 
+In order to examine terrorism and counterterrorism from a different, potentially 
+complementary, perspective we now turn to an analysis of Palestinian reactions to 
+terrorism-related events, as they are manifest ed in the Palestinian Securities Exchange. 49 
+To the best of our knowledge, this study is the first to use data from the Palestinian 
+Securities Exchange in an examination of stock market reactions to terrorism-related 
+events.  The Palestinian Securities Exchange st arted its operation in 1997.  The market is 
+relatively thin and trading suffe rs from periodic interruptions. 50   Surprisingly, despite the 
+drawbacks in the underlying data results are intuitively appealing and strong. 
+We focus our analysis on the Al-Quds  index, which represents the prices of 10 
+major stocks in the market.  Data for this index was available to us for the period January 
+2001 to April 2004.  Figure 4 contrasts the behavior of the Tel Aviv 25 stock market 
+index with that of the Al-Quds  index.  The two series tend to display the same broad 
+patterns of behavior.  Given the fact that the Palestinian economy is dependent on the 
+Israeli one and that the two stock markets are heavily influenced by the ups and downs of 
+the Israeli-Palestinian conflict, this  result should not be surprising. 
+Table 8 examines the reactions of the Pa lestinian market to terrorism-related 
+events.   In the first column of the table we reproduce, for the purpose of comparison, 
+previously reported results on the effects of terrorism-related events on the Tel Aviv 25 
+index. 51   In the second column we report the results of a regression of the percentage 
+change in the Al-Quds  index on terrorism-related event dummies and the percentage 
+change in NASDAQ.  Comparing the two columns we find that: both markets react 
+negatively to assassination attempts targeting senior Palestinian political leaders, 
+49 http://www.p-s-e.com/. 
+50  As of June 2004 26 companies were listed in the Palestinian Securities Exchange.  From January to April 
+2004 there were 3,200 transactions in the market with the total value of trades equal to 47 million U.S. 
+dollars.  Trading days are typically Sunday through Thursday, but occasionally the market does not open 
+for several days or more.  We adjusted our terrorism-related events data to the Palestinian Securities 
+Exchange trading schedule.  Most importantly, we dropped from our dataset observations where two 
+consecutive trading days were more than three days apart.  Experimenting with different thresholds did not 
+alter the results qualitatively.  
+51  These are the results displayed in the “Tel Aviv 25” row of Table 6 A . 
+
+22 
+although the reaction of the Al-Quds  index is stronger; both markets react positively to 
+assassination attempts targeting senior Palestinian military leaders (the reaction of the 
+Palestinian market is statistically insignific ant); both markets react negatively, and in a 
+quantitatively similar way, to majo r terrorist attacks against Israelis. 
+Summing up, it seems that there is a la rge degree of similarity in Israeli and 
+Palestinian stock market reaction to terrorism-related events.  One possible interpretation 
+of the results is that investors on both sides of the conflict share a common view 
+regarding its desired solution.  We plan to further investigate this question in future work. 
+IV. Discussion 
+Our analysis addresses some of the main issues raised by the literature on 
+counterterrorism.  A key distinction emphasized in this literature is that between 
+defensive and offensive counterterrorism meas ures.  The most important lesson of the 
+analysis of defensive measures is that they induce substitution by the terrorist 
+organizations: policies designed to reduce one type of terrorist attacks tend to increase 
+other attack modes.  For example, Jon Cauley and Eric I. Im (1988) and Walter Enders 
+and Todd Sandler (1993) have demonstrated that installation of metal detectors in airports 
+during the 1970s reduced skyjackings but increased other kinds of hostage attacks. 52 
+According to this literature offensive co unterterrorism measures could lead to 
+inter-temporal substitution: a concentrated counterterrorism offensive during one period 
+could yield a temporary decline in the production of terrorism in that period but at the 
+cost of increased terrorism in later periods.  This kind of substitution is suggested by the 
+Enders and Sandler (1993) analysis of the U.S. retaliatory raid on Libya in 1986.  The 
+analysis demonstrated that the raid had no long-term effect on curbing terrorist attacks 
+directed against U.S. interests.  Bryan Brophy-Baermann and John A.C. Conybeare 
+(1994) studied the Israeli retaliation for the 1972 Munich terrorist attack and reached 
+similar conclusions. 
+Our analysis focuses on an offensive counterterrorism policy.  From an economic 
+perspective assassinations are aimed at diminishing the resources available for terrorist 
+52  A survey of the counterterrorism literature on substitution effects is provided by Todd Sandler and 
+Walter Enders (2004).  A classic reference on substitution effects in warfare is Mancur Olson Jr. (1962). 
+
+23 
+organizations.  They target individuals who are involved in different modes of terrorist 
+activity, such as shooting attacks, mortar shelling, and suicide bombings.  Thus the 
+substitution effects induced by assassinations are relatively limited.  Moreover, because 
+the assassinations policy was applied so frequently throughout the Al-Aksa Intifada , inter- 
+temporal substitution effects were probably also limited. 
+ Some lessons relevant for counterterrorism policies are implied by the recent 
+economic literature that attempts to examine th e root causes of terrorism.  Two lines of 
+research are notable within this literature.  The first analyzes the connection between 
+poverty and education on the one hand and involvement in terrorism on the other.  
+Studies by Claude Berrebi (2003), Alan Krueger and Jitka Maleckova (2003), and 
+Alberto Abadie (2004) argue that, contrary to conventional wisdom, there is little direct 
+connection between poverty or lack of education and participation in terrorism.  These 
+results seem to suggest that economic growth would not necessarily result in the decline 
+of terrorism.  Both Berrebi (2003) and Kr ueger and Maleckova (2003) argue that on the 
+educational front the focus should not be on the quantity of education provided but rather 
+on educational contents. 
+ The second line of research examines terrorism from the perspective of a “club- 
+good” model.  Examples include Eli Berman (2003), Eli Berman and David D. Laitin 
+(forthcoming), and Laurence R. Iannaccone (2003).  The counterterrorism policy 
+recommendations that are implied by this type of analysis call for action aimed at 
+weakening the terrorist organizations’ social service provision networks and 
+strengthening of competing networks through government and markets.  The emphasis is 
+on political, economic, and social measures. 
+The offensive military approach which we have analyzed in this paper could be 
+viewed as a complement to such measures.   There is a wide consensus among observers 
+that the Israeli-Palestinian conflict has no military solution and that political dialogue 
+should play the major role in any attempt to resolve it.  At the same time it is widely 
+believed, at least among the Israeli public, that the use of force to combat terrorism is 
+inescapable. 53   During the period under investigation assassinating members of 
+53  Opinion polls show that during the period under investigation the Israeli public was by and large 
+supportive of the assassinations policy.  The Tami Steinmetz Center of Peace in Tel Aviv University 
+
+24 
+Palestinian terrorist organizations was a major element in Israel’s counterterrorism effort.  
+We hope that our study has shed some light on the question of the effectiveness of this 
+policy.  Despite the differences in circumstances, the lessons learned from the Israeli 
+experience may serve other countries which face similar dilemmas. 
+V. Conclusion 
+Since September 11, 2001 terrorism has been at the center of world attention.  The 
+severity of this and other terrorist attacks na turally resulted in enhanced efforts to find 
+effective ways of combating terrorism.  One of the most controversial counterterrorism 
+policies is that of assassinations. 
+This paper offers a unique quantitative economic analysis of the effectiveness of 
+assassinations.  We examine the case of Israel, a country that has been suffering from 
+terrorism for years and extensively employs various counterterrorism measures.  In the 
+period that we focus on, September 2000 to April 2004, assassinating members of 
+Palestinian terrorist organizations was a major element in Israel’s counterterrorism effort. 
+Our indirect approach to evaluating the e ffectiveness of assassinations is based on 
+Israeli stock market reactions to news of such operations.  We rely on the fact that 
+terrorism has adverse macroeconomic effects on the Israeli economy and on the forward- 
+looking, information-aggregating nature of asset markets to claim that the stock market 
+should react positively to new about effectiv e counterterrorism measures but negatively 
+to news about counter-productive ones.   
+Using a unique dataset on more than a hundred assassinations attempted during 
+the Al-Aksa Intifada  (from September 2000 to April 2004), our analysis demonstrates that 
+the reaction of the Tel Aviv Stock Exch ange to assassinations depends on two 
+characteristics of the targets: seniority and wing membership.  The market does not react 
+to assassinations of low ranked members of  Palestinian terrorist organizations.  The 
+market does react strongly, however, to the assassinations of senior leaders of terrorist 
+organizations: it declines following assassinations targeting senior political leaders but 
+rises following assassinations of senior milita ry leaders.  This implies that the market 
+conducts monthly opinion polls focusing on issues related to the Israeli-Palestinian conflict.  In several of 
+the polls respondents were asked whether they support the assassinations policy.  In all the polls support for 
+the policy was in the range of 60 to 70 percent, with no clear upward or downward trend. 
+
+25 
+perceives the first type of assassinations as counterproductive but the second as an 
+effective counterterrorism policy. 
+
+26 
+REFERENCES 
+Abadie, Alberto.  “Poverty, Political Freedom, and the Roots of Terrorism.” National 
+Bureau of Economic Research (Cambridge, MA) Working Paper No. 10859, October 
+2004. 
+Abadie, Alberto and Gardeazabal, Javier.  “The Economic Costs of Conflict: A Case 
+Study of the Basque Country.” American Economic Review , March 2003, 93(1), pp. 
+113-32. 
+Amihud, Yakov and Wohl, Avi.  “Political News and Stock Pr ices: The Case of Saddam 
+Hussein Contracts.” Journal of Banking & Finance , May 2004, 28(5), pp. 1185- 
+1200. 
+Ben-Israel, Isaac; Setter, Oren and Tishler, Asher.  “R&D and the War on Terrorism: 
+Generalizing the Israeli Experience,” in Andrew James, ed., Science and Technology 
+Policies for the Anti-Terrorism Era , Oxford: IOS Press, forthcoming. 
+Berman, Eli.  “Hamas, Taliban and the Jewish Underground: An Economist’s View of 
+Radical Religious Militias.” National Bu reau of Economic Research (Cambridge, 
+MA) Working Paper No. 10004, September 2003. 
+Berman, Eli and Laitin, David D.  “Rational Martyrs vs. Hard Targets: Evidence from 
+the Tactical Use of Suicide Attacks,” in Eva Meyersson Milgrom, ed., Suicide 
+Bombing from an Interdisciplinary Perspective . Princeton: Princeton University 
+Press, forthcoming.  
+Berrebi, Claude.  “Evidence about the Link between Education, Poverty and Terrorism 
+among Palestinians.” Princeton University Industrial Relations Section Working 
+Paper No. 477, September 2003. 
+Berrebi, Claude and Klor, Esteban F.  “The Impact of Terrorism across Different 
+Industries: An Empirical Study.” Mimeo, Rand Corporation and Hebrew University, 
+February 2005. 
+Black, Ian and Morris, Benny. Israel’s Secret Wars: A Hist ory of Israel’s Intelligence 
+Services . New York: Grove Weidenfeld, 1991. 
+Brophy-Baermann Bryan a nd Conybeare, John A.C.  “Retaliating against Terrorism: 
+Rational Expectations and the Optima lity of Rules versus Discretion.” American 
+Journal of Political Science , February 1994, 38(1), pp. 196-210. 
+
+27 
+Cauley, Jon and Im, Eric I.  “Intervention Policy Analysis of Skyjackings and Other 
+Terrorist Incidents.” American Economic Review , May 1988 ( Papers and 
+Proceedings) , 78(2), pp. 27-31. 
+David, Steven R.  “Fatal Choices: Israel’s Policy of Targeted Killing.” Bar-Ilan 
+University Begin-Sadat Center for Strategic Studies Working Paper No. 51, 
+September 2002. 
+Eckstein, Zvi and Tsiddon, Daniel.  “Macroeconomic Conseque nces of Terror: Theory 
+and the Case of Israel.” Journal of Monetary Economics , July 2004, 51(5), pp. 971- 
+1002. 
+Eldor, Rafi and Melnick, Rafi.  “Financial Markets and Terrorism.” European Journal 
+of Political Economy , June 2004, 20(2), pp. 367-386. 
+Enders, Walter and Sandler, Todd.  “The Effectiveness of Antiterrorism Policies: A 
+Vector-Autoregression-Intervention Analysis.” American Political Science Review , 
+December 1993, 87(4), pp. 829-44. 
+Fielding, David. “Modelling Political Instability and Economic Performance: Israeli 
+Investment during the Intifada .” Economica , February 2003 (2003a), 117(70), pp. 
+159–186. 
+_______. “Counting the Cost of the Intifada : Consumption, Saving and Political 
+Instability in Israel.” Public Choice , September 2003 (2003b), 116(3-4), pp. 297– 
+312. 
+Frey, Bruno S.; Luechinger, Simon and Stutzer, Alois . “Calculating Tragedy: 
+Assessing the Costs of Terrorism.” Zuri ch University Institute for Empirical 
+Research in Economics Working Paper No. 205, September 2004. 
+Ganor, Boaz. The Counterterrorism Puzzle: A Guide for Decision Makers . Herzliya, 
+Israel: International Policy Institute for Counterterrorism, 2003 [In Hebrew]. 
+Gazit, Shlomo.  “Israel,” in Yonah Alexander, ed., Combating Terrorism: Strategies of 
+Ten Countries . Ann Arbor: University of Michigan Press, 2002. 
+Gilon, Carmi. Shin-Beth between the Schisms . Tel Aviv: Yedioth Ahronoth, 2000 [in 
+Hebrew]. 
+Gordon, Shmuel L. Israel against Terror: A National Assessment .  Tel Aviv: Meltzer, 
+2002 [In Hebrew]. 
+
+28 
+Haj-Yehia, Samer.   “Terrorizing the Consumers and Investors.” Mimeo, Massachusetts 
+Institute of Technology, November 2003. 
+Harel, Amos and Isacharoff, Avi. The Seventh War . Tel Aviv: Yedioth Ahronoth, 2004 
+[in Hebrew]. 
+Hoffman, Bruce.  “The Logic of Suicide Terrorism.” Atlantic Monthly , June 2003, 
+291(5), pp. 40-47. 
+Iannaccone, Laurence R.  “The Market for Martyrs.” Mimeo, George Mason University, 
+December 2003. 
+Jaeger, David A. and Paserman, M. Daniele . “The Spiral of Violence? An Empirical 
+Analysis of Fatalities in the Palestinian -Israeli Conflict.” College of William and 
+Mary, Department of Economics, Working Paper No. 22, October 2005.  
+Kaplan, Edward H.; Mintz, Alex; Mishal, Shaul and Samban, Claudio.  “What 
+Happened to Suicide Bombings in Israel? Insights from a Terror Stock Model.” 
+Studies in Conflict & Terrorism , May-June 2005, 28(3), pp. 225-235. 
+Krueger, Alan B. and Maleckova, Jitka.  “Education, Poverty and Terrorism: Is There a 
+Causal Connection?” Journal of Economic Perspectives , Fall 2003, 17(4), pp. 119- 
+44. 
+Laqueur, Walter. No End to War: Terrorism in the Twenty-First Century . New York: 
+Continuum, 2003. 
+Leigh, Andrew; Wolfers, Justin and Zitzewitz, Eric.  “What do Financial Markets 
+Think of War in Iraq?” National Bureau of Economic Research (Cambridge, MA) 
+Working Paper No. 9587, March 2003. 
+Luft, Gal.  “The Palestinian H-Bomb: Te rror’s Winning Strategy.” Foreign Affairs , 
+July/August 2002, 81(4), pp. 2-7. 
+_______.  “The Logic of Israel’s Targeted Killing.” Middle East Quarterly , Winter 2003, 
+10(1), pp. 6-13. 
+Olson, Mancur Jr.  “The Economics of Target Selection for the Combined Bomber 
+Offensive.” The Royal United Services Institution Journal , November 1962, 107, pp. 
+308-14. 
+Pape, Robert A.  “The Strategic Logic of Suicide Terrorism.” American Political Science 
+Review , August 2003, 97(3), pp. 343-61. 
+
+29 
+Raviv, Dan and Melman, Yossi. Every Spy a Prince: The Complete History of Israel’s 
+Intelligence Community . Boston: Houghton Mifflin, 1990. 
+Rosendorff, B. Peter and Sandler, Todd.  “Too Much of a Good Thing? The Proactive 
+Response Dilemma” Journal of Conflict Resolution , October 2004, 48(5), pp. 657- 
+71. 
+Sandler, Todd and Enders, Walter.  “What Do We Know About the Substitution Effect 
+in Transnational Terrorism ?” in Andrew Silke, ed ., Researching Terrorism: Trends, 
+Achievements, Failures . London: Frank Cass, 2004. 
+Shimron, Gad. The Mossad and its Myth . Jerusalem: Keter, 2002 [In Hebrew]. 
+Sprinzak, Ehud.  “Rational Fanatics.” Foreign Policy , September/October 2000, 120(5), 
+pp. 66-73. 
+Surowiecki, James. The Wisdom of Crowds .  New York: Doubleday, 2004. 
+Wolfers, Justin and Zitzewitz, Eric.  “Prediction Markets.” Journal of Economic 
+Perspectives , Spring 2004, 18(2), pp. 107-26. 
+Zonder, Moshe. The Elite Unit of Israel . Jerusalem: Keter, 2000 [In Hebrew]. 
+
+30 
+T ABLE 1 - D ESCRIPTIVE S TATISTICS ON A SSASSINATION A TTEMPTS 
+Total number September 2000 - April 2004 159 
+Year 2000 (September - December) 10 
+ 2001 40 
+ 2002 56 
+ 2003 44 
+ 2004 (January - April) 9 
+Location West Bank 110 
+ Gaza Strip 49 
+Method  Shooting (light arms) 75 
+ Helicopter missiles 54 
+ Explosive devices 22 
+ Other 8 
+Organization a Hamas 80 
+ Fatah 49 
+ Islamic Jihad 27 
+ Other 8 
+Target killed Yes 135 
+ No 24 
+Persons killed Combatants b  248 
+ Non-combatants 69 
+ Total 317 
+Source: Based on a dataset compiled by the authors as described in the text. 
+Notes: 
+a  In some cases members of more than one organization were targeted simultaneously. 
+b  Combatants are defined as members of terrorist organizations. 
+
+31 
+T ABLE 2 - A SSASSINATIONS T ARGETED AT S ENIOR M EMBERS OF T ERRORIST O RGANIZATIONS 
+S UMMARY S TATISTICS 
+ Political wing classification criterion 
+ Least restrictive Restrictive Most restrictive 
+Senior member of the political wing 15 10 8 
+(killed) (10) (7) (5) 
+Senior member of the military wing 24 29 31 
+(killed) (23) (26) (28) 
+Total 39 39 39 
+(killed) (33) (33) (33) 
+Notes: The political wing classification criteria are based on the opinions of four experts.  According to the least 
+restrictive criterion the target of an assassination would be classified as a member of the political wing (as opposed 
+to the military wing) of his organization if at least one of the experts classified him in such a way.  According to the 
+more restrictive criterion the target needs at least two votes to be classified as a member of the political wing.  
+According to the most restrictive criterion a target would be classified as a member of the political wing if there is 
+consensus about it among the experts.  Target seniority was established by analyzing coverage in the Israeli 
+newspaper The Jerusalem Post.  We define a target as senior if at least two of the following three conditions hold: 
+(1) in the day after the assassination it was covered in a front page article; (2) in the day after the assassination its 
+target was mentioned in more than one article; (3) the name of target was mentioned in the newspaper prior to his 
+assassination. 
+
+32 
+T ABLE 3 – L IST OF A SSASSINATIONS T ARGETED AT S ENIOR M EMBERS OF 
+T ERRORIST O RGANIZATIONS 
+        
+Political b Date Main target’s name a  Organization Killed 
+L R M 
+TA25 c 
+11/09/2000 Hussein Abayat Fatah Yes 0 0 0 -1.33 
+12/11/2000 Anwar Mahmoud Hamran Islamic Jihad Yes 0 0 0  1.58 
+12/31/2000 Thabet Thabet Fatah Yes 1 1 1 -1.26 
+02/13/2001 Massoud Iyyad Fatah Yes 1 0 0 -0.13 
+04/05/2001 Iyad Hardan Islamic Jihad Yes 0 0 0  3.66 
+06/24/2001 Osama Jawabri Fatah Yes 0 0 0 -0.33 
+07/01/2001 Mohammed Besharat Hamas Yes 0 0 0 -0.04 
+07/31/2001 Jamal Mansour Hamas Yes 1 1 0 -1.09 
+08/22/2001 Mohammed Deif Hamas No 1 0 0 -0.27 
+08/27/2001 Mustafa Zibri  PFLP d  Yes 1 1 1  0.35 
+09/06/2001 Raed Karmi Fatah No 0 0 0  0.12 
+10/14/2001 Abdel Rahman Hamad Hamas Yes 0 0 0 -0.58 
+10/18/2001 Atef Abayat Fatah Yes 1 0 0  0.86 
+11/23/2001 Mahmoud Abu Hanoud Hamas Yes 0 0 0  1.40 
+12/17/2001 Yakub Idkadak Hamas Yes 0 0 0 -0.82 
+01/14/2002 Raed Karmi Fatah Yes 0 0 0 -0.05 
+01/22/2002 Nassim Abu-Ros Hamas Yes 0 0 0  0.67 
+03/05/2002 Muhand Dirya Abu Haliwa Fatah Yes 0 0 0 -1.98 
+04/05/2002 Qais Adwan Hamas Yes 0 0 0  2.87 
+04/10/2002 Akram al-Atrash Hamas Yes 0 0 0  1.73 
+07/23/2002 Salah Shehadeh Hamas Yes 1 0 0 -1.76 
+08/06/2002 Ali Ajouri Fatah Yes 0 0 0  0.79 
+09/26/2002 Muhammad Deif Hamas No 1 0 0  0.55 
+11/09/2002 Iyad Sawalha Islamic Jihad Yes 0 0 0  1.18 
+02/17/2003 Riad Abu Zeid Hamas Yes 0 0 0  2.82 
+03/08/2003 Ibrahim al-Makadme Hamas Yes 1 1 0 -0.72 
+03/18/2003 Nasser Asida Hamas Yes 0 0 0  4.00 
+04/29/2003 Nidal Salama PFLP d  Yes 0 0 0  2.53 
+05/08/2003 Iyad al-Bek Hamas Yes 0 0 0 -0.24 
+06/10/2003 Abdel Aziz Rantisi Hamas No 1 1 1 -1.38 
+06/11/2003 Tito Massoud Hamas Yes 0 0 0 -0.60 
+08/14/2003 Muhammad Sider Islamic Jihad Yes 0 0 0 -0.75 
+08/21/2003 Ismail Abu Shanab Hamas Yes 1 1 1 -1.10 
+09/06/2003 Ahmed Yassin Hamas No 1 1 1 -2.72 
+09/10/2003 Mahmoud Zahar Hamas No 1 1 1 -1.70 
+09/25/2003 Diab Rahim Shweike Islamic Jihad Yes 0 0 0 -0.29 
+12/25/2003 Makhled Hamed Islamic Jihad Yes 0 0 0  1.84 
+03/22/2004 Ahmed Yassin Hamas Yes 1 1 1 -1.79 
+04/17/2004 Abdel Aziz Rantisi Hamas Yes 1 1 1  0.00 
+a  In some cases several individuals were targeted simultaneously. 
+b  Political wing classification criteria (L = Least restrictive, R = Restrictive, M = Most 
+restrictive).  See the note in Table 2 for details. 
+c  Percentage change in the Tel-Aviv 25 stock market index. 
+d  PFLP = Popular Front for the Liberation of Palestine. 
+
+33 
+T ABLE 4 A - M ARKET R EACTIONS TO A SSASSINATIONS 
+Dependent variable: percentage change in the Tel Aviv 25 stock market index 
+ Distinction between members of political and military wings 
+ None None Political wing  classification criterion 
+   Least 
+restrictive 
+Restrictive Most 
+restrictive 
+ (1) (2) (3) (4) (5) 
+All assassinations -0.00 
+(0.14) 
+Junior (military) target  -0.07 
+(0.16) 
+-0.07 
+(0.16) 
+-0.07 
+(0.16) 
+-0.07 
+(0.16) 
+Senior target 0.16 
+(0.25) 
+Senior political target -0.71 *** 
+(0.25) 
+-1.09 *** 
+(0.27) 
+-1.11 *** 
+(0.33) 
+Senior military target 0.70 ** 
+(0.32) 
+0.59 ** 
+(0.27) 
+0.49 * 
+(0.27) 
+Percentage change in NASDAQ 0.15 *** 
+(0.03) 
+0.15 *** 
+(0.03) 
+0.14 *** 
+(0.02) 
+0.15 *** 
+(0.02) 
+0.14 *** 
+(0.03) 
+Constant 0.01 
+(0.05) 
+0.01 
+(0.05) 
+0.01 
+(0.05) 
+0.01 
+(0.05) 
+0.01 
+(0.05) 
+R 2  0.05 0.05 0.06 0.06 0.06 
+Observations 881 881 881 881 881 
+Notes: The wing classification and seniority criteria are described in a note in Table 2.   Estimated by ordinary least squares . 
+Robust standard errors are reported in parentheses.  * , ** , ***  represent statistical significance at the 10, 5, and 1 percent levels in 
+a two-sided t-test. 
+
+34 
+T ABLE 4 B - M ARKET R EACTIONS TO A SSASSINATIONS , T ARGET K ILLED 
+Dependent variable: percentage change in the Tel Aviv 25 stock market index 
+ Distinction between members of political and military wings 
+ None None Political wing  classification criterion 
+   Least 
+restrictive 
+Restrictive Most 
+restrictive 
+ (1) (2) (3) (4) (5) 
+All assassinations 0.08 
+(0.15) 
+Junior (military) target -0.02 
+(0.17) 
+-0.02 
+(0.17) 
+-0.02 
+(0.17) 
+-0.02 
+(0.17) 
+Senior target 0.34 
+(0.27) 
+Senior political target -0.54 ** 
+(0.25) 
+-0.73 *** 
+(0.26) 
+-0.63 * 
+(0.35) 
+Senior military target 0.72 ** 
+(0.33) 
+0.63 ** 
+(0.30) 
+0.51 * 
+(0.29) 
+Percentage change in NASDAQ 0.15 *** 
+(0.03) 
+0.15 *** 
+(0.03) 
+0.14 *** 
+(0.02) 
+0.15 *** 
+(0.02) 
+0.15 *** 
+(0.03) 
+Constant -0.00 
+(0.05) 
+-0.00 
+(0.05) 
+-0.00 
+(0.05) 
+-0.00 
+(0.05) 
+-0.00 
+(0.05) 
+R 2  0.05 0.05 0.06 0.06 0.06 
+Observations 881 881 881 881 881 
+Notes: see notes for Table 4 A . 
+
+35 
+T ABLE 4 C - M ARKET R EACTIONS TO A SSASSINATIONS OF S ENIOR T ARGETS 
+(Combining Media Coverage and Expert Opinion Seniority Criteria) 
+Dependent variable: percentage change in the Tel Aviv 25 stock market index 
+ Distinction between members of political and military wings 
+ None Political wing classification criterion 
+Least 
+restrictive Restrictive Most 
+restrictive 
+ (1) (2) (3) (4) 
+Junior (military) target -0.02 
+(0.15) 
+-0.02 
+(0.15) 
+-0.02 
+(0.15) 
+-0.02 
+(0.15) 
+Senior target 0.04 
+(0.31) 
+Senior political target  -0.71 *** 
+(0.25) 
+-1.08 *** 
+(0.27) 
+-1.11 *** 
+(0.33) 
+Senior military target  0.90 * 
+(0.50) 
+0.66 * 
+(0.38) 
+0.50 
+(0.36) 
+Percentage change in NASDAQ 0.15 *** 
+(0.03) 
+0.14 *** 
+(0.02) 
+0.15 *** 
+(0.02) 
+0.15 *** 
+(0.03) 
+Constant 0.01 
+(0.05) 
+0.01 
+(0.05) 
+0.01 
+(0.05) 
+0.01- 
+(0.05) 
+R 2  0.05 0.06 0.06 0.06 
+Observations 881 881 881 881 
+Notes: see notes for Table 4 A .  An assassination target is defined as senior only if he satisfies both the media 
+coverage and the experts\ ranking seniority criteria 
+
+36 
+T ABLE 5 - D ETERMINANTS OF THE M ARKET R EACTIONS TO A SSASSINATIONS 
+Dependent variable: percentage change in the Tel Aviv 25 stock market index 
+(1) (2) (3) (4) (5) (6) 
+Junior (military) target -0.17 
+(0.16) 
+-0.01 
+(0.15) 
+-0.09 
+(0.16) 
+-0.05 
+(0.16) 
+-0.07 
+(0.16) 
+-0.13 
+(0.16) 
+Senior political target -1.16 *** 
+(0.29) 
+-0.98 *** 
+(0.28) 
+-1.12 *** 
+(0.28) 
+-0.89 *** 
+(0.28) 
+-1.33 *** 
+(0.30) 
+-1.14 *** 
+(0.40) 
+Senior military target 0.51 * 
+(0.27) 
+0.66 ** 
+(0.28) 
+0.56 ** 
+(0.28) 
+0.70 ** 
+(0.28) 
+0.89 * 
+(0.47) 
+1.08 ** 
+(0.43) 
+Same day assassination (military targets) 0.77 ** 
+(0.39) 
+0.86 ** 
+(0.35) 
+Same day terrorist attack -1.03 
+(0.63) 
+-1.03 
+(0.65) 
+Major terrorist attack  in previous week 0.15 
+(0.38) 
+0.24 
+(0.34) 
+Number of noncombatants killed  -0.13 *** 
+(0.04) 
+-0.17 *** 
+(0.05) 
+Senior political target, early period     0.82 * 
+(0.48) 
+0.90 * 
+(0.48) 
+Senior military target killed, early period     -0.50 
+(0.56) 
+-0.73 
+(0.53) 
+Percentage change in NASDAQ 0.15 *** 
+(0.03) 
+0.15 *** 
+(0.03) 
+0.15 *** 
+(0.03) 
+0.14 *** 
+(0.02) 
+0.15 *** 
+(0.03) 
+0.15 *** 
+(0.03) 
+Constant 0.01 
+(0.05) 
+0.01 
+(0.05) 
+0.01 
+(0.05) 
+0.01 
+(0.05) 
+0.01 
+(0.05) 
+0.01 
+(0.05) 
+R 2  0.06 0.06 0.06 0.06 0.06 0.07 
+Observations 881 881 881 881 881 881 
+Notes: Estimated by ordinary least squares.  Robust standard errors are reported in parentheses.  * , ** , ***  represent 
+statistical significance at the 10, 5, and 1 percent levels in a two-sided t-test. 
+
+37 
+T ABLE 6 A - M ARKET R EACTIONS TO M AJOR T ERRORISM -R ELATED E VENTS 
+A GGREGATE I NDICES 
+Dependent variable: percentage change in the stock market index 
+ Tel Aviv 25 Tel Aviv 100 Tel Aviv general 
+Assassination: senior political target -1.02 *** 
+(0.28) 
+-0.89 *** 
+(0.25) 
+-0.57 ** 
+(0.25) 
+Assassination: senior military target 0.63 ** 
+(0.28) 
+0.60 ** 
+(0.24) 
+0.48 ** 
+(0.20) 
+Major terrorist attack -1.09 *** 
+(0.20) 
+-0.98 *** 
+(0.18) 
+-0.79 *** 
+(0.15) 
+Percentage change in NASDAQ 0.15 *** 
+(0.02) 
+0.13 *** 
+(0.02) 
+0.11 *** 
+(0.02) 
+Constant 0.05 
+(0.05) 
+0.05 
+(0.05) 
+0.05 
+(0.04) 
+R 2  0.08 0.08 0.07 
+Observations 881 881 881 
+Notes: Estimated by ordinary least squares.  Robust standard errors are reported in parentheses.  * , ** , ***  represent 
+statistical significance at the 10, 5, and 1 percent levels in a two-sided t-test. 
+
+38 
+T ABLE 6 B - M ARKET R EACTIONS TO M AJOR T ERRORISM -R ELATED E VENTS 
+S ECTORAL I NDICES 
+Dependent variable: percentage change in the sectoral stock market index 
+Technology Banks Mortgage 
+banks 
+Insurance Commerce, 
+services 
+Real estate, 
+construction, 
+agriculture 
+Industry 
+Assassination: senior political target -0.64 
+(0.65) 
+-0.17 
+(0.22) 
+-0.45 
+(0.41) 
+-0.66 ** 
+(0.30) 
+0.27 
+(0.38) 
+-0.05 
+(0.10) 
+0.11 
+(0.12) 
+Assassination: senior military target 0.13 
+(0.18) 
+0.11 
+(0.14) 
+0.05 
+(0.15) 
+-0.16 
+(0.11) 
+0.06 
+(0.09) 
+0.06 
+(0.08) 
+-0.08 
+(0.09) 
+Major terrorist attack 0.22 
+(0.13) 
+-0.24 ** 
+(0.12) 
+0.19 
+(0.28) 
+-0.23 * 
+(0.14) 
+-0.05 
+(0.09) 
+-0.00 
+(0.05) 
+0.16 
+(0.10) 
+Percentage change in Tel Aviv general 1.22 *** 
+(0.04) 
+1.08 *** 
+(0.03) 
+0.75 *** 
+(0.05) 
+1.15 *** 
+(0.04) 
+1.07 *** 
+(0.02) 
+0.53 *** 
+(0.02) 
+0.97 *** 
+(0.02) 
+Constant -0.07 ** 
+(0.03) 
+0.00 
+(0.03) 
+0.05 
+(0.04) 
+0.06 * 
+(0.03) 
+-0.03 * 
+(0.02) 
+0.00 
+(0.02) 
+0.03 
+(0.02) 
+R 2  0.69 0.70 0.39 0.68 0.83 0.60 0.78 
+Observations 881 881 881 881 881 881 881 
+Notes: see notes for Table 6 A . 
+
+39 
+T ABLE 6 C - M ARKET R EACTIONS TO M AJOR T ERRORISM -R ELATED E VENTS 
+S TOCKS OF S PECIFIC F IRMS 
+Dependent variable: percentage change in stock price of selected firm 
+ Blue Square Magal 
+Assassination: senior political target -2.52 ***  5.58 
+(0.57) (3.55) 
+Assassination: senior military target 1.39 *  -1.55 * 
+(0.78) (0.83) 
+Major terrorist attack -0.79 *  2.70 *** 
+(0.45) (1.00) 
+Percentage change in aggregate stock market index 0.25 ***  0.09 
+(0.08) (0.15) 
+Constant 0.10 0.16 
+(0.11) (0.20) 
+R 2  0.05 0.03 
+Observations 533 796 
+Notes: see notes for Table 6 A .  The aggregate stock market index is Standard and Poor 500 for 
+column (1) and NASDAQ for column (2).  The number of observations in each regression varies 
+because the stocks do not trade every day. 
+
+40 
+T ABLE 7 - S TOCK M ARKET B EHAVIOR A FTER M AJOR T ERRORISM -R ELATED E VENTS 
+Dependent variable: percentage change in the Tel Aviv 25 stock market index 
+ Assassination: senior 
+political target 
+Assassination: senior 
+military target 
+Major terrorist attack 
+ Coefficient Standard 
+error 
+Coefficient Standard 
+Error 
+Coefficient Standard 
+Error 
+t -1.08 ***  0.31 0.60 **  0.27 -1.25 ***  0.22 
+t+1 -0.01 0.36 0.07 0.39 0.10 0.21 
+t+2 -0.39 0.39 0.05 0.26 0.17 0.22 
+t+3 0.08 0.61 -0.03 0.22 -0.10 0.27 
+t+4 0.17 0.31 0.58 *  0.33 -0.32 0.26 
+t+5 0.11 0.40 0.42 *  0.23 0.38 0.33 
+t+6 -0.17 0.27 -0.20 0.29 -0.17 0.24 
+t+7 0.85 **  0.40 -0.55 **  0.23 0.05 0.22 
+t+8 -0.16 0.33 0.19 0.34 -0.08 0.26 
+t+9 0.42 0.34 0.20 0.28 0.13 0.19 
+t+10 0.02 0.37 0.35 0.33 0.28 0.22 
+NASDAQ 0.14 ***  0.03     
+Constant 0.01 0.08     
+R 2  0.15      
+Observations 862      
+Notes:  The set of explanatory variables includes contemporaneous values and 10 lags of the dummy 
+variables for the three terrorism-related events, the percentage change in NASDAQ, and a constant. The 
+regressions were estimated by ordinary least squares with robust standard errors.  * , ** , ***  represent 
+statistical significance at the 10, 5, and 1 percent levels in a two-sided t-test. 
+
+41 
+T ABLE 8 - I SRAELI AND P ALESTINIAN S TOCK M ARKET R EACTIONS TO M AJOR T ERRORISM - 
+R ELATED E VENTS 
+Percentage change in the 
+Tel Aviv 25 index (Israel) a 
+Percentage  change in the 
+Al-Quds index (Palestine) 
+Assassination-political leader -1.02 ***  -2.08 *** 
+(0.28) (0.52) 
+Assassination-military leader 0.63 **  0.42 
+(0.28) (0.52) 
+Major terrorist attack -1.09 ***  -1.19 *** 
+(0.20) (0.37) 
+Percentage change in NASDAQ 0.15 ***  0.03 
+(0.02) (0.03) 
+Constant 0.05 0.07 
+(0.05) (0.07) 
+R 2  0.08 0.06 
+Observations 881 456 
+Notes:  Estimated by ordinary least squares.  Robust standard errors are reported in parentheses.  * , ** , *** 
+represent statistical significance at the 10, 5, and 1 percent levels in a two-sided t-test. 
+a  Replicates results from column (1) of Table 6 A . 
+
+Figure 1 
+Israeli Civilians Killed in Palestinian Terrorist Attacks 
+September 2000 - April 2004 
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+Within Israel's 1967 borders Inside the Occupied Territories (Including East Jerusalem) 
+Source: B'tselem - The Israeli Information Center for Human Rights in the Occupied Territories 
+
+Figure 2 
+Histogram of Stock Market Reactions to Assassination Attempts 
+September 2000 - April 2004 
+0 
+5 
+10 
+15 
+20 
+25 
+30 
+35 
+40 
+-6 to -5 -5 to -4 -4 to -3 -3 to -2 -2 to -1 -1 to 0 0 to 1 1 to 2 2 to 3 3 to 4 4 to 5 
+TA25 percentage change 
+Source: see text 
+
+Figure 3 
+The Dynamics of Market Reactions to Major Terrorism-Related Events 
+-2.0 
+-1.5 
+-1.0 
+-0.5 
+0.0 
+0.5 
+1.0 
+1.5 
+2.0 
+t t+1 t+2 t+3 t+4 t+5 t+6 t+7 t+8 t+9 t+10 
+assassination: senior military target 
+assassination: senior political target 
+major terrorist attack 
+Source: see text. 
+
+Figure 4 
+Israeli and Palestinian Stock Markets 
+January 2001 - April 2004 
+60 
+70 
+80 
+90 
+100 
+110 
+120 
+Israel (Tel Aviv 25 Index) Palestine (Al-Quds Index) 
+Source: See text 
+Note: the figure displays data for all trading days in which either index is available 

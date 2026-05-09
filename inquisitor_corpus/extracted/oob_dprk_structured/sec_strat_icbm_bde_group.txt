@@ -1,0 +1,17 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: Strategic Force ICBM Brigade Group (Hwasong-14/15/17/18/19)
+
+**Unit ID**: strat_icbm_bde_group
+**Service**: KPA Strategic Force
+**Type**: missile_bureau
+**Headquarters**: Third belt / deep interior; Yusang-ni, Hoejung-ni, Riman-ri (largest base), Yongnim
+**Parent**: KPA Strategic Force / Missile General Bureau (Jeonnyakgun) (strategic)
+**Strength (% authorized)**: 88.0%
+**Notes**: ICBM force. Hwasong-14 (10,000+km tested Jul 2017), Hwasong-15 (13,000km, Nov 2017), Hwasong-17 mod 1 (>13,000km, 11+ systems, tested Mar 2022), Hwasong-18 solid-fuel ICBM (Apr 2023, first solid ICBM), Hwasong-19 (Oct 2024, at least 15,000km) [POST-2021 UPDATE: Wikipedia Strategic Force 2024]. Brigade/unit designations not in open sources; DIA NKMP 2021 notes 200+ road-mobile launchers total force-wide. [DIA NKMP 2021; Wikipedia Strategic Force]
+
+## Subordinate Division / Brigade / Flotillas
+- **Hwasong-17 ICBM Brigade** (elite) (strat_icbm_bde_hs17) — type: rocket_brigade, HQ: Deep interior; Riman-ri or Yusang-ni area, strength: 88.0%. ELITE. POST-2021 ADDITION. Hwasong-17 (>13,000km; 11+ systems). First tested Mar 2022. Largest liquid-fueled ICBM in NK arsenal. [Wikipedia Strategic Force 2024] [POST-2021 UPDATE]
+- **Hwasong-18 Solid-Fuel ICBM Brigade** (elite) (strat_icbm_bde_hs18) — type: rocket_brigade, HQ: Deep interior (location classified), strength: 85.0%. ELITE. POST-2021 ADDITION. Hwasong-18 (15,000km; first solid-fuel ICBM in NK arsenal; tested Apr 2023). Significantly improved survivability vs. liquid-fueled systems. [Wikipedia Strategic Force 2024] [POST-2021 UPDATE]
+- **Hwasong-19 ICBM Brigade** (elite) (strat_icbm_bde_hs19) — type: rocket_brigade, HQ: Deep interior (location classified), strength: 82.0%. ELITE. POST-2021 ADDITION. Hwasong-19 (at least 15,000km; tested Oct 2024). Newest ICBM in NK arsenal. Operational brigade status unclear — may be in limited initial deployment. [Wikipedia Strategic Force 2024] [POST-2021 UPDATE]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

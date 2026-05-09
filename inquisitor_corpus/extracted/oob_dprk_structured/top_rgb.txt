@@ -1,0 +1,13 @@
+# Korean People's Army — General Staff Directorate: Reconnaissance General Bureau (Jeonggal Chongguk, KPA Unit 586)
+
+**ID**: RGB
+**Headquarters**: Pyongyang
+**Commander (current)**: Col Gen Ri Chang-ho (Director, from 2022)
+**Map color code**: #4a1a6e
+**Notes**: Established Feb 2009 by merging KPA Reconnaissance Bureau, KWP Operations Dept, KWP Office 35. Reports directly to SAC/Kim Jong Un; RGB Commander also serves as KPA Vice-Chief of General Staff. Dual role: (1) HUMINT/SOF infiltration planning (1st/2nd Bureaus); (2) Cyber warfare — 5th Bureau controls 121st Bureau (Lazarus/APT38, ~6,000 hackers), Bluenoroff (~1,700), Andariel (~1,600). Total 6 bureaus. Sanctioned by US Treasury. [HRNK RGB Final 2026; Wikipedia Bureau 121]
+
+## Subordinate Corps / Fleet / Air Division / Missile Bureaus
+- **RGB 5th Bureau (Technical Reconnaissance / Cyber)** [RGB] (rgb_5thbureau) — type: sof_corps, HQ: Pyongyang; operators in China (Shenyang/Chilbosan Hotel, Macau, Beijing), strength: 95.0%. Controls 121st Bureau (Lazarus/APT38/Hidden Cobra, ~6,000 hackers), Bluenoroff (~1,700), Andariel (~1,600). 110th Research Institute (hacking sub-stations 31st-56th). Electronic Warfare Jamming Regiment (Pyongyang, 3 battalions). Total ~5,900-12,000 cyber operatives (various estimates). $1.7B crypto theft 2022; WannaCry 2017; Sony Pictures 2014. [HRNK RGB Final 2026; Wikipedia Bureau 121]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:GSD] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

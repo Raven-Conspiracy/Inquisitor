@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: Sepah-e Qods (Gilan Provincial Corps)
+
+**Unit ID**: irgcgf_gillan_corp
+**Type**: light_cab
+**Headquarters**: Rasht, Gilan
+**Parent**: Region / Provincial Corps / Base: Ghadir Operational HQ (North/Caspian) (irgcgf_ghadir_hq)
+**Higher echelon**: IRGC Ground Forces (IRGCGF)
+**Elite designation**: No
+**Strength (% authorized)**: 80%
+**Notes**: Commander: Mohammad Abdollahpour. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

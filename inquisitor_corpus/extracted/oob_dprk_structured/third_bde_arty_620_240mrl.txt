@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: 240mm MLRS Brigade (620th Corps element) (ELITE / first-tier)
+
+**Unit ID**: bde_arty_620_240mrl
+**Type**: mlrs
+**Headquarters**: Forward position north of DMZ
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: 620th Artillery Corps (Forward Artillery Corps) (corps_620)
+**Higher echelon**: KPA Ground Forces (Ryukgun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 90.0%
+**Notes**: ELITE / HIGHEST READINESS. Operates M-1985/M-1991 240mm MRL (range ~60km). Together with Koksan guns, the 620th Corps represents the primary conventional threat to Seoul. ~500+ MRL tubes (est). Specific brigade number unconfirmed. [DIA NKMP 2021; IISS; ROK DWP 2022]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

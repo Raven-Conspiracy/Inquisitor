@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Sayyed al-Shohada Operational HQ (Central)
+
+**Unit ID**: irgcgf_sayyed_hq
+**Service**: IRGC-GF
+**Type**: operational_headquarters
+**Headquarters**: Isfahan area
+**Parent**: IRGC Ground Forces (IRGCGF) (irgc_gf)
+**Strength (% authorized)**: 80%
+**Notes**: Oversees Ghamar Bani Hashem (Chaharmahal), Saheb al-Zaman Isfahan (Isfahan), al-Ghadir (Yazd) corps. [Wikipedia IRGC GF]
+
+## Subordinate Division / Brigade / Squadrons
+- **Sepah-e Ghamar Bani Hashem (Chaharmahal and Bakhtiari Corps)** (irgcgf_chahar_corp) — type: light_cab, HQ: Shahr-e Kord, Chaharmahal and Bakhtiari, strength: 80%. Commander: Ali Mohammad Akbari. [Wikipedia IRGC GF]
+- **Sepah-e Saheb al-Zaman (Isfahan Provincial Corps)** (irgcgf_isfahan_corp) — type: light_cab, HQ: Isfahan City, Isfahan, strength: 80%. Commander: Hossein Fada. [Wikipedia IRGC GF]
+- **Sepah-e al-Ghadir (Yazd Provincial Corps)** (irgcgf_yazd_corp) — type: light_cab, HQ: Yazd City, Yazd, strength: 80%. Commander: Reza Shamsipour. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

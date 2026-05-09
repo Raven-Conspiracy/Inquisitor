@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: 815th Mechanized Corps
+
+**Unit ID**: corps_815
+**Service**: KPA Ground Forces
+**Type**: mech_corps
+**Headquarters**: Approximate: eastern axis LOC, north of DMZ forward corps
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 73.0%
+**Notes**: Second mechanized exploitation corps. 2003 reporting places it as part of second operational echelon. Some 2003 reports indicate a third mechanized corps in strategic reserve. Sub-brigades unconfirmed. [Wikipedia KPAGF; DIA NKMP 2021; IISS MB 2017]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

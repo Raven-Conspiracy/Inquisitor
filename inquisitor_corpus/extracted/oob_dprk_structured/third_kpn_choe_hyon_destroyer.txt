@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: DDG Choe Hyon + Sister Ship (Choe Hyon-class destroyers) (ELITE / first-tier)
+
+**Unit ID**: kpn_choe_hyon_destroyer
+**Type**: surface_flotilla
+**Headquarters**: Nampo (west coast)
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: West Sea Fleet (West Coast Fleet) (kpn_west_fleet)
+**Higher echelon**: Korean People's Navy (Haegun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 80.0%
+**Notes**: POST-2021 ADDITION. First DPRK destroyer class. Lead ship Choe Hyon launched 27 Apr 2025; second ship launched 12 Jun 2025. Estimated 4,000-5,000 tons, 140-144m. VLS cells (resembling 3M22 Zircon), fixed phased-array radar (resembling Karakurt-class). Can carry nuclear-armed cruise missiles and tactical ballistic missiles per Kim Jong Un. NK plans 12 destroyers of class by 2032. Large nuclear-powered submarine also announced Mar 2025 (construction stage). [Wikipedia Choe Hyon; CSIS Apr 2025; Sputnik News May 2026] [POST-2021 UPDATE]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

@@ -1,0 +1,18 @@
+# Russian Army — 44th Army Corps
+
+**Unit ID**: 44ac
+**Type**: army_corps
+**Headquarters**: Petrozavodsk
+**Parent District**: Leningrad Military District (LMD)
+**Strength (% authorized)**: 65.0%
+**Notes**: Deployed Sumy Oblast
+
+## Subordinate Divisions
+- **72nd Motor Rifle Division** (72md) — type: motor_rifle, HQ: Petrozavodsk, strength: 60.0%. Sumy Oblast
+- **47th Guards Tank Division** (47gtd) — type: tank, HQ: Mulino, strength: 55.0%. Newly formed 2022; N Kharkiv
+
+## Subordinate Brigades (direct)
+- **155th Guards Naval Infantry Brigade → 55th Marine Div** (Guards) (155nb) — type: naval_infantry, strength: 50.0%. Reorganized to 55th Marine Division; understrength
+- **128th Guards Motor Rifle Brigade** (Guards) (128mrb) — type: motor_rifle, strength: 62.0%. Sumy Oblast
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

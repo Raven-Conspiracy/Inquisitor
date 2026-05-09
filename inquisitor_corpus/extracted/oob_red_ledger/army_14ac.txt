@@ -1,0 +1,14 @@
+# Russian Army — 14th Army Corps
+
+**Unit ID**: 14ac
+**Type**: army_corps
+**Headquarters**: Murmansk
+**Parent District**: Leningrad Military District (LMD)
+**Strength (% authorized)**: 80.0%
+**Notes**: Arctic / Northern Fleet
+
+## Subordinate Brigades (direct)
+- **71st Guards Motor Rifle Division (former 200th Bde)** (Guards) (200mrb) — type: motor_rifle, strength: 68.0%. Reorganized to 71st MRD; Arctic
+- **80th Arctic Motor Rifle Brigade** (80amrb) — type: motor_rifle, strength: 80.0%. Arctic trained
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

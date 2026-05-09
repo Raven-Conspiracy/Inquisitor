@@ -1,0 +1,14 @@
+# Russian Army — 41st Guards Combined Arms Army
+
+**Unit ID**: 41gca
+**Type**: combined_arms_army
+**Headquarters**: Novosibirsk
+**Parent District**: Central Military District (CMD)
+**Strength (% authorized)**: 58.0%
+**Notes**: Deployed Central Donetsk
+
+## Subordinate Divisions
+- **73rd Mechanized Division** (73md) — type: motor_rifle, HQ: Novosibirsk, strength: 55.0%. Newly raised 2024
+- **74th Mechanized Division** (74md) — type: motor_rifle, HQ: Yurga, strength: 55.0%. Newly raised 2024
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

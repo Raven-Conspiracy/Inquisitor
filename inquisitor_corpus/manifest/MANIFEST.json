@@ -1,0 +1,800 @@
+{
+  "corpus_name": "inquisitor_corpus",
+  "version": "v2026-05-09",
+  "build_date": "2026-05-09T15:44:12.867542Z",
+  "purpose": "Intel Support to Targeting orchestrator (Inquisitor / 350F persona) \u2014 China + CT focus, with OOB / Ukraine / DPRK / Iran depth",
+  "totals": {
+    "n_chunks": 6481,
+    "n_tokens": 8875471,
+    "n_docs": 782,
+    "n_buckets": 139,
+    "avg_tokens_per_chunk": 1369.5,
+    "structured_oob_chunks": 413,
+    "prose_chunks": 6068
+  },
+  "acquisition": {
+    "master_sources": 514,
+    "successfully_acquired": 398,
+    "acquisition_rate": 0.774,
+    "passes": [
+      "pass1_harvest",
+      "pass2_chrome_retry",
+      "pass3_fetch_url_recovery"
+    ]
+  },
+  "dedup": {
+    "raw_chunks": 6705,
+    "kept": 6481,
+    "dropped_vs_mentor": 0,
+    "dropped_vs_joint_fires": 80,
+    "dropped_intra": 144
+  },
+  "by_category": {
+    "China": {
+      "chunks": 1139,
+      "tokens": 1404008,
+      "docs": 58
+    },
+    "Counter-Terrorism": {
+      "chunks": 3217,
+      "tokens": 3931731,
+      "docs": 127
+    },
+    "DPRK": {
+      "chunks": 169,
+      "tokens": 353244,
+      "docs": 30
+    },
+    "Iran": {
+      "chunks": 160,
+      "tokens": 317517,
+      "docs": 33
+    },
+    "OOB": {
+      "chunks": 1161,
+      "tokens": 1667949,
+      "docs": 475
+    },
+    "Ukraine 2022\u20132025": {
+      "chunks": 635,
+      "tokens": 1201022,
+      "docs": 59
+    }
+  },
+  "by_bucket": {
+    "inq_china_au_anu_sdsc": {
+      "chunks": 16,
+      "tokens": 15837,
+      "docs": 2
+    },
+    "inq_china_au_aspi": {
+      "chunks": 25,
+      "tokens": 91254,
+      "docs": 5
+    },
+    "inq_china_au_lowy": {
+      "chunks": 73,
+      "tokens": 65538,
+      "docs": 3
+    },
+    "inq_china_carnegie": {
+      "chunks": 41,
+      "tokens": 46853,
+      "docs": 1
+    },
+    "inq_china_crs": {
+      "chunks": 7,
+      "tokens": 5819,
+      "docs": 3
+    },
+    "inq_china_csis": {
+      "chunks": 16,
+      "tokens": 85957,
+      "docs": 6
+    },
+    "inq_china_eu_swp": {
+      "chunks": 30,
+      "tokens": 32820,
+      "docs": 1
+    },
+    "inq_china_heritage": {
+      "chunks": 32,
+      "tokens": 70381,
+      "docs": 2
+    },
+    "inq_china_hoover_clm": {
+      "chunks": 10,
+      "tokens": 11118,
+      "docs": 1
+    },
+    "inq_china_jamestown": {
+      "chunks": 8,
+      "tokens": 8587,
+      "docs": 3
+    },
+    "inq_china_ndu_new": {
+      "chunks": 1,
+      "tokens": 743,
+      "docs": 1
+    },
+    "inq_china_odni_ata": {
+      "chunks": 6,
+      "tokens": 2729,
+      "docs": 6
+    },
+    "inq_china_project2049": {
+      "chunks": 57,
+      "tokens": 52734,
+      "docs": 3
+    },
+    "inq_china_rand": {
+      "chunks": 14,
+      "tokens": 42606,
+      "docs": 7
+    },
+    "inq_china_stimson": {
+      "chunks": 54,
+      "tokens": 58412,
+      "docs": 1
+    },
+    "inq_china_tw_govt": {
+      "chunks": 83,
+      "tokens": 105955,
+      "docs": 7
+    },
+    "inq_china_uk_chatham": {
+      "chunks": 24,
+      "tokens": 53522,
+      "docs": 2
+    },
+    "inq_china_uk_rusi": {
+      "chunks": 9,
+      "tokens": 9522,
+      "docs": 1
+    },
+    "inq_china_uscc_new": {
+      "chunks": 633,
+      "tokens": 643621,
+      "docs": 3
+    },
+    "inq_ct_doctrine_nato": {
+      "chunks": 215,
+      "tokens": 186791,
+      "docs": 2
+    },
+    "inq_ct_doctrine_uk": {
+      "chunks": 336,
+      "tokens": 348893,
+      "docs": 2
+    },
+    "inq_ct_doctrine_us_air": {
+      "chunks": 1,
+      "tokens": 549,
+      "docs": 1
+    },
+    "inq_ct_doctrine_us_army": {
+      "chunks": 129,
+      "tokens": 122136,
+      "docs": 4
+    },
+    "inq_ct_doctrine_us_joint": {
+      "chunks": 96,
+      "tokens": 83685,
+      "docs": 1
+    },
+    "inq_ct_doctrine_us_sof": {
+      "chunks": 242,
+      "tokens": 281681,
+      "docs": 6
+    },
+    "inq_ct_far_right": {
+      "chunks": 25,
+      "tokens": 47810,
+      "docs": 3
+    },
+    "inq_ct_lone_actor": {
+      "chunks": 57,
+      "tokens": 61344,
+      "docs": 3
+    },
+    "inq_ct_org_aq_family": {
+      "chunks": 598,
+      "tokens": 715617,
+      "docs": 19
+    },
+    "inq_ct_org_eln": {
+      "chunks": 1,
+      "tokens": 2661,
+      "docs": 1
+    },
+    "inq_ct_org_eta": {
+      "chunks": 17,
+      "tokens": 15262,
+      "docs": 1
+    },
+    "inq_ct_org_farc": {
+      "chunks": 87,
+      "tokens": 104152,
+      "docs": 2
+    },
+    "inq_ct_org_hamas": {
+      "chunks": 8,
+      "tokens": 62305,
+      "docs": 3
+    },
+    "inq_ct_org_hezbollah": {
+      "chunks": 233,
+      "tokens": 286235,
+      "docs": 8
+    },
+    "inq_ct_org_houthi": {
+      "chunks": 8,
+      "tokens": 29698,
+      "docs": 2
+    },
+    "inq_ct_org_hts": {
+      "chunks": 7,
+      "tokens": 46398,
+      "docs": 3
+    },
+    "inq_ct_org_ira": {
+      "chunks": 23,
+      "tokens": 24007,
+      "docs": 2
+    },
+    "inq_ct_org_irgc": {
+      "chunks": 84,
+      "tokens": 97468,
+      "docs": 1
+    },
+    "inq_ct_org_is_family": {
+      "chunks": 163,
+      "tokens": 243290,
+      "docs": 10
+    },
+    "inq_ct_org_ltte": {
+      "chunks": 15,
+      "tokens": 25987,
+      "docs": 3
+    },
+    "inq_ct_org_pflp_dflp": {
+      "chunks": 4,
+      "tokens": 6996,
+      "docs": 1
+    },
+    "inq_ct_org_pkk": {
+      "chunks": 52,
+      "tokens": 95689,
+      "docs": 4
+    },
+    "inq_ct_org_red_brigades": {
+      "chunks": 4,
+      "tokens": 4272,
+      "docs": 2
+    },
+    "inq_ct_org_se_asia": {
+      "chunks": 68,
+      "tokens": 91779,
+      "docs": 6
+    },
+    "inq_ct_org_sendero": {
+      "chunks": 1,
+      "tokens": 7616,
+      "docs": 1
+    },
+    "inq_ct_org_shabaab": {
+      "chunks": 143,
+      "tokens": 156475,
+      "docs": 3
+    },
+    "inq_ct_org_taliban_ttp": {
+      "chunks": 143,
+      "tokens": 176948,
+      "docs": 5
+    },
+    "inq_ct_other": {
+      "chunks": 34,
+      "tokens": 104748,
+      "docs": 12
+    },
+    "inq_ct_tradecraft_f3ead": {
+      "chunks": 2,
+      "tokens": 13746,
+      "docs": 1
+    },
+    "inq_ct_tradecraft_ic": {
+      "chunks": 302,
+      "tokens": 328112,
+      "docs": 8
+    },
+    "inq_ct_tradecraft_network": {
+      "chunks": 73,
+      "tokens": 86179,
+      "docs": 2
+    },
+    "inq_ct_tradecraft_other": {
+      "chunks": 1,
+      "tokens": 1398,
+      "docs": 1
+    },
+    "inq_ct_tradecraft_sse_domex": {
+      "chunks": 3,
+      "tokens": 2707,
+      "docs": 1
+    },
+    "inq_ct_tradecraft_targeted_killing": {
+      "chunks": 42,
+      "tokens": 69097,
+      "docs": 3
+    },
+    "inq_dprk_38north": {
+      "chunks": 2,
+      "tokens": 13073,
+      "docs": 2
+    },
+    "inq_dprk_aca": {
+      "chunks": 51,
+      "tokens": 59195,
+      "docs": 3
+    },
+    "inq_dprk_cnas": {
+      "chunks": 5,
+      "tokens": 25635,
+      "docs": 2
+    },
+    "inq_dprk_cns_miis": {
+      "chunks": 4,
+      "tokens": 8825,
+      "docs": 3
+    },
+    "inq_dprk_crs": {
+      "chunks": 16,
+      "tokens": 51396,
+      "docs": 3
+    },
+    "inq_dprk_csis_beyondparallel": {
+      "chunks": 12,
+      "tokens": 86978,
+      "docs": 4
+    },
+    "inq_dprk_csis_missilethreat": {
+      "chunks": 2,
+      "tokens": 1455,
+      "docs": 1
+    },
+    "inq_dprk_dia": {
+      "chunks": 2,
+      "tokens": 1345,
+      "docs": 2
+    },
+    "inq_dprk_named_analyst": {
+      "chunks": 10,
+      "tokens": 11793,
+      "docs": 1
+    },
+    "inq_dprk_ncnk": {
+      "chunks": 23,
+      "tokens": 25720,
+      "docs": 1
+    },
+    "inq_dprk_nknews": {
+      "chunks": 2,
+      "tokens": 1479,
+      "docs": 2
+    },
+    "inq_dprk_nti": {
+      "chunks": 33,
+      "tokens": 49171,
+      "docs": 2
+    },
+    "inq_dprk_rand": {
+      "chunks": 4,
+      "tokens": 14834,
+      "docs": 2
+    },
+    "inq_dprk_rusi": {
+      "chunks": 1,
+      "tokens": 599,
+      "docs": 1
+    },
+    "inq_dprk_uski": {
+      "chunks": 2,
+      "tokens": 1746,
+      "docs": 1
+    },
+    "inq_iran_aca": {
+      "chunks": 21,
+      "tokens": 22098,
+      "docs": 3
+    },
+    "inq_iran_acled": {
+      "chunks": 2,
+      "tokens": 1577,
+      "docs": 1
+    },
+    "inq_iran_alma": {
+      "chunks": 3,
+      "tokens": 2521,
+      "docs": 2
+    },
+    "inq_iran_belfer": {
+      "chunks": 18,
+      "tokens": 20261,
+      "docs": 1
+    },
+    "inq_iran_cnas": {
+      "chunks": 6,
+      "tokens": 32939,
+      "docs": 2
+    },
+    "inq_iran_cns_miis": {
+      "chunks": 2,
+      "tokens": 1520,
+      "docs": 1
+    },
+    "inq_iran_crs": {
+      "chunks": 25,
+      "tokens": 61892,
+      "docs": 3
+    },
+    "inq_iran_csis_missilethreat": {
+      "chunks": 4,
+      "tokens": 4214,
+      "docs": 2
+    },
+    "inq_iran_csis_other": {
+      "chunks": 6,
+      "tokens": 28748,
+      "docs": 2
+    },
+    "inq_iran_fdd": {
+      "chunks": 7,
+      "tokens": 30089,
+      "docs": 2
+    },
+    "inq_iran_lwj": {
+      "chunks": 10,
+      "tokens": 47168,
+      "docs": 2
+    },
+    "inq_iran_mei": {
+      "chunks": 38,
+      "tokens": 41174,
+      "docs": 3
+    },
+    "inq_iran_nti": {
+      "chunks": 3,
+      "tokens": 2942,
+      "docs": 2
+    },
+    "inq_iran_rand": {
+      "chunks": 2,
+      "tokens": 7598,
+      "docs": 1
+    },
+    "inq_iran_sanaa": {
+      "chunks": 4,
+      "tokens": 4122,
+      "docs": 2
+    },
+    "inq_iran_winep": {
+      "chunks": 9,
+      "tokens": 8654,
+      "docs": 4
+    },
+    "inq_oob_casi": {
+      "chunks": 1,
+      "tokens": 604,
+      "docs": 1
+    },
+    "inq_oob_china_structured": {
+      "chunks": 123,
+      "tokens": 41617,
+      "docs": 123
+    },
+    "inq_oob_cn_other": {
+      "chunks": 1,
+      "tokens": 1193,
+      "docs": 1
+    },
+    "inq_oob_csis_missile": {
+      "chunks": 3,
+      "tokens": 2188,
+      "docs": 2
+    },
+    "inq_oob_csis_other": {
+      "chunks": 3,
+      "tokens": 23697,
+      "docs": 1
+    },
+    "inq_oob_dia_china": {
+      "chunks": 96,
+      "tokens": 110088,
+      "docs": 1
+    },
+    "inq_oob_dia_dprk": {
+      "chunks": 6,
+      "tokens": 2380,
+      "docs": 6
+    },
+    "inq_oob_dia_iran": {
+      "chunks": 1,
+      "tokens": 674,
+      "docs": 1
+    },
+    "inq_oob_dia_other": {
+      "chunks": 9,
+      "tokens": 9750,
+      "docs": 1
+    },
+    "inq_oob_dia_russia": {
+      "chunks": 98,
+      "tokens": 96619,
+      "docs": 1
+    },
+    "inq_oob_dprk_structured": {
+      "chunks": 79,
+      "tokens": 32785,
+      "docs": 79
+    },
+    "inq_oob_fas_china": {
+      "chunks": 8,
+      "tokens": 44235,
+      "docs": 3
+    },
+    "inq_oob_fas_dprk": {
+      "chunks": 15,
+      "tokens": 36236,
+      "docs": 4
+    },
+    "inq_oob_fas_general": {
+      "chunks": 2,
+      "tokens": 1840,
+      "docs": 1
+    },
+    "inq_oob_fas_iran": {
+      "chunks": 1,
+      "tokens": 955,
+      "docs": 1
+    },
+    "inq_oob_fas_russia": {
+      "chunks": 13,
+      "tokens": 45984,
+      "docs": 4
+    },
+    "inq_oob_iran_structured": {
+      "chunks": 134,
+      "tokens": 42554,
+      "docs": 134
+    },
+    "inq_oob_isw_china_taiwan": {
+      "chunks": 8,
+      "tokens": 42667,
+      "docs": 1
+    },
+    "inq_oob_isw_iran": {
+      "chunks": 13,
+      "tokens": 102808,
+      "docs": 2
+    },
+    "inq_oob_isw_korea": {
+      "chunks": 6,
+      "tokens": 43582,
+      "docs": 1
+    },
+    "inq_oob_isw_russia_ukraine": {
+      "chunks": 164,
+      "tokens": 322497,
+      "docs": 5
+    },
+    "inq_oob_janes": {
+      "chunks": 1,
+      "tokens": 1096,
+      "docs": 1
+    },
+    "inq_oob_nti": {
+      "chunks": 22,
+      "tokens": 104289,
+      "docs": 7
+    },
+    "inq_oob_oryx_gaza": {
+      "chunks": 8,
+      "tokens": 7542,
+      "docs": 2
+    },
+    "inq_oob_oryx_sudan": {
+      "chunks": 8,
+      "tokens": 6590,
+      "docs": 2
+    },
+    "inq_oob_oryx_syria": {
+      "chunks": 3,
+      "tokens": 6355,
+      "docs": 1
+    },
+    "inq_oob_oryx_ukraine": {
+      "chunks": 12,
+      "tokens": 239775,
+      "docs": 3
+    },
+    "inq_oob_other": {
+      "chunks": 3,
+      "tokens": 6613,
+      "docs": 1
+    },
+    "inq_oob_project2049_pla": {
+      "chunks": 123,
+      "tokens": 142927,
+      "docs": 4
+    },
+    "inq_oob_red_ledger": {
+      "chunks": 77,
+      "tokens": 15883,
+      "docs": 77
+    },
+    "inq_oob_ru_other": {
+      "chunks": 112,
+      "tokens": 122605,
+      "docs": 3
+    },
+    "inq_oob_ukraine_gur": {
+      "chunks": 8,
+      "tokens": 9321,
+      "docs": 1
+    },
+    "inq_ukr_p1_cepa": {
+      "chunks": 48,
+      "tokens": 55055,
+      "docs": 2
+    },
+    "inq_ukr_p1_cna": {
+      "chunks": 195,
+      "tokens": 196188,
+      "docs": 4
+    },
+    "inq_ukr_p1_csba": {
+      "chunks": 121,
+      "tokens": 112964,
+      "docs": 1
+    },
+    "inq_ukr_p1_csis": {
+      "chunks": 12,
+      "tokens": 86024,
+      "docs": 4
+    },
+    "inq_ukr_p1_rand": {
+      "chunks": 3,
+      "tokens": 8594,
+      "docs": 2
+    },
+    "inq_ukr_p1_rusi": {
+      "chunks": 12,
+      "tokens": 11228,
+      "docs": 6
+    },
+    "inq_ukr_p1_usawc": {
+      "chunks": 62,
+      "tokens": 196940,
+      "docs": 11
+    },
+    "inq_ukr_p2_atlantic_council": {
+      "chunks": 27,
+      "tokens": 29790,
+      "docs": 2
+    },
+    "inq_ukr_p2_australia": {
+      "chunks": 14,
+      "tokens": 47298,
+      "docs": 4
+    },
+    "inq_ukr_p2_cna": {
+      "chunks": 29,
+      "tokens": 26643,
+      "docs": 1
+    },
+    "inq_ukr_p2_cnas": {
+      "chunks": 6,
+      "tokens": 34127,
+      "docs": 2
+    },
+    "inq_ukr_p2_csis": {
+      "chunks": 6,
+      "tokens": 63356,
+      "docs": 3
+    },
+    "inq_ukr_p2_fpri": {
+      "chunks": 5,
+      "tokens": 20991,
+      "docs": 1
+    },
+    "inq_ukr_p2_mwi_ctc": {
+      "chunks": 13,
+      "tokens": 72178,
+      "docs": 2
+    },
+    "inq_ukr_p2_rusi": {
+      "chunks": 17,
+      "tokens": 17546,
+      "docs": 4
+    },
+    "inq_ukr_p2_wotr": {
+      "chunks": 5,
+      "tokens": 27465,
+      "docs": 1
+    },
+    "inq_ukr_p3_ausa": {
+      "chunks": 8,
+      "tokens": 38713,
+      "docs": 1
+    },
+    "inq_ukr_p3_brookings": {
+      "chunks": 4,
+      "tokens": 25028,
+      "docs": 1
+    },
+    "inq_ukr_p3_cna": {
+      "chunks": 32,
+      "tokens": 32729,
+      "docs": 1
+    },
+    "inq_ukr_p3_fpri": {
+      "chunks": 2,
+      "tokens": 19203,
+      "docs": 1
+    },
+    "inq_ukr_p3_nato": {
+      "chunks": 1,
+      "tokens": 493,
+      "docs": 1
+    },
+    "inq_ukr_p3_uk_parliament": {
+      "chunks": 1,
+      "tokens": 1479,
+      "docs": 1
+    },
+    "inq_ukr_p3_usawc": {
+      "chunks": 12,
+      "tokens": 76990,
+      "docs": 3
+    }
+  },
+  "schema": {
+    "fields": [
+      "doc_id",
+      "bucket",
+      "source_path",
+      "source_url",
+      "title",
+      "org",
+      "authors",
+      "year",
+      "section",
+      "subsection",
+      "license",
+      "priority",
+      "corpus_section",
+      "is_structured",
+      "chunk_idx",
+      "n_chunks_in_doc",
+      "n_tokens",
+      "is_bibliography",
+      "text"
+    ],
+    "tokenizer": "Qwen/Qwen3-0.6B-Base",
+    "chunk_target_tokens": 1200,
+    "chunk_overlap_tokens": 150,
+    "structured_oob_chunking": "1 chunk per OOB unit file (no further splitting)"
+  },
+  "structured_oob_buckets": [
+    "inq_oob_china_structured",
+    "inq_oob_iran_structured",
+    "inq_oob_dprk_structured",
+    "inq_oob_red_ledger"
+  ],
+  "parent_corpus_repo": "github.com/omnissiahcypher/mentor-corpus",
+  "subtree_target": "inquisitor_corpus/",
+  "siblings": [
+    "corpus/ (mentor)",
+    "joint_fires_corpus/"
+  ]
+}

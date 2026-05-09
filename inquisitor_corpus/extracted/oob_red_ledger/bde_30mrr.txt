@@ -1,0 +1,11 @@
+# Russian Brigade / Regiment — 30th Motor Rifle Regiment
+
+**Unit ID**: 30mrr
+**Type**: motor_rifle
+**Parent**: Division: 72nd Motor Rifle Division (72md)
+**Parent District**: Leningrad Military District
+**Guards designation**: No
+**Strength (% authorized)**: 58.0%
+**Notes**: None
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:BDE] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Karbala Operational HQ (South)
+
+**Unit ID**: irgcgf_karbala_hq
+**Service**: IRGC-GF
+**Type**: operational_headquarters
+**Headquarters**: Ahvaz area
+**Parent**: IRGC Ground Forces (IRGCGF) (irgc_gf)
+**Strength (% authorized)**: 80%
+**Notes**: Oversees Vali-ye Asr (Khuzestan), Abolfazl (Lorestan), Fath (Kohgiluyeh) corps. [Wikipedia IRGC GF]
+
+## Subordinate Division / Brigade / Squadrons
+- **Sepah-e Vali-ye Asr (Khuzestan Provincial Corps)** (irgcgf_khuz_corp) — type: light_cab, HQ: Ahvaz, Khuzestan, strength: 80%. Commander: Hassan Shahvarpour. [Wikipedia IRGC GF]
+- **Sepah-e Fath (Kohgiluyeh and Boyer-Ahmad Corps)** (irgcgf_kohy_corp) — type: light_cab, HQ: Yasuj, Kohgiluyeh and Boyer-Ahmad, strength: 80%. Commander: Hamid Khoramdel. [Wikipedia IRGC GF]
+- **Sepah-e Abolfazl (Lorestan Provincial Corps)** (irgcgf_lorestan_corp) — type: light_cab, HQ: Khorramabad, Lorestan, strength: 80%. Commander: Morteza Kashkouli. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,11 @@
+# Russian Division — 73rd Mechanized Division
+
+**Unit ID**: 73md
+**Type**: motor_rifle
+**Headquarters**: Novosibirsk
+**Parent Army**: 41st Guards Combined Arms Army (41gca)
+**Parent District**: Central Military District
+**Strength (% authorized)**: 55.0%
+**Notes**: Newly raised 2024
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:DIV] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

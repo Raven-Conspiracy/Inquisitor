@@ -1,0 +1,13 @@
+# Russian Army — 3rd Guards Combined Arms Army
+
+**Unit ID**: 3gca
+**Type**: combined_arms_army
+**Headquarters**: Luhansk
+**Parent District**: Southern Military District (SMD)
+**Strength (% authorized)**: 62.0%
+**Notes**: Siversk sector
+
+## Subordinate Divisions
+- **3rd Guards Motor Rifle Division** (3gmd) — type: motor_rifle, HQ: Luhansk, strength: 60.0%. Siversk sector
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

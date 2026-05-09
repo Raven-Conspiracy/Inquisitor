@@ -1,0 +1,74 @@
+National Public Defense Workload Study | RAND
+Skip to page content
+Public defense attorneys with excessive caseloads cannot give appropriate time and attention to each client. Excessive caseloads violate the ethics rules and inevitably cause harm. Researchers analyzed 17 state-level public defense workload studies and used the Delphi method to determine the average time needed to provide reasonably effective assistance of counsel and establish national workload standards in adult criminal cases.
+National Public Defense Workload Study
+Nicholas M. Pace
+,
+Malia N. Brink
+,
+Cynthia G. Lee
+,
+Stephen F. Hanlon
+Research
+Published Jul 27, 2023
+Download PDF
+Share on LinkedIn
+Share on X
+Share on Facebook
+Email
+Public defense attorneys with excessive caseloads cannot give appropriate time and attention to each client. Excessive caseloads violate ethics rules and inevitably cause harm. Overburdened attorneys are forced to choose cases or activities to focus on, such that many cases are resolved without appropriate diligence. A justice system burdened by triage risks unreliability, denying all people who rely on it — victims, witnesses, defendants, and their families and communities — efficient, equal, and accurate justice.
+Ethics rules require lawyers to limit their workloads to ensure competent representation. But what should those limits be? Clear standards for public defense workloads are essential to policymakers' ability to fund and staff the defense function at appropriate levels, to public defense authorities' ability to conduct appropriate oversight, and to attorneys' ability to provide their clients with reasonably effective assistance of counsel pursuant to prevailing professional norms as guaranteed by the Sixth Amendment to the U.S. Constitution.
+To create new national public defense workload standards, researchers conducted a comprehensive review and analysis of 17 state-level public defense workload studies conducted between 2005 and 2022 and then employed the Delphi method to facilitate the efforts of a panel of 33 expert criminal defense attorneys from across the country to come to a consensus on the average amount of time needed to provide constitutionally appropriate representation in an array of adult criminal cases.
+Key Findings
+Based on the consensus of an expert Delphi panel, the average time needed to represent an individual in an adult criminal case ranged from 286 hours to 13.5 hours, depending on case type
+High-severity felony cases required the most time, on average: cases with a possible sentence of life without parole, 286 hours; murder cases, 248 hours; sex crimes cases, 167 hours; and other high-severity felony cases, 99 hours.
+Mid- and low-severity felony cases required an average of 57 and 35 hours, respectively.
+High- and low-severity cases for driving under the influence required 33 and 19 hours, respectively.
+High- and low-severity misdemeanor cases required an average of 22.3 and 13.8 hours, respectively.
+Probation or parole violation cases required an average of 13.5 hours.
+Existing national public defense workload standards are outdated, not empirically based, and inadequate
+The 1973 National Advisory Commission on Criminal Justice Standards and Goals (NAC) standards fail to differentiate among types of felonies, giving equal weight to a burglary, a sexual assault, and a homicide.
+Using the 1973 NAC standards creates a risk of excessive workloads.
+New national workload standards better reflect modern criminal defense practice and professional and ethical responsibilities
+The new standards reflect expert attorneys' experiences with current criminal defense practice, including digital discovery and forensic evidence, as well as the expanded scope of a criminal defense lawyer's obligations, including advising clients on collateral consequences.
+The new workload standards can be used to assist public defense agencies, policymakers, and other stakeholders in evaluating defender workloads.
+Subscribe to the
+Policy Currents newsletter
+Email
+Subscribe
+Topics
+Access to Justice
+Court Staffing and Funding
+Legal Case and Court Management
+Public Defense
+Workforce Management
+Document Details
+Copyright:
+RAND Corporation
+Availability:
+Web-Only
+Year:
+2023
+Pages:
+186
+DOI:
+https://doi.org/10.7249/RRA2559-1
+Document Number:
+RR-A2559-1
+Citation
+RAND Style Manual
+Pace, Nicholas M., Malia N. Brink, Cynthia G. Lee, and Stephen F. Hanlon,
+National Public Defense Workload Study,
+RAND Corporation, RR-A2559-1, 2023. As of May 7, 2026: https://www.rand.org/pubs/research_reports/RRA2559-1.html
+Copy Text
+Chicago Manual of Style
+Pace, Nicholas M., Malia N. Brink, Cynthia G. Lee, and Stephen F. Hanlon, National Public Defense Workload Study. Santa Monica, CA: RAND Corporation, 2023. https://www.rand.org/pubs/research_reports/RRA2559-1.html.
+Copy Text
+BibTeX
+RIS
+The research described in this report was sponsored by Arnold Ventures and conducted by the Justice Policy Program within RAND Social and Economic Well-Being.
+This publication is part of the RAND research report series. Research reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND research reports undergo rigorous peer review to ensure high standards for research quality and objectivity.
+This document and trademark(s) contained herein are protected by law. This representation of RAND intellectual property is provided for noncommercial use only. Unauthorized posting of this publication online is prohibited; linking directly to this product page is encouraged. Permission is required from RAND to reproduce, or reuse in another form, any of its research documents for commercial purposes. For information on reprint and reuse permissions, please visit
+www.rand.org/pubs/permissions
+.
+RAND is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.

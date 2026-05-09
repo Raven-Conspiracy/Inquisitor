@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 71st/72nd/73rd Tactical Fighter Squadrons (Su-24MK)
+
+**Unit ID**: sqn71_su24
+**Type**: bomber_division
+**Headquarters**: Shiraz
+**Parent**: Region / Provincial Corps / Base: 7th Tactical Air Base — Shiraz (Shahid Dastghaib) (tab7_shiraz)
+**Higher echelon**: Islamic Republic of Iran Air Force (IRIAF)
+**Elite designation**: No
+**Strength (% authorized)**: 40%
+**Notes**: Three squadrons of Su-24MK Fencer interdiction/strike aircraft (ex-Iraqi/Russian). TAB 7 struck Jun 13, 2025. [Scramble.nl IRIAF OOB Feb 2026] [DIA IMP 2019 p.24] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

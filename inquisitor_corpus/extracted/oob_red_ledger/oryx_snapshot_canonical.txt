@@ -1,0 +1,14 @@
+# Oryx Russian Equipment Losses — Snapshot 2026-04-11T04:10:34.719Z
+
+**Source**: Oryx OSINT visual-confirmation tracker, snapshot ingested by Red Ledger.
+**Methodology**: Only counts equipment with photographic / video evidence.
+
+| Category | Total | Destroyed | Damaged | Abandoned | Captured |
+|----------|-------|-----------|---------|-----------|----------|
+| TOTAL | 24383 | 19028 | 971 | 1204 | 3180 |
+| Self-Propelled Artillery | 1008 | 840 | 53 | 7 | 108 |
+| Rocket Artillery | 580 | 478 | 46 | 2 | 54 |
+| Towed Artillery | 551 | 342 | 105 | 5 | 99 |
+| Surface-To-Air Missile Systems | 405 | 305 | 72 | 4 | 24 |
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:OSINT] [SNAPSHOT:2026-04-11T04:10:34.719Z] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

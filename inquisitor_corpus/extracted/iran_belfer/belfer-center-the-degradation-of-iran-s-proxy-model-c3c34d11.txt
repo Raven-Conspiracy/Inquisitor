@@ -1,0 +1,686 @@
+The Degradation of Iran’s Proxy Model | The Belfer Center for Science and International Affairs
+Skip to main content
+Explore the Latest
+U.S. China Relations
+Energy
+Artificial Intelligence
+Ukraine
+Science & Tech
+Middle East & North Africa
+Executive Summary
+For decades, Iran pursued a strategy of “exporting the revolution” through the sponsorship of armed non-state actors across the Middle East. Framed as an “axis of resistance” against Israel and the United States, this network enabled Tehran to project influence across Lebanon, Syria, Iraq, Yemen, and Gaza while limiting the risk of direct Iranian confrontation. This paper argues that the model has entered a phase of structural degradation. The October 7, 2023 Hamas attack on Israel, together with the regional fallout that followed, accelerated the military, financial, and political weakening of Iran’s proxy architecture, contributing to a broader shift in the regional balance of power.
+Although Iran’s proxy system was already under pressure before October 2023 from sanctions, military attrition, and mounting isolation, these factors had not produced a decisive strategic shift. Iran sustained its influence through coercive networks. After October 7, however, these vulnerabilities deepened. Military pressure, intelligence penetration, leadership losses, financial constriction, and declining legitimacy exposed the limits of proxy-based power projection. Rather than serving as a coherent deterrent architecture, Iran’s regional network increasingly became a source of strategic exposure and fragility.
+The paper traces this erosion across Lebanon, Yemen, and Iraq, with Syria serving as an important logistical backdrop. In Lebanon, Hezbollah suffered military attrition, leadership losses, declining domestic legitimacy, and the collapse of the Syrian corridor that had underpinned its strategic depth. In Yemen, the Houthis’ effort to raise their regional profile through attacks linked to the Gaza war exposed the limits of their capacity and increased their diplomatic and financial vulnerability. In Iraq, Iran-backed militias became more fragmented, with factions diverging in their responses to escalation and with many increasingly prioritizing local political and economic survival over coordinated service to Tehran’s agenda. Across these arenas, the paper finds not adaptation but erosion: Iran’s proxies have become less effective and harder for Tehran to instrumentalize coherently.
+Proxy warfare once offered Tehran a means of deterrence and influence. Over time, however, it generated familiar problems of overextension: weakened cohesion, divergent local interests, coordination failures, reputational damage, and growing vulnerability to disruption. Expansion produced scale, but not resilience.
+The paper concludes that the Middle East is moving away from a hybrid order shaped by Iranian-backed militias toward a more state-centered, though still fragile, security landscape. This shift may create openings for states to reclaim authority and rebuild institutions less constrained by Iranian coercive influence, but it also carries serious risks, including militia fragmentation, local instability, and new security vacuums. Whether this transition produces greater stability will depend on stronger state capacity, better governance, and sustained political and economic recovery.
+Introduction
+For two decades, the Islamic Republic of Iran promoted its leadership of what it termed an “axis of resistance” across the Middle East, presenting this network as a unified front against Israel and the United States under the banner of supporting Palestine. Based on the ideology of “exporting the revolution”, Iran’s rhetoric around armed groups in Lebanon, Yemen, Iraq, Syria, Gaza, and the wider region consistently invoked the notion of a “unity of fronts,” projecting an image of seamless coordination and strategic coherence. This framing was designed to position Iran as the dominant regional power shaping Middle Eastern security dynamics.
+Beneath this façade, however, structural vulnerabilities were already present. Before the October 7 attack, Iranian support for proxy networks deepened Tehran’s international isolation as those proxies were widely designated as terrorist globally. Sanctions reduced Iran’s economic capacity to sustain its proxy architecture and constrained its ability to maintain a coherent regional network of influence. Concurrently, Israeli and US military actions weakened Iran’s proxies operationally, limiting Tehran’s capacity to project power through indirect means.
+Sanctions and limited military pressure alone did not produce a structural shift in the regional balance of power. Iranian interference continued in Lebanon, Yemen, Iraq, and Syria, albeit at reduced intensity. Financial networks generating income for the Islamic Revolutionary Guard Corps (IRGC) and its proxies also remained partially intact, particularly in Europe, where the IRGC’s non-proscription prevented the application of full counter-terrorism financing frameworks.
+[1]
+Iran also demonstrated high resilience to external pressure. Economic and military losses did not translate into regime instability. Moreover, Israel’s military campaigns in Gaza and Lebanon generated widespread public anger, which Iran leveraged to reframe resistance narratives and regenerate legitimacy for its proxies. Even among Iran’s critics, particularly in Lebanon, there remained reluctance to accept liberation from groups such as Hezbollah through foreign military intervention.
+This resilience, however, was not infinite. These pressure points intensified in recent years and accelerated sharply after Hamas’s October 7, 2023 assault on Israel and the subsequent involvement of Iran’s regional proxies in the conflict.
+[2]
+After October 7, Israel and the US adopted a convergent strategy combining military, financial, political, intelligence, and cyber tools against both Iran and its proxy network. This multidimensional pressure produced cumulative effects that altered the regional geopolitical landscape, creating new strategic openings for states previously constrained by Iranian influence.
+Iran’s proxy model in the Middle East subsequently degraded, with most proxies losing much of their military, political, and financial capabilities. Those losses reflected a fundamental shift in the American and Israeli strategic doctrine. The US and Israel no longer viewed Iran’s regional entrenchment as a tolerable status quo. The October 7 attacks crystallized the perception that Iranian proxy power represented an existential regional threat rather than a containable security challenge.
+[3]
+The US and Israel’s strategy transformed from managing Iranian influence to structurally dismantling it.
+Most Gulf states persistently perceived Iran and its proxy network as serious security threats. For more than a decade, however, US policy had prioritized Iran’s nuclear file over its regional interventions, which drove Gulf states to pursue de-escalation with Tehran as a risk-management strategy. October 7 demonstrated the limits of this approach, that de-escalation did not constrain Iran’s destabilizing capacity. With the arrival of the administration of Donald Trump, US policy moved to align more closely with Israel’s assessment that Iran’s regional role must be directly confronted rather than accommodated.
+With US support, Israel’s post-October 7 strategy extended beyond Gaza to a broader campaign against Iran’s regional infrastructure. Between them, the US and Israel sustained operations against Iranian proxies in Lebanon, Yemen, Syria, and Iraq. Iran had supported those proxies not just to project power in the Middle East but also so that they acted as external lines of defense. Their diminished status weakened Iran as a regional force.
+[4]
+Those operations were followed by unprecedented strikes on Iranian territory, with Israel attacking Iran’s air defense system in October 2024 and the US striking Iran’s nuclear infrastructure in June 2025. This was followed by a systematic military campaign against the Iranian regime through the US-Israeli Operation Epic Fury, which began on February 28, 2026, swiftly killing Iranian Supreme Leader Ali Khamenei. Russia’s strategic overstretch and geopolitical calibration of its relationship with the US, and China’s sanctions-risk aversion, both reduced Iran’s external support ecosystem. Neither Russia nor China demonstrated a willingness to restore Iran’s lost military capabilities, reflecting strategic distancing.
+[5]
+Iran also found itself under additional US, EU, and allied sanctions targeting its military and financial systems, with the EU moving in 2026 to proscribe the IRGC.
+[6]
+Iran’s response strategy was initially one of damage limitation. Despite rhetorical escalation in 2025, Tehran avoided decisive retaliation and framed its posture as “strategic patience,” reflecting implicit recognition of its inability to sustain a direct war with Israel or the US.
+[7]
+Survival and loss-minimization replaced projection and deterrence as strategic priorities. But Iran recognized that Operation Epic Fury an existential threat. It retaliated by using all its available tools to inflict as much damage as possible on its adversaries. Yet, once a major asset of Iranian geopolitical power, during Operation Epic Fury Iran’s proxies proved to be largely ineffective.
+The degradation of Iran’s proxy model is also the result of Iran’s own ill-judged strategy. Iran’s regional strategy can be understood through the lens of proxy warfare and delegated deterrence theory.
+[8]
+Rather than projecting power directly, Iran constructed a system of indirect coercion based on non-state armed actors that functioned as externalized instruments of deterrence, territorial control, and strategic signalling. This model allowed Tehran to expand influence while minimizing the political, economic, and military costs of direct confrontation.
+Over time, however, this architecture produced classic principal-agent failures: declining command cohesion, divergent local interests, coordination breakdowns, and reputational costs.
+[9]
+As Iran’s proxy network expanded, it became increasingly difficult to control escalation dynamics, manage risk exposure, and sustain strategic coherence.
+Iran’s proxy system reflected a classic pattern of strategic overextension. Expansion generated scale without sustainability and influence without institutional resilience. As with historical cases of overstretch,
+[10]
+network growth increased exposure to financial pressure, intelligence penetration, coordination failure, and systemic vulnerability.
+This paper examines the structural collapse of Iran’s delegated power projection architecture. The paper shows that the operational, financial, and political degradation of Iran’s proxy model created vulnerabilities that reshaped the regional balance of power.
+Iran’s Proxy System Transition
+Phase 1: Proxy Expansion (1979–2010s)
+Iranian revolutionary ideology → proxy formation → delegated deterrence → externalized conflict → low-cost power projection → regional influence accumulation
+Phase 2: Network Consolidation (2010–2023)
+“Axis of resistance” → unity-of-fronts narrative → militia governance → financial networks → transnational supply chains → deterrence-by-proxy
+Phase 3: Structural Degradation (Oct 7, 2023-2025)
+Military degradation → financial constriction → intelligence penetration → leadership decapitation → legitimacy erosion → proxy fragmentation
+Phase 4: Transition Phase (2026-)
+Security vacuums → fragmentation risks → state capacity stress → governance competition → proxy model degradation
+Lebanon: Hezbollah from Regional Vanguard to Vulnerable Actor
+For decades, Iran’s principal instrument of regional influence was Hezbollah in Lebanon. In the years following its creation in 1982, Hezbollah emerged as Lebanon’s most powerful political actor and the only armed group operating outside the Lebanese Armed Forces. It used this privileged position to dominate domestic politics and shape the country’s foreign policy. However, Hezbollah’s intervention in the Gaza war, which began on October 8, 2023, marked a turning point, with the group militarily defeated by Israel. This defeat, followed by the fall of the regime of Bashar al-Assad in Syria in December 2024, exacerbated the group’s financial and political losses. The group’s demise was hastened following its attacks on Israel during Operation Epic Fury, which led to an obliterating Israeli retaliation.
+Military defeat and strategic attrition
+Although Hezbollah had anticipated future confrontation with Israel and rebuilt its arsenal after their war in 2006, the group neither foresaw nor prepared for a sustained campaign of attrition. Following Hezbollah’s intervention in the Gaza war on October 8, 2023, Israel shifted from border containment to a strategy of systematic dilapidation of the group. In the first year of the conflict alone, there were 9812 Israeli strikes inside Lebanon, while in Syria there were 95 Israeli strikes against Hezbollah and 23 against IRGC targets.
+[11]
+During the 2023-24 war, Hezbollah fired approximately 15,400 rockets into Israel.
+[12]
+However, only around 18% of its 5,185 recorded attacks targeted non-evacuated areas more than five kilometers from the border,
+[13]
+and roughly 90% of these deeper strikes were intercepted by Israel’s Iron Dome system.
+[14]
+Israeli assessments estimated that Hezbollah’s arsenal following this war mainly consisted of short-range missiles, with medium-range missiles reduced to roughly one-fifth of previous levels and precision-guided munitions mostly eliminated.
+[15]
+Regardless, Hezbollah officially claimed victory. Although the group agreed on November 27, 2024 to a ceasefire mechanism that stipulated its disarmament, it refused to fully disarm and kept on trying to replenish its arsenal through smuggling, manufacturing, and refurbishing damaged missiles. Israel responded by striking Hezbollah personnel and assets, frequently targeting locations that had not been hit during the 2024 war. This pattern suggested the continuation of a deliberate strategy of systemic attrition not episodic deterrence. Following Iran’s order to Hezbollah to attack Israel following the launch of Operation Epic Fury, Israel sharply accelerated its attrition campaign against Hezbollah, striking in the first two weeks after Hezbollah’s intervention an almost equivalent number of targets as it had in the year and three months since the 2024 ceasefire, largely destroying Hezbollah’s remaining arsenal. Hezbollah’s intervention in March 2026 proved to be futile; it did not shift the balance of power in Iran’s favour.
+[16]
+Financial strain and the decline of domestic support
+In addition to military defeat, Hezbollah faced a structural resource crisis that undermined its long-standing “defence” narrative. Even before the Gaza war, Hezbollah had been facing unprecedented political pressure in Lebanon. Increasingly, Lebanese citizens publicly named Hezbollah as part of the ruling elite responsible for the country’s 2019 financial collapse and, later, for complicity in the 2020 Beirut Port explosion. This criticism compounded the group’s loss of support among non-Shia communities, which had built up as a result of Hezbollah’s intervention in Syria in aid of the Assad regime. Together, these developments eroded the group’s political legitimacy and challenged its ability to maintain uncontested influence.
+Nonetheless, Hezbollah’s use of intimidation, combined with Lebanon’s entrenched system of corruption, allowed it to preserve its domestic supremacy. The continuation of the Israel-Palestine conflict also provided Hezbollah with a framework to justify its role as a defender of Lebanon. This position was further reinforced by Western policy towards Iran, which since the Barack Obama administration had prioritized Iran’s nuclear file over its regional interventions, indirectly benefiting Hezbollah.
+This status quo began to unravel once Hezbollah entered the Gaza war in 2023, ostensibly in support of Hamas, and drew Lebanon into a full-scale confrontation with Israel. Hezbollah never intended to provoke an all-out war, as this was neither in its own interests nor in Iran’s. Financial considerations were central to this reluctance. Hezbollah’s constituents had suffered heavy losses during the 2006 war and were reluctant to endure a similar outcome. Many were already among the millions who lost their savings following the collapse of Lebanon’s banking sector, as the country’s economic crisis drove widespread poverty and discontent, including within Hezbollah’s Shia base.
+[17]
+Hezbollah’s decision to begin attacking Israel on October 8, 2023 was aimed at preserving its “axis of resistance” credentials. Instead, the campaign inflicted severe harm on its own constituents. Large numbers of Shia civilians were displaced, and extensive housing destruction resulted from Israel’s attacks across southern Lebanon. The World Bank estimated reconstruction costs at approximately $11 billion—an amount far beyond the combined capacity of Iran and Hezbollah to finance.
+[18]
+Unlike in 2006, public expectations that Hezbollah was going to compensate its constituents after this war with Israel quickly dwindled. Following the 2006 war between Hezbollah and Israel, Gulf states financed Lebanon’s post-war reconstruction. But by 2023 those countries had shifted their priorities toward domestic and regional Gulf concerns and were no longer prepared to provide unconditional aid. And while Iran continued to fund Hezbollah, its capacity to support reconstruction diminished significantly under the weight of international sanctions.
+[19]
+Iran’s ability to fund Hezbollah was further constrained in early 2026, as Iran’s economy deteriorated and mass protests spread across the country. The capture of Venezuelan President Nicolás Maduro by the United States, alongside Washington’s declaration of control over Venezuela’s oil sector and intensified counternarcotics measures, delivered an additional financial blow, as Iran and Hezbollah had relied heavily on oil and drug trafficking networks in Latin America as revenue streams. In parallel, the US Treasury increased alerts from 2023 onwards regarding Hezbollah’s and Iran’s illicit financing activities. In 2025, the Lebanese government also banned Hezbollah’s de facto bank, al-Qard al-Hassan, which the group had used both to distribute funds to supporters and to move illicit revenues.
+Against this backdrop, it was notable that Naim Qassem’s first speech as Secretary-General of Hezbollah on October 30, 2024 made no reference to compensation or reconstruction. In-person field visits by the author to Lebanon in late 2025 indicated that privately, frustration among Hezbollah’s constituents grew, contributing to the erosion of the group’s broader domestic support. This dynamic was greatly amplified after Hezbollah inflicted greater pain on its already suffering community with its attacks on Israel in the course of Iran’s response to Operation Epic Fury, which caused almost one million people to be displaced, most for the second time since 2024.
+Leadership crisis and greater IRGC intervention
+Hezbollah’s internal authority structure has been punctured by intelligence failures and leadership decapitation. While Hezbollah was never governed by a single leader, the election of Naim Qassem as Secretary-General following Israel’s assassination of his predecessor Hassan Nasrallah in September 2024 symbolized the group’s decline. A larger-than-life leader whose tenure was associated with repeated “victories” was replaced by a markedly more muted figure, underscoring a loss of confidence and charismatic authority within the organization.
+Beyond conventional military losses, Hezbollah was caught off guard by the extent of Israel’s infiltration and intelligence penetration. This culminated in the pager attacks of September 2024 and the killing of 176 Hezbollah commanders by the time of that year’s ceasefire.
+[20]
+The resulting leadership vacuum forced the IRGC to assume a more direct role in Hezbollah’s operational decision-making, placing additional strain on Iran’s military resources.
+[21]
+Attempts by Hezbollah and Iran to rebuild capabilities through weapons manufacturing in southern Lebanon and smuggling from Syria failed to reverse the decline. Syrian and Lebanese authorities intercepted several smuggling efforts, while Israel targeted transport vehicles and manufacturing sites. Leadership fragmentation, reduced capacity following the loss of senior officers, and acute financial pressure contributed to internal disputes. These tensions manifested in the sale of Hezbollah weapons on the black market by individual members.
+[22]
+Such an outcome would have been unthinkable under Nasrallah’s leadership. It signalled cracks in internal discipline and command control, a principal agent breakdown under resource stress. This worsened during Operation Epic Fury as Iran ordered Hezbollah to intervene in the war but there were disagreements within the group regarding this move.
+Regional isolation and the collapse of the Syrian backbone
+As Iran’s most capable and experienced proxy, Hezbollah’s weakening had cascading effects across Iran-aligned militias in the region, particularly in the security domain. Israel’s penetration of Hezbollah heightened concerns among other groups regarding their own operational security and supply chains. These concerns intensified following the ousting of Assad on December 8, 2024, which dismantled Hezbollah’s core regional infrastructure. Assad’s Syria had served as the logistical, financial, and training backbone of the “axis of resistance,” providing Hezbollah with strategic depth and operational sanctuary.
+The Assad regime’s collapse largely suffocated Hezbollah, which was forced to withdraw rapidly to Lebanon after more than a decade of fighting to preserve Assad’s rule. Although Hezbollah and Iran retained limited networks within Syria—including among former regime elites—they struggled to expand their influence. They sought to exploit grievances against the transitional Syrian government, contributing to sectarian tensions and violence in coastal Syria in March 2025, and continued to engage in Captagon trafficking, capitalizing on weaknesses in Syria’s security sector.
+These efforts did not translate into strategic recovery. The transitional government led by interim President Ahmed al-Sharaa benefitted from US and Saudi backing, enabling gradual improvements in state capacity. Simultaneously, Israel continued to strike Iran- and Hezbollah-linked targets in Syria, including weapons depots and smuggling routes. The Syrian Archive recorded 88 Israeli attacks on Iran- or Hezbollah-linked sites between October 7, 2023 and December 7, 2024.
+[23]
+This included a strike on the Iranian consulate in Damascus on April 1, 2024, which killed two IRGC officers.
+[24]
+The number of Israeli strikes rose significantly to reach 600 attacks in 2025, through which Israel aimed to prevent Iran-backed militias from regrouping in Syria.
+[25]
+The dissolution of the Syrian Democratic Forces in northeast Syria in January 2026 additionally caused some Arab tribes in the area, who had previously coordinated with Iran, to defect and ally themselves with the Syrian government after it extended its authority to the region.
+[26]
+All this served to diminish Iranian proxy presence and influence inside Syria.
+Political marginalization and the emergence of state monopoly
+It was only after Hezbollah’s military defeat in 2024 and the removal of Assad that Lebanon was able in January 2025 to elect a president and appoint a prime minister without imposition from Iran or Syria. Lebanon’s new leadership quickly revoked Hezbollah’s exceptional status, which, based on the Doha Agreement of 2008, had granted Hezbollah state legitimacy as a defense actor without any conditionality or state oversight, and given the group and its allies veto rights in the cabinet. This defense formula was replaced with a constitutional amendment affirming state monopoly over arms. Although Hezbollah continued to publicly resist compliance with UN Security Council Resolutions 1559 and 1701 and the terms of the November 2024 ceasefire agreement stipulating the disarmament of Hezbollah and the deployment of the Lebanese army along the border with Israel, the group was left without much to offer or ability to act besides strong rhetoric.
+Israel’s campaign since 2023 – combining intelligence penetration, targeted assassinations, and supply-chain disruption – punctured Hezbollah’s long-cultivated image of invulnerability. Under sustained pressure, Hezbollah struggled to justify its exceptional status through a defense narrative, as its capacity to retaliate was demonstrably constrained. Sectarian rhetoric by Iran’s then Supreme Leader Ali Khamenei further undermined Hezbollah’s efforts to present itself as a pan-Lebanese or pan-Arab movement. Nonetheless, having built its legitimacy around resistance to Israel, Hezbollah persisted in the conflict and appointed Qassem to signal continuity. In his first speech, Qassem sought to distance the group from Iran, asserting that Hezbollah was not “fighting on anyone’s behalf” and that Iran “supports us but doesn’t want anything” in return.
+[27]
+In practice, however, Hezbollah lacked a viable exit strategy and had no choice but to obey Iranian orders to attack Israel during Operation Epic Fury.
+Hezbollah had already entered 2026 in a state of terminal decline as a regional power broker. The group’s future had become clouded by an inability to reward its remaining constituents at pre-2024 levels and the permanent loss of its Syrian strategic depth. While Secretary-General Qassem signalled continuity through rhetoric, the group was unlikely to overcome the depletion of its command ranks. Domestically, the revocation of its veto rights and the new constitutional mandate for a state monopoly on arms had suggested that Hezbollah would at best be forced to transition from an armed vanguard into a fragmented political party. But its ill-fated intervention against Israel in March 2026 decimated its chances of any recovery, especially after the Lebanese government swiftly moved to prohibit all the group’s military and security activities.
+Yemen: The Houthis’ Strategic Retrenchment to the Domestic Arena
+The Houthis long occupied a distinctive position within Iran’s proxy architecture. Unlike Hezbollah, their relationship with Tehran was never fully institutionalized, but over time it evolved into a strategic partnership through which Iran sought to extend influence into the Arabian Peninsula and the Red Sea corridor. The incorporation of the Houthis into the “axis of resistance” allowed Tehran to project power into the Gulf without direct military engagement, transforming the movement into a key instrument of delegated deterrence and indirect regional pressure.
+However, the Houthis’ trajectory since October 2023 illustrated the structural limits of proxy-based power projection. Military losses, financial strangulation, diplomatic isolation, leadership attrition, and the erosion of external support networks progressively weakened the movement’s operational capacity and strategic autonomy.
+Structural constraints and failed territorial expansion
+Iran’s relationship with the Houthis was never as consolidated as its relationship with Hezbollah in Lebanon. However, the relationship strengthened significantly during the Saudi-led military campaign in Yemen in 2015, when Iran identified the Houthis as an opportunity to expand its influence in the Gulf. With the Houthis incorporated into Iran’s network, Tehran claimed that its self-declared “axis of resistance” now extended across the Middle East.
+Well before the October 7 attacks, the Houthis were already facing structural constraints in Yemen. Although they controlled much of northern Yemen, including the capital, Sanaa, their attempts to expand into southern and eastern Yemen were met with sustained resistance from the Saudi-led coalition and local Yemeni forces. This military stalemate prevented the Houthis from achieving a decisive victory and increasingly stretched their military and logistical capacities.
+At the same time, the Houthis sought to assert themselves as Yemen’s political leaders. But their governance performance generated widespread disillusionment. Lacking the resources and administrative capacity to meet basic societal needs, the Houthis presided over worsening food insecurity, public health crises, and the deterioration of essential services. These failures undermined their domestic legitimacy and weakened their ability to mobilize both local and international support. The humanitarian crisis further constrained their political consolidation.
+Failure of regional power projection
+In the aftermath of Hamas’s October 7 attacks, the Houthis perceived an opportunity to bolster their domestic profile and reposition themselves as a “resistance” actor. They targeted commercial shipping in the Red Sea and launched attacks on Eilat to cultivate legitimacy within Yemen and gain regional visibility. These actions were accompanied by rhetoric framing the group as an active component of Iran’s “axis of resistance,” projecting an image of coordination with other Iran-backed actors across the region. Although Hezbollah’s progressive weakening was a cause for concern for the Houthis, they also saw in it an opportunity to replace Hezbollah as Iran’s main proxy.
+[28]
+This projection of military relevance proved unsustainable. The international response to Houthi attacks on Red Sea shipping, including the US-led multinational Operation Prosperity Guardian, did not halt Houthi maritime attacks but reduced the group’s ability to threaten maritime trade, though it stopped when the Gaza ceasefire was agreed.
+[29]
+From January 2024, the United States and the United Kingdom conducted sustained strikes against Houthi targets. During Operation Poseidon Archer, the US strikes in October 2024 using B-2 bombers sent a clear signal of American military superiority and escalation dominance.
+[30]
+This was followed in 2025 by Operation Rough Rider, a 52-day US air campaign involving approximately 1,100 airstrikes, which inflicted substantial damage on Houthi leadership structures, military assets, and infrastructure.
+[31]
+Israel also killed members of the Houthi cabinet in August 2025.
+[32]
+Diplomatic isolation and financial strangulation
+The Houthis’ involvement in the confrontation with Israel further deepened their political isolation. Most states, including members of the Arab League and the broader international community, continued to recognize Yemen’s internationally backed government and refused to engage with Houthi governance structures. This diplomatic isolation restricted the Houthis’ capacity to operate on equal footing in negotiations. In March 2025, the United States designated the Houthis as a Foreign Terrorist Organization, further constraining their access to international legitimacy, diplomacy, and financial channels.
+[33]
+The group also suffered severe financial losses.
+[34]
+In 2024, Israel launched two strikes on fuel storage tanks at the Houthi-controlled Hodeida Port, with the first attack alone estimated to have caused losses of approximately $20 million.
+[35]
+These losses compounded earlier financial setbacks, including the disappearance of Houthi funds held in Lebanese banks following Lebanon’s 2019 financial collapse. Attempts to generate revenue through foreign investments increased the group’s exposure to international financial surveillance. In December 2023, the US Department of the Treasury sanctioned networks financing the Houthis with Iranian funds through operations in Dubai
+[36]
+and Turkey.
+[37]
+In May 2024, a C4ADS investigation exposed Houthi property acquisitions in Dubai.
+[38]
+More US sanctions followed in 2025,
+[39]
+bolstered by the US’s designation of the Houthis as a Foreign Terrorist Organization.
+[40]
+Compliance measures imposed on the Bank of Yemen in Sanaa and banks across the Gulf reduced income flows to Houthi-controlled areas significantly.
+Organizational exposure
+The Houthis also experienced an organizational shock following Israel’s military defeat of Hezbollah in Lebanon. The relationship between the Houthis and Hezbollah had been particularly close, with Houthi leader Abdul Malik al-Houthi having regarded Hassan Nasrallah as a strategic and symbolic mentor, even emulating his public communication style. Nasrallah’s assassination removed a central figure of ideological and operational guidance and generated fear of similar targeting.
+[41]
+Israel’s infiltration of Hezbollah’s communications networks heightened paranoia within Houthi ranks regarding their own vulnerabilities. After Hezbollah’s military defeat in 2024, Israel and the United States intensified human intelligence penetration and surveillance of Houthi structures, leading to the killing of several senior Houthi commanders in operations resembling Israel’s decapitation strategy against Hezbollah.
+[42]
+The cumulative financial losses, leadership attrition, and exposure risks were coupled with Abdul Malik al-Houthi’s withdrawal from public visibility for two months in late 2025 before eventually releasing limited online statements from January 2026. Having been regularly active previously, al-Houthi’s withdrawal reduced the group’s public domain communications reach. The Houthis delayed public acknowledgment of commander casualties, announcing deaths months after they occurred. Unlike Hezbollah, whose leadership links could be partially replaced through IRGC involvement, the Houthis’ operational relationship with Hezbollah was more central than their institutional relationship with Iran, limiting Tehran’s ability to compensate for the loss of key liaison figures through direct IRGC substitution.
+Strategic retrenchment and narrative collapse
+Multiple pressures were already converging when Israel struck Houthi fuel assets at Hodeida Port on July 20, 2024. The Houthis’ response was revealing. Abdul Malik al-Houthi delivered a televised address repeating Iran’s narrative, that delayed retaliation reflected tactical coordination and that “the decision to respond is a decision made by everyone; at the level of the entire axis.”
+[43]
+Although the Houthis retaliated by launching a missile toward the area around Ben Gurion Airport, the response remained isolated and symbolic. It triggered Israel’s second strike on Hodeida and subsequent coalition bombing under Operation Poseidon Archer.
+Following these escalatory cycles, the Houthis shifted toward a strategy of loss minimization. They reduced overt invocation of the “axis of resistance,” reframing their narrative around Arab solidarity and portraying Iran as a secondary supporter rather than a central sponsor. They increasingly claimed operational autonomy in Yemen, despite continued Iranian and Hezbollah involvement. After a period of publicly emphasizing links with Iran-backed Iraqi factions, they ceased referencing these relationships as prominently as before.
+[44]
+Speculation over renewed US military action against Iran prompted Abdul Malik al-Houthi to re-emerge publicly in January 2026 to issue statements of support for Tehran and renew the rhetorical positioning of the Houthis as a regional actor. However, the Houthis’ severely degraded military, financial, and human capacity had fundamentally altered their strategic calculus.
+[45]
+Any significant action against US targets risked accelerating the group’s organizational collapse rather than enhance its deterrent leverage.
+The cumulative impact of international military operations, diplomatic isolation, and the dismantling of its primary external support networks forced the Houthi movement into a period of strategic retrenchment. By early 2026, the group’s “axis of resistance” narrative had largely diminished, replaced by a desperate focus on organizational survival within the domestic Yemeni arena. The loss of Hezbollah as an operational mentor, combined with the significant reduction of Houthi military assets through Operations Poseidon Archer and Rough Rider, effectively neutralized the group’s ability to project power regionally.
+[46]
+Furthermore, the FTO designation and the destruction of critical infrastructure at Hodeida Port crippled the Houthis’ financial autonomy, leaving them unable to sustain their governance model or meet the basic needs of the population.
+Ultimately, the Houthis’ attempt to leverage the Gaza conflict to bolster their regional profile backfired, resulting in a significantly weakened movement that became more vulnerable to internal dissent and pressure from the internationally recognized Yemeni government. While the leadership continued to issue sporadic statements of support for Tehran just before and after the start of Operation Epic Fury,
+[47]
+which were reciprocated by Iranian messaging about its support for the Houthis (such as through publicly meeting with a Houthi leader on the sidelines of talks with the US in Oman in February 2026), these gestures highlighted their isolation rather than their strength. Facing a future defined by severe leadership attrition and financial insolvency, the Houthis shifted from being an expansive regional threat to a domestic actor struggling to maintain its grip on northern Yemen amidst a landscape of military inferiority and strategic enclosure.
+Iraq: Fragmentation and the Erosion of Iran’s Proxy Leverage
+For two decades, Iraq functioned as a political and security pillar of Iran’s regional proxy system. Through the institutionalization of Iran-backed militias within the post-2003 Iraqi state, Tehran embedded itself within Iraq’s political, security, and economic structures, transforming the Popular Mobilization Forces (PMFs) into a central mechanism of proxy governance and delegated deterrence. The defeat of ISIS provided these militias with unprecedented legitimacy, enabling their transition from armed actors into dominant political stakeholders. While intra-militia competition has been a feature of the landscape since 2003, this period was for a decade and a half characterized by centralized mediation and a unified chain of command under figures like IRGC Quds Force leader Qasem Soleimani and PMF deputy leader Abu Mahdi Muhandis, who ensured that factional rivalries did not compromise Iran’s core strategic objectives.
+However, the period since 2018 marked a steady unravelling of this model into a contested and unstable proxy environment. Political rivalries, legitimacy erosion, leadership decapitation, financial predation, and external military pressure progressively weakened Iran’s ability to exercise coherent proxy control in Iraq. What once functioned as a coordinated if competitive proxy bloc fragmented into competing factions with divergent interests, strategies, and risk thresholds. This shift represents a transition from managed competition to unmanaged disintegration of Iran’s proxy network in Iraq. The Iraqi arena came to reflect a move from the consolidation of Iranian power projection to the structural breakdown of proxy cohesion.
+Political fragmentation and the collapse of proxy cohesion
+Iran’s influence in Iraq had been a defining feature of the post-Saddam Hussein political order. This influence was never rigid, with various armed groups backed by Iran changing their positions and alliances over time.
+[48]
+For example, the Badr Organization was originally established as the armed wing of the Islamic Supreme Council of Iraq but split from the Council in 2012 after the latter began moving away from Iran to position itself in national Iraqi terms. While Moqtada al-Sadr moved from allying his Sadrist Movement with Iran-backed Shia parties under the umbrella of the United Iraqi Alliance in 2005 to criticizing Iran’s dominance in Iraqi politics just over a decade later in an effort at presenting himself as an alternative sovereign leader. By 2022 the Sadrist Movement had ceased to play a formal political role after al-Sadr announced that he was retreating from politics.
+[49]
+Iran’s influence in Iraq peaked with the creation of the Popular Mobilization Forces to counter the rise of ISIS in 2014 and their subsequent declared military victory against the group four years later. The PMFs translated their claimed military victory over ISIS into political capital, forming the Fateh Alliance, which emerged as the second-largest bloc in parliament in the 2018 elections.
+[50]
+This allowed many of those groups to play an influential role in Iraqi politics despite their terrorist designations by the US: Kataeb Hezbollah was designated as a Foreign Terrorist Organization in 2009, and in 2018 the US listed Harakat al-Nujaba, Kataib Sayyid al-Shuhada, Harakat Ansar Allah al-Awfiya, and Kataib al-Imam Ali as Specially Designated Global Terrorists.
+[51]
+However, a major transformation began with the loss of the central arbiters of the system represented by the 2020 US assassination of Soleimani and Muhandis. Their deaths removed the organizational glue that had overridden factionalism.
+[52]
+Tehran could no longer rely on a coherent response structure or unified chain of command among Iraqi militias. From having exercised significant sway over Iraq’s political environment, Iran became dependent on a narrow core of allies and unable to repair the fractures among the broader network of militias it supported.
+At the same time, the PMFs, which once were widely regarded as national heroes for their role in defeating ISIS, were increasingly facing public backlash. Many Iraqis accused PMF factions of operating outside the law, engaging in corruption, and committing human rights abuses. Their political behavior and violent interference against the October 2019 protest movement further eroded public trust, with the US consequently designating Iraqi Popular Mobilization Committee chair Falih Fayyad in 2021.
+[53]
+This legitimacy crisis weakened the PMFs’ political authority and social standing, undermining their ability to convert military power into durable political influence. There was a sharp decline in the alliance’s parliamentary representation, from 48 seats in 2018 to 17 seats in the 2021 elections.
+[54]
+Although the PMFs responded by coalescing under what they called the Coordination Framework, fragmentation among the factions continued. These divisions were driven in part by economic profiteering, including the creation of shell companies, participation in illicit fuel trading,
+[55]
+and the diversion of state resources to finance election campaigns and procure arms.
+[56]
+Efforts by Prime Minister Mohamed Shia al-Sudani to counter corruption generated resistance even among militias that had positioned themselves as political allies. In August 2024, the discovery of a wiretapping network in al-Sudani’s office, targeting figures including leaders from the Coordination Framework, highlighted the depth of intra-elite contestation and internal mistrust.
+[57]
+These fractures were reinforced by Iran’s preferential treatment of its most loyal allies, including Kataeb Hezbollah, Asa’ib Ahl al-Haq, and Badr Organization. Iran helped grant members of these groups senior ranks within PMF structures and superior armament relative to other militias, in an effort to cultivate competitiveness for loyalty to Iran. But this eventually only deepened factionalism. Israel’s subsequent killing of Hezbollah leader Hassan Nasrallah removed another figure who had acted as a unifying broker among PMF factions. With time, PMF factions also became less dependent on Iran financially as they made most of their money from Iraqi government funding as well as various other licit and illicit income streams. This financial decoupling lessened Iran’s leverage over them, transforming coalition management failure into a permanent coordination problem.
+External pressure and increased fractures
+The PMFs also came under sustained external pressure. US airstrikes on PMF positions, sanctions targeting key militia leaders, and diplomatic efforts to curtail their political reach imposed direct operational constraints. For example, in 2020, the US added Asa’ib Ahl al-Haq to the list of Foreign Terrorist Organizations. In January 2026, the US threatened Iraq with sanctions if Iran-backed factions become part of the Iraqi government.
+[58]
+These pressures limited both the factions’ freedom of action and their strategic autonomy.
+The Gaza war provided Iran and PMF factions with a pretext to escalate attacks against US and allied targets. As with the Houthis, the Gaza war offered PMF factions an opportunity to assert “resistance” credentials and boost domestic legitimacy. Shortly after the October 7, 2023 attacks, Kataeb Hezbollah and Harakat Hezbollah al-Nujaba hosted a Hamas delegation in Baghdad.
+[59]
+Alongside other smaller Iran-backed militias like Kata'ib Sayyid al-Shuhada, they began operating under the brand the Islamic Resistance in Iraq (IRI) to convey unity as they carried out attacks against US-linked sites in Iraq and Syria, including al-Omar field.
+[60]
+They also launched rockets, drones, and missiles toward Israel, with attack frequency increasing following the assassination of Hassan Nasrallah.
+[61]
+However, divisions within PMF ranks generated disagreement over escalation thresholds and targeting strategies. For example, in February 2024, Harakat Hezbollah al-Nujaba initially rejected Iran’s request to halt attacks on US positions inside Iraq.
+[62]
+These divisions revealed the absence of a unified operational doctrine.
+[63]
+Both the United States and Israel responded with targeted strikes. The US focused on retaliation within Iraq, while Israel concentrated on PMF commanders and assets in Syria, including the killing of a Kataeb Hezbollah commander in a drone strike.
+[64]
+Israel’s strategic objective was to disrupt the Syria-Iraq land bridge that had functioned as a core logistical artery under the Assad regime. Under pressure from US retaliation, Iraqi government constraints, and the risk of wider escalation, the pace of claimed PMF attacks declined over time, and by mid-2024 the campaign had largely faded into sporadic, low-intensity activity rather than a sustained front.
+The collapse of the Assad regime in December 2024 further hindered PMF operations. The Syria-Iraq land bridge deteriorated, forcing militias such as Kataib Hezbollah al-Nujaba to withdraw from Syria back into Iraq. Israel’s intensified strikes in Syria aimed to prevent PMF factions from establishing new launch positions along the Syrian border. In September 2025, the US ramped up its pressure by upgrading the designation of Kataib Hezbollah al-Nujaba, Kataib Sayyid al-Shuhada, Harakat Ansar Allah al-Awfiya, and Kataib al-Imam Ali to Foreign Terrorist Organizations.
+[65]
+The combination of external pressures by the US and Israel, fall of the Assad regime, and loss of capacity by Hezbollah and the Houthis drove most PMF factions to shift their focus to domestic survival.
+[66]
+Despite rhetorical escalation, PMF factions diverged sharply over participation in direct conflict with Israel. During the Iran-Israel war in June 2025, the PMFs refrained from direct involvement. IRI groups did so because Iran wanted to preserve them after the military defeat of Hamas and Hezbollah. This is not only because of their political and military importance to Iran but also because they provided it with an economic lifeline to circumvent sanctions. But for most of the other factions, non-intervention reflected fear of losing political capital, manpower, and military infrastructure as well as economic clout.
+[67]
+Although Coordination Framework parties later pooled their electoral gains in the 2025 elections to form the largest parliamentary bloc, internal disagreements among the PMFs emerged over Iraq’s relationship with the United States. Some factions demanded full withdrawal of US troops from Iraq, while others adopted more pragmatic positions out of concern that a standoff with the US would hurt their economic interests. These tensions intensified after Iraq’s head of the Supreme Judicial Council stated in December 2025 that militias should transfer their weapons to the state—a position accepted only by some factions like Asa’ib Ahl al-Haq, with Kataeb Hezbollah and al-Nujaba rejecting it.
+[68]
+By January 2026, these disagreements had escalated into public standoffs between Asa’ib Ahl al-Haq and al-Nujaba, generating new political fractures. These happened as the Coordination Framework struggled to form a government following the 2025 elections, partly due to the Trump administration’s explicit rejection of the presence of Iran-backed militias in the Iraqi cabinet. US pressure fundamentally constrained Iran’s ability to wield influence in Iraq through proxy mechanisms.
+The Houthis’ strategic retrenchment in Yemen further weakened the PMFs’ claim to regional backing. The Houthis had expanded their operational and business presence in Iraq following Lebanon’s financial collapse in 2019, but this expansion increased their exposure. A US strike in July 2024 on Iraqi militias that had attacked Israel killed a Houthi commander at a site south of Baghdad.
+[69]
+By 2026, the Houthis had redirected most of their focus back to Yemen.
+The dissolution of the Syrian Democratic Forces in January 2026 further constrained PMF manoeuvrability by bringing the Syrian Arab Army to the Iraq-Syria border. In parallel, Arab tribes in northeastern Syria increasingly began to align with the Syrian government, reducing space for Iranian and PMF influence and further narrowing the strategic depth of Iran’s Iraqi proxy network.
+In the months leading up to the joint US-Israeli Operation Epic Fury, and as speculation about military confrontation grew, factions such as Asa’ib Ahl al-Haq and Badr Organization avoided backing attacks on Israel and US targets, while IRI groups, primarily Kataeb Hezbollah and Harakat Hezbollah al-Nujaba, continued to project a confrontational posture, seeing in the protection of the Iranian regime protection for their possession of weapons – and, by extension, political authority. This led to public criticism of their role in dragging Iraq into a war on Iran’s behalf. The calibrated position of Asa’ib Ahl al-Haq and the Badr Organization, despite their historical preferential treatment by Iran, showed that a high level of Iranian support did not guarantee it full faction alignment.
+Following the killing of Iranian Supreme Leader Ayatollah Ali Khamenei shortly after the launch of Operation Epic Fury, IRI factions entered the conflict. On March 1, 2026, Saraya Awliya al-Dam launched a drone and rocket barrage against US forces at the international airport and the Harir airbase in Erbil. This was followed on March 2 by a drone attack on the Victoria military base in Baghdad. Kataeb Hezbollah and other IRI factions both widened and escalated their attacks on US assets in Iraq and Jordan.
+[70]
+But most other PMFs stayed out of the conflict with the US.
+[71]
+US retaliatory strikes on March 2, 2026, targeting PMF infrastructure in Jurf al-Sakhar and al-Qaim, spurred Prime Minister Sudani to chair an extraordinary meeting of the Ministerial Council for National Security during which he emphasized instructions to the security forces to “prevent any party from conducting operations that might draw Iraq into ongoing conflicts”.
+[72]
+These events provide a rebuttal to the “strategic restraint” theory, the idea that Iran was holding all Iraqi militias in reserve to ensure the survival of the Iranian regime. IRI’s escalations were not coordinated with the rest of the PMFs. They exposed a deep rift: While IRI and affiliated militant cells lashed out, the political leadership of the Badr Organization and Asa’ib Ahl al-Haq issued statements condemning US retaliation against other PMFs, with most PMFs prioritizing their own domestic political and economic survival over the defense of the Islamic Republic.
+By 2026, Iran’s proxy architecture in Iraq had shifted from consolidated influence to fragmented survivalism. The PMFs no longer functioned as a coherent proxy bloc but as a disaggregated constellation of militias with divergent interests, strategies, and risk tolerances. Rather than serving as a platform for regional power projection, Iraq became a constrained environment for Iranian strategy and a liability for the Iraqi state, risking generating instability without producing strategic control. In addition to domestic, mainly economic, drivers, proxy fragmentation was a result of Iran’s strategic overextension and the loss of its central arbiters. The Iraqi case thus exemplifies the broader regional pattern: The systemic degradation, not adaptation, of Iran’s proxy model, where the agent eventually chooses local self-preservation over the survival of the principal.
+The outlook for political and geopolitical change
+The degradation of Iran’s proxy model marked a structural transformation in the Middle East’s security architecture. Iran’s long-standing strategy of “forward defense” – projecting power through militias, proxy governance, and transnational armed networks – came to be replaced by systemic vulnerability. The expansion of Iran’s proxy system produced operational overstretch, financial fragility, intelligence exposure, and political delegitimization.
+Despite Iran’s narrative of a unified front, the different proxies’ confrontations with Israel were not part of one centrally coordinated regional theater of war but rather were multiple theaters.
+[73]
+That none of the proxies acted in a significant capacity in aid of Iran during its war with Israel in June 2025 illustrates that Iran itself was concerned about losing its proxies were they to act in that context.
+[74]
+The Houthis’ shift to downplaying Iran’s and Hezbollah’s military role in Yemen shows that the group moved to prioritizing self-preservation over a regional projection of influence. The same applies to most PMFs that have chosen an Iraq first positioning. Hezbollah’s trajectory illustrates that it had no such agency; its closeness to Tehran moved from giving it the highest status among Iraq’s proxies to the most vulnerable.
+The degradation of Iran and its proxy model is an opportunity for the US to lead its allies in a new strategy to shift the balance of power in the region towards sustainable stability.
+At the national level, without Iranian influence prevailing, it becomes easier for Lebanon, Yemen, and Iraq and also Syria to improve their political and security situations.
+The demise of Hezbollah’s and Iran’s authority in Lebanon paves the way for consolidating the gains made since January 2025 by the political process in the country. But this scenario must come with political reassurances for Hezbollah’s supporters, especially within the Shia community, who for decades saw in Hezbollah their only means of having a voice. The nascent political process therefore needs to be a genuinely inclusive national dialogue. Hezbollah remnants can be offered the path of becoming a political party like the rest of the former militias that handed their weapons to the state after the Lebanese Civil War.
+In Yemen, while the Houthis participated in intermittent diplomatic talks, they were not serious about achieving a sustainable peace agreement. The US must capitalize on the dramatic changes created by Operation Epic Fury to work with its international and regional allies to push the Houthi base to engage in meaningful peace negotiations.
+Iran’s approach to Iraq was a major factor in sowing divisions among Iraq’s various political and paramilitary groups from different backgrounds. As with Lebanon, the US must work with its regional allies on a process of national dialogue in Iraq, alongside reconfiguration of the country’s security and military arrangements and counter-corruption measures, to restore the authority of the state. The weakening of Iran’s influence paves the way for the US to maintain long-term security, political, and economic partnerships with the Iraqi state.
+At the regional level, although there are ongoing sensitivities in Lebanon and Syria regarding normalization with Israel, with Iran’s influence diminished the two countries have a chance to reach a security and economic agreement with Israel to bring stability to all sides. The US is already mediating such agreements with the Lebanese and Syrian authorities and should continue to build trust between the parties. The removal of the influence of the Islamic Republic of Iran paves the way for widening such agreements across the Middle East.
+At the geopolitical level, Iran’s model of almost indefinite exportation of the revolution has been counterproductive: The bigger Iran’s network of militias and stakeholders grew in size and adventurism, the greater their and Iran’s vulnerability. This shift has reconfigured deterrence. The prevailing security architecture in the region is no longer dominated by what Iran used to call “forward defense” but by Israel’s model of “active defense”, based on pre-emption, intelligence penetration, and continuous degradation. The balance of initiative has shifted decisively away from Tehran.
+Foreign policy delinking Iran’s nuclear file from its regional interventions was based on an artificial separation. Countering Iran’s destabilization in the Middle East could not happen without addressing this imbalance. The October 7, 2023 attacks and their aftermath brought the Middle East huge devastation in which Iran and its proxies played a major role, after having destabilized the region for decades. The degradation of Iran’s proxy model provides crucial political opportunities to steer the region towards stability. The US must capitalize on this historic breakthrough to work with its partners in the region to achieve a mutually beneficial, sustainable geopolitical change.
+Strategically, the Middle East is entering a post-proxy phase in which influence will increasingly be determined by state capacity, economic resilience, intelligence superiority, and international alignment rather than militia projection. Within this, the regional security architecture in the Middle East is moving from a hybrid security order dominated by transnational militias and proxy governance toward a more state-centric security order. This transformation has wider geopolitical consequences. The erosion of Iran’s proxy system that had underpinned regional instability for four decades opens space for the reassertion of state sovereignty and creates conditions for reconstructing national security institutions in Lebanon, Iraq, Syria, and Yemen, in addition to Iran itself.
+Such a change is not without risks: Unmanaged power vacuums, militia fragmentation, and further cycles of violence can occur if transition processes are not institutionally supported. This requires coordinated policy across security assistance, governance reform, economic stabilization, institutional rebuilding, and diplomatic integration.
+For the United States and its allies, this moment constitutes a historic inflection point. The degradation of Iran’s proxy model is not merely a security outcome; it is a geopolitical opening. If leveraged effectively, it enables a transition from containment of instability to reshaping the regional order.
+Failure to capitalize on this opening risks reproducing the conditions that allowed Iran’s proxy system to flourish: Weak states, fragmented sovereignty, and inadequately addressed conflict ecosystems. Success, by contrast, would mark the first durable reversal of the Islamic Republic of Iran’s regional expansion since 1979 – and a foundational shift in the Middle East’s balance of power.
+[1]
+BBC News
+. “EU Adds Iran’s Revolutionary Guards to Terrorist List.” January 29, 2025.
+https://www.bbc.co.uk/news/articles/c20gypw8enjo
+.
+[2]
+Vakil, Sanam. “The US Needs a New Iran Strategy if Trump’s Gaza Plan Is to Endure.”
+Chatham House
+, October 15, 2025.
+https://www.chathamhouse.org/2025/10/us-needs-new-iran-strategy-if-trumps-gaza-plan-endure
+.
+[3]
+Bergman, Ronen, Adam Rasgon, and Patrick Kingsley. “Secret Documents Show Hamas Tried to Persuade Iran to Join Its Oct. 7 Attack.”
+The New York Times
+, October 12, 2024.
+https://www.nytimes.com/2024/10/12/world/middleeast/hamas-israel-war.html
+.
+[4]
+Al-Kindi, Abdulghani. "In Political Science Iran Did Not Sell Out Hezbollah" (Arabic).
+Al Arabiya
+, October 5, 2024.
+https://www.alarabiya.net/politics/2024/10/05/%D9%81%D9%8A-%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%8A%D8%B1%D8%A7%D9%86-%D9%84%D9%85-%D8%AA%D8%A8%D8%B9-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87
+.
+[5]
+Ravid, Barak. “Israel Strike Crippled Iran’s Missile Production, Sources Say.”
+Axios
+, October 26, 2024.
+https://www.axios.com/2024/10/26/israel-strike-iran-missile-production
+.
+[6]
+U.S. Department of the Treasury. “Treasury Sanctions Networks Enabling Illicit Trade That Benefits IRGC-QF and Hizballah.” September 25, 2024.
+https://home.treasury.gov/news/press-releases/jy2613
+.
+[7]
+Mazhari, Mohammad. “Iran’s ‘Axis of Resistance’ Outmatched By Israeli Intelligence And Weapons.”
+Stimson Center
+, September 30, 2024.
+https://www.stimson.org/2024/irans-axis-of-resistance-outmatched-by-israeli-intelligence-and-weapons/
+.
+[8]
+Salehyan, Idean. “The Delegation of War to Rebel Organizations.”
+Journal of Conflict Resolution
+54, no. 3 (2010): 493–515.
+[9]
+Berman, Eli, and David D. Lake.
+Proxy Wars: Suppressing Violence through Local Agents
+. Ithaca, NY: Cornell University Press, 2019.
+[10]
+Kennedy, Paul.
+The Rise and Fall of the Great Powers
+. New York: Random House, 1987.
+[11]
+ACLED. “Middle East Crisis: A Year of War in Numbers.” October 10, 2024.
+https://acleddata.com/brief/middle-east-crisis-year-war-numbers
+.
+[12]
+Washington Jewish Week. “Israel Bloodied Hezbollah, but Only Lebanon Can Defeat It.” August 28, 2025.
+https://www.washingtonjewishweek.com/israel-bloodied-hezbollah-but-only-lebanon-can-defeat-it/
+.
+[13]
+Polak, Dima. “Summary of War Data: Israel Northern Arena 2023–2024.”
+Alma Research and Education Center
+, November 27, 2024.
+https://israel-alma.org/summary-of-war-data-israel-northern-arena-2023-2024/
+.
+[14]
+Frankel, Julia. “Iranian Missiles Penetrated Israel’s Air Defenses Friday. How Ironclad Is the System?”
+Los Angeles Times
+, June 13, 2025.
+https://www.latimes.com/world-nation/story/2025-06-13/iranian-missiles-penetrated-israels-air-defenses-friday-how-ironclad-is-the-system
+.
+[15]
+Washington Jewish Week. “Israel Bloodied Hezbollah, but Only Lebanon Can Defeat It.” August 28, 2025.
+https://www.washingtonjewishweek.com/israel-bloodied-hezbollah-but-only-lebanon-can-defeat-it/
+.
+[16]
+Khatib, Lina. “Hezbollah’s Attack on Israel Is the Final Nail in Its Coffin.”
+Al Majalla
+, March 15, 2026.
+https://en.majalla.com/node/330112/opinion/hezbollahs-attack-israel-final-nail-its-coffin
+.
+[17]
+Rabih, Nada. “Indemnités gelées et pertes internes : les failles du Hezbollah révélées au grand jour.”
+L’Orient-Le Jour
+, January 15, 2025.
+https://www.lorientlejour.com/article/1491592/indemnites-gelees-et-pertes-internes-les-failles-du-hezbollah-revelees-au-grand-jour.html
+.
+[18]
+World Bank. “Lebanon’s Recovery and Reconstruction Needs Estimated at US$11 Billion.” March 7, 2025.
+https://www.worldbank.org/en/news/press-release/2025/03/07/lebanon-s-recovery-and-reconstruction-needs-estimated-at-us-11-billion
+.
+[19]
+Grajewski, Nicole. “Iran Has Shown Its Vulnerabilities.”
+Carnegie Endowment for International Peace
+, October 28, 2024.
+https://carnegieendowment.org/middle-east/diwan/2024/10/what-are-irans-options-after-the-israeli-attack?lang=en
+.
+[20]
+Polak, Dima. “Summary of War Data: Israel Northern Arena 2023–2024.”
+Alma Research and Education Center
+, November 27, 2024.
+https://israel-alma.org/summary-of-war-data-israel-northern-arena-2023-2024/
+.
+[21]
+The Economist. “Hizbullah, Iran’s Most Powerful Proxy, Has Been Humbled.” January 26, 2026.
+https://www.economist.com/middle-east-and-africa/2026/01/26/hizbullah-irans-most-powerful-proxy-has-been-humbled
+[22]
+Nidaa Al-Watan
+. "What Are the Secrets of Friday?" (Arabic). January 31, 2025.
+https://www.nidaalwatan.com/article/304760-ماذا-في-أسرار-اليوم-الجمعة-3112025
+.
+[23]
+Syrian Archive. “Since the Gaza War: Hundreds of Israeli Attacks on Syria.” March 11, 2025.
+https://syrianarchive.org/en/investigations/since-the-gaza-war-hundreds-of-israeli-attacks-on-syria/
+.
+[24]
+Al Jazeera. “Israeli Strike on Iran’s Syria Consulate Kills 7, Including 2 IRGC Generals.” April 1, 2024.
+https://www.aljazeera.com/news/2024/4/1/several-killed-in-israeli-strike-on-iranian-consulate-in-damascus-reports
+.
+[25]
+Chughtai, Alia, and Mohammed Haddad. “Israel Attacked Syria More Than 600 Times over the Past Year.”
+Al Jazeera
+, December 9, 2025.
+https://www.aljazeera.com/news/2025/12/9/israel-attacked-syria-more-than-600-times-over-the-past-year
+.
+[26]
+Al-Ahram Online. “Syrian Army Deploys in Deir Ezzor Province after Kurdish Withdrawal.” January 19, 2026.
+https://english.ahram.org.eg/News/560750.aspx
+.
+[27]
+Naharnet. “Qassem Says Hezbollah Can Fight for Months, Will Accept Truce if Terms Suitable.” October 30, 2024.
+https://www.naharnet.com/stories/en/308970-sheikh-naim-qassem-in-his-first-speech-as-hezbollah-s-secretary-general
+.
+[28]
+Juneau, Thomas, and Farea Al-Muslimi. “Do the Ambitions of Yemen’s Houthis Go beyond the Region?”
+Amwaj
+, September 30, 2025.
+https://amwaj.media/en/article/do-the-ambitions-of-yemen-s-houthis-go-beyond-the-region
+.
+[29]
+U.S. Department of Defense. “Statement from Secretary of Defense Lloyd J. Austin III on Ensuring Freedom of Navigation in the Red Sea.” 2024.
+https://www.defense.gov/News/Releases/Release/Article/3621110/statement-from-secretary-of-defense-lloyd-j-austin-iii-on-ensuring-freedom-of-n/
+.
+[30]
+Liebermann, Oren, Natasha Bertrand, and Haley Britzky. “US B-2 Bombers Strike Iran-Backed Houthis in Yemen.”
+CNN
+, October 16, 2024.
+https://edition.cnn.com/2024/10/16/politics/us-strikes-iran-backed-houthis-yemen/index.html
+.
+[31]
+Clough, Will. “The Yemen Review Quarterly: April–June 2025: Military and Security.”
+Sana’a Center for Strategic Studies
+, July 22, 2025.
+https://sanaacenter.org/the-yemen-review/april-june-2025/25090
+.
+[32]
+Sana’a Center for Strategic Studies. “Israeli Strikes Target Houthi-Appointed Cabinet, PM and Other Ministers Killed.” September 2, 2025.
+https://sanaacenter.org/publications/analysis/25421
+.
+[33]
+Rubio, Marco. “Designation of Ansarallah as a Foreign Terrorist Organization.”
+U.S. Department of State
+, March 4, 2025.
+https://www.state.gov/designation-of-ansarallah-as-a-foreign-terrorist-organization
+.
+[34]
+Al-Awlaqi, Waddah. “The Yemen Review Quarterly: July–September 2025: Economy.”
+Sana’a Center for Strategic Studies
+, October 28, 2025.
+https://sanaacenter.org/the-yemen-review/jul-sept-2025/25633
+.
+[35]
+Sana’a Center for Strategic Studies. “Israeli Strikes Target Houthi-Appointed Cabinet, PM and Other Ministers Killed.” September 2, 2025.
+https://sanaacenter.org/publications/analysis/25421
+.
+[36]
+U.S. Department of the Treasury. “Treasury Targets Network Financing Houthi Regional Aggression.” December 7, 2023.
+https://home.treasury.gov/news/press-releases/jy1961
+.
+[37]
+U.S. Department of the Treasury. “Treasury Targets Network Financing Houthi Attacks on International Shipping.” December 28, 2023.
+https://home.treasury.gov/news/press-releases/jy2014
+.
+[38]
+Kanematsu, Yusuke, Shinichi Fujii, and Takaya Tsunashima. “Terrorist Groups Suspected of Funneling Money to Dubai Properties.” Nikkei Asia, May 15, 2024.
+https://asia.nikkei.com/Politics/Terrorism/Terrorist-groups-suspected-of-funneling-money-to-Dubai-properties
+.
+[39]
+Al-Awlaqi, Waddah. “The Yemen Review Quarterly: July–September 2025: Economy.”
+Sana’a Center for Strategic Studies
+, October 28, 2025.
+https://sanaacenter.org/the-yemen-review/jul-sept-2025/25633
+.
+[40]
+The Soufan Center. “Sanctions and Military Action Fail to Stop Houthi Attacks.” July 25, 2025.
+https://thesoufancenter.org/intelbrief-2025-july-25/
+.
+[41]
+Nasser, Mohammad. “The Houthis Are Apprehensive about Upcoming Israeli Assassinations” (Arabic).
+Asharq Al-Awsat
+, October 2, 2024.
+https://aawsat.com/العالم-العربي/5066963-الحوثيون-يتوجسون-من-اغتيالات-إسرائيلية-مقبلة
+.
+[42]
+Sana’a Center for Strategic Studies. “Israeli Strikes Target Houthi-Appointed Cabinet, PM and Other Ministers Killed.” September 2, 2025.
+https://sanaacenter.org/publications/analysis/25421
+.
+[43]
+The Times of Israel. “Houthi Leader Says Group Will Coordinate with ‘Axis of Resistance’ to Attack Israel.” August 8, 2024.
+https://www.timesofisrael.com/houthi-leader-says-group-will-coordinate-with-axis-of-resistance-to-attack-israel/
+.
+[44]
+Sana’a Center for Strategic Studies. “Seminar: The War in Lebanon and the Future Roles of the Houthis in the Axis of Resistance” (Arabic). Youtube, October 24, 2025.
+https://www.youtube.com/watch?v=u-KYDz8jemE
+[45]
+Al-Muslimi, Farea, et al. “US and Israel Attack Iran, Killing Khamenei. Tehran Launches Counterstrikes: Early Analysis from Chatham House Experts.”
+Chatham House
+, February 28, 2026. Updated March 2, 2026.
+https://www.chathamhouse.org/2026/02/us-and-israel-attack-iran-early-analysis-chatham-house-experts
+.
+[46]
+Clough, Will. “The Yemen Review Quarterly: April–June 2025: Military and Security.”
+Sana’a Center for Strategic Studies
+, July 22, 2025.
+https://sanaacenter.org/the-yemen-review/april-june-2025/25090
+.
+[47]
+Abo Alasrar, Fatima. “Pressure on Iran, Price in the Red Sea.”
+The Ideology Machine
+, January 24, 2026.
+https://www.ideologymachine.com/p/pressure-on-iran-price-in-the-red
+. (
+ideologymachine.com
+)
+[48]
+Patel, David Siddhartha. “The Domestic Consequences of Iraq’s Durable Political System.” In
+Security Dynamics in the Gulf and the Arabian Peninsula
+, edited by Howard M. Hensel, 171–80. New York: Routledge, 2022.
+[49]
+Mansour, Renad, and Benedict Robin-D'Cruz. “The Sadrist Movement in Iraq.”
+Chatham House
+, October 28, 2022.
+https://www.chathamhouse.org/2022/10/sadrist-movement-iraq/deciphering-contradictions-sadrs-strategy-controlled-instability
+.
+[50]
+Mansour, Renad, and Christine van den Toorn.
+The 2018 Iraqi Federal Elections: A Population in Transition?
+London: LSE Middle East Centre, 2018.
+https://eprints.lse.ac.uk/89698/7/MEC_Iraqi-elections_Report_2018.pdf
+.
+[51]
+Massalsky, Constantin. “The Popular Mobilization Forces and the 2025 Elections: Hybridity, Legitimacy, and Internal and External Pressures.”
+EIS MENA
+, October 14, 2025.
+https://eismena.com/en/article/the-popular-mobilization-forces-and-the-2025-elections-hybridity-legitimacy-and-internal-and-external-pressures-2025-10-14
+.
+[52]
+Swissinfo.ch. "Signs of Division Within the Popular Mobilization Forces in Iraq" (Arabic). December 12, 2020.
+https://www.swissinfo.ch/ara/بوادر-انقسام-في-“الحشد-الشعبي”-في-العراق/46220204
+.
+[53]
+U.S. Department of the Treasury. “Treasury Sanctions Iraqi Militia Leader Connected to Serious Human Rights Abuse.” January 8, 2021.
+https://home.treasury.gov/news/press-releases/sm1231
+.
+[54]
+Al-Dawshi, Bandar. “American Report: Popular Mobilization Forces are no Longer Influential in Iraq" (Arabic).
+Al Arabiya
+, February 7, 2022.
+https://www.alarabiya.net/amp/arab-and-world/iraq/2022/02/07/تقرير-أميركي-الحشد-الشعبي-لم-يعد-مؤثراً-في-العراق
+.
+[55]
+Al-Hassan, Tamim. “Did the Expected Sudani Seats in the Upcoming Elections and the “Fake Asphalt Plants” Trigger the Crisis Within the Framework?!” (Arabic).
+Al Mada
+, September 17, 2024.
+https://almadapaper.net/377422/
+.
+[56]
+Salem, Zaid. “The Division Within the Popular Mobilization Forces: 3 Points of Contention" (Arabic).
+Al-Araby Al-Jadeed
+, June 14, 2022.
+https://www.alaraby.co.uk/politics/%D8%A7%D9%84%D8%A7%D9%86%D9%82%D8%B3%D8%A7%D9%85-%D8%AF%D8%A7%D8%AE%D9%84-%22%D8%A7%D9%84%D8%AD%D8%B4%D8%AF-%D8%A7%D9%84%D8%B4%D8%B9%D8%A8%D9%8A%22-3-%D9%85%D8%AD%D8%A7%D9%88%D8%B1-%D9%84%D9%84%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA
+.
+[57]
+The New Region
+. “Iraq’s Judicial Chief among Targets of Wiretapping Network: Security Sources.” August 28, 2024.
+https://www.thenewregion.com/posts/818/iraq-s-judicial-chief-among-targets-of-wiretapping-network-security-sources
+.
+[58]
+El Dahan, Maha, Timour Azhari, and Humeyra Pamuk. “U.S. Control of Oil and Dollars Heaps Pressure on Iraq over Iranian Influence.”
+Reuters
+, January 23, 2026.
+https://www.reuters.com/world/us/us-control-oil-dollars-heaps-pressure-iraq-over-iranian-influence-2026-01-23/
+.
+[59]
+Amwaj
+. “Inside Story: The Hamas Delegation’s Rare Visit to Iraq.” November 10, 2023.
+https://amwaj.media/article/inside-story-the-hamas-delegation-s-rare-visit-to-iraq
+.
+[60]
+Alaaldin, Ranj. “The Popular Mobilization Force Is Turning Iraq into an Iranian Client State.”
+Brookings
+, February 2, 2024.
+https://www.brookings.edu/articles/the-popular-mobilization-force-is-turning-iraq-into-an-iranian-client-state/
+.
+[61]
+Knights, Michael, Amir Al-Kaabi, and Hamdi Malik. “Tracking Anti-US and Anti-Israel Strikes in Iraq and Syria during the Gaza Crisis.”
+The Washington Institute for Near East Policy
+, December 3, 2024.
+https://www.washingtoninstitute.org/policy-analysis/tracking-anti-us-and-anti-israel-strikes-iraq-and-syria-during-gaza-crisis
+.
+[62]
+Parry, Annika, Ahmad Soltani, Peter Mills, Alexandra Braverman, Katherine Tyson, and Brian Carter. “Iran Update, February 27, 2024.”
+Institute for the Study of War
+, February 28, 2024.
+https://understandingwar.org/research/middle-east/iran-update-february-27-2024/
+.
+[63]
+i24NEWS Arabic
+. "Report: Division Among Iraqi Factions Over Resuming Escalation Against Americans" (Arabic). April 27, 2024.
+https://www.i24news.tv/ar/أخبار/middle-east/artc-2e0155a3
+.
+[64]
+Shafaq News
+. “Drone Attack Kills Iraqi Hezbollah Commander near Damascus, Syrian Observatory Says.” September 20, 2024.
+https://shafaq.com/en/World/Drone-attack-kills-Iraqi-Hezbollah-commander-near-Damascus-Syrian-Observatory-says
+.
+[65]
+Massalsky, Constantin. “The Popular Mobilization Forces and the 2025 Elections: Hybridity, Legitimacy, and Internal and External Pressures.”
+EIS MENA
+, October 14, 2025.
+https://eismena.com/en/article/the-popular-mobilization-forces-and-the-2025-elections-hybridity-legitimacy-and-internal-and-external-pressures-2025-10-14
+.
+[66]
+Hasan, Harith, and Amina Ahmad. “A Turn to Patronage and Protection.”
+Carnegie Endowment for International Peace
+, April 14, 2025.
+https://carnegieendowment.org/middle-east/diwan/2025/04/a-turn-to-patronage-and-protection?lang=en
+.
+[67]
+Ozcelik, Burcu, and Tamer Badawi. “Why Did Iraq’s Militias Sit Out the Iran–Israel War and Why It Matters.”
+Royal United Services Institute
+, August 14, 2025.
+https://www.rusi.org/explore-our-research/publications/commentary/why-did-iraqs-militias-sit-out-iran-israel-war-and-why-it-matters
+.
+[68]
+Frantzman, Seth. “Iraqi Militias Divided on Disarming and Accepting Government Control.”
+FDD’s Long War Journal
+, December 23, 2025.
+https://www.longwarjournal.org/archives/2025/12/iraqi-militias-divided-on-disarming-and-accepting-government-control.php
+[69]
+Burke, Jason. “Iraq Militias Step Up Israel Attacks as Iran Looks to Junior Proxies.”
+The Guardian
+, October 17, 2024.
+https://www.theguardian.com/world/2024/oct/17/iraq-militias-step-up-israel-attacks-as-iran-looks-to-junior-proxies
+.
+[70]
+The New Arab
+. “Iraqi Militia Claims Drone Attack on Jordan in Support of Iran.” March 4, 2026.
+https://www.newarab.com/news/iraqi-militia-claims-drone-attack-jordan-support-iran
+.
+[71]
+van Wilgenburg, Wladimir. “Iran-Aligned Iraqi ‘Islamic Resistance’ Groups Resurface from the Shadows.”
+The New Region
+, March 2, 2026.
+https://thenewregion.com/posts/4735
+.
+[72]
+Taib Menmy, Dana. “Iraq PM Seeks to Rein in Pro-Iran Militias and Avoid Regional War.”
+The New Arab
+, March 2, 2026.
+https://www.newarab.com/news/iraqi-pm-sudani-aims-rein-pro-iran-militias-avoid-war
+.
+[73]
+Tarzi, Amin. “Israel-Iran Conflict: A Change in Iran’s Strategic Assessment?”
+MES Insights
+15, no. 5 (October 2024). Quantico, VA: Marine Corps University Press.
+https://www.usmcu.edu/Outreach/Marine-Corps-University-Press/MES-Publications/MES-Insights/MES-Insights-vol-15-no-5/
+.
+[74]
+Mansour, Renad, and Hamidreza Azizi. “The Silent Frontlines: Why the ‘Axis of Resistance’ Stayed Quiet in the Iran-Israel War.”
+Clingendael
+, September 2, 2025.
+https://www.clingendael.org/publication/silent-frontlines-why-axis-resistance-stayed-quiet-iran-israel-war
+.
+The latest from Belfer
+See more
+Statements and views expressed in this commentary are solely those of the authors and do not imply endorsement by Harvard University, the Harvard Kennedy School, or the Belfer Center for Science and International Affairs.
+Recommended citation
+Khatib, Lina. “The Degradation of Iran’s Proxy Model.”
+Belfer Center for Science and International Affairs
+,  April 2026
+Copy to Clipboard
+The Degradation of Iran’s Proxy Model
+View Citation
+Share
+Share on Facebook
+Share on Twitter
+Share on LinkedIn
+Print
+Governance
+International Relations
+International Security & Defense
+Iran's Nuclear Program
+Middle East & North Africa
+Middle East Initiative
+Middle East Policy
+Nuclear Issues
+Sanctions
+Terrorism & Counterterrorism
+Recommended citation
+Khatib, Lina. “The Degradation of Iran’s Proxy Model.”
+Belfer Center for Science and International Affairs
+,  April 2026
+Copy to Clipboard
+Author
+Lina Khatib
+Request Interview
+Up Next
+Photo Credit Toggle
+Atomic Energy Organization of Iran via AP, File
+Explainer
+On Enriched Uranium and (Iranian) Nuclear Bombs
+May. 6, 2026
+by  John Holdren
+From Science, Technology, and Public Policy
+Photo Credit Toggle
+Wikimedia CC/Yagasi, translation of the original work by Sémhur
+Article
+Managing the Dangers of Iran's Remaining Nuclear Capabilities
+May 2026
+by  Matthew Bunn
+Photo Credit Toggle
+Foreign Policy
+Event Summary
+The New Geopolitics of Energy: Foreign Policy Live
+Apr. 6, 2026

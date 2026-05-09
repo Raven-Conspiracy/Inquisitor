@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 39th Heavy Combined Arms Brigade
+
+**Unit ID**: 77ga_39cab
+**Type**: heavy_combined_arms_bde
+**Headquarters**: Chengdu area
+**Parent**: Group Army / Fleet / Base: 77th Group Army (第七十七集团军) (77ga)
+**Higher echelon**: Western Theater Command (西部战区)
+**Elite designation**: No
+**Strength (% authorized)**: 100%
+**Notes**: [Wikipedia 77th GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

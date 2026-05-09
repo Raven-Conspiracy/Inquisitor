@@ -1,0 +1,78 @@
+Competitive Electronic Warfare in Modern Land Operations | Royal United Services Institute
+pdf
+Read Full Report
+(PDF 1020KB)
+Science Photo Library / Alamy Stock Photo
+Electronic warfare has shifted from being a niche force multiplier to become an all-arms concern. This paper outlines what has changed in electronic warfare operations and assesses how this should impact force design within NATO militaries.
+The electrification of the battlefield to the point where every soldier carries electronic equipment has greatly improved the ability to coordinate land formations and situational awareness, and therefore the tempo and lethality of land forces. This has also created a pervasive presence within and dependency on the electromagnetic spectrum (EMS). A force’s competence in manoeuvring in the EMS and its ability to disrupt or deny enemy manoeuvre in the EMS are therefore determining factors in its competitiveness. This means that electronic warfare (EW) has shifted from being a niche force multiplier to become an all-arms concern. This paper outlines what has changed in EW operations and assesses how this should impact force design within NATO militaries.
+EW performs three critical functions for the force:
+Electronic surveillance allows the force to detect and track adversaries, understand friendly vulnerabilities, and collect and analyse adversary waveforms.
+Electronic attack can jam enemy communications and navigation, inflict permanent damage on enemy electronics, or provide a vector for the delivery of cyber payloads to corrupt adversary networks.
+Electronic defence disrupts enemy kill chains and interferes with enemy munitions to protect the force from precision strike. Capabilities for all three functions are now needed, covering all echelons.
+Meanwhile, the manner in which EW effects are fielded is changing in three ways:
+The digitisation of the battlefield reduces the requirement for bespoke EW systems, as EW software-defined radios (EWSDRs) can be programmed to perform a wide range of EW tasks.
+The miniaturisation of EW systems (and of the batteries supporting them) allows these capabilities to be fielded much more broadly.
+Algorithmic warfare allows for the mass generation of bespoke EW payloads, reducing the power required for a given effect.
+Dealing with these changes is not an abstract question related to a notional future battlefield, but instead applies to the capabilities that are necessary to remain survivable today: in Ukraine, for example, EW has become a company-level asset.
+Preparing the British Army
+If the British Army is to prepare effectively for the evolving threat landscape that these EW changes will bring, several measures are necessary:
+Education on the EMS should be delivered to all arms. The key is not to make every soldier an EW operator, but rather to make all arms spectrum-aware, and to ensure that tactical commanders understand electromagnetic principles well enough to have conversations about planning and deconfliction with EW specialists.
+Training must allow for EW capabilities to be used routinely, so that soldiers become familiar with the procedures for identifying that they are under electronic attack and for resolving the ensuing frictions. Troops also need to be surveyed in the EMS by friendly EW teams so that they can learn how their electronic signatures appear to the adversary. In order to apply effects without revealing capabilities to the adversary, it may be necessary for some elements of EW to be applied in synthetic environments.
+A programme should be established for procuring EW equipment to make the capability available at echelon. At its most basic, this means providing EWSDRs and associated receive/transmit antennas at a rough density of one per platoon. This would be overly costly if attempted for the whole force, but should be rolled out brigade by brigade over time.
+Investing in the EW capability also requires a means of visualising the EMS within mission planning software so that battlespace management of EW effects can be brought down to the brigade and battalion level. There is an architecture and software requirement here, but also training of commanders in how to properly employ and command EW troops will be necessary. Furthermore, there is a need to examine the scaling of EW specialist signallers within existing formations.
+Land forces must understand EW in the context of the joint force, and plan and train to: receive effects from space, air and maritime forces; help deliver effects for cyber forces; contribute effects in support of air and maritime forces; and suppress enemy space-based capabilities. This joint awareness requires closer collaboration between the Air, Land and Maritime Warfare Centres to ensure the development of joint tactics and the representation of other domains in domain-specific exercises. Failure to implement these measures will see the force cede its competitiveness to adversaries that are investing heavily in EW as an effective counter to legacy NATO advantages of coordination and precision.
+keywords
+Topics
+C4ISR and Emerging Tech
+Land Warfare
+Technology, Security and Intelligence
+NATO and Military Alliances
+Conflict and Security
+Regions and Country Groups
+Europe
+Ukraine
+NATO
+Research Groups
+Military Sciences
+WRITTEN BY
+Dr Jack Watling
+Senior Research Fellow for Applied Military Sciences
+Military Sciences
+View profile
+Noah Sylvia
+Research Fellow, C4ISR and Emerging Tech
+Military Sciences
+View profile
+Science Photo Library / Alamy Stock Photo
+WRITTEN BY
+Dr Jack Watling
+Senior Research Fellow for Applied Military Sciences
+Military Sciences
+View profile
+Noah Sylvia
+Research Fellow, C4ISR and Emerging Tech
+Military Sciences
+View profile
+Reading options
+pdf
+Read Full Report
+(PDF 1020KB)
+print
+Print this page
+Share this page
+facebook
+twitter
+linkedin
+email
+bluesky
+Reading options
+pdf
+Read Full Report
+(PDF 1020KB)
+print
+Print this page
+Footnotes
+Explore our related content
+Stay up to date with RUSI
+Receive updates on publications and events from RUSI straight into your inbox.
+Sign up

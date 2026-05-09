@@ -1,0 +1,13 @@
+# Russian Army — 11th Army Corps
+
+**Unit ID**: 11ac
+**Type**: army_corps
+**Headquarters**: Kaliningrad
+**Parent District**: Leningrad Military District (LMD)
+**Strength (% authorized)**: 85.0%
+**Notes**: Baltic defense posture
+
+## Subordinate Brigades (direct)
+- **18th Guards Motor Rifle Division (elements)** (Guards) (18gmd_11) — type: motor_rifle, strength: 75.0%. Baltic / Kaliningrad
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

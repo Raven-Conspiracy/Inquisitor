@@ -1,0 +1,12 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: IRIN 3rd Naval District — Chah Bahar
+
+**Unit ID**: irin_nd3
+**Service**: IRIN
+**Type**: naval_district
+**Headquarters**: Chah Bahar, Sistan-Baluchestan
+**Parent**: Islamic Republic of Iran Navy (IRIN) (irin)
+**Strength (% authorized)**: 70%
+**Notes**: Gulf of Oman operations; entry/exit point for Indian Ocean deployments. [DIA IMP 2019 p.27] [ONI Iran Naval Doctrine 2017]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

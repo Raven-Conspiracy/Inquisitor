@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 41st Tactical Fighter Squadron (F-5E/F)
+
+**Unit ID**: sqn41_f5
+**Type**: fighter_brigade
+**Headquarters**: Dezful/Vahdati
+**Parent**: Region / Provincial Corps / Base: 4th Tactical Air Base — Dezful (Vahdati) (tab4_dezful)
+**Higher echelon**: Islamic Republic of Iran Air Force (IRIAF)
+**Elite designation**: No
+**Strength (% authorized)**: 35%
+**Notes**: F-5E/F Tiger II. TAB 4 struck Jun 13, 2025. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,628 @@
+ANU College of Asia & the Pacific
+A 
+ 
+Strategic & Defence Studies Centre 
+ANU College of Asia & the Pacifc 
+May 2018 
+China’s New Navy: 
+A short guide for Australian policy-makers 
+Sam Roggeveen 
+
+ANU College of Asia & the Pacifc 
+A 
+Debating the Quad
+Euan Graham, Chengxin Pan, Ian Hall, Rikki Kersten, Benjamin Zala, Sarah Per
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+ 
+i
+il i
+i
+cy 
+The Centre of Gravity series 
+About the Centre of Gravity Series 
+The Centre of Gravity Series is the fagship publication of 
+the Strategic and Defence Studies Centre (SDSC) based 
+at The Australian National University’s College of Asia 
+and the Pacifc. The series aspires to provide high quality 
+analysis and to generate debate on strategic policy issues 
+of direct relevance to Australia. Centre of Gravity papers 
+are 3,000-4,000 words in length and are written for a policy 
+audience. Consistent with this, each Centre of Gravity paper 
+includes at least one policy recommendation. Papers are 
+commissioned by SDSC and appearance in the series is by 
+invitation only. SDSC commissions up to 10 papers in any 
+given year. 
+About the Editor 
+The Centre of Gravity Series is edited by Dr Andrew Carr, 
+Senior Lecturer at the Strategic & Defence Studies Centre. 
+He has published widely on Australian strategic and defence 
+policy, Asia-Pacifc Security and Middle Powers. The COG 
+series was developed to improve the conversation and 
+engagement between academic and policy communities 
+and draw attention to the most signifcant strategic questions 
+facing Australia and the Asia-Pacifc. Any comments or 
+suggestions about how to improve the series or topics of 
+particular interest are warmly welcomed. Dr Carr can be 
+contacted on: 
+(E) Andrew.Carr@anu.edu.au 
+(M) 0421 728 207 
+Centre of Gravity series paper #41 
+Photos courtesy of Baycrest via Wikimedia Commons, 海防先锋 via Wikimedia Commons, kees torn via 
+Wikimedia Commons and Mass Communication Specialist 1st Class Shannon via Wikimedia Commons 
+© 2018 ANU Strategic and Defence Studies Centre. All rights reserved. 
+The Australian National University does not take institutional positions on public policy issues; the views 
+represented here are the author’s own and do not necessarily refect the views of the University, its staff, 
+or its trustees. 
+No part of this publication may be reproduced or transmitted in any form or by any means without 
+permission in writing from the ANU Strategic and Defence Studies Centre. Please direct inquiries to 
+andrew.carr@anu.edu.au 
+This publication can be downloaded for free at sdsc.bellschool.anu.edu.au/our-publications/ 
+centre-of-gravity-series 
+CRICOS#00120C 
+ISSN: 2208-7311 (Online) 
+ISSN: 2208-7303 (Print) 
+Strateg c & Defence Stud es Centre
+ANU Col ege of As a & the Pac fc 
+March 2018 
+ANU College of Asia & the Pacific A
+Strategic & Defence Studies Centre
+ANU College of Asia & the Pacific
+April 2018
+Australia and the Korean Crisis:  
+Confronting the limits of influence?
+Andrew O’Neil, Brendan Taylor, and William T. Tow
+
+
+ANU College of Asia & the Pacific
+1 
+ 
+ 
+About the author 
+Sam Roggeveen is a Senior Fellow at the Lowy Institute 
+and a Visiting Fellow at the Strategic and Defence Studies 
+Centre, Australian National University. Before joining the 
+Lowy Institute, Sam was a senior strategic analyst in 
+Australia’s peak intelligence agency, the Offce of National 
+Assessments, where his work dealt mainly with nuclear 
+strategy and arms control, ballistic-missile defence, North 
+Asian strategic affairs and WMD terrorism. Sam also 
+worked on arms control policy in Australia’s Department 
+of Foreign Affairs, and as an analyst in the Defence 
+Intelligence Organisation. Sam writes for newspapers and 
+magazines in Australia and around the world, and is a regular 
+commentator for The Interpreter. 
+
+  China’s New Navy: 
+A short guide for Australian policy-makers 
+Sam Roggeveen 
+Executive Summary 
+òòChina’s focus on developing a large ocean-going surface feet indicates its 
+growing ambitions. While China’s maritime modernisation was previously 
+weighted more towards capabilities that would make it diffcult for the United 
+States and its allies to operate close to China, Beijing now also wants to signal 
+its status as a great power and have the ability to pressure its neighbours. 
+òòChina already has the second most powerful navy in the Pacifc and is 
+developing the capability to match America’s maritime strength in the Pacifc. 
+America’s naval predominance will erode in North Asia and give way to a 
+multipolar balance, but in Southeast Asia Beijing will itself become predominant. 
+òòChina may already be building a ‘post-American navy’, one designed not 
+to confront US naval predominance in the Pacifc, but to inherit it as the US 
+baulks at the increasing cost of continued regional leadership. 
+òòThanks to China’s rise and America’s relative decline, Australia faces its most 
+challenging maritime security environment since World War II. To meet the 
+challenge, the ADF needs a force structure that is itself inspired by lessons 
+from China. 
+Policy Recommendations 
+òòAustralia must plan for a future in which its major ally is not the uncontested 
+maritime leader in our region, and in which America’s will to maintain a pre-
+eminent place in the region will be severely tested. Maritime power in North 
+Asia will in future be balanced between the United States, China and several 
+middle powers, and Southeast Asia will be vulnerable to coercion by Chinese 
+maritime forces. 
+òòAustralia should follow China’s example by focusing its maritime force structure 
+on anti-access/area-denial (A2/AD) capabilities. The plan to double the size 
+of Australia’s submarine feet is welcome, but given the leaps in Chinese 
+capability, there are major questions surrounding the pace of this program. 
+òòAustralia cannot pursue an A2/AD strategy without Indonesia’s consent, and 
+preferably its cooperation. Our defence diplomacy should be concentrated 
+on Jakarta. 
+Introduction 
+It is widely accepted that China is surpassing the United States as an economic power. That this shift 
+is also leading to a rebalance of military power is perhaps less appreciated, because the difference 
+between the two countries remains so extreme. For instance, according to the Stockholm International 
+Peace Research Institute, the United States spent US$611.2 billion in 2016 while China spent 
+US$215.7 billion. In raw measures of military power, such as numbers of nuclear weapons, foreign 
+bases, aircraft carriers, nuclear-powered submarines, and forces that can be deployed at short notice 
+anywhere on earth, the United States remains far ahead of China. 
+2 
+
+ANU College of Asia & the Pacific
+2014 2035 
+China USA Japan Australia Indonesia 
+Source: Australian Department of Defence, 2016 Defence White Paper , p. 49. 
+   
+ 
+However, the 2016 Australian Defence White Paper estimated that the defence spending gap between 
+the United States and China will be closed by 2035 (fgure 1). That doesn’t mean China will equal 
+the United States as a military power by 2035—China would need to sustain spending at that level 
+over many years to match the United States—but it does indicate a clear and dramatic trend, one 
+compounded by the fact that China has no evident ambitions for a global defence presence, so unlike 
+the United States, it will concentrate far more of its resources in a single region. (It is also worth noting in 
+fgure 1 that Indonesian defence spending will match Australia’s in the same period; Indonesia will need 
+to play a key role in Australia’s response to China’s naval expansion, a subject we will return to in the 
+closing section of this Paper.) 
+FIGURE 1 Indicative Defence Spending to 2035 
+Perhaps just as important as the raw number is how  China is working towards parity with US defence 
+spending. Compared to America’s Cold War rival, the Soviet Union, China is not distorting its economy 
+in an effort to keep up. The Soviet Union was a military superpower with the economy of a middle 
+power. We cannot say the same of China, which has kept its defence spending at roughly 2% of GDP, a 
+fgure which seems comfortably sustainable. 
+For Australia, the most signifcant manifestation of this growing military capability will be in maritime 
+power. For decades Australia has enjoyed a maritime edge in its immediate neighbourhood, and in 
+more distant parts of the Pacifc and Indian Oceans it could count on its ally the United States, which 
+possessed by far the biggest navy and air force in the world. 
+Thanks to China, that period is now rapidly drawing to a close, so it is critical to understand why  Beijing 
+has embarked on such a dramatic expansion of its naval capabilities. China’s public statements offer 
+some clues as to its ambitions, but China’s political system is far from transparent, and Beijing probably 
+calculates that maintaining ambiguity about its capabilities and intentions works in its favour. Therefore, 
+we have to look elsewhere to understand Beijing’s ambitions. Naval power can refect a nation’s identity 
+and hint at the bureaucratic power of the navy and its supporters. But it is also a material expression 
+of a nation’s foreign policy aims. The analysis that follows briefy examines strategy, force structure and 
+even the design of some of its new warships in order to fnd clues to Beijing’s broader ambitions. 
+The scale of Chinese expansion 
+The US Naval Institute’s Andrew Erickson estimates that the Chinese People’s Liberation Army 
+(PLA) Navy is “poised to become the world’s second largest navy by 2020, and — if current trends 
+continue — a combat feet that in overall order of battle is quantitatively and even perhaps qualitatively 
+on a par with that of the US Navy by 2030.”
+1 Yet in the sheer number of combat vessels, the PLA 
+Navy has not grown much. The true measure of its growth is in capabilities. In the last two decades, 
+it has replaced vessels which would long have been considered obsolete in Western navies with ships 
+that are approaching the levels of sophistication seen in the West, and surpassing those of Russia. 
+3 
+
+The Centre of Gravity Series
+4 
+In 2015, the US Offce of Naval Intelligence judged that, of the 78 destroyers and frigates in the PLA 
+Navy feet, 56 (or 72%) could be considered modern. 2 That percentage continues to increase because 
+China is adding new ships quickly; IISS recently reported that in the last four years alone China has 
+added enough new combat and auxiliary vessels to equal the size of the French Navy.
+3 There are still 
+major doubts about PLA Navy capability—can it deploy naval forces safely and consistently over long 
+distances and long time periods? Are its offcers and sailors trained to the highest standard? Can it 
+match the command & control capabilities of the best navies? Can it integrate its operations with the 
+other arms of the PLA?—but the direction of movement is clear. 
+Some high-profle examples illustrate the point. Note that the emphasis here is on surface ships rather 
+than submarines, for reasons that will become clearer in the following section on why China is staging 
+this dramatic expansion of capabilities: 
+•  Aircraft carriers : China will soon be just the second nation on earth operating more than a single 
+large aircraft carrier.
+4 China’s frst carrier, CV-16, is operational, while the second (CV-17) is likely 
+to enter service in 2020. The carriers that follow are likely to abandon the more primitive ‘ski jump’ 
+method of launching aircraft in favour of catapults, which allow for more launches of heavier aircraft, 
+thus increasing combat capability. Future Chinese carriers are likely to have similar capabilities to US 
+vessels, though China may not build as many as the United States. 
+•  Type 055: A new class of cruisers, each with 112 vertical-launch cells for anti-aircraft, anti-ship, and 
+land-attack missiles (which at present, is only slightly fewer missile cells than the Royal Australian 
+Navy has in its entire feet).
+5 The frst ship will commence sea trials soon and it is likely at least eight 
+will be built.6 The exact tonnage of these ships is still contested but they are probably larger than the 
+US Navy’s Ticonderoga-class, though with fewer missile cells. 
+•  Type 052D: Destroyers in roughly the same weight and capability class as Australia’s three planned 
+Hobart-class ships. Thirteen Type 052Ds have been launched. One credible source says 26 are on 
+order. China also operates six 052Cs, an earlier version of this class. 
+•  Type 054A: Frigates roughly comparable to Australia’s eight upgraded  ANZAC-class. China has 
+inducted 26 copies into service since the mid-2000s, with more known to be under construction. 
+Credible reports suggest production will soon be halted in favour of an upgraded version known as 
+the Type-054B, of which more than twenty may have been ordered. 
+•  Type 901 replenishment ship : Only the US Navy currently felds replenishment ships of over 
+40,000 tonnes, which allow for long-range and long-term deployment of combat vessels, but China 
+now has one of these ships in trials and a second ftting out. More are likely to follow as the aircraft-
+carrier feet expands.  
+•  Type 071 amphibious transport dock : 25,000 tonne ships which can transport 5-800 troops 
+as well as armoured vehicles over long distances, put them ashore and then support the landing 
+with command facilities and logistics. Four are already in service and two more are ftting out. More 
+may follow, though there are strong rumours of a Type 075 ship which will look similar to the RAN’s 
+Canberra-class but will likely be substantially larger. 
+
+ANU College of Asia & the Pacific
+ China has done 
+more than any other 
+modern military 
+force to make 
+large surface ships 
+vulnerable. 
+Altogether, by 2020 we are on track to see a PLA Navy equipped with two aircraft carriers, two cruisers 
+and around sixty destroyers and frigates, all of which can be broadly defned as modern vessels. This 
+feet will be supported by a growing number of replenishment ships, at least one overseas base in 
+Djibouti and perhaps several more in Pakistan, Tanzania, Sri Lanka and the Maldives.
+7 In the Pacifc, 
+of course, China is constructing artifcial islands in the South China Sea which can support naval and 
+air deployments. 
+What’s it all for? 
+To understand why China is dramatically expanding the capability of its navy and particularly its surface 
+feet, it is worth beginning with the observation that China has done more than any other modern 
+military force to make large surface ships vulnerable, some would even say obsolete. This has been the 
+aim of China’s so-called anti-access, area-denial (A2/AD) forces. A2/AD has been defned as a “family 
+of military capabilities used to prevent or constrain the deployment of opposing forces into a given 
+theatre of operations and reduce their freedom of manoeuvre once in a theatre.”
+8 To put it another way, 
+A2/AD is designed to weaken the ability of an adversary 
+to achieve sea control, which is the means to operate in 
+a given maritime area without interference from hostile 
+forces. Importantly, A2/AD is not itself an attempt to impose 
+sea control, but merely to challenge the ability of others 
+to exercise it. 
+China has developed a suite of capabilities that would, in the 
+event of confict, deny the United States or other adversaries 
+the ability to control the oceans near Chinese territory. This  
+is particularly important because the United States has so 
+much capability to project power from the sea onto land, 
+primarily through its aircraft carriers but also with cruise-
+missiles carried aboard surface ships and submarines, and 
+with amphibious forces.  By focusing on A2/AD, China has 
+made it increasingly diffcult for large, ocean-going surface  
+feets to operate safely. Such is the capability of these 
+systems that some observers now regard large surface ships 
+as expensive follies or foating targets. 
+What does China’s A2/AD feet look like? It is centred around anti-ship weapons (torpedoes; fast sea-
+skimming missiles; and, most notoriously, the DF-21D ‘carrier killer’ ballistic missile) and small, agile 
+or stealthy platforms to carry them (short-range surface ships, including catamarans that derive from 
+Australian designs; strike-fghters and bombers; and quiet diesel-powered submarines).  These weapons 
+and carrying platforms are knitted together by a network of sensors—on submarines, surveillance 
+aircraft, satellites, and in future a network of remote underwater sensors—designed to give China 
+visibility of its maritime approaches and the ability to target hostile forces with great accuracy. 
+Despite the fearsome reputation of China’s A2/AD capabilities, the effort to make China’s maritime 
+approaches impassable territory for hostile navies is far from complete; the further an adversary gets  
+from the Chinese landmass, the less dangerous the PLA’s capabilities become. That is one reason why 
+Chinese island-building in the South China Sea is so concerning.
+9 It is also why Taiwan, just 160km 
+from the Chinese coast, is so vulnerable. Back in 1996, the United States was able to sail aircraft-carrier 
+groups through the Taiwan Strait as a protest against Chinese missile tests during Taiwan’s election 
+campaign. The US Navy could do this knowing it could defend itself against any threat from China. 
+But the United States cannot have such confdence today. Indeed, the risk to US maritime forces in 
+the event of a US-China military clash over Taiwan is now so great that America’s implicit security 
+guarantees to Taiwan are under severe strain. China’s A2/AD capabilities now make it doubtful that the 
+United States could intervene in such a confict at an acceptable cost. 
+Clearly, though, A2/AD has not been the PLA Navy’s exclusive focus; it is also in the process of building 
+a powerful surface feet. In fact, China’s 2015 Defence White Paper declared openly that China would 
+“gradually shift its focus from ‘offshore waters defense’ to the combination of ‘offshore waters defense’ 
+with ‘open seas protection’”, thus signalling that China was moving decisively away from its focus 
+on A2/AD.
+10  
+5 
+
+  
+But this raises a crucial question: given how much effort 
+China has put into undermining the very viability of surface 
+warships, why has the PLA Navy invested so heavily in those 
+very forces? Why is China seemingly unconcerned that its 
+adversaries will adopt the same A2/AD formula that China 
+has itself used successfully around its coastline? There are 
+various possible answers to this question, some overlapping 
+or mutually reinforcing, others mutually exclusive.11 
+1.   Challenge US sea control: Having frst 
+developed the ability to deny the United States 
+control of the seas, China now wants a feet with 
+the capability to forcefully replace the US Navy as 
+the hegemonic military force in the region.
+12 
+China is building a 
+surface feet not so 
+much to challenge 
+the United States as 
+to inherit its position. 
+This would require a feet that could dominate the Asian maritime domain at the expense of all others. China 
+would need the ability to defeat the US Navy and its allies in a Midway-style pitched naval battle, 13 which  
+would be both massively costly and geopolitically risky. Even at the present high pace of Chinese capability 
+development, it would take several decades for China to achieve such capability, and given the ability of 
+the United States and regional adversaries to respond, it may never be achievable at an acceptable cost. 
+2.   Inherit US sea control: China wants a feet that can take on the mission of US forces in 
+Asia as the US position in the region erodes. 
+China may be betting that it will never need to fght for sea control; rather, it may believe it can wait for the 
+United States to cede such control over time.14 China may calculate that, as its forces grow, the United 
+States essentially gives up on its current strategic posture in the Asia Pacifc through an unwillingness 
+to pay the ever-increasing cost of maintaining its position of leadership. America’s alliances will weaken 
+as allies start to lose faith that the United States is willing to stand up to an ever more powerful China, 
+and US investment in its military won’t keep up with China’s growth. The United States won’t leave 
+the region entirely, but bit by bit, Washington will accept China’s status as regional strategic leader. 
+China cannot occupy this space with an A2/AD-focused navy alone, so it is building a surface feet not 
+so much to challenge the United States as to inherit its position. This is less resource-intensive than 
+option 1, since China would only need the ability to dominate its regional neighbours. 
+3.   A focus on regional adversaries: China wants a surface feet not to challenge the 
+United States, but in order to overwhelm smaller Southeast Asian adversaries.  
+Beijing may be calculating that even if the United States retains its military capability in Asia Pacifc, its 
+will to intervene in local disputes is fagging. That feeling may have hardened in the wake of Chinese 
+island-building in the South China Sea, which the United States has done little to oppose. So even 
+if China’s surface feet looks vulnerable against the United States, it would be formidable against a 
+small regional adversary which cannot count on US support. The Philippines is one such country, and 
+Vietnam may be another (though it is working to bolster maritime capabilities, largely with Russian help).  
+Against smaller adversaries, even nascent capabilities such as China’s small aircraft-carrier feet would 
+give China an important advantage in a military confrontation. 
+Of course, China would prefer to avoid such confrontation altogether. So the new feet is also intended 
+as a tool of coercion: convince an adversary not to fght by demonstrating that the adversary is at a 
+hopeless disadvantage, making confrontation highly costly. 15 That effect is diffcult to achieve with A2/AD 
+forces alone. China’s ability to coerce Southeast Asian states in regard to the South China Sea dispute, 
+for instance, is reinforced by a carrier-centred feet with long-range and staying power, and by the 
+development of amphibious forces that could threaten small pieces of territory at great distance from the 
+Chinese mainland. A force built around submarines and anti-ship missiles has less coercive potential. 
+4. ‘Costly signalling’: China wants a powerful surface feet to signal to the region and the 
+world its great-power ambitions, thereby eroding incentives to resist China’s agenda. 
+The theory of costly signalling arises from the natural world: Darwin, it is said, was baffed by the ornate 
+plumage which he observed in some bird species, which actually made it more diffcult to fght or fee 
+6 
+
+ANU College of Asia & the Pacific
+from predators. But plumage or display can signal health, strength or aggression, which may deter  
+rivals or predators. Of course, such signals depend on an audience that will understand and interpret 
+them unambiguously, and in the realm of international security, a large surface feet centred on aircraft 
+carriers does just that. The fact that China is investing in capabilities that might be seen as vulnerable 
+can even reinforce the sense that China is committed to what might be a costly course.
+16  
+Implications for Australia 
+None of these four accounts are reassuring for Australia . The frst would be the most serious but it is also 
+the least likely, while the second will depend largely on the pace and scale of America’s relative regional 
+decline. Unless there is a crisis, there will be no trigger for the United States to reconsider its military 
+commitment to Asia, so decline is likely to continue gradually. But confict on the Korean Peninsula, or in 
+Taiwan or the South China Sea, in which the United States lost a major asset (such as a military base or 
+carrier battle-group) might see a more sudden American re-assessment of its commitments in Asia. The 
+third and fourth scenarios are to varying degrees already a reality—China is using its naval capabilities 
+to coerce its Southeast Asian neighbours and to demonstrate that standing up to China is too costly. 
+The 2016 Australian Defence White Paper, which announced a boost in defence spending and a greater 
+focus on maritime capabilities, gave some indication that the government is aware of the challenge 
+China’s navy poses. But the “more capable” ADF of which the White Paper boasts is based on a sleight 
+of hand. Yes, the ADF of 2035 will be able to do things that the ADF of today cannot, but historical 
+comparisons are beside the point. What matters is not capability relative to history, but relative to 
+potential adversaries. And as the White Paper’s own numbers demonstrate (fgure 1), Australia will go 
+backwards between now and 2035. 
+The scale of Australia’s challenge is compounded by growing uncertainty about the future of the US 
+presence in the Asia Pacifc. These concerns have in recent times centred on President Trump and his 
+hostility to US allies including Japan and South Korea. But it is a mistake to focus on Trump because 
+it implies that the United States could return to its traditional leadership role in the post-Trump era, and 
+because it suggests that the future regional order will be decided primarily by decisions made in the 
+White House.  
+The change to the regional order is frst and foremost a function not of American decline but of China’s 
+rise. This shift began well before Trump and will continue long after his term of offce. If strategic power 
+is largely a product of economic power, then the United States simply cannot keep up with the pace 
+of change—the 2017 Australian Foreign Policy White Paper predicts that by 2030, China will have a 
+US$42 trillion economy, while the US economy will be worth about US$24 trillion. So the means which 
+America has at its disposal to maintain its historic leadership role in the region are eroding, and that 
+will continue even if Trump is succeeded by a president who embraces America’s Asian allies and 
+reinforces the US military presence in the region. For America to maintain its maritime edge in the 
+Pacifc against a rising Chinese navy would require a scale of investment that would be economically  
+damaging and politically unattractive. 
+7 
+
+ 
+ 
+Australia won’t be 
+able to focus its 
+defence capabilities 
+on China’s maritime 
+power if this 
+arouses suspicion 
+from Jakarta. 
+It has been argued17 that even with American decline 
+taken into account, Asia’s US-aligned middle powers can, 
+in concert, do a lot to blunt China’s maritime rise. Japan, 
+South Korea and Australia have substantial wealth on their 
+side and have already invested in formidable maritime 
+forces; they have the time and the resources to do more. 
+However, the question of whether Australia, Japan and 
+South Korea can indeed be counted together is very 
+much open: are their interests in aligning to constrain 
+China’s maritime power stronger than their interests in 
+maintaining good relations with Beijing? This question 
+is even more acute in Southeast Asia, where economic 
+inducements combined with coercion and ‘costly  
+signalling’ is encouraging states such as Cambodia and 
+the Philippines to bandwagon with China because they 
+see China as too strong to resist. 
+Given America’s continued relative decline and the 
+uncertainty around the question of whether regional states 
+will coalesce against China, it follows that if Australia 
+wants to counter China’s growing maritime power, it must 
+to a large degree act independently. Fortunately, in terms 
+of maritime strategy and force structure, China itself has 
+provided a ready template for how this can be done. 
+The effectiveness of China’s A2/AD strategy illustrates 
+that smaller powers can deny maritime space to a larger 
+adversary, and it can be done without undue distortion of 
+the national budget because modern maritime strategy 
+and technology favour the defence - it is both easier and 
+cheaper to deny sea control to a large surface feet than it is 
+to impose such control. 
+For Australia,  a maritime strategy based around A2/AD 
+would represent a return of sorts to the Defence of Australia 
+doctrine of the 1980s, with its emphasis on defending the 
+sea-air gap to our north. In the post-9/11 period, when 
+counter-terrorism became a higher priority and the maritime  
+environment was more benign, Australia’s emphasis shifted  
+to improving its expeditionary capabilities. We built a force that could be moved quickly and in large 
+numbers to distant theatres of operation; the two Canberra -class large amphibious ships represent the  
+culmination of this trend. But in a maritime environment in which China is rising and ambitious, and in 
+which our major ally is in relative decline, those capabilities look like expensive luxuries. Australia must  
+build an A2/AD force structure with the capabilities to resist any Chinese attempt at coercion. 
+Such a force structure is achievable and affordable for Australia if we choose to pursue it.
+18 But there  
+is a diplomatic challenge attached, one which represents an important caveat to the rule that Australia 
+must develop more independent maritime power in future. For if Australia is to return its defence focus 
+fully to its north and build more formidable capabilities to disrupt shipping and air activity there, it must 
+be done with Indonesia’s tacit consent, and preferably its cooperation. Indonesia is already a major  
+regional power and could become the world’s fourth-largest economy by 2050.
+19 Well before then, it is 
+likely to become a much more signifcant regional defence power. As such, Australia cannot afford to 
+alarm or provoke its northern neighbour by failing to make its intentions clear—Australia won’t be able to  
+focus its defence capabilities on China’s maritime power if this arouses suspicion from Jakarta, or if it’s  
+broader relationship with Indonesia remains so vulnerable to derailment by petty disputes. 
+This is not just about neutralising Indonesia. Unlike smaller Southeast Asian states, Indonesia is a  
+major power with the capacity and will to resist Chinese coercion and carve out its own distinct and 
+independent regional role. Indonesia and Australia may never be allies, but they must be much closer  
+partners in a common enterprise to counter-balance Chinese maritime power in our region. 
+8 
+
+ANU College of Asia & the Pacific
+Policy Recommendations 
+òòAustralia must plan for a future in which its major ally is not the uncontested 
+maritime leader in our region, and in which America’s will to maintain a pre-
+eminent place in the region will be severely tested. Maritime power in North 
+Asia will in future be balanced between the United States, China and several 
+middle powers, and Southeast Asia will be vulnerable to coercion by Chinese 
+maritime forces. 
+òòAustralia should follow China’s example by focusing its maritime force structure 
+on anti-access/area-denial (A2/AD) capabilities. The plan to double the size 
+of Australia’s submarine feet is welcome, but given the leaps in Chinese 
+capability, there are major questions surrounding the pace of this program. 
+òòAustralia cannot pursue an A2/AD strategy without Indonesia’s consent, and 
+preferably its cooperation. Our defence diplomacy should be concentrated 
+on Jakarta. 
+Endnotes 
+1  Shannon Tiezzi, ‘Chinese Naval Shipbuilding: Measuring the Waves (An interview with Andrew Erickson)’, The Diplomat, 
+25 April 2017, http://thediplomat.com/2017/04/chinese-naval-shipbuilding-measuring-the-waves/. 
+2  US Offce on Naval Intelligence, ‘The PLA Navy: New Capabilities and Missions for the 21st Century’, 2015, pp. 13–15, 
+http://www.oni.navy.mil/Intelligence-Community/China/. 
+3  International Institute for Strategic Studies, ‘The Military Balance 2018: Chapter Six: Asia’, 13 February 2018. 
+4  The US currently operates 11 dedicated aircraft carriers and 10 amphibious ships that can act as mini-carriers. 
+A number of countries operate multiple ‘fat top’ ships that resemble aircraft carriers but which operate helicopters only, 
+while Italy has two small carriers capable of felding fxed-wing combat aircraft. In coming years, both India and the 
+UK are likely to operate two large carriers. 
+5  Euan Graham, ‘Australia’s Navy needs to mind the missile gap’, The Interpreter, 20 October 2017,  
+https://www.lowyinstitute.org/the-interpreter/australia-navy-needs-mind-missile-gap. 
+6  Rick Joe, ‘The First 055 has been launched: Here’s seven reasons why it’s a big deal’, PLA RealTalk, 26 June 2017 
+https://plarealtalk.com/the-frst-055-has-been-launched-heres-seven-reasons-why-it-s-a-big-deal-611de129f4f5. 
+7  David Brewster, ‘China’s new network of Indian Ocean bases’, The Interpreter, 30 January 2018,  
+https://www.lowyinstitute.org/the-interpreter/chinas-new-network-indian-ocean-bases. 
+8  Luis Simon, ‘Demystifying the A2/AD buzz’, War on the Rocks, 4 January 2017, https://warontherocks.com/2017/01/ 
+demystifying-the-a2ad-buzz/. 
+9  Stephen Biddle and Ivan Oelrich, ‘Future Warfare in the Western Pacifc: Chinese Antiaccess/Area Denial, U.S. AirSea 
+Battle, and Command of the Commons in East Asia’, International Security 41, no. 1 (Summer 2016); and Alexander 
+Neill, Meia Nouwens, and Laurence Taylor, ‘China’s Radar Installations in the Spratly Islands – what do they tell us about 
+its ambitions for the South China Sea?’ International Institute for Strategic Studies, 19 February 2018,  
+https://www.iiss.org/en/research/defence-s-and-s-military-s-analysis/china-s-security-s-project/china-radar-installations. 
+10  Raoul Heinrichs, ‘China’s defence white paper is historic for Australia, and not in a good way’, The Interpreter, 3 June 
+2015, https://www.lowyinstitute.org/the-interpreter/chinas-defence-white-paper-historic-australia-and-not-good-way. 
+11  The options laid out here assume a high level of ‘strategic rationality’—a coherent strategic purpose worked out at the 
+highest political level, with a military force structure then put in place to implement it. In practice, of course, the development 
+of force structure is usually semi-rational, at best, with bureaucratic and other motives infuencing force-structure decisions 
+too. It might be, for instance, that the decision to develop aircraft carriers is simply a refection of the PLA’s desire for a 
+prestige weapon, rather than the outcome of a rational, top-down decision-making process. There is some evidence to 
+suggest that the carrier program began as a prestige project encouraged by a small group of naval offcers with the help of 
+a patriotic businessman. See Minnie Chan, ‘The Inside Story of the Liaoning’, South China Morning Post, 19 January 2015, 
+http://www.scmp.com/news/china/article/1681755/how-xu-zengping-became-middleman-chinas-deal-buy-liaoning. 
+12  Andrew Erickson, Abraham Denmark, and Gabriel Collins, ‘Beijing’s ‘Starter Carrier’ and Future Steps: Alternatives and 
+Implications,’ Naval War College Review 65, no.1 (2012) pp.14–54. 
+13  James Goldrick, ‘China’s new warship and the strategic challenge to America’, The Interpreter, 4 July 2017,  
+https://www.lowyinstitute.org/the-interpreter/china-new-cruiser-part-strategic-challenge-america. 
+14  I thank Professor Hugh White for this idea. 
+15  Manjeet S. Pardesi and Robert Ayson, ‘Asia’s Diplomacy of Violence: China–US Coercion and Regional Order’,  
+Survival: Global Politics and Strategy 59, no. 2 (2017). 
+16  Tanner Greer, ‘Costly Signaling in the South China Sea’, The Scholar’s Stage, 6 July 2016,  
+http://scholars-stage.blogspot.com.au/2016/07/costly-signaling-in-south-china-sea.html. 
+17  Michael Beckley, ‘The Emerging Military Balance in East Asia: How China’s Neighbors can Check Chinese Naval 
+Expansion’, International Security 42, no. 2 (Fall 2017), pp. 78–119. 
+18  Timothy Blizzard. ‘The PLA, A2/AD and the ADF: Lessons for Future Maritime Strategy’, Security Challenges 12, no. 3 
+(2016), pp. 61–82. 
+19  Ken Moriyasu, ‘Indonesia set to become fourth-largest economy’, Nikkei Asian Review, 25 June 2015,  
+https://asia.nikkei.com/Politics-Economy/Economy/Indonesia-set-to-become-fourth-largest-economy. 
+9 
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MASTER OF STRATEGIC STUDIES 
+Australia’s foremost Strategic Studies program, offered by the Strategic & 
+Defence Studies Centre, at the Coral Bell School of Asia Pacifc Affairs 
+A graduate degree combining the theoretical and practical expertise of leading academics and 
+policymakers. Develop the analytical frameworks you need to tackle the regional and global strategic 
+and security challenges of your career, and graduate a leader in your feld. Students looking to 
+undertake a major research essay under the supervision of a leading Strategic Studies scholar should 
+consider the Master of Strategic Studies (Advanced) program. 
+Major courses include: 
+STST8002 The New Power Politics STST8010 Strategic Studies STST8027 Insurgency & 
+of Asia Concepts and Methods Counterinsurgency in an Age of Terror 
+Course 
+ Course 
+ Course 
+Convenor: Convenor: Convenor: 
+Professor  Professor Dr Garth 
+Hugh White Evelyn Goh Pratten 
+Asia is in the throes of a major power-
+political revolution, as a radical change in the 
+distribution of wealth and power overtakes 
+the old order and forces the creation of a 
+new one. Explore three areas of the new 
+power politics of Asia: the nature of power 
+politics as a mode of international relations; 
+the power politics of Asia today, what 
+is happening and where it is going; and 
+concepts that can help us better understand 
+power politics. 
+Explore inter-disciplinary concepts, 
+theories and methods that inform Strategic 
+Studies academic research. Using the 
+overarching empirical theme of the Cold 
+War, investigate three areas: understanding 
+critical developments during the Cold 
+War; historiographical and methodological 
+debates in the study of the Cold War; 
+and theoretical and conceptual methods 
+employed by scholars in the most infuential 
+works in Strategic Studies. 
+To understand contemporary insurgencies 
+in places such such as Iraq and Afghanistan 
+this course establishes a strong historical 
+framework by examining earlier conficts 
+from North America to Southeast and South 
+Asia. It encourages students to evaluate 
+contemporary counter-insurgency practice, 
+including those campaigns being waged as 
+part of the attempt to defeat transnational 
+terrorism, against the backdrop of the 
+evolution of counterinsurgency strategies. 
+Other courses you can study in your degree include: Strategic Studies; The Resort to Force: Understanding Military Power; 
+Australian Strategic and Defence Policy; Great and Powerful Friends: Strategic Alliances and Australian Security; Strategic Studies 
+Internship; Special Topics in Strategic Studies; Intelligence and Security; Nuclear Strategy in the Asian Century; China’s Defence and 
+Strategic Challenges; Why and How We Fight: Understanding War and Confict; Contemporary Issues in Australian Defence Policy. 
+For more information visit: programsandcourses.anu.edu.au 
+Coral Bell School of 
+Asia Pacifc Affairs 
+ANU College of 
+Asia & the Pacifc 
+Contact 
+T 02 6125 7017 
+E sdsc@anu.edu.au 
+W sdsc.bellschool.anu.edu.au 

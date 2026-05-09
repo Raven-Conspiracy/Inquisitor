@@ -1,0 +1,20 @@
+# Chinese PLA — Group Army / Fleet / Base: Eastern Theater Command Fleet (East Sea Fleet, 东部战区海军)
+
+**Unit ID**: esf
+**Service**: PLAN
+**Type**: fleet
+**Headquarters**: Ningbo
+**Parent**: Eastern Theater Command (东部战区) (etc)
+**Strength (% authorized)**: 100%
+**Notes**: HQ at Ningbo (Zhoushan), Zhejiang. Patrols East China Sea; critical for Taiwan strait operations. Will receive first Type 055 DDGs from second production batch per NavalNews. Operates Sovremenny-class DDGs as most capable surface combatants currently. [DOD CMPR 2024 p.45] [NavalNews 2026-01-03]
+
+## Subordinate Brigade / Division / Flotillas
+- **East Sea Fleet Surface/Amphibious Flotilla** (esf_surfaceflot) — type: surface_flotilla, HQ: Zhoushan/Ningbo, strength: 100%. Operates Sovremenny-class DDGs and Type 052D; ETC priority for Taiwan contingency. First batch of second-production Type 055 DDGs earmarked for ESF per NavalNews. [NavalNews 2026-01-03] [DOD CMPR 2024 p.45]
+
+## Authorized Equipment (estimated)
+- **destroyer** — Sovremenny-class (Type 956), Type 052D — authorized: 8, estimated lost: 0
+- **frigate** — Type 054A — authorized: 10, estimated lost: 0
+- **submarine** — Type 039A/B Yuan-class (SSK) — authorized: 10, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

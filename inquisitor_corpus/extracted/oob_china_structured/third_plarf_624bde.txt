@@ -1,0 +1,16 @@
+# Chinese PLA — Brigade / Division / Flotilla: 624th Missile Brigade (DF-21D ASBM) (ELITE / first-tier)
+
+**Unit ID**: plarf_624bde
+**Type**: rocket_brigade
+**Headquarters**: Danzhou, Hainan
+**Parent**: Group Army / Fleet / Base: PLARF Base 62 (第六十二基地, Unit 96602) (plarf_b62)
+**Higher echelon**: Southern Theater Command (南部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: DF-21D anti-ship ballistic missile ('carrier killer'). ~24 launchers. Possibly upgrading. MUCD 96724. [CNS PLARF OOB 2023] [Wikipedia PLARF]
+
+## Authorized Equipment (estimated)
+- **mrbm** — DF-21D (anti-ship ballistic missile) — authorized: 24, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

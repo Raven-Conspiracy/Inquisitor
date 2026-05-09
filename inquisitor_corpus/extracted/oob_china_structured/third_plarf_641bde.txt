@@ -1,0 +1,16 @@
+# Chinese PLA — Brigade / Division / Flotilla: 641st Missile Brigade (DF-31/DF-41 ICBM) (ELITE / first-tier)
+
+**Unit ID**: plarf_641bde
+**Type**: rocket_brigade
+**Headquarters**: Hancheng, Shaanxi
+**Parent**: Group Army / Fleet / Base: PLARF Base 64 (第六十四基地, Unit 96604) (plarf_b64)
+**Higher echelon**: Western Theater Command (西部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: DF-31AG / transitioning to DF-41 nuclear road-mobile ICBM. New base completed 2024. MUCD 96741. [CNS PLARF OOB 2023] [Wikipedia PLARF] [POST-PURGE STATUS UNCERTAIN]
+
+## Authorized Equipment (estimated)
+- **icbm** — DF-31AG / DF-41 — authorized: 12, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

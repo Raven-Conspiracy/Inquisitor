@@ -1,0 +1,12 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: IRGCN 2nd Naval Region — Bushehr
+
+**Unit ID**: irgcn_nd2
+**Service**: IRGCN
+**Type**: naval_district
+**Headquarters**: Bushehr
+**Parent**: IRGC Navy (IRGCN) (irgcn)
+**Strength (% authorized)**: 70%
+**Notes**: North-central Persian Gulf. Fast-attack craft and missile boat operations. [DIA IMP 2019 p.28]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

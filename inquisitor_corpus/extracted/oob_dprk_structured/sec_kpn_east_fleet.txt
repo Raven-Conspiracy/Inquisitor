@@ -1,0 +1,19 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: East Sea Fleet (East Coast Fleet)
+
+**Unit ID**: kpn_east_fleet
+**Service**: KPN
+**Type**: fleet
+**Headquarters**: Toejo-dong (T'oejo-dong), with major bases at Wonsan/Munchon, Najin, Rason, Mayangdo, Ch'aho
+**Parent**: Korean People's Navy (Haegun) (kpn)
+**Strength (% authorized)**: 70.0%
+**Notes**: ~470 ships and small craft. 8 operational squadron commands (per DIA NKMP). 10 squadrons per DPRK NIS 1999. Houses submarine flotillas (Romeo-class, Sang-O SSC, midgets), surface forces, landing craft, SOF infiltration assets. Sinpo/Mayang sub development base on east coast. East fleet submarines used for SLBM testing. [Wikipedia KPN; DIA NKMP 2021]
+
+## Subordinate Division / Brigade / Flotillas
+- **Romeo-class Submarine Flotilla** (kpn_romeo_flotilla) — type: submarine_flotilla, HQ: Mayangdo sub base / Ch'aho sub base (east coast), strength: 55.0%. ~20-24 Romeo-class diesel-electric submarines (Chinese/domestic built, Soviet-origin design). Can carry 14 torpedoes or 28 mines. Split between east/west coasts; east coast has primary sub bases at Mayangdo and Ch'aho. Readiness varies — aging fleet; some hulls in poor condition. [DIA NKMP 2021; Wikipedia KPN; KPASOF Wikipedia]
+- **Sang-O-class Submarine Flotilla (Coastal SSC)** (kpn_sango_flotilla) — type: submarine_flotilla, HQ: Multiple bases east and west coast, strength: 60.0%. ~40 Sang-O class coastal submarines. Specially configured for SOF infiltration (Naval Sniper Brigades ferried by Sang-O per task specification). 1996 Gangneung infiltration incident used Sang-O. [KPASOF Wikipedia; DIA NKMP 2021 'Sango-class submarines']
+- **Midget Submarine Flotilla (Yugo/Yono-class)** (kpn_midget_flotilla) — type: submarine_flotilla, HQ: Southern bases on each coast (for infiltration ops), strength: 55.0%. ~45-70 midget submarines (Yugo/Yono class and variants). Can insert 2-5 man teams. US Army 1998 estimate: 45+ midget subs. NIS 1999: 100 submarines total. Cheonan (ROKS, 2010) sinking attributed to Yono-class torpedo. [KPASOF Wikipedia; Wikipedia KPN NIS 1999; DIA NKMP 2021]
+- **SSB 8.24 Yongung (Sinpo-class SLBM submarine)** (elite) (kpn_8_24_yongung) — type: submarine_flotilla, HQ: Sinpo South Shipyard / Sinpo-Mayang base, South Hamgyong Province, strength: 70.0%. ELITE. First DPRK ballistic missile submarine. Single Pukguksong-1 (KN-11) tube. Launched SLBMs in 2016, 2019 (Pukguksong-3), 2021 (Hwasong-11S), 2023 (2 SLCMs). Length ~67m. [Wikipedia KPN; DIA NKMP 2021]
+- **SSB Hero Kim Kun Ok (multi-tube SLBM submarine)** (elite) (kpn_hero_kim_kun_ok) — type: submarine_flotilla, HQ: Sinpo, South Hamgyong Province, strength: 75.0%. POST-2021 ADDITION. Commissioned 6 Sep 2023. Multi-tube SLBM carrier; larger than 8.24 Yongung. Largest NK submarine built to date (~67m+ with wider beam). Specific tube count not officially confirmed. [Wikipedia KPN Sep 2023; CSIS Beyond Parallel 2023] [POST-2021 UPDATE]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

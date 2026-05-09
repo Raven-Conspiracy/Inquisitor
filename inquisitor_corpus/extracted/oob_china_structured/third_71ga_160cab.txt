@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 160th Heavy Combined Arms Brigade (ELITE / first-tier)
+
+**Unit ID**: 71ga_160cab
+**Type**: heavy_combined_arms_bde
+**Headquarters**: Xuzhou area
+**Parent**: Group Army / Fleet / Base: 71st Group Army (第七十一集团军) (71ga)
+**Higher echelon**: Eastern Theater Command (东部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: Type 99A MBTs. First-tier heavy armored unit. [Wikipedia 71st GA] [DOD CMPR 2024 p.97]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

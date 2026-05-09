@@ -1,0 +1,12 @@
+# Chinese PLA — Group Army / Fleet / Base: PLARF Base 67 (第六十七基地) — Nuclear Weapons Storage
+
+**Unit ID**: plarf_b67
+**Service**: PLARF
+**Type**: rocket_force_base
+**Headquarters**: Baoji
+**Parent**: Central Theater Command (中部战区) (ctc)
+**Strength (% authorized)**: 100%
+**Notes**: HQ Baoji, Shaanxi. Formerly Base 22. Nuclear warhead storage, maintenance, and distribution; directly subordinate to CMC (not a standard firing base). Underground storage at Taibai County (Qin Mountains). Special security unit (96038). Not a combat missile firing base. [CNS PLARF OOB 2023] [Wikipedia PLARF]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

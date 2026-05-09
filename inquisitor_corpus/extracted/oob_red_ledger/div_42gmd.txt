@@ -1,0 +1,14 @@
+# Russian Division — 42nd Guards Motor Rifle Division
+
+**Unit ID**: 42gmd
+**Type**: motor_rifle
+**Headquarters**: Khankala
+**Parent Army**: 8th Guards Combined Arms Army (8gca)
+**Parent District**: Southern Military District
+**Strength (% authorized)**: 55.0%
+**Notes**: Donetsk; incl. Chechen elements
+
+## Subordinate Brigades / Regiments
+- **70th Guards Motor Rifle Regiment** (Guards) (68mrr_42) — type: motor_rifle, strength: 52.0%. None
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:DIV] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

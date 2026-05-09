@@ -1,0 +1,16 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: 620th Artillery Corps (Forward Artillery Corps)
+
+**Unit ID**: corps_620
+**Service**: KPA Ground Forces
+**Type**: arty_corps
+**Headquarters**: Approximate: Kaesong region / forward area north of DMZ
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 88.0%
+**Notes**: HIGHEST READINESS GROUND FORMATION. Operates the famed 170mm Koksan SP guns (range ~60km) and 240mm MRLs (range ~60km) that target Seoul. All systems in range of the Seoul metropolitan area population ~25M. DIA notes some reports that the 620th has been reorganised as '518th Artillery Division' — name/number transition unverified. [Wikipedia KPAGF; DIA NKMP 2021; IISS MB 2017; irp.fas.org]
+
+## Subordinate Division / Brigade / Flotillas
+- **170mm Koksan SP Artillery Brigade (620th Corps element)** (elite) (bde_arty_620_koksan) — type: artillery, HQ: Forward position north of DMZ, strength: 90.0%. ELITE / HIGHEST READINESS. Operates 170mm M-1978 / M-1989 Koksan self-propelled guns. Range ~60km; covers northern Seoul metro area. ~500 Koksan guns in inventory (est). Specific brigade number unconfirmed. [DIA NKMP 2021; factsanddetails.com; IISS]
+- **240mm MLRS Brigade (620th Corps element)** (elite) (bde_arty_620_240mrl) — type: mlrs, HQ: Forward position north of DMZ, strength: 90.0%. ELITE / HIGHEST READINESS. Operates M-1985/M-1991 240mm MRL (range ~60km). Together with Koksan guns, the 620th Corps represents the primary conventional threat to Seoul. ~500+ MRL tubes (est). Specific brigade number unconfirmed. [DIA NKMP 2021; IISS; ROK DWP 2022]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

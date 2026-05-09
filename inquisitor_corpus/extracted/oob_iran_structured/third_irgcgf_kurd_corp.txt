@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: Kurdistan Beit-ol-Moqaddas Corps
+
+**Unit ID**: irgcgf_kurd_corp
+**Type**: light_cab
+**Headquarters**: Sanandaj, Kurdistan
+**Parent**: Region / Provincial Corps / Base: Hamze-ye Sayyed al-Shohada Operational HQ (West/NW) (irgcgf_hamze_hq)
+**Higher echelon**: IRGC Ground Forces (IRGCGF)
+**Elite designation**: No
+**Strength (% authorized)**: 80%
+**Notes**: Commander: Sadegh Hosseini. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

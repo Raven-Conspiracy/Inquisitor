@@ -1,0 +1,17 @@
+# Chinese PLA — Group Army / Fleet / Base: PLARF Base 65 (第六十五基地, Unit 96605)
+
+**Unit ID**: plarf_b65
+**Service**: PLARF
+**Type**: rocket_force_base
+**Headquarters**: Shenyang
+**Parent**: Northern Theater Command (北部战区) (ntc)
+**Strength (% authorized)**: 100%
+**Notes**: HQ Shenyang, Liaoning. Formerly Base 51. NE China/Shandong coverage. 6-7 brigades: DF-41 (nuclear), DF-31AG (nuclear), DF-26 (dual), DF-21D (anti-ship), DF-17 (conventional), CJ-100/DF-100 (LACM). [POST-PURGE STATUS UNCERTAIN] [CNS PLARF OOB 2023] [Grey Dynamics 2024-07-30]
+
+## Subordinate Brigade / Division / Flotillas
+- **651st Missile Brigade (DF-41 ICBM)** (elite) (plarf_651bde) — type: rocket_brigade, HQ: Chifeng, Inner Mongolia, strength: 100%. DF-41 nuclear ICBM. MUCD 96751. [CNS PLARF OOB 2023] [POST-PURGE STATUS UNCERTAIN]
+- **654th Missile Brigade (DF-26 IRBM)** (elite) (plarf_654bde) — type: rocket_brigade, HQ: Haicheng/Dengshahe, Liaoning, strength: 100%. DF-26 dual-capable IRBM. MUCD 96754. [CNS PLARF OOB 2023] [Grey Dynamics 2024-07-30]
+- **656th Missile Brigade (CJ-100/DF-100 LACM)** (elite) (plarf_656bde) — type: rocket_brigade, HQ: Linyi/Jinan, Shandong, strength: 100%. CJ-100 (DF-100) long-range land-attack cruise missile. ~24 launchers. OT&E unit. MUCD 96756. [CNS PLARF OOB 2023] [Grey Dynamics 2024-07-30]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

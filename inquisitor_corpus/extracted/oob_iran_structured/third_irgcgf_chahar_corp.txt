@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: Sepah-e Ghamar Bani Hashem (Chaharmahal and Bakhtiari Corps)
+
+**Unit ID**: irgcgf_chahar_corp
+**Type**: light_cab
+**Headquarters**: Shahr-e Kord, Chaharmahal and Bakhtiari
+**Parent**: Region / Provincial Corps / Base: Sayyed al-Shohada Operational HQ (Central) (irgcgf_sayyed_hq)
+**Higher echelon**: IRGC Ground Forces (IRGCGF)
+**Elite designation**: No
+**Strength (% authorized)**: 80%
+**Notes**: Commander: Ali Mohammad Akbari. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

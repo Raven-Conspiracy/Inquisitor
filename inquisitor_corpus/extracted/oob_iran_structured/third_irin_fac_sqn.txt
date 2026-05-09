@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: IRIN Fast Attack Craft Force (Kaman/Combattante II)
+
+**Unit ID**: irin_fac_sqn
+**Type**: surface_flotilla
+**Headquarters**: Bushehr
+**Parent**: Region / Provincial Corps / Base: IRIN 2nd Naval District — Bushehr/Jask (irin_nd2)
+**Higher echelon**: Islamic Republic of Iran Navy (IRIN)
+**Elite designation**: No
+**Strength (% authorized)**: 65%
+**Notes**: 13x Kaman-class (Combattante II) FACM + other patrol craft. [DIA IMP 2019 p.27]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

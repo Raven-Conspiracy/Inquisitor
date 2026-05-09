@@ -1,0 +1,15 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: 4th Tactical Air Base — Dezful (Vahdati)
+
+**Unit ID**: tab4_dezful
+**Service**: IRIAF
+**Type**: air_force_base
+**Headquarters**: Dezful, Khuzestan
+**Parent**: Islamic Republic of Iran Air Force (IRIAF) (iriaf)
+**Strength (% authorized)**: 40%
+**Notes**: F-5E/F. Attacked Jun 13, 2025; airworthiness doubtful. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+## Subordinate Division / Brigade / Squadrons
+- **41st Tactical Fighter Squadron (F-5E/F)** (sqn41_f5) — type: fighter_brigade, HQ: Dezful/Vahdati, strength: 35%. F-5E/F Tiger II. TAB 4 struck Jun 13, 2025. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

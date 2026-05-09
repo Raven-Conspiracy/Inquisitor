@@ -1,0 +1,10 @@
+# Iranian Armed Forces — Service Branch: Khatam al-Anbiya Central Headquarters (KACHQ)
+
+**ID**: KHATAM
+**Headquarters**: Tehran
+**Commander (current)**: General Gholam Ali Rashid
+**Map color code**: #1a1a2e
+**Notes**: Wartime joint operational command coordinating both Artesh and IRGC under the Supreme Leader. Activated in threat scenarios; also oversees IRGC civil-engineering conglomerate of the same name. [DIA IMP 2019 p.17] [POST-2024-STRIKES STATUS UNCERTAIN: leadership disruptions reported 2025-2026]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:SVC] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

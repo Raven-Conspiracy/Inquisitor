@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 161st Air Assault Combined Arms Brigade (ELITE / first-tier)
+
+**Unit ID**: 83ga_161aab
+**Type**: air_assault
+**Headquarters**: Xinxiang area
+**Parent**: Group Army / Fleet / Base: 83rd Group Army (第八十三集团军) (83ga)
+**Higher echelon**: Central Theater Command (中部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: First-tier air assault unit; rapid reaction force. [Wikipedia 83rd GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

@@ -1,0 +1,15 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: Pyongyang Defense Command
+
+**Unit ID**: pdc
+**Service**: KPA Ground Forces
+**Type**: corps
+**Headquarters**: Pyongyang
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 90.0%
+**Notes**: REGIME PROTECTION FORCE. Distinct from the Capital Defense Command/91st Corps. Purpose: protect Kim family and Party leadership from internal coup or urban unrest. Corps-sized element; some estimates 300,000 personnel in combined Bodyguard Command and Pyongyang Defense structure. Top leadership replaced Jan 2026 per ROK MND annual assessment [POST-2021 UPDATE: Yonhap Jan 2026]. [DIA NKMP 2021; ROK MND 2025 assessment]
+
+## Subordinate Division / Brigade / Flotillas
+- **Bodyguard Command Brigade (Pyongyang Defense Command element)** (elite) (pdc_bde_1) — type: light_cab, HQ: Pyongyang, strength: 95.0%. ELITE / REGIME PROTECTION. Multiple brigade-sized elements under Bodyguard Command per DIA NKMP 2021. Leadership replaced Jan 2026 (Song Jun-sol: Guard Office; Ro Kyong-chol: Guard Dept; Ra Chol-jin: KPA Bodyguard Command) [POST-2021 UPDATE: ROK MND/Yonhap Jan 2026]. Specific brigade designations classified. [DIA NKMP 2021 '300,000 personnel'; ROK MND 2025]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

@@ -1,0 +1,12 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: IRGCN 3rd Naval Region — Bandar Mahshahr
+
+**Unit ID**: irgcn_nd3
+**Service**: IRGCN
+**Type**: naval_district
+**Headquarters**: Bandar Mahshahr (Bandar Imam Khomeini area), Khuzestan
+**Parent**: IRGC Navy (IRGCN) (irgcn)
+**Strength (% authorized)**: 55%
+**Notes**: Northern Persian Gulf. Struck by at least 6 munitions Mar 2, 2026 per Alma Research satellite imagery. [DIA IMP 2019 p.28] [Alma Research Mar 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 621st Missile Brigade (DF-31AG ICBM, nuclear) (ELITE / first-tier)
+
+**Unit ID**: plarf_621bde
+**Type**: rocket_brigade
+**Headquarters**: Yibin, Sichuan
+**Parent**: Group Army / Fleet / Base: PLARF Base 62 (第六十二基地, Unit 96602) (plarf_b62)
+**Higher echelon**: Southern Theater Command (南部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: DF-31AG nuclear road-mobile ICBM. ~12 launchers. MUCD 96721. [CNS PLARF OOB 2023] [POST-PURGE STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

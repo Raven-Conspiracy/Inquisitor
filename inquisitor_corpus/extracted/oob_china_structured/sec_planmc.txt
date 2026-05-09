@@ -1,0 +1,23 @@
+# Chinese PLA — Group Army / Fleet / Base: PLA Marine Corps (陆战队, PLANMC)
+
+**Unit ID**: planmc
+**Service**: PLAN
+**Type**: group_army
+**Headquarters**: Zhanjiang
+**Parent**: ? (ssf_plan)
+**Strength (% authorized)**: 100%
+**Notes**: Expanded from 2 to 6 amphibious combined arms brigades in 2017 reform; added SOF bde, aviation bde = 8 brigades total. ~40,000 personnel. All brigades under South Sea Fleet/Southern TC. First-tier units. [Gunners Shot 2024-01-18] [DOD CMPR 2024]
+
+## Subordinate Brigade / Division / Flotillas
+- **1st Marine Brigade (海军陆战队第1旅)** (elite) (planmc_1mb) — type: marine, HQ: Zhanjiang, strength: 100%. Founded 1980; original marine brigade. Amphibious combined arms; ZTD-05, ZBD-05, ZTL-11. ~5,000 personnel. First-tier. [Gunners Shot 2024-01-18] [DOD CMPR 2024]
+- **2nd Marine Brigade (海军陆战队第2旅)** (elite) (planmc_2mb) — type: marine, HQ: Zhanjiang, strength: 100%. Formed 1998 from 164th Division. Amphibious combined arms. First-tier. [Gunners Shot 2024-01-18] [DOD CMPR 2024]
+- **3rd Marine Brigade (海军陆战队第3旅)** (elite) (planmc_3mb) — type: marine, HQ: Zhanjiang area, strength: 100%. Formed 2017 expansion. Amphibious combined arms. First-tier. [Gunners Shot 2024-01-18]
+- **4th Marine Brigade (海军陆战队第4旅)** (elite) (planmc_4mb) — type: marine, HQ: Zhanjiang area, strength: 100%. Formed 2017 expansion. Amphibious combined arms. First-tier. [Gunners Shot 2024-01-18]
+- **5th Marine Brigade (海军陆战队第5旅)** (elite) (planmc_5mb) — type: marine, HQ: Sanya area (Hainan), strength: 100%. Formed 2017 expansion; possibly Hainan-based. Amphibious combined arms. First-tier. [Gunners Shot 2024-01-18]
+- **6th Marine Brigade (海军陆战队第6旅)** (elite) (planmc_6mb) — type: marine, HQ: Sanya area (Hainan), strength: 100%. Formed 2017 expansion. Amphibious combined arms. First-tier. [Gunners Shot 2024-01-18]
+
+## Authorized Equipment (estimated)
+- **apc** — ZBD-05, ZTD-05, ZBL-09 — authorized: 600, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

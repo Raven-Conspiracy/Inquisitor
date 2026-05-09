@@ -1,0 +1,16 @@
+# Russian Military District — Southern Military District
+
+**District ID**: SMD
+**Headquarters**: Rostov-on-Don
+**Commander (as of 2026-04-10)**: Lt Gen Sergey Medvedev
+**Map color code**: #7b1a1a
+
+## Subordinate Field Armies / Corps
+- **3rd Guards Combined Arms Army** (3gca) — type: combined_arms_army, HQ: Luhansk, strength: 62.0%. Siversk sector
+- **8th Guards Combined Arms Army** (8gca) — type: combined_arms_army, HQ: Novocherkassk, strength: 58.0%. Heavy losses; Donetsk main effort
+- **18th Combined Arms Army** (18ca) — type: combined_arms_army, HQ: Sevastopol, strength: 70.0%. Kherson / Dnieper axis
+- **49th Combined Arms Army** (49ca) — type: combined_arms_army, HQ: Stavropol, strength: 72.0%. Zaporozhye axis
+- **51st Combined Arms Army** (51ca) — type: combined_arms_army, HQ: Donetsk, strength: 55.0%. Former DNR I Corps; Donetsk central
+- **58th Guards Combined Arms Army** (58gca) — type: combined_arms_army, HQ: Vladikavkaz, strength: 65.0%. South Donetsk / Zaporozhye
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:MD] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

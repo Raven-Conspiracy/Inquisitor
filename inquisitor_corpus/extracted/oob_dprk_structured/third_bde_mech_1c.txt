@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Mechanized Brigade (unidentified, I Corps)
+
+**Unit ID**: bde_mech_1c
+**Type**: mech_inf
+**Headquarters**: Kumgang County area (approximate)
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: I Corps (1st Corps) (corps_1)
+**Higher echelon**: KPA Ground Forces (Ryukgun)
+**Elite designation**: No
+**Strength (% authorized)**: 80.0%
+**Notes**: NAME UNKNOWN. DIA NKMP 2021 and IISS MB 2017 confirm ~15 armored brigades and 4 mech divisions across KPA GF. Forward corps each likely have 1+ mech brigade. [DIA NKMP 2021; IISS MB 2017]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

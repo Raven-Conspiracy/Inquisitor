@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 21st Tactical Fighter Squadron (F-5E)
+
+**Unit ID**: sqn21_f5
+**Type**: fighter_brigade
+**Headquarters**: Tabriz
+**Parent**: Region / Provincial Corps / Base: 2nd Tactical Air Base — Tabriz (Shaheed Fakouri) (tab2_tabriz)
+**Higher echelon**: Islamic Republic of Iran Air Force (IRIAF)
+**Elite designation**: No
+**Strength (% authorized)**: 40%
+**Notes**: F-5E/F Tiger II. Some transferred to TAB14/Mashhad. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

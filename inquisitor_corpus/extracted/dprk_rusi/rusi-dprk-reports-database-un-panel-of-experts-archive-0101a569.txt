@@ -1,0 +1,41 @@
+DPRK Reports Database | Royal United Services Institute
+Alina Grubnyak on Unsplash
+RUSI’s extensive programme on sanctions implementation outreach and technical assistance has shown that the effective implementation of international sanctions requires equal participation by states, their institutions and their industries, but that smaller institutions – especially those in the developing world – tend to lack access to information, tools and other resources that would promote more effective implementation.
+While the UN Panel of Experts’ reports provide a wealth of information, it is often in inaccessible and unstructured formats. The
+DPRK Reports
+project tackles this issue head on. In collaboration with
+NK News
+, RUSI has assembled a dataset of more than 5,000 entities and their relationships that are described throughout the UN DPRK Panel of Experts’ reports from 2010 to 2023.
+The database is fully searchable as well as
+downloadable
+, in its entirety, as a JSON-formatted or CSV file. The fields are structured with ISO standards, using the
+'Follow-the-Money'
+structure/typology, for ease of incorporation into existing databases.
+Alina Grubnyak on Unsplash
+Project team
+Dr Aaron Arnold
+RUSI Senior Associate Fellow, CFS
+Centre for Finance and Security
+View profile
+Dr Giangiuseppe Pili
+RUSI Associate Fellow, Proliferation and Nuclear Policy
+View profile
+Chad O’Carroll, Founder and CEO, NK News
+Nils Weisensee, Director of News Operations, NK News
+View database
+DPRK Reports Database Site
+Access structured information from the UN Panel of Experts reports
+Access the database
+chevron-right
+Aims and objectives
+The DPRK Reports Database project aims to address sanctions implementation gaps by providing access to high-quality, structured data from the UN Panel of Experts reports on North Korea. Structuring data from the reports, which is often in inaccessible formats, will help the public and private sector to illuminate previously unidentified connections, provide an accurate and complete repository of case information, and can be used to identify emerging trends and assist with sanctions implementation efforts (eg, due diligence and compliance) more effectively. Importantly, the project is designed to be accessible, provided in both human-readable and machine-readable formats.
+Quick links
+Centre for Finance and Security
+chevron-right
+Financial Crime Policy
+chevron-right
+Sanctions, State Threats and Economic Security
+chevron-right
+Stay up to date with RUSI
+Receive updates on publications and events from RUSI straight into your inbox.
+Sign up

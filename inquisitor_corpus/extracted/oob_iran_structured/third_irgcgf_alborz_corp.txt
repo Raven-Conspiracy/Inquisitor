@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: Sepah-e Imam Hassan Mojtaba (Alborz Provincial Corps)
+
+**Unit ID**: irgcgf_alborz_corp
+**Type**: light_cab
+**Headquarters**: Karaj, Alborz
+**Parent**: Region / Provincial Corps / Base: Sarallah Operational Headquarters (Tehran region) (irgcgf_sarallah_hq)
+**Higher echelon**: IRGC Ground Forces (IRGCGF)
+**Elite designation**: No
+**Strength (% authorized)**: 80%
+**Notes**: Commander: Yousef Molaei. Part of Sarallah HQ which oversees capital region. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

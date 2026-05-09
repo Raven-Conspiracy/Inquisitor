@@ -1,0 +1,12 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Quds Force Ramadan Headquarters (Iraq Corps)
+
+**Unit ID**: quds_iraq_desk
+**Service**: Quds
+**Type**: regional_desk
+**Headquarters**: Tehran/Iran-Iraq border area
+**Parent**: IRGC Quds Force (IRGC-QF) (quds)
+**Strength (% authorized)**: 100%
+**Notes**: 1st Corps; responsible for Iraq. Formerly led by BG Hassan Danaeifar and BG Iraj Masjedi. Coordinates with PMF (Popular Mobilization Forces) and Iran-aligned militias. [Wikipedia Quds Force]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

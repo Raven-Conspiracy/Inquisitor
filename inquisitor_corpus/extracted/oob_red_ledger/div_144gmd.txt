@@ -1,0 +1,21 @@
+# Russian Division — 144th Guards Motor Rifle Division
+
+**Unit ID**: 144gmd
+**Type**: motor_rifle
+**Headquarters**: Yelnya
+**Parent Army**: 20th Guards Combined Arms Army (20gca)
+**Parent District**: Moscow Military District
+**Strength (% authorized)**: 58.0%
+**Notes**: Lyman / Kreminna sector
+
+## Subordinate Brigades / Regiments
+- **252nd Motor Rifle Regiment** (252mrr) — type: motor_rifle, strength: 55.0%. None
+- **254th Motor Rifle Regiment** (254mrr) — type: motor_rifle, strength: 55.0%. None
+- **448th Motor Rifle Regiment** (448mrr) — type: motor_rifle, strength: 50.0%. None
+
+## Authorized Equipment (with estimated combat losses)
+- **tank** — T-72B3 — authorized: 94, estimated lost: 42
+- **ifv** — BMP-2, MT-LB — authorized: 220, estimated lost: 78
+- **artillery_sp** — 2S19, 2S3 — authorized: 54, estimated lost: 20
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:DIV] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

@@ -1,0 +1,16 @@
+# Chinese PLA — Brigade / Division / Flotilla: 661st Missile Brigade (DF-5B ICBM, nuclear/silo) (ELITE / first-tier)
+
+**Unit ID**: plarf_661bde
+**Type**: rocket_brigade
+**Headquarters**: Lushi, Henan
+**Parent**: Group Army / Fleet / Base: PLARF Base 66 (第六十六基地, Unit 96606) (plarf_b66)
+**Higher echelon**: Central Theater Command (中部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: DF-5B silo-based liquid ICBM. 6 silos. New base at Sanmenxia. MUCD 96761. [CNS PLARF OOB 2023] [Wikipedia PLARF] [POST-PURGE STATUS UNCERTAIN]
+
+## Authorized Equipment (estimated)
+- **icbm** — DF-5B (silo-based liquid ICBM) — authorized: 6, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

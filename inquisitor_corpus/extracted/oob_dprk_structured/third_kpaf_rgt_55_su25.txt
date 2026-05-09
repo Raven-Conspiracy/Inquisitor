@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: 55th Air Fighter Wing (Su-25K ground attack regiment)
+
+**Unit ID**: kpaf_rgt_55_su25
+**Type**: fighter_brigade
+**Headquarters**: Sunchon Airport, South Pyongan Province
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: 1st Air Combat Command (1st ACC) / 1st Air Combat Division (kpaf_1acc)
+**Higher echelon**: Korean People's Army Air Force (Konggun)
+**Elite designation**: No
+**Strength (% authorized)**: 65.0%
+**Notes**: Operates Su-25K/Su-25UBK (34 total) for close air support. Considered capable by DIA alongside MiG-29 and MiG-23. [Wikipedia KPAF; DIA NKMP 2021]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

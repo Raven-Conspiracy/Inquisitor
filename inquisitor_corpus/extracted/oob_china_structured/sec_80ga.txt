@@ -1,0 +1,18 @@
+# Chinese PLA — Group Army / Fleet / Base: 80th Group Army (第八十集团军)
+
+**Unit ID**: 80ga
+**Service**: PLAA
+**Type**: group_army
+**Headquarters**: Weifang
+**Parent**: Northern Theater Command (北部战区) (ntc)
+**Strength (% authorized)**: 100%
+**Notes**: Formerly 26th Group Army (Jinan MR); redesignated Apr 2017. 80th Special Operations Brigade 'Taishan Eagles'. [DOD CMPR 2024 p.97] [Wikipedia 80th GA]
+
+## Subordinate Brigade / Division / Flotillas
+- **47th Light Combined Arms Brigade** (80ga_47cab) — type: light_cab, HQ: Weifang area, strength: 100%. [Wikipedia 80th GA]
+- **69th Heavy Combined Arms Brigade** (80ga_69cab) — type: heavy_combined_arms_bde, HQ: Weifang area, strength: 100%. [Wikipedia 80th GA]
+- **118th Medium Combined Arms Brigade** (80ga_118cab) — type: medium_cab, HQ: Weifang area, strength: 100%. [Wikipedia 80th GA]
+- **199th Light Combined Arms Brigade** (80ga_199cab) — type: light_cab, HQ: Weifang area, strength: 100%. [Wikipedia 80th GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

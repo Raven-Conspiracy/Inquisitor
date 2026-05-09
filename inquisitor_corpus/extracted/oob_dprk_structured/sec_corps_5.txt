@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: V Corps (5th Corps)
+
+**Unit ID**: corps_5
+**Service**: KPA Ground Forces
+**Type**: corps
+**Headquarters**: Hamhung area or central sector (approximate)
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 80.0%
+**Notes**: FORWARD CORPS. Central/eastern DMZ sector. One of four forward corps. Sub-unit composition unconfirmed in open sources. [Wikipedia KPAGF; DIA NKMP 2021; FAS irp.fas.org]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

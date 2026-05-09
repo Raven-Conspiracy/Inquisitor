@@ -1,0 +1,1284 @@
+ 1 
+The Lone-Actor Terrorist and the TRAP-18 
+ 
+ 
+ 
+Lone actor terrorism is considered a major national security threat in both 
+North America and Europe.  Although the focus has been on violent Islamic jihadists, 
+and most recently both recruitment and attacks by individuals inspired by ISIS, such 
+threats come from the extremes, regardless of ideology.  As Pascal wrote over three 
+centuries ago, “les extremes se touchent,” the extremes meet (Paul, 1905, p. 22).  For 
+example, despite the inordinate attention paid to jihadist violence in the United 
+States, there have been an almost equal number of murders by individuals from the 
+extreme right when compared to jihadists since 9/11, and twice as many attacks by 
+the extreme right (New America Foundation, 2016). 
+ 
+Efforts to counter such violence, and to distinguish between those who have the 
+legally protected right in democracies to have extreme beliefs from those who 
+intend to act violently on their extreme beliefs, have, in part, focused upon risk 
+assessment of such individuals.  The Terrorist Radicalization Assessment Protocol 
+(TRAP-18) is an attempt to advance these efforts. 
+ 
+ 
+ Over the past forty years there has been a slow and steady evolution in the 
+understanding of the individual terrorist, both theoretically and empirically (Gill, 
+2015; Simon, 2013; Sageman, 2008).  The past few years in particular have seen a 
+burgeoning of empirical studies, many of them challenging earlier theoretical 
+misconceptions concerning the lone terrorist, such as the absence of mental 
+disorder or socioeconomic deprivation (Borum, Fein & Vossekuil, 2012; Borum, 
+2014; Gill, 2015; Gill et al., 2014; Gill, Horgan, Hunter & Cushenberry, 2013; Corner 
+& Gill, 2014; Gruenwald et al., 2013; Bryneillson et al., 2013; Cohen et al., 2014; 
+Spaaj,  2012; Simon, 2013; Sageman, 2008; Hamm and Spaaj, 2015; Horgan, 2005, 
+2008; Weenink, 2015; Meloy, 2011; Meloy & Yakeley, 2014; Bergen, 2016).  Such 
+work has contributed to the development of three published structured assessment 
+
+ 2 
+instruments for the coding of behaviors for terrorist risk, including the Violent 
+Extremist Risk Assessment (VERA; Pressman, 2009) modeled after the HCR-20 (see 
+Douglas et al., 2013 for the newest version 3),  the Multi-Level Guidelines for the 
+Assessment and Management of Group-Based Violence (MLG; Cook et al., 2013), and 
+the Extremism Risk Guidelines (ERG 22+; Lloyd and Dean, 2015).  Other coding tools 
+have proliferated among various law enforcement and security agencies in both 
+North America and Europe, some of them classified, but without the requisite peer-
+reviewed research to demonstrate their scientific reliability and validity before 
+being operationally utilized. Such criticism, however, must also acknowledge the 
+compelling need for intelligence gathering in a world where a heightened awareness 
+of risk is ubiquitous (Meloy & Hoffmann, 2014).  
+  
+In response to these needs, Monahan (2012) articulated the present state of the 
+science concerning the “conceptual and methodological challenges” that must be 
+surmounted to advance the risk assessment of individual terrorism.  He elaborated 
+upon four problems: 1) the need for clarity as to what is being assessed; 2) the likely 
+usefulness of structured professional judgment; 3) the identification of robust risk 
+factors within four domains:  ideologies, grievances, affiliations, and moral 
+emotions; and 4) the very low probability of prospective validation.  In a follow up 
+chapter, Monahan (2016) reported on the positive advances since his earlier paper, 
+and added the domain of “identities” to his four domains of risk.  However, he also 
+noted the continued stagnation in terrorism research due to the lack of political will 
+to bring together the academic and intelligence communities.  He posited that the 
+most realistic research endeavors will be “known outcome” studies where 
+comparisons are made between those who have and have not carried out terrorist 
+acts on putative risk factors. 
+ Monahan (2012) furthermore noted in a comparison of the general criminal 
+violence risk research and the terrorism research that there is little overlap, 
+necessitating the development of a structured professional judgment instrument 
+specific to terrorism: 
+ 
+
+ 3 
+“From the existing research, therefore, it appears that none of the four overlapping 
+dimensions of the risk of common violence identified by Kroner et al (2005)—
+criminal history, an irresponsible lifestyle, psychopathy and criminal attitudes, and 
+substance abuse—characterize those who commit violent terrorism. In addition, 
+there is little empirical evidence supporting the validity of other putative risk 
+factors for terrorism beyond what is already obvious (i.e., age, gender, and perhaps 
+marital status). Indeed, the strongest empirical findings are entirely negative: 
+terrorists in general tend not to be impoverished or mentally ill or substance 
+abusers or psychopaths or otherwise criminal; suicidal terrorists tend not to be 
+clinically suicidal. In no society studied to date have personality traits been found to 
+distinguish those who engage in terrorism from those who refrain from it 
+(Monahan, 2012, p.   ).” 
+ 
+The purpose of this study is to present an investigative template which may 
+eventually provide a reasonable assessment of risk of lone-actor terrorism, based 
+upon the recommendations of Monahan (2012, 2016) and incorporating work on 
+proximal warning behaviors for targeted violence (Meloy, 2011; Meloy et al., 2012) 
+and distal characteristics of the lone terrorist (Meloy & Yakeley, 2014).  The 
+proximal warning behaviors, a typology derived from the threat assessment 
+literature (Meloy et al., 2012; Meloy & Hoffmann, 2014), have been found to have 
+ecological validity across a range of targeted violence domains, such as public figure 
+attackers and school attackers, both in the United States and Europe (Hoffmann et 
+al., 2011; Meloy et al., 2014a, 2014b).  They have also shown postdictive validity 
+when discriminating between German school shooters and other students of 
+concern with no intent to attack (Meloy et al., 2014b).  The distal characteristics are 
+based upon the psychosocial research concerning lone actor terrorism conducted 
+during the past decade (Borum, Fein & Vossekuil, 2012; Borum, 2014, 2015; Gill, 
+2015; Gill et al., 2014; Corner & Gill, 2014; Gruenwald et al., 2013; Spaaj, 2012; 
+Simon, 2013; Sageman, 2008; Hamm and Spaaj, 2015) as well as the original 
+psychodynamic formulations of the authors (Meloy & Yakeley, 2014).  One study has 
+found these distal characteristics to have some criterion validity, and good to 
+
+ 4 
+excellent interrater reliability, in a small sample of European individual terrorists 
+(Meloy, Roshdi, Glaz-Ocik & Hoffmann, 2015). This rationally-derived theoretical 
+model is applied in this study to an existing large dataset of lone-actor terrorists in 
+the United States and Europe to test its criterion validity from several perspectives.  
+The instrument is called the Terrorist Radicalization Assessment Protocol, and 
+consists of 18 coded behavioral patterns (TRAP-18).  Although the TRAP-18 may 
+complement the other three instruments noted earlier (MLG, VERA, ERG 22+), what 
+it brings to the task which the others do not is a focus only on targeted violence—
+acts which are intended and purposeful—rather than general violence, the lone-
+actor terrorist as distinct from terrorists under external command and control, and 
+a proposed temporal distinction between indicators which may compel active risk 
+management in temporal proximity to a possible terrorist act, and those more distal 
+characteristics which may only need active monitoring.  Such a distinction, we 
+believe, can aid in the prioritizing of cases and operational efficiencies for more 
+effective utilization of resources 
+ 
+    Definition of Terms for the TRAP-18 
+ 
+The TRAP-18 consists of two sets of indicators: first, eight warning  
+behaviors which were originally developed to identify patterns of proximal risk for 
+intended or targeted violence, in contrast to the more common mode of violence 
+which is typically impulsive or reactive (Siegel & Victoroff, 2009; Meloy et al., 2012).  
+Second, ten distal characteristics of the lone terrorist derived from studying the 
+extant empirical and theoretical research on terrorism and the first author’s 
+experience as a forensic psychologist (Meloy, 2004, 2011) in directly and indirectly 
+assessing both foreign and domestic lone terrorists over the past twenty years and 
+his thematic review of these clinical cases (Meloy & Yakeley, 2014). This work 
+occurred as both a privately retained consultant for various entities, as well as 
+public retention by the FBI and other agencies within the US Government.  The 
+privately retained work involved domestic lone actor terrorists and terrorist cells 
+who ideologically framed their motivations with both secular (two examples, the 
+
+ 5 
+single issue of use of lethal force by police officers and adherents of the Patriot 
+Movement) and religious ideologies (for example, a religious belief in the end times 
+and the need to offensively pre-empt Armageddon).  The work for both the FBI and 
+other government agencies remains classified.  The ten characteristics are 
+psychodynamically, psychobiologically, and psychosocially based, and define more 
+chronic and distal aspects of the lone actor terrorist that may prompt further 
+intelligence gathering and monitoring, but may stop short of the active risk 
+management which is compelled by the presence of a warning behavior.  This 
+formulation is conceptually based upon the work of Monahan and Steadman (1996) 
+who applied the meteorological distinction between watching and warning to 
+assessing the risk of violence.   The category of watching implied a more distant risk 
+which should be monitored, while a warning was reserved for a threat that 
+compelled immediate and active risk management. The eight proximal warning 
+behaviors and 10 distal characteristics combine to form the TRAP-18. 
+ 
+The Warning Behavior Typology 
+ 
+These are proximal and dynamic patterns which may indicate accelerating risk for 
+targeted violence. The warning behaviors are not discrete variables, but patterns for 
+analysis  (Meloy et al., 2014, Guldimann et al., 2013). Typologies can provide a 
+framework to help think about multiple dimensions of a problem and how those 
+dimensions might interact (Borum et al., 2012); pattern analysis has its roots in 
+gestalt psychology (Kohler, 1929; Koffka, 1921; Wertheimer, 1938) and capitalizes 
+on normal cognitive-perception to organize bits of detail into meaningful patterns. 
+The behavioral patterns are coded as present if any pre-offense behavior is found to 
+have a reasonably certain fit with the proffered descriptions:  
+ 
+Pathway warning behavior is research, planning, preparation or implementation of 
+an attack (Calhoun & Weston, 2003; Fein & Vossekuil, 1998).  These are the latter 
+stage markers on the pathway as defined by Calhoun & Weston (2003) and exclude 
+the earlier markers, such as an initial personal grievance and ideation, defined in 
+
+ 6 
+their theoretical model, and captured by the first distal characteristic of the TRAP-
+18 below. 
+ 
+Fixation warning behavior indicates an increasingly pathological preoccupation 
+with a person or a cause, accompanied by a deterioration in social and occupational 
+life (Mullen et al., 2009).   It is distinguished from normal fixations such as intense 
+enthusiasm over a sports team, the early stages of romance, and lifelong hobbies. 
+ 
+Identification warning behavior indicates a psychological desire to be a pseudo-
+commando (Dietz, 1986; Knoll, 2010), have a warrior mentality (Hempel, Meloy & 
+Richards, 1999), closely associate with weapons or other military or law 
+enforcement paraphernalia, identify with previous attackers or assassins, or identify 
+oneself as an agent to advance a particular cause or belief system (Meloy, Mohandie, 
+Knoll & Hoffmann, 2015).   It is notable as a shift from believing what others do 
+(fixation) to wanting to become who they are, and may embrace both nonfictional 
+and fictional individuals and groups. 
+ 
+Novel Aggression warning behavior is an act of violence that appears unrelated to 
+any targeted violence pathway and is committed for the first time (Meloy et al., 
+2012).  It is understood to be a behavior with which the subject tests his actual 
+ability to be violent, and is distinguished from the distal characteristic of a history of 
+criminal violence. 
+ 
+Energy Burst warning behavior is an increase in the frequency or variety of any 
+noted activities related to the target, even if the activities themselves are relatively 
+innocuous, usually in the days, weeks, or hours before the attack (Odgers et al., 
+2009; Meloy et al., 2012).   It can only be calculated if there is already an established 
+baseline of behavioral activity through prior intelligence gathering. 
+ 
+
+ 7 
+Leakage warning behavior is the communication to a third party of an intent to do 
+harm to a target through an attack (Meloy & O´Toole, 2011).  It is only coded if it was 
+known or could have been known by others prior to the attack. 
+ 
+Last Resort warning behavior is evidence of a „violent action imperative“ and „time 
+imperative“ (Mohandie & Duffy, 1999); it is often a signal of desperation or distress.  
+The subject has decided that there is no other alternative than to be violent toward 
+the target.  Sometimes it is triggered by a major loss or anticipated loss. 
+ 
+Directly Communicated Threat warning behavior is the communication of a direct 
+threat to the target or law enforcement beforehand (Meloy et al., 2012).   
+ 
+The 10 Distal Characteristics of the Lone-Actor Terrorist  
+ 
+Personal Grievance and Moral Outrage join both personal life experience and 
+particular historical, religious, or political events.  The personal grievance is often 
+defined by a major loss in love or work, feelings of anger and humiliation, and the 
+blaming of others.  Moral outrage is typically a vicarious identification with a group 
+which has suffered, even though the lone-actor terrorist has usually not experienced 
+the same suffering, if any at all.  In a few cases, there will only be a personal 
+grievance, yet it is comprehended and often magnified by the next characteristic. 
+ 
+Framed by an Ideology is the presence of beliefs which justify the terrorist’s intent to 
+act. It can be a religious belief system, a political philosophy, a secular commitment, 
+a one-issue conflict, or an idiosyncratic justification (Simon, 2013; Meloy et al., 
+2014).   Often the belief system is cherry-picked for words and phrases which justify 
+targeted violence, and intellectual understanding of the ideology is superficial and 
+simplistic. 
+ 
+Failure to Affiliate with an Extremist Group is defined by the actual failure and/or 
+rejection of the lone-actor terrorist from a radical or extremist group with which he 
+
+ 8 
+wants to join (Puckitt, 2001).  In some cases, the subject has rejected the extremist 
+group, or the group’s beliefs are too moderate for him. 
+ 
+Dependence on the Virtual Community is evidence of the lone-actor terrorist’s active 
+communication with others through social media, chat rooms, e-mails, list-servs, 
+texting, tweeting, etc. about his radical or extreme beliefs (see Gill, Corner, Conway, 
+Thornton, Bloom and Horgan , forthcoming, for a further elaboration) .  This also 
+includes learning tactical skills concerning his act of terrorism from others through 
+the internet.  The extensive use of social media may only involve posting of opinions, 
+activities, or intent for some individuals.  In all cases, dependence implies some 
+amount of reliance on the internet, and should be broadly interpreted for coding. 
+ 
+Thwarting of Occupational Goals is a major setback or failure in a planned academic 
+and/or occupational life course.  
+ 
+Changes in Thinking and Emotion is indicated when thoughts and their expression 
+become more strident, simplistic, and absolute.  Argument ceases, and preaching 
+begins.  Persuasion yields to imposition of one’s beliefs on others. There is no 
+criticial analysis of theory or opinion, and the mantra, „don’t think, just believe,“ is 
+adopted.  Emotions typically move from anger and argument, to contempt and 
+disdain for others’ beliefs, to disgust for the outgroup and a willingness to 
+homicidally aggress against them (Matsumoto et al., 2015).  Violence is cloaked in 
+self righteousness and the pretense of superior belief. Humor is lost.   The warning 
+behavior of fixation may be apparent throughout these changes, but fixation is 
+defined by thought content, while this distal characteristic is change in the 
+interpersonal expression of that content.  Expressiveness may suddenly diminish 
+when the subject goes operational and enters the later stages of the pathway. 
+ 
+Failure of Sexual-Intimate Pair Bonding  is coded if the subject has historically failed 
+to form a lasting sexually intimate relationship. The sexualization of violence may be 
+a secondary component. It refers to the finding of a sexual attitude or behavior in 
+
+ 9 
+the subject which appears to substitute for the absence of a sexual pair bond, such 
+as the sexualization of weapons, the anticipation of unlimited sexual gratification in 
+the afterlife (libido in the service of thanatos), the exclusive use of prostitutes and 
+other unbonded sources of sexual gratification, or compulsive use of pornography: 
+all of these behaviors may be rationalized by the ideology; eg, among jihadists, the 
+adoption of more liberal sexual behaviors may be acceptable because they help 
+maintain operational secrecy in the West through deception of others. 
+ 
+Mental Disorder is coded if there was evidence of a major mental disorder by history 
+or at present.  Whether or not ideology helped buffer the symptoms of mental 
+disorder is a secondary, but important consideration (Meloy & Yakeley, 2014): an 
+esoteric or nihilistic belief is utilized by the individual to manage the anxiety of a 
+decompensating mind. This characteristic was called “nexus of psychopathology and 
+ideology” in the foundational publication (Meloy & Yakeley, 2014). 
+ 
+Greater Creativity and Innovation is coded if there was evidence of tactical  thinking 
+„outside the box” (Meloy & Yakeley, 2014; Simon, 2013).   It was operationalized for 
+this study by coding whether the terrorist act was innovative and/or subsequently 
+imitated by others. 
+ 
+Criminal Violence is coded if there was evidence of instrumental criminal violence by 
+history separate from the terrorist act..  Predatory (instrumental) violence contrasts 
+with affective violence, which is an emotional and reactive mode of violence to an 
+imminent threat (Meloy, 1988, 2006).  There is an extensive body of research which 
+indicates that these modes of violence are somewhat biologically distinctive in 
+mammals (Siegel and Victoroff, 2009).  Predatory violence biologically underpins 
+the pathway warning behavior, which is concerned with late stage tactical markers, 
+but is coded here only if found in the subject’s history of instrumental criminal 
+behavior.  Virtually all acts of terrorism are predatory (instrumental) violence.  This 
+characteristic indicates both a capacity and a willingness to engage in predation for 
+a variety of reasons, such as a history of armed robberies or planned assaults on 
+
+ 10 
+others.  Although the instrumentality of the violence is emphasized, it may be 
+difficult to code this aspect of criminality due to a paucity of investigative reports on 
+the subject’s history.  This characteristic was called “predatory violence” in the 
+original foundational publication (Meloy & Yakeley, 2014). 
+ 
+Methods 
+ 
+The Sample 
+ 
+The sample consists of 111 lone-actors from the United States and Europe who 
+engaged in, or planned to engage in acts of lone-actor terrorism, and were convicted 
+for their actions or died during the commission of their offenses (Gill, Horgan & 
+Deckert, 2013; Corner & Gill, 2014; Gill, 2015).  Terrorism was defined as “the use or 
+threat of action where the use or threat is designed to influence the government or 
+to intimidate the public or a section of the public, and/or the use or threat is made 
+for the purpose of advancing a political, religious, or ideological cause” (p. 2, Gill et 
+al., 2013).  The sample includes only lone-actors who actively planned and carried 
+out an attack. Lone-actor terrorists were identified through the academic literature, 
+LexisNexus, the Global Terrorism Database developed by the National Consortium 
+for the Study of Terrorism and Responses to Terrorism (START) at the University of 
+Maryland, and lists of those convicted of acts of terrorism in the United Kingdom 
+and the United States.  All lone-actors engaged in their acts between 1990 and 2014, 
+a twenty-five year period (Gill, 2015).   
+ 
+Data Collection and Measurement  
+ 
+The original codebook utilized in the study of these 111 terrorists is outlined in 
+detail elsewhere (Gill, 2015) and is available from the second author as 
+supplementary material.  For this study questions from the codebook which 
+addressed the 18 behavioral patterns in the TRAP were selected by the authors. This 
+methodology presented several challenges: first, a number of the TRAP-18 
+
+ 11 
+indicators emphasize underlying motivation, whereas the original coding of the 111 
+terrorists emphasized behaviors; second, the TRAP-18 focuses on patterns of 
+behaviors, rather than discrete acts, eg, pathway vs. procurement of weapons.  This 
+led to the necessity of judgment, and in some cases, extrapolation, to identify 
+clusters of behaviors in the original coding that fit within a TRAP indicator.  Both of 
+these problems increased the subjectivity of the research task, which was addressed 
+in two ways: the researchers conferred on the choice of codebook variables for each 
+of the TRAP indicators, capitalizing on their respective understanding of the 
+development of the TRAP-18 and its meaning, and the complete database 
+underlying the 111 terrorists; and second, each of the TRAP-18 indicators below 
+identify the discrete variables from the original codebook that were utilized, our 
+comments, and the percentage of the subjects who were positive on that particular 
+variable.   
+ We then did two further analyses: we divided the subjects into three 
+different ideological groups: radical Islamic extremists, extreme right wing 
+terrorists, and single issue terrorists as defined in the original study (Gill, 2015), and 
+compared the frequencies of the TRAP-18 indicators across the three groups.  The 
+final analysis compared successful vs. thwarted attackers across the TRAP-18 
+indicators.  The original lone-actor dataset  (Gill, 2015) included both successful 
+actors and those who were thwarted in their plans. A thwarted attack covered plots 
+which were developed by lone actor terrorists that were 
+interrupted/uncovered/stopped by some form of policing/intelligence/security 
+organization and subsequently led to a conviction. It did not include cases of 
+individuals caught up in FBI sting operations (these are omitted from the data 
+entirely). It also did not include 'material support' cases: in other words, individuals 
+in the U.S. who were charged with (18 USC Section 2339A) knowingly and 
+intentionally providing training, expert advice, service, or personnel for terrorist 
+endeavors  
+ 
+ 
+Statistics 
+
+ 12 
+ 
+All descriptive analyses are expressed in frequencies where data were 
+known.  All comparative analyses utilized nonparametric statistics (X2) to 
+determine significance, which was set at p<.05, and phi coefficients to determine the 
+effect size of any significant difference.  Effect sizes were interpreted utilizing Cohen 
+(1988; .10=small, .30=medium, .50=large). 
+ 
+ 
+Results 
+ 
+Each of the 111 subjects had to have at least one or more of the coded variables to 
+be counted as a subject who displayed that particular TRAP indicator.  Many 
+subjects had more than one variable within each TRAP indicator, but would only be 
+counted once.  For example, the first distal characteristic, personal grievance and 
+moral outrage, has within it 8 originally coded variables.  In order for a subject to be 
+counted as demonstrating that distal characteristic, he would have to have at least 
+one of the original coded variables, but could have several more.  The frequency 
+percentages for the originally coded variables are listed in parentheses. 
+ 
+Coding of distal characteristics 
+      
+For the characteristic ‘personal grievance and moral outrage’, we included 
+behaviors such as whether the individual experienced, in the build up to the event, 
+being: degraded (18%), the target of an act of prejudice/unfairness (23%), lied to or 
+disrespected (23%), ignored or treated poorly by someone important to them 
+(11%), or the victim of a verbal or physical assault (14%) We also included whether 
+he recently became unemployed (29%), demonstrated a tipping point in the 
+progression of the grievance (62%), or experienced financial problems (28%).   
+These variables addressed both interpersonal and work-related negative events. 
+ 
+
+ 13 
+For the characteristic ‘framed by an ideology’, 39% were right-wing inspired, 27% 
+were single-issue1 inspired and 34% were Islamic extremists.   These variables 
+defined the ideological persuasion of the subjects. 
+ 
+In terms of ‘failure to affiliate with an extremist group’, we coded whether the 
+individual failed to recruit others or form his/her own group prior to the event 
+(22%) and whether the individual was rejected entry from an 
+activist/pressure/terrorist group prior to the event (14%).  These variables 
+included the subject as both rejector and rejected. 
+ 
+‘Dependence on the virtual community’ included two behaviors that catalogued 
+whether the individual interacted online with co-ideologues (30%) and whether the 
+individual used the internet to specifically learn some aspect of their plot (42%).  
+These variables both infer reliance on the internet, but also capture both interaction 
+with others as well as tactical learning devoid of direct interaction. 
+ 
+‘Thwarting of occupational goals’ neatly corresponds to behaviors such as whether 
+the individual became recently unemployed (29%), recently dropped out of 
+school/university (13%), had an upcoming life change he/she did not want (9%), 
+experienced a downturn in their work (12%) or academic performance (3%), and 
+was interrupted in working on a proximate goal (14%).  
+ 
+The characteristic ‘changes in thinking and emotion’ encapsulates behaviors such as 
+whether the individual produced their own propaganda (25%), sought 
+legitimization for their plans from leading epistemic authority figures (14%), 
+intensified their religious (25%) or ideological beliefs (48%) prior to the build up of 
+their plot, was angry in the lead up to the event (55%), and whether the individual 
+denounced others who shared their ideology (12%).  Although these variables cover 
+a wide range of activities, they infer the emotions of anger and contemptuous 
+                                                        
+1 This is a broad amalgamation of disparate ideologies including environmentalism , anti-abortionism, 
+and animals’ rights.  
+
+ 14 
+devaluation of others’ beliefs, and a sanctioning of their own acts in relation to their 
+evolving beliefs. 
+ 
+For the characteristic ‘failure of sexual-intimate pair bonding’, we looked at whether 
+the individual was single (59%), experienced problems in personal relationships in 
+the build up to the plot (29%), and whether they were characterized as socially 
+isolated (55%).  All of these variables code in the direction of chronic interpersonal 
+failures. 
+ 
+We examined whether the individual had a history of mental illness (41%) for the 
+characteristic  ‘mental disorder’.    This variable captures a history of mental health 
+problems some time in the life course of the subject. Corner & Gill (2015) created 
+and coded variables concerning mental illness diagnoses, including number and 
+name of diagnoses and diagnostic categories. These variables were created 
+following examination of the extensive literature available on each actor. The names 
+of the diagnoses were located in the literature, and reliability and quality of the 
+source was taken into account. To ascertain number of diagnoses the same process 
+was carried out. Diagnostic categories were noted either from a confirmed diagnosis 
+in articles, or from a series of symptoms that were cross-referenced with diagnostic 
+material, and given a provisional diagnosis (ICD-10, World Health Organization, 
+2013). The diagnoses included traumatic brain injury, drug dependence, schizophrenia, 
+schizoaffective disorder, delusional disorder, psychotic disorder, depression, bipolar 
+disorder, unspecified anxiety disorders, dissociative disorders, OCD, PTSD, unspecified 
+sleep disorder, unspecified personality disorder, and autism spectrum disorder. Corner, 
+Gill and Mason (2016) provide a descriptive analysis of the prevalence of these 
+different disorders in this sample.  
+ 
+The characteristic ‘creativity and innovation’  was demonstrated by Gill et al (2014) 
+to have two key components: the degree to which a product is novel/original and 
+also generalizable. We coded whether other lone actors had previously carried out a 
+
+ 15 
+particular attack type. If not, the attack was coded as novel/original (22%). If an 
+attack inspired copycats, it was coded as generalizable (14%). 
+ 
+The ‘criminal violence’ characteristic asks whether the individual had a history of 
+instrumental and violent criminal behavior prior to their lone-actor terrorist plot 
+(30%). 
+ 
+ 
+Coding of proximal warning behaviors 
+ 
+The ‘pathway warning behavior’  includes whether the individual engaged in 
+preparatory activities (24%), demonstrated evidence of bomb-making manuals in 
+the offender’s home (42%), engaged in dry-runs (30%),  received hands-on training 
+for an event (23%) and had a stockpile of weapons (57%).   All of these variables are 
+specific to research, planning, and preparation for the terrorist act, and by definition 
+negate the notions of impulsivity and “snapping.” 
+ 
+ 
+The following behaviors were included for ‘fixation warning behavior’: whether the 
+individual’s ideological (48%) or religious (25%) orientation intensified prior to the 
+event, or if the ideological (18%) or religious (15%) belief changed, if the person’s 
+anger was escalating prior to the attack (33%) and whether the individual seemed 
+obsessed with one specific event or phenomena (26%).  These variables capture the 
+increasing anger and intensity of the pathological preoccupation (Meloy et al., 
+2012). 
+ 
+‘Identification’ included whether the individual claimed to be part of a wider 
+group/movement or characterized their actions as a group/movement  (46%), if 
+there were evidence to suggest the individual read literature/propaganda from a 
+wider movement (60%) or other lone-actor terrorists (18%).  Although these 
+
+ 16 
+variables do not directly address self-identification, they suggest an increasing 
+interest in others’ actions, perhaps to be like them. 
+ 
+Whether the individual engaged in other forms of violent behavior prior to the event 
+(17%) summed up the ‘novel aggression’ characteristic.   Again, this is an 
+extrapolation of one behavioral variable to measure a testing of the subject’s ability 
+to be violent, and should be viewed as an estimate due to its subjectivity.   
+ 
+‘Energy burst’ included whether the individual increased levels of physical activity 
+or outside excursions prior to the event (8%).   This is a difficult variable to code, 
+often due to the lack of information and attention to this warning behavior during 
+the original data gathering, or the lack of calibration of the subject’s normal level of 
+activity. 
+ 
+‘Leakage’ covers a range of behaviors including whether the individual produced 
+letters/public statements prior to the event regarding their ideology (59%), made 
+verbal statements to a wider audience about their intent or belief prior to the event 
+(49%), let others know about their grievance (74%) or ideology (68%) or intent 
+(51%) and also whether they expressed a desire to hurt others (65%).   All of these 
+coded variables capture leakage to third parties, whether individuals or the 
+universe of internet users.  All of these variables also exclude a directly 
+communicated threat to the target beforehand. 
+ 
+If the individual cleared out his/her bank accounts (4%) or paid off their debt (2%) 
+prior to the event, it was coded under the ‘last resort’ characteristic. The same also 
+applied to the following three behaviors: upcoming life change (9%), work-related 
+loss or stressor (16%), and being a helpless victim (12%).   Some of these coded 
+behaviors suggest a sense of the subject perhaps feeling trapped, but the 
+extrapolation to “last resort” is not exact by any means due to the limitations of the 
+original coding. 
+ 
+
+ 17 
+Finally, if the subject provided a specific pre-event warning (22%), it was 
+considered a ‘directly communicated threat’.  Although prior research indicates that 
+direct threats will occur in a minority of cases of targeted violence, they always 
+warrant attention by the threat assessor (Meloy, Sheridan & Hoffmann, 2008). 
+ 
+We then assessed the prevalence of each TRAP indicator across the 111 lone-actor 
+terrorists (see Table 1). Obviously each lone-actor terrorist can experience more 
+than one coded behavior within each indicator, so the figures in Table 1 are not a 
+sum of the coded behaviors.   The prevalence percentage, instead, represents the 
+number of lone actor terrorists who had at least one or more coded behavior 
+assigned to each of the TRAP-18 indicators. 
+ 
+Table 1: Prevalence of TRAP 18 Indicators Across 111 Lone Actor Terrorists 
+Indicator Prevalence 
+Personal Grievance & Moral Outrage 78% 
+Framed by an Ideology 100% 
+Failure to Affiliate with an Extremist Group 29% 
+Dependence on the Virtual Community 49% 
+Thwarting of Occupational Goals 55% 
+Changes in Thinking & Emotion 88% 
+Failure of Sexual-Intimate Pair Bonding 84% 
+ Mental Disorder 41% 
+Creativity & Innovation 29% 
+Criminal Violence by History 30% 
+Pathway Warning Behavior 80% 
+Fixation  77% 
+
+ 18 
+Identification 77% 
+Novel Aggression 17% 
+Energy Burst 8% 
+Leakage 85% 
+Last Resort 28% 
+Directly Communicated Threat 22% 
+ 
+We then examined the degree to which each lone actor experienced each TRAP-18 
+indicator. One individual displayed 16 of the 18 indicators, one scored 15 out of 18, 
+five  scored 14 out of 18,  another 5 scored 13 out of 18, eleven scored 12 out of 18, 
+18 scored 1 1 out of 18, 25 displayed 10 indicators, 12 displayed half of the 
+indicators .  In sum, 70% of the 111 lone actors demonstrated at  least  half the 
+TRAP-18 indicators. 
+ 
+Across ideologies, there was no difference in terms of the prevalence of indicators 
+on display with each averaging between 9.5 and 9.9. However, there were four 
+(p<.05) significant differences in terms of which indicators each ideology was likely 
+to display: personal grievance and moral outrage, dependence on the virtual 
+community, thwarting of occupational goals, and fixation.  The results are displayed 
+in Table 2. Islamic extremist lone-actors were significantly more likely to display 
+dependence on the virtual community than the single-issue terrorists.    Extreme 
+right-wing lone actors were significantly less likely to display personal grievance 
+and moral outrage, thwarting of occupational goals, and fixation warning behaviors 
+than either the Islamic extremists or the single-issue terrorists. Single-issue lone 
+actors were significantly less likely to display dependence on virtual communities 
+than the Islamic extremists. There were no significant differences in the other 
+proximal warning behaviors and distal characteristics. 
+ 
+Table 2: Prevalence of TRAP 18 Indicators Across Ideologies 
+Indicators Islamic Extreme Single- Prevalence 
+
+ 19 
+Extremist 
+(n=38) 
+Right-
+Wing(n=43) 
+Issue 
+(n=30) 
+Overall 
+(N=111) 
+Personal Grievance & 
+Moral Outrage 
+84% 67%* 87% 78% 
+Framed by an Ideology 100% 100% 100% 100% 
+Failure to Affiliate with an 
+Extremist Group 
+18% 33% 37% 29% 
+Dependence on the 
+Virtual Community 
+63%* 51% 26%** 49% 
+Thwarting of 
+Occupational Goals 
+66% 42%* 60% 55% 
+Changes in Thinking & 
+Emotion 
+92% 84% 90% 88% 
+Failure of Sexual-Intimate 
+Pair Bonding 
+87% 86% 77% 84% 
+Mental Disorder 32% 40% 53% 41% 
+Creativity & Innovation 29% 28% 30% 29% 
+Criminal Violence by 
+history 
+29% 33% 27% 30% 
+Pathway Warning 
+Behavior 
+76% 81% 83% 80% 
+Fixation  84% 65%* 83% 77% 
+Identification 68% 86% 73% 77% 
+Novel Aggression 13% 19% 20% 17% 
+Energy Burst 8% 9% 7% 8% 
+
+ 20 
+Leakage 79% 88% 87% 85% 
+Last Resort 32% 26% 27% 28% 
+Directly Communicated 
+Threat 
+21% 16% 30% 22% 
+ * = p = < .05, ** = p = < .01, *** = p = < .001 
+ 
+ 
+The successful vs. thwarted attackers are represented in Table 3.  Those who 
+successfully carried out an attack were significantly more likely to display the 
+following distal characteristics a) failure of sexual-intimate pair bonding (p=.002, 
+phi = .293) (b) creativity and innovation (p=.045, phi=.190) and (c) fixation warning 
+behavior (p=.032, phi=.204). Those who were thwarted in their attack plans were 
+significantly more likely to display dependence on the virtual community (p=.0008, 
+phi=.317) and pathway warning behavior (p=.005, phi=.264). All these effect sizes 
+were small to medium. 
+ 
+Table 3: Comparison of TRAP-18 variables between successful and thwarted 
+attackers 
+Characteristic Attack 
+Carried Out 
+(n=67) 
+Attack 
+Thwarted 
+(n=44) 
+Prevalence 
+Overall 
+(N=111) 
+Personal Grievance & 
+Moral Outrage 
+82% 73% 78% 
+Framed by an Ideology 100% 100% 100% 
+Failure to Affiliate with 
+an Extremist Group 
+27% 32% 29% 
+Dependence on the 
+Virtual Community 
+36% 68%**** 49% 
+Thwarting of 
+Occupational Goals 
+57% 52% 55% 
+
+ 21 
+Changes in Thinking & 
+Emotion 
+93% 82% 88% 
+Failure of Sexual-
+Intimate Pair Bonding 
+93%** 71% 84% 
+Mental Disorder 45% 34% 41% 
+Creativity & Innovation 36%* 18% 29% 
+Criminal Violence by 
+history 
+35% 23% 30% 
+Pathway Warning 
+Behavior 
+72% 93%**** 80% 
+Fixation  84%* 66% 77% 
+Identification 72% 84% 77% 
+Novel Aggression 18% 16% 17% 
+Energy Burst 8% 9% 8% 
+Leakage 90% 77% 85% 
+Last Resort 34% 18% 28% 
+Directly 
+Communicated Threat 
+20% 23% 22% 
+* = p = .045, ** = p = .032, *** = p = .002 ****p=.005, *****p=.0008 
+     
+Discussion 
+ 
+ 
+The TRAP-18 combines 8 proximal warning behaviors with 10 distal characteristics 
+of lone actor terrorists (Meloy et al., 2011; Meloy & Yakeley, 2012).  Some of these 
+definitions have been slightly modified from the original publications as noted to 
+
+ 22 
+provide clarity and efficiency in coding for operational use The purpose of 
+separating proximal and distal characteristics is to draw the distinction between 
+watching and warning (Monahan and Steadman, 1996).  We think the presence of 
+distal characteristics compel active monitoring (the watching).  The presence of 
+proximal warning behaviors compel active risk management (the warning).  
+However, even though a temporal difference between the proximal warning 
+behaviors and the distal characteristics makes logical sense, eg, the late stages of 
+pathway behavior would follow personal grievance and moral outrage, this needs to 
+be empirically tested.  Likewise, within the proximal warning behaviors, the time 
+frame attached to novel aggression (“days, weeks or hours before the attack”) is a 
+formulation from our experience, not empirical testing. 
+ 
+In this study we viewed a large open source database of lone actor terrorists in the 
+United States and Europe (N=111) derived from another study (Gill, 2015) through 
+the lens of the TRAP-18.  Our purpose was to test its criterion validity from several 
+perspectives.  This sample spanned a 25 year period (1990-2014), and was further 
+divided according to ideological motivation (radical Islamism, right wing extremism, 
+and single issue extremism) and whether the terrorist act was thwarted or 
+successful. 
+ 
+Seventy percent of the subjects were positive on at least half the TRAP-18 
+indicators.  Seventy-seven percent or more evidenced four proximal warning 
+behaviors: pathway, fixation, identification, and leakage.  These elevations are 
+consistent with other domains of targeted violence, such as public figure attackers 
+and school attackers (Hoffmann et al., 2011; Meloy et al., 2014a, 2014b, 2015).    
+ 
+Pathway, fixation, and identification—in this study occurring in 80%, 77%, and 77% 
+of the subjects, respectively--, have emerged as three very robust proximal warning 
+behaviors when retrospectively analyzed in various domains of subjects who have 
+carried out acts of targeted violence.  Hoffmann et al (2011) found in a small sample 
+of nonterrorist attackers of public figures in Germany a frequency of 100% for both 
+
+ 23 
+pathway and fixation, and 57% for identification.  Meloy et al. (2014a) found a 
+similar frequency—94%, 78%, and 56%--for US Presidential and political attackers 
+and assassins.  In a small sample of German school shooters, all three warning 
+behaviors occurred at a frequency of 100%, but more importantly, discriminated 
+them with large effect sizes from other students of concern who had no intent to be 
+violent—along with novel aggression and last resort (Meloy et al., 2014b).  Novel 
+aggression and last resort in this study were coded in a small minority of cases, 
+unlike other studies, which may be a real finding, or due to the lack of goodness of fit 
+between the coded variables and these two warning behaviors.  Leakage occurred in 
+85% of this sample of lone actor terrorists, and is ubiquitous across virtually all 
+domains of targeted violent events which have been studied (Fein & Vossekuil, 
+1999; Meloy et al., 2014a; O’Toole, 2000; Vossekuil et al., 2002), even though the 
+definition used in our studies is more narrow than when it was originally construed 
+(O’Toole, 2000; Meloy & O’Toole, 2011).  However, it appears to not have the 
+discriminatory power of pathway, fixation, and identification.  From a practical 
+threat assessment perspective, this means that leakage, given its frequency, will 
+often be a point of entry for the threat assessor in a case, but he or she needs to look 
+for other warning behaviors to determine whether the case warrants more 
+aggressive risk management.   Directly communicated threats, once again, are 
+infrequent, and occurred in only 22% of the lone actor terrorist cases.  This finding, 
+however, is very similar to other research over the past twenty-five years, beginning 
+with Dietz and Martell (1989), Fein and Vossekuil (1999), and Hempel et al. (1999) 
+who found that most targeted violence subjects do not warn their targets 
+beforehand, an obvious tactical maneuver which enhances their probability of 
+success.  Although this fact is widely known among threat assessors, there is still the 
+wrong assumption among many law enforcement personnel that if there is no 
+directly communicated threat, there is no risk of violence.  Direct threats are most 
+useful, common and predictive of violence in domestic cases (Campbell et al., 2003). 
+ 
+Seventy-eight percent or more of the subjects evidenced four distal characteristics: 
+personal grievance and moral outrage, framed by an ideology, changes in thinking 
+
+ 24 
+and emotion, and failure of sexual pair bonding.  Four out of ten had a mental 
+disorder.   These findings support the work of other researchers, including Monahan 
+(2012) and Spaaj (2012). 
+ 
+Both the warning behaviors and distal characteristics were originally derived 
+through a rational-theoretical approach to the extant literature, and were not 
+specifically focused upon any one ideology; this study empirically supports the 
+general usefulness of the TRAP-18 since there were only four significant differences 
+among the three ideological samples: personal grievance and moral outrage, 
+dependence on the virtual community, thwarting of occupational goals, and fixation.  
+This suggests that the TRAP-18 can be utilized in the investigation of a subject of 
+concern regardless of ideology, and supports the utility of the instrument across 
+various operational efforts to interdict lone actor terrorists with different 
+ideological motivations.  This contrasts with the inherent limitations of other 
+investigative methods which focus only upon jihahists (Office of the Director of 
+National Intelligence, 2011).  This TRAP analysis across ideologies is striking given 
+the Gill (2015) finding of major significant differences in individual characteristics 
+and antecedent event behaviors across the three ideologies in the same sample.  Gill 
+(2015) recommended in future studies the use of multi-dimensional scaling 
+techniques: this is a much more sophisticated analysis wherein variables that 
+regularly co-occur are plotted closer together in Euclidean space.  
+ 
+Comparison of successful and thwarted attackers utilizing the TRAP-18 was an 
+attempt to measure the difference between those subjects who attacked and those 
+who were interdicted before the attack, another aspect of criterion validity called 
+postdictive validity.    A better measure of postdictive validity would be to compare 
+this entire sample to other subjects of concern, but upon investigation had no intent 
+to attack.  Unfortunately, such a comparison sample was not available at the time of 
+this study, and awaits further testing.  Nevertheless, our findings have specific 
+operational utility.  The TRAP-18 was able to discriminate among those lone actor 
+terrorists who were successful in their attacks from those who were thwarted based 
+
+ 25 
+upon five variables:  the successful attackers were more likely to be fixated, creative 
+and innovative, and had a history of failures in sexually intimate pair bonding; and 
+were less likely to evidence the final stages of pathway behavior and be dependent 
+upon a virtual community.  These findings make both theoretical and practical 
+sense.  Less evidence of pathway behavior would suggest less observation by others, 
+either third parties or law enforcement.  This could have many determinants, 
+including deliberate secrecy, luck, or inadequate intelligence gathering.  Fixation as 
+the second proximal warning behavior which discriminated suggests that a subject’s 
+preoccupation with his cause, despite deterioration in work and love, will advance 
+his plan. Such preoccupation may have a variety of determinants, ranging from an 
+obsessional disorder, delusion, or anger, to boredom or disciplined resolve.  This 
+finding is also consistent with a study of nonterrorist attackers of western European 
+politicians which found that fixation was strongly correlated with being a loner and 
+lethality risk toward the target (James, Mullen, Meloy, Pathe, Preston, Farnham & 
+Darnley, 2007).  Fixation also suggests an intensity of pursuit in a larger stalking 
+context (Meloy & Hoffmann, 2014; Mullen, James, Meloy et al., 2008).  A history of 
+failures of sexually intimate pair bonding, a distal characteristic, would likely 
+contribute to the subject’s aloneness (Borum, 2014), and therefore lower the risk of 
+others becoming aware of his activities (Gill, 2015).  In the more general criminal 
+literature, a positive attachment is also associated with a decreased risk of criminal 
+violence (Cassidy & Shaver, 1999). Creativity and innovation, a distal characteristic 
+that is related to success of an attack, supports the phenomenological position that 
+the unknown unknowns are the most dangerous facts within a risk assessment for 
+targeted violence.  If defenders cannot or do not think outside the box, they will 
+remain one step behind the lone actor terrorist. 
+ 
+The other distal characteristic which was more prevalent among the thwarted than 
+the successful attackers was dependence on the virtual community.  This makes 
+common sense since communication and interaction via the internet, especially 
+through the proliferating social media technologies, increases the risk that someone 
+privy to such chatter will convey their concern to the authorities responsible for the 
+
+ 26 
+public safety.  Although overall leakage was very frequent (90% v. 77%) in both 
+groups, it appears that the illusion of privacy—or the impunity of grandiosity--on 
+the internet is one of the most common vulnerabilities of the lone actor terrorist, 
+and strongly correlates with failure (p=.0008, phi=.317).  In fact, this variable had 
+the largest effect size among the five—although all effect sizes (the strength of the 
+difference) were small to medium.  Gill (2015) has analyzed the reasons for virtual 
+interaction: reinforcement of beliefs, seeking legitimization for their actions, 
+disseminating propaganda, recruitment, and signaling the attack.  Virtual learning 
+includes accessing ideological content, opting for violence, choosing a target, attack 
+preparation, and overcoming hurdles.  Bergen (2016) found in his sample of 330 
+people in the US charged with some type of terrorist crime since 9/11, that 40% 
+maintained a presence on the Internet or used it for operational purposes.  
+However, there is a risk to these rewards, as our data suggest.   
+ 
+Dependence on the internet has also changed dramatically over the 25 year period 
+of this study’s lone actor terrorists, from its complete absence in 1990 through the 
+remarkable acceleration in use of social media between 2005-2014.  Change over 
+time is not accounted for in our analysis, and there is a likely trend in a decrease in 
+the failure to affiliate with an actual group and an increase in dependence on the 
+virtual community—a sea change from affiliation to inspiration as the motivation to 
+act, in some cases the result of what Meloy (2016) has called “cajoling” through 
+social media.  This awaits further study.   
+ 
+These thwarted vs successful attack differences, however, should be treated with 
+caution.  The TRAP indicators which discriminated may be a product of unknown 
+artifacts, such as aspects of the investigation, pre-emptive policing, tips, luck, the 
+year of the interdiction, ideological contributions, and the specific countries in 
+which these different cases occurred.  There are a multitude of unknown factors 
+which may have influenced group placement as either thwarted or successful and 
+may be unrelated to the five identified TRAP indicators.  
+ 
+
+ 27 
+Limitations 
+ 
+This known group outcome study has some limitations: all data were open source 
+and retrospective, with the possibility of both hindsight bias and observational bias 
+affecting the results.   There were also noted discrepancies between the definitions 
+of the 18 variables and the data from the codebook (Gill, 2015) utilized to determine 
+presence or absence of the variables.  For example, leakage is a communication to a 
+third party of intent to attack a target (Meloy & O’Toole, 2011), but the questions 
+from the codebook provided a broader array of data for “leakage” which may have 
+inflated the frequency of this particular variable. It was decided to err on the side of 
+behavioral inclusion.  Also, there is one dependent variable, “framed by ideology,” 
+which is contaminated by the independent variable that we utilized to define 
+terrorist subjects for the study, “…advancing a political, religious, or ideological 
+cause.”  Although these variables are not exactly the same, their equivalence likely 
+inflated the findings concerning the distal characteristic of “framed by ideology.” 
+ 
+Although the results support some aspects of criterion validity of the TRAP-18— its 
+usefulness across ideologically different terrorists, and some postdictive validity 
+when comparing successful and thwarted attackers, the authors--who did the 
+mapping of the TRAP indicators onto the variables in the codebook--were not blind 
+to group membership, and there was no independent determination of interrater 
+reliability, only careful discussion and consensus.  This is a weakness of the study.  
+However, a previous study of a small sample of European individual terrorists 
+utilizing the TRAP found an overall kappa of 0.895 for interrater reliability with two 
+independent raters (Meloy, Roshdi, Glaz-Ocik & Hoffmann, 2015).  Finally, 
+confirmatory bias may be present in this study given the desire of the first author to 
+empirically buttress the TRAP-18.  Further research is necessary by independent 
+groups with independent samples to see if the TRAP-18 withstands further scrutiny, 
+including larger samples and known outcome (postdictive) designs. 
+ 
+
+ 28 
+Practical Applications 
+ 
+The TRAP-18 appears to have utility as an investigative template and organizing 
+tool to help counterterrorism threat assessors prioritize cases for monitoring or risk 
+management.  Based upon the work of Monahan and Steadman (1996), we 
+recommend that a case of concern be first investigated for any evidence of proximal 
+warning behaviors.  Any one behavior would strongly suggest active risk 
+management, a result of what meteorologists consider a Warning.  In the absence of 
+any proximal warning behaviors, the case would be investigated for distal 
+characteristics.  The presence of such characteristics—at this point we do not 
+quantify how many—would warrant active monitoring of the case, what 
+meteorologists would consider the result of a Watch.  Other structured professional 
+judgment instruments which have been proposed, such as the VERA, the ERG 22+, 
+and the MLG become additional sources to help organize data from a case.  Multi-
+method assessments work best.  Throughout such intelligence analysis, however, it 
+is critical to recognize that insufficient investigation does not mean the absence of 
+an indicator.  Investigation must be as thorough as possible to render such an 
+opinion and rule out any one of the TRAP-18 indicators. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+References: 
+ 
+Bergen, P. (2016).  The United States of jihad.  New York: Crown Publishers. 
+ 
+Borum R. (2014).  Psychological vulnerabilities and propensities for involvement in 
+violent extremism.  Behavioral Sciences and the Law, DOI: 10.1002/bsl.2110. 
+ 
+Borum, R. (2015).  Assessing risk for terrorism involvement.  J Threat Assessment 
+and Management, 2, 63-87. 
+ 
+
+ 30 
+Borum, R., Fein, R. & Vossekuil, B. (2012). A dimensional approach to analyzing lone 
+offender terrorism. Aggression and Violent Behavior, 17, 389-396.  
+ 
+Brewer, M. (2000).  Research design and issues of validity.  In H. Reis, C. Judd, eds., 
+Handbook of Research Methods in Social and Personality Psychology.  Cambridge: 
+Cambridge Univ. Press. 
+ 
+Brynielsson, J., Horndahl, A., Johansson, F., Kaati, L., Martenson, C. & Sevenson, P. 
+(2013). Harvesting and analysis of weak signals for detecting lone wolf terrorists.  
+Security Informatics, 2, 1-15. 
+ 
+Calhoun, T. & Weston, S. (2003). Contemporary Threat Management. San Diego, CA: 
+Specialized Training Services.  
+ 
+Campbell, J., Webster, D., Kosiol-McLain, J., Block, C., Campbell, D., Curry, M., Faye, 
+G…..Laughon, K. (2003).  Risk factors for femicide in abusive relationships: Results 
+from a multi-site case control study.  Am J Public Health, 93, 1089-1097. 
+ 
+Cassidy, J. & Shaver, P., eds. (1999).  Handbook of attachment.  New York: Guilford. 
+ 
+Cohen, J. (1988).  Statistical power analysis for the behavioral sciences.  Mahway, NJ: 
+Lawrence Erlbaum. 
+ 
+Cohen, K., Johansson, F., Kaati, L. & Mork, J. (2014). Detecting linguistic markers for 
+radical violence in social media.  Terrorism and Political Violence  26, 246-256. 
+ 
+Cook, A., Hart, S. & Kropp, R. (2013).  Multi-Level Guidelines for the Assessment and 
+Management of Group-Based Violence.  Burnaby, Canada: Mental Health, Law, and 
+Policy Institute, Simon Fraser University. 
+ 
+ 
+
+ 31 
+Corner, E. & Gill, P. (2014). A false dichotomy? Mental illness and lone actor 
+terrorism.  Law and Human Behavior, DOI: 10.1037/lhb0000102. 
+ 
+Corner, E., Gill, P. & Mason, O. (2016).  Mental health disorders and 
+the terrorist: A research note probing selection effects and disorder prevalence, 
+Studies in Conflict & Terrorism, DOI: 10.1080/1057610X.2015.1120099 
+ 
+ 
+Dietz, P.E. (1986). Mass, serial and sensatinal homicides. Bull N Y Acad Medicine, 62, 
+477-491.  
+ 
+Dietz, P. & Martell, D. (1989).  Mentally disordered offenders in pursuit of celebrities 
+and politicians.  Washington, DC: National Institute of Justice. 
+ 
+Douglas, K. & Skeem, J. (2005).  Violence risk assessment: getting specific about 
+being dynamic.  Psychology, Public Policy & the Law, 11, 347-383. 
+ 
+Douglas, K., Hart, S., Webster, C. & Belfrage, H. (2013). The HCR-20 V3.  Assessing risk 
+for violence user guide.  Burnaby: Mental Health, Law, and Policy Institute, Simon 
+Fraser University. 
+ 
+Fein, R., Vossekuil, B. & Holden. G. (1995). Threat assessment: An approach to prevent 
+targeted violence (NCJ 155000).  Washington, DC: U.S. Dept. Of Justice, Office of 
+Justice Programs, National Institute of Justice. 
+ 
+Fein, R. & Vossekuil, B. (1998). Protective intelligence and threat assessment 
+investigations: A guide for state and local law enforcement officials. Washington, DC: 
+National Institute of Justice.  
+ 
+Fein, R. & Vossekuil, B (1999). Assassination in the United States: An operational 
+study of recent assassins.  J Forensic Sciences 44, 321-333. 
+ 
+
+ 32 
+ 
+Gill, P. (2015).  Lone actor terrorists: A behavioural analysis.  New York: Routledge. 
+ 
+Gill, P., Horgan, J., Hunter, S., Cushenbery, L. (2013). Malevolent creativity in 
+terrorist organizations.  J Creative Behavior, 47, 125-151. 
+ 
+Gill, P., Horgan, J. & Deckert, P. (2013).  Bombing alone: tracing the motivations and 
+antecedent behaviors of lone actor terrorists.  J Forensic Sciences, 10.1111/1556-
+4029.12312. 
+ 
+Gray, N., Snowden, R. & MacCulloch, S. (2004). Relative efficacy of criminological, 
+clinical, and personality measures of future risk of offending in mentally disordered 
+offenders: A comparative study of HCR-20, PCL:SDV, and OGRS.  J Consulting Clinical 
+Psychology, 72, 523-530. 
+ 
+Gruenewald, J., Chermak, S. & Freilich, J. (2013).  Distinguishing „loner“ attacks from 
+other domestic extremist violence.  Criminology & Public Policy, 12, 65-91. 
+ 
+Guldimann, A., Hoffmann J., Meloy, J.R. (2013). Eine Einführung in die 
+Warnverhalten Typologie. In: J. Hoffmann & K. Roshdi (ed). Bedrohungsmanagement 
+– Projekte und Erfahrungen aus der Schweiz. Frankfurt/Main: Verlag für 
+Polizeiwissenschaft.  
+ 
+ 
+Hamm, M. & Spaaj, R. (2015).  Lone wolf  terrorism in America: Using knowledge of 
+radical pathways to forge prevention strategies.  NCJRS Grant Report 2012-ZA-BX-
+001. Document 248691. 
+ 
+Harris, G., Rice, M., Quinsey, V. & Cormier, C. (2015).  Violent offenders: appraising 
+and managing risk, 3rd edition.  Washington: Am Psychological Assoc. 
+ 
+
+ 33 
+Hempel, A., Meloy, J.R. & Richards, T. (1999). Offender and offense characteristics of 
+a nonrandom sample of mass murderers. J Am Acad of Psychiatry and the Law, 27, 
+213-225. 
+ 
+Hoffmann, J., Meloy, J.R., Guldimann, A. & Ermer, A. (2011). Attacks on German 
+public figures, 1968-2004: Warning behaviors, potentially lethal and nonlethal acts, 
+psychiatric status, and motivations. Behavioral Sciences and the Law, 29, 155-179. 
+ 
+Horgan, J. (2005).  The psychology of terrorism.  London: Routledge. 
+ 
+Horgan, J. (2008).  From profiles to pathways and roots to routes: Perspectives from 
+psychology on radicalization into terrorism.  The Annals of the Am Acad Political and 
+Social Science, 618, 80-94. 
+ 
+ 
+ 
+James, D., Mullen, P., Meloy, J.R., Pathe, M., Farnham, F., Preston, L. & Darnley, B. 
+(2007).  The role of mental disorder in attacks on European politicians, 1990-2004.  
+Acta Psychiatrica Scandinavica, 116, 334-344. 
+ 
+ 
+Koffka (1921). Die grundlagen der psychischen entwicklung. Osterwieck am Harz, 
+Germany: A.W. Zickfeldt. 
+ 
+Knoll, J. (2010). The “pseudocommando“ mass murderer: Part I, the psychology of 
+revenge and obliteration. J Am Acad of Psychiatry and the Law, 38, 87-94. 
+ 
+Kohler (1929).  Gestalt psychology.  New York: Liveright. 
+ 
+
+ 34 
+Kroner, D., Mills, J., & Reddon, J. (2005). A coffee can, factor analysis, and prediction of 
+antisocial behavior: The structure of criminal risk. International Journal of Law & 
+Psychiatry, 28, 360-374. doi: 10.1016/j.ijlp.2004.01.011 
+ 
+Landis, J.R., & Koch, G.G. (1977). The measurement of observer agreement for 
+categorial data. Biometrics, 22, 159-174.  
+ 
+Lloyd, M. & Dean, C. (2015). The development of structured guidelines for assessing 
+risk in extremist offenders. J Threat Assessment and Management, 2, 40-52.  
+ 
+Matsumoto, D., Frank, M. & Hwang, H, (2015). The role of intergroup emotions in 
+politicial violence.  Current Directions in Psychological Science, 24, 369-373. 
+ 
+McNiel, D., Gregory, A. & Lam, J. (2003).  Utility of decision support tools for 
+assessing acute risk of violence.  J Consulting Clinical Psychology, 71, 945-953. 
+ 
+Meloy, J.R. (1988). Violent and homicidal behavior in primitive mental states.  J Am 
+Acad of Psychoanalysis, 16(3), 381-394. 
+ 
+Meloy, J.R. (2004).  Indirect personality assessment of the violent true believer.  J 
+Personality Assessment, 82, 138-146 
+ 
+ 
+ 
+Meloy, JR (2006). Empirical validation and forensic application of affective and 
+predatory violence.  Aust and NZ J Psychiatry. 
+ 
+Meloy, J.R. (2011).  Violent true believers.  FBI Law Enforcement Bulletin, July, 24-32. 
+ 
+
+ 35 
+Meloy, JR. (2011).  Approaching and attacking public figures: a contemporary 
+analysis of communications and behavior.  In C. Chauvin, ed., Threatening 
+Communications and Behavior: perspectives on the pursuit of public figures.  Board on 
+Behavioral, Cognitive, and Sensory Sciences, Division of Behavioral and Social 
+Sciences and Education.  Washington, DC: The National Academies Press, pp. 75-
+101.
+  
+ 
+Meloy, J.R. (2016).  Mass murder trending.  Forensic Files, Psychology Today.  
+Accessed at 
+www.psychologytoday.com/blog/the-forensic-files/201512/mass-
+murder-trending
+ 
+ 
+Meloy, J.R. (in press).  A method to investigate the individual terrorist.  FBI Law 
+Enforcement Bulletin. 
+ 
+Meloy, J.R. & Hoffmann, J. , eds. (2014).  International Handbook of Threat 
+Assessment.  New York: Oxford Univ. Press. 
+ 
+Meloy, J.R., Hoffmann, J., Guldimann, A. & James, D. (2012). The role of warning 
+behaviors in threat assessment: An exploration and suggested typology. Behavioral 
+Sciences and the Law, 30, 256-279. 
+ 
+Meloy, J.R., Hoffmann, J. Roshdi, K. Glaz-Ocik, J. & Guldimann, A. (2014a). Warning 
+behaviors and their configurations across various domains of targeted violence. In: 
+J.R. Meloy & J. Hoffmann (eds.) International Handbook of Threat Assessment. New 
+York: Oxford University Press. 
+ 
+
+ 36 
+Meloy, J.R., Hoffmann, J., Roshdi, K., Glaz-Ocik, J. & Guldimann, A. (2014b).  Some 
+warning behaviors discriminate between school shooters and other students of 
+concern.  J Threat Assessment and Management, 1, 203-211. 
+ 
+Meloy, J.R. & O´Toole, M. E. (2011). The concept of leakage in threat assessment. 
+Behavioral Sciences and the Law, 29, 513-527. 
+ 
+Meloy, J.R., Roshdi, K., Glaz-Ocik, J. & Hoffmann, J. (2015).  Investigating the 
+individual terrorist in Europe.  J Threat Assess and Management, __________ 
+ 
+Meloy, J.R. & Yakeley, J. (2014). The violent true believer as a „lone wolf“ – 
+psychoanalytic perspectives on terrorism. Behavioral Sciences and the Law, 32, 347-
+365. 
+ 
+Meloy, J.R., Mohandie, K., Knoll, J. & Hoffmann J. (2015).  The concept of 
+identification in threat assessment.  Beh Sciences and the Law, 33, 
+ 
+ 
+Mohandie, K. & Duffy, J. (1999). First responder and negotiation guidelines with the 
+paranoid schizophrenic subject. FBI Law Enforcement Bulletin, December, 8-16. 
+ 
+Monahan, J. (2012).  The individual risk assessment of terrorism.  Psychology, Public 
+Policy & the Law, 18, 167-205. 
+ 
+Monahan, J. (2016).  The individual risk assessment of terrorism: recent 
+developments.  In G. LaFree & J. Freilich, eds., The handbook of the criminology of 
+terrorism.  Hoboken, NJ: John Wiley and Sons. 
+ 
+Monahan, J. & Steadman, H. (1996).  Violent storms and violent people: How 
+meteorology can inform risk communication in mental health law.  Am Psychologist, 
+51, 931-38. 
+
+ 37 
+ 
+ 
+Monahan, J. et al. (2001).  Rethinking risk assessment.  New York: Oxford Univ. Press. 
+ 
+Mullen, P., James, D., Meloy, J.R., Pathé, M., Farnham, F., Preston, L., Darnley, B. & 
+Berman, J. (2009). The fixated and the pursuit of public figures. J Forensic Psychiarty 
+and Psychology, 20, 33-47. 
+ 
+New America Foundation (2016).  Accessed  on February 17, 2016 at 
+http://securitydata.newamerica.net/extremists/deadly-attacks.html 
+ 
+Nicholls, T., Brink, J., Desmarais, S., Webster, C. & Martin, M. (2006).  The Short-Term 
+Assessment of Risk and Treatability (START): A prospective validation study in a 
+forensic psychiatric sample.  Assessment, 13, 313-327. 
+ 
+Odgers, C.L., Edward P., Mulvey, E.P., Skeem, J.L., Gardner, W., Lidz, C.W. & Schubert, 
+C. (2009). Capturing the ebb and flow of psychiatric symptoms with dynamical 
+systems models. Am J of Psychiatry, 166, 575-582. 
+ 
+Office of the Director of National Intelligence, National Counterterrorism Center, 
+Behavioral Indicators Offer Insights for Spotting Extremists Mobilizing for Violence, 
+July 22, 2011, accessed January 8, 2016, https://info.publicintelligence.net/NCTC-
+SpottingHVEs.pdf.   
+ 
+O’Toole, M. (2000).  The school shooter: a threat assessment perspective.  Quantico, 
+VA: Critical Incident Response Group, FBI Academy, National Center for the Analysis 
+of Violent Crime. 
+ 
+Paul, C.K. (1905).  The thoughts of Blaise Pascal.  Trans. M.A. Molinier.   London: 
+George Bell and Sons. 
+ 
+Post, J. (2007).  The mind of the terrorist.  New York: Palgrave MacMillan. 
+ 
+
+ 38 
+Pressman, E. (2009).  Risk Assessment Decisions for Violent Political Extremism 2009-
+2012.  Ottawa: Her Majesty the Queen in Right of Canada.  ISBN 978-1-100-13956-2. 
+ 
+ 
+ 
+Puckitt, K. (2001).  The lone terrorist: the search for connection and its relationship to 
+societal-level violence.  Counterterrorism Division, FBI. 
+ 
+ 
+Sageman, M. (2008).  Leaderless jihad.  Philadelphia: Univ. of Pennsylvania Press. 
+ 
+Siegel, A. & Victoroff, J.  (2009).  Understanding human aggression: new insights 
+from neuroscience.  Int J Law Psychiatry, 32, 209-215. 
+ 
+Simon, J. D. (2013). Lone wolf Terrorism. Understanding the Growing Threat. 
+Amherst, NY: Prometheus Books.  
+ 
+Skeem, J. & Mulvey, E. (2001).  Psychopathy and community violence among civil 
+psychiatric patients: results from the MacArthur Violence Risk Assessment Study.  J 
+Consulting Clinical Psychology, 69, 358-374. 
+ 
+Spaaij, R. (2012). Understanding Lone Wolf TerrorismLondon: Springer. 
+ 
+van der Heide, L. (2011). Individual terrorism: indicators of lone operators.  Master 
+thesis.  University of Utrecht, 3042405. 
+ 
+Viding, E. & Frith,  (2006).  Genes for susceptibility for violence lurk in the brain.  
+Proceedings of the National Academy of Sciences, 103, 6085-6086. 
+ 
+Vossekuil, B., Fein, R., Reddy, M., Borum, R. & Modzeleski, W. (2002).  The final report 
+and findings of the Safe School Initiative: Implications for the prevention of school 
+
+ 39 
+attacks in the United States.  Washington, DC: U.S. Dept of Education and U.S. Secret 
+Service. 
+ 
+Weenink, A. (2015). Behavioral problems and disorders among radicals in police 
+files. Perspectives on Terrorism, 9, 17-33. 
+ 
+Wertheimer, W. (1938). Gestalt theory: A sourcebook of gestalt psychology. London: 
+K. Paul, Trench, Trubner & Co. 
+ 
+World Health Organization (2013).  International statistical classification of diseases 
+and related health problems. 10th Revision.  Geneva, Switzerland: author. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

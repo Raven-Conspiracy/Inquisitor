@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: South Sea Fleet Submarine Flotilla (ELITE / first-tier)
+
+**Unit ID**: ssf_subflot
+**Type**: submarine_flotilla
+**Headquarters**: Yulin Naval Base, Sanya
+**Parent**: Group Army / Fleet / Base: Southern Theater Command Fleet (South Sea Fleet, 南部战区海军) (ssf_plan)
+**Higher echelon**: Southern Theater Command (南部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: Yulin (Longpo) base at Hainan. Houses Type 094 SSBN and Type 093/093A SSN. Underground submarine facility. Critical for SSBN deterrence patrols into South Pacific. [DOD CMPR 2024 p.55] [Wikipedia PLAN] [USNWC CMSI submarine forces report]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

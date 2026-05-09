@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: Sepah-e Vali-ye Asr (Khuzestan Provincial Corps)
+
+**Unit ID**: irgcgf_khuz_corp
+**Type**: light_cab
+**Headquarters**: Ahvaz, Khuzestan
+**Parent**: Region / Provincial Corps / Base: Karbala Operational HQ (South) (irgcgf_karbala_hq)
+**Higher echelon**: IRGC Ground Forces (IRGCGF)
+**Elite designation**: No
+**Strength (% authorized)**: 80%
+**Notes**: Commander: Hassan Shahvarpour. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,25 @@
+# Chinese PLA — Group Army / Fleet / Base: 71st Group Army (第七十一集团军)
+
+**Unit ID**: 71ga
+**Service**: PLAA
+**Type**: group_army
+**Headquarters**: Xuzhou
+**Parent**: Eastern Theater Command (东部战区) (etc)
+**Strength (% authorized)**: 100%
+**Notes**: Formerly 12th Group Army (Nanjing MR); redesignated Apr 2017. Primary armored force for ETC; 4 heavy CABs. [DOD CMPR 2024 p.97] [Wikipedia 71st GA] [US Army SSI 2024]
+
+## Subordinate Brigade / Division / Flotillas
+- **2nd Heavy Combined Arms Brigade** (elite) (71ga_2cab) — type: heavy_combined_arms_bde, HQ: Xuzhou area, strength: 100%. Type 99A MBTs, ZBD-04A IFVs. First-tier (一类) heavy armored unit. [Wikipedia 71st GA] [DOD CMPR 2024 p.97]
+- **35th Heavy Combined Arms Brigade** (elite) (71ga_35cab) — type: heavy_combined_arms_bde, HQ: Xuzhou area, strength: 100%. Type 99A MBTs, ZBD-04A IFVs. First-tier heavy armored unit. [Wikipedia 71st GA] [DOD CMPR 2024 p.97]
+- **160th Heavy Combined Arms Brigade** (elite) (71ga_160cab) — type: heavy_combined_arms_bde, HQ: Xuzhou area, strength: 100%. Type 99A MBTs. First-tier heavy armored unit. [Wikipedia 71st GA] [DOD CMPR 2024 p.97]
+- **178th Medium Combined Arms Brigade** (71ga_178cab) — type: medium_cab, HQ: Xuzhou area, strength: 100%. ZBL-08 wheeled IFVs, ZTL-11 assault guns. [Wikipedia 71st GA]
+- **179th Light Combined Arms Brigade** (71ga_179cab) — type: light_cab, HQ: Xuzhou area, strength: 100%. Light motorized infantry. [Wikipedia 71st GA]
+- **235th Heavy Combined Arms Brigade** (elite) (71ga_235cab) — type: heavy_combined_arms_bde, HQ: Hefei area, strength: 100%. First-tier heavy armored unit. [Wikipedia 71st GA] [DOD CMPR 2024 p.97]
+
+## Authorized Equipment (estimated)
+- **tank** — Type 99A, Type 96A — authorized: 250, estimated lost: 0
+- **ifv** — ZBD-04A, ZBD-86A — authorized: 300, estimated lost: 0
+- **artillery_sp** — PLZ-05A, PCH191 MLRS — authorized: 72, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

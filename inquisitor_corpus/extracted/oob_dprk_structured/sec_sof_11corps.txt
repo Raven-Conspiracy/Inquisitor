@@ -1,0 +1,21 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: 11th Storm Corps (XI Corps)
+
+**Unit ID**: sof_11corps
+**Service**: KPA SOF
+**Type**: sof_corps
+**Headquarters**: Tokchon, South Pyongan Province
+**Parent**: KPA Special Operations Forces (Teuksu Jjakjeon'gun) (sof)
+**Strength (% authorized)**: 88.0%
+**Notes**: ELITE. Successor to VIII Special Operations Corps; ~80,000 personnel. Commands strategic-level SOF brigades for 'second front' creation in ROK rear area. In 2016 western intelligence identified 25 brigades under the 11th Storm Corps. Includes light infantry, airborne, sniper, reconnaissance, and naval sniper brigades. [Wikipedia XI Corps NK; Grey Dynamics Oct 2024; FAS KPA Guide Part 3]
+
+## Subordinate Division / Brigade / Flotillas
+- **Light Infantry Brigade No. 1 (unidentified, 11th Storm Corps)** (elite) (sof_bde_li_1) — type: light_cab, HQ: Location unknown (approximate: near DMZ), strength: 85.0%. ELITE. Represents one of ~22 light infantry brigades; 8 assigned to Forward Corps, 14 to former VII SPC/11th Storm Corps per FAS. Each ~5,200 personnel. Mission: infiltrate 35-70km from FEBA, attack C3I/nuclear/airfield targets. Numbers 1-22 used as placeholders; actual designations not in open sources. [FAS KPA Guide Part 3; DIA NKMP 2021; Grey Dynamics Oct 2024]
+- **Light Infantry Brigade No. 2 (unidentified, 11th Storm Corps)** (elite) (sof_bde_li_2) — type: light_cab, HQ: Location unknown, strength: 85.0%. NAME/NUMBER UNKNOWN. Placeholder. [FAS KPA Guide Part 3; DIA NKMP 2021]
+- **3rd SOF Airborne Brigade (unidentified designation)** (elite) (sof_bde_airborne_3) — type: airborne, HQ: Location unknown, strength: 88.0%. ELITE. One of ~3 airborne brigades per Grey Dynamics 2024 and FAS. Conducted paratroop training observed by Kim Jong Un Mar 2024 (41st Amphibious Assault Bn marched Jul 2023 parade). SOF insertion via An-2 Colt / Mi-8. [Grey Dynamics Oct 2024; FAS KPA Guide Part 3; KPASOF Wikipedia]
+- **17th SOF Airborne Brigade (unidentified designation)** (elite) (sof_bde_airborne_17) — type: airborne, HQ: Location unknown, strength: 86.0%. ELITE. Second of ~3 airborne brigades. Task specification identifies '3rd, 17th SOF Air Bdes' as named designations — these numbers are from task instruction and have not been independently verified in open-source documents consulted. Treat with caution. [Task specification note; Grey Dynamics Oct 2024]
+- **Sniper/Reconnaissance Brigade No. 1 (General Sniper Brigade)** (elite) (sof_bde_sniper_1) — type: mountain, HQ: Location unknown, strength: 88.0%. ELITE. One of ~3 General Sniper Brigades per Grey Dynamics 2024. FAS notes these are 'elite of the nKPA SOF'; chain of command runs to Ministry of People's Armed Forces in peacetime, transfers to VII SPC/11th Corps in wartime. One brigade is reportedly all-female ('Peony Brigade'). [FAS KPA Guide Part 3; Grey Dynamics Oct 2024]
+- **Reconnaissance Brigade No. 1 (strategic reconnaissance)** (elite) (sof_bde_recon_1) — type: mountain, HQ: Location unknown, strength: 87.0%. ELITE. One of ~3 Reconnaissance Brigades per Grey Dynamics 2024. Operates behind enemy lines; opens paths for regular units; HVT targeting. RGB 2nd Bureau has 7 dedicated reconnaissance battalions in addition. [Grey Dynamics Oct 2024; HRNK RGB Final 2026; FAS KPA Guide Part 3]
+- **Amphibious Light Infantry Brigade No. 1** (elite) (sof_bde_amphibious_1) — type: amphibious, HQ: Coastal location (east coast approximate), strength: 83.0%. ELITE. FAS confirms 2 amphibious light infantry brigades for two-front coastal operations. Mission: seaborne infiltration of ROK rear areas. Uses high-speed boats (30+ knots), air-cushioned hovercraft (7,000+ SOF per coastline per US Army 1998 estimate). [FAS KPA Guide Part 3; KPASOF Wikipedia]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

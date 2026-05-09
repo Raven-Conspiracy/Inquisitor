@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: 806th Mechanized Corps
+
+**Unit ID**: corps_806
+**Service**: KPA Ground Forces
+**Type**: mech_corps
+**Headquarters**: Approximate: north of Pyongyang, along western axis LOC
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 75.0%
+**Notes**: One of two mechanized exploitation corps. In 2003 reporting, the 806th and 815th Mechanised Corps formed the second operational echelon behind the Forward Corps. Equipped with Chonma-ho/Pokpung-ho variants. Sub-brigades unconfirmed. [Wikipedia KPAGF 2003 report; DIA NKMP 2021; IISS MB 2017]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

@@ -1,0 +1,17 @@
+# Chinese PLA — Group Army / Fleet / Base: 82nd Group Army (第八十二集团军)
+
+**Unit ID**: 82ga
+**Service**: PLAA
+**Type**: group_army
+**Headquarters**: Baoding
+**Parent**: Central Theater Command (中部战区) (ctc)
+**Strength (% authorized)**: 100%
+**Notes**: Formerly 38th Group Army (Beijing MR); redesignated Apr 2017. 3 heavy CABs; historically one of the PLA's premier armored formations. [DOD CMPR 2024 p.97] [Wikipedia 82nd GA]
+
+## Subordinate Brigade / Division / Flotillas
+- **6th Heavy Combined Arms Brigade** (elite) (82ga_6cab) — type: heavy_combined_arms_bde, HQ: Baoding area, strength: 100%. First-tier heavy armored; historically premier formation of former 38th GA. [Wikipedia 82nd GA]
+- **112th Heavy Combined Arms Brigade** (elite) (82ga_112cab) — type: heavy_combined_arms_bde, HQ: Baoding area, strength: 100%. First-tier heavy armored. [Wikipedia 82nd GA]
+- **151st Heavy Combined Arms Brigade** (82ga_151cab) — type: heavy_combined_arms_bde, HQ: Baoding area, strength: 100%. [Wikipedia 82nd GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

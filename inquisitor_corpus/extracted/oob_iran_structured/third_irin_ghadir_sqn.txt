@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: IRIN Midget Submarine Force (Ghadir/Nahang/Yono)
+
+**Unit ID**: irin_ghadir_sqn
+**Type**: submarine_flotilla
+**Headquarters**: Bandar Abbas / Chah Bahar
+**Parent**: Region / Provincial Corps / Base: IRIN 1st Naval District — Bandar Abbas (SNFHQ) (irin_nd1)
+**Higher echelon**: Islamic Republic of Iran Navy (IRIN)
+**Elite designation**: No
+**Strength (% authorized)**: 65%
+**Notes**: 14x Ghadir/Yono-class + 1x Nahang-class midget submarines (coastal/littoral). Used for special operations insertion and mine-laying. [DIA IMP 2019 p.27]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

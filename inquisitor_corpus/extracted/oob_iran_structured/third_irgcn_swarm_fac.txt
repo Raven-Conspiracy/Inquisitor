@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: IRGCN Fast-Attack Craft Force (Peykaap / Houdong / C-14)
+
+**Unit ID**: irgcn_swarm_fac
+**Type**: surface_flotilla
+**Headquarters**: Bandar Abbas (Shahid Bahonar)
+**Parent**: Region / Provincial Corps / Base: IRGCN 1st Naval Region — Bandar Abbas (Saheb al-Zaman) (irgcn_nd1)
+**Higher echelon**: IRGC Navy (IRGCN)
+**Elite designation**: No
+**Strength (% authorized)**: 50%
+**Notes**: Hundreds of small FAC, speedboats, patrol craft: Houdong (Thondor) x10 FACM, Peykaap I/II/III x45+, C-14 x5, Boghammar x20, many more. Swarm tactics in Hormuz Strait. Base struck Mar 2026. [DIA IMP 2019 p.28] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

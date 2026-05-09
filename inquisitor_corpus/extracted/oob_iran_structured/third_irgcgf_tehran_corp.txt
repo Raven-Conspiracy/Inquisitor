@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: Muhammad Rasoul Allah Provincial Corps (Tehran City)
+
+**Unit ID**: irgcgf_tehran_corp
+**Type**: light_cab
+**Headquarters**: Tehran City
+**Parent**: Region / Provincial Corps / Base: Sarallah Operational Headquarters (Tehran region) (irgcgf_sarallah_hq)
+**Higher echelon**: IRGC Ground Forces (IRGCGF)
+**Elite designation**: No
+**Strength (% authorized)**: 65%
+**Notes**: Largest IRGC provincial command. Commander: Mohammadreza Yazdi. Oversees 22+ Basij regional bases in Tehran City. Deployed elements to Syria during civil war. Sarallah HQ struck IDF Mar 1, 2026. [Wikipedia IRGC GF] [CTP Mar 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

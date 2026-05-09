@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 1st Air Brigade (J-20A) (ELITE / first-tier)
+
+**Unit ID**: ntcaf_1bde
+**Type**: fighter_brigade
+**Headquarters**: Anshan Teng'ao Air Base, Liaoning
+**Parent**: Group Army / Fleet / Base: Northern Theater Command Air Force (北部战区空军) (ntcaf)
+**Higher echelon**: Northern Theater Command (北部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: J-20A 5th gen. [Heritage Foundation 2026-01-20]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

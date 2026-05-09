@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: 24th Infantry Division
+
+**Unit ID**: div_24_inf
+**Type**: motor_rifle
+**Headquarters**: North Hamgyong Province (approximate)
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: IX Corps (9th Corps) (corps_9)
+**Higher echelon**: KPA Ground Forces (Ryukgun)
+**Elite designation**: No
+**Strength (% authorized)**: 65.0%
+**Notes**: Confirmed in Wikipedia KPAGF as assigned to IX Corps after VI Corps dissolution ~1996. [Wikipedia KPAGF]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

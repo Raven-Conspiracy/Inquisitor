@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: Sepah-e Fajr (Fars Provincial Corps)
+
+**Unit ID**: irgcgf_fars_corp
+**Type**: light_cab
+**Headquarters**: Shiraz, Fars
+**Parent**: Region / Provincial Corps / Base: Madineh-ye al-Munavareh Operational HQ (South-Southwest) (irgcgf_madineh_hq)
+**Higher echelon**: IRGC Ground Forces (IRGCGF)
+**Elite designation**: No
+**Strength (% authorized)**: 80%
+**Notes**: Commander: Hashem Ghiasi. Includes Fajr Division and 33rd Al Mahdi Airborne SF Brigade. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

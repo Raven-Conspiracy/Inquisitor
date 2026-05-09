@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: 105th Seoul Tank Division (ELITE / first-tier)
+
+**Unit ID**: div_105_armor
+**Type**: tank
+**Headquarters**: Sariwon area (with 820th Armored Corps)
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: 820th Armored Corps (corps_820)
+**Higher echelon**: KPA Ground Forces (Ryukgun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 68.0%
+**Notes**: Named after 1950 Korean War seizure of Seoul. Primary tank division of 820th Armored Corps. Equipment: Pokpung-ho (Type 88 domestic T-72 derivative), Chonma-ho (T-62 derivative). Only partially equipped with Pokpung-ho per 2020 analysis. [Wikipedia KPAGF citing Mizokami 2020; IISS MB 2017]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

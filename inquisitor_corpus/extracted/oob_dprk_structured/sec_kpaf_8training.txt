@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: 8th Training Division
+
+**Unit ID**: kpaf_8training
+**Service**: KPAF
+**Type**: air_division
+**Headquarters**: Orang, North Hamgyong Province
+**Parent**: Korean People's Army Air Force (Konggun) (kpaf)
+**Strength (% authorized)**: 60.0%
+**Notes**: Air force training formation. HQ Orang. Sub-units: 41st Rgt (MiG-15UTI/J-2 at Orang), training regiment at Samiyon (F-5A), Kilchu helicopter training (Mi-2), Kimchaek Air Force Academy (Sungam-Chongjin, BT-6), Kyongsong Flight Officers School (BT-6). [Wikipedia KPAF]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

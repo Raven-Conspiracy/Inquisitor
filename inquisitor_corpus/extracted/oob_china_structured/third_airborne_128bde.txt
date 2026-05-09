@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 128th Airborne Brigade (ELITE / first-tier)
+
+**Unit ID**: airborne_128bde
+**Type**: airborne
+**Headquarters**: Hubei / wartime WTC
+**Parent**: Group Army / Fleet / Base: PLA Air Force Airborne Corps (空降兵军) (airborne)
+**Higher echelon**: Central Theater Command (中部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: Air assault type per 2024 Taiwan publication. Wartime WTC. First-tier. [Wikipedia PLAAF Airborne Corps]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

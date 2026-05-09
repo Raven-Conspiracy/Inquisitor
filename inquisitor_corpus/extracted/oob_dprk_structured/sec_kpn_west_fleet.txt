@@ -1,0 +1,16 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: West Sea Fleet (West Coast Fleet)
+
+**Unit ID**: kpn_west_fleet
+**Service**: KPN
+**Type**: fleet
+**Headquarters**: Nampo (Namp'o), with major bases at Pip'a-got, Sagon-ni, Haeju
+**Parent**: Korean People's Navy (Haegun) (kpn)
+**Strength (% authorized)**: 68.0%
+**Notes**: ~300 watercraft. 5 operational squadron commands (per DIA NKMP). 6 squadrons per DPRK NIS 1999. Houses surface combatants, patrol craft, guided-missile patrol boats, hovercraft, landing craft. Two new 4000-5000 ton Choe Hyon-class destroyers: lead ship Choe Hyon launched Nampo 27 Apr 2025, second ship launched 12 Jun 2025 [POST-2021 UPDATE: Wikipedia Choe Hyon; Sputnik News May 2026]. [DIA NKMP 2021; Wikipedia KPN]
+
+## Subordinate Division / Brigade / Flotillas
+- **DDG Choe Hyon + Sister Ship (Choe Hyon-class destroyers)** (elite) (kpn_choe_hyon_destroyer) — type: surface_flotilla, HQ: Nampo (west coast), strength: 80.0%. POST-2021 ADDITION. First DPRK destroyer class. Lead ship Choe Hyon launched 27 Apr 2025; second ship launched 12 Jun 2025. Estimated 4,000-5,000 tons, 140-144m. VLS cells (resembling 3M22 Zircon), fixed phased-array radar (resembling Karakurt-class). Can carry nuclear-armed cruise missiles and tactical ballistic missiles per Kim Jong Un. NK plans 12 destroyers of class by 2032. Large nuclear-powered submarine also announced Mar 2025 (construction stage). [Wikipedia Choe Hyon; CSIS Apr 2025; Sputnik News May 2026] [POST-2021 UPDATE]
+- **West Sea Surface Combatant Flotilla (Patrol/Missile Boats)** (kpn_surface_flotilla_w) — type: surface_flotilla, HQ: Nampo, Haeju, Pip'a-got, Sagon-ni, strength: 60.0%. Osa-class missile boats (12 + 10 Soju domestic variants + 19 FAC), Chaho fire-support craft (62+), torpedo boats (~200 total fleet wide), Nampo landing craft (~100), Kongbang hovercraft (~125). [DIA NKMP 2021; Wikipedia KPN]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

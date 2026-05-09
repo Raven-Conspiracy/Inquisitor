@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: 170mm Koksan SP Artillery Brigade (620th Corps element) (ELITE / first-tier)
+
+**Unit ID**: bde_arty_620_koksan
+**Type**: artillery
+**Headquarters**: Forward position north of DMZ
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: 620th Artillery Corps (Forward Artillery Corps) (corps_620)
+**Higher echelon**: KPA Ground Forces (Ryukgun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 90.0%
+**Notes**: ELITE / HIGHEST READINESS. Operates 170mm M-1978 / M-1989 Koksan self-propelled guns. Range ~60km; covers northern Seoul metro area. ~500 Koksan guns in inventory (est). Specific brigade number unconfirmed. [DIA NKMP 2021; factsanddetails.com; IISS]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

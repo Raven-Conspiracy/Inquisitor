@@ -1,0 +1,16 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: IX Corps (9th Corps)
+
+**Unit ID**: corps_9
+**Service**: KPA Ground Forces
+**Type**: corps
+**Headquarters**: North Hamgyong Province (approximate)
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 65.0%
+**Notes**: Absorbed 24th and 42nd Divisions from defunct VI Corps. Sub-unit details limited. [Wikipedia KPAGF; DIA NKMP 2021]
+
+## Subordinate Division / Brigade / Flotillas
+- **24th Infantry Division** (div_24_inf) — type: motor_rifle, HQ: North Hamgyong Province (approximate), strength: 65.0%. Confirmed in Wikipedia KPAGF as assigned to IX Corps after VI Corps dissolution ~1996. [Wikipedia KPAGF]
+- **42nd Infantry Division** (div_42_inf) — type: motor_rifle, HQ: North Hamgyong Province (approximate), strength: 65.0%. Confirmed in Wikipedia KPAGF as assigned to IX Corps after VI Corps dissolution ~1996. [Wikipedia KPAGF]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

@@ -1,0 +1,2872 @@
+RUSSIAN REGULAR GROUND FORCES 
+ORDER OF BATTLE
+Mason Clark and Karolina Hird
+October  2023
+
+
+
+
+RUSSIAN REGULAR GROUND FORCES  
+ORDER OF BATTLE
+Mason Clark and Karolina Hird
+
+Russian T-80 tanks take part in the 'Vostok-2022' military 
+exercises at the Uspenovskyi training ground (Sakhalin Island) 
+outside the city of Yuzhno-Sakhalinsk on the Russian Far East 
+on September 4, 2022. - The Vostok 2022 military exercises, 
+involving several Kremlin-friendly countries including China, 
+takes place from September 1-7 across several training grounds 
+in Russia's Far East and in the waters off it. Over 50,000 
+soldiers and more than 5,000 units of military equipment, 
+including 140 aircraft and 60 ships, are involved in the drills. 
+(Photo by Kirill KUDRYAVTSEV / AFP) (Photo by KIRILL 
+KUDRYAVTSEV/AFP via Getty Images). 
+©2023 by the Institute for the Study of War.
+Published in 2023 in the United States of America by the 
+Institute for the Study of War.
+1400 16th Street NW, Suite 515 | Washington, DC 20036
+understandingwar.org
+
+ABOUT THE AUTHORS
+Mason Clark is a Senior Analyst and the Russia Team Lead at the Institute for the Study of War. He has led 
+ISW's standard-setting coverage of the Russian invasion of Ukraine since the operation was still in its plan -
+ning stages. His research focuses on Russian military capabilities and learning, Kremlin integration efforts in 
+the former Soviet Union and Russian strategic calculus. Mason received a B.A. with Honors in International 
+Studies with a focus on US Foreign Policy and Russian from American University’s School of International 
+Service. 
+Karolina Hird is a Russia Deputy Team Lead, Analyst, and Evans Hanson Fellow at the Institute for the Study 
+of War. Karolina is a senior member of the team that has produced the daily Russian Campaign Assessments 
+since spring 2022. Karolina particularly focuses on Russian operational campaign design and the humani -
+tarian aspects of the war in Ukraine, particularly the issue of forced deportations and adoption of Ukrainian 
+children. Karolina received a BA in International Affairs from The George Washington University, where she 
+focused on international security, international law, and gender analysis. 
+ACKNOWLEDGMENTS 
+The authors would like to thank the incredible combined teams at ISW and the Critical Threats Project 
+(CTP) without whom this report would not have been possible. We would like to thank ISW President Dr 
+Kim Kagan for her support and mentorship, and to thank CTP Director Dr Fred Kagan for his review 
+of the text and guidance. We are particularly grateful to Russia Analyst and Geospatial Intelligence Team 
+Lead George Barros, as well as Geospatial Team Researchers Noel Mikkelsen and Thomas Bergeron, for 
+their analytical help and assistance with the mapping and visual elements of this project. We would like to 
+thank Suchy Design for designing this report, and Alex Mitchell and the ISW External Relations team for 
+publishing and promotion. Finally, we are extremely grateful to the entire ISW Russia Team, including the 
+Spring and Summer 2023 intern classes, without whom this work would not have been possible.
+ABOUT THE INSTITUTE
+ISW is a non-partisan and non-profit public policy research organization. It advances an informed under -
+standing of military affairs through reliable research, trusted analysis, and innovative education.  It is 
+committed to improving the nation’s ability to execute military operations and respond to emerging threats in 
+order to achieve the strategic objectives of the US around the globe.
+
+Neo4j: Neo4j is a highly scalable native graph database that helps organizations build intelligent 
+applications to meet evolving connected data challenges including fraud detection, tax evasion, 
+situational awareness, real-time recommendations, master data management, network security, 
+and information technology operations. Global organizations like MITRE, Walmart, the 
+World Economic Forum, UBS, Cisco, HP, Adidas, and Lufthansa rely on Neo4j to harness the 
+connections in their data.
+Ntrepid: Ntrepid enables organizations to conduct their online activities safely. Ntrepid’s 
+NFusion leverages the company’s platform and fifteen-year history protecting the national 
+security community from their most sophisticated global opponents. From corporate identity 
+management to secure browsing, Ntrepid products facilitate online research and data collection 
+and eliminate the threats that come with having a workforce connected to the Internet.
+Linkurious: Linkurious provides graph visualization software that helps organizations detect and 
+investigate insights hidden in graph data. Linkurious supports government agencies and global 
+companies in a range of applications from anti-money laundering and cyber-security to medical 
+research. Linkurious makes complex connected data easy to understand for analysts.
+Microsoft: Microsoft helps empower defense and intelligence agencies with its deep commitments 
+to national security, trust, innovation, and compliance. With world-class security and a wide 
+array of cloud services designed for mission success, the Microsoft Cloud offers a cloud platform 
+designed for flexibility and scale to strengthen partnerships and alliances, create smart work 
+environments and installations, and optimize operations to better meet mission needs and help 
+foster a safer, more secure world. 
+Sayari: Sayari is a search company, not a traditional data vendor. They build search products 
+that allow users to find corporate, financial, and public records in hard-target countries. Sayari 
+products cover emerging, frontier, and offshore markets, and include corporate registries, 
+official gazettes, litigation, vital records, customs data, and real property. They collect, structure, 
+normalize, enrich, and index this data, often making it searchable for the very first time. 
+BlackSky: BlackSky integrates a diverse set of sensors and data unparalleled in the industry to 
+provide an unprecedented view of your world. They combine satellite imagery, social media, news 
+and other data feeds to create timely and relevant insights. With machine learning, predictive 
+algorithms, and natural language processing, BlackSky delivers critical geospatial insights about 
+an area or topic of interest and synthesizes data from a wide array of sources including social 
+media, news outlets, and radio communications. 
+Semantic AI: By combining semantics with entity, path, link and social network analytics, Semantic 
+AI adds a layer of intelligence to make rapid contextual connections throughout vast amounts of 
+disparate data. The Semantic AI™ Platform is designed for augmented human intelligence in the 
+Artificial Intelligence age. This adaptable investigation, analytics and intelligence environment 
+allows users to quickly analyze situations, redirect investigative focus and dive deeply into the most 
+relevant connections.
+BabelStreet: Provides the most advanced identity intelligence and risk operations platform for the 
+world’s most trusted government and commercial organizations. The AI-enabled platform helps them 
+stay informed and improves around-the-clock decision-making. Teams are empowered to rapidly 
+detect and collaborate on what matters in seconds by transforming massive amounts of multilingual, 
+enterprise and publicly available data into actionable insights so they can act with confidence. Babel 
+Street is headquartered in the U.S. with offices near Washington, D.C., and Boston, along with Tokyo, 
+Tel Aviv, London, Canberra, and Ottawa. For more information, visit babelstreet.com.
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE:
+ISW believes that superior strategic insight derives from a fusion of traditional social science research and 
+innovative technological methods. ISW and CTP recognize that the analyst of the future must process a wide 
+variety of information ranging from interviews and historical artifacts to high-volume structured data. ISW 
+and CTP thank their technology partners for their support in this innovative endeavor.  
+
+UNDERSTANDINGWAR.ORG  7
+OCTOBER 2023
+Table of Contents
+8 Introduction to The Contents of This Report
+10 Russian Military 101
+15 Russia’s Regular Ground Forces Order of Battle
+43 Appendix A: Glossary of Russian Unit Types
+44 Appendix B: Bibliography and Further Reading
+46 Endnotes
+
+Introduction to The Contents of This Report
+This report contains two sections: an introductory essay on the regular Russian ground forces; 
+and a fully sourced order of battle (ORBAT) of Russia’s regular ground forces down to the 
+brigade and regiment echelon (with select independent battalions), including the army, ground 
+forces controlled by the the navy, VDV (Airborne) units, and GRU Spetsnaz formations.I 
+I  Russia’s Army – one of the three main services – is formally known as the Ground Forces of the Russian Federation. This report will refer to this service as 
+the “Russian Army” for clarity. The lower-case term “ground forces” is used to refer to all of Russia’s regular conventional ground units, including the Army, 
+ground formations controlled by the Navy, and the Airborne Forces (VDV). 
+The following essay is intended as an introduction 
+to the regular Russian ground forces  for security 
+studies professionals, policymakers, and journal -
+ists who are not necessarily Russia specialists. This 
+report covers the federal-level structure of Russia’s 
+armed services and General Staff; Russia’s personnel 
+system; general characteristics of Russian ground 
+capabilities; Russian organizational structure from 
+the Military District to the brigade/regiment level; 
+and a brief discussion of the Battalion Tactical 
+Group (BTG). This report draws on the sources in 
+the accompanying annotated bibliography and the 
+authors’ study of the Russian armed forces, supple-
+mented where necessary with footnotes exploring 
+exceptions and adding further context. 
+This order of battle of the Russian regular ground 
+forces is ISW’s assessment of the on-paper struc -
+ture of the regular Russian ground forces as of 
+January 2023. It covers the Army, ground forces 
+of the Navy, VDV, and GRU Spetsnaz down to the 
+regiment and brigade level. It does not cover the 
+Aerospace (VKS) forces (including air and air 
+defense armies); Navy surface warfare and subma -
+rine assets; or the strategic rocket forces. We have 
+excluded the 1st  and 2nd Army Corps (the armed 
+forces of the Donetsk People’s Republic [DNR] 
+and Luhansk People’s Republic [LNR], infor -
+mally run by the Southern Military District [SMD] 
+since 2014 and formally acknowledged as such in 
+December 2022) and the 3rd Army Corps (a new 
+formation of volunteer units created under the 
+Western Military District [WMD] in June 2022) 
+from this regular forces ORBAT. While these for -
+mations are part of the Russian Army on paper, 
+we assess that they are closer in organization and 
+purpose to irregular formations such as PMCs, 
+Rosgvardia, BARS Combat Reserve units, and 
+other forces. We will assess the structure and capa -
+bilities of these three Corps in our forthcoming 
+irregular Russian ground forces ORBAT and the 
+capstone forecasting report in this series. 
+This ORBAT is intended to provide an updated 
+open source baseline of the Russian ground forces 
+and is intentionally backdated to January 2023. 
+Existing open source ORBATs of the Russian 
+ground forces are missing several units, do not 
+provide individual sourcing for each unit, and 
+largely leverage the now defunct mikavkaz.com. 
+This report does not address Defense Minister 
+Sergei Shoigu's intended force changes announced 
+in January 2023, including the reintroduction of 
+the Leningrad and Moscow Military Districts and 
+the intended formation of 12 new maneuver divi -
+sions. It also does not attempt to assess the actual 
+strength of highly degraded Russian units. While 
+the Russian military is in the process of establish -
+ing these new formations and in some cases already 
+deploying them to Ukraine, we elected to provide 
+a fully sourced baseline to support future ISW 
+reports and as an open source baseline for practi -
+tioners other researchers. 
+All units are listed with their formal title, в/ч 
+number (“voyskovaya chast” or “military unit,” a 
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE  
+8 UNDERSTANDINGWAR.ORG
+
+UNDERSTANDINGWAR.ORG  9
+OCTOBER 2023
+unique five-digit numerical code assigned to each 
+administrative entity in the Russian armed forces), 
+and permanent basing location, when confirmable. 
+Units that we assess likely exist but whose existence 
+we cannot confirm are listed in [brackets]. The 
+authors developed this ORBAT by using strictly 
+open sources to confirm the existence and perma -
+nent basing locations of Russian regular ground 
+forces units. The authors focused on all maneu -
+ver and combat support units at the regiment and 
+brigade level and above, with the exception of a few 
+significant battalion-level units. The majority of 
+units are multi-sourced with data identifying their 
+name and basing location. The authors endeav -
+ored to include two reliable sources since 2021 per 
+listed unit, but this standard was not tenable for 
+many combat support elements and units from less 
+well-resourced military districts, in which case the 
+sourcing standard was amended to allow for sourc -
+ing since 2013. Leveraged sources include news 
+articles from both local and state outlets; govern -
+ment press releases; blogs and commentary pages 
+run by military enthusiasts or veterans of given 
+units; social media outlets (such as Odnoklassniki 
+[OK] and VKontaktke [VK]); address registra -
+tion pages; local government bulletins; and various 
+message boards. A small number of units, primarily 
+combat support elements, only include one source 
+due to limited data meeting these standards con -
+firming their basing. All sources used for each 
+individual unit are available in the endnotes of 
+the text ORBAT later in this report.
+
+10 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Russian Military 101
+II For more information on the formal structure and likely influence of the Russian General Staff on Russian policymaking, see Alexis A. Blanc, Alyssa Demus, 
+Sandra Kay Evans, Michelle Grisé, Mark Hvizda, Marta Kepe, Natasha Lander, and Krystyna Marcinek, “The Russian General Staff: Understanding the Mili-
+tary’s Decisionmaking Role in a ‘Besieged Fortress,’” RAND Corporation, May 15, 2023, https://www.rand.org/pubs/research_reports/RRA1233-7.html.  
+Structure of the Russian Armed 
+Forces: Ministry of Defense, 
+General Staff, and Services
+The Russian Armed Forces are administratively con-
+trolled by the Russian Ministry of Defense (MoD), 
+with longstanding Defense Minister Sergei Shoigu 
+reporting to President Vladimir Putin and sitting 
+on the Security Council, the Russian President’s 
+consultative body on national security. Shoigu runs 
+the MoD through the Collegium, a standing body 
+including several Deputy Defense Ministers, the 
+heads of key MoD and General Staff Directorates, 
+the commanders of Russia’s armed services and 
+branches, and the Military District commanders. 
+The Russian General Staff is the executive body of 
+the MoD. The Russian General Staff is often misun-
+derstood by Western observers and differs from the 
+US Joint Staff in several key ways. II Often referred 
+to as the “Arbat Military District” for the street in 
+Moscow its headquarters is located on, the General 
+Staff exerts a powerful influence on Russian military 
+planning and was a major force behind resistance 
+to previous Defense Minister Anatoly Serdyukov’s 
+“New Look” reforms.
+The General Staff is responsible for strategic 
+defense planning – forecasting the wars Russia will 
+likely need to fight; assessing predominant means of 
+warfare; and developing the Russian military nec -
+essary to meet these requirements, in addition to 
+holding operational control over Russian forces in 
+wartime. The Chief of the General Staff – currently 
+Army General Valery Gerasimov, who has served 
+in this role since 2012 – has command authority 
+over the entire Russian Armed Forces. He is, in 
+this respect, very different from the US Chairman 
+of the Joint Chiefs of Staff, who is explicitly by law 
+excluded from the operational chain of command. 
+Gerasimov holds operational command through 
+the dual chain of the armed services (which retain 
+administrative control) and the Military Districts, 
+as well as direct control of strategic forces includ -
+ing the Strategic Rocket Forces, GRU Spetsnaz, 
+and VDV (Airborne Forces). The structure of the 
+General Staff itself, the changes in the Russian high 
+command enacted during the war in Ukraine, and 
+likely future developments will be addressed in 
+ISW’s forthcoming General Officers Guide. 
+Russia’s armed services report to the General Staff. 
+The Russian Armed Forces have three main ser -
+vices: the army, navy, and aerospace forces, which 
+organize their forces under the Military District 
+structure discussed below. Russia also possesses two 
+“separate service branches” – the Airborne Forces, 
+or VDV (for “Vozdushno-Desantnye Voiska” or “air 
+landing troops”); and the Strategic Rocket forces, 
+which control Russia’s intercontinental ballistic 
+missiles (ICBMs). Formations from these two ser -
+vices are not subordinate to Military Districts, but 
+rather report through their respective command -
+ers directly to the General Staff. Russia’s Special 
+Operations Forces and GRU Spetsnaz also report 
+directly to the General Staff. Russia additionally 
+has several security forces with combat capabilities 
+often close to those of army motorized rifle units 
+but with chains of command outside of the Ministry 
+of Defense, such as Rosgvardia and the FSB Border 
+Service, which are not covered in this report. 
+Three services of the Russian Armed Forces  
+field Russia’s regular ground forces:  
+the Army, VDV , and Navy.
+The Russian Army is the indisputable heart of the 
+Russian armed forces, and, naturally, of its ground 
+forces. Army officers exert the greatest influence 
+over the Russian armed forces and occupy most 
+key positions on the General Staff and in Military 
+District command positions. The Russian military 
+
+UNDERSTANDINGWAR.ORG  11
+OCTOBER 2023
+is a joint force, but the army is at the top of a 
+functional “hierarchy of jointness” and dominates 
+military thinking, spending, and operations. III 
+Army units are predominantly divided into tank 
+(armored) and motorized rifle (mechanized infan -
+try) units, with a few exceptions discussed in the 
+unit glossary of this report. 
+The VDV (Russia’s airborne forces) uniquely has 
+the status of a service of the armed forces, rather 
+than being a branch of the army as in the US and 
+most other militaries.  VDV units are generally the 
+most professional, best trained, and best equipped 
+units in the Russian military. The VDV is a strategic 
+asset not tied to the geographical Military Districts 
+and reports directly to the General Staff. VDV divi-
+sions and brigades are intended as a rapid reaction 
+and expeditionary force in small wars, and a com -
+bination of strategic reserve and penetration force 
+in large conventional wars. In practice, they have 
+been pressed into service and employed as relatively 
+light infantry throughout Russia’s 21st century wars 
+as the highest readiness and most effective infantry 
+available, compared to the motorized rifle troops. 
+VDV units are notably fully mechanized, and far 
+“heavier” than the light infantry units that comprise 
+Western airborne formations. VDV units operate 
+expensive and specialized vehicles with near-equiva-
+lent firepower but far less armor than Army vehicles 
+in order to retain nominal air mobility.
+Russia’s naval fleet headquarters report to the 
+Military District structure and both operate their own 
+naval infantry (marine) units as well as command 
+ground forces through Army Corps headquarters 
+subordinated to the fleets. The Naval Infantry are 
+a relatively elite force with amphibious capabilities 
+that have not yet been extensively demonstrated in 
+combat. Like VDV and Army units, they are fully 
+mechanized and in Ukraine have been leveraged as 
+a primary infantry force over less-capable motor -
+ized rifle formations, similar to key VDV units. The 
+III Credit for the apt term “hierarchy of jointness” goes to Mykhaylo Zabrodskyi, Jack Watling, Oleksandr V. Danylyuk, and Nick Reynolds, “Preliminary Lessons 
+in Conventional Warfighting from Russia’s Invasion of Ukraine: February-July 2022,” Royal United Services Institute, November 30, 2022, https://static.
+rusi.org/359-SR-Ukraine-Preliminary-Lessons-Feb-July-2022-web-final.pdf, pg 44-45.
+IV For coverage of the Russian Armed Forces’ mixed contractor and conscript system, see Mark Galeotti, Putin’s Wars: From Chechnya to Ukraine (Oxford: 
+Osprey, 2022), pg 107-111; Lester W. Grau and Charles K. Bartles, “The Russian Way of War: Force Structures, Tactics, and Modernization of the Russian 
+Ground Forces,” Foreign Military Studies Office, August 22, 2017, https://www.armyupress.army.mil/portals/7/hot%20spots/documents/russia/2017-
+07-the-russian-way-of-war-grau-bartles.pdf, pg. 3-9; Gil Barndollar, “The Best or Worst of Both Worlds?” Center for Strategic & International Studies, 
+September 23, 2020, https://www.csis.org/blogs/post-soviet-post/best-or-worst-both-worlds. 
+Black Sea, Baltic, Northern, and Pacific Fleets each 
+additionally control a mix of regular motorized rifle 
+and “coastal defense” units (the latter of which are 
+trained and equipped as motorized rifle units) both 
+directly through the fleet HQ’s and “Army Corps” - 
+formations roughly equivalent to small Combined 
+Arms Armies. 
+Staffing and General Characteristics  
+of the Russian Ground Forces 
+The Russian military is staffed by a hybrid of 
+long-service professionals referred to as “kon -
+traktniki” (“contract servicemen”) and a legacy 
+Soviet-style cadre and reserve system of conscripts 
+serving one-year terms on a semi-annual cycle. IV 
+MoD decision making on staffing the Russian mil -
+itary in the 21st century has been dominated by 
+two competing considerations: the goal of creating 
+a smaller, flexible, and more technically advanced 
+military of volunteer professionals (as epitomized 
+by former Defense Minister Anatoly Serdyukov’s 
+2008-2009 “New Look” reforms); and the desire 
+to retain the Soviet capability of generating large 
+conscript forces for large-scale conventional warfare 
+with NATO.
+All Russian units are comprised of a mix of contract 
+servicemen and officer cadres intended to be filled 
+out with conscripts in wartime. Some units (such 
+as key VDV units like the 76th Airborne Division 
+and Naval Infantry brigades) are more contrac -
+tor-heavy than others, but no units at the brigade 
+and regiment level and above are wholly com -
+prised of contract personnel. Even elite VDV units 
+contain conscripts, albeit the cream of the crop of 
+each call-up. Contract servicemen fill specialist and 
+“trigger puller” positions and typically remain in 
+the same specialty for the duration of their careers. 
+Conscripts fill out support and rifleman positions. 
+In the event of large-scale war, the Russian military 
+is theoretically supposed to fill out its units with 
+
+12 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+a callup of reservists (those who previously served 
+as conscripts), which Russia elected not to do fully 
+prior to February 2022. The Kremlin’s decision 
+not to mobilize fully before the 2022 invasion of 
+Ukraine and efforts to avoid a full mobilization has 
+undermined the staffing of Russian units and led to 
+a dearth of much-needed infantry.V
+The modern Russian ground forces retain strong 
+elements of their Soviet legacy in terms of doctrine, 
+equipment, and approach to combat operations. 
+Very little can spark fiercer debate amongst observ-
+ers of the Russian military than the degree of this 
+Soviet influence, but many of the tactical and oper-
+ational capabilities of the modern Russian military 
+are continuations of the Soviet period, with mixed 
+progress towards improved C2; a greater but still 
+limited profusion of precision weaponry; and the 
+development of the kontraktniki model.
+Much of the doctrine and intended capabilities 
+of the Russian ground forces flows from the Cold 
+War-era mission of a rapid, mechanized drive across 
+Western Europe. Mass and speed were paramount 
+– fires would clear NATO positions and fully mech-
+anized ground forces would remain mounted as 
+much as possible. On the offense, Russian artillery 
+and direct fires are intended to destroy opposing 
+formations and enable rapid, mechanized maneu -
+ver into enemy rear areas. On the defense, Russian 
+units are adept at digging in quickly and for pro -
+tracted periods, as seen in Ukraine. Modernization 
+of the ground forces in the last decade has been 
+uneven due to budget and industrial constraints, 
+with the majority of units operating upgraded Soviet 
+kit. Most development has been centered on C2, 
+EW, and long-range fires such as ballistic missile 
+formations intended to provide some precision 
+capabilities to destroy enemy C2 and key assets.VI 
+V The Kremlin has instead elected to pursue an array of ad hoc and irregular force generation mechanisms. These include attempts to leverage the BARS (com-
+bat reserve) program; the formation of brand new “volunteer” units; reliance on the Wagner Group and increasingly other PMCs; leveraging and building 
+out the forces of the DNR/LNR; using Rosgvardia and Spetsnaz units as line infantry; and blurring the lines between regular and irregular units. ISW will 
+explore the implication of the Kremlin’s decision to increasingly rely on irregular forces instead of leveraging its existing regular force generation structures in 
+a forthcoming report. 
+VI The Russian Ministry of Defense often publishes percentages of the force as a whole and of specific units that are operating “modernized” equipment, an 
+unclear adjective likely referring to equipment either newly-produced or upgraded to an undefined standard within roughly the past decade or so – such as the 
+T-72B3 tank, a 2010 upgrade of the original model produced in the 1970s and the mainstay of Russian tank battalions. 
+VII This paragraph is written from an ideal Russian perspective, and should not be read as an evaluation of the practical effectiveness of this structure, which ISW 
+will explore in future reports.
+The Russian military has an outwardly formulaic 
+and static approach to war that is intended to min -
+imize the weaknesses of individual conscripts and 
+leverage mass to enable operational flexibility. VII 
+Russian officers are taught a mathematical approach 
+to war, wherein the correct tactical drill and a math-
+ematically precise amount of combat power can be 
+applied to a combat situation to ensure success. 
+Mathematical models abound in Russian military 
+science, with every possible input theoretically 
+accounted for. Russian personnel are taught a wide 
+array of tactical drills they can execute mechani -
+cally, and officers learn a deep but static playbook 
+of formulae to aid planning and execution. This 
+tactical rigidity is intended to enable operational 
+flexibility, as commanders can build basic but well-
+known tactical drills into complex plans based on 
+a mathematical evaluation of the enemy and likely 
+outcomes. Working from a defined “menu” of tac -
+tical options means staff sizes and planning time 
+requirements are much lower than in Western mili-
+taries. The Russian military’s 21st-century efforts to 
+develop “automated control systems” are intended 
+to advance this line of thinking, leveraging com -
+puting power (and theoretically eventually AI) to 
+increase the accuracy and speed through which 
+commanders can select the “correct” option from a 
+menu of drills. While the Russian military observed 
+and discussed the need for flexibility and initiative 
+in its operations in Syria, it has shown little intent 
+to fully abandon this formulaic and mathematical 
+approach to tactical decision making.
+The old stereotype of the Soviet and Russian mil -
+itary being an artillery army with maneuver units 
+attached remains largely true, and Russian units 
+have far greater quantities of artillery than their 
+NATO counterparts. The Russian military strongly 
+believes in the ability of massed artillery fire to not 
+simply disrupt but fully destroy targets through 
+
+UNDERSTANDINGWAR.ORG  13
+OCTOBER 2023
+sheer weight of (predominantly area affect rather 
+than precision) fires. Russian forces use artillery 
+to accomplish many roles that NATO militaries 
+would instead leverage air power for. The Russian 
+ground forces are additionally on paper (and at 
+the start of the 2022 invasion of Ukraine in prac -
+tice) fully mechanized – including the VDV, Naval 
+Infantry, and Spetsnaz. This focus on mounted 
+operations has exposed gaps in Russian offensive 
+capabilities in Ukraine. Most Russian infantry has 
+been consistently reticent to dismount and clear 
+Ukrainian positions if they cannot destroy defend -
+ing Ukrainian units with fires, and Russian forces 
+have struggled in situations requiring quality infan-
+try, particularly in urban combat.VIII
+Structure of the Russian Ground Forces:  
+Army to Battalion 
+Below the General Staff, the Russian military is 
+organized into five Military Districts (as of the 
+time of this publication, with the Western Military 
+District due to be divided back into its pre-2010 
+structure of the Moscow and Leningrad Military 
+Districts) which report to the General Staff and 
+have operational control over their assigned forces 
+in wartime. IX In peacetime, Military Districts are 
+administrative divisions responsible for training 
+and development which cover areas of Russia, not 
+areas of the globe like US Combatant Commands. 
+Military Districts are joint headquarters controlling 
+the forces in their respective regions, except for 
+several strategic assets (the VDV, Strategic Rocket 
+Forces, and GRU Spetsnaz). Military Districts are 
+intended to operationalize into Joint Strategic 
+Commands during wartime and serve as flexible 
+structures able to integrate and command varied 
+units from other Military Districts, strategic assets, 
+and military forces beyond the Ministry of Defense 
+such as Rosgvardia units. Russia apparently opera -
+tionalized all four main military districts in 2022 
+at once and assigned them areas of responsibility in 
+VIII For more on Russian infantry tactics in Ukraine in 2023, see Jack Watling and Nick Reynolds, “Meatgrinder: Russian Tactics in the Second Year of Its Inva-
+sion of Ukraine,” Royal United Services Institute, May 19, 2023, https://static.rusi.org/403-SR-Russian-Tactics-web-final.pdf.   
+IX The current Military District structure – with Districts holding both administrative and operational control over their units – was created in 2010 with the 
+consolidation of seven previous districts into the Western, Southern, Central, and Eastern Military Districts. The Northern Fleet Strategic Command was 
+created in 2014 and promoted to a full Military District in January 2021, but remains last among equals with the four primary districts. Shoigu announced in 
+January 2023 that the MoD will bring back the pre-2010 Leningrad and Moscow Military Districts by 2026, but we have observed no practical implementa-
+tion of this initiative to date. 
+Ukraine and has retained this model as “groupings 
+of forces” commanded by elements of each Military 
+District HQ (with some modifications, including 
+the creation of a “Dnepr” group of forces) as of 
+September 2023.
+The primary formations of the Russian ground 
+forces are the 12 combined arms armies (one of 
+which is designated the 1st Guards Tank Army 
+but is not structurally different from the CAAs). 
+Armies are not standardized, with smaller Central 
+Military District (CMD) and Eastern Military 
+District (EMD) armies comprised of a few brigades 
+and the main formations of the WMD and SMD 
+commanding multiple large divisions. Army head -
+quarters are intended to be flexible HQs that can 
+run varied operations and take in new assets from 
+other formations – such as the SMD’s 8th CAA 
+command of Russian operations in the Donbas 
+from 2014 to 2022, which included units from 
+across Russia’s military districts. Armies impor -
+tantly directly control logistics, artillery, and 
+air defense units which are detached to support 
+the maneuver divisions and brigades in combat. 
+Russian Army Corps are collocated with and sub -
+ordinate to fleet HQs and serve the same function 
+as Army HQs, with strengths comparable to the 
+smaller CMD and EMD CAAs. 
+The Russian army almost entirely eliminated its 
+divisions and regiments in 2008 and replaced 
+them with brigades, based on the assessment that 
+the only wars Russia would need to fight would be 
+small-scale local wars and that Russia would there -
+fore be better served by smaller, more flexible, and 
+more professional brigades. The Russian military 
+has steadily brought back divisions as the MoD 
+observed the need for formations intended to fight 
+large-scale conventional wars, rather than solely 
+the brigades intended for local wars. Russia now 
+operates a mix of divisions and brigades. Russian 
+tank and motorized divisions vary greatly in size 
+and capabilities (like their parent armies) but are 
+
+14 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+always comprised of subordinate regiments. Only 
+the 150th Motorized Rifle (8th CAA) and 90th 
+Guards Tank (41st CAA) Divisions contain the 
+Soviet-era complement of four regiments, with 
+the rest containing two to three regiments (and 
+in some cases only one, for divisions still under 
+formation) and necessary combat and noncombat 
+support elements. VDV divisions are organized 
+similarly, with two or three maneuver regiments in 
+addition to support elements. Russian maneuver 
+regiments are slightly smaller than brigades and 
+are not designed to fight independently of their 
+division HQ and support elements for protracted 
+periods. Unlike in the US military, brigades are 
+not part of divisions and instead report directly to 
+Army HQs. Brigades are designed to be capable of 
+independent action and contain their own support 
+elements, unlike regiments. 
+The Russian military in practice deployed Battalion 
+Tactical Groups (BTGs) from parent brigades and 
+regiments as the primary maneuver element for 
+much of the initial period of the 2022 invasion 
+of Ukraine, though the explicit use of BTGs has 
+diminished throughout the war. A brief introduc -
+tion to the BTG follows, with further recommended 
+readings included in the bibliography. BTGs have 
+existed in various forms since the Soviet era, were 
+developed further in the early 21st century, and 
+formed the primary Russian unit in the Donbas 
+2014-2016. Each brigade and regiment has the 
+capability to “generate” one or two BTGs from its 
+nominal four component battalions by assembling 
+the contract personnel and most qualified officers 
+of the parent units into reinforced battalions with 
+attached artillery and support elements, intended 
+to be capable of limited action independent from 
+their parent unit. BTGs are theoretically task-or -
+ganized and can vary widely in capabilities. BTGs 
+enable peacetime brigades and regiments to gener -
+ate deployable forces, at the cost of cannibalizing the 
+rest of the parent units and imposing interopera -
+bility challenges between personnel assembled from 
+varied peacetime battalions on often short notice. 
+BTGs additionally notably expose Russian brigades 
+and regiments to being rendered combat ineffective 
+by the loss of key assets early – both key supporting 
+elements as well as losses among the most experi -
+enced troops and commanders, who are assigned 
+to the generated BTGs first and leave an ineffective 
+shell behind when lost. 
+
+UNDERSTANDINGWAR.ORG  15
+OCTOBER 2023
+Russia’s Regular Ground Forces Order of Battle
+Western Military District
+1st Guards Tank Army , в/ч 73621 — Bakovka, 
+Moscow Oblast1 
+2nd Guards Motorized Rifle Division, в/ч 23626 — 
+Kalininets, Moscow Oblast2
+• 1st Guards Motorized Rifle Regiment, в/ч 
+31135 — Kalininets, Moscow Oblast 3
+• 15th Guards Motorized Rifle Regiment, 
+в/ч 31134 — Kalininets, Moscow Oblast 4
+• 1st Tank Regiment, в/ч 58198 — Ka -
+lininets, Moscow Oblast 5
+• 136th Reconnaissance Battalion, в/ч 
+51387 — Kalininets, Moscow Oblast 6
+• 147th Self-Propelled Artillery Regiment, 
+в/ч 73966 — Kalininets, Moscow Oblast 7
+• 1174th Anti-Tank Battalion, в/ч 51381 — 
+Kalininets, Moscow Oblast 8
+• 1117th Anti-Aircraft Missile Regiment, в/ч 
+51382 — Golitsyno, Moscow Oblast 9
+4th Guards Tank Division, в/ч 19612 — Naro-
+Fominsk, Moscow Oblast10
+• 12th Guards Tank Regiment, в/ч 31985 — 
+Naro-Fominsk, Moscow Oblast 11
+• 13th Guards Tank Regiment,  в/ч 32010 — 
+Naro-Fominsk, Moscow Oblast 12
+• 423rd Motorized Rifle Regiment, в/ч 
+91701 — Naro-Fominsk, Moscow Oblast 13
+• 137th Reconnaissance Battalion, в/ч 
+54919 — Naro-Fominsk, Moscow Oblast 14
+• 275th Self-Propelled Artillery Regiment, 
+в/ч 73941 — Naro-Fominsk, Moscow 
+Oblast 15
+• 49th Anti-Aircraft Missile Brigade,  в/ч 
+21555 — Smolensk, Smolensk Oblast 16
+• 538th Guards Anti-Aircraft Missile 
+Regiment,  в/ч 51383 — Naro-Fominsk, 
+Moscow Oblast 17
+47th Tank Division (Established on the basis of the 
+6th Tank Brigade in December 2021), в/ч 64238 — 
+Mulino, Nizhny Novgorod Oblast18
+• 26th Tank Regiment, в/ч UNK — Mulino, 
+Nizhny Novgorod 19
+• 7th Reconnaissance Battalion, в/ч UNK — 
+UNK basing 20
+• [Likely Unidentified Artillery Regiment]
+• [Likely Unidentified Anti-Aircraft Mis -
+sile Brigade] 
+Subordinate to Army HQ
+• 27th Motorized Rifle Brigade, в/ч 61899 
+— Mosrentgen, Moscow City 21
+• 96th Reconnaissance Brigade, в/ч 52634 
+— Nizhny Novgorod, Nizhny Novgorod 
+Oblast 22
+• 288th Artillery Brigade, в/ч 30683 — 
+Mulino, Nizhny Novgorod Oblast 23
+• 112th Missile Brigade, в/ч 03333 — Shuya, 
+Ivanovo Oblast 24
+6th Combined Arms Army, в/ч 31807 — Agalatovo, 
+Leningrad Oblast25
+Subordinate to Army HQ
+• 138th Motorized Rifle Brigade, в/ч 02511 
+— Kamenka, Leningrad Oblast 26
+• 25th Motorized Rifle Brigade, в/ч 29760 
+— Luga, Leningrad Oblast 27
+• 9th Artillery Brigade, в/ч 02561 — Luga, 
+Leningrad Oblast 28
+• 26th Missile Brigade, в/ч 54006 — Luga, 
+Leningrad Oblast 29
+• 5th Anti-Aircraft Missile Brigade, в/ч 
+74429 — Gorlovo, St. Petersburg City 30
+20th Guards Combined Arms Army, в/ч 89425 — 
+Voronezh, Voronezh Oblast31
+3rd Motorized Rifle Division, в/ч 54046 — Boguchar, 
+Voronezh Oblast32
+• 752nd Motorized Rifle Regiment, в/ч 
+34670 — Valuyki, Belgorod Oblast 33
+• 252nd Motorized Rifle Regiment, в/ч 
+91711 — Boguchar, Voronezh Oblast 34
+• 237th Guards Tank Regiment, в/ч 91726 
+— Valuyki and Soloti, Belgorod Oblast 35
+• 84th Reconnaissance Battalion,  в/ч 22263 
+— Valuyki, Belgorod Oblast 36
+• 99th Self-Propelled Artillery Regiment, 
+в/ч 91727 — Boguchar, Voronezh Oblast 37
+
+16 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+• 159th Separate Anti-Tank Battalion, в/ч 
+81989 — Boguchar, Voronezh Oblast 38
+• 1143rd Separate Anti-Aircraft Missile Bat -
+talion, в/ч 48422 — Nizhny Novgorod, 
+Nizhny Novgorod Oblast 39
+144th Motorized Rifle Division, в/ч 23060 — Yelnya, 
+Smolensk Oblast40
+• 254th Guards Motorized Rifle Regiment, 
+в/ч 91704 — Zaimishche village, Klintsy, 
+Bryansk Oblast 41
+• 488th Guards Motorized Rifle Regiment, 
+в/ч 12721 — Klintsy, Bryansk Oblast 42
+• 59th Guards Tank Regiment,  в/ч 94018 — 
+Yelnya, Smolensk Oblast 43
+• 148th Reconnaissance Battalion, в/ч 
+23872 — Smolensk, Smolensk Oblast 44
+• 856th Guards Self-Propelled Artillery 
+Regiment, в/ч 23857 — Pochep, Bryansk 
+Oblast 45
+• 1259th Separate Anti-Tank Artillery 
+Battalion, в/ч UNK — Yelnya, Smolensk 
+Oblast 46
+• 673rd Separate Anti-Aircraft Missile Bat -
+talion, в/ч 53821 — Smolensk, Smolensk 
+Oblast 47
+Subordinate to Army HQ 
+• 236th Guards Artillery Brigade,  в/ч 53195 
+— Kolomna, Moscow Oblast 48
+• 448th Missile Brigade, в/ч 35535 — 
+Kursk, Kursk Oblast 49
+• 53rd Guards Anti-Aircraft Missile Bri -
+gade, в/ч 32406 — Marshal Zhukov vil -
+lage, Kursk Oblast 50
+Baltic Sea Fleet,  в/ч  51280 — Kaliningrad and 
+Gusev, Kaliningrad Oblast51
+11th Army Corps (Established in 2016), в/ч 54259 — 
+Gusev, Kaliningrad Oblast 52
+18th Guards Motorized Rifle Division (Established 
+December 2020 on the basis of the 79 th Separate 
+Guards Motorized Rifle Brigade), в/ч UNK — 
+Gusev, Kaliningrad Oblast53
+• 275th Motorized Rifle Regiment (Newly 
+established, presented with formal ban -
+ners in April 2021), в/ч UNK—Gusev, 
+Kaliningrad Oblast 54
+• 280th Motorized Rifle Regiment (Newly 
+established, presented with formal ban -
+ners in April 2021), в/ч UNK — Gusev, 
+Kaliningrad Oblast 55
+• 79th Guards Motorized Rifle Regiment,  
+в/ч 90151 — Gusev, Kaliningrad Oblast 56
+• 11th Tank Regiment (Established late 2018 
+on the basis of the 11 th Separate Tank Bat -
+talion), в/ч 41611 — Gusev, Kaliningrad 
+Oblast 57
+• 20th Separate Reconnaissance Battal -
+ion, в/ч 12563 — Sovetsk, Kaliningrad 
+Oblast 58
+• 22nd Guards Anti-Aircraft Missile Regi -
+ment, в/ч UNK — Kaliningrad, Kalinin -
+grad Oblast 59
+Subordinate to Corps HQ
+• 7th Guards Motorized Rifle Regiment (a 
+Russian media outlet reported in 2016 
+that the 7 th Regiment would be reorga -
+nized into a brigade, but ISW has not 
+observed further confirmation of this 
+change), в/ч 06414 — Kaliningrad, Ka -
+liningrad Oblast 60
+• 336th Naval Infantry Brigade, в/ч 06017 
+— Baltiysk, Kaliningrad Oblast 61
+• 561st Maritime Reconnaissance Point (es -
+sentially a naval spetsnaz battalion), в/ч 
+10617 — Parusnoye, Kaliningrad Oblast 62
+• 244th Artillery Brigade,  в/ч 41603 — Ka -
+liningrad, Kaliningrad Oblast 63
+• 152nd Missile Brigade, в/ч 54229 — 
+Chernyakhovsk, Kaliningrad Oblast 64
+• 27th Coastal Missile Brigade, в/ч 39108 — 
+Donskoye, Kaliningrad Oblast 65
+District-level units
+Operative Group of the Russian Armed Forces 
+in Transnistria, Moldova, в/ч 13962 — Tiraspol, 
+Moldova 66
+• 82nd Motorized Rifle Battalion, в/ч 
+74273 — Bender and Tiraspol, Moldova 67
+• 113th Motorized Rifle Battalion, в/ч 22137 
+— Tiraspol, Moldova 68
+• 540th Command Battalion, в/ч 09353 — 
+Tiraspol, Moldova 69
+45th Heavy Artillery Brigade, в/ч 31969 — Tambov, 
+Tambov Oblast70
+79th Guards Rocket Artillery Brigade, в/ч 53959 — 
+Tver, Tver Oblast71
+
+UNDERSTANDINGWAR.ORG  17
+OCTOBER 2023
+202nd Anti-Aircraft Missile Brigade, в/ч 43034 — 
+Naro-Fominsk, Moscow Oblast72
+27th Separate Guards Radiation, Chemical, and 
+Biological Protection Brigade, в/ч 11262 — Kursk, 
+Kursk Oblast73
+1st Guards Engineer-Sapper Brigade, в/ч 11105 — 
+Murom, Vladimir Oblast74
+45th Separate Guards Engineering Brigade, в/ч 
+11361 — Nakhabino, Moscow Oblast 75
+Southern Military District
+8th Guards Combined Arms Army, в/ч 61877 — 
+Novocherkassk, Rostov Oblast76
+150th Motorized Rifle Division, в/ч 22179 — 
+Novocherkassk, Rostov Oblast77
+• 102nd Motorized Rifle Regiment, в/ч 
+91706 — Persianovskyi, Rostov Oblast 78
+• 103rd Motorized Rifle Regiment, в/ч 
+91708 — Rostov-on-Don, Rostov Oblast 79
+• 68th Tank Regiment, в/ч 91714 — Per -
+sianovskyi, Rostov Oblast 80
+• 163rd Tank Regiment, в/ч 84839 — Per -
+sianovskyi, Rostov Oblast 81
+• 174th Reconnaissance Battalion, в/ч 
+22265 — Persianovskyi, Rostov Oblast 82
+• 381st Self-Propelled Artillery Regiment, 
+в/ч 24390 — Kuzminka, Rostov Oblast 83
+• 224th Separate Anti-Tank Artillery Bat -
+talion, в/ч UNK — Kuzminka, Rostov 
+Oblast 84
+• 933rd Anti-Aircraft Missile Regiment, в/ч 
+15269 — Millerovo, Rostov Oblast 85
+20th Guards Motorized Rifle Division (Established 
+on the basis of the 20 th Guards Motorized Rifle 
+Brigade in December 2021), в/ч 58550 — Volgograd, 
+Volgograd Oblast86
+• 255th Motorized Rifle Regiment,  в/ч 
+34605 — Volgograd, Volgograd Oblast 87
+• 33rd Motorized Rifle Regiment, в/ч UNK 
+— Kamyshin, Volgograd Oblast 88
+• 944th Guards Self-Propelled Artillery 
+Regiment, в/ч 21511 — Latoshinka, Vol -
+gograd Oblast 89
+• 487th Separate Anti-Tank Battalion, в/ч 
+UNK — Volgograd, Volgograd Oblast 90
+• 358th Guards Anti-Aircraft Missile Regi -
+ment, в/ч 26006 — Kamyshin, Volgograd 
+Oblast 91
+Subordinate to Army HQ
+• 238th Artillery Brigade, в/ч UNK — Ko -
+renovsk, Krasnodar Krai 92
+• 47th Missile Brigade, в/ч 33166 — Dyad -
+kovskaya village, Krasnodar Krai 93
+• 78th Anti-Aircraft Missile Brigade, в/ч 
+UNK — UNK town, Rostov Oblast 94
+49th Combined Arms Army, в/ч 35181 — Stavropol, 
+Stavropol Krai95
+Subordinate to Army HQ
+• 205th Motorized Rifle Brigade,  в/ч 74814 
+— Budyonnovsk, Stavropol Krai 96
+• 34th Motorized Rifle Brigade (Moun -
+tain), в/ч 01485 — Storozhevaya, Kara -
+chay-Cherkessia 97
+• 7th Military Base (Brigade strength), в/ч, 
+09332 — Gudauta, Abkhazia 98
+• 19th Separate Special Forces Company, 
+в/ч 82760 — Stavropol, Stavropol Krai 99
+• 227th Artillery Brigade,  в/ч 13714 — 
+Maykop, Adgyea Republic 100
+• 1st Missile Brigade, в/ч 31853 — Molkino, 
+Krasnodar Krai 101
+• 90th Anti-Aircraft Missile Brigade, в/ч 
+54821 — Afipsky, Krasnodar Krai 102
+58th Combined Arms Army, в/ч 47084 — 
+Vladikavkaz, North Ossetia-Alania Republic103
+42nd Motorized Rifle Division, в/ч 27777 — Grozny, 
+Chechnya104
+• 70th Guards Motorized Rifle Regiment, 
+в/ч 71718 — Shali, Chechnya 105
+• 71st Guards Motorized Rifle Regiment, 
+в/ч 16544 — Kalinovskaya, Chechnya 106
+• 291st Guards Motorized Rifle Regiment, 
+в/ч 65384 — Borzoy, Chechnya 107
+• 78th Special Purpose Motorized Regi -
+ment “Sever-Akhmat” (Newly formed in 
+September 2022 by Chechen Republic 
+Head Ramzan Kadyrov and reportedly 
+subordinated to the 42 nd Motorized Rifle 
+
+18 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Division), в/ч 77192 — Sernovodskoye, 
+Chechnya 108
+• 417th Separate Reconnaissance Battalion, 
+в/ч 13242 — Khankala, Chechnya 109
+• 50th Self-Propelled Artillery Regiment, 
+в/ч 53185 — Shali, Chechnya 110
+• 150th Separate Anti-Tank Artillery Battal -
+ion, в/ч 24566 — Grozny, Chechnya 111
+• 245th Separate Anti-Aircraft Missile Bat -
+talion, в/ч 81510 — Grozny, Chechnya 112
+19th Motorized Rifle Division, в/ч 20634 — 
+Vladikavkaz, Republic of North Ossetia-Alania113
+• 429th Motorized Rifle Regiment, в/ч 
+01860 — Sputnik, Vladikavkaz, Republic 
+of North Ossetia-Alania 114
+• 503rd Motorized Rifle Regiment, в/ч 
+75394 — Vladikavkaz, Republic of North 
+Ossetia-Alania 115
+• [Likely Unidentified Artillery Regiment]
+• [Likely Unidentified Anti-Aircraft Mis -
+sile Regiment]
+Subordinate to Army HQ
+• 136th Guards Motorized Rifle Brigade, 
+в/ч 63354 — Buynaksk, Dagestan 116
+• 4th Guards Base, в/ч 66431 — Tskhinvali, 
+South Ossetia 117
+• 100th Reconnaissance Brigade, в/ч 23511 
+— Mozdok, Republic of North Osse -
+tia-Alania 118
+• 291st Artillery Brigade, в/ч 64670 — 
+Troitskaya, Republic of Ingushetia 119
+• 12th Missile Brigade, в/ч 25788 — Moz -
+dok, Republic of North Ossetia-Alania 120 
+Black Sea Fleet, в/ч UNK — Sevastopol, occupied 
+Crimea121
+22nd Army Corps, в/ч 73954 — Simferopol, occu -
+pied Crimea122
+• 126th Coastal Defense Brigade, в/ч 12676 
+— Perevalne, occupied Crimea 123
+• 127th Reconnaissance Brigade, в/ч 67606 
+— Sevastopol, occupied Crimea 124
+• 8th Artillery Regiment, в/ч 87714 — 
+Perevalne, occupied Crimea 125
+• 15th Coastal Missile Brigade, в/ч UNK — 
+Sevastopol, occupied Crimea 126
+Subordinate to Fleet HQ
+• 810th Naval Infantry Brigade, в/ч 13140 — 
+Sevastopol, occupied Crimea 127
+• 388th Maritime Recon Point (essentially 
+a naval spetsnaz battalion), в/ч 43071 — 
+Sevastopol, occupied Crimea 128
+• 854th Separate Coastal Missile Regi -
+ment, в/ч UNK — Sevastopol, occupied 
+Crimea 129
+• 11th Coastal Missile Brigade, в/ч 00916 — 
+Utash and Anapa, Krasnodar Krai 130
+District-level units
+Caspian Flotilla, в/ч 62780 — Kaspiysk, Dagestan131
+• 177th Naval Infantry Regiment, в/ч UNK 
+— Kaspiysk, Dagestan 132
+• 51st Separate Coastal Missile Battalion, 
+в/ч UNK — Kaspiysk, Dagestan 133
+102nd Military Base (Exact composition unknown 
+but presumed), в/ч 04436 — Gyumri, Armenia 134
+• [3 Unidentified motorized rifle battal -
+ions] 
+• [1 Unidentified tank battalion] 
+• [2 Unidentified self-propelled artillery 
+battalions] 
+• [1 Unidentified rocket artillery battalion]
+• [1 Unidentified anti-tank artillery battal -
+ion] 
+• [1 Unidentified anti-aircraft missile bat -
+talion] 
+• [1 Unidentified anti-aircraft missile and 
+artillery battalion] 
+• 988th Anti-aircraft Missile Regiment, в/ч 
+81594 — Gyumri, Armenia 135
+439th Guards Rocket Artillery Brigade, в/ч 48315 — 
+Znamensk, Astrakhan Oblast136
+77th Anti-Aircraft Missile Brigade, в/ч 33742 — 
+Korenovsk, Krasnodar Krai137
+11th Separate Guards Engineering Brigade, в/ч 
+45767 — Kamensk-Shakhtinsky, Rostov Oblast 138
+28th Separate Radiation, Chemical, and Biological 
+Protection Brigade, в/ч 65363 — Kamyshin, 
+Volgograd Oblast139
+
+UNDERSTANDINGWAR.ORG  19
+OCTOBER 2023
+Central Military District
+41st Combined Arms Army,  в/ч  64128 — 
+Novosibirsk, Novosibirsk Oblast140
+90th Guards Tank Division, в/ч 86274 — Chebarkul, 
+Chelyabinsk Oblast141
+• 239th Tank Regiment, в/ч 89547 — Che -
+barkul, Chelyabinsk Oblast 142
+• 6th Guards Tank Regiment, в/ч 93992 — 
+Chebarkul, Chelyabinsk Oblast 143
+• 80th Tank Regiment, в/ч 87441 — Che -
+barkul, Chelyabinsk Oblast 144
+• 228th Motorized Rifle Regiment, в/ч 
+22316 — Yekaterinburg, Sverdlovsk 
+Oblast145
+• 30th Reconnaissance Battalion, в/ч 17654 
+— Chebarkul, Chelyabinsk Oblast 146
+• 400th Self-Propelled Artillery Regiment, 
+в/ч 15871 — Chebarkul, Chelyabinsk 
+Oblast147
+Subordinate to Army HQ
+• 35th Guards Motorized Rifle Brigade, в/ч 
+41659 — Aleysk, Altai Krai 148
+• 74th Guards Motorized Rifle Brigade, в/ч 
+21005 — Yurga, Kemerovo Oblast 149
+• 55th Motorized Rifle Brigade (Mountain), 
+в/ч 55115 — Kyzyl, Tuva Republic 150
+• 120th Artillery Brigade, в/ч 59361 — Yur -
+ga, Kemerovo Oblast 151
+• 199th Missile Brigade, в/ч 49547 — Yelans -
+kiy, Sverdlovsk Oblast 152
+2nd Guards Combined Arms Army, в/ч 22223 — 
+Samara, Samara Oblast153
+Subordinate to Army HQ
+• 30th Motorized Rifle Brigade, в/ч 45863 — 
+Roshchinsky, Samara Oblast 154
+• 15th Motorized Rifle Brigade, в/ч 90600 — 
+Roshchinsky, Samara Oblast 155
+• 21st Guards Motorized Rifle Brigade, в/ч 
+12128 — Totskoye, Orenburg Oblast 156
+• 385th Artillery Brigade, в/ч 32755 — 
+Totskoye, Orenburg Oblast 157
+• 950th Rocket Artillery Regiment, в/ч 
+92190 — Totskoye, Orenburg Oblast 158
+• 92nd Missile Brigade, в/ч 30785 — 
+Totskoye, Orenburg Oblast 159 
+• 297th Anti-Aircraft Missile Brigade, в/ч 
+02030 — Leonidovka, Penza Oblast 160
+District-level units
+201st Military Base, в/ч 01162 — Dushanbe, 
+Tajikistan161
+• 92nd Motorized Rifle Regiment, в/ч 31691 
+— Dushanbe, Tajikistan 162
+• [Unidentified Separate Tank Battalion] —
+Dushanbe, Tajikistan
+• [Unidentified Reconnaissance Battalion] 
+—Dushanbe, Tajikistan
+• [Unidentified Rocket Artillery Battalion] 
+—Dushanbe, Tajikistan
+• 232nd Guards Rocket Artillery Brigade, в/ч 
+31643 — Cherbakul, Chelyabinsk Oblast 163
+• 28th Anti-Aircraft Missile Brigade, в/ч 
+71316 — Mirny, Kirov Oblast 164
+• 1st Mobile Radiation, Chemical, and Bi -
+ological Protection Brigade, в/ч 71432 — 
+Shikhany, Saratov Oblast 165
+• 29th Separate Radiation, Chemical, and 
+Biological Protection Brigade,  в/ч 34081 
+— Yekaterinburg, Sverdlovsk Oblast 166
+• 12th Separate Guards Engineering Brigade, 
+в/ч 63494 — Alkino-2, Bashkortostan 167
+Eastern Military District
+5th Combined Arms Army, в/ч 06426 — Ussuriysk, 
+Primorsky Krai168
+127th Motorized Rifle Division (Established in 
+December 2018 on the basis of the 59 th Motorized 
+Rifle Brigade),  в/ч  44980 — Sergeyevka, 
+Primorsky Krai 169
+• 394th Motorized Rifle Regiment, в/ч 
+25573 — Sergeyevka, Primorsky Krai 170
+• 143rd Motorized Rifle Regiment,  в/ч 
+21634 — Sergeyevka, Primorsky Krai 171
+• 114th Motorized Rifle Regiment, в/ч 
+24776 — Ussuriysk, Primorsky Krai 172
+• 218th Tank Regiment, в/ч 82588 — Serge -
+yevka, Primorsky Krai 173
+• 872nd Self-Propelled Artillery Regiment, 
+в/ч 75234 — Sergeyevka, Primorsky 
+Krai174
+• 1171st Anti-Aircraft Missile Regiment, в/ч 
+65484 — Ussuriysk, Primorsky Krai 175
+
+20 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Subordinate to Army HQ
+• 57th Guards Motorized Rifle Brigade, в/ч 
+46102 — Bikin, Khabarovsk Krai 176
+• 305th Artillery Brigade, в/ч 39255 — Us -
+suriysk, Primorsky Krai 177
+• 20th Missile Brigade, в/ч 92088 — 
+Spassk-Dalny, Primorsky Krai 178
+35th Combined Arms Army, в/ч 02492 — 
+Belogorsk, Amur Oblast179
+Subordinate to Army HQ
+• 64th Motorized Rifle Brigade, в/ч 51460 
+— Knyaze-Volkonskoye, Khabarovsk 
+Krai180
+• 38th Guards Motorized Rifle Brigade,  в/ч 
+21720 — Ekaterinoslavka, Amur Oblast 181
+• 69th Covering Brigade (a strictly defen -
+sive brigade on the Chinese border), в/ч 
+61424 —Babstovo, Jewish Autonomous 
+Oblast 182
+• 165th Artillery Brigade,  в/ч 02901 — 
+Belogorsk, Amur Oblast 183
+• 107th Missile Brigade, в/ч 47062 — Biro -
+bidzhan, Jewish Autonomous Oblast 184
+• 71st Anti-Aircraft Missile Brigade, в/ч 
+01879 — Belogorsk, Amur Oblast 185
+36th Combined Arms Army,  в/ч 05776 — Ulan-
+Ude, Republic of Buryatia186
+Subordinate to Army HQ
+• 37th Guards Motorized Rifle Brigade, в/ч 
+69647 — Kyakhta, Republic of Buryatia 187
+• 5th Guards Tank Brigade, в/ч 46108 — 
+Divizionnaya station, Republic of Bury -
+atia188
+• 30th Artillery Brigade, в/ч 62048 — Div -
+izionnaya and Taltsy stations, Republic of 
+Buryatia 189
+• 103rd Missile Brigade, в/ч 47130 — Divi -
+sionnaya station, Republic of Buryatia 190
+• 35th Guards Anti-Aircraft Missile Bri -
+gade, в/ч 34696 — Ulan-Ude, Republic 
+of Buryatia 191
+29th Combined Arms Army, в/ч 32853 — Chita, 
+Zabaykalsky Krai192 
+ 
+Subordinate to Army HQ
+• 36th Guards Motorized Rifle Brigade, в/ч 
+06705 — Borzya, Zabaykalsky Krai 193
+• 200th Artillery Brigade, в/ч 48271 — 
+Gorny, Zabaykalsky Krai 194
+• 3rd Missile Brigade, в/ч 33558 — Gorny, 
+Zabyakalsky Krai 195
+• 140th Anti-Aircraft Missile Brigade, в/ч 
+32390 — Domna, Zabaykalsky Krai 196
+Pacific Fleet, в/ч 62665 — Vladivostok,  
+Primorsky Krai197
+Subordinate to Fleet HQ
+• 155th Naval Infantry Brigade, в/ч 30926 
+— Vladivostok, Primorsky Krai 198
+• 40th Naval Infantry Brigade, в/ч 10103 — 
+Petropavlovsk-Kamchatsky, Kamchatka 
+Krai199
+• 42nd Maritime Reconnaissance Point 
+(essentially a naval spetsnaz battalion), 
+в/ч 59190 — Russky Island, Primorsky 
+Krai200
+• 72nd Coastal Missile Brigade, в/ч 15118 — 
+Smolyaninovo, Primorsky Krai 201
+• 520th Coastal Missile Brigade, в/ч 30973 
+— Anglichanka, Kamchatka Krai 202
+• 75th Coastal Missile Brigade (Newly 
+formed in December 2020), в/ч UNK — 
+Sakhalin and Kuril Islands 203
+68th Army Corps, в/ч UNK — Yuzhno-Sakhalinsk, 
+Sakhalin and Kuril Islands204
+18th Machine Gun Artillery Division (an under-re -
+sourced and insufficiently mechanized unit intended 
+to defend the Kuril Islands against Japan), в/ч 05812 
+— Goryachiye Klyuchi, Sakhalin Oblast 205
+• 46th Machine Gun Artillery Regiment, 
+в/ч 71435—Lagunnoye, Kunashir/
+Kunashiri Island, Sakhalin Oblast 206
+• 49th Machine Gun Artillery Regiment, 
+в/ч 71439 — Goryachiye Klyuchi, Sakha -
+lin Oblast 207
+• [Unidentified Rocket Artillery Battery], 
+в/ч UNK — Kunashir/Kunashiri Island, 
+Sakhalin Oblast 
+Corps-level units
+• 39th Motorized Rifle Brigade,  в/ч 35390 
+— Yuzhno-Sakhalinsk, Sakhalin Oblast 208
+
+UNDERSTANDINGWAR.ORG  21
+OCTOBER 2023
+• 312th Separate Rocket Artillery Battalion, 
+в/ч UNK — Dachnoe, Sakhalin Oblast 209
+District-level units
+• 338th Guards Rocket Artillery Brigade, 
+в/ч 57367 — Ussuriysk, Krasnodar 
+Krai210
+• 38th Anti-Aircraft Missile Brigade (Newly 
+formed in January 2020), в/ч 47836 — 
+Ptichnik, Jewish Autonomous Oblast 211
+• 16th Radiation, Chemical, and Biological 
+Protection Brigade, в/ч 07059 — Lesoza -
+vodsk, Primorsky Krai 212
+• 14th Separate Guards Engineering Bri -
+gade, в/ч 30763 — Vyatskoye, Khabarovsk 
+Krai213
+Northern Fleet and Arctic 
+Joint Strategic Command
+Northern Fleet, в/ч 20546 —  Severomorsk, 
+Murmansk Oblast 214
+14th Army Corps, в/ч UNK — Severomorsk, 
+Murmansk Oblast215
+• 200th Motorized Rifle Brigade, в/ч 08275 
+— Luostari, Pechenga and Korzunovo, 
+Murmansk Oblast 216
+• 80th Arctic Motorized Rifle Brigade,  в/ч 
+34667 — Alakurtii, Murmansk Oblast 217
+District-level units —  Severomorsk, Murmansk 
+Oblast 
+• 61st Naval Infantry Brigade, в/ч 38643 — 
+Sputnik, Murmansk Oblast 218
+• 420th Maritime Reconnaissance Point 
+(essentially a naval spetsnaz battalion), в/ч 
+40145 — Polyarny, Murmansk Oblast 219
+• 536th Coastal Missile Brigade, в/ч 10544 
+— Olenya Guba, Murmansk Oblast 220
+• 63rd Separate Marine Engineering Regi -
+ment, в/ч 36085 — Severomorsk, Mur -
+mansk Oblast 221
+Russian Airborne Forces (VDV)
+7th Guards Mountain Air Assault Division, в/ч 
+61756 — Novorossiysk, Krasnodar Krai 222
+• 56th Guards Air Assault Regiment, в/ч 
+UNK — Feodosia, occupied Crimea 223
+• 108th Guards Air Assault Regiment,  
+в/ч 42091 — Novorossiysk, Krasnodar 
+Krai224
+• 247th Guards Air Assault Regiment, в/ч 
+54801 — Stavropol, Stavropol Krai 225
+• 171st Separate Air Assault Battalion, в/ч 
+UNK — Feodosia, occupied Crimea 226
+• 104th Separate Tank Battalion, в/ч UNK 
+— Novorossiysk, Krasnodar Krai 227
+• 162nd Separate Reconnaissance Battal -
+ion, в/ч 54377 — Novorossiysk, Krasno -
+dar Krai 228
+• 1141 st Artillery Regiment,  в/ч  40515 — 
+Anapa, Krasnodar Krai 229
+• 1537 th Anti-Aircraft Missile Regiment, 
+в/ч 26345 — Novorossiysk, Krasnodar 
+Krai230
+• 3rd Guards Anti-Aircraft Missile Regi -
+ment, в/ч 94021 — Novorossiysk, Kras -
+nodar Krai 231
+76th Guards Air Assault Division,  в/ч 07264 — 
+Pskov, Pskov Oblast 232
+• 104th Guards Air Assault Regiment, в/ч 
+32515 — Cherekha, Pskov Oblast 233
+• 234th Guards Air Assault Regiment, в/ч 
+74268 — Pskov, Pskov Oblast 234
+• 237th Guards Air Assault Regiment, в/ч 
+12865 — Pskov, Pskov Oblast 235
+• 124th Separate Tank Battalion, в/ч UNK 
+— Pskov, Pskov Oblast 236
+• 175th Separate Reconnaissance Battalion, 
+в/ч 54399 — Pskov, Pskov Oblast 237
+• 1140 th Artillery Regiment, в/ч 45377 — 
+Pskov, Pskov Oblast 238
+• 4th Guards Anti-Aircraft Missile Regi -
+ment, в/ч UNK — Pskov, Pskov Oblast 239
+98th Guards Airborne Division, в/ч 65451 — 
+Ivanovo, Ivanovo Oblast 240
+• 217th Guards Airborne Regiment, в/ч 
+62295 — Ivanovo, Ivanovo Oblast 241
+• 331st Guards Airborne Regiment, в/ч 71211 
+— Kostroma, Kostroma Oblast 242
+• 215th Separate Reconnaissance Battalion, 
+в/ч 65391 — Ivanovo, Ivanovo Oblast 243
+• 1065th Artillery Regiment, в/ч 62297 — 
+Kostroma, Kostroma Oblast244
+
+22 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+• 5th Guards Anti-Aircraft Missile Regiment, 
+в/ч 65376 — Ivanovo, Ivanovo Oblast 245
+106th Guards Airborne Division, в/ч 55599 — Tula, 
+Tula Oblast246
+• 51st Guards Airborne Regiment, в/ч 33842 
+— Tula, Tula Oblast247
+• 137th Guards Airborne Regiment, в/ч 
+41450 — Ryazan, Ryazan Oblast 248
+• 173rd Separate Reconnaissance Battalion, 
+в/ч 54392 — Tula, Tula Oblast249
+• 1182nd Artillery Regiment, в/ч 93723 — Na -
+ro-Fominsk, Moscow Oblast250
+• 1st Guards Anti-Aircraft Missile Regiment, 
+в/ч 71298 — Naro-Fominsk, Moscow 
+Oblast 251
+• [Unidentified Separate Tank Battalion], 
+в/ч UNK — Location UNK but likely Tula 
+Oblast
+Independent brigades not subordinate to a division 
+• 11th Separate Guards Air Assault Bri -
+gade, в/ч 32364 — Ulan-Ude, Republic 
+of Buryatia 252
+• 31st Separate Guards Air Assault Bri -
+gade, в/ч 73612 — Ulyanovsk, Ulyanovsk 
+Oblast 253
+• 83rd Separate Guards Air Assault Bri -
+gade, в/ч 71289 — Ussuriysk, Primorsky 
+Krai254
+• 45th Guards Spetsnaz Brigade (VDV unit 
+which operates as Spetsnaz formation), 
+в/ч 28337 — Kubinka, Moscow Oblas t255
+GRU Spetsnaz and Special 
+Operations Forces
+Spetsnaz Brigades (subordinate to the General 
+Staff’s Main Intelligence Directorate)
+• 2nd Guards Special Purpose Brigade, в/ч 
+64044 — Pskov, Pskov Oblast256
+• 3rd Guards Special Purpose Brigade, в/ч 
+21208 — Tolyatti, Samara Oblast257
+• 10th Guards Special Purpose Brigade, в/ч 
+51532 — Molkino, Krasnodar Krai 258
+• 14th Guards Special Purpose Brigade, в/ч 
+74854 — Khabarovsk, Kharbarovsk Krai 259
+• 16th Guards Special Purpose Brigade, в/ч 
+54607 — Tambov, Tambov Oblast260
+• 22nd Guards Special Purpose Brigade, в/ч 
+11659 — Stepnoy, Rostov Oblast 261
+• 24th Guards Special Purpose Brigade, 
+в/ч 55433 — Novosibirsk, Novosibirsk 
+Oblast262
+• 25th Guards Special Purpose Regiment, в/ч 
+05525 — Stavropol, Stavropol Krai 263
+Special Operations Command
+• KSSO forces, formed around the core of 
+the 346th Guards Special Purpose Brigade, 
+в/ч UNK — Kubinka, Moscow Oblast
+
+UNDERSTANDINGWAR.ORG  23
+OCTOBER 2023
+RUSSIAN REGULAR  
+GROUND FORCES 
+ORDER OF BATTLE
+Interactive Map 
+Noel Mikkelsen and George Barros with Thomas Bergeron,  
+Daniel Mealie, and Mitchell Belcher
+storymaps.arcgis.com/stories/6d9825cbafcd4cbf9 1cb6ce80d9e3f0f
+
+24 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Russian Military Districts
+
+UNDERSTANDINGWAR.ORG  25
+OCTOBER 2023
+
+
+26 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Russian Army Headquarters
+
+UNDERSTANDINGWAR.ORG  27
+OCTOBER 2023
+
+
+28 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Western Military District
+
+UNDERSTANDINGWAR.ORG  29
+OCTOBER 2023
+Southern Military District
+
+30 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Russian Order of Battle
+
+UNDERSTANDINGWAR.ORG  31
+OCTOBER 2023
+
+
+32 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Russian Order of Battle
+
+
+UNDERSTANDINGWAR.ORG  33
+OCTOBER 2023
+
+
+34 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Central Military District
+
+UNDERSTANDINGWAR.ORG  35
+OCTOBER 2023
+Russian Order of Battle
+
+36 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Eastern Military District
+
+UNDERSTANDINGWAR.ORG  37
+OCTOBER 2023
+Russian Order of Battle
+
+
+38 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Northern Fleet and Arctic Joint Strategic Command
+
+UNDERSTANDINGWAR.ORG  39
+OCTOBER 2023
+Russian Order of Battle
+
+
+40 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Russian Airborn Forces (VDV) Units
+
+
+UNDERSTANDINGWAR.ORG  41
+OCTOBER 2023
+
+
+42 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Russian Spetsnaz Units Subordinate to the General 
+Staff’s Main Intelligence Directorate (GRU)
+
+UNDERSTANDINGWAR.ORG  43
+OCTOBER 2023
+
+
+44 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Russian Order of Battle
+
+
+UNDERSTANDINGWAR.ORG  45
+OCTOBER 2023
+Russian Order of Battle
+
+46 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Russian Order of Battle
+
+UNDERSTANDINGWAR.ORG  47
+OCTOBER 2023
+Appendix A: Glossary of Russian Unit Types
+Primary unit types
+• Motorized rifle: Infantry mounted on tracked 
+or wheeled armored personnel carriers, and the 
+main combat power of the Russian ground forces. 
+The entire Russian ground force is “mechanized,” 
+in the Western parlance. Motorized rifle brigades 
+and regiments have a paper strength of three 
+motorized rifle battalions and one tank battalion. 
+• Tank: The main strike force of the Russian ground 
+forces. Tank brigades and regiments have a paper 
+strength of three tank battalions and one motor-
+ized rifle battalion. 
+• Naval Infantry: Russia’s marines, though in no 
+way comparable to the US Marine Corps in size 
+or joint capabilities. The Naval Infantry are fully 
+mechanized and equipped similarly to motor rifle 
+and VDV forces. 
+• VDV: Russia’s Airborne forces, and the elite of 
+the regular Russian military. Contrary to common 
+misconceptions, the VDV are considered the elite 
+of the Russian military, not the GRU Spetsnaz 
+units. VDV units are fully mechanized with airmo-
+bile specialty vehicles more lightly armored (but 
+frequently as heavily armed) as motor rifle units. 
+Airborne units are dropped via parachute, and air 
+assault units operate via rotary wing aircraft. 
+Artillery
+• Regular: Some Russian motorized rifle units 
+continue to operate towed howitzer artillery.
+• Self-propelled: The Russian army increas -
+ingly operates armored and mechanized 
+artillery, and most CAA-level artillery batteries 
+are self-propelled. 
+• Rocket artillery: Multiple Launch Rocket Systems 
+(MLRS), most commonly the “Grad” system.
+• Anti-tank artillery: Units equipped with a mix 
+of self-propelled antitank artillery and ATGM-
+equipped vehicles. 
+Support units
+• Reconnaissance: Dedicated ISR (Intelligence 
+Surveillance, and Reconnaissance) units. 
+• Missile brigade:  Short-range ballistic missile 
+assets equipped primarily with the Iskander 
+system. These units fill a tactical-operational 
+precision fires niche often filled by air power in 
+NATO militaries. 
+• Anti-aircraft missile brigade:  Short and 
+medium-range anti-air missile systems such 
+as the “Strela” and “Tor.” Long range opera -
+tional/strategic air defense assets such as the 
+S-300 and S-400 are part of the Aerospace 
+Defense Forces, not the Russian Army – and 
+are not covered in this ORBAT. 
+• Coastal missile: “Bal” and “Bastion” anti-ship 
+missile systems intended to defend Russian 
+coastal waters. 
+• Nuclear, Biological, and Chemical (NBC) 
+Protection Troops: NBC units operate thermo-
+baric artillery systems, and are therefore included 
+in this ORBAT as a combat support unit at the 
+Military District level. 
+• Spetsnaz: Short for “spetsialnogo naznacheniya,” 
+or “special purpose” units. Spetsnaz is often 
+used as a general term for special operations 
+forces operated by Russian security organizations 
+such as Rosgvardia and the Ministry of Internal 
+Affairs. This report uses this term to refer only to 
+the military forces of the GRU (Main Intelligence 
+Directorate, now technically simply the Main 
+Directorate or “GU” but still commonly referred 
+to as the GRU), the General Staff’s military intel-
+ligence organization. Spetsnaz units are directly 
+subordinate to the General Staff through the 
+GRU and are intended to serve as reconnaissance 
+and sabotage units, but in practice have been 
+pressed into service in Ukraine as light infantry 
+in heavy fighting. 
+• Special Operations Command: Russia’s Special 
+Operations Command (KSSO) was created in 
+
+48 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+March 2013 and is explicitly modeled on Western 
+special forces. The KSSO reports directly to the 
+General Staff – and does not run through the 
+GRU, unlike Spetsnaz brigades. The KSSO is 
+formed around the core of the 346th Special 
+Purpose Brigade, which retains this unit des -
+ignation in some reporting but is no longer a 
+typical GRU Spetsnaz unit.  
+Unusual maneuver units
+• Machine gun artillery:  The EMD’s 18th 
+Machine Gun Artillery Division is a defensive 
+unit assigned to defend the Kuril Islands from 
+Japan, though it reportedly deployed to Ukraine 
+in 2022. Functionally an understrength but 
+artillery-heavy motorized rifle division. 
+• Covering brigade: The 69th Separate Covering 
+Brigade is similar to the Machine Gun Artillery 
+Division, an understrength and artillery-heavy 
+motorized rifle brigade intended to provide 
+initial defense of Russia’s border with China. 
+• Coastal defense:  The maneuver units of the 
+Army Corps subordinated to Russia’s Fleet 
+Headquarters. Equipped, trained, and deployed 
+as motorized rifle units. 
+Unit titles
+• Guards: An honorary title assigned to units 
+assessed to have shown heroism and elite qual -
+ities. Several Russian units have newly received 
+the “Guards” title during the 2022 invasion of 
+Ukraine, and as of late 2023 the title has little 
+correlation with unit quality.
+• Mountain: Several Army and VDV units, pre -
+dominantly based in or near the Caucasus, 
+are trained for combat in mountainous 
+environments.
+• Arctic: The Northern Fleet’s 200th and 80th 
+Brigades (only the 80th is formally designated 
+“Arctic”) are smaller than regular motorized 
+rifle brigades and are trained and equipped for 
+combat in the Arctic Circle.
+Appendix B: Bibliography and Further Reading
+Further reading on the Russian 
+Armed Forces
+• Mark Galeotti, Putin’s Wars: From Chechnya to 
+Ukraine (Oxford: Osprey, 2022) – An excel -
+lent general introduction to the Russian mil -
+itary’s evolution from 1991 to February 2022 
+and general capabilities.
+• Lester W. Grau and Charles K. Bartles, “The 
+Russian Way of War: Force Structures, Tactics, 
+and Modernization of the Russian Ground 
+Forces,” Foreign Military Studies Office, Au -
+gust 22, 2017, https://www.armyupress.army.
+mil/portals/7/hot%20spots/documents/rus-
+sia/2017-07-the-russian-way-of-war-grau-
+bartles.pdf – This book by Grau and Bartles is 
+the most detailed open-source guide available 
+to Russian tactical and operational doctrine 
+and force composition, including equipment 
+details. This work is slightly out of date due to 
+Russian force restructuring since 2016 and the 
+return of divisions, but remains an essential 
+source. 
+• Aleksei Ramm, “The Russian Army: Organi -
+zation and Modernization,” Center for Naval 
+Analyses, October 1, 2019, https://www.cna.
+org/reports/2019/10/IOP-2019-U-021801-Fi-
+nal.pdf – This report is the best readable refer-
+ence on Combined Arms Army (CAA) compo-
+sition and the division vs brigade structure. 
+• Konrad Muzyka, “Russian Forces in the 
+Western Military District,” Center for Na -
+val Analyses, June 1, 2021, https://www.
+cna.org/reports/2021/06/Russian-Forc-
+es-in-the-Western-Military-District.pdf; 
+Konrad Muzyka, “Russian Forces in the 
+Southern Military District,” Center for Na -
+val Analyses, August 24, 2021, https://www.
+cna.org/reports/2022/01/Russian-Forc-
+es-in-the-Southern-Military-District.pdf  – 
+
+UNDERSTANDINGWAR.ORG  49
+OCTOBER 2023
+These two reports are excellent deep dives on 
+the structure and pre-February 2022 capa -
+bilities of Russian forces in the Western and 
+Southern Military Districts. 
+• Michael Kofman, Anya Fink, Dmitry Goren -
+burg, Mary Chesnut, Jeffrey Edmonds, and Ju-
+lian Waller, “Russian Military Strategy:  Core 
+Tenets and Operational Concepts,” Center for 
+Naval Analyses, August 6, 2021, https://www.
+cna.org/archive/CNA_Files/pdf/russian-mil-
+itary-strategy-core-tenets-and-operation-
+al-concepts.pdf – This report is a higher-level 
+look at theoretical Russian military strategy. It 
+situates the Russian units covered in this OR -
+BAT in doctrinal Russian thinking and excel -
+lently explains how the districts are theoretical-
+ly intended to function in wartime. This report 
+also includes a valuable glossary of the defini -
+tions of Russian military terms. 
+• Timothy L. Thomas, “Russian Military 
+Thought: Concepts and Elements,” MITRE 
+Corporation, August 8, 2019, https://www.
+mitre.org/sites/default/files/2021-11/prs-19-
+1004-russian-military-thought-concepts-el-
+ements.pdf – A detailed and holistic study of 
+Russian military thinking and conceptualiza -
+tion of modern and future war. 
+• Mykhaylo Zabrodskyi, Jack Watling, Oleksandr V. 
+Danylyuk, and Nick Reynolds, “Preliminary Les-
+sons in Conventional Warfighting from Russia’s 
+Invasion of Ukraine: February-July 2022,” Royal 
+United Services Institute, November 30, 2022, 
+https://static.rusi.org/359-SR-Ukraine-Prelim-
+inary-Lessons-Feb-July-2022-web-final.pdf – A 
+fantastic analysis of Russian and Ukrainian per-
+formance in the initial months of the 2022 inva-
+sion of Ukraine, including discussion of Russia’s 
+deviations from established doctrine in initial 
+lessons learned applicable to conventional warf-
+ighting writ large. 
+• Jack Watling and Nick Reynolds, “Meatgrind -
+er: Russian Tactics in the Second Year of Its 
+Invasion of Ukraine,” Royal United Services 
+Institute, May 19, 2023, https://static.rusi.
+org/403-SR-Russian-Tactics-web-final.pdf – 
+Another excellent RUSI report, covering Rus -
+sian tactics and adaptations in early 2023.
+• Scott Boston and Dara Massicot, “The Russian 
+Way of Warfare: A Primer,” RAND Corpora -
+tion, 2017, https://www.rand.org/pubs/per-
+spectives/PE231.html – Similar to this report, 
+this RAND work is an introduction to Russian 
+military thinking for non-experts, but with a 
+focus on theoretical Russian approaches to 
+conventional war with NATO. 
+Further reading on the  
+Battalion Tactical Group 
+• Lester W. Grau and Charles K. Bartles, “Getting 
+to Know the Russian Battalion Tactical Group,” 
+Royal United Services Institute, April 14, 2022, 
+https://rusi.org/explore-our-research/publica-
+tions/commentary/getting-know-russian-battal-
+ion-tactical-group – An excellent primer on the 
+Russian BTG, written in the early months of the 
+2022 invasion of Ukraine.
+• Nicolas J. Fiore, “Defeating the Russian Bat -
+talion Tactical Group,” ARMOR Mounted Ma-
+neuver Journal Vol. 128, No. 2 (Spring 2017): 
+pp. 9-17, https://www.benning.army.mil/
+armor/earmor/content/issues/2017/spring/
+2Fiore17.pdf – An article assessing tactics for 
+US Brigade Combat Teams to defeat Russian 
+BTGs. 
+• Michael Kofman and Rob Lee, “Not Built 
+for Purpose: The Russian Military’s Ill-Fat -
+ed Force-Design,” War on the Rocks, June 2, 
+2022, https://warontherocks.com/2022/06/
+not-built-for-purpose-the-russian-militarys-
+ill-fated-force-design/ – The best general re -
+port available on the Russian use of BTGs in 
+the specific context of Ukraine in 2022. 
+• Amos C. Fox, “Reflections on Russia’s 2022 
+Invasion of Ukraine: Combined Arms War -
+fare, The Battalion Tactical Group and Wars in 
+a Fishbowl,” Association of the United States 
+Army, September 29, 2022, https://www.ausa.
+org/publications/reflections-russias-2022-in-
+vasion-ukraine-combined-arms-warfare-bat-
+talion-tactical – An interesting report on Rus-
+sian failures over projecting the utility of BTGs 
+in Ukraine in 2014-2015 with disastrous re -
+sults in 2022. 
+
+50 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+Endnotes
+1 https://tass dot ru/armiya-i-opk/2150702; https://iz dot ru/
+news/612939; https://tass dot ru/obschestvo/3593714
+2 https://bizbi dot ru/handbook/vooruzhennye_sily/voen-
+nye_chasti_narofominska/77360/; https://army-today dot ru/
+wch/23626; https://du-lya dot ru/articles/tamanskaya-div-
+iziya-adres-podmoskove.html
+3 https://voinskaya-chast dot ru/vooruzhennye-cily/cuxoput-
+nye-vojska/1-motostrelkovyj-polk-tamanskoj-divizii-voinska-
+ya-chast-31135.html; https://mamasoldata.mybb dot ru/view-
+topic.php?id=863
+4 https://vk dot com/club7706879; https://admiral55 dot 
+ru/kontrakt/vch-31134.html; https://prizivniku dot com/
+voenchast/voinskaya-chast-31134
+5 https://www.youtube.com/watch?v=PPsGPfbEuVg; https://aro-
+graf dot ru/kontraktnaya/vch-61896.html
+6 http://www.bolshoyvopros dot ru/questions/1568145-naro-
+fominskij-rajon-pkalininec-51387-voinskaja-chast-chto-za-
+vojska.html; https://mf-bagration dot ru/kontrakt/alabino-
+moskovskaya-oblast-voinskaya.html; http://shaked-il dot blog-
+spot.com/2017/07/1.html
+7 https://www.pnp dot ru/social/shefy-iz-simferopolya-pos-
+etili-podmoskovnyy-polk.html; http://simadm dot ru/press/
+government/19869/
+8 https://vk dot com/wall-106415781_3007; https://topar-
+miya dot ru/pomoshh-prizyvnikam/voennaya-sluzhba/
+tamanskaya-diviziya
+9 https://ok dot ru/voyskovoep/album/59289111429171; https://
+vk dot com/wall-106415781_3007
+10 https://armyru dot com/suhoputnye-vojska/tankovye-vo-
+jska/4-ia-gvardeiskaia-kantemirovskaia-tankovaia-divizi-
+ia-v-ch-19612/; https://army-today dot ru/wch/19612; https://
+prizivniku dot com/voenchast/vch-19612-naro-fominske; 
+https://voinskayachast dot net/suhoputnie-voyska/tankovie/
+vch19612
+11 https://bizbi dot ru/news/sobytiya/12_tankovyy_polk_kan-
+temirovskoy_divizii_otmetil_den_rozhdeniya/; https://voinska-
+yachast dot net/suhoputnie-voyska/tankovie/vch31985; https://
+armyru dot com/suhoputnye-vojska/tankovye-vojska/12-i-tan-
+kovyi-polk-kantemirovskoi-tankovoi-divizii-v-ch-31985/
+12 https://voinskajachast dot ru/sukhoputnye-voyska/tan-
+kovye-voyska/voinskaya-chast-32010-13-yy-tankovyy-polk/; 
+https://poiski dot pro/group/vch32010
+13 https://army-today dot ru/wch/91701; https://t.me/svobod-
+nieslova/904; https://prizivniku dot com/podrazdeleniya/
+yampolskiy-polk-kantemirovskoy-divizii
+14 https://m.ok dot ru/group137otdelny; https://pomnirod dot 
+ru/materialy-k-statyam/rossiya-poslerevolyucionnaya/voennye/
+voinskie-podrazdeleniya1/tankisty/tankovye-divizii/4-ya-tanko-
+vaya-diviziya/3-j-tankovoj-divizii/137-j-otdelnyj-razvedyvatel-
+nyj-dembickij-krasnoznamyonnyj-ordena-aleksandra-nevskog-
+o-batalon-v-ch-54919-g.-naro-fominsk.html; https://
+prizivniku dot com/voenchast/vch-19612-naro-fominske
+15 https://vk dot com/wall-66190688_781966; https://xn--
+b1aadsxd dot xn--p1ai/strelkovoe-oruzhie/sostav-vzvoda.html
+16 https://rabota.smolensk dot ru/employer/detail/?companyId=
+497f9b04-1581-11e9-826e-000c2973da2c; https://smolgazeta 
+dot ru/daylynews/105949-edinorossy-pozdravili-49-zenit-
+nuyu-raketnuyu.html
+17 https://army-today dot ru/wch/51383; https://www.wikiwand  
+dot com/ru/538-%D0%B9_%D0%B3%D0%B2%D0%B0% 
+D1%80%D0%B4%D0%B5%D0%B9%D1%81%D0%BA%D0 
+%B8%D0%B9_%D0%B7%D0%B5%D0%BD%D0%B8%D1% 
+82%D0%BD%D1%8B%D0%B9_%D1%80%D0%B0% 
+D0%BA 
+%D0%B5%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF% 
+D0%BE%D0%BB%D0%BA
+18 https://t.me/bmpd_cast/10512; https://bmpd dot livejournal.
+com/4487210.html
+19 https://moyaokruga dot ru/gazetaznamia/Articles.aspx?arti-
+cleId=503475; https://vk dot com/wall14720601_2802
+20 https://vechnayapamyat dot net/tag/7-%D0%B9-%D0%BE%
+D1%82%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D
+1%8B%D0%B9-%D1%80%D0%B0%D0%B7%D0%B2%D0
+%B5%D0%B4%D1%8B%D0%B2%D0%B0%D1%82%D0%B
+5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B1
+%D0%B0%D1%82%D0%B0%D0%BB%D1%8C/
+21 https://imosrentgen dot ru/vch-61899/; https://vk dot com/
+osmbr?w=club32748567
+22 https://voinskajachast dot ru/sukhoputnye-voyska/special-
+nye-voyska/vch-52634-nizhniy-novgorod-96-aya-obrr/; 
+https://29 dot ru/text/incidents/2020/01/22/66457096/
+23 https://armyru dot com/suhoputnye-vojska/raketnye-vojs-
+ka-i-artilleriya/288-ia-artilleriiskaia-brigada-v-ch-30683/; 
+https://vk dot com/artbrigada_288?w=club2100227
+24 https://vk dot com/@sizvestiya-shuiskaya-112-ya-gvardeiska-
+ya-raketnaya-brigada-otprazdnoval; https://newsivanovo dot 
+ru/fn_932649.html
+25 https://geraldika dot ru/s/14025; https://voinskaya-chast 
+dot ru/voinskie-chasti-v-gorodax/voinskie-chasti-goro-
+da-sankt-peterburga-i-leningradskoj-oblasti.html
+26 https://voinskajachast dot ru/sukhoputnye-voyska/motost-
+relkovye-voyska/vch02511/; https://rossaprimavera dot ru/
+news/e3945965
+27 https://vk dot com/wall-49813043_181738; https://47news dot 
+ru/articles/200309/
+28 https://vk dot com/club147237670; https://wikimapia 
+dot org/19633622/ru/9-%D1%8F-%D0%B3%D0%
+B2%D0%B0%D1%80%D0%B4%D0%B5%D0%B9-
+%D1%81%D0%BA%D0%B0%D1%8F-%D0%B0%D1%80%D
+1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%
+B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F-%D0%B
+1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B0-
+%D0%B2-%D1%87-02561; https://armyru dot com/suhoput-
+nye-vojska/raketnye-vojska-i-artilleriya/9-ia-gvardeiskaia-ar-
+tilleriiskaia-brigada-v-ch-02561/
+29 https://vk dot com/club2577807; https://
+armyru dot com/voinskie-chasti-v-gorodah/
+voinskie-chasti-sankt-peterbyrga-i-leningradskoi-oblasti/
+
+UNDERSTANDINGWAR.ORG  51
+OCTOBER 2023
+30 https://bmpd dot livejournal.com/3147890.html;  
+https://37kp dot ru/%D0%B4%D0%B5%D0%BD%D1%8C- 
+%D1%87%D0%B0%D1%81%D1%82%D0%B8-5-%D1%8F- 
+%D0%B7%D1%80%D0%B1%D1%80-05-12/
+31 https://xn----8sbemfmhced0ala1ajk dot xn--p1ai/wiki/2/7235/; 
+https://m.facto dot ru/glavnaya_lenta_novostej/2017/02 
+/komandovat_20_y_armiey_budet_uchastnik_boevykh_ 
+deystviy_general_mayor_aleksandr_peryazev/?sphrase_id=7484780
+32 https://vk dot com/army54046; https://prizivniku dot com/
+voenchast/voinskaya-chast-54046
+33 https://army-today dot ru/wch/34670; https://rg dot 
+ru/2018/11/19/reg-cfo/v-zapadnom-voennom-okruge-poia-
+vilas-pervaia-kazachia-rota.html; https://prizivniku dot com/
+voenchast/voennaya-chast-34670-valuykah
+34 https://prizivniku dot com/voenchast/voen-
+naya-chast-91711-gorode-boguchar-voronezhskoy-oblasti; 
+https://iz dot ru/news/657603
+35 https://vk dot com/vh91726; https://www.komandirovka dot 
+ru/sights/valuiki/237-y-tankovyiy-polk/#anchor_contacts
+36 https://otvet.mail dot ru/question/78447087; https://inform-
+napalm dot org/en/valuyki-boguchar-common-markings-mil-
+itary-equipment-operated-russian-army-lpr/; https://web.
+archive.org/web/20170419224721/http://www.milkavkaz.
+net/2015/12/zapadnyj-voennyj-okrug.html
+37 https://vk dot com/artpolk_99; https://censor dot net/ru/
+photo_news/442815/rf_za_god_udvoila_kolichestvo_vooru-
+jeniyi_na_granitse_s_ukrainoyi_na_bazah_v_valuyikah_i_bogu-
+chare_tehniku
+38 https://mamasoldata.mybb dot ru/viewtopic.php?id=5359
+39 https://ok dot ru/voyskovoep/album/57458568265779; 
+https://ok dot ru/voyskovoep/album/56878469873715; http://
+eurasian-defence dot ru/?q=node/44327; https://informna-
+palm dot org/en/valuyki-boguchar-common-markings-mili-
+tary-equipment-operated-russian-army-lpr/
+40 https://vk dot com/msd144; https://mamasoldata.mybb 
+dot ru/viewtopic.php?id=6025&p=61; http://smolvet-
+eran dot ru/2022/07/23/%D0%B2-%D0%B5%D0%B-
+B%D1%8C%D0%BD%D0%B5-%D0%B-
+F%D1%80%D0%BE%D1%88%D0%BB%D0%BE-%D0%B-
+F%D1%80%D0%B0%D0%B7%D0%B4%D0%B-
+D%D0%BE%D0%B2%D0%B0%D-
+0%BD%D0%B8%D0%B5-100-
+%D0%BB%D0%B5%D1%82%D0%B8%D1%8F-
+%D1%81%D0%BE/; https://www.smol.kp dot ru/online/
+news/5282509/
+41 https://rabota-bryanskobl dot ru/employer/detail/?company-
+Id=683cfd58-8838-43c4-bda2-662fc1784f29; https://www.
+klinci dot ru/news/64/9314/; https://smartik dot ru/klincy/
+post/173915604
+42 https://vk dot com/mspklincivsh12721; https://www.rbc dot ru/
+politics/29/07/2022/62e3d4479a7947406989981d; https://
+army-today dot ru/wch/12721
+43 https://voenpro dot ru/celendar/15-fevralya-den-chas-
+ti-59-gvardejskogo-tankovogo-polka; https://svgb-
+dvr dot ru/istoriya/odin-iz-nashikh-navechno-v-
+pamyati; https://soldiersmothers dot ru/actualno/
+soobshheniya-iz-voennyh-chastej-soldaty-myorznut-i-boleyut
+44 https://vk dot com/wall-91497952_2247; https://smoldaily dot 
+ru/voennyie-razvedchiki-na-svoyo-99-letie-podarili-smolya-
+nam-grandioznoe-shou
+45 https://vk dot com/wall-123538639_1303422; https://
+pochep dot bezformata.com/listnews/dela-i-zaboti-vojskovoj-
+chasti/54685458/; https://www.bryansk.kp dot ru/online/
+news/3165406/; https://bryansk dot news/2020/03/23/army-
+4/; https://bmpd dot livejournal.com/3965326.html; 
+46 https://voenpro dot ru/infolenta/voentorgi-v-smolenske; 
+https://xn----8sbnmfccddjnj8adf dot xn--p1ai/wiki/1/3927/
+47 https://smolensk dot nashaspravka.ru/podskazhite-pozhaluys-
+ta-na-kakoy-ulitse-nahoditsya-voinskaya-chast-53821-673-ot-
+delnyy-zenitno-raketnyy-divizion-5157835; http://sgvs.sml dot 
+sudrf.ru/modules.php?name=docum_sud&id=321
+48 https://kolomna-spravka dot ru/news/46805; 
+https://armiyapro dot ru/srochnaya-sluzhba/
+vojskovaya-chast-43556-uts-bp-rvia
+49 https://sdelanounas dot ru/blogs/131211/; https://vk.com/
+club45840695; http://konsulan dot ru/voinskaja-chast-raket-
+naja-v-p-zhukova-35535-komandovanie-chasti-34341/
+50 https://m.ok dot ru/group/50442392764549/
+topic/66753713589125; https://dddkursk dot ru/
+lenta/2023/02/21/095169/; https://topwar dot ru/131141-ra-
+ketnaya-brigada-v-kurskoy-oblasti-perevooruzhaetsya-na-zrk-
+buk-m3.html
+51 https://www.audit-it dot ru/contragent/1093925038272_
+fku-voyskovaya-chast-51280-upravlenie-baltiyskogo-flota; 
+https://mamasoldata.mybb dot ru/viewtopic.php?id=5034; 
+https://soyuzveteranov dot ru/sites/default/files/regiony_
+foto/klngrd/320%20%D0%BB%D0%B5%D1%82%20
+%D0%91%D0%B0%D0%BB%D1%82%D0%B8%D0%B9% 
+D1%81%D0%BA%D0%BE%D0%BC%D1%83%20%D1%84% 
+D0%BB%D0%BE%D1%82%D1%83%20%D0%BE%D1%82% 
+D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D0%B8%20 
+%D0%B2%20%D0%9A%D0%B0%D0%BB%D0%B8%D0% 
+BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0 
+%B4%D0%B5.pdf
+52 https://vk dot com/wall-150703306_74299; https://www.kom-
+mersant dot ru/doc/3866301; https://gusev-online dot ru/
+news/obshestvo/19235-komandujuschij-bf-vruchil-shtand-
+art-komandiru-armejskogo-korpusa-v-guseve.html
+53 https://topwar dot ru/182937-nazvany-sroki-formirovani-
+ja-novoj-motostrelkovoj-divizii-v-kaliningradskoj-oblasti.
+html; https://archive dot md/tkImT
+54 https://web.archive.org/web/20211016150448/https://func-
+tion.mil.ru/news_page/country/more.htm?id=12358720@
+egNews; https://iz dot ru/1163060/aleksei-ramm-anna-chere-
+panova/na-i-diviziia-v-kaliningrade-zavershaiut-sozdanie-no-
+vogo-soedineniia
+55 https://web.archive.org/web/20211016150448/https://func-
+tion.mil.ru/news_page/country/more.htm?id=12358720@
+egNews; https://iz dot ru/1163060/aleksei-ramm-anna-chere-
+panova/na-i-diviziia-v-kaliningrade-zavershaiut-sozdanie-no-
+vogo-soedineniia
+56 https://iz dot ru/1163060/aleksei-ramm-anna-cherepanova/
+na-i-diviziia-v-kaliningrade-zavershaiut-sozdanie-novo-
+go-soedineniia; https://voinskaya-chast dot ru/vooruzhen-
+nye-cily/voenno-morskoj-flot/beregovye-vojska/gorod-gusev-
+voinskaya-chast-90151.html
+57 https://gusev-online dot ru/news/obshestvo/15545-v-gorode-
+guseve-sformirovan-tankovyj-polk.html; http://ursa-tm dot 
+ru/forum/index.php?/topic/300696-v-kaliningradskoy-oblas-
+ti-sformirovan-11-y-otdelnyy-tankovyy-polk/
+
+52 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+58 https://vk dot com/wall-52075449_4532; https://iz dot 
+ru/1134600/anton-lavrov-aleksei-ramm/v-tylu-srazhenii-ka-
+liningrad-zashchitiat-sverkhdalnie-razvedchiki
+59 https://sdelanounas dot ru/blogs/125197/; https://safari-in-af-
+rica dot ru/armiya-drugoe/v-ch-06414.html; https://iz dot 
+ru/750816/aleksei-ramm-aleksandr-kruglov-bogdan-stepovoi/
+moriaki-baltiitcy-vozmut-pod-okhranu-mundial
+60 https://army-today dot ru/wch/06414; https://mamasoldata 
+dot mybb.ru/viewtopic.php?id=1686&p=17; https://voinska-
+ya-chast dot ru/vooruzhennye-cily/cuxoputnye-vojska/moto-
+strelkovye-vojska/voinskaya-chast-06414-7-otdelnyj-gvarde-
+jskij-motostrelkovyj-polk.html; https://www.militarynews dot 
+ru/story.asp?rid=1&nid=418358&lang=RU
+61 https://army-today dot ru/wch/06017; https://iz dot 
+ru/1204780/roman-kretcul-anna-cherepanova/baltike-tresh-
+ka-kaliningradskie-morpekhi-poluchat-bmp-3f; https://voins-
+kajachast dot ru/voenno-morskoy-flot/beregovye-voyska/
+voinskaya-chast-06017-baltiysk-kaliningra/ 
+62 https://8war dot ru/ipoteka/parusnoe-kalinin-
+gradskaya-oblast-specnaz.html; https://vk dot 
+com/wall-186335996_4728; https://37kp dot 
+ru/%D0%B4%D0%B5%D0%BD%D1%8C-
+%D1%87%D0%B0%D1%81%D1%82%D0%B8-
+561-%D0%B9-%D0%BC%D0%BE%D1%
+80%D1%81%D0%BA%D0%BE%D0%B9-
+%D1%80%D0%B0%D0%B7%D0%B2%D0%B5%D-
+0%B4%D0%BF%D1%83%D0%BD%D0%BA%D1%82-
+%D0%B1%D1%84-29-12/; https://vk dot com/
+wall-46943161_1382159
+63 https://iz dot ru/1496279/roman-kretcul-aleksei-ramm/artil-
+leriiskii-tolk-kaliningradskuiu-oblast-usilili-rszo-i-gaub-
+itcami; https://iz dot ru/1393859/roman-kretcul-aleksei-
+ramm/poverka-reaktcii-baltiku-protestirovali-na-zashchi-
+tu-ot-giperzvukovogo-udara; https://iz dot ru/1204780/
+roman-kretcul-anna-cherepanova/baltike-treshka-kalinin-
+gradskie-morpekhi-poluchat-bmp-3f; https://mamasoldata dot 
+mybb.ru/viewtopic.php?id=4384&p=4
+64 https://vesti-kaliningrad dot ru/znamenitoe-soedine-
+nie-iz-chernyaxovska-otmechaet-yubilej/; https://www.angrapa 
+dot ru/news/novosti-goroda-i-rajona/6313-u-152-gvardejskoj-
+yubilej.html; http://inster39 dot ru/novosti/5976-raketchi-
+ki-na-pervykh-rubezhakh.html
+65 https://mamasoldata dot mybb.ru/viewtopic.php?id=5031; 
+https://vk dot com/album-72814627_223391110; https://
+www.newkaliningrad dot ru/news/community/1826048-balt-
+flot-vernul-voinskuyu-chast-beregovykh-raketchi-
+kov-v-poselok-donskoe.html; https://iz dot ru/680351/
+nikolai-surkov-aleksei-ramm-evgenii-dmitriev/
+poberezhe-rossii-prikryli-raketnye-monstry
+66 https://ria dot ru/20170414/1492290493.html; https://www.
+rise dot md/rusa/%D0%B2%D0%B5%D1%80%D0%B1%
+D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%B8-
+%D0%B8%D0%B7-%D1%80%D0%BE%D1%81%D1%81%
+D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9-
+%D0%B0%D1%80%D0%BC%D0%B8%D0%B8-%D0%B2-
+%D0%BF%D1%80%D0%B8%D0%B4/; https://monamir dot 
+ru/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82
+%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F_%D0%B3%
+D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D1%80%D0
+%BE%D1%81%D1%81%D0%B8%D0%B9% 
+D1%81%D0%BA%D0%B8%D1%85_%D0%B2%D0%BE% 
+D0%B9%D1%81%D0%BA_%D0%B2_%D0%9F%D1%80% 
+D0%B8%D0%B4%D0%BD%D0%B5%D1%81%D1%82% 
+D1%80%D0%BE%D0%B2%D1%8C%D0%B5
+67 https://novostipmr dot com/old/2010/ol88-03-10.html; 
+https://fccland dot ru/stati/39699-82-y-otdelnyy-gvard-
+eyskiy-motostrelkovyy-batalon.html; https://vk dot com/
+wall-66283435_279849; https://yablor dot ru/blogs/
+rossiyskaya-armiya-v-pridnestrove/5050984
+68 https://forum-pmr dot net/showpost.php?p=288056&post-
+count=72; https://vk dot com/wall10959367_3364
+69 https://m.ok dot ru/armiyas/topic/156108873518383; https://
+dzen dot ru/b/YmfTMEg6rX5msy7j; https://forum-pmr dot 
+net/showpost.php?p=288056&postcount=72; https://life dot 
+ru/p/1489856
+70 https://web.archive.org/web/20210128051750/https://
+iz.ru/675176/evgenii-andreev-bogdan-stepovoi-aleksei-ramm/
+artilleriia-narashchivaet-moshch; https://vk dot com/top-
+ic-126847421_35164521?offset=380; https://mamasoldata.
+mybb dot ru/viewtopic.php?id=5195; 
+71 https://web.archive.org/web/20200116091235/https://
+voinskayachast.net/suhoputnie-voyska/raketnie-i-artilleriya/
+vch53956; https://web.archive.org/web/20200116091239/
+https://tvernews.ru/news/122487/ ; https://vk dot com/
+club6465759
+72 https://www.komandirovka dot ru/sights/naro-fo-
+minsk/202-ya-zenitnaya-raketnaya-brigada/; http://old.adm-
+dzer dot ru/arxiv/250601/priziv.htm
+73 https://army-today dot ru/wch/11262; https://voenchastrf dot 
+ru/27-ia-otdelnaia-brigada-radiacionnoi-himicheskoi-i-bio-
+logicheskoi-zashity-v-ch-11262.html
+74 https://iz dot ru/1113924/roman-kretcul/vzryvnaia-rabo-
+ta-kak-nesut-sluzhbu-sovremennye-rossiiskie-sapery; https://
+army-today dot ru/wch/11105
+75 https://army-today dot ru/wch/11361; https://vk dot com/
+gvardeiskay_45_inganeray_brigada
+76 https://iz dot ru/1281617/aleksei-ramm-anton-lavrov-bog-
+dan-stepovoi/v-epitcentre-tornado-iug-rossii-zashchitiat-ra-
+ketno-artilleriiskie-roboty; https://iz dot ru/news/670561; 
+https://iz dot ru/1278915/aleksei-ramm-roman-kretcul-bog-
+dan-stepovoi/buk-vse-vidit-iug-rossii-prikryli-sovremenny-
+mi-kompleksami-pvo
+77 https://prizivniku dot com/podrazdeleniya/150-mo-
+tostrelkovaya-diviziya; https://iz dot ru/news/612939; 
+https://iz dot ru/1156655/roman-kretcul-aleksei-
+ramm/teper-20-ia-legendarnoe-gvardeiskoe-soed-
+inenie-vernetsia-v-stroi; https://informnapalm.
+org/39397-150-ya-diviziya-xxi-veka-vs-rf-mify-i-realnost/
+78 https://vk dot com/polk102; http://www.don-kazak dot ru/
+news/102-y-motostrelkovyy-polk-kazachiy-polk/
+79 https://active247 dot ru/kontraktniki/103-polk-ros-
+tov-na-donu.html; https://rostov dot nashaspravka.ru/103-
+motostrelkovyy-polk-150-divizii-v-ch-91708-nomer-telefona-
+chasti-5193023
+80 https://vk dot com/wall-141481074_246; https://novocher-
+kassk.jsprav dot ru/voenkomatyi-i-komissariatyi/v-ch-91714/
+81 https://riafan dot ru/22033069-levkin_aleksei_vadimovich_; 
+https://xn----8sbeyfccd4aauifcm dot xn--p1ai/wiki/1/3648/
+82 https://8war dot ru/ipoteka/150-diviziya-novocherkassk.html; 
+https://amalantra dot ru/150-motostrelkovaya-diviziya/
+83 https://www.nvgazeta dot ru/news/14488/540281/; 
+https://web.archive.org/web/20201028113600/http://
+vodorazdel-adm.ru/index.php/novosti-poseleni-
+ya/633-%C2%AB%D0%BE-%D0%BF%D0%BE%D1%80
+
+UNDERSTANDINGWAR.ORG  53
+OCTOBER 2023
+%D1%8F%D0%B4%D0%BA%D0%B5-%D0%BA%D0%B
+E%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82
+%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-
+%D0%B2-2019-%D0%B3%D0%BE%D0%B4%D1%83-
+%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%
+D0%BD%D0%B5%D0%BD%D0%B8%D0%B9-
+%D0%B8-%D0%B2%D0%BE%D0%B8%D0%BD%D-
+1%81%D0%BA%D0%B8%D1%85-
+%D1%87%D0%B0%D1%81%D1%82%D0%B5%D0%B9-
+%D0%B2%D0%BE%D0%B5%D0%BD%D0%B
+D%D0%BE%D0%B3%D0%BE-%D0%BE%D0%
+BA%D1%80%D1%83%D0%B3%D0%B0,-%D0-
+%B4%D1%80%D1%83%D0%B3%D0%B8%D1%85-
+%D0%B2%D0%BE%D0%B9%D1%81%D0%BA,-%D0%B
+2%D0%BE%D0%B8%D0%BD%D1%81%D0%BA%D0%B
+8%D1%85-%D1%84%D0%BE%D1%80%D0%BC%D0%B
+8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8
+%D0%B9-%D0%B8-%D0%BE%D1%80%D0%B3%D0%B0
+%D0%BD%D0%BE%D0%B2-%D0%B2%D0%BE%D0%B
+5%D0%BD%D0%BD%D0%BE%D1%81%D0%BB%D1%83
+%D0%B6%D0%B0%D1%89%D0%B8%D0%BC%D0%B8,-
+%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4%
+D1%8F%D1%89%D0%B8%D0%BC%D0%B8-%D0%B2%
+D0%BE%D0%B5%D0%BD%D0%BD%D1%83%D1%8E-
+%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%83-
+%D0%BF%D0%BE-%D0%BA%D0%BE%D0%BD%D1%8
+2%D1%80%D0%B0%D0%BA%D1%82%D1%83%C2%BB.
+html
+84 https://amalantra dot ru/150-motostrelkovaya-diviziya/; 
+https://8war dot ru/ipoteka/150-diviziya-novocherkassk.html
+85 https://www.komandirovka dot ru/sights/millerovo/933-y-ze-
+nitnyiy-raketnyiy-polk/#anchor_nearest_objects; https://m.
+ok dot ru/voyskovoep/album/59107419881523; https://iz dot 
+ru/608604/aleksei-ramm-dmitrii-litovkin-evgenii-dmitriev/
+iug-rossii-usilili-zenitnymi-bublikami-avtomatami
+86 https://web.archive.org/web/20211202015528/https://v1.ru/
+text/gorod/2021/12/01/70288448/; https://web.archive.org/
+web/20210917015846/https://function.mil.ru/news_page/
+country/more.htm?id=12384277@egNews; https://iz dot 
+ru/1275278/2022-01-11/iug-rossii-prikryli-zenitnymi-robota-
+mi-avtomatami; https://iz dot ru/1156705/2021-04-25/mino-
+borony-ukrepit-iuzhnye-rubezhi-20-i-motostrelkovoi-diviziei
+87 https://vk dot com/club1598156?w=club1598156; https://
+vk dot com/club13063307?w=club13063307; https://web.
+archive.org/web/20211201105502/https://vpravda.ru/obsh-
+chestvo/v-volgograde-vozrodili-legendarnuyu-diviziyu-rossiys-
+koy-armii-123554/
+88 https://web.archive.org/web/20220308161739/https://
+bloknot-volgograd.ru/news/na-ukraine-pogib-koman-
+dir-polka-iz-volgogradskoy-o-1454999; https://web.
+archive.org/web/20220206111638/https://dictant.rgo.ru/
+dictant_place/32901
+89 https://urban3p dot ru/object15916#:~:-
+text=944%2D%D0%B9%20
+%D1%81%D0%B0%D0%BC%D0%BE%D1 
+%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20
+%D0%B0%D1%80%D1%82%D0%B8%D0%BB%D0%BB% 
+D0%B5%D1%80%D0%B8%D0%B9%D
+1%81%D0%BA%D0%B8%D0%B9%20
+%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B2% 
+D0%B8%D1%86%D0%BA%D0%BE%2D%D0%93%D0%BD 
+%D0%B5%D0%B7%D0%BD%D0%B5%D0%BD%D1%81% 
+D0%BA%D0%B8%D0%B9%20
+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE% 
+D0%B7%D0%BD%D0%B0%D0%BC%D1%91%D0%BD% 
+D0%BD%D1%8B%D0%B9%2C,%D0%BF%D0%BE%D1% 
+81%D1%91%D0%BB%D0%BA%D0%B5%20%D0%9C%D0
+%B0%D0%BA%D1%81%D0%B8%D0%BC% 
+D0%B0%20%D0%93%D0%BE%D1%80%D1%8C%D0%BA 
+%D0%BE%D0%B3%D0%BE%2C%20%D0%B3%D0%BE% 
+D1%80%D0%BE%D0%B4%D0%B0%20%D0%92%D0%BE 
+%D0%BB%D0%B3%D0%BE%D0%B3%D1%80%D0%B0% 
+D0%B4%D0%B0; https://vk dot com/club32565602
+90 https://bmpd.livejournal dot com/4397259.html; https://vk 
+dot com/wall-35660695_315482
+91 https://dzen dot ru/a/Yqhr6T9ogh0Zgg4F; https://vk dot com/
+wall-210095549_16361
+92 https://altyn73 dot livejournal.com/1458271.html; https://
+vladimirkrym dot livejournal.com/11573592.html; https://
+twitter.com/halmiso1/status/1429386364580159495
+93 https://altyn73 dot livejournal.com/1458271.html; https://
+vladimirkrym dot livejournal.com/11573592.html; https://
+twitter.com/halmiso1/status/1429386364580159495
+94 https://amalantra dot ru/8-armiya-rossii/
+95 https://stapravda dot ru/20210807/v_stavropole_49ya_obsche-
+voyskovaya_armiya_yuvo_otmechaet_80yu_go_170759.html; 
+https://iz dot ru/1156655/roman-kretcul-aleksei-ramm/
+teper-20-ia-legendarnoe-gvardeiskoe-soedinenie-vernet-
+sia-v-stroi
+96 https://army-today dot ru/wch/74814; https://
+www.arms-expo dot ru/articles/armed-forces/
+poezdka-s-prizyvnikami-chast-vtoraya-v-205-y-brigade/
+97 https://voinskajachast dot ru/sukhoputnye-voyska/
+motostrelkovye-voyska/vch-01485/; https://army-to-
+day dot ru/wch/01485; https://web.archive.org/
+web/20210127215524/https://zelpravda.ru/vlast/novym-ko-
+mandirom-34j-otdelnoj-motostrelkovoj-gornoj-brigady-naz-
+nachen-armii-polkovnik-sergej-dmitriev.html
+98 https://rnbee dot ru/2017/04/28/7-ya-okkupatsionnaya-
+voennaya-baza-vs-rf-v-avangarde-rossijskoj-propagandy/; 
+https://voinskajachast dot ru/sukhoputnye-voyska/moto-
+strelkovye-voyska/vch09332/; https://iz dot ru/1215154/
+anton-lavrov-anna-cherepanova/pliazhnyi-zaslon-7-ia-voen-
+naia-baza-poluchit-novye-vooruzheniia; https://vesb dot ru/
+kakie-voennye-chasti-est-v-abhazii
+99 https://desantura dot ru/forum/forum16/topic2404/?PA-
+GEN_1=2; https://vechnayapamyat dot net/tag/19-%D1
+%80%D0%BE%D1%82%D0%B0-%D1%81%D0%B-
+F%D0%B5%D1%86%D0%BD%D0%B0%D0%B7%D0%B0/; 
+https://vpk dot name/images/i462249.html
+100 https://iz dot ru/news/661691; https://topwar dot 
+ru/109029-v-maykope-razvernuli-uboynuyu-artbrigadu.html
+101 https://army-today dot ru/wch/31853; https://admiral55 dot 
+ru/kontrakt/1-raketnaya-brigada-molkino.html
+102 https://vk dot com/vch54821; https://www.1tv dot ru/
+news/2017-03-07/321169-voennye_zenitno_raketnoy_brigady_
+yuzhnogo_voennogo_okruga_zaselyayut_novyy_mikrorayon_v_
+krasnodarskom_krae
+103 https://region15 dot ru/proslavlennoj-58-j-armii-yuvo-is-
+polnyaetsya-25-let/; https://iz dot ru/1157009/2021-04-26/
+podrazdeleniia-58-i-armii-iuvo-vernulis-s-uchenii-v-krymu
+104 http://vodorazdel-adm dot ru/index.php/novosti-posele-
+niya/633-%C2%AB%D0%BE-%D0%BF%D0%BE%
+D1%80%D1%8F%D0%B4%D0%BA%D0%B5-%D0
+
+54 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%
+B5%D0%BA%D1%82%D0%BE%D0%B2%D0%B0-
+%D0%BD%D0%B8%D1%8F-%D0% 
+B2-2019-%D0%B3%D0%BE%D0%B4%D1%83-%D1%81% 
+D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5% 
+D0%BD%D0%B8%D0%B9-%D0%B8-%D0%B2%D0%BE% 
+D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D1%85-%D1 
+%87%D0%B0%D1%81%D1%82%D0%B5%D0%B9-
+%D0%B2 
+%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3% 
+D0%BE-%D0%BE%D0%BA%D1%80%D1%83%D0%B3
+%D0%B0,-%D0%B4%D1%80%D1%83%D0%B3%D0%B
+8%D1%85-%D0%B2%D0%BE%D0%B9%D1%81%D0%BA,-
+%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D0%BA%-
+D0%B8%D1%85-%D1%84%D0%BE%D1%80%D0%BC%D
+0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0
+%B8%D0%B9-%D0%B8-%D0%BE%D1%80%D0%B3%D0
+%B0%D0%BD%D0%BE%D0%B2-%D0%B2%D0%BE%D0-
+%B5%D0%BD%D0%BD%D0%BE%D1%81%D0%BB%D1%8
+3%D0%B6%D0%B0%D1%89%D0%B8%D0%BC%D0%B8,-
+%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B4
+%D1%8F%D1%89%D0%B8%D0%BC%D0%B8-%D0%B2-
+%D0%BE%D0%B5%D0%BD%D0%BD%D1%83%D1%8E-
+%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%83-
+%D0%BF%D0%BE-%D0%BA%D0%BE%D0%BD%D1%8
+2%D1%80%D0%B0%D0%BA%D1%82%D1%83%C2%BB.
+html; https://iz dot ru/news/634572
+105 https://m.ok dot ru/group/55303559119024/
+topic/70039188747696; https://hanabihack dot ru/vc-3724.
+html; https://www.kavkazr dot com/a/komandovanie-moto-
+strelkovogo-polka-iz-chechni-pytaetsya-skrytj-sabotazh-sre-
+di-voennyh-v-ukraine/31859663.html; http://42msd dot ru/
+index.php?option=com_content&task=view&id=16&Itemid=35
+106 https://vk dot com/wall-75094478_10648
+107 https://vk dot com/8omsbr; https://www.warchechnya dot ru/
+vtoraya-chechenskaya-vojna-291-gv-msp-borzoj-shatojskij-ra-
+jon-2001-god/; https://www.kommersant dot ru/doc/1122573; 
+https://iz dot ru/news/634572
+108 https://t.me/RKadyrov_95/2784; https://grozniy dot bezfor-
+mata.com/listnews/gorodok-polka-sever-ahmat/117013798/; 
+https://ria dot ru/20220903/polk-1814221056.html; https://
+tass dot ru/armiya-i-opk/15638535; https://www.grozny-in-
+form dot ru/news/express/141526/
+109 https://donpress dot com/news/19-04-2022-zhite-
+li-rossii-nachinayut-chto-ponimat-i-massovo-ot-
+kazyvayutsya-idti-voevat-v; https://mediavektor dot 
+org/23461-v-vs-rf-nablyudaetsya-massovyj-otkaz-podpisy-
+vat-novye-kontrakty-statistika.html; https://informnapalm dot 
+org/47637-ustanovleny-personalnye-dannye-4-ros/
+110 https://posts24 dot ru/50-%D0%B9_%D0%B3%D0%B2%D0
+%B0%D1%80%D0%B4%D0%B5%D0%B9%D1%81%D0%B
+A%D0%B8%D0%B9_%D1%81%D0%B0%D0%BC%D0%BE
+%D1%85%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_% 
+D0 
+%B0%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5 
+%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8% 
+D0%B9_%D0%BF%D0%BE%D0%BB%D0%BA;  
+https://www.soldat dot ru/news/1996.html; 
+111 https://vk dot com/wall-119776167_118169; https://amalantra 
+dot ru/42-diviziya/
+112 https://amalantra dot ru/42-diviziya/; https://xn--h1ajim dot 
+xn--p1ai/index.php/42-%D1%8F_%D0%B3%D0%B2%D0%
+B0%D1%80%D0%B4%D0%B5%D0%B9%D1%81%D0%BA
+%D0%B0%D1%8F_%D0%BC%D0%BE%D1%82%D0%BE%
+D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%BA%D0%-
+BE%D0%B2%D0%B0%D1%8F_%D0%B4%D0%B8%D0%B
+2%D0%B8%D0%B7%D0%B8%D1%8F
+113 https://vk dot com/vladikavkaz_19omcbp; https://
+voinskajachast dot ru/sukhoputnye-voyska/motost-
+relkovye-voyska/vch20634/; https://war-proekt.media/base/
+voiska/19-motostrelkovaya-voronezhsko-shumlinskaya-diviziya/
+114 https://rus-osetia dot ru/archives/vladikavkazskij-429-mo-
+tostrelkovyj-polk-58-oj-armiya-voshel-v-perechen-soed-
+inenij-podlezhashhih-komplektovaniyu-chlenami-tersko-
+go-vojskovogo-kazachego-obshhestva/; https://konsaltdo dot 
+ru/429-motostrelkovyj-polk-vch-01860-pos-sputnik-vladika-
+vkaz.html
+115 https://army-today dot ru/wch/75394; https://t.me/mobi-
+lizationnews/10583; https://pomnirod dot ru/materi-
+aly-k-statyam/rossiya-poslerevolyucionnaya/voennye/
+voinskie-podrazdeleniya1/motostrelkovye-brigady/22-ya-mo-
+tostrelkovaya-brigada/obshhie-svedeniya-o-22-j-motost-
+relkovoj-brigade.html
+116 https://yandex dot ru/video/preview/4329711854617529105; 
+https://iz dot ru/843842/2019-02-09/smi-soobshchili-ob-
+usilenii-voisk-rf-na-iuge-dvumia-diviziiami
+117 https://army-today dot ru/wch/66431; https://voenchastrf dot 
+ru/4-gvardeiskaia-voennaia-baza-v-ch-66431.html; https://
+mamasoldata.mybb dot ru/viewtopic.php?id=1223
+118 https://voenchastrf dot ru/100-ia-otdelnaia-razvedyvatel-
+naia-brigada-v-ch-23511.html; https://army-today dot ru/
+wch/23511
+119 https://army-today dot ru/wch/64670; https://voenchastrf dot 
+ru/291-ia-artilleriiskaia-brigada-v-ch-64670.html
+120 https://dzen dot ru/a/YoPkKT4WaXSy_fnm; https://vk dot 
+com/wall10959367_3116
+121 https://amalantra dot ru/chernomorskiy-flot-rossii/; https://
+www.kchf dot ru/
+122 https://ria dot ru/20170210/1487713296.html; https://iz dot 
+ru/1061014/anton-lavrov-roman-kretcul/krymskii-post-polu-
+ostrov-zashchitit-dalnoboinaia-artilleriia; https://sprotyv dot 
+info/analitica/v-krymu-razvernuta-boegotovaya-krupnaya-am-
+fibijnaya-gruppirovka-vojsk-agressora-koordinator-is/
+123 https://ru.krymr dot com/a/chernomor-
+skiy-flot-rossii-126-ya-brigada-nastroyeniya-po-
+teri-ukraina-voyna/31965995.html; https://iz dot ru/1189394/
+roman-kretcul-anna-cherepanova/tank-tochnyi-oboronu-kry-
+ma-usiliat-sverkhzashchishchennymi-t-72b3m; https://yandex 
+dot ru/maps/org/126_ya_otdelnaya_brigada_beregovoy_oborony
+/184406181128/?ll=34.338212%2C44.847716&z=13.86
+124 https://osnaz-cikle dot livejournal.com/221591.html; https://
+vk dot com/wall-52075449_4850; https://iz dot ru/852398/
+dmitrii-boltenkov/krymskii-bastion-kak-izmenilas-voenna-
+ia-infrastruktura-poluostrova
+125 https://informnapalm dot org/50142-8-j-otdelnyj-artil-
+lerijskij-polk-chf-rf/; https://www.kommersant dot ru/
+doc/4530832; https://ru.krymr dot com/a/voyenny-
+ye-krym-voyna-gvardiya-poteri/32488985.html
+126 https://vk dot com/album-72814627_223392300; https://
+nts-tv dot com/news/v-15-y-otdelnoy-beregovoy-brigade-chf-
+proveli-den--22960/
+127 https://octagon dot media/vojna/morskaya_brigada.html; 
+https://army-today dot ru/wch/13140
+
+UNDERSTANDINGWAR.ORG  55
+OCTOBER 2023
+128 https://vk dot com/wall94808902_2515; https://arsenal-info 
+dot ru/b/book/1881647449/49; https://www.kommersant dot 
+ru/doc/3867782
+129 https://army-today dot ru/roda/beregovye-vojska-vmf; 
+https://flot2017 dot com/okkupanty-strelyali-v-krymu/; 
+https://voinskayachast dot net/voenno-morskoj-flot/
+coastal-troops-navy
+130 https://topwar dot ru/3086-chernomorskij-flot-po-
+luchil-tretij-bastion.html; https://nvo.ng dot ru/
+forces/2020-03-06/3_1084_coastguard.html; https://dzen dot 
+ru/a/YmBjxcj60SoYfABL
+131 https://ria dot ru/20210826/kaspiysk-1747313526.html; 
+https://ria dot ru/20221115/flotiliya-1831346559.html
+132 https://vechnayapamyat dot net/tag/177-%D0%B9-%D0%B-
+F%D0%BE%D0%BB%D0%BA-%D0%BC%D0%BE%D1%80
+%D1%81%D0%BA%D0%BE%D0%B9-%D0%BF%D0%B5%
+D1%85%D0%BE%D1%82%D1%8B-%D0%BA%D0%B0%D1
+%81%D0%BF%D0%B8%D0%B9%D1%81%D0%BA/; https://
+web.archive.org/web/20200113072611/https://function.mil.
+ru/for_media/events/details.htm?id=5826@morfSimpleEvent
+133 https://bmpd.livejournal dot com/3927068.html; https://top-
+war dot ru/172772-usilenie-morskoj-pehoty-kaspijskoj-flotilii.
+html; https://vk dot com/wall-72814627_155116
+134 https://www.kavkaz-uzel dot eu/articles/152315; https://
+vk dot com/voennaya_baza?w=club14347137; https://top-
+war dot ru/181270-rossijskie-bazy-za-rubezhom-102-
+ja-baza-v-gjumri.html; https://ru.armeniasputnik dot 
+am/102-russia-voennaja-baza-gumri/
+135 https://ok dot ru/voyskovoep/album/56825385123891; https://
+fb dot ru/article/257705/voennaya-baza--ya-rossiyskaya-voen-
+naya-baza-v-gyumri-armeniya
+136 https://vk dot com/club28149279; https://orbitaznamensk dot 
+ru/articles/society/2022-10-08/komandir-znamenskoy-artil-
+leriyskoy-brigady-rasskazal-o-budnyah-boevogo-podrazdele-
+niya-108108
+137 https://dzen dot ru/b/ZB8jiferYDRvDzms; https://korvesti dot 
+ru/novosti/obshchestvo/14904-korenovskoj-77-j-zenitnoj-ra-
+ketnoj-brigade-prisvoeno-naimenovanie-gvardejskoj
+138 https://arum74 dot ru/srochnaya/inzhenernye-vojs-
+ka-kamensk-shahtinskij.html; https://mamasoldata.mybb dot 
+ru/viewtopic.php?id=500; https://m.ok dot ru/vch45767g
+139 https://army-today dot ru/wch/65363; https://voinskiechasti 
+dot ru/suhoputnie-voyska/specialnie/vch65363
+140 https://geraldika dot ru/s/20232; https://iz dot 
+ru/770683/2018-07-25/v-sibiri-bolee-10-tysiach-voennoslu-
+zhashchikh-podniali-po-trevoge
+141 https://vv-mvd dot ru/mo/tankovye/90-tankovaya-div-
+iziya-chebarkul.html; https://voinskaya-chast dot ru/vooru-
+zhennye-cily/tankovye-vojska/voinskaya-chast-89547-che-
+barkul.html
+142 https://74 dot ru/text/gorod/2022/07/04/71460047/; https://
+www.chel.kp dot ru/daily/27413/4612324/
+143 https://vk dot com/wall-211936157_22091; https://pomnirod 
+dot ru/materialy-k-statyam/rossiya-poslerevolyucionnaya/
+voennye/voinskie-podrazdeleniya1/tankisty/tankovye-div-
+izii/90-ya-gvardejskaya-tankovaya-vitebsko-novgorodska-
+ya-dvazhdy-krasnoznamyonnaya-diviziya/sostav-90-j-gvar-
+dejskoj-tankovoj-divizii-na-2018-god/6-j-gvardejskij-tan-
+kovyj-lvovskij-ordena-lenina-krasnoznamyonnyj-ordenov-su-
+vorova-kutuzova-i-bogdana-hmelnickogo-polk-90-j-gvarde-
+jskoj-tankovoj-divizii/obshhie-svedeniya-o-6-j-gvardejskom-
+tankovom-polku.html
+144 https://pomnirod dot ru/materialy-k-statyam/rossiya-pos-
+lerevolyucionnaya/voennye/voinskie-podrazdeleniya1/
+tankisty/tankovye-divizii/90-ya-gvardejskaya-tankova-
+ya-vitebsko-novgorodskaya-dvazhdy-krasnoznamyonnaya-di-
+viziya/sostav-90-j-gvardejskoj-tankovoj-divizii-na-2018-
+god/80-j-tankovyj-krasnoznamyonnyj-polk-v-ch-87441-90-
+j-gvardejskoj-tankovoj-divizii/obshhie-svedeniya-o-80-j-tan-
+kovom-krasnoznamyonnom-polku-90-j-gvardejskoj-tan-
+kovoj-divizii.html; https://up74 dot ru/articles/news/141807/
+145 https://vk dot com/brigada22316; https://vechnayapamyat 
+dot net/tag/228-%D0%B9-%D0%BC%D0%BE%D1%82%
+D0%BE%D1%81%D1%82%D1%80%D0%B5%D0%BB%D
+0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B-
+F%D0%BE%D0%BB%D0%BA/; https://eanews dot ru/
+news/motostrelkovyy-polk-iz-yekaterinburga-za-mass-
+ovyy-geroizm-poluchil-zvaniye-gvardeyskogo-doku-
+ment_14-02-2023; https://vremya dot press/228-oj-motost-
+relkovyj-polk-iz-ekaterinburga-stal-gvardejskim/
+146 https://ura dot news/news/1052581345; https://konsultantok 
+dot ru/chebarkulskaya-tankovaya-diviziya.html
+147 https://74 dot ru/text/gorod/2022/10/17/71742896/; https://
+polit74 dot ru/society/400_y_artilleriyskiy_polk_poluchivshiy_
+zvanie_gvardeyskiy_imeet_slavnuyu_istoriyu/
+148 https://armiyapro dot ru/srochnaya-sluzhba/vojskova-
+ya-chast-41659-35-ya-omsbr#:~:text=%D0%9C%D0%BE%D
+1%82%D0%BE%D1%81%D1%82%D1%80%D0%B5%D0%B-
+B%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F%20
+%D0%B1%D1%80%D0-
+%B8%D0%B3%D0%B0%D0%B4%D0%B0%20
+35%2D%D0%B3%D0%BE%20%D0%BE%D1
+%82%D1%80%D1%8F%D0%B4%D0%B0%20
+%D0%BE%D1%80%D0%B4%D0%B5%D0%BD%D0%BE% 
+D0%B2,%D0%BD%D0%B0%D0%B8%D0%BC%D0%B5% 
+D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8% 
+D0%B5%20%D1%87%D0%B0%D1%81%D1%82%D0%B8% 
+20(%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%B8 
+%D1%82%D1%8C%20%D1%83%20%D1%81%D0%BE%D0 
+%BB%D0%B4%D0%B0%D1%82%D0%B0); https://
+army-today dot ru/wch/41659
+149 https://army-today dot ru/wch/21005; https://voinskajachast 
+dot ru/sukhoputnye-voyska/motostrelkovye-voyska/voyskova-
+ya-chast-21005-74-ya-otdelnaya-gvard/; https://vk dot com/
+club149010323
+150 https://zolord dot ru/news/434; https://topwar dot 
+ru/175707-budni-otdelnoj-motostrelkovoj-gornoj-brig-
+ady-v-respublike-tuva.html
+151 https://voenchastrf dot ru/120-ia-artilleriiskaia-briga-
+da-v-ch-59361.html; https://army-today dot ru/wch/59361
+152 https://army-today dot ru/wch/49547; http://forum.11td dot 
+ru/lofiversion/index.php/t8223.html; https://interesnoe dot 
+me/view/content/upd/22597841
+153 https://2gis dot ru/search/%D0%A8%D1%82%D0%B0%D0 
+%B1%202%20%D0%B0%D1%80%D0%BC%D0%B8%D0 
+%B8?m=50.38401%2C52.770723%2F7.57; https://voin-box 
+dot ru/sluzhba/shtab-armii-samara.html; https://63 dot ru/
+text/gorod/2016/09/24/56313181/
+
+56 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+154 https://web.archive.org/web/20210125001005/https://
+prizyvnik-soldat.ru/vch-45863-roshchinskij/; https://
+armiyapro dot ru/srochnaya-sluzhba/30-motostrelko-
+vaya-brigada-30-msbr; https://m.ok.ru/avspoligon/
+topic/151492464420903
+155 https://tass dot ru/politika/14599617; https://army-to-
+day dot ru/wch/90600; https://amalantra dot 
+ru/15-brigada-chernyye-gusary/
+156 https://web.archive.org/web/20171211233758/http://voinska-
+ya-chast.ru/vooruzhennye-cily/cuxoputnye-vojska/motost-
+relkovye-vojska/voinskaya-chast-12128-21-gvardejskaya-moto-
+strelkovaya-brigada.html; https://army-today dot ru/wch/12128
+157 https://army-today dot ru/wch/32755; https://aldamuratova 
+dot ru/na-kontrakte/vch-30785.html
+158 https://ok dot ru/group/43862559359115/
+album/51214000521355?st.cmd=anonymGroupAl-
+bumPhotos&st.groupId=43862559359115&st.albu-
+mId=51214000521355; https://vk dot com/artillerists
+159 https://mamasoldata.mybb dot ru/viewtopic.php?id=770; 
+https://urban3p dot com/object16969
+160 https://voinskiechasti dot ru/vozdushno-kosmicheskie-sily/
+voenno-vozdushnie-sily/zrv/vch02030; https://armiyapro dot 
+ru/srochnaya-sluzhba/voinskaya-chast-02030-297-ya-zrb-
+mestonahozhdenie-kontakty
+161 https://pobedarf dot ru/2023/06/02/yubilej-voennoj-bazy-
+otmetili-v-srednej-azii/; https://www.asiaplustj dot info/ru/
+news/tajikistan/society/20221202/v-rossiiskoi-voennoi-ba-
+ze-v-tadzhikistane-smenilsya-rukovoditel; https://yandex dot 
+ru/video/preview/15898689740161240572; https://tj.sputni-
+knews dot ru/20230601/dushanbe-201-rvb-1057490501.html
+162 https://post1 dot su/holodnoe/201-ya-rossijskaya-voennaya-
+baza-2.html; https://pomnirod dot ru/materialy-k-statyam/
+rossiya-poslerevolyucionnaya/voennye/voinskie-podrazdele-
+niya1/ya-gvardejskaya-strelkovaya-diviziya/201-ya-moto-
+strelkovaya-diviziya/92-j-motostrelkovyj-polk-201-j-mo-
+tostrelkovoj-divizii/obshhie-svedeniya-o-92-m-motost-
+relkovom-polku-201-j-motostrelkovoj-divizii.html; https://
+rus.ozodi dot org/a/27374340.html
+163 https://army-today dot ru/wch/31643; https://www.chel.kp dot 
+ru/daily/27464/4670511/
+164 https://dzen dot ru/a/XbJ39deFmwCx6Yma; https://topwar 
+dot ru/104777-v-kirovskoy-oblasti-zastupila-na-boevoe-de-
+zhurstvo-zenitnaya-raketnaya-brigada.html
+165 https://www.komandirovka dot ru/sights/shihani/1-ya-mobil-
+naya-brigada-rhb-zaschityi/; https://ext-5787874.livejournal 
+dot com/9455.html; https://mamasoldata.mybb dot ru/view-
+topic.php?id=4616&p=2
+166 https://mamasoldata.mybb dot ru/viewtopic.php?id=4103; 
+https://aldamuratova dot ru/sluzhba/v-ch-41158-ekaterinburg.
+html; https://vk dot com/rhbz_ekaterinburg; https://army-to-
+day dot ru/wch/34081
+167 https://www.ufa.kp dot ru/daily/26632/3655160/; https://
+army-today dot ru/wch/63494
+168 https://xn--80adjlackxh6aem6d dot xn--p1ai/chast/06426/; 
+https://vk dot com/wall303798627_3; https://amalantra dot 
+ru/5-armiya-rossii/; https://prizivniku dot com/voenchast/
+voinskie-chasti-ussuriyska; 
+169 https://vk dot com/club20025044; https://prizivniku dot 
+com/voenchast/voinskaya-chast-44980-sergeevke
+170 https://vladivostok dot nashaspravka.ru/moy-syn-sluzhit-v-
+394-motostrelkovom-polku-v-ch-25573-s-sergeevka-primor-
+skogo-kraya-v-dannyy-moment-nahoditsya-na-uchebnom-
+poligone-i-on-bolen-pomosch-nikto-ne-okazyvaet-k-komu-
+obratitsya-5337816; https://www.soldat dot ru/news/1325.html
+171 https://vk dot com/club34419435; https://vk dot com/
+wall-33314801_88705
+172 https://m.ok dot ru/dalnik/topic/69413990968086; https://vk 
+dot com/topic-20025044_39661185
+173 https://akrasdia dot ru/podborki/218-tankovyj-polk-sergeev-
+ka-95-foto.html; http://wikimapia dot org/5864922/
+ru/218-%D0%B9-%D1%82%D0%B0%D0%B-
+D%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B-
+F%D0%BE%D0%BB%D0%BA-%D0%B2-%D1%87-82588-
+%D0%B8-79-%D0%B9-%D0%BE%D1%82%D0%B4%D-
+0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-
+%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82
+%D0%BD%D0%BE-%D0%B2%D0%BE%D1%81%D1%81
+%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B
+8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%
+D0%B9-%D0%B1%D0%B0%D1%82%D0%B0%D0%BB%D
+1%8C%D0%BE%D0%BD-%D0%B2-%D1%87-98655
+174 https://m.vk dot com/wall-20025044_24873?lang=en; 
+https://m.ok dot ru/profile/830275035/
+statuses/68034254332123
+175 https://ok dot ru/voyskovoep/album/57197589692467; https://
+vk dot com/wall-11349899_226222
+176 https://web.archive.org/web/20171230060134/https://
+svpressa.ru/society/article/34815/; https://vk dot com/
+club126221638; https://army-today dot ru/wch/46102
+177 https://army-today dot ru/wch/39255; https://xn--80adjlackx-
+h6aem6d dot xn--p1ai/chast/vch-39255/
+178 https://yandex dot ru/video/preview/5010020587076388375; 
+https://xn--80adjlackxh6aem6d dot xn--p1ai/chast/
+vch-92088-chast-rasformirovana/
+179 https://tass dot ru/obschestvo/8804509; https://iz dot 
+ru/1013941/anton-lavrov-roman-kretcul/kalashnyi-podri-
+ad-dalnevostochnykh-voennykh-vooruzhat-noveishim-avtoma-
+tom; https://dzen dot ru/a/YqxEMfDpcWqKJPsw
+180 https://www.svoboda dot org/a/lichnogo-sostava-poch-
+ti-ne-suschestvuet-konets-brigady-iz-buchi/31981821.
+html; https://army-today dot ru/wch/51460; https://voins-
+kajachast dot ru/sukhoputnye-voyska/motostrelkovye-voys-
+ka/v-ch-51460-mlechnik-64-aya-omsbr/; https://topwar dot 
+ru/195125-64-j-otdelnoj-motostrelkovoj-brigade-prisvoe-
+no-pochetnoe-zvanie-gvardejskaja.html
+181 https://iz dot ru/885405/aleksei-ramm-bogdan-stepovoi/
+vystrely-amura-noveishie-tanki-t-80-otpravilis-na-dalnii-vo-
+stok; https://voinskayachast dot net/suhoputnie-voyska/motost-
+relkovie/vch21720; https://army-today dot ru/wch/21720
+182 https://vk dot com/club39381127; https://voenchastrf dot 
+ru/69-ia-otdelnaia-kazachia-brigada-prikrytiia-v-ch-61424.
+html
+183 https://army-today dot ru/wch/02901; https://m.ok dot ru/
+group/54363881209927/topic/156185813112135
+184 https://livebir dot ru/lietnii-pieriod-obuchieniia-nachal-
+sia-dlia-voiennosluzhashchikh-v-birobidzhanie/; https://
+army-today dot ru/wch/47062
+
+UNDERSTANDINGWAR.ORG  57
+OCTOBER 2023
+185 https://army-today dot ru/wch/01879; https://dzen 
+dot ru/b/ZB8o1YY7mwmDx4LB; https://m.ok dot ru/
+group/51804449669322/topic/155729751469002
+186 https://iz dot ru/605401/2017-06-13/zenitno-raketnye-chasti 
+-na-dalnem-vostoke-perevooruzhaiut-noveishimi-buk-m3;  
+https://iz dot ru/604547/aleksei-ramm-dmitrii-litovkin- 
+nikolai-surkov/dalnii-vostok-prikryli-bukami
+187 https://army-today dot ru/wch/69647; https://vk dot com/
+topic-69658298_35747692
+188 https://army-today dot ru/wch/46108; https://petrimazepa 
+dot com/fifth.html; https://vk dot com/wall-304573_52158; 
+https://iz dot ru/news/650874
+189 https://ok dot ru/v.ch.62048/topic/66291825497427; https://
+mamasoldata mybb.ru/viewtopic.php?id=4374
+190 https://m.ok dot ru/voennoprom/topic/64014897954990; 
+https://vk dot com/wall-100861506_182181
+191 https://iz dot ru/news/650874; https://vk dot com/
+wall-77451915_116135
+192 https://www.chita dot ru/text/society/2023/05/09/72288491/; 
+https://www.chita dot ru/text/society/2023/01/07/71955542/; 
+https://www.chita dot ru/text/society/2022/10/25/71763761/; 
+https://www.chita dot ru/text/society/2022/09/13/71649851/; 
+https://prizivniku dot com/voenchast/voinskie-chasti-chite
+193 https://army-today dot ru/wch/06705; https://voinskaja-
+chast dot ru/sukhoputnye-voyska/motostrelkovye-voyska/
+vch06705-borzya/
+194 https://baikal24 dot ru/text/07-09-2019/024/; https://
+gorodarus dot ru/gornyj.html
+195 https://baikal24 dot ru/text/07-09-2019/024/; https://
+gorodarus dot ru/gornyj.html
+196 https://gtrkchita dot ru/news/vesti-24181/parad-dlia-edinst-
+vennogo-veterana-sela-ustroila-140-zenitno-raketnaia-briga-
+da-v-domne/; http://safe-rgs dot ru/270-140-zenitno-raket-
+naya-brigada-iz-polshi-cherez-kazahstan-v-zabaykale.html
+197 https://xn--80adjlackxh6aem6d dot xn--p1ai/chast/62665/; 
+https://www.rusprofile dot ru/id/7338537; https://checko dot 
+ru/company/fku-voyskovaya-chast-62665-1092536010489
+198 https://iz dot ru/1103734/anton-lavrov-roman-kretcul-
+/s-korablia-napal-dalnevostochnye-morpekhi-poluchat-ti-
+azheluiu-bronetekhniku; https://prizivniku dot com/
+podrazdeleniya/155-brigada-morskoy-pehoty
+199 https://army-today dot ru/wch/10103; https://voinskaya-chast 
+dot ru/vooruzhennye-cily/voenno-morskoj-flot/beregovye-vo-
+jska/voinskaya-chast-10103-petropavlovsk-kamchatskij.html
+200 https://primamedia dot ru/news/522062/; https://nstarikov 
+dot ru/legenda-o-holuae-istorija-samoj-sekretnoj-chasti-mor-
+skogo-specnaza-tihookeanskogo-flota-109683
+201 https://army-today dot ru/roda/beregovye-vojska-vmf; https://
+nvo.ng dot ru/nvoexpert/2019-10-11/7_1065_defence.html
+202 https://vk dot com/kamchatka_morskai_pechota; https://top-
+war dot ru/9357-strelby-520-y-beregovoy-raketno-artilleriys-
+koy-brigady.html
+203 https://iz dot ru/1271796/dmitrii-bolten-
+kov/s-bala-na-korabl-minoborony-perevooru-
+zhit-raketchikov; https://anna-news dot info/
+beregovaya-raketnaya-brigada-razvyornuta-na-sahaline/
+204 https://iz dot ru/1079266/roman-kretcul-aleksei-ramm/
+do-kuril-na-tanke-ostrova-usiliat-noveishimi-boevymi-mashi-
+nami; https://vk dot com/68armycorp
+205 https://informnapalm dot org/4981-gosty-s-sahalyna-18-ya-
+pulad/; https://topwar dot ru/187052-rossijskoe-voennoe-pri-
+sutstvie-na-kurilskih-ostrovah.html
+206 https://vk dot com/wall-4648439_3442; https://voenchastrf 
+dot ru/46-i-pylemetno-artilleriiskii-polk-v-ch-71435.html
+207 https://prizivaut dot ru/voinskie-chasti/yuzhno-saxalins-
+ka-i-saxalinskoj-oblasti.html#:~:text=49%2D%D0%B9%20
+%D0%BF%D1%83%D0%BB%D0%B5%D0%BC%D0%B5% 
+D1%82%D0%BD%D0%BE%2D%D0%B0%D1%80%D1%82 
+%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8% 
+D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BF 
+%D0%BE%D0%BB%D0%BA.%20694541%2C%20%D0%A1 
+%D0%B0%D1%85%D0%B0%D0%BB%D0%B8%D0%BD% 
+D1%81%D0%BA%D0%B0%D1%8F,%D0%9A%D0%BB%D1 
+%8E%D1%87%D0%B8%2C%20%D0%BE%2D%D0%B2% 
+20%D0%98%D1%82%D1%83%D1%80%D1%83%D0%BF% 
+2C%20%D0%B2%2F%D1%87%2036869; https://sakha-
+lin-znak dot ru/sahalin/army/IMG_240_04.2020
+208 https://army-today dot ru/wch/35390; https://voinska-
+ya-chast dot ru/vooruzhennye-cily/cuxoputnye-vojska/moto-
+strelkovye-vojska/voinskaya-chast-35390-39-ya-motostrelko-
+vaya-brigada.html; https://mail-katalog dot ru/numbers/tele-
+fon-otdela-kadrov-vch-35390.html
+209 https://vk dot com/wall-41196400_4888; https://monamir dot 
+ru/68-%D0%B9_%D0%B0%D1%80%D0%BC%D0%B5%D0
+%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D0%
+BE%D1%80%D0%BF%D1%83%D1%81_(%D0%A0%D0%BE
+%D1%81%D1%81%D0%B8%D1%8F); https://artgallery72 dot 
+ru/pistolet/ierarhiya-armii.html; 
+210 https://army-today dot ru/wch/57367; https://newsland dot 
+com/post/5107958-garnizon-lesnaia-31
+211 https://altyn73 dot livejournal.com/1423382.html; 
+http://ptichnik dot com/index.php/14-sample-data-arti-
+cles/1180-zashchita-interesov-nashego-mnogonatsionalno-
+go-gosudarstva
+212 https://dzen dot ru/a/X8h6MOuVpTc09l6B; https://ok dot ru/
+group53660815261875/topic/154331976887731
+213 https://arum74 dot ru/srochnaya/komsomolsk-na-amure-
+voinskaya-chast.html; https://army-today dot ru/wch/30763; 
+https://voinskajachast dot ru/sukhoputnye-voyska/
+specialnye-voyska/vch-30763-14-aya-inzhenernaya-brigada/
+214 https://oooartur dot ru/budni/severomorsk-chast-vmf.html; 
+https://murman-zan dot ru/employer/detail/?companyId=b0a
+0b139-7be8-4c3e-bd8d-1d6e7f20d0c7
+215 https://russian.rt dot com/russia/article/1010011-severnyi-
+flot-rossiya; https://web.archive.org/web/20200420234438/
+https://structure.mil.ru/structure/okruga/north/history.htm
+216 https://iz dot ru/news/681638; https://vk dot com/
+club884374; 
+217 https://iz dot ru/news/681638; https://thebar-
+entsobserver dot com/ru/bezopasnost/2023/02/
+arkticheskaya-brigada-iz-alakurtti-podschityvaet-pogibshih
+218 https://voinskajachast dot ru/voenno-morskoy-flot/beregovye-
+voyska/v-ch-38643-sputnik-61-obrmp/; https://amalantra dot 
+ru/61-brigada-morskoy-pekhoty/
+
+58 UNDERSTANDINGWAR.ORG
+RUSSIAN REGULAR GROUND FORCES ORDER OF BATTLE
+219 https://xn--90aukhw dot xn--p1ai/specnaz-vmf-ros-
+sii-morskie-razvedyvatelnye-punkty/; https://milita.jofo dot 
+me/1814412.html
+220 https://vk dot com/olenya_gyba10544; https://topwar dot 
+ru/169112-beregovaja-oborona-v-sovremennom-mire-nove-
+jshaja-istorija.html
+221 https://stilin dot ru/stati/12298-severnyy-flot-vmf-rossii.html; 
+https://vk dot com/wall-93188324_47031
+222 https://russian.rt dot com/russia/article/692696-vdv-gor-
+naya-diviziya-novorossiisk; https://iz dot ru/1018883/
+anton-lavrov-roman-kretcul/vozdushno-morskie-voiska-de-
+sant-gotoviat-dlia-vysadki-s-korablei
+223 https://aif dot ru/society/army/nikto_krome_v_krymu_razver-
+nut_polk_vdv; https://topwar dot ru/188301-novyj-desant-
+no-shturmovoj-polk-usilit-oboronu-kryma.html
+224 https://army-today dot ru/wch/42091; https://voinska-
+jachast dot ru/vozdushno-desantnye-voyska/108-y-gvar-
+deyskiy-desantno-shturmovoy-pol/; https://voenchas-
+trf dot ru/108-i-gvardeiskii-desantno-shtyrmovoi-
+polk-v-ch-42091.html; https://prizivniku dot com/
+podrazdeleniya/108-polk-vdv-g-novorossiyske
+225 https://army-today dot ru/wch/54801; https://vechnay-
+apamyat dot net/tag/247-%D0%B9-%D0%B3%
+D0%B2%D0%B0%D1%80%D0%B4%D0%B5-
+%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%
+B4%D0%B5%D1%81%D0%B0%D0%BD%D1%82%
+D0%BD%D0%BE-%D1%88%D1%82%D1%83%D1%
+80%D0%BC%D0%BE%D0%B2%D0%BE%D0%B9-
+%D0%BF%D0%BE%D0%BB/; https://aldamuratova dot ru/
+sluzhba/vdv-stavropol.html
+226 https://crimea.ria dot ru/20171202/1112978114.html; https://
+www.crimea.kp dot ru/daily/26765.7/3797742/; https://bmpd.
+livejournal dot com/2985671.html
+227 https://vk dot com/wall-106160452_161505; https://pomnirod 
+dot ru/materialy-k-statyam/rossiya-poslerevolyucionnaya/
+voennye/voinskie-podrazdeleniya1/desantura/127-ya-gvarde-
+jskaya-strelkovaya-diviziya/7-ya-gvardejskaya-vozdushno-de-
+santnaya-diviziya/obshhie-svedeniya-o-7-j-gvardejskoj-voz-
+dushno-desantnoj-divizii.html; 
+228 https://vk dot com/wall-147867120_7923; https://amalantra 
+dot ru/7-diviziya-vdv/
+229 https://anapa-ch dot ru/s-dnyom-vdv-zamnachalnika-shta-
+ba-1141-go-artpolka-o-boevyx-budnyax-anapskix-desant-
+nikov/; https://avangard-nk dot ru/sluzhba/diviziya-vdv-anapa.
+html
+230 https://vfront dot ru/samolety/4-armiya-vvs-i-pvo-sostav.
+html; https://vitjko dot livejournal.com/55301.html
+231 https://m.ok dot ru/voyskovoep/album/57782063530035; 
+https://xn--80adjlackxh6aem6d dot xn--p1ai/chast/94021/
+232 https://amalantra dot ru/76-diviziya-vdv/; https://vk dot com/
+komdiv76; https://voenpro dot ru/infolenta/flag-vdv-76-gvar-
+dejskaya-desantno-shturmovaya-diviziya-234-polk; https://iz 
+dot ru/841214/2019-02-02/miting-v-chest-pobedy-v-stalin-
+gradskoi-bitve-organizovali-v-pskove
+233 https://vk dot com/@russia_desant-104-i-gvardeiskii-desant-
+no-shturmovoi-krasnoznamennyi-ordena; https://army-today 
+dot ru/wch/32515
+234 https://army-today dot ru/wch/74268; https://vkadety dot ru/
+ob-ipoteke/234-dshp.html
+235 https://vk dot com/wall-127118757_446557; https://voenpro 
+dot ru/celendar/den-chasti-237-gv-pdp
+236 https://tass dot ru/armiya-i-opk/17127015; https://smotrim 
+dot ru/article/3219205
+237 https://www.pskov.kp dot ru/online/news/2386072/; https://
+mamasoldata.mybb dot ru/viewtopic.php?id=2017&p=3
+238 https://vk dot com/club23417198; https://voen-
+pro dot ru/celendar/17-noyabrya-den-chasti-1140-gv-
+artpolka-vdv; https://m.ok dot ru/group1140gv.dva/
+albums; https://pskov.bezformata dot com/listnews/
+gvardeyskiy-artilleriyskiy-polk/99754799/
+239 https://www.pskov.kp dot ru/online/news/2241007/; https://
+ok dot ru/voyskovoep/album/59190085746739
+240 https://iz dot ru/1132781/anton-lavrov-roman-kretcul/
+poleznaia-nagruzka-voenno-transportnoi-aviatcii-dobavi-
+at-polkov; https://army-today dot ru/wch/65451; https://smo-
+trim dot ru/video/2608984
+241 https://army-today dot ru/wch/62295; https://voinskiechasti 
+dot ru/vozdushno-desantnie-voyska/vch62295
+242 https://03rosgvard dot ru/331-polk-vdv-kostroma/; https://
+svs-gru dot ru/331-y-gvardeyskiy-vozdushno-desantnyy-polk/; 
+https://vk dot com/kostroma331pdp
+243 https://37kp dot ru/215-%D0%B9-
+%D0%BE%D1%82%D0%B4%D0%B5%D0%B-
+B%D1%8C%D0%BD%D1%8B%D0%B9-%D1%80%D
+0%B0%D0%B7%D0%B2%D0%B5%D0%B4%D0%B
+1%D0%B0%D1%82-98-%D0%B9-%D0%B2%D0%B-
+4%D0%B4/; https://armiyapro.ru/srochnaya-sluzhba/
+vojskovaya-chast-62295-217-j-pdp-vdv; https://vk dot com/
+wall-106160452_487679; https://pomnirod dot ru/mate-
+rialy-k-statyam/rossiya-poslerevolyucionnaya/voennye/
+voinskie-podrazdeleniya1/desantura/127-ya-gvardejska-
+ya-strelkovaya-diviziya/98-ya-gvardejskaya-vozdushno-desant-
+naya-diviziya/215-ya-otdelnaya-gvardejskaya-razvedyvatelnay-
+a-rota-98-j-gvardejskoj-vozdushno-desantnoj-divizii.html
+244 https://gtrk-kostroma dot ru/news/kostromskoy-1065-y-gvar-
+deyskiy-artpolk-otmetil-75-letie/; https://rus-kostroma dot 
+ru/news/41114_1065_mu_gvardeyskomu_artilleriyskomu_
+polku_75_/
+245 https://voinskaya-chast dot ru/voinskie-chasti-v-gorodax/
+voinskie-chasti-goroda-ivanovo-i-ivanovskoj-oblasti.html; 
+https://army-today dot ru/wch/ivanovo
+246 https://prizivniku dot com/podrazdeleniya/106-tulskaya-div-
+iziya-vdv; https://topwar dot ru/28447-106-gvardeyskaya-voz-
+dushno-desantnaya-diviziya.html
+247 https://prizivniku dot com/podrazdeleniya/51-polk-vdv-tule; 
+https://armiyapro dot ru/srochnaya-sluzhba/51-polk-vdv-v-tu-
+le-adres-istoriya-formirovaniya-uchastie-v-boevyh-dejstviyah
+248 https://army-today dot ru/wch/41450; https://vk dot com/
+club8096629
+249 https://myslo dot ru/city/people/person/odin-den-iz-zhizni-
+razvedchika; https://amalantra dot ru/106-diviziya-vdv/
+250 https://mamasoldata.mybb dot ru/viewtopic.php?id=5439; 
+https://wmj dot su/stati/2896-1182-y-gvardeyskiy-artilleriys-
+kiy-polk.html
+251 https://m.ok dot ru/voyskovoep/album/56814909063219; 
+https://iohotnik dot ru/interesnye-fakty/286307-106-vdd.
+html
+
+UNDERSTANDINGWAR.ORG  59
+OCTOBER 2023
+252 https://armiyapro dot ru/srochnaya-sluzhba/voinskaya-chast-
+32364-11-ya-dshb-mestonahozhdenie-kontakty; https://
+army-today dot ru/wch/32364
+253 https://topwar dot ru/14508-ulyanovskaya-31-desantno-shtur-
+movaya-brigada-iznutri-reportazh.html; https://army-today 
+dot ru/wch/73612 
+254 https://vk dot com/club17007122; https://army-today dot ru/
+wch/71289; https://amalantra dot ru/83-brigada-vdv/
+255 https://www.marshallcenter.org/en/publications/securi-
+ty-insights/spetsnaz-operational-intelligence-political-war-
+fare-and-battlefield-role-0#toc-scouts-and-saboteurs; https://
+vk dot com/club62201917; http://xn--80adjlackxh6aem6d dot 
+xn--p1ai/chast/vch-71298/; https://voinskaya-chast dot ru/voz-
+dushno-desantnye-vojska/voinskaya-chast-28337-45-gvarde-
+jskij-polk-specialnogo-naznacheniya.html
+256 https://www.marshallcenter.org/en/publications/securi-
+ty-insights/spetsnaz-operational-intelligence-political-war-
+fare-and-battlefield-role-0#toc-scouts-and-saboteurs; 
+https://voinskayachast dot net/suhoputnie-voyska/specialnie/
+vch64044; https://voinskaya-chast dot ru/vooruzhennye-cily/
+cuxoputnye-vojska/specialnye/voinskaya-chast-64044.html. 
+257 https://www.marshallcenter.org/en/publications/securi-
+ty-insights/spetsnaz-operational-intelligence-political-war-
+fare-and-battlefield-role-0#toc-scouts-and-saboteurs; 
+https://voinskayachast dot net/suhoputnie-voyska/special-
+nie/vch21208; https://armiyapro dot ru/srochnaya-sluzhba/
+vojskovaya-chast-21208-3-ya-obrsn. 
+258 https://www.marshallcenter.org/en/publications/secu-
+rity-insights/spetsnaz-operational-intelligence-politi-
+cal-warfare-and-battlefield-role-0#toc-scouts-and-sab-
+oteurs; https://vm dot ru/news/1041290-putin-pris-
+voil-pochetnoe-zvanie-gvardejskaya-trem-podrazdele-
+niyam-rossijskoj-armii; https://voinskayachast dot net/
+suhoputnie-voyska/specialnie/vch51532.
+259 https://www.marshallcenter.org/en/publications/securi-
+ty-insights/spetsnaz-operational-intelligence-political-war-
+fare-and-battlefield-role-0#toc-scouts-and-saboteurs; https://
+web.archive.org/web/20211028193114/http://www.kremlin.ru/
+acts/bank/43924; https://vk dot com/club54299826; https://
+army-today dot ru/wch/74854. 
+260 https://www.marshallcenter.org/en/publications/securi-
+ty-insights/spetsnaz-operational-intelligence-political-war-
+fare-and-battlefield-role-0#toc-scouts-and-saboteurs; 
+https://voinskayachast dot net/suhoputnie-voyska/special-
+nie/vch54607; https://vk dot com/club25644164; https://
+web.archive.org/web/20190129181722/http://prezident.
+org/articles/ukaz-prezidenta-rf-16-ot-26-janvarja-2019-
+goda-27-01-2019.html  
+261 https://www.marshallcenter.org/en/publications/securi-
+ty-insights/spetsnaz-operational-intelligence-political-war-
+fare-and-battlefield-role-0#toc-scouts-and-saboteurs; https://
+vk dot com/club16399820; https://spark-interfax dot ru/
+rostovskaya-oblast-aksaiski-raion/bu-voiskovaya-chast-inn-
+6102011274-ogrn-1026100666063-6906d994f899226ae-
+0531b9aa8c04bb6
+262 https://www.marshallcenter.org/en/publications/securi-
+ty-insights/spetsnaz-operational-intelligence-political-war-
+fare-and-battlefield-role-0#toc-scouts-and-saboteurs; 
+https://voinskayachast dot net/suhoputnie-voyska/specialnie/
+vch55433; https://web.archive.org/web/20220531135733/
+http://publication.pravo.gov.ru/Document/
+View/0001202205300007 
+263 https://www.marshallcenter.org/en/publications/securi-
+ty-insights/spetsnaz-operational-intelligence-political-war-
+fare-and-battlefield-role-0#toc-scouts-and-saboteurs; 
+http://kremlin dot ru/acts/news/70778; https://vz dot ru/
+news/2023/3/27/1204926.html; https://incident.obozreva-
+tel dot com/crime/anneksiya-kryima-rassekrechenyi-voenn-
+yie-chasti-rossii-novosti-segodnya.htm 
+
+1400 16TH STREET NW, SUITE 515 | WASHINGTON, DC 20036 | WWW.UNDERSTANDINGWAR.ORG | 202.293.5550
+1400 16TH STREET NW, SUITE 515 | WASHINGTON, DC 20036 | WWW.UNDERSTANDINGWAR.ORG | 202.293.55501400 16TH STREET NW, SUITE 515 | WASHINGTON, DC 20036 | UNDERSTANDINGWAR.ORG | 202.293.5550  

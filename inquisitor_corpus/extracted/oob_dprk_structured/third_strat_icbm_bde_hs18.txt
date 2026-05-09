@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Hwasong-18 Solid-Fuel ICBM Brigade (ELITE / first-tier)
+
+**Unit ID**: strat_icbm_bde_hs18
+**Type**: rocket_brigade
+**Headquarters**: Deep interior (location classified)
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: Strategic Force ICBM Brigade Group (Hwasong-14/15/17/18/19) (strat_icbm_bde_group)
+**Higher echelon**: KPA Strategic Force / Missile General Bureau (Jeonnyakgun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 85.0%
+**Notes**: ELITE. POST-2021 ADDITION. Hwasong-18 (15,000km; first solid-fuel ICBM in NK arsenal; tested Apr 2023). Significantly improved survivability vs. liquid-fueled systems. [Wikipedia Strategic Force 2024] [POST-2021 UPDATE]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

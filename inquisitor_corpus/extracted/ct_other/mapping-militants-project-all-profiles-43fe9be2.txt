@@ -1,0 +1,80 @@
+Home | Mapping Militants Project
+Skip to main content
+Welcome
+The Mapping Militants Project (MMP) identifies patterns in the evolution of militant organizations in specified conflict theatres and provides representations of changing relationships among groups. Relationships are traced in interactive timeline-diagrams or “maps,” which provide visual representations of how inter-group relationships such as rivalries and alliances change over time. The maps are linked to group profiles, which compile open-source news and data on militant organizations to provide a comprehensive, fully cited report on each group.
+How to Cite
+When using the Mapping Militants Project, please cite:
+Crenshaw, M., & Robinson, K. (2025). Mapping Militants Project. Rice University.
+https://doi.org/10.25613/G0K4-WF70
+In addition to this citation, please also cite individual profiles (see each profile page for citation) when referencing Mapping Militants research on a particular militant group.
+When using MMP network visualizations, please also cite:
+Robinson, K., Crenshaw, M., Gardin Franco, U. E., & De Castro Sousa, B. (2025). Mapping Militants Project Network Visualization. Rice University.
+https://doi.org/10.25613/GP8N-MH95
+MMP by the Numbers
+133 Full Profiles of Militant Organizations
+View Profiles
+15 Regional "Maps"
+View Maps
+712 inter-group relationships
+View Relationships
+Recent updates and new profiles
+Asa'ib Ahl al-Haq
+Profile Last Updated:
+June 1, 2025
+Asa’ib Ahl al-Haq (AAH) is a Shiite militant and political organization operating primarily in Iraq. AAH was founded as a splinter group from the Mahdi Army in 2006 under the leadership of Qais al-Khazali. The group is backed by Iran’s Islamic Revolutionary Guard Corp (IRGC) and promotes Iran’s interests in Iraq. AAH currently focuses on its political control of Iraq and has become a trusted tool for the IRGC Quds Force (IRGC QF) and its commander Esmail Ghaani.
+Read more
+about Asa'ib Ahl al-Haq
+Al Shabaab
+Profile Last Updated:
+May 1, 2025
+Al Shabaab is a Salafi militant organization seeking to build an Islamic state in Somalia. Although the group is based in Somalia, Al Shabaab has also conducted attacks in neighboring countries, including Kenya, Djibouti, and Ethiopia. Al Shabaab emerged as an independent organization around December 2006 after the dissolution of the Islamic Courts Union (ICU), for which it had served as the military wing. Since the late 2000s, Al Shabaab has had close ties to Al Qaeda and has sought to frame the Somali struggle as part of a global jihadist movement. The group has engaged in bombings, suicide attacks, and armed assaults against the Somali government,  religious minorities, private civilians, foreign troops, diplomats, and aid or non-governmental organization workers.
+Read more
+about Al Shabaab
+Islamic State in Somalia
+Profile Last Updated:
+March 1, 2025
+The Islamic State in Somalia (ISS, also referred to as IS-Somalia and ISSP) is a branch of the Islamic State operating in Somalia. It is led by Abdul Qadir Mumin. It has been the target of US military air strikes since 2017.
+Read more
+about Islamic State in Somalia
+Ansar Allah
+Profile Last Updated:
+September 27, 2024
+Ansar Allah, also known as the Houthi movement or Houthis, is an Islamist armed movement operating in northern Yemen, rooted in Zaydi Shiite beliefs. The ideological predecessor to Ansar Allah, Believing Youth, formed in 1992. With the U.S. invasion of Iraq in 2003 and the death of the Ansar Allah’s founder, Hussein al-Houthi, in 2004, the group militarized and pushed for a Zaydi governorate in Yemen. The organization’s goals are to overthrow the Yemeni government and gain regional autonomy for the Houthi tribe in northern Yemen.
+Read more
+about Ansar Allah
+National Liberation Army (Colombia)
+Profile Last Updated:
+December 3, 2024
+Brothers Fabio and Manuel Vasquéz Castaño founded the ELN, a Marxist-Leninst group, in 1964 to defend Colombians whom they believed to be victims of social, political, and economic injustices perpetrated by the Colombian state. The Colombian military decimated the ELN in 1973; however, the group was able to rebuild from just 65 members. The ELN's involvement in the drug trade and kidnapping practices helped the group grow to over 4,000 members at its height in 1999. Though the ELN has been in steady decline since 2000, the group has remained involved in peace talks with the Colombian government from 2014 through to 2015.
+Read more
+about National Liberation Army (Colombia)
+Kata'ib Hezbollah
+Profile Last Updated:
+September 21, 2024
+Kataib Hezbollah (KH), also known as the Hezbollah Brigades, is a Shiite Iraqi insurgent group in Iraq and Syria that was founded in 2007. The group is led by Abu Mahdi al-Muhandis and receives large amounts of training, logistical support, and weapons from the Iranian Islamic Revolutionary Guards Corps (IRGC).  From 2007-2011, KH directed the majority of its attacks against U.S.-Coalition forces in Iraq and was designated as a foreign terrorist organization by the U.S. on July 2, 2009. Following the U.S. withdrawal from Iraq in 2011, KH sent large numbers of its fighters to Syria to fight alongside Hezbollah and the Assad government. KH has also deployed its troops in Iraq to fight the Islamic State (IS) and is a member of the Popular Mobilization Forces (PMF), an umbrella group of Shiite militant groups fighting IS in Iraq.
+Read more
+about Kata'ib Hezbollah
+Islamic State - Sinai Province
+Profile Last Updated:
+June 17, 2025
+The Islamic State – Sinai Province (commonly known as Wilayat Sinai, originally known as Ansar Beit al-Maqdis, also known as IS-IP or IS-SP) is a Salafi jihadist group formed following the toppling of Hosni Mubarak’s regime in 2011. Founded as Ansar Beit al-Maqdis (ABM), the group’s stated goal from 2011 to 2013 was to free Jerusalem from Western influence and rid Egypt of any Israeli presence. However, after the fall of Mohammed Morsi’s government in 2013, ABM shifted its focus to seek revenge against the Egyptian police and security forces for their violent crackdown on Islamist dissidents. In November 2014, ABM pledged allegiance to the Islamic State and renamed itself the Islamic State – Sinai Province (Wilayat Sinai) in an attempt to extend the IS “caliphate” to this region.
+Read more
+about Islamic State - Sinai Province
+Hezbollah
+Profile Last Updated:
+January 30, 2026
+Hezbollah is a Lebanese Shia military and political group that emerged during the Lebanese Civil War and the Israeli occupation of southern Lebanon in 1982. In an inaugural 1985 manifesto, Hezbollah announced that its goals were to destroy Israel and expel Western influence from Lebanon and the Middle East.  The group became notorious for suicide bombings, hijackings, and kidnappings of foreigners as well as attacks abroad. The December 2024 change of regime in Syria and loss of Iranian supply routes has weakened Hezbollah, which faces existential challenges to its long-term role as Iran’s proxy and Lebanon’s dominant armed actor.
+Read more
+about Hezbollah
+Al Qaeda in the Islamic Maghreb
+Profile Last Updated:
+July 21, 2025
+AQIM, originally known as the Salafist Group for Preaching and Combat (GSPC), splintered from the Armed Islamic Group (GIA), a key participant in the Algerian Civil War, in 1998. In 2006, the GSPC became a formal affiliate of Al Qaeda (AQ) and changed its name to Al Qaeda in the Islamic Maghreb (AQIM).  The group is famous for kidnapping Westerners for ransom in North Africa and is active in the drug, arms, and human trafficking trade. AQIM is one of the wealthiest terrorist organizations in the world. In March 2017, AQIM’s Sahara branch merged with Al Mourabitoun, Ansar Dine, and the Macina Liberation Front (MLF) to form Jamaat Nusrat al-Islam wal Muslimeen (JNIM), a hierarchical militant alliance principally led by AQIM. Since joining JNIM, AQIM’s independent operations have largely subsided, but the group continues to maintain independent forces in Algeria, Libya, and Tunisia.
+Read more
+about Al Qaeda in the Islamic Maghreb
+Al Qaeda in the Arabian Peninsula
+Profile Last Updated:
+October 12, 2024
+Al Qaeda in the Arabian Peninsula (AQAP) is a Sunni terrorist organization and Al Qaeda (AQ) affiliate based in Yemen. Emerging from the 2009 merger of the Yemeni and Saudi Arabian branches of Al Qaeda, AQAP has claimed numerous attacks in Yemen and has also targeted Westerners at home and abroad. The group is known internationally for the "underwear bomber" who attempted to detonate a bomb on a Detroit-bound airplane in 2009 and for the 2015 Charlie Hebdo attacks in Paris. AQAP is distinguished from other AQ branches as one of the more capable members of the global AQ network.
+Read more
+about Al Qaeda in the Arabian Peninsula

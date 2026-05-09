@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Reconnaissance Brigade No. 1 (strategic reconnaissance) (ELITE / first-tier)
+
+**Unit ID**: sof_bde_recon_1
+**Type**: mountain
+**Headquarters**: Location unknown
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: 11th Storm Corps (XI Corps) (sof_11corps)
+**Higher echelon**: KPA Special Operations Forces (Teuksu Jjakjeon'gun)
+**Elite designation**: Yes
+**Strength (% authorized)**: 87.0%
+**Notes**: ELITE. One of ~3 Reconnaissance Brigades per Grey Dynamics 2024. Operates behind enemy lines; opens paths for regular units; HVT targeting. RGB 2nd Bureau has 7 dedicated reconnaissance battalions in addition. [Grey Dynamics Oct 2024; HRNK RGB Final 2026; FAS KPA Guide Part 3]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

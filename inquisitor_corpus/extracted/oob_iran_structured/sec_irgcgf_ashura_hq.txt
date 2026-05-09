@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Ashura Operational HQ (Northwest — East/West Azarbaijan, Ardabil, Zanjan)
+
+**Unit ID**: irgcgf_ashura_hq
+**Service**: IRGC-GF
+**Type**: operational_headquarters
+**Headquarters**: Tabriz
+**Parent**: IRGC Ground Forces (IRGCGF) (irgc_gf)
+**Strength (% authorized)**: 80%
+**Notes**: Commander: BG Mohammad Taghi Osanlou (holds command of Ashura and Hamze). Oversees Ashura (E. Azerbaijan), Hazrat-e Abbas (Ardabil), Ansar al-Mahdi (Zanjan). [Wikipedia IRGC GF]
+
+## Subordinate Division / Brigade / Squadrons
+- **Sepah-e Ashura (East Azerbaijan Provincial Corps)** (irgcgf_e_az_corp) — type: light_cab, HQ: Tabriz, East Azerbaijan, strength: 80%. Commander: Abedin Khorram. Includes cyberspace headquarters. [Wikipedia IRGC GF]
+- **Sepah-e Hazrat-e Abbas (Ardabil Provincial Corps)** (irgcgf_ardabil_corp) — type: light_cab, HQ: Ardabil City, Ardabil, strength: 80%. Commander: Jalil Babazadeh. [Wikipedia IRGC GF]
+- **Sepah-e Ansar al-Mahdi (Zanjan Provincial Corps)** (irgcgf_zanjan_corp) — type: light_cab, HQ: Zanjan City, Zanjan, strength: 80%. Commander: Jahanbakhsh Karami. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,11 @@
+# Russian Brigade / Regiment — 71st Guards Motor Rifle Division (former 200th Bde) (Guards)
+
+**Unit ID**: 200mrb
+**Type**: motor_rifle
+**Parent**: Field Army: 14th Army Corps (14ac)
+**Parent District**: Leningrad Military District
+**Guards designation**: Yes
+**Strength (% authorized)**: 68.0%
+**Notes**: Reorganized to 71st MRD; Arctic
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:BDE] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

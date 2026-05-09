@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 654th Missile Brigade (DF-26 IRBM) (ELITE / first-tier)
+
+**Unit ID**: plarf_654bde
+**Type**: rocket_brigade
+**Headquarters**: Haicheng/Dengshahe, Liaoning
+**Parent**: Group Army / Fleet / Base: PLARF Base 65 (第六十五基地, Unit 96605) (plarf_b65)
+**Higher echelon**: Northern Theater Command (北部战区)
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: DF-26 dual-capable IRBM. MUCD 96754. [CNS PLARF OOB 2023] [Grey Dynamics 2024-07-30]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

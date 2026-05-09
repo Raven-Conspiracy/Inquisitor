@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 32nd Mountain Combined Arms Brigade
+
+**Unit ID**: 75ga_32mcab
+**Type**: mountain_inf_bde
+**Headquarters**: Kunming area
+**Parent**: Group Army / Fleet / Base: 75th Group Army (第七十五集团军) (75ga)
+**Higher echelon**: Southern Theater Command (南部战区)
+**Elite designation**: No
+**Strength (% authorized)**: 100%
+**Notes**: Mountain/highland infantry. STC Vietnam border/highland terrain. [Wikipedia 75th GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

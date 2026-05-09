@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 71st Anti-Submarine Warfare Squadron (P-3F)
+
+**Unit ID**: sqn71_asw
+**Type**: fighter_brigade
+**Headquarters**: Shiraz
+**Parent**: Region / Provincial Corps / Base: 7th Tactical Air Base — Shiraz (Shahid Dastghaib) (tab7_shiraz)
+**Higher echelon**: Islamic Republic of Iran Air Force (IRIAF)
+**Elite designation**: No
+**Strength (% authorized)**: 30%
+**Notes**: P-3F Orion maritime patrol/ASW. Struck Mar 2026 at Isfahan (some P-3s also based/maintained at Isfahan per Scramble). [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

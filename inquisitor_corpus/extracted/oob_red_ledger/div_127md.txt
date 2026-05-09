@@ -1,0 +1,15 @@
+# Russian Division — 127th Motor Rifle Division
+
+**Unit ID**: 127md
+**Type**: motor_rifle
+**Headquarters**: Sergeyevka
+**Parent Army**: 5th Guards Combined Arms Army (5gca)
+**Parent District**: Eastern Military District
+**Strength (% authorized)**: 58.0%
+**Notes**: South Donetsk
+
+## Subordinate Brigades / Regiments
+- **143rd Motor Rifle Regiment** (143mrr) — type: motor_rifle, strength: 55.0%. None
+- **218th Tank Regiment** (218tr) — type: tank, strength: 52.0%. None
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:DIV] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

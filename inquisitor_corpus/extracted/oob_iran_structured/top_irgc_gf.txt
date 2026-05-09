@@ -1,0 +1,23 @@
+# Iranian Armed Forces — Service Branch: IRGC Ground Forces (IRGCGF)
+
+**ID**: IRGC_GF
+**Headquarters**: Tehran
+**Commander (current)**: Brigadier General Mohammad Pakpur
+**Map color code**: #5e1a1a
+**Notes**: IRGC ground component; ~150,000 personnel. 31 provincial corps plus Tehran city corps. Primarily light infantry/commando with independent maneuver brigades. Elite Saberin units. Army Aviation (IRGCAA) formed 2016. [DIA IMP 2019 p.18] [POST-2024-STRIKES STATUS UNCERTAIN: General Pakpur killed in airstrike per JPost March 2026; successor unknown].
+
+## Subordinate Region / Provincial Corps / Bases
+- **Sarallah Operational Headquarters (Tehran region)** [IRGC-GF] (irgcgf_sarallah_hq) — type: operational_headquarters, HQ: Tehran, strength: 60%. Multi-provincial HQ overseeing Tehran region IRGC GF, including Mohammad Rasoul Allah Provincial Corps (Tehran City) and Imam Hassan Mojtaba Corps (Alborz). Oversees 22 Basij regional bases in Tehran City. Sarallah HQ struck by IDF Mar 1, 2026. [CTP Mar 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **Hamze-ye Sayyed al-Shohada Operational HQ (West/NW)** [IRGC-GF] (irgcgf_hamze_hq) — type: operational_headquarters, HQ: Tabriz / Urmia area, strength: 80%. Oversees Ashura (E. Azerbaijan), Shohada (W. Azerbaijan), Kurdistan Beit-ol-Moqaddas corps. [Wikipedia IRGC GF]
+- **Najaf-e Ashraf Operational HQ (West/Central)** [IRGC-GF] (irgcgf_najaf_hq) — type: operational_headquarters, HQ: Kermanshah area, strength: 80%. Oversees Amir al-Mouminin (Ilam), Kermanshah Nebi Akram, Ansar al-Hossein (Hamedan) corps. [Wikipedia IRGC GF]
+- **Karbala Operational HQ (South)** [IRGC-GF] (irgcgf_karbala_hq) — type: operational_headquarters, HQ: Ahvaz area, strength: 80%. Oversees Vali-ye Asr (Khuzestan), Abolfazl (Lorestan), Fath (Kohgiluyeh) corps. [Wikipedia IRGC GF]
+- **Madineh-ye al-Munavareh Operational HQ (South-Southwest)** [IRGC-GF] (irgcgf_madineh_hq) — type: operational_headquarters, HQ: Shiraz area, strength: 80%. Oversees Fajr (Fars), Imam Sadeq (Bushehr), Imam Sadjad (Hormozgan) corps. Most important units include Fajr Division Shiraz and 33rd SF Brigade. [Wikipedia IRGC GF]
+- **Ghadir Operational HQ (North/Caspian)** [IRGC-GF] (irgcgf_ghadir_hq) — type: operational_headquarters, HQ: Rasht/Sari area, strength: 80%. Oversees Qods (Gilan), Karbala (Mazandaran), Neynava (Golestan) corps. [Wikipedia IRGC GF]
+- **Samen al-Aeme Operational HQ (Northeast)** [IRGC-GF] (irgcgf_samen_hq) — type: operational_headquarters, HQ: Mashhad area, strength: 80%. Oversees Imam Reza (Razavi Khorasan), Javad al-Aeme (N. Khorasan), Ansar al-Reza (S. Khorasan) corps. [Wikipedia IRGC GF]
+- **Saheb al-Zaman Operational HQ (Central)** [IRGC-GF] (irgcgf_saheb_hq) — type: operational_headquarters, HQ: Karaj / Qom area, strength: 80%. Oversees Ruhollah (Markazi), Saheb al-Amr (Qazvin), Ali bin Abu Taleb (Qom), Ghaem al-Muhammad (Semnan) corps. [Wikipedia IRGC GF]
+- **Sayyed al-Shohada Operational HQ (Central)** [IRGC-GF] (irgcgf_sayyed_hq) — type: operational_headquarters, HQ: Isfahan area, strength: 80%. Oversees Ghamar Bani Hashem (Chaharmahal), Saheb al-Zaman Isfahan (Isfahan), al-Ghadir (Yazd) corps. [Wikipedia IRGC GF]
+- **Qods Operational HQ (Southeast)** [IRGC-GF] (irgcgf_qods_hq) — type: operational_headquarters, HQ: Kerman area, strength: 80%. Oversees Sarallah (Kerman), Salman (Sistan and Baluchestan) corps. [Wikipedia IRGC GF]
+- **Ashura Operational HQ (Northwest — East/West Azarbaijan, Ardabil, Zanjan)** [IRGC-GF] (irgcgf_ashura_hq) — type: operational_headquarters, HQ: Tabriz, strength: 80%. Commander: BG Mohammad Taghi Osanlou (holds command of Ashura and Hamze). Oversees Ashura (E. Azerbaijan), Hazrat-e Abbas (Ardabil), Ansar al-Mahdi (Zanjan). [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:SVC] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

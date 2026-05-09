@@ -1,0 +1,13 @@
+# Iranian Armed Forces — Division / Brigade / Squadron: 141st Tactical Fighter Squadron (F-5E/F)
+
+**Unit ID**: sqn141_f5
+**Type**: fighter_brigade
+**Headquarters**: Mashhad
+**Parent**: Region / Provincial Corps / Base: 14th Tactical Air Base — Mashhad (Shahid Hashemi Nejad) (tab14_mashhad)
+**Higher echelon**: Islamic Republic of Iran Air Force (IRIAF)
+**Elite designation**: No
+**Strength (% authorized)**: 40%
+**Notes**: F-5E/F Tiger II. TAB 14 struck Jun 15, 2025; some transports and tankers destroyed. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

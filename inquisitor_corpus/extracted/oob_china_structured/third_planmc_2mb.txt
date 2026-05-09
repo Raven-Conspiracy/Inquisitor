@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 2nd Marine Brigade (海军陆战队第2旅) (ELITE / first-tier)
+
+**Unit ID**: planmc_2mb
+**Type**: marine
+**Headquarters**: Zhanjiang
+**Parent**: Group Army / Fleet / Base: PLA Marine Corps (陆战队, PLANMC) (planmc)
+**Higher echelon**: ?
+**Elite designation**: Yes
+**Strength (% authorized)**: 100%
+**Notes**: Formed 1998 from 164th Division. Amphibious combined arms. First-tier. [Gunners Shot 2024-01-18] [DOD CMPR 2024]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

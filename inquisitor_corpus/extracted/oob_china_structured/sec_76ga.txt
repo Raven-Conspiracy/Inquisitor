@@ -1,0 +1,18 @@
+# Chinese PLA — Group Army / Fleet / Base: 76th Group Army (第七十六集团军)
+
+**Unit ID**: 76ga
+**Service**: PLAA
+**Type**: group_army
+**Headquarters**: Xining
+**Parent**: Western Theater Command (西部战区) (wtc)
+**Strength (% authorized)**: 100%
+**Notes**: Formerly 21st Group Army (Lanzhou MR); redesignated Apr 2017. Covers Xinjiang, Qinghai border regions; has elements repositioned toward India LAC per 2024 SSI study. [DOD CMPR 2024 p.97] [US Army SSI 2024]
+
+## Subordinate Brigade / Division / Flotillas
+- **12th Heavy Combined Arms Brigade** (76ga_12cab) — type: heavy_combined_arms_bde, HQ: Jiuquan, Gansu, strength: 100%. Stationed Jiuquan. [Wikipedia 76th GA]
+- **56th Light Combined Arms Brigade** (76ga_56cab) — type: light_cab, HQ: Xining area, strength: 100%. [Wikipedia 76th GA]
+- **62nd Heavy Combined Arms Brigade** (76ga_62cab) — type: heavy_combined_arms_bde, HQ: Xining area, strength: 100%. [Wikipedia 76th GA]
+- **149th Heavy Combined Arms Brigade** (76ga_149cab) — type: heavy_combined_arms_bde, HQ: Xining area, strength: 100%. [Wikipedia 76th GA]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

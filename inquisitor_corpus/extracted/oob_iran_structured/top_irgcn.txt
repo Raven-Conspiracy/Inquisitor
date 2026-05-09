@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Service Branch: IRGC Navy (IRGCN)
+
+**ID**: IRGCN
+**Headquarters**: Bandar Abbas (Shahid Bahonar Base)
+**Commander (current)**: Rear Admiral Alireza Tangsiri
+**Map color code**: #1a5a7a
+**Notes**: IRGC naval component; ~20,000 personnel. Asymmetric/swarm doctrine in Persian Gulf. Hundreds of small fast-attack craft, missile boats, and coastal ASCMs. Entirely distinct from IRIN. [DIA IMP 2019 p.28] [POST-2024-STRIKES STATUS UNCERTAIN: Bandar Abbas 1st IRGCN district and Bandar Mahshahr 3rd district struck March 2026 per Alma Research; at least 5 vessels hit/sunk at Bandar Abbas per MAIAR; 3 of 5 HQs targeted].
+
+## Subordinate Region / Provincial Corps / Bases
+- **IRGCN 1st Naval Region — Bandar Abbas (Saheb al-Zaman)** [IRGCN] (irgcn_nd1) — type: naval_district, HQ: Bandar Abbas (Shahid Bahonar Base), Hormozgan, strength: 45%. Capt. Abbas Gholamshahi (per Wikipedia IRGCN). Strait of Hormuz. Largest IRGCN base. Struck Feb 28 - Mar 7, 2026; multiple drydocks hit, vessels neutralized per Alma Research/satellite imagery. [DIA IMP 2019 p.28] [Alma Research Mar 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **IRGCN 2nd Naval Region — Bushehr** [IRGCN] (irgcn_nd2) — type: naval_district, HQ: Bushehr, strength: 70%. North-central Persian Gulf. Fast-attack craft and missile boat operations. [DIA IMP 2019 p.28]
+- **IRGCN 3rd Naval Region — Bandar Mahshahr** [IRGCN] (irgcn_nd3) — type: naval_district, HQ: Bandar Mahshahr (Bandar Imam Khomeini area), Khuzestan, strength: 55%. Northern Persian Gulf. Struck by at least 6 munitions Mar 2, 2026 per Alma Research satellite imagery. [DIA IMP 2019 p.28] [Alma Research Mar 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **IRGCN 4th Naval Region — Asaluyeh** [IRGCN] (irgcn_nd4) — type: naval_district, HQ: Asaluyeh, Bushehr Province, strength: 70%. Central Persian Gulf; guards South Pars gas field approaches. Not targeted as of Mar 2026 per Alma Research. [DIA IMP 2019 p.28] [IFMAT 2017]
+- **IRGCN 5th Naval Region — Bandar Lengeh (Imam Mohammad Bagher)** [IRGCN] (irgcn_nd5) — type: naval_district, HQ: Bandar Lengeh, Hormozgan, strength: 70%. Southern Persian Gulf; controls access to disputed islands (Lesser Tunb, Greater Tunb, Abu Musa). Not targeted as of Mar 2026 per Alma Research. [DIA IMP 2019 p.28] [Wikipedia IRGCN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:SVC] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

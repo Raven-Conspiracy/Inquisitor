@@ -1,0 +1,16 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: IV Corps (4th Corps)
+
+**Unit ID**: corps_4
+**Service**: KPA Ground Forces
+**Type**: corps
+**Headquarters**: Sariwon area or Pyongyang region (approximate; sources conflict)
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 83.0%
+**Notes**: FORWARD CORPS. Western DMZ sector facing Seoul axis. One of four highest-readiness ground corps. Specific sub-unit names unconfirmed. [Wikipedia KPAGF; DIA NKMP 2021]
+
+## Subordinate Division / Brigade / Flotillas
+- **Infantry Division (unidentified, IV Corps) — Placeholder 1** (div_inf_4c_1) — type: motor_rifle, HQ: Western DMZ sector (approximate), strength: 82.0%. NAME UNKNOWN. Placeholder per DIA count of 27 infantry divisions; IV Corps is a Forward Corps on the western Seoul axis. [DIA NKMP 2021; IISS MB 2017]
+- **Infantry Division (unidentified, IV Corps) — Placeholder 2** (div_inf_4c_2) — type: motor_rifle, HQ: Western DMZ sector (approximate), strength: 80.0%. NAME UNKNOWN. Placeholder. [DIA NKMP 2021]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

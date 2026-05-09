@@ -1,0 +1,11 @@
+# Russian Division — 3rd Guards Motor Rifle Division
+
+**Unit ID**: 3gmd
+**Type**: motor_rifle
+**Headquarters**: Luhansk
+**Parent Army**: 3rd Guards Combined Arms Army (3gca)
+**Parent District**: Southern Military District
+**Strength (% authorized)**: 60.0%
+**Notes**: Siversk sector
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:DIV] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

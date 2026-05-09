@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: 24th Bomber Regiment (Il-28 / H-5 bombers)
+
+**Unit ID**: kpaf_rgt_24_il28
+**Type**: bomber_division
+**Headquarters**: Uiju Airfield, North Pyongan Province
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: 1st Air Combat Command (1st ACC) / 1st Air Combat Division (kpaf_1acc)
+**Higher echelon**: Korean People's Army Air Force (Konggun)
+**Elite designation**: No
+**Strength (% authorized)**: 45.0%
+**Notes**: Operates Il-28 Beagle/H-5 bombers (~80 total KPAF). Obsolete platform but can deliver Kh-35/P-15 Termit missiles and potentially unguided bombs at night. Some configured for Kumsong-3 anti-ship cruise missile launches. [Wikipedia KPAF; DIA NKMP 2021]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

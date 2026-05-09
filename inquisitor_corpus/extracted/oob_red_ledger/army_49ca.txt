@@ -1,0 +1,10 @@
+# Russian Army — 49th Combined Arms Army
+
+**Unit ID**: 49ca
+**Type**: combined_arms_army
+**Headquarters**: Stavropol
+**Parent District**: Southern Military District (SMD)
+**Strength (% authorized)**: 72.0%
+**Notes**: Zaporozhye axis
+
+**Tags**: [OOB-RU] [STRUCTURED] [LEVEL:ARMY] [SOURCE: github.com/Raven-Conspiracy/the-red-ledger | Russian Ground Forces OOB v2026-04-10 | curated from Wikipedia, ISW, US Army ATP 7-100.1, open OSINT]

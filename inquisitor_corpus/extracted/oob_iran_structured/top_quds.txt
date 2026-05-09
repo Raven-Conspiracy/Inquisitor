@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Service Branch: IRGC Quds Force (IRGC-QF)
+
+**ID**: QUDS
+**Headquarters**: Tehran (former US Embassy compound and IRGC HQ)
+**Commander (current)**: Brigadier General Esmail Qaani
+**Map color code**: #1a1a5e
+**Notes**: External operations branch of IRGC. ~5,000-21,000 personnel (estimates vary widely). Qaani replaced Soleimani on 3 Jan 2020 following US drone strike assassination. Operates via geographic corps/desks. [DIA IMP 2019 p.22] [Wikipedia Quds Force] [CTP 2025] [POST-2024-STRIKES STATUS UNCERTAIN].
+
+## Subordinate Region / Provincial Corps / Bases
+- **Quds Force Ramadan Headquarters (Iraq Corps)** [Quds] (quds_iraq_desk) — type: regional_desk, HQ: Tehran/Iran-Iraq border area, strength: 100%. 1st Corps; responsible for Iraq. Formerly led by BG Hassan Danaeifar and BG Iraj Masjedi. Coordinates with PMF (Popular Mobilization Forces) and Iran-aligned militias. [Wikipedia Quds Force]
+- **Quds Force Lebanon/Syria Corps (7th Corps)** [Quds] (quds_levant_desk) — type: regional_desk, HQ: Damascus / Beirut liaison, strength: 80%. Responsible for Lebanon (Hezbollah), Syria. Formerly led by BG Hossein Dehghan, BG Mohammad Hejazi, BG Mohammad Reza Zahedi (Zahedi killed Israeli strike Damascus Apr 2024). Unit 2250 (logistical) coordinated Syrian support. [Wikipedia Quds Force] [POST-2024-STRIKES STATUS UNCERTAIN: Zahedi killed Apr 2024]
+- **Quds Force Arabian Peninsula Corps (6th Corps)** [Quds] (quds_yemen_desk) — type: regional_desk, HQ: Tehran (forward liaison Yemen), strength: 100%. Responsible for Persian Gulf countries, Arabian Peninsula, Yemen Houthi (Ansar Allah) support. Led by BG Abdolreza Shahlaei (responsible for arms/training to Houthis). [Wikipedia Quds Force] [WINEP Knights]
+- **Quds Force Afghanistan/Pakistan Corps (4th Corps / Al-Ansar)** [Quds] (quds_afghan_desk) — type: regional_desk, HQ: Tehran, strength: 80%. Al-Ansar Command Center; responsible for Afghanistan and Central Asia. Led formerly by General Hossein Musavi and Colonel Hasan Mortezavi. Recruits Fatemiyoun Afghan Shia fighters. [Wikipedia Quds Force]
+- **Quds Force Palestine Division** [Quds] (quds_palestine_div) — type: regional_desk, HQ: Tehran, strength: 100%. Led by BG Saeed Izadi. Responsible for Hamas and Palestinian Islamic Jihad support. Includes Abu Jihad Foreign Operations Unit (Gaza tunnels, IED networks). [Wikipedia Quds Force]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:SVC] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

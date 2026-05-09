@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: X Corps (10th Corps)
+
+**Unit ID**: corps_10
+**Service**: KPA Ground Forces
+**Type**: corps
+**Headquarters**: Unknown; northern DPRK (approximate)
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 62.0%
+**Notes**: 10th of the conventional corps. Sub-unit names and HQ not confirmed in open sources. FAS 1996 document lists 8 conventional corps; number has since expanded. [DIA NKMP 2021 '10 regular corps'; FAS]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

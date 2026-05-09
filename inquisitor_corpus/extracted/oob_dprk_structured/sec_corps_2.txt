@@ -1,0 +1,12 @@
+# Korean People's Army — Corps / Fleet / Air Division / Missile Bureau: II Corps (2nd Corps)
+
+**Unit ID**: corps_2
+**Service**: KPA Ground Forces
+**Type**: corps
+**Headquarters**: Wonsan, Kangwon Province (approximate)
+**Parent**: KPA Ground Forces (Ryukgun) (kpa_gf)
+**Strength (% authorized)**: 82.0%
+**Notes**: FORWARD CORPS. Central DMZ sector. One of four frontline corps. Historically had 5 divisions per Bodansky 1984-88. Current sub-unit names unknown in open sources. [Wikipedia KPAGF; DIA NKMP 2021; FAS irp.fas.org]
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:CORPS] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

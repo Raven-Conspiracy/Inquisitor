@@ -1,0 +1,15 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: IRIN 2nd Naval District — Bushehr/Jask
+
+**Unit ID**: irin_nd2
+**Service**: IRIN
+**Type**: naval_district
+**Headquarters**: Bushehr (admin); Jask (operational, HQ relocating)
+**Parent**: Islamic Republic of Iran Navy (IRIN) (irin)
+**Strength (% authorized)**: 70%
+**Notes**: Persian Gulf and Gulf of Oman. Jask base increasingly important for Indian Ocean force projection. [DIA IMP 2019 p.27]
+
+## Subordinate Division / Brigade / Squadrons
+- **IRIN Fast Attack Craft Force (Kaman/Combattante II)** (irin_fac_sqn) — type: surface_flotilla, HQ: Bushehr, strength: 65%. 13x Kaman-class (Combattante II) FACM + other patrol craft. [DIA IMP 2019 p.27]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

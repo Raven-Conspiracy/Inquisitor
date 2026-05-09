@@ -1,0 +1,17 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: Najaf-e Ashraf Operational HQ (West/Central)
+
+**Unit ID**: irgcgf_najaf_hq
+**Service**: IRGC-GF
+**Type**: operational_headquarters
+**Headquarters**: Kermanshah area
+**Parent**: IRGC Ground Forces (IRGCGF) (irgc_gf)
+**Strength (% authorized)**: 80%
+**Notes**: Oversees Amir al-Mouminin (Ilam), Kermanshah Nebi Akram, Ansar al-Hossein (Hamedan) corps. [Wikipedia IRGC GF]
+
+## Subordinate Division / Brigade / Squadrons
+- **Sepah-e Ansar al-Hossein (Hamedan Provincial Corps)** (irgcgf_hamedan_corp) — type: light_cab, HQ: Hamedan City, Hamedan, strength: 80%. Commander: Mazahar Majidi. [Wikipedia IRGC GF]
+- **Sepah-e Amir al-Mouminin (Ilam Provincial Corps)** (irgcgf_ilam_corp) — type: light_cab, HQ: Ilam City, Ilam, strength: 80%. Commander: Jamal Shakarami. [Wikipedia IRGC GF]
+- **Kermanshah Nebi Akram Corps** (irgcgf_kermshah_corp) — type: light_cab, HQ: Kermanshah City, Kermanshah, strength: 80%. Commander: Bahman Reyhani. [Wikipedia IRGC GF]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,13 @@
+# Korean People's Army — Division / Brigade / Flotilla: Sang-O-class Submarine Flotilla (Coastal SSC)
+
+**Unit ID**: kpn_sango_flotilla
+**Type**: submarine_flotilla
+**Headquarters**: Multiple bases east and west coast
+**Parent**: Corps / Fleet / Air Division / Missile Bureau: East Sea Fleet (East Coast Fleet) (kpn_east_fleet)
+**Higher echelon**: Korean People's Navy (Haegun)
+**Elite designation**: No
+**Strength (% authorized)**: 60.0%
+**Notes**: ~40 Sang-O class coastal submarines. Specially configured for SOF infiltration (Naval Sniper Brigades ferried by Sang-O per task specification). 1996 Gangneung infiltration incident used Sang-O. [KPASOF Wikipedia; DIA NKMP 2021 'Sango-class submarines']
+
+
+**Tags**: [OOB-DPRK] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated KPA OOB v2026-05-09 | DIA NKMP 2021, 38 North, CSIS Beyond Parallel, ROK Defense White Paper, NTI]

@@ -1,0 +1,13 @@
+# Chinese PLA — Brigade / Division / Flotilla: 40th Aviation Brigade (J-16)
+
+**Unit ID**: etcaf_40bde
+**Type**: fighter_brigade
+**Headquarters**: Nanchang Xiangtang Air Base, Jiangxi
+**Parent**: Group Army / Fleet / Base: Eastern Theater Command Air Force (东部战区空军) (etcaf)
+**Higher echelon**: Eastern Theater Command (东部战区)
+**Elite designation**: No
+**Strength (% authorized)**: 100%
+**Notes**: J-16 ~70 aircraft. [Heritage Foundation 2026-01-20]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:BDE] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

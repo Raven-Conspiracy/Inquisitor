@@ -1,0 +1,16 @@
+# Iranian Armed Forces — Region / Provincial Corps / Base: 3rd Tactical Air Base — Hamadan (Nojeh)
+
+**Unit ID**: tab3_hamadan
+**Service**: IRIAF
+**Type**: air_force_base
+**Headquarters**: Hamadan/Nojeh
+**Parent**: Islamic Republic of Iran Air Force (IRIAF) (iriaf)
+**Strength (% authorized)**: 45%
+**Notes**: F-4E, RF-4E. Su-35E ordered (o/o 2025). Attacked Jun 13, 2025. Underground tunnel expansion reported. [Scramble.nl IRIAF OOB Feb 2026] [DIA IMP 2019 p.24] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+## Subordinate Division / Brigade / Squadrons
+- **31st Tactical Fighter Squadron (F-4E)** (sqn31_f4) — type: fighter_brigade, HQ: Hamadan/Nojeh, strength: 35%. F-4E Phantom II. Su-35E ordered (o/o 2025). TAB 3 struck Jun 13, 2025. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+- **31st Tactical Reconnaissance Squadron (RF-4E)** (sqn31_rf4) — type: fighter_brigade, HQ: Hamadan/Nojeh, strength: 35%. RF-4E Phantom II reconnaissance variant; Iran's only dedicated tactical recon aircraft. [Scramble.nl IRIAF OOB Feb 2026] [POST-2024-STRIKES STATUS UNCERTAIN]
+
+
+**Tags**: [OOB-IR] [STRUCTURED] [LEVEL:REGION] [SOURCE: Inquisitor curated Iran OOB v2026-05-09 | DIA IMP 2019, WINEP, CTP, NTI, Iran Primer, IISS]

@@ -1,0 +1,1879 @@
+DENYS YURCHENKO 
+
+
+All rights reserved. Printed in the United States of America. No part of this publication may be reproduced or 
+transmitted in any form or by any means, electronic or mechanical, including photocopy, recording, or any 
+information storage and retrieval system, without permission in writing from the publisher. 
+The views expressed in this report are those of the author alone and do not necessarily reflect the position of 
+the Foreign Policy Research Institute, a non-partisan organization that seeks to publish well-argued, policy-
+oriented articles on American foreign policy and national security priorities.
+© 2024 by the Foreign Policy Research Institute
+ 
+July 2024
+
+RUSSIAN STRATEGIC CUL TURE 
+AND THE WAR IN UKRAINE
+EURASIA PROGRAM
+DENYS YURCHENKO
+
+About the Author
+Lieutenant Colonel Denys Yurchenko has a Master of Laws and Master of Military 
+Leadership and Security. He serves as a military cooperation officer and specializes 
+on NATO - Ukraine cooperation.  He is an honour graduate with Academic Writing 
+Award of the Baltic Defence College (Joint Command and General Staff Course) 
+and National Defence Academy of Latvia.
+Eurasia Program 
+The Eurasia Program at the Foreign Policy Research Institute was founded in 
+2015 with the aim of examining the political, security, economic, and social trends 
+shaping Europe and Eurasia. Our research agenda covers the increasingly tense 
+competition roiling the region from several angles. It has a multi-year focus on 
+the Baltic Sea, the Black Sea, and Central Asia, emphasizing how geography, 
+economics, ideology, and history continue to shape politics and security in these 
+regions. The program also publishes analyses of Russian foreign policy, including 
+Russia’s role in Europe, Asia, Africa, and the Middle East. The Russia Political 
+Economy Project, along with the Bear Market Brief, analyzes the linkages between 
+Russia’s economy, society, and its political system. The Eurasia Program’s thematic 
+initiatives also include the Democracy at Risk rubric, which examines the trends of 
+democratization and authoritarian pushback in the region.
+
+Table of Contents 
+2 Introduction 
+4 What Is Strategic Culture Theory? 
+6 Understanding Russian National Identity 
+9 Understanding Russian Threat Perceptions 
+13 Understanding the Russian Attitude Towards 
+Using Force 
+16 Why Ukraine? 
+20 Conclusions and Recommendations 
+
+FOREIGN POLICY RESEARCH INSTITUTE
+2
+Introduction
+The Russian invasion of Ukraine on February 
+24, 2022, shocked the world. Currently, 
+the Russian-Ukrainian war is the biggest 
+European war since the end of World War 
+II.1 The full-scale invasion was a continuation 
+of unlawful actions in 2014 when Russia 
+seized and temporarily occupied Crimea. 
+Russia’s actions sparked heated debates 
+between realists and liberals while every 
+school of international relations tried to 
+explain why Russia used force to change 
+the internationally recognized borders of 
+its neighbor—Ukraine. In September 2014, 
+Professor John Mearsheimer published the 
+article Why the Ukraine Crisis Is the West’s 
+Fault.2 His work tried to explain the causes 
+of conflict from an offensive realism point of 
+view. 
+Mearsheimer defined the core idea of 
+offensive realism in The Tragedy of Great 
+Power Politics.3 It is as follows: States—
+especially great powers—are always thinking 
+about how to survive because there is no 
+supranational institution to protect them. 
+In other words, there is nothing to prevent 
+predatory behavior at the international level. 
+This anarchic system creates conditions for 
+states to seek more power.4 The best way for 
+a state to survive is to become a hegemon. 
+Although global hegemony is the goal, there 
+are powerful forces mitigating any state from 
+achieving it, so most great powers strive 
+for regional hegemony. Through this lens, 
+Russia’s seizure of Crimea and support for 
+separatists in Eastern Ukraine was part of its 
+attempt at regional hegemony. 
+The United States of America is also a 
+hegemon and its interest lies in maximizing its 
+power, including through the use of the North 
+Atlantic Treaty Organization (NATO). However, 
+Mearsheimer denied such options and 
+argued the opposite—that NATO threatened 
+Russian spheres of influence and that the 
+United States should not provoke Russia in 
+Europe. US politicians seem to have followed 
+Mearsheimer’s advice—NATO has not 
+expanded to the east since the enlargement 
+of 2004. In an interview conducted shortly 
+before Russia’s 2022 invasion of Ukraine, 
+NATO Secretary General Jens Stoltenberg 
+stated, “We have no plans to deploy NATO 
+combat troops to Ukraine . . . we are focusing 
+on providing support,” and “there is a 
+difference between being a NATO member 
+and being a strong and highly valued partner 
+as Ukraine.”5 NATO signaled that member 
+states did not want to escalate confrontation 
+with Russia, but Russia still decided to attack 
+Ukraine. Mearsheimer’s realist arguments fail 
+to explain Russia’s invasion of Ukraine. This is 
+especially true given the Kremlin’s relatively 
+sanguine attitude toward NATO membership 
+of Finland and Sweden. If, as Mearsheimer 
+argues, it really is all about geography and 
+territory, the accession of the two new Nordic 
+members would represent a grave threat to 
+Russia.
+In contrast to realism, which understands 
+the war between states as a regrettable but 
+inevitable feature of international politics, 
+liberalism believes conflict is not inevitable. 
+Institutional liberalism is a specific form of 
+liberalism that emphasizes the importance 
+of international and domestic institutions 
+and norms in promoting cooperation and 
+peace between states. Institutional liberals 
+define war as a failure of international 
+institutions and norms. They believe wars 
+can be prevented by strengthening these 
+institutions and promoting international 
+cooperation. From this point of view, the 
+Russian-Ukrainian war started because the 
+United Nations, NATO, and the European 
+Union failed to deter Russia. Disputes are 
+common in the international order, but most 
+do not result in war. Western politicians have 
+tried to create a democratic bubble from 
+Lisbon to Vladivostok and integrate Russia by 
+economic means as much as possible.6 
+The core ideas of the realist and liberalist 
+sub-theories cannot fully explain the causes 
+of the Russian-Ukrainian war, as they do not 
+
+RUSSIAN STRATEGIC CULTURE AND THE WAR IN UKRAINE
+3
+analyze domestic policies. When Western 
+scholars try to explain the causes of the war 
+in Ukraine, they make the same mistake. 
+They analyze Russia using a Western 
+approach without giving attention to Russia’s 
+unique features. For example, Russian 
+leaders believe that negotiations are only 
+useful when Russia is weak. Conversely, 
+when Russia is strong, it will not waste time 
+negotiating with the West. In comparison, 
+Western policymakers prefer negotiations to 
+find consensus and resolve issues.7 To avoid 
+the pitfalls of much of international relations 
+theory when applied to Russia, this paper 
+uses another approach—strategic culture 
+theory. This is a cross-cutting theory that 
+draws from both realism and liberalism, as 
+well as other theories such as constructivism 
+and postcolonialism. According to strategic 
+culture theorists, a state’s approach to 
+war is shaped by its cultural and historical 
+experiences, including geography, religion, 
+language, and national identity. These factors 
+influence a state’s perception of security 
+threats, willingness to use military force, and 
+approach to diplomacy and negotiation. It is 
+more suitable in this case and can help with 
+understanding why the full-scale Russian-
+Ukrainian war began in 2022. 
+This report is crucial because it provides 
+a different explanation for why Russia 
+attacked Ukraine in 2022. American scholars 
+developed strategic culture as a theoretical 
+concept to understand possible behavior in 
+using nuclear power by the Soviet Union’s 
+leaders. Russia is a successor of the former 
+USSR and promotes similar narratives about 
+spheres of influence and threats from the 
+Western world. The strategic culture theory 
+can explain Russian leaders’ beliefs and how 
+they understand reality. Russia is the world’s 
+biggest country with the most significant 
+nuclear arsenal. Nevertheless, Ukrainians 
+were able to destroy thousands of military 
+vehicles and equipment during the first 
+phases of the war and continue to do so. 
+However, even after total defeat, Russia can 
+recover its military capabilities and try again 
+to invade Ukraine, as it has done many times 
+Soldiers hold up flares to indicate a landing zone during a joint exercise between the United States and Russia after the end of the 
+Cold War. (NATO)
+
+FOREIGN POLICY RESEARCH INSTITUTE
+4
+in the past. If Russia succeeds, it would use 
+Ukrainian resources to become stronger and 
+could attack one of NATO’s members. So, 
+understanding Russian strategic culture can 
+help establish new policies and strategies to 
+defeat Russia and prevent future conflicts. 
+I divide my paper into four parts. The first 
+is an introduction, in which I elaborate on 
+the importance of the topic and explain 
+why strategic culture theory will be used 
+instead of more famous sub-theories such as 
+offensive realism and institutional liberalism. 
+Then I briefly introduce strategic culture 
+theory. In the third part, I analyze Russian 
+strategic culture. In the end, I sum up and 
+provide recommendations. 
+What is the Strategic 
+Culture Theory? 
+Strategic culture theory continues to be 
+popular among academic researchers 
+after emerging in the 1980s. It argues that 
+states make decisions and act in different 
+ways because they have different strategic 
+preferences that evolved since their creation. 
+States and elites have unique political and 
+cultural characteristics which influence them. 
+On the other hand, ahistorical or objective 
+variables such as technology or relative 
+material capabilities do not play an important 
+role in decision-making and are recognized 
+by strategic culture. Different historical 
+experiences limit response to changes and 
+influence strategic decisions in unique ways.8 
+For researchers of this concept, it is important 
+to identify and understand the country’s 
+rationality of behavior from its perspective. 
+Strategic culture theory consists of two 
+concepts—strategy and culture. Scholars 
+have analyzed them separately for a long 
+time. This historical baggage causes 
+different interpretations and complicates 
+the understanding of the common product: 
+strategic culture. Culture, as a term, was 
+defined by Ciovanni Andres as coltura in 
+1781 to express “the conditions of human 
+attainment preserved in writing.”9 Culture, as 
+a concept, emerged first in psychology and 
+then in sociology, but it was not initially used 
+in the domain of politics.10 Centuries before 
+the concept of culture emerged in academic 
+writing, Sun Tzu and Thucydides wrote that 
+some elements which we would call culture 
+could impact the strategic decisions of states.
+While culture is more about social life, 
+the term strategy relates to the military 
+sphere. The word originated from the 
+ancient Greek term for generalship. It was 
+connected for a long time to military forces 
+and war. For example, military theorists 
+Carl von Clausewitz and Sir Basil Henry 
+Liddell Hart defined strategy as “the use 
+of engagements for the object of war” and 
+“the art of distributing and applying military 
+means to fulfill the ends of policy.” A broader 
+definition explains strategy as, “coordination 
+and direction of all the resources of a nation, 
+a band of nations, toward the attainment 
+of the political objectives’ sought.” This 
+concept is known as the grand strategy.11 
+These two different approaches commenced 
+academic debates on how to define strategy: 
+only through the use of force or through a 
+comprehensive approach. 
+Nowadays, this issue is even more important 
+when there are no strict boundaries between 
+war and peace, for example, in the area 
+of hybrid threats. NATO’s comprehensive 
+approach enumerates four equally 
+important instruments of power: diplomatic, 
+informational, military, and economic. Using 
+this framework, we can say that strategy is 
+the bridge that links military capabilities and 
+political end states. After understanding the 
+complexity of defining culture and strategy, 
+we will assume that culture guides the 
+strategy. 
+The “father” of strategic culture theory is 
+Jack Snyder. In 1977, he used this theory to 
+
+RUSSIAN STRATEGIC CULTURE AND THE WAR IN UKRAINE
+5
+explain the difference between the United 
+States and the Soviet Union in their use 
+of nuclear weapons. At that time, scholars 
+described them as rational actors who would 
+react to each other’s decisions using nuclear 
+weapons in a calculated way. Snyder’s main 
+novelty was that American and Soviet elites 
+had different perceptions and ideas about 
+using force because of specific strategic 
+cultures. The Soviet military authority would 
+use force in a preemptive, offensive manner, 
+and the provenances for this could be found 
+in Russian history.12
+To analyze Russian strategic culture, it is 
+necessary to develop three key areas using 
+academic papers, strategic documents, and 
+security agreements:
+1. Understanding national Russian identity, 
+2. Understanding Russian perception of 
+where the threat is coming from, 
+3. Understanding the attitude of Russia 
+toward using force. 
+To do this, I will analyze the following 
+academic papers and Russian strategic 
+documents: the annual Presidential 
+Addresses to the Federal Assembly, National 
+Security Strategy, Military Doctrine, the 
+Concept of the Foreign Policy of the Russian 
+Federation 2016 and 2023, and speeches 
+of Putin and his articles. Annual speeches of 
+Putin to the Federal Assembly are summaries 
+of the main achievements and guidance for 
+next years. 
+The Soviet Ambassador Nikolay Afanassievky announcing that the Soviet Union had dissolved that he now only represented the 
+Russian Federation during the the first meeting of the North Atlantic Cooperation Council (NACC) in 1991. (NATO)
+
+FOREIGN POLICY RESEARCH INSTITUTE
+6
+Two other interesting documents that should 
+be analyzed are security agreements that 
+Russia proposed to sign with NATO and 
+the US, after publishing them on the official 
+website of the Russian Ministry of Foreign 
+Affairs in December 2021. 
+Understanding National 
+Russian Identity
+There are many articles about Russian 
+strategic culture. Many of them appeared 
+in 2014 when Russia temporarily occupied 
+Crimea and launched the war in Eastern 
+Ukraine. However, since the beginning of the 
+Russian invasion of Ukraine in 2022, only 
+a few papers have used Russian strategic 
+culture to explain the commencement of the 
+war. The most comprehensive work is Why 
+Russia Attacked Ukraine: Strategic Culture 
+and Radicalized Narratives. This article 
+identifies two main pillars of Russian strategic 
+culture. The first is a feeling of vulnerability, 
+particularly concerning interactions with 
+“Western countries.” To deal with this issue, 
+Russian leaders highlight the importance 
+of having strategic depth and buffer zones. 
+The second part is Russia’s strong belief 
+in the right to be a “great power.” The key 
+element here is the right to have a sphere 
+of “privileged interests” in the Eurasian 
+neighborhood.13 Other scholars, Ivor 
+Wiltenburg for example, identify an additional 
+element: liberal usage of the armed forces for 
+achieving foreign policy objectives. Such an 
+approach significantly differs from the West, 
+which mostly relies on international security 
+and economic organizations.14 
+Putin repeats in his speeches that Russia is 
+a great power and that the West, especially 
+the United States, does not give Russia 
+the respect it deserves. In this view, after 
+the Cold War, the United States created a 
+unipolar world and continued to use NATO to 
+maintain its hegemonic status. For centuries, 
+leaders of the Russian Empire and the Soviet 
+Union emphasized Russia as a great power. 
+From Russia’s perspective, the status of great 
+power is interlinked with spheres of influence. 
+However, after the collapse of the Soviet 
+Union, Russian leaders were confronted 
+with the fact that Russia was no more than a 
+regional “great power” with limited spheres of 
+influence. So, the main aim of Russian foreign 
+policy is regaining and maintaining great 
+power status by reestablishing its former 
+spheres of influence.15 Moscow believes 
+that Russia is a global state with interests 
+everywhere and has a right to be involved in 
+all major international issues.16
+The main aim of Russian 
+foreign policy is regaining 
+and maintaining great power 
+status by reestablishing its 
+former spheres of influence.
+Russia’s geographic position has a great 
+impact on its strategic culture. Russia is the 
+biggest country in the world, and while only 
+23 percent of the country is in Europe, almost 
+75 percent of the population lives there. This 
+makes Europe extremely important for Russia. 
+Eugene Rumer and Richard Sokolsky share 
+this idea in their comprehensive work about 
+Russian strategic culture. They highlight that, 
+from the founding of the modern Russian 
+state in the sixteenth century, its foreign 
+interests were linked to Europe. When 
+Peter the Great established an empire, the 
+interconnections with Europe increased. 
+Russia conducted wars and created alliances 
+with different European countries. During the 
+Cold War, Europe became the main place for 
+confrontation between West and East. So, 
+after the collapse of the Soviet Union, Russia 
+wanted to regain its spheres of influence in 
+Europe.17 Russian leaders wanted to use the 
+Commonwealth of Independent States (CIS) 
+
+RUSSIAN STRATEGIC CULTURE AND THE WAR IN UKRAINE
+7
+to reestablish control over Ukraine and other 
+post-Soviet states. 
+Despite Europe playing a significant role 
+in Russian history, the Kremlin has found 
+cooperation with the rest of the continent 
+difficult because of the differences in religion, 
+culture, brutality, and way of life. Russian 
+nobles pretended to be part of the West, 
+but they could not eliminate the past. So, 
+Russia had difficulty establishing its place in 
+the circles of European great powers. The 
+main “misunderstanding” appeared in the 
+19th century: even though Russia played a 
+significant role in destroying Napoleon, it 
+was not recognized or seen as the same 
+by other powerful states. When Austria, 
+France, Prussia, and Great Britain started 
+the process of democratization, Russia was 
+a gendarme of Europe. Its main aim was to 
+destroy internal and external revolutionary 
+movements. Despite other monarchies being 
+ready to receive this help, as did Austria, 
+they continued to believe that Russia was 
+too powerful and dangerous. As a result, the 
+British-led coalition with France, the Ottoman 
+Empire, and Sardinia-Piedmont launched 
+the Crimean War with the main aim of not 
+allowing Russia to receive more territories 
+from the weakening Ottoman Empire. 
+These actions of Western countries caused 
+the so-called Russophilia movement inside 
+Russia. Supporters of these ideas blamed the 
+West for double standards and Russophobia. 
+Putin has revived these narratives and 
+continues to use them. In this view, the West 
+has aggressive intentions toward Russia.18 
+Russia depends on other great countries’ 
+recognition of its great power status and 
+often feels it does not receive the recognition 
+it deserves. 
+Russia’s strategic documents make clear its 
+fixation on great power status. For example, 
+Article 3 of the Foreign Policy Concept of 
+the Russian Federation 2016 (Foreign Policy 
+Concept 2016)19 states that one of the main 
+objectives is “to consolidate the Russian 
+Federation’s position as a center of influence 
+in today’s world.” Article 10 of the Strategy of 
+National Security of the Russian Federation 
+Russian conscripts called up for military service take part in a ceremony marking their departure for garrisons as they gather at the 
+Trinity Cathedral in Saint Petersburg, Russia May 23, 2023. REUTERS/Anton Vaganov
+
+FOREIGN POLICY RESEARCH INSTITUTE
+8
+2021 (Strategy of National Security 2021) says 
+that the state policy of Russia contributes “to 
+strengthen its role as one of the influential 
+centers of the modern world.”20 The new 
+Foreign Policy Concept of the Russian 
+Federation 2023 (Foreign Policy Concept 
+2023) goes even further and acknowledges 
+that Russia’s thousand years of independent 
+statehood and the cultural heritage of the 
+preceding era create its special position as a 
+unique country-civilization.21 
+Russian leaders do not hesitate to take 
+actions designed to show that Russia is 
+a great power. As mentioned, Russia’s 
+perception of its status as a great power 
+is linked to spheres of influence. This is 
+examined in two other Russian official 
+documents: the Agreement on Measures to 
+Ensure the Security of the Russian Federation 
+and Member States of NATO and the Treaty 
+between the United States of America 
+and the Russian Federation on Security 
+Guarantees.
+The Russian Ministry of Foreign Affairs 
+published drafts of these documents in 
+2021 on its official website. Article 4 of the 
+Treaty with the United States says, “The 
+United States of America shall undertake 
+to prevent further eastward expansion of 
+the North Atlantic Treaty Organization and 
+deny accession to the Alliance to the States 
+of the former Union of Soviet Socialist 
+Republics.”22 Article 6 of the Agreement with 
+NATO is written in the same manner, “All 
+member States of the North Atlantic Treaty 
+Organization commit themselves to refrain 
+from any further enlargement of NATO, 
+including the accession of Ukraine as well 
+as other States.” Article 4 of this document 
+claims, “that parties will not deploy military 
+forces on the territory of any of the other 
+States in Europe in addition to the forces 
+stationed on that territory as of May 27, 
+1997.”23 Such proposals identify the Russian 
+desire to agree on spheres of influence in 
+post-Soviet countries. Also, they show that 
+Russian leaders believe that only major states 
+have a right to define international relations. 
+Russian President Vladimir Putin at the Victory parade, May 9, 2024. (Kremlin.ru/Vyacheslav Prokofiev/TASS)
+
+RUSSIAN STRATEGIC CULTURE AND THE WAR IN UKRAINE
+9
+All this is evidence of the fact that Russia 
+links its status as a great power to spheres 
+of influence and recognition by other 
+powerful international actors. In the Russian 
+view, Western countries do not meet 
+Russia’s desires. Russia’s difficulty following 
+cooperation and interconnections with 
+Western culture has resulted in paranoiac 
+ideas. Putin and his circle have identified 
+their unique role in the international order—
+defenders of traditional values and defenders 
+of Russians. 
+Understanding Russian 
+Threat Perceptions 
+Understanding how Russians identify their 
+role in the international order, I will analyze 
+the threats to Russia. This analysis will not 
+separate threats for Russia and Putin’s regime 
+as they are fully united and create one 
+element. According to Elias Götz and Jørgen 
+Staun, whose article explains the strategic 
+culture concept, Russian elites fear the state’s 
+vulnerability to external attack. They explain 
+this issue using four consistent narratives:
+1. Russia has a huge borderline, and it is 
+difficult to protect the state everywhere 
+simultaneously.
+2. Russia should have buffer zones and 
+strategic depth. This narrative is a result 
+of many invasions throughout history. For 
+Russians, it is important to control key 
+areas and not to allow other great powers 
+to control them. It is essential to have 
+buffer zones in its spheres of influence.24 
+3. The West comprises the main threat 
+to Russia. This narrative has resulted 
+from history—both Napoleon and 
+Hitler invaded and wanted to occupy 
+Russia. During the Cold War, the main 
+adversaries of the Soviet Union were 
+the United States and NATO, reinforcing 
+the idea of a Western threat. In this case, 
+Russian leaders after the collapse of the 
+Soviet Union chose NATO as a potential 
+threat. In all strategic documents, NATO 
+enlargement was presented as a possible 
+threat. After the annexation of Crimea, 
+official statements were more aggressive 
+and directly accused the West of 
+aggressive actions.25 
+4. Russian leaders unite external and 
+internal threats. For them, “color 
+revolutions” are not popular uprisings 
+but Western plots conducted against 
+neighboring regimes loyal to Russia but 
+weak, and put pro-West politicians in their 
+places.26 Russian leaders have strongly 
+believed that the West deliberately 
+toppled pro-Russian governments and 
+interfered in Russian spheres of influence. 
+They feared the final result would be 
+protests and revolution in Russia.27
+Despite the Kremlin’s fears, before February 
+24, 2022, there was no threat of a color 
+revolution in Russia. Then and now, there is 
+no opposition movement in the state which 
+can overthrow President Vladimir Putin’s 
+regime. Analyzing Russian identity and how 
+the Russian government views its threats 
+suggests looking at links between them. 
+Russian officials believe that NATO threatens 
+their idea of being a great power with 
+spheres of influence. The role of Ukraine is 
+another common theme. 
+As mentioned, the idea of an aggressive 
+West that wanted to defeat and destroy 
+Russia developed in the 19th century after 
+the total collapse of the Russian Armed 
+Forces in the Crimean War. Later, this idea 
+was redeveloped and adjusted to the current 
+political situation in Russia. George Kennan, 
+in his work The Sources of Soviet Conduct, 
+wrote that the main aim of the Communists 
+who came into power after the Russian 
+empire had been destroyed was to secure 
+that power. To do so, they focused first on 
+
+FOREIGN POLICY RESEARCH INSTITUTE
+10
+internal enemies and then on external ones. 
+For the Russian Communists, the external 
+world was aggressive, so they had to change 
+the existing international order.28 These 
+theses have much in common with current 
+Russian threat perceptions. According 
+to Soviet decision-makers, there was a 
+connection between internal and external 
+enemies: Internal opposition could exist 
+only as supporters of—and supported by—
+hostile capitalism. They were able to portray 
+their internal enemies in such a way so long 
+as they acknowledged the presence of 
+capitalism inside the country. After officially 
+destroying the enemy’s ideology within the 
+Soviet Union, they needed to maintain the 
+idea of the external enemy to justify the 
+totalitarian regime and repressions inside the 
+state. At that time, one more famous Russian 
+narrative was created—the “besieged 
+fortress.”29
+American scholar Zbigniew Brzezinski 
+wrote in 1994 that, after the collapse of the 
+Soviet Union, the White House changed 
+the grand strategy from containment of 
+Soviet enlargement to deep cooperation 
+with democratic Russia. The main aim of 
+such cooperation was to provide full support 
+for Russian President Boris Y eltsin. Russia 
+received huge financial support as well as 
+political and international recognition. The 
+United States even acknowledged the right 
+of Russia to interfere in neighboring states. 
+According to the US government, this was 
+acceptable as the cost of ending the long 
+period of confrontation with the Soviet Union. 
+However, Russian leaders did not share the 
+same optimism in bilateral cooperation. Two-
+thirds of the Russian population shared the 
+idea that the collapse of the Soviet Union was 
+a tragic mistake that should be corrected. 
+The Russian imperial impulse was stronger 
+than the United States wanted to recognize. 
+Brzezinski argued in 1994 that Russian 
+desire to control post-Soviet countries would 
+cause future tensions with NATO.30 These 
+predictions came true. Russia was fully 
+opposed to the idea of NATO enlargement to 
+the east. In June 1995, the Russian Council 
+on Foreign and Defense Policy issued a 
+report: “Russia and NATO.” It stated that 
+NATO expansion could lead to the “first 
+serious crisis in relations between Russia 
+and the West since the end of the Cold 
+War.” Later, Russia would claim that the West 
+used its weakness against it. In the National 
+Security Concept of the Russian Federation 
+1997 the future enlargement of NATO to the 
+east was defined as unacceptable because 
+it represented a threat to Russian national 
+security.31 Through such statements, Russia 
+started to redefine its main adversary. This 
+period of Russian strategic culture ended 
+when Putin came to power in 1999. Having 
+inherited a state that now had the West as its 
+main adversary, Putin attempted to meet the 
+threat that the adversary allegedly posed.
+Having inherited a state that 
+now had the West as its main 
+adversary, Putin attempted 
+to meet the threat that the 
+adversary allegedly posed.
+After the dissolution of the Soviet Union, Putin 
+and other elites chose a sense of grievance 
+against Europe and the United States, or 
+the so-called Collective West. They did this 
+because of their worldview and experience 
+during the Cold War. Putin and his circle are 
+representatives of the “greatest generation” 
+of the Soviet Union. They grew up and 
+achieved the highest steps in their careers 
+when the state was at the highest point 
+of power and controlled a huge European 
+empire. They served in the Secret Service 
+and armed forces, so they belonged to a 
+special class. This allowed them to receive 
+benefits affordable to very few people. At 
+that time, the West was an adversary for them 
+and wanted to destroy the Soviet Union with 
+propaganda and promote Western values. 
+
+RUSSIAN STRATEGIC CULTURE AND THE WAR IN UKRAINE
+11
+After the end of the Cold War, for many of 
+them, the West continued to be the enemy.32
+This second stage of Russian strategic 
+culture is characterized by step-to-step 
+confrontation with the West. Russia presents 
+itself as a victim of an unjust international 
+order. The Kremlin accused the United States 
+of a desire to build and maintain a unipolar 
+world. Additionally, NATO is presented as the 
+main destructive element in the European 
+security architecture, requiring Russia to 
+protect itself. Since the 2000 National 
+Security Concept of the Russian Federation, 
+NATO has been treated as the main threat.33 
+However, after September 11, 2001, Putin 
+hoped to build stronger relations with the 
+United States based on fighting terrorism. 
+Later he expressed interest in joining NATO 
+and NATO wanted to give Russia a unique 
+status almost equal to that of a member-state. 
+After the color revolutions in Georgia and 
+Ukraine in 2003 to 2004 and the great desire 
+of the United States to expand the Alliance, 
+relations started to degrade. Following the 
+NATO Summit in Bucharest in 2008, when 
+the Alliance declared that Georgia and 
+Ukraine would someday become NATO 
+members, Russia officially stated that it 
+would do everything possible to prevent 
+them from joining. “We will do all we can to 
+prevent Ukraine’s and Georgia’s accession 
+into NATO and to avoid an inevitable serious 
+exacerbation of our relations with both the 
+Alliance and our neighbors,” Russian Foreign 
+Minister Sergey Lavrov told reporters.34 
+Seventy-seven percent of the Russian 
+population supported such a policy and voted 
+that Ukraine in NATO would pose a threat to 
+national Russian security interests.35
+The Russia-Georgia War, the refusal 
+of Western countries to sign security 
+agreements, and the revolutions in Arab 
+states increased the threat perception in 
+Russia. The next pieces of evidence in Putin’s 
+eyes were the protests in Russia after the 
+election in 2011. He claimed that protesters 
+US President George W. Bush and Georgian President Mikheil Saakashvili in Tbilisi, May 2005. (Eric Draper/White House/Wikimedia 
+Commons)
+
+FOREIGN POLICY RESEARCH INSTITUTE
+12
+were supported and funded by the United 
+States.36 In 2014, when former Ukrainian 
+President Viktor Yanukovych fled to Russia 
+after the Revolution of Dignity, Putin blamed 
+the United States more aggressively. After 
+Russia’s illegal annexation of Crimea, Putin 
+amped up his rhetoric about the West’s 
+alleged aggression. The pieces of evidence 
+were economic sanctions, the nonrecognition 
+of Crimea as part of Russia, and NATO’s 
+new strategy. NATO decided to posture four 
+battalions in Poland and the Baltic states in 
+a rotation base. Also, the number of military 
+exercises conducted by NATO increased. 
+The Alliance presented such actions as a 
+deterrence measure. Russia saw them as a 
+confrontation.37 
+In Russia’s view, NATO’s 
+enlargement was less a 
+military threat than an unjust 
+interference in Russia’s 
+sphere of influence. 
+In the Russian Military Doctrine 2014, Russia 
+recognized the buildup of NATO’s power 
+potential and its expansion as one of the 
+main external military risks that could lead 
+to military threats. Another risk related to 
+spheres of influence was the establishment 
+of pro-Western regimes whose policies 
+threatened the interests of the Russian 
+Federation in the states contiguous with it, 
+including by overthrowing legitimate state 
+administration bodies. This bullet directly 
+addressed political changes in Ukraine.38 The 
+National Security Strategy of 2015 continues 
+this rhetoric, stating in Article 12 that Russia’s 
+independent policy was opposed by the 
+United States and its allies, who wanted to 
+regain dominance in the world and were 
+attempting to do so using all instruments of 
+power except the military. This document 
+defines the buildup of the military potential 
+of NATO and its expansion as a threat to 
+Russian national security (Article 15).39 Article 
+61 of the Foreign Policy Concept 2016 said 
+that the geopolitical expansion of NATO and 
+the refusal of Western countries to create 
+a common European security cooperation 
+framework created a crisis in the relations 
+between Russia and the West. Also, this 
+document addresses the spread of Western 
+values seen as dangerous for Russian 
+society.40 All these documents demonstrate 
+Russian leaders’ perception of the Western 
+threat.
+When the coronavirus pandemic started 
+in 2019, Russian discourse became less 
+aggressive toward the West and was 
+oriented on overcoming the pandemic. 
+However, the National Security Strategy in 
+2021 continued to promote anti-Western 
+narratives and presented Western countries 
+as the enemy. In this document, countries 
+were labeled as unfriendly states that tried to 
+use socioeconomic problems in the Russian 
+Federation to destroy its internal unity, 
+instigate and radicalize a protest movement, 
+support marginal groups, and divide Russian 
+society.41 In doing so, the Kremlin claimed 
+that protests inside Russia could only be 
+conducted by the anti-Russian population and 
+funded by the West. This echoed the Soviet 
+Union’s persistent claims that opposition was 
+funded by capitalist states. Putin repeated 
+several times in two addresses on February 
+21 and 24, 2022 that the West was a threat to 
+Russia. In those circumstances, Russia could 
+not allow the further expansion of NATO. The 
+Kremlin even justified the commencement 
+of the invasion using Article 51 of the UN 
+Charter as a right of preemptive self-defense 
+against military threats.42
+Summarizing Russia’s threat perceptions 
+requires paying key attention to the 
+West because the role of the West is 
+interconnected with other Russian threats. 
+In Russia’s view, NATO’s enlargement 
+was less a military threat than an unjust 
+interference in Russia’s sphere of influence. 
+Putin strongly believes that all color 
+
+RUSSIAN STRATEGIC CULTURE AND THE WAR IN UKRAINE
+13
+revolutions were conducted to overthrow 
+loyal Russian governments, with the final 
+goal of overthrowing Putin’s regime in 
+Russia. Russia is an autocratic regime, which 
+requires an external enemy for justification 
+of the repressions inside the state. The same 
+happened when it was the Soviet Union or 
+the Russian Empire. Finally, Russian leaders 
+and the population believed that Russia was 
+a unique civilization that should be protected 
+and was constantly under threat of invasion, 
+usually from the West. Having outlined 
+Russia’s threat perception, I will continue with 
+the Russian attitude toward using force. 
+Understanding the 
+Russian Attitude 
+Toward Using Force 
+The last feature of Russian strategic culture 
+I analyze is its attitude toward the use of 
+force in international disputes. This element 
+deserves to be analyzed separately because 
+the use of force plays a significant role in 
+Russian strategic thinking. It is important 
+to understand when and why Russia 
+prefers military force over negotiations. 
+Understanding this provides insight into why 
+Russia launched a full-scale invasion against 
+Ukraine in 2022.
+Anna Antczak writes that militarism is a 
+separate element of Russian strategic culture; 
+it could be described as a special role of war 
+and the armed forces in building national 
+identity.43 Wiltenburg points out that Russia 
+uses its military force to assert its power as a 
+state. Russia’s willingness to use the armed 
+forces is connected to presenting itself as a 
+great power. He highlights three cases where 
+Russia is likely to use military force. First is 
+when the probability of external conflict rises, 
+as it can decrease national security. Second 
+is when Russia takes on responsibility for 
+its sphere of influence and provides military 
+defense. Third is when Russia can use the 
+violation of the Russian diaspora’s rights in its 
+neighboring countries or “near abroad” as a 
+reason. For Russia, the use of military force is 
+a legitimate tool of foreign policy. Even more, 
+Russia believes that only great powers have 
+the right to act in a such way.44 Evan Kerrane 
+develops this idea more: He writes that 
+Russian militarism creates a unique element 
+of its strategic culture. Russian militarism 
+frames how the Kremlin treats the world.45 
+Understanding Russia’s apparently brutal 
+behavior requires examining the historical 
+evolution of the Russian approach to using 
+force.
+Evolution 
+The attitude of Russian leaders toward using 
+force is well described by Russian Emperor 
+Alexander III who said that Russia had just 
+two allies, the army and the navy. Putin 
+repeated this quote during one of his public 
+meetings.46 Since then, military power has 
+played a crucial role in Russia’s strategic 
+culture because of Russia’s enormous human 
+resources. Soldiers were always available 
+and could be easily replaced. Such a situation 
+provided Russia with a very cheap tool for 
+resolving international disputes.47 Moreover, 
+Russia has grown significantly since the 
+16th century through conquering territories. 
+Such foreign policy required a strong armed 
+force. Finally, to conduct such brutal actions 
+required an autocratic form of government. 
+Russian leaders have long accepted and 
+promoted these attitudes toward the use of 
+force against other states and Russia’s own 
+population. 
+During the period of the Soviet Union, the 
+state participated in enormous conflicts, the 
+largest of which was World War II. But before 
+they fought against each other, the Soviet 
+Union and Nazi Germany signed the Molotov-
+Ribbentrop Pact, a secret protocol. In doing 
+so, they divided Europe between them. After 
+signing the pact, Nazi Germany invaded 
+
+FOREIGN POLICY RESEARCH INSTITUTE
+14
+Vladimir Putin with President Boris Y eltsin on 31 December 1999, when Y eltsin announced his resignation. (Kremlin.ru/Wikimedia Commons) 
+Polish Prime Minister Jerzy Buzek (left) watches his country’s flag rising at NATO Headquarters alongside (left-to-right) Czech Prime Minister Milos Zeman, NATO 
+Secretary General Javier Solana and Hungarian Prime Minister Viktor Orban. (NATO) 
+
+RUSSIAN STRATEGIC CULTURE AND THE WAR IN UKRAINE
+15
+Poland, and Soviet troops later joined them 
+and occupied the eastern part of that country. 
+Later, the Soviet Union occupied the three 
+Baltic States and launched a war against 
+Finland. These actions show how Soviet 
+leaders used force to achieve their strategic 
+objectives. After World War II, the so-called 
+Cold War began between the United States, 
+the Soviet Union, and their allies. 
+Putin’s rule has continued the 
+long pattern of using force to 
+resolve disputes and advance 
+Russian interests. 
+Putin’s rule has continued the long pattern of 
+using force to resolve disputes and advance 
+Russian interests. When Putin came to power, 
+he pledged a return to stability. His inaugural 
+ceremony highlighted the main objective 
+of the future regime—Russia would be a 
+centralized state with strong armed forces.48 
+Putin, as a former KGB officer, clearly 
+understood what a huge role military force 
+played in presenting Russia as a great power. 
+After the NATO operation in Kosovo, Russia 
+was presented as a weakened state that 
+could not protect its interest in this area. 
+The Kosovo campaign convinced Putin that 
+the West wanted to destroy Russia. He saw 
+building powerful Russian armed forces as 
+the only way to prevent it. On January 10 
+and April 21, 2000, Putin signed Russia’s 
+new National Security Concept and Military 
+Doctrine. The concept highlighted that 
+military force remained a substantial aspect 
+of international relations. In the third chapter, 
+it states: “At present, this can be seen in the 
+critically low level of operational and military 
+training in the Armed Forces of the Russian 
+Federation . . . and in the impermissible 
+drop in the equipment of the forces with 
+modern armaments and military and special 
+hardware . . . this leads to a weakening of the 
+military security of the Russian Federation 
+as a whole.”49 Russia’s Military Doctrine was 
+developed in the same manner and promoted 
+the need for strong armed forces.50 So, in 
+2001 the rebuilding of Russian armed forces 
+started. The main aim of the reforms was to 
+establish a military force that could impose 
+fear inside Russian spheres of influence. 
+The Kremlin understood that Russia was not 
+capable of creating a block or union similar 
+to NATO or the European Union. So, the only 
+possible tool for influence was fear. This was 
+the point where militarism in Russia became 
+stronger.51
+The first alarming signal was Putin’s speech 
+at the 2007 Munich Conference on Security 
+Policy. Putin directly blamed the United States 
+for using military force in the international 
+area. He blamed NATO and the European 
+Union for using force against other countries 
+without a UN Security Council resolution. 
+Putin also said that Russia would not use 
+armed forces without UN approval. However, 
+he mentioned Russia’s right to self-defense, 
+which would be used as a main argument for 
+aggression against Ukraine in 2022.52
+In 2008, after the Bucharest Summit where 
+NATO announced that Ukraine and Georgia 
+would be members of the Alliance, Lavrov 
+told the Echo of Moscow radio station that 
+“[w]e will do everything possible to prevent 
+the accession of Ukraine and Georgia to 
+NATO.” And Russia did—it sent troops to 
+defeat Georgia four months after the NATO 
+announcement. Another reason for Russia’s 
+invasion of Georgia was to illustrate that 
+Russia was powerful enough to counter 
+the West. Russia wanted Western countries 
+to conclude that they were incapable of 
+contesting Russian power inside its spheres 
+of influence.53 After a fast, five-day successful 
+war and a weak response from the West, 
+Russian leaders were convinced that they 
+could achieve more by using brutal military 
+force. As a result, Russia continued the 
+modernization of its armed forces so it could 
+conduct successful military operations abroad 
+by using hybrid methods.54 
+
+FOREIGN POLICY RESEARCH INSTITUTE
+16
+Russia, led by Putin, started a huge 
+modernization of the armed forces to 
+create a powerful military force that could 
+help achieve strategic goals—regaining its 
+hegemonic position in the region and, if 
+possible, the world. After increasing Russia’s 
+military power, Putin started to accuse the 
+West of launching armed conflicts and 
+violating the UN Charter. In doing so, Russia 
+began to create the legal basis for further 
+conflicts. For the Kremlin, the war against 
+Georgia proved the superiority of military 
+power over negotiations. It also showed that 
+Russia would not be punished if it did the 
+same in the future. With this knowledge, Putin 
+seized Crimea in 2014 and, eight years later, 
+started the biggest war in Europe since the 
+end of World War II.
+Why Ukraine? 
+Russian strategic culture consists of three 
+main beliefs. First, Russian leaders and 
+society believe that Russia is a great power. 
+Second, this great power status is strongly 
+connected with the right to have spheres of 
+interest, especially in post-Soviet countries. 
+Third, Russians present themselves as 
+defenders of traditional values and a unique 
+civilization. These beliefs led the Kremlin 
+to conclude that the Western world, led by 
+the United States, was its main adversary 
+because it pushed back against Russia’s 
+attempt to control the countries of its near 
+abroad. The West is also seen as a cultural 
+adversary because its values and style of life 
+are more popular in the world than Russia’s. 
+To oppose these alleged threats, Russia 
+needs strong armed forces, and Russian 
+leaders have not hesitated to utilize them 
+during history. Spheres of influence also have 
+another value for Russia as buffer zones. 
+In this way, Ukraine plays a special role for 
+Russia. Götz writes that there are two reasons 
+for this. First, several invasions from the West 
+came through Ukraine and Belarus. Second, 
+the Kyivan Rus is the motherland of Russian 
+civilization.55 Putin and his circle clearly 
+understood that the West would not attack 
+Russia. Western leaders have demonstrated 
+a desire to cooperate with Russia even after 
+the 2014 Crimean occupation. They also 
+clearly stated that NATO troops would not 
+fight in Ukraine. For Russia, the West is an 
+ideological enemy, and that alone justifies 
+internal repression since Kremlin leaders 
+claim the West colludes with groups inside 
+Russia to destabilize it. Ukraine’s importance 
+is linked to Russia’s status as a great power. 
+Brzezinski wrote in late 1994 that Ukrainian 
+independence was seen in Moscow as wrong 
+and a threat to Russia’s global power status.56
+For Russia, the West is an 
+ideological enemy, and 
+that alone justifies internal 
+repression since Kremlin 
+leaders claim the West 
+colludes with groups inside 
+Russia to destabilize it. 
+Ukraine is the biggest European country and 
+is rich in natural resources. Its capital, Kyiv, 
+has long-held ideological meaning for Russia. 
+It was where the population of the Kyivan Rus 
+was consecrated by Volodymyr the Great in 
+988. In his article about the unity of Russians 
+and Ukrainians, Putin wrote that these two 
+nations and Belarusians spoke one language 
+(Old Russian), had economic relations, and 
+one religion: the Orthodox faith. Then he 
+continued with pseudo-historical facts about 
+Ukraine. One sentence said, “Modern Ukraine 
+is entirely the product of the Soviet era.”57 
+These words explain how Putin understands 
+Ukraine. Huge Ukrainian territories were part 
+of the Russian empire, several of the main 
+
+RUSSIAN STRATEGIC CULTURE AND THE WAR IN UKRAINE
+17
+battles of World War II occurred in Ukraine, 
+and many important factories and plants were 
+located in Ukraine during the Soviet period. 
+These are only a few reasons why Russians 
+resist the idea of Ukrainian independence.58
+The tensions between Ukraine and 
+Russia appeared just after they received 
+independence. In 1991, before the CIS was 
+created, Y eltsin wanted to retake Ukraine, but 
+he did not have enough power to do so. The 
+only solution was to allow Ukraine to become 
+independent and engage in revanchism.59 
+There were tensions between the two 
+countries during the 1990s, but Russia did 
+not dare to confront them directly. The issues 
+with Crimea and the Black Sea Fleet were 
+among the main triggers in Russian foreign 
+policy. Russian leaders officially stated that 
+Crimea is Russian land, and no one would 
+take the Black Sea Fleet away. After a series 
+of events, Russia and Ukraine signed a 
+Friendship Treaty in 1997. This document 
+was the highest point in their cooperation. 
+After Putin came into power in 2000, their 
+relationship went in another direction.60 
+At the beginning of his rule, Putin did not 
+oppose Ukraine’s decision to join NATO. In 
+2002, he said after the Prague Summit that 
+Russia’s interests were not affected by good 
+relations of Ukraine with NATO. Six years 
+later, he spoke about Ukraine’s membership 
+as an unacceptable thing.61 The beginning 
+of the 21st century saw a parade of color 
+revolutions, as Russian leaders prefer to call 
+them. The Ukrainian Orange Revolution in 
+2004 was evidence that Ukrainian society 
+did not want to be part of the Russian world 
+and shared Western values. For Russians, 
+that revolution had a different meaning—the 
+West orchestrated the protest to overthrow 
+a government loyal to Russia in its sphere of 
+influence. Russia’s policymakers and political 
+analysts claimed that the United States 
+used democratization to undermine Russia’s 
+international status and claimed that this 
+represented a direct threat.62 Considering the 
+still-incomplete modernization of the armed 
+forces, Putin used other tools to control the 
+A protester in Kyiv inserts roses into riot police shields during Ukraine’s Orange Revolution. (Wikimedia Commons/Ukraine Revolution 
+Blog)
+
+FOREIGN POLICY RESEARCH INSTITUTE
+18
+Crowds gathered in Kyiv’s Maidan Square, February 2014. (Wikimedia Commons)
+
+RUSSIAN STRATEGIC CULTURE AND THE WAR IN UKRAINE
+19
+Ukrainian pro-Western government. These 
+were gas blackmail, trade wars, and pro-
+Russian politicians who stoked fears of a 
+NATO invasion. Unfortunately for Ukrainian 
+society, Putin achieved his goals and 
+managed to keep Ukraine under Russian 
+influence. 
+The 2013-2014 Revolution 
+of Dignity, when Ukrainian 
+society opposed the Ukrainian 
+state’s turn toward Russia, 
+was a volcanic eruption.
+The main event that caused Putin to 
+conclude that Ukraine was moving out of 
+Russia’s orbit was not the 2008 Bucharest 
+Summit, rather it was the Revolution of 
+Dignity from 2013 to 2014. Putin was 
+confident that, after 2008, pro-Russian 
+candidates would take the presidential 
+post in Ukraine. At that time, the support 
+rate of pro-Western President Viktor 
+Yushchenko was less than 10 percent. In 
+October 2008, 93 percent of Ukrainians 
+were dissatisfied with both the political and 
+economic situation in their country.63 On the 
+other hand, the Revolution of Dignity, when 
+Ukrainian society opposed the Ukrainian 
+state’s turn toward Russia, was a volcanic 
+eruption. At Yanukovych’s request, Putin 
+helped the former Ukrainian president 
+escape to Russia.64 For Russia, that meant 
+that Ukrainians wanted to side with the 
+West. The Kremlin saw this as unacceptable 
+because it could undermine the internal and 
+external prestige of the Russian government 
+and provide an example for the Russian 
+opposition since it came when memories 
+of the 2012 protests in Russia were still 
+fresh. Finally, it threatened the main pillar of 
+Russian foreign policy—the renovation of the 
+former empire. 
+Among the reasons Ukraine is important 
+for Russia is its geographic position. 
+Russian elites and the population have 
+shared common ideas about Ukrainian 
+independence and its pro-western direction 
+as well as unity between the two nations. 
+In the history and evolution of cooperation 
+between Russia and Ukraine, tensions 
+and wars were not uncommon. Finally, the 
+Russian attitude toward using force justified 
+the occupation of Crimea in 2014. 
+Later that year, Russia launched a proxy 
+war in Eastern Ukraine and used its armed 
+forces to interfere in Ukraine. After 2015, 
+when Ukraine signed the Minsk Agreement, 
+Russia continued to pressure Ukraine using 
+economic and diplomatic instruments. The 
+Kremlin interpreted the 2019 election of 
+President Vladimir Zelensky as a signal that 
+it could control and manipulate Ukraine’s 
+leaders. Zelensky’s main promise during the 
+election campaign was to stop the conflict. 
+For Putin, he was a comedian and not a 
+serious opponent. After the withdrawal of 
+troops in Zolote in November 2019, the two 
+presidents met face to face in Normandy 
+Format Summit in December.65 
+The two countries became closer; however, 
+it did not last. Ukrainian policy became pro-
+Western and anti-Russian. In 2020, NATO 
+granted Ukraine Enhanced Opportunity 
+Partner status. This was a signal that 
+Ukrainian policymakers had not given up 
+on the idea of joining the Alliance. Also, 
+Zelensky started to work against pro-Russian 
+oligarchs in Ukraine by blocking their TV 
+channels. Viktor Medvedchuk, the most 
+famous of them, was a godfather of Putin’s 
+daughter. For Putin, this meant a new step in 
+escalation.
+Russia conducted a large military exercise, 
+Zapad-2020, as a rehearsal for a possible 
+invasion. In 2021, Russia deployed up to 
+100,000 troops near the Ukrainian border. 
+The Kremlin began to believe that the West 
+had created an anti-Russian Ukraine. These 
+actions were seen as a threat to Russian 
+
+
+FOREIGN POLICY RESEARCH INSTITUTE
+20
+ideological and strategic objectives to 
+control Ukraine and also as a threat from 
+the West. Putin repeated the last claim 
+in his speeches on February 21 and 24, 
+2022. In these speeches, he highlighted 
+the importance of Ukraine’s geographical 
+position and the threat from the West. 
+Russia attacked Ukraine because the 
+Kremlin became a hostage to its radicalized 
+narratives. The West refused to recognize 
+Russia’s insistence on controlling Ukraine’s 
+foreign policy choices or Russian tradition 
+of using force over instruments of power. 
+Ukraine became an object of contention in 
+Russian-Western relations. Russia wanted 
+Ukraine, but Ukraine refused. On the other 
+hand, Ukraine wanted the West, but the 
+West refused to accept it fully and quickly.66
+Conclusions and 
+Recommendations
+Strategic culture theory provides an 
+alternative view of the state’s rationality to 
+that provided by more mainstream theories 
+of international relations. This is observed 
+clearly when non-Western countries are 
+analyzed because they have a different view 
+of rationality from that prevalent in the West. 
+Western analysts often mistakenly label this 
+view irrational, though it is simply based on 
+an alternative view of costs and benefits. 
+Russia is an especially good example of 
+such “irrationality.” Its elites openly proclaim 
+unique ways of thinking and behavior in 
+international relations. 
+Before the aggression against Ukraine, Putin 
+and his regime accused the West many 
+times of “unfair” actions. They also gave 
+direct signals that Ukrainian independence 
+was a mistake and its pro-Western direction 
+was unacceptable. Knowing that neither 
+Ukraine nor the West harbored aggressive 
+intentions toward Russia, Ukrainian and 
+Western leaders discounted these warnings 
+and failed to understand that Russia 
+perceived threats differently than they did.
+The Kremlin sees Ukraine 
+as a Western project, 
+denying it agency, which 
+is consistent with the 
+Russian view that agency is 
+reserved for great powers. 
+Putting together the three elements of 
+Russian strategic culture leads to the 
+conclusion that Russia’s desire to be a great 
+power is threatened by the West, so Russia 
+believes it needs strong armed forces to 
+protect itself. The Russian Empire and the 
+Soviet Union came to the same conclusion. 
+In this case, Russian strategic culture has 
+not evolved and changed—it has remained 
+consistent for centuries. The short period 
+when Russia wanted to be democratic and 
+cooperate with the West ended in autocracy 
+and confrontation. Russian strategic culture 
+leads the Kremlin to prefer military force to 
+resolve disputes and thus make war more 
+likely. Additionally, Ukraine was not chosen 
+accidentally. Russia and Ukraine have had 
+enormous conflicts in their history. Ukraine is 
+key to Russia’s imperial pretensions. Without 
+Ukraine, Russia is a regional major power 
+but not a global one. 
+Ukrainian independence threatens Russia’s 
+pretensions of regional dominance and great 
+power status. The Kremlin sees Ukraine 
+as a Western project, denying it agency, 
+which is consistent with the Russian view 
+that agency is reserved for great powers. 
+Russian leaders have tried all instruments of 
+power to keep Ukraine under their control. 
+When these failed, the Kremlin chose to 
+
+RUSSIAN STRATEGIC CULTURE AND THE WAR IN UKRAINE
+21
+occupy the country by attempting a quick 
+and successful military intervention. This 
+shows that states with different beliefs act 
+differently. None of Russia’s disputes with 
+Ukraine in 2022 were so intractable that 
+negotiation stood no chance of resolving 
+them. Instead, Russia chose the brutal path 
+of an invasion.
+An examination of the Russia-Ukraine 
+dispute supports the claim that strategic 
+culture theory provides unique explanations 
+and is an important addition to the study of 
+international relations. Although developed 
+during the Cold War to understand the 
+Soviet Union, the theory is still valid today. 
+There is a solid argument that its utility has 
+increased since the end of the Cold War. 
+Autocratic regimes 
+have created their own 
+identities, and their elites 
+have different biases and 
+experiences. The Western 
+desire to create bubbles of 
+democracy by integrating 
+these autocratic regimes 
+using trade was not 
+successful.
+Autocratic regimes have created their own 
+identities, and their elites have different 
+biases and experiences. The Western 
+desire to create bubbles of democracy by 
+integrating these autocratic regimes using 
+trade was not successful. Such actions did 
+not prevent the Russian-Ukrainian war—the 
+biggest war in Europe since the end of World 
+War II. To avoid making the same mistakes 
+in the future, the strategic culture concept 
+should be better integrated into the study of 
+international relations and national security 
+affairs. Western policymakers and scholars 
+should also conduct a more comprehensive 
+analysis of Russia, China, Iran, and North 
+Korea using the theory. This analysis will 
+show where their beliefs and preferences 
+differ from those prevalent in the West and 
+will impart rationality to decisions it would 
+otherwise be tempted to label irrational. 
+The strategic culture concept is useful 
+for the analysis of not only adversaries, 
+but also friendly states and nations. The 
+Russian-Ukrainian war showed that only a 
+few people in the West understood who 
+Ukrainians were. The war awakened many 
+in the West to the idea that Ukraine wants 
+to be independent country and does not 
+belong to Russia’s spheres of influence 
+and most Ukrainians did not share the 
+same beliefs with Russians. In this case, 
+the strategic culture concept can help to 
+understand what Ukrainian elites believe, 
+how they perceive the threat, and what 
+society thinks. 
+Future research should also focus on a 
+more comprehensive analysis of Russia. 
+This report has only briefly touched on the 
+issues of different sub-cultures and society, 
+but these areas provide fruitful ground for 
+more extensive research. This paper has 
+focused on Putin’s speeches and addresses 
+because he is seen as representing the 
+system. However, there are other politicians, 
+siloviki, and scientists who can influence 
+the decisions. To understand how big or 
+small their influence is, it is important to 
+analyze their words and actions as well. 
+After knowing this, the West and Ukraine can 
+develop strategies for the future. 
+After two years of this war, it is difficult 
+to predict how long it could last. Ukraine 
+must develop a new national strategy for a 
+prolonged war. One of the key backbones 
+of such a strategy is a proper understanding 
+of what Russia is. Why does Russia act in 
+such a way? What will it do? Surely, Putin’s 
+Russia will not give up on this war as it has 
+begun a new stage in its history. If Russia 
+
+FOREIGN POLICY RESEARCH INSTITUTE
+22
+gave up on Ukraine, it would mean the end of 
+this new Russia. Putin has created controlled 
+chaos in Russia and mobilized resources for 
+the new Patriotic War. So, Ukrainians must be 
+ready for a long confrontation. They should 
+remember that NATO and the European 
+Union are not the final objectives. They are 
+instruments of how Ukraine could become 
+prosperous and democratic. Ukraine should 
+also rely on itself.
+While Ukrainians have two choices—continue 
+fighting and stay independent or give up and 
+lose statehood for decades—the Western 
+world is in a different situation. Western 
+leaders and society understood on February 
+24, 2022, that Russia started an unlawful war 
+that could be transmitted on their territories. 
+Putin once said, “Russia’s borders do not end 
+anywhere.”67 This is a typical imperial mindset 
+and should be evidence that it is impossible 
+to stop invaders by allowing them to take 
+what they want. History shows the mistakes 
+of such thinking. The United States and 
+Europe should continue to support Ukraine 
+using all available instruments of power and 
+resources. Russia will not stop with Ukraine 
+if it wins. Modern Russia is a continuation of 
+the Soviet Union and the Russian Empire. 
+The Western world has managed to deal with 
+both of them. 
+The West should also help Ukraine build a 
+democratic and prosperous state. It was a 
+mistake for the West to fail to pay enough 
+attention to Ukraine and to consider it as a 
+part of Russia’s sphere of influence. This is 
+more evidence of how the strategic culture 
+concept could be useful for understanding 
+other states. Ukraine should be integrated 
+into the European Union and NATO. Ukraine 
+showed that it is a democratic state, and its 
+place is in the European world. This would 
+be the best way to prevent future wars in 
+Europe and build a peaceful system. The 
+United States and Europe should continue 
+to learn about Russia and not be naïve about 
+its nature. Russia’s leaders and its population 
+believe in the use of force and recognize 
+negotiations as a sign of weakness.
+If Russia chooses the role 
+of an outcast, the West 
+should be ready to deter it 
+and adopt a new strategic 
+concept for undermining 
+Russia’s capabilities.
+Russia follows the Soviet Union’s methods 
+in international relations. On the other 
+hand, NATO was created in 1949 to deal 
+with the Soviet Union’s possible aggression 
+and defend allies if necessary. In this case, 
+Western countries should remember why this 
+organization was created many years ago. 
+The positive aspect is that Russia is weaker 
+than the Soviet Union and the Warsaw Pact. 
+The states that help Ukraine have a GDP 
+twenty-five times larger than Russia and its 
+allies. The Western world should fully reject 
+the strategy of cooperation with Russia 
+and focus on the strategy of containment. 
+A similar circumstance was in 1947 when 
+Kennan wrote his long telegram explaining 
+Russian behavior. 
+The possible defeat of Russia will not 
+resemble the defeat of Nazi Germany: The 
+Allies’ troops will not cross Russian borders. 
+This means that even if Russia is defeated, 
+it will remain dangerous. Russian strategic 
+culture will not change and future Russian 
+leaders will utilize the defeat as a justification 
+for possible confrontation. If Russia chooses 
+the role of an outcast in international 
+relations, the West should be ready to deter 
+it and adopt a new strategic concept for 
+undermining Russia’s capabilities. The United 
+States and other Western powers should 
+always be ready and not be as naive as they 
+were for a long time after the dissolution of 
+the Soviet Union. 
+
+RUSSIAN STRATEGIC CULTURE AND THE WAR IN UKRAINE
+23
+1 Rand Corporation. (2022) Russia’s War in Ukraine: 
+Insights from RAND. [Online] Available from: https://
+www.rand.org/latest/russia-ukraine.html [Accessed: 9th 
+November 2022]. 
+2 Mearsheimer, J.J (2014) Why the Ukraine Crisis Is the 
+West’s Fault: The Liberal Delusions That Provoked Putin 
+Foreign Affairs. 93 (5), pp. 77–89.
+3 Mearsheimer, J.J. (2001) The Tragedy of Great Power 
+Politics. New Y ork, Norton.
+4 Ibid., p. 21.
+5 Radio Free Europe/Radio Liberty. (2022) NATO Says 
+It Won’t Send Troops To Ukraine If Russia Invades. 
+[Online] Available from: https://www.rferl.org/a/ukraine-
+nato-troops-russia-invasion/31678264.html [Accessed: 
+5th August 2023].
+6 EEAS. (2021) Russia: Speech by High Representative/
+Vice-President Josep Borrell at the EP Debate on 
+His Visit to Moscow. [Online] Available from: https://
+www.eeas.europa.eu/eeas/russia-speech-high-
+representativevice-president-josep-borrell-ep-debate-
+his-visit-moscow_en [Accessed: 12th September 2023].
+7 Dumitru M., Stiftung Wissenschaft und Politik (SWP). 
+(2022) Failing to Deter Russia’s War Against Ukraine: 
+The Role of Misperceptions. [Online] Available from: 
+https://www.swp-berlin.org/publications/products/
+comments/2022C33_WarUkraine_Misperceptions.pdf 
+[Accessed 23rd November 2023].
+8 Johnston, A.I. (1995) Thinking about Strategic Culture. 
+International Security. 19 (4), pp. 32–64. 
+9 Anand, V. (2020) Revisiting the Discourse on Strategic 
+Culture: An Assessment of the Conceptual Debates. 
+Strategic Analysis. 44 (3), pp. 193–207.
+10 Ibid., pp. 2–3.
+11 Bayliss J., Wirtz, J.J. (2019) Introduction. In: Strategy in 
+the Contemporary World. Baylis J., Wirtz, J.J. and Gray, 
+C.S. 6th Ed. Oxford: Oxford University Press, pp. 1–18. 
+12 Jefrey, L., Howlett, D. (2019) Strategic Culture. In: 
+Strategy in the Contemporary World. Baylis J., Wirtz, J.J. 
+and Gray, C.S. 6th Ed. Oxford: Oxford University Press, 
+pp. 89–107.
+13 Götz E. and Staun J. (2022) Why Russia Attacked 
+Ukraine: Strategic Culture and Radicalized Narratives. 
+Contemporary Security Policy. 43 (3), pp. 482–497. 
+14 Wiltenburg. I. (2020) The Importance of 
+Understanding Russian Strategic Culture. Atlantisch 
+Perspectief 44 (1), Special Edition: Putin’s Russia, pp. 
+7-12.
+15 Götz E. and Staun J. (2022) Why Russia Attacked 
+Ukraine: Strategic Culture and Radicalized Narratives. 
+Contemporary Security Policy. 43 (3), pp. 482–497.
+16 NATO Defence College. (2020) Russia’s Emerging 
+Global Ambitions. Report.Research Division, p. 50.
+17 Rumer, E., Sokolsky, R. Carnegie Endowment for 
+International Peace. (2020) Etched in Stone: Russian 
+Strategic Culture and the Future of Transatlantic 
+Security. Report. Washington, DC, p. 36.
+18 Rumer, E., Sokolsky, R. Carnegie Endowment for 
+International Peace. (2020) Etched in Stone: Russian 
+Strategic Culture and the Future of Transatlantic 
+Security. Report. Washington, DC, p.36.
+19 Committee on International Affairs of the State Duma 
+of the Federal Assembly of the Russian Federation. 
+(2016) Foreign Policy Concept of the Russian Federation 
+(Approved by President of the Russian Federation 
+Vladimir Putin on November 30, 2016). [Online] 
+Available from: https://interkomitet.com/foreign-policy/
+basic-documents/foreign-policy-concept-of-the-russian-
+federation-approved-by-president-of-the-russian-
+federation-vladimir-putin-on-november-30-2016/ 
+[Accessed 10th October 2023].
+20 Russian Military and Security Research Group. 
+(2021) Strategy of the National Security of the Russian 
+Federation (Approved by Decree of the President of the 
+Russian Federation on July 2, 2021). [Online] Available 
+from: https://rusmilsec.files.wordpress.com/2021/08/
+nss_rf_2021_eng_.pdf [Accessed: 10th October 2023].
+21 The Ministry of Foreign Affairs of the Russian 
+Federation. (2023) The Concept of the Foreign Policy 
+of the Russian Federation Approved by Decree of the 
+President of the Russian Federation on March 31, 2023). 
+[Online] Available from: https://mid.ru/en/foreign_policy/
+fundamental_documents/1860586/ [Accessed: 10th 
+October 2023].
+22 The Ministry of Foreign Affairs of the Russian 
+Federation. (2021) Treaty between The United States 
+of America and the Russian Federation on Security 
+Guarantees. [Online] Available from: https://mid.ru/ru/
+foreign_policy/rso/nato/1790818/?lang=en [Accessed: 
+10th October 2023].
+23 The Ministry of Foreign Affairs of the Russian 
+Federation. (2021)Agreement on Measures to Ensure 
+the Security of The Russian Federation and Member 
+States of the North Atlantic Treaty Organization. [Online] 
+Available from: https://mid.ru/ru/foreign_policy/rso/
+nato/1790803/?lang=en. [Accessed 10th October 2023].
+24 Götz E. and Staun J. (2022) Why Russia Attacked 
+Ukraine: Strategic Culture and Radicalized Narratives. 
+Contemporary Security Policy. 43 (3), pp. 482–497.
+25 Ibid., p. 484.
+26 Ibid., p. 485.
+27 Götz E. and Staun J. (2022) Why Russia Attacked 
+Ukraine: Strategic Culture and Radicalized Narratives. 
+Contemporary Security Policy. 43 (3), pp. 482–497.
+28 Kennan, G.F. (1947) The Sources of Soviet Conduct. 
+Foreign Affairs 25 (4), pp. 566–582.
+29 Ibid. 
+
+FOREIGN POLICY RESEARCH INSTITUTE
+24
+30 Brzezinski, Z. (1994) The Premature Partnership. 
+Foreign Affairs 73 (2), pp. 67–82.
+31 Götz, E. (2019) Explaining Russia’s Opposition to 
+NATO Enlargement: Strategic Imperatives, Ideas, or 
+Domestic Politics? In. Open Door: NATO and Euro-
+Atlantic Security after the Cold War Hamilton, D.S, Spohr, 
+K. (eds.) Washington DC: Johns Hopkins University 
+Press, pp. 481–500. 
+32 Rumer, E., Sokolsky, R. Carnegie Endowment for 
+International Peace. (2020) Etched in Stone: Russian 
+Strategic Culture and the Future of Transatlantic 
+Security. Report. Washington, DC, p. 36.
+33 Zarobny S. and Sałek-Imińska A. (2021) Conditions 
+of the Russian Federation’s Strategic Culture and Its 
+Impact on Russia’s Foreign Policy. Security Dimensions: 
+International & National Studies 35 (35), pp. 65–80.
+34 Deutsche Welle. Talking Tough. [Online] Available 
+from: https://www.dw.com/en/russia-talks-tough-in-
+response-to-natos-eastward-expansion/a-3261078 
+[Accessed: 7th April 2024].
+35 Interfax. Poll Shows Russians See NATO Membership 
+for Ukraine, Georgia as Threat. [Online] Available from: 
+https://www.interfax.ru/russia/7061 [Accessed: 7th April 
+2024].
+36 France 24. Putin accuses US of sparking election 
+protests. [Online] Available from: https://www.france24.
+com/en/20111208-vladimir-putin-blames-usa-election-
+protests-hillary-clinton-fraud-russia [Accessed: 7th April 
+2024].
+37 Tsygankov, A.P. (2018) The Sources of Russia’s Fear 
+of NATO. Communist and Post-Communist Studies 51 
+(2), pp. 101–111.
+38 Russian Strategic Initiative. (2022) The Military 
+Doctrine of the Russian Federation (Approved by the 
+President of the Russian Federation on December 25, 
+2014). [Online] Available from: https://oe.tradoc.army.
+mil/wp-content/uploads/2022/06/RSI-Russian-Military-
+Doctrine-Primer-Final-single-page-04282022.pdf 
+[Accessed: 10th October 2023]. 
+39 IEEE.ES (2016) Strategy of the National Security of 
+the Russian Federation (Approved by Decree of the 
+President of the Russian Federation on December 31, 
+2015). [Online] Available from: https://www.ieee.es/
+Galerias/fichero/OtrasPublicaciones/Internacional/2016/
+Russian-National-Security-Strategy-31Dec2015.pdf 
+[Accessed: 10th October 2023].
+40 Committee on International Affairs of the State Duma 
+of the Federal Assembly of the Russian Federation. 
+(2016) Foreign Policy Concept of the Russian Federation 
+(Approved by President of the Russian Federation 
+Vladimir Putin on November 30, 2016). [Online] 
+Available from: https://interkomitet.com/foreign-policy/
+basic-documents/foreign-policy-concept-of-the-russian-
+federation-approved-by-president-of-the-russian-
+federation-vladimir-putin-on-november-30-2016/ 
+[Accessed 10th October 2023].
+41 Russian Military and Security Research Group. 
+(2021) Strategy of the National Security of the Russian 
+Federation (Approved by Decree of the President of the 
+Russian Federation on July 2, 2021). [Online] Available 
+from: https://rusmilsec.files.wordpress.com/2021/08/
+nss_rf_2021_eng_.pdf [Accessed: 10th October 2023].
+42 President of Russia (2022) Address by the President 
+of the Russian Federation. [Online] Available from: http://
+en.kremlin.ru/events/president/news/67828 [Accessed: 
+10th October 2023]. 
+43 Antczak, A. (2018) Russia’s Strategic Culture: 
+Prisoner of Imperial History? Athenaeum Polskie Studia 
+Politologiczne 60 (4), pp. 223–242.
+44 Wiltenburg. I. (2020) The Importance of 
+Understanding Russian Strategic Culture. Atlantisch 
+Perspectief 44 (1), Special Edition: Putin’s Russia, pp. 
+7–12.
+45 Kerrane, E. (2022) Moscow’s Strategic Culture: 
+Russian Militarism in an Era of Great Power Competition. 
+Journal of Advanced Military Studies 2022 no. special, 
+pp. 69–87. 
+46 TASS. Putin Agrees with Emperor That Russia’s 
+Only Allies Are Army and Navy. [Online] Available from: 
+https://tass.com/russia/789866?utm_source=google.
+com&utm_medium=organic&utm_campaign=google.
+com&utm_referrer=google.com. [Accessed: 31th 
+October 2023].
+47 Antczak, A. (2018) Russia’s Strategic Culture: 
+Prisoner of Imperial History? Athenaeum Polskie Studia 
+Politologiczne 60 (4), pp. 223–242.
+48 Kerrane, E. (2022) Moscow’s Strategic Culture: 
+Russian Militarism in an Era of Great Power Competition. 
+Journal of Advanced Military Studies 2022 no. special, 
+pp. 69–87.
+49 Arms Control Association (2000) Russia’s National 
+Security Concept (Approved by the President of the 
+Russian Federation on January 10, 2000). [Online] 
+Available from: https://www.armscontrol.org/act/2000-
+01/features/russias-national-security-concept [Accessed: 
+15th January 2024].
+50 Arms Control Association (2000) Russia’s Military 
+Doctrine (Signed by the President of the Russian 
+Federation on April 21, 2000). [Online] Available from: 
+https://www.armscontrol.org/act/2000-01/features/
+russias-national-security-concept [Accessed: 15th 
+January 2024].
+51 Kerrane, E. (2022) Moscow’s Strategic Culture: 
+Russian Militarism in an Era of Great Power Competition. 
+Journal of Advanced Military Studies 2022 no. special, 
+pp. 69–87.
+52 President of Russia. (2007) Speech and the Following 
+Discussion at the Munich Conference on Security Policy. 
+[Online] Available from: http://en.kremlin.ru/events/
+
+RUSSIAN STRATEGIC CULTURE AND THE WAR IN UKRAINE
+25
+president/transcripts/copy/24034 [Accessed:  
+2nd November 2023].
+53 Studzińska, Z. (2015) How Russia, Step by Step, 
+Wants to Regain an Imperial Role in the Global and 
+European Security System. Connections 14 (4), pp. 
+21–42.
+54 Kerrane, E. (2022) Moscow’s Strategic Culture: 
+Russian Militarism in an Era of Great Power Competition. 
+Journal of Advanced Military Studies 2022 no. special, 
+pp. 69–87.
+55 Götz E. and Staun J. (2022) Why Russia Attacked 
+Ukraine: Strategic Culture and Radicalized Narratives. 
+Contemporary Security Policy. 43 (3), pp. 482–497.
+56 Brzezinski, Z. (1994) The Premature Partnership. 
+Foreign Affairs 73 (2), pp. 67–82.
+57 President of Russia. (2021) Article by Vladimir Putin 
+“On the Historical Unity of Russians and Ukrainians” 
+[Online] Available from: http://en.kremlin.ru/events/
+president/news/66181 [Accessed: 21th December 2023].
+58 Kuzio, T., D’Anieri, P., (red.) (2018) The Sources 
+of Russia’s Great Power Politics. Ukraine and the 
+Challenge to
+the European Order. Bristol: E-International Relations.
+59 Ibid.
+60 Kuzio, T., D’Anieri, P., (red.) (2018) The Sources 
+of Russia’s Great Power Politics. Ukraine and the 
+Challenge to
+the European Order. Bristol: E-International Relations.
+61 Studzińska, Z. (2015) How Russia, Step by Step, Wants 
+to Regain an Imperial Role in the Global and European 
+Security System. Connections 14 (4), pp. 21–42.
+62 German, T. (2020) Harnessing Protest Potential: 
+Russian Strategic Culture and the Colored Revolutions. 
+Contemporary Security Policy 41 (4), pp. 541–563.
+63 Wilson Center. (2008) Dissatisfaction and 
+Disillusionment in Ukraine: Findings from the 2008 
+IFES Public Opinion Survey. |[Online] Available from: 
+https://www.wilsoncenter.org/event/dissatisfaction-and-
+disillusionment-ukraine-findings-the-2008-ifes-public-
+opinion-survey [Accessed: 4th January 2024].
+64 BBC News. (2014) Putin: Russia Helped Yanukovych 
+to Flee Ukraine. [Online] Available from: https://www.
+bbc.com/news/world-europe-29761799 [Accessed: 4th 
+January 2024].
+65 Radio Free Europe/Radio Liberty. (2021). OSCE 
+Representative: Troop Withdrawal In Eastern Ukraine 
+A ‘Big Step Forward. [Online] Available from: https://
+www.rferl.org/a/ukrainian-foreign-minister-says-kyiv-
+starts-troops-withdrawal-from-zolote/30242188.html 
+[Accessed: 21st December 2023].
+66 Kuzio, T., D’Anieri, P., (red.) (2018) The Sources 
+of Russia’s Great Power Politics. Ukraine and the 
+Challenge to the European Order. Bristol: E-International 
+Relations.
+67 Independent. Vladimir Putin says Russia’s borders 
+‘do not end anywhere’. [Online] Available from: https://
+www.independent.co.uk/news/world/europe/putin-
+russia-border-do-not-end-anywhere-comments-quote-
+eu-us-tensions-a7438686.html [Accessed: 9th April 
+2024].
+
+The Bear Market Brief is a project of the Foreign Policy Research Institute’s (FPRI) Eurasia 
+Program that brings you news about Russia’s economy, politics, business, and political risk 
+environment. 
+We’re a team dedicated to making Russia and Eurasia more accessible.
+Bear Market Brief features a weekly newsletter and a monthly podcast that strives to be a 
+resource for specialists, generalists, and anyone with an interest in the Post-Soviet space. We 
+provide a platform for analysis, particularly for emerging area experts and academics, and a 
+space for even-handed, fact-based conversations in hopes of improving Russia/Eurasia analysis 
+and coverage. 
+We’re here to keep you ahead of the curve and spot what most in the English-language media 
+aren’t talking about.
+Follow along on X @bearmarketbrief and @FPRI
+You Might Be Interested In....
+Now on 
+Subscribe on bearmarketbrief.substack.com or the Substack ioS app
+
+The Foreign Policy Research Institute (FPRI) is 
+a nonpartisan Philadelphia-based think tank 
+dedicated to strengthening US national security 
+and improving American foreign policy.
+Established in 1955 by the noted 20th 
+century geopolitical strategist, Ambassador 
+Robert Strausz-Hupé, FPRI was founded on 
+the premise that an informed and educated 
+citizenry is essential for the United States 
+to understand complex international issues 
+and formulate foreign policy. FPRI remains 
+committed to this principle and strives to 
+inform both policymakers and the general 
+public through FPRI research and educational 
+programs.
+FPRI is a nonpartisan 501(c)(3) non-profit 
+organization and takes no institutional positions 
+on issues andt conducts no advocacy. The 
+organization has six main research programs, 
+covering US National Security, the Middle East, 
+Eurasia, Europe, Asia, and Africa. Each program 
+produces reports, articles, public events, 
+and private briefings for policymakers, FPRI 
+members, and the general public.
+© 2024  by the Foreign Policy Research Institute
+FPRI Editorial Team 
+Eurasia Program Director 
+Maia Otarashvili
+Eurasia Head of Research
+Robert E. Hamilton 
+Editing
+Ashley Greenman
+Sarahelena Marrapodi 
+Layout and Design
+Natalia Kopytnik
+Cover 
+Natalia Kopytnik
+Images: Sofiia Gatilova/Reuters, Office 
+of the President of Ukraine, Sputnik/
+Valery Sharifalin/Reuters, Alexander 
+Vilf/Reuters, Petro Zadorozhnyy/State 
+Border Guard Service of Ukraine 
+
+
+FOREIGN POLICY RESEARCH INSTITUTE 

@@ -1,0 +1,12 @@
+# Chinese PLA — Group Army / Fleet / Base: PLA Cyberspace Force (网络空间部队)
+
+**Unit ID**: pla_csf
+**Service**: PLASSF
+**Type**: air_force_base
+**Headquarters**: Beijing
+**Parent**: Central Theater Command (中部战区) (ctc)
+**Strength (% authorized)**: 100%
+**Notes**: Established April 19, 2024 from PLASSF Network Systems Department. Handles offensive/defensive cyber operations. Deputy Theater Command Leader grade; directly under CMC. [Air University CASI 2024-04-22]
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]

@@ -1,0 +1,21 @@
+# Chinese PLA — Group Army / Fleet / Base: 74th Group Army (第七十四集团军)
+
+**Unit ID**: 74ga
+**Service**: PLAA
+**Type**: group_army
+**Headquarters**: Huizhou
+**Parent**: Southern Theater Command (南部战区) (stc)
+**Strength (% authorized)**: 100%
+**Notes**: Formerly 42nd Group Army (Guangzhou MR); redesignated Apr 2017. Contains 2 amphibious brigades with ZTD-05/ZBD-05 systems; probable secondary amphibious force supporting ETC Taiwan ops. [DOD CMPR 2024 p.97] [Wikipedia 74th GA]
+
+## Subordinate Brigade / Division / Flotillas
+- **1st Amphibious Combined Arms Brigade** (elite) (74ga_1amphibcab) — type: amphibious, HQ: Huizhou area, strength: 100%. ZTD-05 amphibious assault guns, ZBD-05 IFV. First-tier amphibious unit. [Wikipedia 74th GA]
+- **125th Amphibious Combined Arms Brigade** (elite) (74ga_125amphibcab) — type: amphibious, HQ: Huizhou area, strength: 100%. ZTD-05/ZBD-05 systems. First-tier amphibious unit. [Wikipedia 74th GA]
+- **16th Heavy Combined Arms Brigade** (74ga_16cab) — type: heavy_combined_arms_bde, HQ: Huizhou area, strength: 100%. ZTZ-96 MBTs, ZBD-86A IFVs. [Wikipedia 74th GA]
+- **154th Medium Combined Arms Brigade** (74ga_154cab) — type: medium_cab, HQ: Huizhou area, strength: 100%. ZTL-11, ZBL-08 wheeled. [Wikipedia 74th GA]
+
+## Authorized Equipment (estimated)
+- **apc** — ZBD-05, ZTD-05 — authorized: 200, estimated lost: 0
+
+
+**Tags**: [OOB-CN] [STRUCTURED] [LEVEL:GA] [SOURCE: Inquisitor curated PLA OOB v2026-05-09 | DOD CMPR 2024, Project 2049 PLARF, CSIS ChinaPower, ASPI, USCC Annual Reports]
